@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28308554760912,13.3396259635809],[77.26913577252246,13.33078162684986],[77.28406546743635,13.31931862307766],[77.28308554760912,13.3396259635809]]]},"properties":{"region_id":"village_611420","name":"SEETHAKAL","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

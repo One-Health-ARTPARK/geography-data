@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62751058171295,13.45124391200718],[77.61205182721625,13.44449433038661],[77.61070672071972,13.4241991476437],[77.62834902675671,13.44440290125391],[77.62751058171295,13.45124391200718]]]},"properties":{"region_id":"village_623600","name":"BALAKUNTAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

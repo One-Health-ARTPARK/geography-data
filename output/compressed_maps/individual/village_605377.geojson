@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83336210378675,14.35899028791996],[76.84674265312628,14.39816445834157],[76.8229745220736,14.39274868699719],[76.81165117714905,14.36031497552301],[76.83336210378675,14.35899028791996]]]},"properties":{"region_id":"village_605377","name":"NAGAGONDANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

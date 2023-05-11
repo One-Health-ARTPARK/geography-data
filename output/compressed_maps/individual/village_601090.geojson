@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63764136558956,15.83805530365582],[76.61931946078717,15.82446289765891],[76.64592048321053,15.81540226779786],[76.63764136558956,15.83805530365582]]]},"properties":{"region_id":"village_601090","name":"NEDIGOL","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

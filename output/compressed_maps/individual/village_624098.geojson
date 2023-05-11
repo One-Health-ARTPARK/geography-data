@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88564669764398,13.52962316562729],[77.8752936907935,13.52975449106918],[77.87594389622984,13.52113752389987],[77.88340001207419,13.51738773829377],[77.88564669764398,13.52962316562729]]]},"properties":{"region_id":"village_624098","name":"KACHINAYAKANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

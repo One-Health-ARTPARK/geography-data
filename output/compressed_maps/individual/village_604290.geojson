@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31455376240942,14.66612371986464],[75.2910803502515,14.66283128893935],[75.29301788616354,14.62981602960067],[75.315853689343,14.64906638569118],[75.31455376240942,14.66612371986464]]]},"properties":{"region_id":"village_604290","name":"CHIKKABASUR","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

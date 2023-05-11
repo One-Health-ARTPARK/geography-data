@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91809171545606,13.86669640992663],[77.8904011803234,13.84262059281556],[77.91793002054635,13.83253148040897],[77.91809171545606,13.86669640992663]]]},"properties":{"region_id":"village_623827","name":"THIMMAMPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69984990711646,12.87864224399403],[77.68771376373206,12.8681477860574],[77.70668289184623,12.86400491181715],[77.69984990711646,12.87864224399403]]]},"properties":{"region_id":"village_613187","name":"GATTAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

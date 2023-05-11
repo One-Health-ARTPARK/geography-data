@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67105346804742,15.39807083883995],[75.6761773737642,15.37682511456069],[75.68833843854526,15.37690013536105],[75.68805809313376,15.39893300448473],[75.67105346804742,15.39807083883995]]]},"properties":{"region_id":"village_602015","name":"SAMBHAPUR","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

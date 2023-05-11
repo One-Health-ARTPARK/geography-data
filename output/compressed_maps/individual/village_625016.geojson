@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59949820331535,13.40538435474216],[77.60706364014918,13.42401594706362],[77.57563858070996,13.42074803689224],[77.59949820331535,13.40538435474216]]]},"properties":{"region_id":"village_625016","name":"KALLUKOTE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59276097855289,17.95844575700979],[77.57328007074817,17.96393005553985],[77.57274016753223,17.94488919961782],[77.58874531245635,17.94439593659744],[77.59276097855289,17.95844575700979]]]},"properties":{"region_id":"village_600167","name":"NANDAGAON","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

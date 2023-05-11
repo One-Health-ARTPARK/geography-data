@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00013898893093,15.33966113639215],[74.98931299485498,15.34789834254552],[74.9813531005506,15.33934589131971],[74.99068718609507,15.32820441243237],[75.00013898893093,15.33966113639215]]]},"properties":{"region_id":"village_602438","name":"G. BASAVANKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

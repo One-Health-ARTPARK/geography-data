@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80012324214023,12.945134029292],[77.78735798467947,12.94599306028175],[77.77696469054978,12.9320998535087],[77.7924779589709,12.93153960702926],[77.80012324214023,12.945134029292]]]},"properties":{"region_id":"village_625738","name":"MUTHASANDRA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

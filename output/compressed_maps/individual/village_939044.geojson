@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91152110320944,12.68899307904658],[75.9065948771741,12.68517914989654],[75.9101268192336,12.67837736034048],[75.91391665383071,12.67984010680031],[75.91152110320944,12.68899307904658]]]},"properties":{"region_id":"village_939044","name":"KARGODU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

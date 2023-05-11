@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99420022303276,12.59049345778231],[75.98561159271821,12.60538319608771],[75.97296800381663,12.58797475564745],[75.99420022303276,12.59049345778231]]]},"properties":{"region_id":"village_616713","name":"KADANOOR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

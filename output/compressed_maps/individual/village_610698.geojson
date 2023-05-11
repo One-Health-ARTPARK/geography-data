@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2416820009757,13.81093172155053],[77.21781900625737,13.81661856530178],[77.21984294989426,13.79284064690498],[77.2416820009757,13.81093172155053]]]},"properties":{"region_id":"village_610698","name":"NEERAKALLU","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

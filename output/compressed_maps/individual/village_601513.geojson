@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25964911302681,15.73650578995806],[76.2489957042782,15.70409544605711],[76.26990612400937,15.70518316166604],[76.25964911302681,15.73650578995806]]]},"properties":{"region_id":"village_601513","name":"NAGARHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

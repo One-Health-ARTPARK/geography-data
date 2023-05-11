@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08424901506419,14.56147346097534],[75.06900753958205,14.56704234883463],[75.06889200118043,14.55842667029227],[75.08424901506419,14.56147346097534]]]},"properties":{"region_id":"village_607403","name":"HOSAKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

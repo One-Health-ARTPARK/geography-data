@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25843041317782,14.60634284560692],[75.27835879183932,14.62365364262938],[75.24760609312307,14.62935408223763],[75.25843041317782,14.60634284560692]]]},"properties":{"region_id":"village_604306","name":"DUMMIHAL","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

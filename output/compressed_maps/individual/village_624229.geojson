@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92938722038757,13.34860117879504],[77.92972274579533,13.36248573219828],[77.91481317092722,13.36047368629273],[77.91561335672198,13.35238872241842],[77.92938722038757,13.34860117879504]]]},"properties":{"region_id":"village_624229","name":"MALLASETTIPURA","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

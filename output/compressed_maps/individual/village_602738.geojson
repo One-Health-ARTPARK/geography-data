@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.48002537778969,14.98634425023891],[74.4556928173331,15.02965934576901],[74.41704592065734,14.99639424351898],[74.4604143543076,14.94785044856299],[74.48002537778969,14.98634425023891]]]},"properties":{"region_id":"village_602738","name":"BIDOLI","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

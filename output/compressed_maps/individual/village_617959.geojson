@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85566508711851,12.50522498005764],[75.84302523287562,12.5181455702936],[75.81566866320222,12.50969501340642],[75.81796139119326,12.49646775485179],[75.83865247585788,12.49470651100473],[75.85566508711851,12.50522498005764]]]},"properties":{"region_id":"village_617959","name":"GARAGANDUR","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

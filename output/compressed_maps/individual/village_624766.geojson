@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2451807393396,13.15876365968795],[77.23717116316502,13.16076407693103],[77.23164365013355,13.14727997369737],[77.24040919496582,13.14576467513243],[77.2451807393396,13.15876365968795]]]},"properties":{"region_id":"village_624766","name":"HURIYAPPANAPALYA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

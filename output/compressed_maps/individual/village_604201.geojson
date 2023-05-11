@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31111421925127,14.7747798207929],[75.30542403215958,14.79394403563111],[75.28826107320495,14.76052424510689],[75.30698862971005,14.75768294563067],[75.31111421925127,14.7747798207929]]]},"properties":{"region_id":"village_604201","name":"SANGUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

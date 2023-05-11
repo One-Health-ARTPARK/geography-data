@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94593923476334,12.93021007093432],[76.94075670504365,12.94351751409584],[76.92438752277937,12.94393298393195],[76.92714453244852,12.93103439014539],[76.94593923476334,12.93021007093432]]]},"properties":{"region_id":"village_612650","name":"KODAGIHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

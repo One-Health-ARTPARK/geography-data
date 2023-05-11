@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58435121378092,13.18908442262951],[76.56501073871897,13.1899692574689],[76.56589508760656,13.18438228946972],[76.58268158668315,13.1828540660043],[76.58435121378092,13.18908442262951]]]},"properties":{"region_id":"village_612147","name":"CHIGGAVE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

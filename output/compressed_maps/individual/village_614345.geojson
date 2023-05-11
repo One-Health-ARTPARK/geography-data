@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84964296616405,12.70931488279886],[76.8352374696043,12.71655289079157],[76.8272800039642,12.70400975798552],[76.83892975549963,12.69543235057582],[76.84964296616405,12.70931488279886]]]},"properties":{"region_id":"village_614345","name":"TAVAREKERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

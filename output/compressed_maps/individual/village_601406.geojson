@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02691375224738,15.84282821630658],[75.99194358455145,15.84733662405332],[75.99830813478603,15.82984306170198],[76.02691375224738,15.84282821630658]]]},"properties":{"region_id":"village_601406","name":"YERIGERI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

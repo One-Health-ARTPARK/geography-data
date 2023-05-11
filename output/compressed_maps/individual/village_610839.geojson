@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18045210279467,13.65974541809893],[77.18093289429086,13.67066825885902],[77.17329967456935,13.67270693253564],[77.1676497518253,13.66142752212659],[77.18045210279467,13.65974541809893]]]},"properties":{"region_id":"village_610839","name":"GUNDLAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

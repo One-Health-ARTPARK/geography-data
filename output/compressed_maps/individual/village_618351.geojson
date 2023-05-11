@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24774267231497,12.28729776008052],[76.24048661278293,12.27826177508989],[76.24548784393498,12.26667357392635],[76.25727164747585,12.26774280356835],[76.24774267231497,12.28729776008052]]]},"properties":{"region_id":"village_618351","name":"HOSAKOTE","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78523551707553,14.13515434967129],[76.76754793688484,14.14558950032357],[76.75940366407531,14.13083151132131],[76.77442583696106,14.12342296239825],[76.78523551707553,14.13515434967129]]]},"properties":{"region_id":"village_605415","name":"GORLATHU","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

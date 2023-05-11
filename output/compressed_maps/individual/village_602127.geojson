@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65745044309074,15.03204436526201],[75.62659584249496,15.03160111851522],[75.65191793194448,15.01373109831702],[75.65745044309074,15.03204436526201]]]},"properties":{"region_id":"village_602127","name":"BIJJUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

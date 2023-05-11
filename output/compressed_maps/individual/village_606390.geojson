@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30308247741429,14.62951506946525],[76.27921271963653,14.61803538527818],[76.2999380752769,14.59845375771043],[76.31169732967554,14.61508341504725],[76.30308247741429,14.62951506946525]]]},"properties":{"region_id":"village_606390","name":"HOSAKERE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

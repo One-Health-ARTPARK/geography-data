@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30009704788448,15.56098106327514],[76.29689831080454,15.54316437682806],[76.31013850956822,15.53515470939214],[76.31364965151943,15.55887068027563],[76.30009704788448,15.56098106327514]]]},"properties":{"region_id":"village_601793","name":"GANGANHAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

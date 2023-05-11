@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69208817999339,13.38442614772796],[77.67327652923578,13.39257082866632],[77.67246156377757,13.37833780273733],[77.69208817999339,13.38442614772796]]]},"properties":{"region_id":"village_623619","name":"SULTHANPET","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

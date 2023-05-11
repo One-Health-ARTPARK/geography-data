@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30996337835694,18.1583089900287],[77.28806150068925,18.14397075685104],[77.30858153618951,18.12404809813453],[77.30996337835694,18.1583089900287]]]},"properties":{"region_id":"village_600028","name":"HALHALLI","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

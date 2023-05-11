@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69616151992889,16.29531856739355],[75.65370003118286,16.31118751791227],[75.6576698433355,16.25263280012471],[75.67946876217532,16.25491607491722],[75.69616151992889,16.29531856739355]]]},"properties":{"region_id":"village_598533","name":"TOLAMATTI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

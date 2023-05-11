@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63017939506705,12.69182424559993],[76.61429592301906,12.69481411972679],[76.61494391129234,12.67796217207273],[76.63243073698625,12.67899611141697],[76.63017939506705,12.69182424559993]]]},"properties":{"region_id":"village_614049","name":"B.KODAGAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

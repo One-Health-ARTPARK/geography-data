@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69489979147654,13.04424467091656],[77.68505146415508,13.0451094606954],[77.68363015477496,13.03323852667009],[77.69832709389546,13.03494405515151],[77.69489979147654,13.04424467091656]]]},"properties":{"region_id":"village_613079","name":"MARAGONDANAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

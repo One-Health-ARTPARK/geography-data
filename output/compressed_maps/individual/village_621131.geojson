@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86565565137339,16.64968842102113],[76.83686462153314,16.63537563783496],[76.8689709005607,16.59095348193874],[76.88957424600122,16.630896543694],[76.86565565137339,16.64968842102113]]]},"properties":{"region_id":"village_621131","name":"RASTAPUR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

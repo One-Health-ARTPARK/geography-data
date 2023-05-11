@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14089192082828,12.46385497349593],[77.1325205181702,12.46951469946689],[77.12966412913799,12.46082364485858],[77.14089192082828,12.46385497349593]]]},"properties":{"region_id":"village_614717","name":"CHANDUPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

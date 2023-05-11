@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.301975785136,15.30692486561891],[76.32511438300126,15.29623677718651],[76.32516703947508,15.31581580372502],[76.301975785136,15.30692486561891]]]},"properties":{"region_id":"village_601858","name":"HOSAHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

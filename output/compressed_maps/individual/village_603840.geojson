@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60451949164384,14.02995420157094],[74.58996514715764,14.04141487800737],[74.57554650244542,14.0259489496031],[74.58297227801114,14.01513596578884],[74.60451949164384,14.02995420157094]]]},"properties":{"region_id":"village_603840","name":"KITRE","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

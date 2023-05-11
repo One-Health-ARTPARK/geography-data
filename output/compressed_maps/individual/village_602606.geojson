@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.39791730317381,14.87018093223965],[74.37677198826466,14.88636049727097],[74.34628541218694,14.84844451270456],[74.3805179465813,14.83703224576337],[74.39791730317381,14.87018093223965]]]},"properties":{"region_id":"village_602606","name":"KUCHEGAR","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

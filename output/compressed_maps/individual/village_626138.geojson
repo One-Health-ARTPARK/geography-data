@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40694905893778,12.74630914610217],[77.38497534605975,12.75043144116442],[77.38730716492272,12.73298741501237],[77.40439396176207,12.73125255331215],[77.40694905893778,12.74630914610217]]]},"properties":{"region_id":"village_626138","name":"RAMANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

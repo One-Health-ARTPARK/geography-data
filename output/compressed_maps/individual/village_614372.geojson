@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98364275099945,12.59935365774387],[76.9844831563695,12.60919913555057],[76.97496505549911,12.60942556240467],[76.97491542965254,12.59871277011173],[76.98364275099945,12.59935365774387]]]},"properties":{"region_id":"village_614372","name":"MUDDAMGERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

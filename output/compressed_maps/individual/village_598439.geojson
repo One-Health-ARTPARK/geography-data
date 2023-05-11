@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27178581081944,16.50950760174066],[75.25764371290045,16.50602293077516],[75.26212678042859,16.48972596072026],[75.27305254072236,16.4871618977446],[75.27178581081944,16.50950760174066]]]},"properties":{"region_id":"village_598439","name":"RAMATEERTH","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

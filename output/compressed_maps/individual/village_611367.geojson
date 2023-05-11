@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19346623931781,13.41895633225675],[77.19661970354316,13.4245541599405],[77.19922052358486,13.44745075630236],[77.19279478548627,13.44416354747112],[77.18823084572232,13.41923423487491],[77.19346623931781,13.41895633225675]]]},"properties":{"region_id":"village_611367","name":"CHANNAMUDDENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

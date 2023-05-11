@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2157532750421,13.39301459969635],[77.19550746174266,13.40299966070487],[77.18923153671078,13.38862427479178],[77.2157532750421,13.39301459969635]]]},"properties":{"region_id":"village_611371","name":"THIMMANAYAKANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07567406015335,14.27185761124968],[76.06513947384671,14.26490248445303],[76.07021971007822,14.25063303666481],[76.07941927083127,14.24961278884541],[76.07567406015335,14.27185761124968]]]},"properties":{"region_id":"village_606675","name":"HINDASAKATTE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

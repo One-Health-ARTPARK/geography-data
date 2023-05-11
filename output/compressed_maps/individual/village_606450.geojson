@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23414444998558,14.5114239327595],[76.2276135643785,14.52064292115176],[76.21361571584649,14.51155191467298],[76.22875040118168,14.50746803019101],[76.23414444998558,14.5114239327595]]]},"properties":{"region_id":"village_606450","name":"SURADDIHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

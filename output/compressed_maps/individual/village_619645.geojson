@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94389475806325,12.00639214021696],[76.94951730845922,11.98426590682481],[76.98058325155533,11.98284046494194],[76.9827483145369,12.00474470776901],[76.97723358465805,12.03733344244834],[76.94389475806325,12.00639214021696]]]},"properties":{"region_id":"village_619645","name":"MANGALA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

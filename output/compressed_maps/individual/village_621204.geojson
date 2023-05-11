@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04716342615978,16.5648494439483],[77.03257813023438,16.53544712306937],[77.05245985595612,16.52040788824666],[77.06547198241796,16.56107665753925],[77.04716342615978,16.5648494439483]]]},"properties":{"region_id":"village_621204","name":"KONKAL","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

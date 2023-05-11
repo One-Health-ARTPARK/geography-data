@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99923325184002,13.51335329908493],[74.9443772754058,13.51357179941247],[74.96415878471372,13.49686096930056],[74.97182051446183,13.49702305655022],[74.99923325184002,13.51335329908493]]]},"properties":{"region_id":"village_608865","name":"BELENJE","parent":"subdistrict_7065","parent_name":"HEBRI"}}
+]}

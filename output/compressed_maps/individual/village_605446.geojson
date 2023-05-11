@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33130926769677,14.40847543004184],[76.30287759817932,14.40880561747447],[76.30244881658889,14.38959652551488],[76.32665701893704,14.39187800236849],[76.33130926769677,14.40847543004184]]]},"properties":{"region_id":"village_605446","name":"BASTIHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

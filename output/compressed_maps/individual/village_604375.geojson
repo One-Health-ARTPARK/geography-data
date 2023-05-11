@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29294079882686,14.53395213966047],[75.28222125251853,14.5141193460489],[75.28715576129952,14.51139978497552],[75.30448703692221,14.51165167611906],[75.29294079882686,14.53395213966047]]]},"properties":{"region_id":"village_604375","name":"YALLAPUR","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

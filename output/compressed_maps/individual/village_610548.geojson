@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15510202471035,14.20883581588902],[77.13106460492632,14.20485995377631],[77.1342118252011,14.18305329978532],[77.16308176541166,14.18083187355695],[77.15510202471035,14.20883581588902]]]},"properties":{"region_id":"village_610548","name":"MARIDASANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

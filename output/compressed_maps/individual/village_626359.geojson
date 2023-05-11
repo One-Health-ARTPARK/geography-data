@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40037770508634,12.68995349095657],[77.39342841109722,12.67671126481915],[77.39839366429324,12.66013430688511],[77.41048809509385,12.66125434473614],[77.40037770508634,12.68995349095657]]]},"properties":{"region_id":"village_626359","name":"DODDAKALBALU","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

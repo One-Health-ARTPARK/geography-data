@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1167350435346,13.09103638524982],[76.09794384157028,13.09469848096017],[76.0979010079826,13.07395940212123],[76.1167350435346,13.09103638524982]]]},"properties":{"region_id":"village_615897","name":"KADAGA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

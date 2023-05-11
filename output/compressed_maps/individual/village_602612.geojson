@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.15976666331447,14.81534427531455],[74.1667073942204,14.81389836837863],[74.16998381125593,14.81748225486756],[74.16769050607853,14.82207821302607],[74.15976666331447,14.81534427531455]]]},"properties":{"region_id":"village_602612","name":"MAKHERI","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

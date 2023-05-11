@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90085139330772,12.75160170251405],[75.89012031054591,12.73989967680465],[75.89780684101292,12.73456828600734],[75.90388633048754,12.74098668362228],[75.90085139330772,12.75160170251405]]]},"properties":{"region_id":"village_617882","name":"MUDRAVALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

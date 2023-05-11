@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.22305061855795,12.94541991447837],[78.23673531511764,12.93294731098792],[78.23509863885381,12.94938563438271],[78.22305061855795,12.94541991447837]]]},"properties":{"region_id":"village_622670","name":"DODDAVALAGAMADHI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

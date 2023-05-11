@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74178252089281,12.78699005231],[77.73252332007654,12.79020251785793],[77.72770983711814,12.78244659000014],[77.73760361870039,12.77901467088467],[77.74178252089281,12.78699005231]]]},"properties":{"region_id":"village_613267","name":"BALAGARANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45030975811893,14.54823228890525],[75.43760104562506,14.56965889721274],[75.42582720254482,14.55630061363357],[75.45030975811893,14.54823228890525]]]},"properties":{"region_id":"village_604394","name":"CHIKKABUDIHAL","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

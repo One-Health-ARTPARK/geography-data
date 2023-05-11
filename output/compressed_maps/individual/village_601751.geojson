@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15778525298701,15.41226719975531],[76.11990679681765,15.41109867581475],[76.11977844190463,15.38869532481081],[76.15309673637469,15.39133173811103],[76.15778525298701,15.41226719975531]]]},"properties":{"region_id":"village_601751","name":"NAREGAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

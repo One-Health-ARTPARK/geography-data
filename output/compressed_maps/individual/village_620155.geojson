@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52595664322648,17.27735553885297],[76.52500675257798,17.25211114428127],[76.55064658633796,17.25573418506995],[76.54713782447399,17.2822847246486],[76.52595664322648,17.27735553885297]]]},"properties":{"region_id":"village_620155","name":"DANNUR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

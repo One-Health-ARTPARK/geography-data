@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.09283107579382,12.93576488210199],[78.09437634990778,12.93872168369644],[78.09474954678993,12.94839950971187],[78.08185210756459,12.95146268389679],[78.08280158341766,12.93746264585426],[78.09283107579382,12.93576488210199]]]},"properties":{"region_id":"village_622449","name":"ANIMITTNAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

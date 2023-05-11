@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5596102885601,18.12750868714312],[77.5463427669612,18.12636858780026],[77.53534257989105,18.09828928836709],[77.54827240861658,18.09588933591515],[77.5596102885601,18.12750868714312]]]},"properties":{"region_id":"village_600103","name":"MAHARAJWADI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

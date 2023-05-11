@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3947325587857,13.6420496811669],[76.39226748333446,13.65195776829756],[76.38087992210579,13.65355454086824],[76.38310259353732,13.64476900282128],[76.3947325587857,13.6420496811669]]]},"properties":{"region_id":"village_605977","name":"AGRAHARA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

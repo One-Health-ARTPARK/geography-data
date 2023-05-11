@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3057121250837,14.34166727378996],[75.27611349853527,14.34851465973495],[75.27809691499475,14.33105815970472],[75.3057121250837,14.34166727378996]]]},"properties":{"region_id":"village_607744","name":"KUSKURU","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

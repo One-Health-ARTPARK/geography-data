@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99400308111572,13.66294112597524],[76.98235313162198,13.65403542541884],[76.9949140962133,13.65144522542365],[76.99400308111572,13.66294112597524]]]},"properties":{"region_id":"village_610472","name":"KALAPURA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

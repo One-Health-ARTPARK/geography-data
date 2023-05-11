@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07445402914578,13.01502117123124],[77.06610688506574,13.01246846468429],[77.07207273298474,13.00571039456567],[77.07445402914578,13.01502117123124]]]},"properties":{"region_id":"village_612539","name":"SOMEDEVARAPALYA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

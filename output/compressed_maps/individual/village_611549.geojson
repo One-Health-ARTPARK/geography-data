@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05275761766809,13.28433224412516],[77.03193770838523,13.28548164787325],[77.03319209292725,13.27847205577148],[77.05275761766809,13.28433224412516]]]},"properties":{"region_id":"village_611549","name":"HOSAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34112371205735,16.09321215560874],[77.3233379981716,16.09380545143658],[77.3182241943264,16.07792384112172],[77.33213145152467,16.0729850248123],[77.34112371205735,16.09321215560874]]]},"properties":{"region_id":"village_600846","name":"NAGLAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

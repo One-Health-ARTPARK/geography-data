@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64608655041098,14.18194996257605],[75.61865955799951,14.18128696932389],[75.60173955188459,14.16274930088406],[75.6480728517618,14.15855853015546],[75.64608655041098,14.18194996257605]]]},"properties":{"region_id":"village_606829","name":"BASAVANAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

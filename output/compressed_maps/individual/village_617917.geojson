@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.784359760512,12.64847913761346],[75.79875668529246,12.65235388125043],[75.78447940633733,12.68672960313099],[75.76343703321628,12.66179870843967],[75.784359760512,12.64847913761346]]]},"properties":{"region_id":"village_617917","name":"KUNDALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

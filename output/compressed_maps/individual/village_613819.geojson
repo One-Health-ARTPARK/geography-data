@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63562198663283,12.83685076478424],[76.63037107605544,12.84689942145208],[76.61565708838049,12.84307772026574],[76.62451566004468,12.83611174460022],[76.63562198663283,12.83685076478424]]]},"properties":{"region_id":"village_613819","name":"IRAKANAGATTA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

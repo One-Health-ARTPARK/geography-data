@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04604012313575,12.57050156551452],[77.03058740629184,12.56652805321523],[77.02988048420816,12.56212443488686],[77.0442639754625,12.56225598262102],[77.04604012313575,12.57050156551452]]]},"properties":{"region_id":"village_614586","name":"CHANNASANDRA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

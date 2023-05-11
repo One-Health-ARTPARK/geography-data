@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90017856791671,12.94188428923809],[76.89343222522828,12.93950622232433],[76.89373152960088,12.92499611874105],[76.90053142566043,12.92894351220424],[76.90017856791671,12.94188428923809]]]},"properties":{"region_id":"village_612639","name":"SUNNADAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

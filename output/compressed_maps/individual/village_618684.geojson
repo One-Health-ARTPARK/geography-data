@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43955060993109,12.40123003024976],[76.4336647024229,12.4029059938431],[76.4300721105027,12.39731975703805],[76.43570342888287,12.39459918948081],[76.43955060993109,12.40123003024976]]]},"properties":{"region_id":"village_618684","name":"MALLAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

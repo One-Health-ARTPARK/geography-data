@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65906190472023,13.38217225161647],[77.64738808266604,13.39177045839383],[77.63826559953203,13.39367894620336],[77.64353027500488,13.37623844595258],[77.65906190472023,13.38217225161647]]]},"properties":{"region_id":"village_625055","name":"CHIKKARAYAPPANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

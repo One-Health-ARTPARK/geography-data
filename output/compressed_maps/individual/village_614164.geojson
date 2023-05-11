@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67476071851016,12.5586929131768],[76.66584615372155,12.55061650708297],[76.68303661043856,12.54948967042849],[76.67476071851016,12.5586929131768]]]},"properties":{"region_id":"village_614164","name":"INGALAGUPPE","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

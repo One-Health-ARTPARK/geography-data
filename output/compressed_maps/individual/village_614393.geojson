@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74588289044792,12.65600923230798],[76.73539408501438,12.65856641279106],[76.73952505249459,12.64778446160739],[76.74588289044792,12.65600923230798]]]},"properties":{"region_id":"village_614393","name":"THIPPAPURA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

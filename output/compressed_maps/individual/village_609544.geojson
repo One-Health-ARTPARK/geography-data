@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00728305314605,13.445059341663],[76.00271400824651,13.45957237217933],[75.98130731424709,13.45593597793972],[75.98549283104327,13.43632544384768],[76.00728305314605,13.445059341663]]]},"properties":{"region_id":"village_609544","name":"JIGENEHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

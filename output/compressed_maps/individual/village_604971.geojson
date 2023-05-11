@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54056756843846,14.97432041440791],[76.51716942494696,14.9784740151563],[76.51544778277592,14.96453156218406],[76.52783931346622,14.96187229212933],[76.54056756843846,14.97432041440791]]]},"properties":{"region_id":"village_604971","name":"DEVARAMALLAPUR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

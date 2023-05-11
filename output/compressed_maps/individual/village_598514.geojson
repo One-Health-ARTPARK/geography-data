@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51396565738692,16.22114664314856],[75.52060044287012,16.22757750790312],[75.52529383244867,16.25083463810024],[75.5108238573173,16.2599659761354],[75.50120075701513,16.22344476864367],[75.51396565738692,16.22114664314856]]]},"properties":{"region_id":"village_598514","name":"SHIRAGUPPI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

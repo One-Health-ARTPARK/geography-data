@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00204270226388,12.61426226322614],[76.99577638823231,12.61385272852229],[76.99655309639864,12.60084768500625],[77.00272589234588,12.60431338368236],[77.00204270226388,12.61426226322614]]]},"properties":{"region_id":"village_614572","name":"LAKKASANDRA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22524869419271,12.47394663259685],[77.20866756020494,12.47535332187461],[77.20974416694436,12.45197155533588],[77.22782737523241,12.45736996484753],[77.22524869419271,12.47394663259685]]]},"properties":{"region_id":"village_614755","name":"NITTUR","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

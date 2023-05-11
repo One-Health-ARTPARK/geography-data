@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51308595676882,12.50658995352237],[76.49855437371778,12.50730983837501],[76.49754499543735,12.4853558273093],[76.51318616523096,12.48229341790859],[76.51308595676882,12.50658995352237]]]},"properties":{"region_id":"village_613671","name":"KABBALAGEREPURA","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

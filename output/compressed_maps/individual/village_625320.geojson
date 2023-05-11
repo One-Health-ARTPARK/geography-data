@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73799068373685,13.32996221677724],[77.74057016167018,13.33527192489543],[77.73714920445202,13.33867366513399],[77.73521012705972,13.33228899424287],[77.73799068373685,13.32996221677724]]]},"properties":{"region_id":"village_625320","name":"GURURAYANA HOSUR","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

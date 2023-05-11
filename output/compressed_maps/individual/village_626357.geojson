@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43684418721274,12.69676876516271],[77.42080981981519,12.68346267067043],[77.43758861198184,12.67584705273395],[77.43684418721274,12.69676876516271]]]},"properties":{"region_id":"village_626357","name":"HULUGONDANAHALLI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76375100935996,13.82163619692137],[76.73654338569737,13.86858629151844],[76.72756781197997,13.83620470589173],[76.76375100935996,13.82163619692137]]]},"properties":{"region_id":"village_606187","name":"JAVANAGONDANAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

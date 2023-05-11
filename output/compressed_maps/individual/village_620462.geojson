@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29403509893517,17.28078970025202],[77.26343000475974,17.28048179514549],[77.26801798101113,17.26114917391709],[77.29450979636897,17.2564986874252],[77.29403509893517,17.28078970025202]]]},"properties":{"region_id":"village_620462","name":"BHOOTPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

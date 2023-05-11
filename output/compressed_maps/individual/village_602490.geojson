@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.934766428408,15.05165389232146],[74.92478125376127,15.07639861444025],[74.88613031581852,15.06307384368965],[74.91059244337018,15.04089373204079],[74.934766428408,15.05165389232146]]]},"properties":{"region_id":"village_602490","name":"HULAGINAKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

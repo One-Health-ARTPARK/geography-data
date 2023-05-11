@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90022615057757,12.69977582679858],[75.88507604791742,12.7009213298383],[75.8898025135137,12.69238173704238],[75.90022615057757,12.69977582679858]]]},"properties":{"region_id":"village_939048","name":"MADEGODU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

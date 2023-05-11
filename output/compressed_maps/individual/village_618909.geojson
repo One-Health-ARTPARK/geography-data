@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50030457376539,12.26896464750383],[76.48631821729622,12.27085557749413],[76.47836056554453,12.25684015246373],[76.4934633986713,12.25711935878306],[76.50030457376539,12.26896464750383]]]},"properties":{"region_id":"village_618909","name":"KATTEHUNDI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

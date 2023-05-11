@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09337860285837,13.42584749605469],[77.08956723345017,13.4444529722749],[77.08251880798234,13.44300655419845],[77.085181199755,13.4194068629118],[77.09337860285837,13.42584749605469]]]},"properties":{"region_id":"village_611343","name":"MELEHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

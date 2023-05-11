@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9050083921914,12.83287448712282],[74.90517332293523,12.8135387628575],[74.93165966555982,12.81027498270632],[74.93132856124562,12.83416487681605],[74.9050083921914,12.83287448712282]]]},"properties":{"region_id":"village_617514","name":"KONAJE (CT)","parent":"subdistrict_7197","parent_name":"ULLALA"}}
+]}

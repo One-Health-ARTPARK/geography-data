@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07661593877391,14.50491356402342],[75.05561865782781,14.49904046825187],[75.07028543244972,14.48695731338367],[75.07661593877391,14.50491356402342]]]},"properties":{"region_id":"village_607461","name":"DYAVANAHALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

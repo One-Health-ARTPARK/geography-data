@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41162604433465,13.94551483524624],[77.37669967419895,13.94673735313559],[77.3846736187405,13.92455787463108],[77.41584181105888,13.92399650867221],[77.41162604433465,13.94551483524624]]]},"properties":{"region_id":"village_610664","name":"KANAKAPURA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

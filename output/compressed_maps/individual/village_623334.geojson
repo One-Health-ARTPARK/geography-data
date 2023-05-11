@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65311564176122,13.61512664236453],[77.6273498174904,13.63713930198318],[77.62053453231078,13.61667397496396],[77.65311564176122,13.61512664236453]]]},"properties":{"region_id":"village_623334","name":"YERANAGENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

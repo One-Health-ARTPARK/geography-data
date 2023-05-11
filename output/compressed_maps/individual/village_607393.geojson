@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07882138033818,14.5756648209299],[75.08484642912019,14.57849840884388],[75.08305793075043,14.59435916261296],[75.07663532132425,14.59637089866233],[75.07544613023138,14.58277183422863],[75.07882138033818,14.5756648209299]]]},"properties":{"region_id":"village_607393","name":"SHANUVALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

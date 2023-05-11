@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56569386254648,14.1481755170609],[76.51437614993162,14.14832939522882],[76.50980949540686,14.12690018159812],[76.56577731741677,14.11931779948393],[76.56569386254648,14.1481755170609]]]},"properties":{"region_id":"village_606049","name":"MARADIHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

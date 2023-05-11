@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30121337547271,17.86371472473158],[77.28132349589471,17.85197413720667],[77.30073878102299,17.84126453587609],[77.30121337547271,17.86371472473158]]]},"properties":{"region_id":"village_600280","name":"AMEERABAD","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

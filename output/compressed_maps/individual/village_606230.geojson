@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72863369414141,14.37354331306126],[75.7108017584166,14.38193190772558],[75.70494692996478,14.36542535176876],[75.71454464403242,14.3560887834591],[75.72863369414141,14.37354331306126]]]},"properties":{"region_id":"village_606230","name":"BEVINAHALLI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

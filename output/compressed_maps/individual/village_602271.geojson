@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97505325541384,15.48871010096583],[74.94920264528285,15.49548096339992],[74.95745721759103,15.47676290040527],[74.97505325541384,15.48871010096583]]]},"properties":{"region_id":"village_602271","name":"HIREMALLIGAWAD","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

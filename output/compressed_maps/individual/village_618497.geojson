@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32232699197559,12.21397198501097],[76.29893437960041,12.20992274848464],[76.3276253895205,12.18888181047039],[76.32232699197559,12.21397198501097]]]},"properties":{"region_id":"village_618497","name":"UYYIGONDANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

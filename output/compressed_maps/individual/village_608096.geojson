@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2124142899883,13.78914252162658],[75.19359406263536,13.77041463321917],[75.19353351684035,13.75852185133277],[75.2094513730463,13.75293621763995],[75.2124142899883,13.78914252162658]]]},"properties":{"region_id":"village_608096","name":"AGALABAGILU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

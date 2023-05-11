@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38024735366652,15.32348702556321],[75.35438410875554,15.32306083565531],[75.35592698656755,15.30439898673099],[75.38973067609724,15.29894069914589],[75.38024735366652,15.32348702556321]]]},"properties":{"region_id":"village_602552","name":"ROTTIGAWAD","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36417488138699,14.50066450893586],[75.34169913037171,14.5153545788016],[75.33553691978705,14.49243594220281],[75.35990001001406,14.48422030628453],[75.36417488138699,14.50066450893586]]]},"properties":{"region_id":"village_604378","name":"DAMMALLI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

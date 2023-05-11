@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5692820601891,15.59737416477098],[76.5242993055463,15.59692239235422],[76.52670029842817,15.5801042302765],[76.55639907386222,15.58157569190213],[76.5692820601891,15.59737416477098]]]},"properties":{"region_id":"village_601676","name":"HIRE DANKANKAL","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

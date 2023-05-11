@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59663201229341,12.22812065877315],[76.5987008292935,12.23804476951124],[76.57990820043597,12.24669342987618],[76.58246958949762,12.22782981919593],[76.59663201229341,12.22812065877315]]]},"properties":{"region_id":"village_618749","name":"KENCHALAGUDU","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

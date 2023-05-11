@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73329245770314,16.53883039271408],[74.73016603630072,16.5635655425898],[74.71713156103078,16.57642157519568],[74.68976896305249,16.5540716455622],[74.69048879268703,16.5380951491616],[74.73329245770314,16.53883039271408]]]},"properties":{"region_id":"village_597355","name":"SOUNDATTI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

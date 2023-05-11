@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77343028711367,16.26441946653474],[74.74305808467945,16.26003674367401],[74.74981118571723,16.24193320970133],[74.78052689839879,16.23645151045014],[74.77343028711367,16.26441946653474]]]},"properties":{"region_id":"village_597435","name":"MALLAPUR (P.G.)","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

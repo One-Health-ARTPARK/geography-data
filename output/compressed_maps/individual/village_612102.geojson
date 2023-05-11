@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38292287791457,13.27571803054101],[76.3719804495776,13.27496783713026],[76.37210321654948,13.26600981468529],[76.38094544305622,13.26590491823739],[76.38292287791457,13.27571803054101]]]},"properties":{"region_id":"village_612102","name":"SIDDAPURA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

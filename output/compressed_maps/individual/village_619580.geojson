@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74128462750971,11.72966361707736],[76.74296387979761,11.74754245695046],[76.72780644231565,11.75253102523819],[76.74128462750971,11.72966361707736]]]},"properties":{"region_id":"village_619580","name":"VADEYANAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

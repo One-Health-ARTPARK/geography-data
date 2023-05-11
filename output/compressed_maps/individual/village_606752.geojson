@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61176757344711,14.12546854140515],[75.5890269107677,14.11279601120626],[75.60940776003736,14.08768690568279],[75.61176757344711,14.12546854140515]]]},"properties":{"region_id":"village_606752","name":"DASARAHATTI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56125309915625,16.17577953394196],[76.53705460365632,16.17726143977606],[76.53233300782432,16.16345817338478],[76.5582419752422,16.16637651048407],[76.56125309915625,16.17577953394196]]]},"properties":{"region_id":"village_600420","name":"YALAGALADINNI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

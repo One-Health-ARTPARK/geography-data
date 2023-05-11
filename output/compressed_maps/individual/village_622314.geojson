@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98912504211485,12.90930936103893],[77.98182753814518,12.90845170067851],[77.97774942715775,12.89650035459676],[77.98915559511114,12.89531270999875],[77.98912504211485,12.90930936103893]]]},"properties":{"region_id":"village_622314","name":"M.UPPARAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

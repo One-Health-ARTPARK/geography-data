@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52892063482861,13.49558954978796],[76.51825760245737,13.48962779732387],[76.5166905304155,13.47062436903316],[76.52861021592831,13.4706872711042],[76.52892063482861,13.49558954978796]]]},"properties":{"region_id":"village_610074","name":"OTIKERE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72393739031233,13.31452876940235],[77.71369717294711,13.32070462483357],[77.70425985691766,13.30722362797921],[77.72100683240953,13.30668596691496],[77.72393739031233,13.31452876940235]]]},"properties":{"region_id":"village_625358","name":"DASARAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22057816681912,13.32197298856367],[77.21091713749044,13.31358887767639],[77.22796282702855,13.31007329708384],[77.22057816681912,13.32197298856367]]]},"properties":{"region_id":"village_611406","name":"BYATHA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

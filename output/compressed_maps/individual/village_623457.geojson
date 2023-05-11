@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81964639898078,13.61274457650607],[77.81153573581236,13.59228104601351],[77.83007929751628,13.58879859004442],[77.83072820109417,13.60976664230984],[77.81964639898078,13.61274457650607]]]},"properties":{"region_id":"village_623457","name":"BOYANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

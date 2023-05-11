@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75351431867844,16.83814873019016],[76.73637669033347,16.83897403857427],[76.7329876554036,16.82141546844951],[76.75298135497266,16.82250473052761],[76.75351431867844,16.83814873019016]]]},"properties":{"region_id":"village_620870","name":"KADYAPUR","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

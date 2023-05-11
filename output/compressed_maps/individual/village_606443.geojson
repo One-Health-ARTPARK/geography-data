@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15461398556376,14.51996896360397],[76.1492740427837,14.54037285510685],[76.13647167270655,14.54197962040123],[76.13505374451044,14.52015253429354],[76.15461398556376,14.51996896360397]]]},"properties":{"region_id":"village_606443","name":"THUPPADAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41756677692571,12.98943306892143],[76.43484804791782,12.98963875269079],[76.43569616964741,13.00396408183733],[76.42220246516165,13.00229722929848],[76.41756677692571,12.98943306892143]]]},"properties":{"region_id":"village_617248","name":"CHOWDENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

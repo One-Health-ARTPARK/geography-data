@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67882443052098,14.42820512998258],[75.65407768243776,14.4457794632751],[75.64598283873651,14.43184555574128],[75.67882443052098,14.42820512998258]]]},"properties":{"region_id":"village_606215","name":"PALYA","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

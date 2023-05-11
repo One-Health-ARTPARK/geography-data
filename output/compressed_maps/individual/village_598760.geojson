@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65764430264579,15.82925775801161],[75.66153212447286,15.83705675270893],[75.65946232337863,15.85921650961948],[75.65369198379962,15.85837891686506],[75.65373690799039,15.84292858819656],[75.65764430264579,15.82925775801161]]]},"properties":{"region_id":"village_598760","name":"NEERALAGI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

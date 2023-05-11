@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14985375673005,14.43173519302269],[75.13385977985794,14.42646356891495],[75.13814092547359,14.4155432969803],[75.15215258892908,14.42043380947415],[75.14985375673005,14.43173519302269]]]},"properties":{"region_id":"village_607574","name":"CHIKKAVALI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

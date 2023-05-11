@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67752849719021,13.0621164348477],[76.67552679952469,13.05494894012775],[76.69434952818465,13.03721172139923],[76.70119365954501,13.04504840498527],[76.68313111568858,13.04948672747296],[76.67752849719021,13.0621164348477]]]},"properties":{"region_id":"village_612361","name":"ILLENAHALLI KAVAL","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

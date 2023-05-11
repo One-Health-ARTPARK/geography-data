@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40938862891419,13.48157675772209],[75.38534963215946,13.46105087883246],[75.384203878484,13.43538146894836],[75.40041124660658,13.43089776254481],[75.40938862891419,13.48157675772209]]]},"properties":{"region_id":"village_609020","name":"HOSURU","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

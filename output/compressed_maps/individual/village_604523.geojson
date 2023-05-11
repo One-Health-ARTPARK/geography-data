@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59091379897504,14.60738555917547],[75.60114654153952,14.6324669363102],[75.56451431114932,14.64711910938997],[75.55873028905941,14.60594049249987],[75.59091379897504,14.60738555917547]]]},"properties":{"region_id":"village_604523","name":"HULIHALLI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

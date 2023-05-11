@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84386251006491,13.68429816004867],[75.82941766644306,13.68165603372168],[75.82330565300232,13.66392789679422],[75.84641083529264,13.66500349679722],[75.84386251006491,13.68429816004867]]]},"properties":{"region_id":"village_609165","name":"DORANALU","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

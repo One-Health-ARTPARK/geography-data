@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97543872532422,13.62681631803774],[76.96975898792024,13.63080851251964],[76.95327732237874,13.62449125391153],[76.9640771895205,13.61572339608776],[76.97543872532422,13.62681631803774]]]},"properties":{"region_id":"village_610490","name":"THORIYAPPANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

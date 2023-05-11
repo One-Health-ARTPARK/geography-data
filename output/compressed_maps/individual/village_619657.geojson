@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96071806400778,11.98147755040184],[76.9392560130534,11.96653836840898],[76.95151002012012,11.95696346426265],[76.96071806400778,11.98147755040184]]]},"properties":{"region_id":"village_619657","name":"MADAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

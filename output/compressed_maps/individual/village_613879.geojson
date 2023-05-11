@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73755503857404,12.8369805786202],[76.73483212753038,12.8537422236178],[76.7161676836131,12.87244375170399],[76.70265824788257,12.83478238407915],[76.73755503857404,12.8369805786202]]]},"properties":{"region_id":"village_613879","name":"THUPPADAMADU","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1480904464636,16.12944317604289],[76.15131194435024,16.18420077110797],[76.12690171190101,16.17780011947014],[76.11492758692144,16.12833501500387],[76.1480904464636,16.12944317604289]]]},"properties":{"region_id":"village_598949","name":"MAROL","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

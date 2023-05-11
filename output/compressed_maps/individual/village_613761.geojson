@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63409775976451,12.9813192593431],[76.62011134904888,12.96534327391499],[76.6401669115123,12.95275122618648],[76.63409775976451,12.9813192593431]]]},"properties":{"region_id":"village_613761","name":"KADABAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

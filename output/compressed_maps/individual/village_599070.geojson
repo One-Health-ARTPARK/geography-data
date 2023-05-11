@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79932333626782,16.97729287976542],[75.78620244140082,16.98436146822977],[75.77434242251618,16.94059752804195],[75.80669997371544,16.94495366571671],[75.79932333626782,16.97729287976542]]]},"properties":{"region_id":"village_599070","name":"GUNAKI","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

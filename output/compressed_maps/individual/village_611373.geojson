@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2086005294748,13.38685788696231],[77.19661429507082,13.38942763380974],[77.19375475351443,13.38476086005929],[77.20810545451255,13.37766586294214],[77.2086005294748,13.38685788696231]]]},"properties":{"region_id":"village_611373","name":"DURGADAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

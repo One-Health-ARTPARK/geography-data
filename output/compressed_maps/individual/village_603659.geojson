@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77713268384743,14.311760527707],[74.76585194306706,14.32214194730598],[74.7559871684547,14.30431737825467],[74.75846497223628,14.29161674472841],[74.78558687165989,14.30525379046756],[74.77713268384743,14.311760527707]]]},"properties":{"region_id":"village_603659","name":"ALAVALLI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

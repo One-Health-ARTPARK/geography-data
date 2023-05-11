@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50826065100888,12.08155846089497],[76.49357941427208,12.08922305095598],[76.48824039705183,12.07940905682719],[76.49836948641381,12.07295957819489],[76.50826065100888,12.08155846089497]]]},"properties":{"region_id":"village_619132","name":"KAPPASOGE","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

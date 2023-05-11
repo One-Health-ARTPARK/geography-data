@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96002149217975,12.71235492173504],[75.95276035137479,12.70639888033639],[75.95437564101968,12.69877610049426],[75.96315205077833,12.69777980547632],[75.96002149217975,12.71235492173504]]]},"properties":{"region_id":"village_923934","name":"KAISHARAVALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55075683859191,12.87326588685683],[77.53777384357542,12.88060870430439],[77.53495510866927,12.87302436748397],[77.54792271653163,12.86522641190967],[77.55075683859191,12.87326588685683]]]},"properties":{"region_id":"village_938475","name":"VAJARAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

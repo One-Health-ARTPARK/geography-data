@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11148963737922,13.30934544055443],[77.11344248311238,13.32177089138477],[77.10551144793618,13.32141538295299],[77.1038665282591,13.31517395181963],[77.11148963737922,13.30934544055443]]]},"properties":{"region_id":"village_938660","name":"GEDDALAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

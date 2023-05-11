@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96140273874762,16.31641258532316],[74.94708179808617,16.32917709251619],[74.93732877181631,16.29320534318047],[74.95402751606902,16.29295820891251],[74.96140273874762,16.31641258532316]]]},"properties":{"region_id":"village_597425","name":"DHARMATTI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

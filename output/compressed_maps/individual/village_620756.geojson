@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74954840828114,17.13412120760351],[76.75886163262548,17.13752210149235],[76.75841157671864,17.16533994499026],[76.73319195898111,17.14662012640326],[76.74954840828114,17.13412120760351]]]},"properties":{"region_id":"village_620756","name":"KUDI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

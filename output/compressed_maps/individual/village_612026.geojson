@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63602410387512,13.31490304049879],[76.61551496311809,13.30719344051738],[76.62885846288229,13.28157513419468],[76.64021649803888,13.29838909396931],[76.63602410387512,13.31490304049879]]]},"properties":{"region_id":"village_612026","name":"BILIGERE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

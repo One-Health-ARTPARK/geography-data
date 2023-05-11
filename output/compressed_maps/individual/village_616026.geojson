@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11643304907592,12.97204871773589],[76.09324287927663,12.97230554896244],[76.10461308625918,12.95676324134879],[76.11643304907592,12.97204871773589]]]},"properties":{"region_id":"village_616026","name":"KOKKANAGATTA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

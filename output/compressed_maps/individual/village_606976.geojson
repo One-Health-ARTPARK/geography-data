@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94884542891546,14.17476419471213],[75.92571313834993,14.18106733512152],[75.93065422537293,14.1606326113828],[75.94884542891546,14.17476419471213]]]},"properties":{"region_id":"village_606976","name":"MALLAPURA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

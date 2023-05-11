@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70269054970659,13.86443193275124],[75.70550868617539,13.88012679643854],[75.68929983605696,13.8751651571177],[75.70269054970659,13.86443193275124]]]},"properties":{"region_id":"village_608624","name":"HOLENERALAKERE","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84919543500219,13.56046205313068],[75.82147840797167,13.56498071438654],[75.81893053553294,13.53300237622356],[75.85815961146125,13.53047202834903],[75.84919543500219,13.56046205313068]]]},"properties":{"region_id":"village_609350","name":"UDEVA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

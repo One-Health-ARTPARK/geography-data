@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76766851625227,14.5805933924008],[75.73593120271667,14.59504816701151],[75.73131942526696,14.54720222512128],[75.75325744698402,14.54116381767413],[75.76766851625227,14.5805933924008]]]},"properties":{"region_id":"village_604504","name":"KARUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91040795454879,16.41125863724398],[75.87823686677487,16.40129871338554],[75.880966958842,16.36512480590716],[75.90954755711054,16.36418094223504],[75.91040795454879,16.41125863724398]]]},"properties":{"region_id":"village_599488","name":"BENAL R.C","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

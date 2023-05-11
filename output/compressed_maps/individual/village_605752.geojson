@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17729294973792,14.01064712509676],[76.15338974048429,13.99912244690459],[76.15565182958214,13.96809362206054],[76.18471646420191,13.98594221490026],[76.17729294973792,14.01064712509676]]]},"properties":{"region_id":"village_605752","name":"GUNDERI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40638593274971,12.50395867755883],[77.39976775450701,12.50961076350565],[77.37449599492038,12.50521097691118],[77.37671471218388,12.49456797341023],[77.39180226825704,12.50589745122281],[77.40638593274971,12.50395867755883]]]},"properties":{"region_id":"village_626476","name":"SEEGEKOTE","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

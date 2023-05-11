@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50065544508794,15.23883671645268],[75.4927765158498,15.26931487606622],[75.43980882515795,15.2610160936535],[75.45094421876415,15.23172276900627],[75.50065544508794,15.23883671645268]]]},"properties":{"region_id":"village_602055","name":"YALAVATTI","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

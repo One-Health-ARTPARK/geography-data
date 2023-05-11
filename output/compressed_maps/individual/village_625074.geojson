@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63814593455757,13.34052518786573],[77.63594669308362,13.34801109551525],[77.6263893994033,13.34459013008043],[77.62667746096363,13.33667832043286],[77.63814593455757,13.34052518786573]]]},"properties":{"region_id":"village_625074","name":"UDANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

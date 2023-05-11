@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31242596795579,13.41443013084259],[77.32336836719153,13.41593280236985],[77.32157494217589,13.42833626057734],[77.31319466263814,13.42481547230579],[77.31242596795579,13.41443013084259]]]},"properties":{"region_id":"village_611186","name":"VENGALAMMANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

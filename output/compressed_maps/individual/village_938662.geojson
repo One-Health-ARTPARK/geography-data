@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12186826816695,13.32763320141555],[77.11132753239323,13.30743623136549],[77.13152672372796,13.29869157086187],[77.13190198930339,13.31831153758705],[77.12186826816695,13.32763320141555]]]},"properties":{"region_id":"village_938662","name":"SHETTIHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

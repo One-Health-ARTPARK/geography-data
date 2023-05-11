@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36696559354569,15.05041112639126],[75.35697545534023,15.06593754547778],[75.32453269695944,15.0593602599212],[75.33095852258077,15.03617622114961],[75.36696559354569,15.05041112639126]]]},"properties":{"region_id":"village_603974","name":"CHOWDALA","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

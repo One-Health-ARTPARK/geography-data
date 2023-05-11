@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91006136398913,12.39435162862142],[75.90180885353429,12.39329774357733],[75.90223965098959,12.38790182006193],[75.91357990134398,12.38715112374449],[75.91006136398913,12.39435162862142]]]},"properties":{"region_id":"village_924008","name":"VIRUPAKSHAPURA","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

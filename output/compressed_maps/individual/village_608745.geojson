@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82288238498947,13.55959744307664],[74.80951124077231,13.56285459963618],[74.79731973136131,13.54514399470427],[74.81690611246101,13.54165344892068],[74.82288238498947,13.55959744307664]]]},"properties":{"region_id":"village_608745","name":"HALLADY-HARKADI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

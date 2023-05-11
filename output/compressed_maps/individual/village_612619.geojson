@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02827641956948,12.95199117889886],[76.99746552165814,12.95092897032044],[77.00511291458155,12.93974967687927],[77.02827641956948,12.95199117889886]]]},"properties":{"region_id":"village_612619","name":"THARIKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

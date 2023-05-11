@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20912344930316,16.44942438569111],[77.19034679779594,16.45573130548649],[77.17376709854754,16.43016977972957],[77.20236268150855,16.42691954726511],[77.20912344930316,16.44942438569111]]]},"properties":{"region_id":"village_621216","name":"KODAL","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

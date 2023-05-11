@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57530515101162,12.00677459966821],[76.56983626589734,12.02259338970321],[76.54644355511881,12.02066660596471],[76.55467138600136,12.00576290882208],[76.57530515101162,12.00677459966821]]]},"properties":{"region_id":"village_619155","name":"MALKUNDI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

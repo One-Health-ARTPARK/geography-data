@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51446897557636,12.82168726683717],[77.48842771071584,12.84978443744136],[77.48444310211885,12.8191610445894],[77.50468161245983,12.82969479336117],[77.51446897557636,12.82168726683717]]]},"properties":{"region_id":"village_613039","name":"AGARA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

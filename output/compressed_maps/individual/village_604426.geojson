@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48526382838007,14.38463847285467],[75.46577048477646,14.38445679886588],[75.46455714919622,14.37225033210288],[75.48756843501367,14.36737932902603],[75.48526382838007,14.38463847285467]]]},"properties":{"region_id":"village_604426","name":"KHANDIBAGUR","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

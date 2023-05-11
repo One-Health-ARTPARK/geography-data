@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96236758812424,15.49689196514281],[76.94367503549356,15.4968173114538],[76.90538440871713,15.47879941609911],[76.95112685256916,15.46640724474873],[76.96236758812424,15.49689196514281]]]},"properties":{"region_id":"village_604843","name":"BUDUGUPPA","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

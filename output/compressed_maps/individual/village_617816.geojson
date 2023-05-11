@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74073286099053,12.37752327926349],[75.72183277017103,12.37703499796917],[75.73354864257794,12.34753847276495],[75.76044089869718,12.34929312977651],[75.75682745525313,12.3716274725795],[75.74073286099053,12.37752327926349]]]},"properties":{"region_id":"village_617816","name":"BILIGERI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

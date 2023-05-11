@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75267067637995,15.77690285737376],[76.72103742407928,15.78619872969445],[76.72026740904215,15.77092402668745],[76.75267067637995,15.77690285737376]]]},"properties":{"region_id":"village_601194","name":"HOSALAPUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

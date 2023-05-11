@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88807554365238,13.24074138331664],[75.88425836223765,13.23071049979003],[75.89043674539083,13.23172832404932],[75.88807554365238,13.24074138331664]]]},"properties":{"region_id":"village_615134","name":"SHETTIHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

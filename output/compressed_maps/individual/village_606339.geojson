@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85724894630584,14.66886362101653],[75.81156805297975,14.68646730358824],[75.79889462072202,14.66811083769187],[75.82291821842894,14.63225563106515],[75.85724894630584,14.66886362101653]]]},"properties":{"region_id":"village_606339","name":"KADATHI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

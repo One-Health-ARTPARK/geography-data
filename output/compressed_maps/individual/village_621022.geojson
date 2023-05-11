@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69578417889771,16.40946434210129],[76.67834976429911,16.41458584498046],[76.67564182102728,16.39372292494772],[76.69701984167818,16.39848113113651],[76.69578417889771,16.40946434210129]]]},"properties":{"region_id":"village_621022","name":"DADLAPUR","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

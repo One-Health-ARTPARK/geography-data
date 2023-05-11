@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28585330056049,13.75203739574663],[75.2868258499177,13.77058691844296],[75.2651741402034,13.7726747186943],[75.2734897350695,13.74855528735132],[75.28585330056049,13.75203739574663]]]},"properties":{"region_id":"village_608204","name":"BILUVEHARIHARAPURA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

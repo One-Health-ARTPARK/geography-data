@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80787762377963,12.29185683493841],[75.82495050627499,12.28851559395889],[75.83241967051077,12.29401792681723],[75.82859717687187,12.31102596927297],[75.82183872386109,12.31554380532497],[75.80787762377963,12.29185683493841]]]},"properties":{"region_id":"village_618019","name":"HACHINAD","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

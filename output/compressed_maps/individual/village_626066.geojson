@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21853025073086,12.75423117530929],[77.2040142251068,12.76624007906334],[77.20435536291035,12.74709661378063],[77.21853025073086,12.75423117530929]]]},"properties":{"region_id":"village_626066","name":"ANUMANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

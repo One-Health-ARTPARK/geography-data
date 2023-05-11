@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95281150117842,13.16033512614936],[77.95451021057106,13.17162790564021],[77.94670121525112,13.17161473692758],[77.94663941900986,13.16425771689688],[77.95281150117842,13.16033512614936]]]},"properties":{"region_id":"village_625569","name":"GUNDRAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

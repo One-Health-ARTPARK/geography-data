@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0901361767894,12.36655782587142],[76.07723428834882,12.37229931014537],[76.06854946271926,12.36139379926838],[76.08796060033355,12.35769097481088],[76.0901361767894,12.36655782587142]]]},"properties":{"region_id":"village_618227","name":"HEMMIGE","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24791862462057,13.25793118848277],[77.23425402910007,13.258008777618],[77.23345177882743,13.24977672478325],[77.24627214300479,13.24628035359098],[77.24791862462057,13.25793118848277]]]},"properties":{"region_id":"village_624735","name":"NIJAGAL KEMPOHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

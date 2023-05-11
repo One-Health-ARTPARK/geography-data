@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79884795341727,13.6570794257024],[77.789792377289,13.66955355592],[77.78310992794489,13.65937833762703],[77.79884795341727,13.6570794257024]]]},"properties":{"region_id":"village_623760","name":"UPPAKUNTAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

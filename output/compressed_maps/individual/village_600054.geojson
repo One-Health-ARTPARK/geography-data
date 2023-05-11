@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33503101021884,18.20749835392637],[77.36254557224744,18.21676837197262],[77.34632489545577,18.23053095423897],[77.33503101021884,18.20749835392637]]]},"properties":{"region_id":"village_600054","name":"GONDGAON","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

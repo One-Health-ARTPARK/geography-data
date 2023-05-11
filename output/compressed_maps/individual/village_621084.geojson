@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75311302997031,16.76549449870969],[76.74024776726473,16.77007344713912],[76.739082558414,16.74994563593011],[76.75337198791001,16.7506789423047],[76.75311302997031,16.76549449870969]]]},"properties":{"region_id":"village_621084","name":"SINGANHALLI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

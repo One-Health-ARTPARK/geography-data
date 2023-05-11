@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07136834221879,12.48715437166992],[77.05807746112811,12.49528414666024],[77.0588288145614,12.47886552189774],[77.07136834221879,12.48715437166992]]]},"properties":{"region_id":"village_614631","name":"KARKAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

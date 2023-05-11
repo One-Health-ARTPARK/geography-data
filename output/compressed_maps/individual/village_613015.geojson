@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42180124342201,12.92312078325973],[77.40996071881817,12.92535639913242],[77.40930074746039,12.91165218926922],[77.42803589484915,12.91695427646433],[77.42180124342201,12.92312078325973]]]},"properties":{"region_id":"village_613015","name":"MALIGONDANAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

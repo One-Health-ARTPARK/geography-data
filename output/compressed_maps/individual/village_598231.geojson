@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0693168093909,15.80113949143529],[75.07595102943372,15.83786804801751],[75.06534808640305,15.83431993878421],[75.05946302768918,15.80495592340195],[75.0693168093909,15.80113949143529]]]},"properties":{"region_id":"village_598231","name":"KATRAL","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

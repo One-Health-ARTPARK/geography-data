@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0329916007678,12.42198225789285],[77.03291170179033,12.44664240832559],[77.0154896414105,12.44345164531653],[77.01363127153,12.42470359997809],[77.0329916007678,12.42198225789285]]]},"properties":{"region_id":"village_614664","name":"THALAGAVADI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

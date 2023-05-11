@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68183187748676,14.84427352118514],[75.6662304085195,14.84802690492355],[75.65683875774849,14.83393166137572],[75.67417632398963,14.82703137233233],[75.68183187748676,14.84427352118514]]]},"properties":{"region_id":"village_604274","name":"HARALAHALLI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

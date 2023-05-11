@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42726147053396,12.06256878833785],[76.4159231937025,12.07275305397046],[76.41324436600013,12.06133062352701],[76.42428969839456,12.04988893078664],[76.42726147053396,12.06256878833785]]]},"properties":{"region_id":"village_618974","name":"HUNAGANAHALLI","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

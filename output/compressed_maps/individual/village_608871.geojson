@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96632263429801,13.43581598864698],[74.9384034370324,13.41860604709797],[74.97324679450725,13.38503428402564],[74.99189458214161,13.40722090904497],[74.97258805471746,13.41558585537342],[74.96632263429801,13.43581598864698]]]},"properties":{"region_id":"village_608871","name":"SHIVAPURA","parent":"subdistrict_7065","parent_name":"HEBRI"}}
+]}

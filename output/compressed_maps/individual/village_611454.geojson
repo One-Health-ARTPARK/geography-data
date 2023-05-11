@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05700465763073,13.3287903800946],[77.04509281834981,13.3313914496724],[77.03724845432374,13.32085613982065],[77.03864418410132,13.31406285370303],[77.05700465763073,13.3287903800946]]]},"properties":{"region_id":"village_611454","name":"KUMKUMANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

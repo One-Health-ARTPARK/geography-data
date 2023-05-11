@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41626054604107,13.37493914952371],[76.40696339823765,13.35157272356578],[76.42810366553812,13.34766491880519],[76.42808224826345,13.3711918736894],[76.41626054604107,13.37493914952371]]]},"properties":{"region_id":"village_611985","name":"HULIHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

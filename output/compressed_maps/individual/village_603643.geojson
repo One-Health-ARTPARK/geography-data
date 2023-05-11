@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78116748143613,14.35070878159574],[74.7632902397483,14.35157566172237],[74.76501236567398,14.33844402405277],[74.78116748143613,14.35070878159574]]]},"properties":{"region_id":"village_603643","name":"SASHIGULI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

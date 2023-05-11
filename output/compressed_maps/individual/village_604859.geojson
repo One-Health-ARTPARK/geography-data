@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81985868238749,15.41420595505331],[76.80117067563118,15.39014784585341],[76.82437177054767,15.38927078287358],[76.81985868238749,15.41420595505331]]]},"properties":{"region_id":"village_604859","name":"KYADIGEHAL","parent":"subdistrict_7109","parent_name":"KURUGODU"}}
+]}

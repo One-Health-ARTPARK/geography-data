@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52726641713272,13.47818508306831],[75.5138550078558,13.52344059117608],[75.46998046356013,13.50499180554755],[75.4888591545719,13.47219930186409],[75.52726641713272,13.47818508306831]]]},"properties":{"region_id":"village_609091","name":"ALEHALLI","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

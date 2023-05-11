@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03229157917477,12.60204356887962],[77.03547492802996,12.61063824318406],[77.02384418221885,12.61286309002558],[77.02210777330616,12.6026550803844],[77.03229157917477,12.60204356887962]]]},"properties":{"region_id":"village_614574","name":"DESHAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

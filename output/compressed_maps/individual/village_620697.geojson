@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96077104688177,16.94652134955033],[76.94457412186836,16.94916412945217],[76.94283404457035,16.93472831039917],[76.96187999506967,16.9360281709944],[76.96077104688177,16.94652134955033]]]},"properties":{"region_id":"village_620697","name":"MALAG (N)","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

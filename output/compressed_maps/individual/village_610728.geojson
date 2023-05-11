@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0897649631291,13.76246989228272],[77.08361771099187,13.74575824853569],[77.0933361230236,13.73440390981204],[77.10072782713277,13.75207307333411],[77.0897649631291,13.76246989228272]]]},"properties":{"region_id":"village_610728","name":"PULAMAGHATTA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

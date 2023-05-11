@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74091575743854,13.60022744632697],[75.64756625986489,13.58861710380824],[75.62003366142024,13.55158283349849],[75.6975147440335,13.57757070663505],[75.74091575743854,13.60022744632697]]]},"properties":{"region_id":"village_609071","name":"DANDUBITTAHARA","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

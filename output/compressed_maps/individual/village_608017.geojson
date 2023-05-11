@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00214636892002,13.91669713637961],[74.97050718708796,13.90360763765063],[75.00278918939921,13.88771965468007],[75.01263713939179,13.90531929543214],[75.00214636892002,13.91669713637961]]]},"properties":{"region_id":"village_608017","name":"HEBBURLI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

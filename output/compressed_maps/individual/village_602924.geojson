@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61832928955306,14.8177747856295],[74.60855633816132,14.82275847660634],[74.60565517725497,14.80687377136963],[74.61522126095076,14.80805638995398],[74.61832928955306,14.8177747856295]]]},"properties":{"region_id":"village_602924","name":"CHIKKUMANE","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

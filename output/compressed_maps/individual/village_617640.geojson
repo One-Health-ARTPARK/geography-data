@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38579252321296,13.09653366190823],[75.35733817233465,13.04667232057877],[75.38415145112583,13.04128733706826],[75.38579252321296,13.09653366190823]]]},"properties":{"region_id":"village_617640","name":"KADIRUDYAVARA","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

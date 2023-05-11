@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82571546973126,13.69737268621352],[77.81677992826256,13.7057851843507],[77.8005141418758,13.68884790996401],[77.81374694409104,13.68083056558456],[77.82571546973126,13.69737268621352]]]},"properties":{"region_id":"village_623739","name":"THIRUMANI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

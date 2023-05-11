@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74684256436475,13.48966109558455],[77.73946406541587,13.48765076650998],[77.74332048274373,13.47809293247759],[77.74868039189846,13.48529624077828],[77.74684256436475,13.48966109558455]]]},"properties":{"region_id":"village_623557","name":"LINGASETTIPURA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

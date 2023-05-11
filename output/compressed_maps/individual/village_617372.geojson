@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49108988079836,12.90833139858099],[76.49022612492072,12.92119556786309],[76.48634231997275,12.92221776812074],[76.48157455715695,12.90708576115555],[76.49108988079836,12.90833139858099]]]},"properties":{"region_id":"village_617372","name":"KODIBELAGOLA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

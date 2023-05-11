@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58719507495348,13.37961369909563],[77.58198506772135,13.38434416402828],[77.57980317584494,13.37601585112862],[77.5842403734982,13.37360524318508],[77.58719507495348,13.37961369909563]]]},"properties":{"region_id":"village_625049","name":"YEDLAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

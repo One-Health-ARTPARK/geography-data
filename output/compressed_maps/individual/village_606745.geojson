@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55417785001349,14.1149366956723],[75.5304576941535,14.09896344162446],[75.54098535652854,14.07948363400904],[75.55779481040845,14.08646214337775],[75.55417785001349,14.1149366956723]]]},"properties":{"region_id":"village_606745","name":"SOGILU","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

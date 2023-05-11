@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9638089428946,16.40543862657724],[75.9357588506834,16.41277047532629],[75.93209060884543,16.40103791016782],[75.95527818957049,16.39639338779885],[75.9638089428946,16.40543862657724]]]},"properties":{"region_id":"village_599518","name":"KIRSHYAL","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

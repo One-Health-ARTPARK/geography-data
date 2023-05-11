@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17341249392157,14.46120599711001],[76.1606569604208,14.46189263557279],[76.16426514350596,14.44584477118533],[76.17371183882676,14.44794573245043],[76.17341249392157,14.46120599711001]]]},"properties":{"region_id":"village_606473","name":"MUCHANUR","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

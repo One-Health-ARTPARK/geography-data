@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10310870195072,12.27263773190623],[77.10624660097196,12.29442574501127],[77.08808288409271,12.29226307613387],[77.0799346694564,12.27038367282535],[77.10310870195072,12.27263773190623]]]},"properties":{"region_id":"village_614812","name":"DYAVAPATNA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

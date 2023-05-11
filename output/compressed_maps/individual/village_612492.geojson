@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90158522327667,12.97435871739458],[76.88561145358739,12.97434928046533],[76.88860175845508,12.94966948566005],[76.90303546576087,12.95979286920886],[76.90158522327667,12.97435871739458]]]},"properties":{"region_id":"village_612492","name":"MANGALA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

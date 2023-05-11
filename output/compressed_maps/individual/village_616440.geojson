@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96012080310147,12.86123197741107],[75.95098268877011,12.85464781318878],[75.96716541245556,12.84361656041225],[75.97016767154875,12.85177851787539],[75.96012080310147,12.86123197741107]]]},"properties":{"region_id":"village_616440","name":"THIMMALAPURA","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

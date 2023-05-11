@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78075116273732,14.08313269678498],[76.75739640860708,14.08364988963785],[76.75283130355294,14.0710176413427],[76.77498313473647,14.06657057058547],[76.78075116273732,14.08313269678498]]]},"properties":{"region_id":"village_606099","name":"GULYA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

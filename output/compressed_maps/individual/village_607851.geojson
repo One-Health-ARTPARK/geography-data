@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92848613218258,13.96466119895738],[74.91255580686816,13.9709561229175],[74.8779611750302,13.9498606737963],[74.88003743748416,13.93640138547846],[74.92153611574983,13.94472369142582],[74.92848613218258,13.96466119895738]]]},"properties":{"region_id":"village_607851","name":"HEBBIGE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

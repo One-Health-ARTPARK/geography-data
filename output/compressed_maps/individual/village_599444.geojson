@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79026908221434,16.59205891271112],[75.76015998635089,16.59953777016517],[75.74232682927097,16.55108596043418],[75.78529323798782,16.54898301724826],[75.79026908221434,16.59205891271112]]]},"properties":{"region_id":"village_599444","name":"KALGURKI","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

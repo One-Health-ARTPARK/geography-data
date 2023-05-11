@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89527070398056,15.68811610889492],[76.87098134956913,15.69955033543892],[76.87753348308968,15.68722081158938],[76.89527070398056,15.68811610889492]]]},"properties":{"region_id":"village_601211","name":"BASSAPUR (D)","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

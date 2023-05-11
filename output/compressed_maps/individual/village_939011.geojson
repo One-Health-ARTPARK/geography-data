@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87628949745012,12.75775248595676],[75.87333195108448,12.75133131773653],[75.87810583508235,12.74845284312482],[75.88108961718441,12.75368487911483],[75.87628949745012,12.75775248595676]]]},"properties":{"region_id":"village_939011","name":"SHIRAHA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

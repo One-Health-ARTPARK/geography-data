@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8054245888748,13.01237177418055],[76.78581407039711,13.01448932273663],[76.78925907729847,12.99820188764145],[76.80622609109545,12.99540633796513],[76.8054245888748,13.01237177418055]]]},"properties":{"region_id":"village_613727","name":"BETTADAKOTE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

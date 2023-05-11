@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89361745110747,13.9971155554153],[74.87091509905993,13.99458588602328],[74.87166396251514,13.96219497162054],[74.8967613684448,13.97206599448165],[74.89361745110747,13.9971155554153]]]},"properties":{"region_id":"village_607364","name":"CHIMALE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

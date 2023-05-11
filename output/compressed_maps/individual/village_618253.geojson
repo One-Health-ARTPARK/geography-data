@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0651692406873,12.34900739676509],[76.04805697096917,12.34448926503186],[76.04669277020035,12.32942840038681],[76.06972628419472,12.33778419868909],[76.0651692406873,12.34900739676509]]]},"properties":{"region_id":"village_618253","name":"CHANNENAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

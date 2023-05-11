@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65248671314072,15.50685709743063],[75.65905640525615,15.56011050594457],[75.60930224478955,15.55404360549002],[75.59821879705734,15.51450943927759],[75.65248671314072,15.50685709743063]]]},"properties":{"region_id":"village_601993","name":"HUILGOL","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

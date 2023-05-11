@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20030274111488,13.00946792444275],[75.17184693137702,13.006147394502],[75.1944768415764,12.978230317756],[75.20030274111488,13.00946792444275]]]},"properties":{"region_id":"village_617648","name":"GARDADI","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

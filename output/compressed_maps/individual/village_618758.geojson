@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6049818694376,12.2296100173337],[76.58804470279541,12.22838355118334],[76.582843959904,12.20534480290924],[76.61038008558701,12.2077196792466],[76.6049818694376,12.2296100173337]]]},"properties":{"region_id":"village_618758","name":"ODDURU","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

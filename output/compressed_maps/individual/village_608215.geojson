@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18951802487656,13.69544137213493],[75.17212031437604,13.67306922607894],[75.17806682969302,13.66519499170097],[75.19690964297733,13.66784878504285],[75.21197207911071,13.67574504712757],[75.18951802487656,13.69544137213493]]]},"properties":{"region_id":"village_608215","name":"MULUBAGILU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

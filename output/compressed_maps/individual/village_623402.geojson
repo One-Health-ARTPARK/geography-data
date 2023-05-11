@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64958610911675,13.54705624010831],[77.6455216058379,13.56566785168335],[77.6231245941636,13.56610429329525],[77.63092129121912,13.54797522710764],[77.64958610911675,13.54705624010831]]]},"properties":{"region_id":"village_623402","name":"THEKALAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66638014300169,12.23659931375118],[76.6542334478152,12.22255650502197],[76.67281685321528,12.22185226441261],[76.66638014300169,12.23659931375118]]]},"properties":{"region_id":"village_618811","name":"MARASE","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

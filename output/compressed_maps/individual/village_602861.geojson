@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8378166265511,15.30680668155571],[74.8243173124001,15.30054352728298],[74.82892565119774,15.28762993431185],[74.84512455291795,15.29165085384481],[74.8378166265511,15.30680668155571]]]},"properties":{"region_id":"village_602861","name":"MUNDWAD","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

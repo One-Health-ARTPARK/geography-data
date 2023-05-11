@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34079818266638,14.20122094012143],[76.32665192380853,14.18976031116563],[76.344928746932,14.18526849160676],[76.34079818266638,14.20122094012143]]]},"properties":{"region_id":"village_605592","name":"DALAVAIHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

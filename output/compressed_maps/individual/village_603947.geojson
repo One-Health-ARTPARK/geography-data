@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27541128622568,14.97440697312851],[75.25635013423414,14.97671006481485],[75.26485757777789,14.95252326341519],[75.27541128622568,14.97440697312851]]]},"properties":{"region_id":"village_603947","name":"CHIKNELLUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

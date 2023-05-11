@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94737573541038,13.03310573492351],[77.93837800152524,13.03507043638834],[77.93575455508542,13.01795667243937],[77.94661620475125,13.02196208422565],[77.94737573541038,13.03310573492351]]]},"properties":{"region_id":"village_622142","name":"HAROHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91669928803816,13.04728255004073],[76.90665495194906,13.04845183319016],[76.91088748332723,13.04168522256602],[76.91669928803816,13.04728255004073]]]},"properties":{"region_id":"village_612443","name":"MAVINAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

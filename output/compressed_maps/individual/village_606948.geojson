@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05372854360226,14.24131698824097],[76.03349291089334,14.23817801638706],[76.05437802555849,14.22700881643629],[76.05372854360226,14.24131698824097]]]},"properties":{"region_id":"village_606948","name":"KOMARANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

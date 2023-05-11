@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42692388359261,13.25463375072499],[77.42199506730111,13.26224380640059],[77.41577740035152,13.25685175734036],[77.4188811210483,13.25021462445903],[77.42692388359261,13.25463375072499]]]},"properties":{"region_id":"village_625205","name":"PUTTAIANA AGRAHARA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

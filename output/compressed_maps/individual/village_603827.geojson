@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5329815713733,13.96487074204798],[74.54091961945005,13.9828658101462],[74.52696642419983,13.98384214125054],[74.5329815713733,13.96487074204798]]]},"properties":{"region_id":"village_603827","name":"TALGOD","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

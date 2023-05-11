@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08145488325063,12.05804717606317],[77.12350565403635,12.02513770161984],[77.13576593752813,12.04157572385758],[77.08145488325063,12.05804717606317]]]},"properties":{"region_id":"village_619797","name":"GOWDAHALLI","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

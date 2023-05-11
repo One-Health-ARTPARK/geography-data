@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64462497322698,11.83209282527751],[76.60666920393423,11.82987898051866],[76.61045334788166,11.80265161703798],[76.63449495909795,11.8087516196629],[76.64462497322698,11.83209282527751]]]},"properties":{"region_id":"village_619495","name":"MUKHA HALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

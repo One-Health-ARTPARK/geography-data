@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55727600815844,13.33468457980678],[76.55830674212,13.34826934008034],[76.54559683651918,13.35638505441801],[76.54039235929828,13.34340561307943],[76.55727600815844,13.33468457980678]]]},"properties":{"region_id":"village_610241","name":"GOPALANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2782420730837,18.39411096477888],[77.26504916739049,18.39204227964725],[77.25991648782446,18.37773619128056],[77.26996752840674,18.37818651966556],[77.2782420730837,18.39411096477888]]]},"properties":{"region_id":"village_599975","name":"AKNAPUR","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

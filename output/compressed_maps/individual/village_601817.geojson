@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27658544994428,15.42704947180007],[76.27364143419516,15.44590636936956],[76.25269026298028,15.44491052552296],[76.2550720417672,15.43115592081658],[76.27658544994428,15.42704947180007]]]},"properties":{"region_id":"village_601817","name":"ABBIGERI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

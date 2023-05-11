@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24781160416015,12.04120836049141],[77.22635123507483,12.04955634416619],[77.22229404051842,12.03923127597031],[77.23816177478075,12.0302604538825],[77.24781160416015,12.04120836049141]]]},"properties":{"region_id":"village_619873","name":"KANDAYYANAPALYA","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

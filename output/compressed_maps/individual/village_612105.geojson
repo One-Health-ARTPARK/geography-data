@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46727052723357,13.40353732410733],[76.44532325401951,13.40619126410328],[76.45236205110609,13.38654460158763],[76.46727052723357,13.40353732410733]]]},"properties":{"region_id":"village_612105","name":"GOWDANAKATTE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

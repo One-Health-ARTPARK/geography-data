@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84272936996896,13.78126839943587],[74.8253333920288,13.73652798696287],[74.8710938550631,13.72815753770232],[74.87616634786478,13.76428552528032],[74.84272936996896,13.78126839943587]]]},"properties":{"region_id":"village_608710","name":"KERADI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

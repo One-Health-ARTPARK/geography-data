@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52177271250959,15.84439259450601],[74.51428620056438,15.84557584434953],[74.51068958725644,15.84245788263078],[74.51129612698674,15.84081063035079],[74.52073543893829,15.83833096257626],[74.52177271250959,15.84439259450601]]]},"properties":{"region_id":"village_938227","name":"SHAHAPURA","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

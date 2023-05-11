@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24405568203707,15.15739126820619],[76.20149067013506,15.16634458751394],[76.20376888970314,15.14379423431053],[76.24405568203707,15.15739126820619]]]},"properties":{"region_id":"village_604660","name":"HOSANANDEVANAHALLI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

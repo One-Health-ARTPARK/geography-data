@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03782342892507,15.20911155253305],[75.02882286982658,15.22755665133187],[75.01802719568283,15.22439675716163],[75.0273729822664,15.19912181702946],[75.03782342892507,15.20911155253305]]]},"properties":{"region_id":"village_602463","name":"HAROGERI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

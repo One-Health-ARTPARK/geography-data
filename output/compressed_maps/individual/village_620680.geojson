@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17176099874372,17.04029299768779],[77.15216674075529,17.04264572235466],[77.14019836867492,17.01509255215402],[77.17234581241735,17.00882949207526],[77.17176099874372,17.04029299768779]]]},"properties":{"region_id":"village_620680","name":"BHANKALGA","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61285781283978,13.33593228738173],[77.61263595298057,13.35315269419612],[77.59639681783881,13.34774770140859],[77.59333030641919,13.33649696818251],[77.61285781283978,13.33593228738173]]]},"properties":{"region_id":"village_625070","name":"BEEDIKERE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

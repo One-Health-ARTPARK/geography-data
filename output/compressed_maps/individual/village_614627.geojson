@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11507672790643,12.54323788533843],[77.11298090372095,12.529213965887],[77.10201036486534,12.51735624207916],[77.10839609018235,12.51105832340289],[77.12530308952462,12.5235702057995],[77.11507672790643,12.54323788533843]]]},"properties":{"region_id":"village_614627","name":"ARUVANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

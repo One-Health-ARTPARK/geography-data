@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87746158202215,13.54377161109495],[77.87907567592049,13.56126821791992],[77.87110954861478,13.55909830825725],[77.86784088904865,13.54687406807086],[77.87746158202215,13.54377161109495]]]},"properties":{"region_id":"village_624073","name":"YERRAPPANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

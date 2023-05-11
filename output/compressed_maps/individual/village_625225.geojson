@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43061233546764,13.21162710351138],[77.42634817911988,13.22543545219986],[77.41150950079684,13.22494357105657],[77.41730485373637,13.21069177001186],[77.43061233546764,13.21162710351138]]]},"properties":{"region_id":"village_625225","name":"HONNAVARA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

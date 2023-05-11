@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53680586395386,12.12180814143423],[76.54614230340964,12.12568322244038],[76.53488392154682,12.14661192015369],[76.5314140795074,12.12511093568712],[76.53680586395386,12.12180814143423]]]},"properties":{"region_id":"village_618772","name":"KADANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9205950599015,12.47355600679834],[76.90200826851043,12.48289163080292],[76.89433557917073,12.45234566590254],[76.9155324069639,12.45924419963925],[76.9205950599015,12.47355600679834]]]},"properties":{"region_id":"village_614485","name":"MANGALA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

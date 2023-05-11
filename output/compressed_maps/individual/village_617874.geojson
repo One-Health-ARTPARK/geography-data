@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92747463239618,12.79581730157154],[75.92344987777372,12.79926050873271],[75.91999895241106,12.79423113412922],[75.92322779107717,12.79220693155469],[75.92747463239618,12.79581730157154]]]},"properties":{"region_id":"village_617874","name":"HONNEKODI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

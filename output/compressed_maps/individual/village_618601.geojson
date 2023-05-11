@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14367363411225,12.53660509007243],[76.13598640343022,12.53778035269085],[76.13394895926547,12.51844714443763],[76.14336856288134,12.51770381678722],[76.14367363411225,12.53660509007243]]]},"properties":{"region_id":"village_618601","name":"YAREMANUGANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

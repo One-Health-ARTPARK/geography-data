@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59105483856288,13.58119666614749],[77.5788015969911,13.57161816321162],[77.59149113524114,13.54377229890216],[77.6035527772642,13.5642349887075],[77.59105483856288,13.58119666614749]]]},"properties":{"region_id":"village_623343","name":"GUNDLAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71071548077911,12.55920462119015],[76.69828870432173,12.54423811398786],[76.7238017614303,12.54402353269927],[76.71071548077911,12.55920462119015]]]},"properties":{"region_id":"village_614092","name":"ANAVALU","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

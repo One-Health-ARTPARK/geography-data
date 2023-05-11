@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61385548752838,13.64144578221254],[76.6061843516765,13.66609874011551],[76.57504067568271,13.63417279263196],[76.61385548752838,13.64144578221254]]]},"properties":{"region_id":"village_610258","name":"SOMANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

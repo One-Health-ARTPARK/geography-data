@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94712371941748,12.88976841926669],[76.94600430072599,12.898207593322],[76.93798933827394,12.89750241240496],[76.93916801208908,12.88310065062524],[76.94712371941748,12.88976841926669]]]},"properties":{"region_id":"village_612665","name":"BELIGERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

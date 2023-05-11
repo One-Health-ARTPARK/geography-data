@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38887866161694,12.70650784796891],[77.37367955116278,12.70843578058413],[77.37960770834371,12.69171116445181],[77.39226096094237,12.69230084557696],[77.38887866161694,12.70650784796891]]]},"properties":{"region_id":"village_626158","name":"ANNAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50705875663145,13.28612629497805],[76.4861408903912,13.29086117280861],[76.48545593349398,13.28243645571927],[76.49904111236715,13.27476429347694],[76.50705875663145,13.28612629497805]]]},"properties":{"region_id":"village_612076","name":"RAMASETTYHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

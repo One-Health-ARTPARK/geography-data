@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64538422195444,15.01741247253246],[75.61901468057184,15.0083334875593],[75.63606085296581,14.99142673563371],[75.64538422195444,15.01741247253246]]]},"properties":{"region_id":"village_602128","name":"NAGARAMADUVU","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

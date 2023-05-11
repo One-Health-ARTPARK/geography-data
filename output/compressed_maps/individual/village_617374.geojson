@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51061775310987,12.90357044574134],[76.49731290616242,12.90926993955573],[76.48438285553722,12.89002323681523],[76.50520175433698,12.89094926397559],[76.51061775310987,12.90357044574134]]]},"properties":{"region_id":"village_617374","name":"HALEBELAGOLA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

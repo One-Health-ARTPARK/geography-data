@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92659829193914,12.66285226475615],[75.9115609946748,12.66236287862845],[75.91378666976122,12.64656164691927],[75.92423048748178,12.64501922915623],[75.92659829193914,12.66285226475615]]]},"properties":{"region_id":"village_617909","name":"MALAMBI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

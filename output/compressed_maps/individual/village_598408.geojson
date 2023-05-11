@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20463290283995,16.53173175896772],[75.17243202195904,16.53702715848784],[75.14676424912575,16.50766280852356],[75.2050086842657,16.50384959724618],[75.20463290283995,16.53173175896772]]]},"properties":{"region_id":"village_598408","name":"KULHALLI","parent":"subdistrict_7063","parent_name":"RABAKAVI BANAHATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90632685907742,12.7829081505213],[75.90013253408495,12.78520288068892],[75.89252039652678,12.78053197637672],[75.90563613032813,12.77365314292949],[75.90632685907742,12.7829081505213]]]},"properties":{"region_id":"village_617866","name":"BYDAGOTTA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

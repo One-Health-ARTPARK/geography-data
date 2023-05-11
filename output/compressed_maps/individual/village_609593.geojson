@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1295175340586,13.48793834295472],[76.11722743668533,13.48794411338905],[76.11701500323716,13.47691324802666],[76.12960447994567,13.4779409466411],[76.1295175340586,13.48793834295472]]]},"properties":{"region_id":"village_609593","name":"SEVANAGAR","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

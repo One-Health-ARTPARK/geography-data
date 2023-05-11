@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96959796622451,15.74207231024114],[76.9330372303024,15.74778663190609],[76.92816117691711,15.73231309324951],[76.96959796622451,15.74207231024114]]]},"properties":{"region_id":"village_604794","name":"HALEKOTA","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

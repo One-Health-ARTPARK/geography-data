@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03046953245845,15.41128979664393],[76.9919040896592,15.41376750127726],[76.99202378771324,15.37346236965114],[77.04426943235879,15.3774272477791],[77.03046953245845,15.41128979664393]]]},"properties":{"region_id":"village_604853","name":"TALUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

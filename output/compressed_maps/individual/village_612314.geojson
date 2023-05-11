@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76944513372734,13.17676502812241],[76.77578508574445,13.17107225037031],[76.77653538157881,13.17509216786463],[76.76944513372734,13.17676502812241]]]},"properties":{"region_id":"village_612314","name":"KALLANE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

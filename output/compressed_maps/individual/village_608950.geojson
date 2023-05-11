@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26073336393932,13.43364125880032],[75.23633066584719,13.42525798121957],[75.25006691437216,13.41302781005089],[75.26073336393932,13.43364125880032]]]},"properties":{"region_id":"village_608950","name":"SRINGERI (RURAL)","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

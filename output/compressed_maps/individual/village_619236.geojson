@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64423312014284,12.09410302121089],[76.64087494404951,12.11202364166423],[76.62066124127628,12.10526417014057],[76.64423312014284,12.09410302121089]]]},"properties":{"region_id":"village_619236","name":"BYALARU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75387031711371,11.64850276924452],[76.69442331094409,11.63789821633131],[76.68927208008978,11.61503312660655],[76.76772058923913,11.61480203364152],[76.75387031711371,11.64850276924452]]]},"properties":{"region_id":"village_619600","name":"BANDIPURA DISTRICT FOREST","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

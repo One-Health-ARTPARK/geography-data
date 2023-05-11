@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.58757215905885,15.61694138677814],[74.57165895605716,15.62722961450743],[74.57557022739802,15.61349737871333],[74.58757215905885,15.61694138677814]]]},"properties":{"region_id":"village_597893","name":"SHIVOLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

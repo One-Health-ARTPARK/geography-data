@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74052518099123,16.75955708455765],[75.6938107809589,16.74659691059308],[75.69293917080502,16.69785680957305],[75.73787127688648,16.71356924794472],[75.74052518099123,16.75955708455765]]]},"properties":{"region_id":"village_599101","name":"JUMNAL","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

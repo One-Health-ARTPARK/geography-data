@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96343303896694,16.96324111883209],[75.97121821334265,16.9895902895673],[75.94743590758992,16.97406494715243],[75.96343303896694,16.96324111883209]]]},"properties":{"region_id":"village_599289","name":"KENGINAL","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

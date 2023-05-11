@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48998173216778,17.27820834537042],[76.52096491736572,17.28097117270159],[76.52053154889055,17.29113273075439],[76.49064247088135,17.29314337335526],[76.48998173216778,17.27820834537042]]]},"properties":{"region_id":"village_620143","name":"SIDNUR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

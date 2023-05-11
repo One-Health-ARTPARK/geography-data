@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12326382323229,13.27392415168154],[77.12459138185783,13.29289500983544],[77.11196206593594,13.28785034807205],[77.12326382323229,13.27392415168154]]]},"properties":{"region_id":"village_611572","name":"K.PALASANDRA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

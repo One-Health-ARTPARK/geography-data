@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.14109643423313,13.31576407635513],[78.12789527419922,13.31643281937325],[78.12316793458407,13.30864227774036],[78.13580041465036,13.30510645327831],[78.14109643423313,13.31576407635513]]]},"properties":{"region_id":"village_621654","name":"AGRAHARA","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

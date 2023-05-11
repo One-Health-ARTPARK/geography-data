@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37723874104847,12.39427468198556],[76.36075669979716,12.39917108011224],[76.36408672921551,12.38312037341213],[76.37723874104847,12.39427468198556]]]},"properties":{"region_id":"village_618303","name":"MULLURU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08082652901444,14.04965061340909],[75.06567399856793,14.04924049968872],[75.0594454275166,14.02766522255262],[75.07426875361118,14.03173989955997],[75.08082652901444,14.04965061340909]]]},"properties":{"region_id":"village_607247","name":"GIJAGA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

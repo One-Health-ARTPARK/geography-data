@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69595681895439,13.27653194839742],[75.69479812669096,13.27160127923213],[75.69920993439669,13.27107582184948],[75.69968404552088,13.27515655933673],[75.69595681895439,13.27653194839742]]]},"properties":{"region_id":"village_939549","name":"DINNEKERE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

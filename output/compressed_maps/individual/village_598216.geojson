@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00073943908026,15.83127199237205],[74.98633123407265,15.83172044728391],[74.98700009003801,15.81483656323769],[75.0053727284794,15.81963581393634],[75.00073943908026,15.83127199237205]]]},"properties":{"region_id":"village_598216","name":"MALLUR","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

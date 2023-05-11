@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20072800417897,16.11337567229683],[75.19359349022278,16.08746570048983],[75.2130961745071,16.0803028538628],[75.20072800417897,16.11337567229683]]]},"properties":{"region_id":"village_598305","name":"GUDAKATTI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

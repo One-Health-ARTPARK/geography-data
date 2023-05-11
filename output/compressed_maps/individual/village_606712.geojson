@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53027277825284,14.22916141402057],[75.52698695976039,14.20310877084577],[75.54749672876906,14.19976455698808],[75.56484656002708,14.22265012064526],[75.5443921036707,14.22196634893782],[75.53027277825284,14.22916141402057]]]},"properties":{"region_id":"village_606712","name":"JEENAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

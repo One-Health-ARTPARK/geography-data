@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16857621992904,14.96938684326195],[75.15715819635527,14.95049914763769],[75.16949486444987,14.94606759452884],[75.16857621992904,14.96938684326195]]]},"properties":{"region_id":"village_603910","name":"NEERALAKATTI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

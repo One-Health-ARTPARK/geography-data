@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73444200343052,16.49816375028174],[74.73975199442064,16.52270160369982],[74.71548094792365,16.52622586808747],[74.73444200343052,16.49816375028174]]]},"properties":{"region_id":"village_597362","name":"YADRAV","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79273990003242,12.96782225006479],[76.77990169487046,12.9598066316954],[76.7851502045308,12.94647286679088],[76.80068185243238,12.96007836380688],[76.79273990003242,12.96782225006479]]]},"properties":{"region_id":"village_613741","name":"HALALU","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

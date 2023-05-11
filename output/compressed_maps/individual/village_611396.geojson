@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17837900695874,13.29233348748142],[77.19021191985226,13.2911402618062],[77.18969057858313,13.30663272537566],[77.1789871234775,13.30156166712961],[77.17837900695874,13.29233348748142]]]},"properties":{"region_id":"village_611396","name":"PANDITHANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

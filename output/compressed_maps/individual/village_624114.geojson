@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88362328140968,13.49918366466265],[77.86474048534889,13.49642729274287],[77.87423585984058,13.48314988194242],[77.88362328140968,13.49918366466265]]]},"properties":{"region_id":"village_624114","name":"CHIKKATHEKAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

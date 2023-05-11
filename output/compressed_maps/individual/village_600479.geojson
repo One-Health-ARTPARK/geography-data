@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78620671962645,16.22174573070591],[76.7621966525929,16.22369688051593],[76.74796669956429,16.20985906924468],[76.77129516762014,16.19601956279996],[76.78620671962645,16.22174573070591]]]},"properties":{"region_id":"village_600479","name":"MALLAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0576102482966,16.94185596703789],[76.03583629004135,16.94322369522385],[76.03921967435232,16.91501711848795],[76.05595043293587,16.91316355508081],[76.0576102482966,16.94185596703789]]]},"properties":{"region_id":"village_599299","name":"KADLEWAD(P.A)","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

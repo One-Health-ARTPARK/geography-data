@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15483099564858,16.35886711447612],[75.13045014139142,16.33169932454674],[75.15982152406045,16.32320305723095],[75.15483099564858,16.35886711447612]]]},"properties":{"region_id":"village_598558","name":"AKKIMARADI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0144471056116,15.94653998978551],[76.00602546190301,15.93191694688809],[76.0245385192715,15.93153884110161],[76.0144471056116,15.94653998978551]]]},"properties":{"region_id":"village_601426","name":"USALKOPPA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

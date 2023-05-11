@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96472692143242,11.85141787134793],[76.95531564493821,11.85108824463837],[76.95039392976913,11.83454302209015],[76.95853251028963,11.82143727310732],[76.96472692143242,11.85141787134793]]]},"properties":{"region_id":"village_619745","name":"KODIUGANE","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

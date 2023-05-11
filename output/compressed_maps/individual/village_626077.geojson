@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33078097496526,12.78184935811729],[77.28709895711644,12.8042494597982],[77.27770698235676,12.7655146561184],[77.33078097496526,12.78184935811729]]]},"properties":{"region_id":"village_626077","name":"HARISANDRA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

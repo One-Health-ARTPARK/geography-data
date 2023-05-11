@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42211473917497,13.19818978283241],[77.41481103625497,13.20613421667249],[77.40395428394572,13.19778709952894],[77.4216501653826,13.18359123698069],[77.42211473917497,13.19818978283241]]]},"properties":{"region_id":"village_625232","name":"KANNAMANGALA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35244860810226,15.60949923799342],[76.36396648741356,15.63496230335607],[76.34462478592313,15.63370688334365],[76.35244860810226,15.60949923799342]]]},"properties":{"region_id":"village_601561","name":"GOURIPUR","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

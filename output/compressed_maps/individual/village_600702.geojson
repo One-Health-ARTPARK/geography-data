@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90959052663489,16.24162405604524],[76.89442205657244,16.24999059880977],[76.8866401490524,16.24100617331516],[76.90469259192187,16.22899393227825],[76.90959052663489,16.24162405604524]]]},"properties":{"region_id":"village_600702","name":"ADKALGUD","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

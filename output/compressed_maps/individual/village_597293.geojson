@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96291951224016,16.67835448570959],[74.95596793635188,16.69775333148529],[74.94371296110502,16.68504401250269],[74.96291951224016,16.67835448570959]]]},"properties":{"region_id":"village_597293","name":"KATRAL","parent":"subdistrict_7100","parent_name":"KAGWAD"}}
+]}

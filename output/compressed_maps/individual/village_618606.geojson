@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19956187989706,12.53522873323845],[76.20584189361831,12.52438234236357],[76.21602052374962,12.53042174276679],[76.19956187989706,12.53522873323845]]]},"properties":{"region_id":"village_618606","name":"KOLURHANTHA","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

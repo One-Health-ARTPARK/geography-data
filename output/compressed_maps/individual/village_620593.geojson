@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09385875357616,17.49299821510621],[77.08001089261073,17.49848506980688],[77.07296477040379,17.4693501861234],[77.09467587549676,17.46972001207674],[77.09385875357616,17.49299821510621]]]},"properties":{"region_id":"village_620593","name":"REVAI","parent":"subdistrict_7087","parent_name":"KALAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39908581531502,15.78708185421566],[75.38862622718608,15.7222271303957],[75.43156241830748,15.71988967416536],[75.42848062997331,15.78062213894205],[75.39908581531502,15.78708185421566]]]},"properties":{"region_id":"village_601871","name":"SOMAPUR","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

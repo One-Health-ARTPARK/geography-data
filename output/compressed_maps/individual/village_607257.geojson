@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14449837085611,14.08380583791384],[75.12997965390447,14.09871160330578],[75.12776821033393,14.08621949821142],[75.14449837085611,14.08380583791384]]]},"properties":{"region_id":"village_607257","name":"MADARASANAKOPPA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

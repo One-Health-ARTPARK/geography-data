@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45308049109731,15.47629515025054],[75.47290440914759,15.50286980016444],[75.41752232666708,15.51111694295077],[75.38925745428986,15.48610975771883],[75.45308049109731,15.47629515025054]]]},"properties":{"region_id":"village_602359","name":"HALLIKERI","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

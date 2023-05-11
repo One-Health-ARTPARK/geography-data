@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80827249965041,13.70261942135669],[75.79797267380643,13.70760161517839],[75.7957536206595,13.69571230273094],[75.80081950314114,13.69234108968235],[75.80827249965041,13.70261942135669]]]},"properties":{"region_id":"village_609157","name":"INDAVARA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

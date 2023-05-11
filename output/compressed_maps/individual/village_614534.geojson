@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04202011087641,12.63042185538864],[77.00945805002222,12.63577999561521],[77.01962535438128,12.62216823517556],[77.04086554646462,12.62479350696456],[77.04202011087641,12.63042185538864]]]},"properties":{"region_id":"village_614534","name":"KOTHANA HALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

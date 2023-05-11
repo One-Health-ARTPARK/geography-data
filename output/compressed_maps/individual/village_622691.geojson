@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.2873221624856,12.91763615805358],[78.2949458143072,12.9103277150495],[78.29989246649124,12.91283216808178],[78.29038554206826,12.92235506343172],[78.2873221624856,12.91763615805358]]]},"properties":{"region_id":"village_622691","name":"CHINNANAGAHALLI","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

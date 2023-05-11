@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96175591777897,12.12348054903109],[75.9493061397188,12.13692390605563],[75.94025002575904,12.128393626205],[75.94328961489651,12.11405229037047],[75.96175591777897,12.12348054903109]]]},"properties":{"region_id":"village_924029","name":"MUGUTAGERI","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71999401830874,13.25240504496444],[75.70753775714739,13.25230675442997],[75.707799072884,13.24575331451002],[75.71999401830874,13.25240504496444]]]},"properties":{"region_id":"village_609837","name":"THONDAVALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

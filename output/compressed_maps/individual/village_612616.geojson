@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0179404602515,12.97847964264946],[77.00272755625977,12.97966751971806],[77.00575549851656,12.9677321042495],[77.01923495962319,12.96873804409266],[77.0179404602515,12.97847964264946]]]},"properties":{"region_id":"village_612616","name":"YACHAGATTA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

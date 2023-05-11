@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17415257720967,15.38818848717363],[76.15321525543213,15.39141860555021],[76.1274046572828,15.37916736586369],[76.17560282680591,15.37018276292187],[76.17415257720967,15.38818848717363]]]},"properties":{"region_id":"village_601753","name":"OJANHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

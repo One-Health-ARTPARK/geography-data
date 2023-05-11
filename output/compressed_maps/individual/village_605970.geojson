@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4314244712081,13.67540747821028],[76.41942485153024,13.6897808769076],[76.41293691960867,13.6748148275022],[76.4314244712081,13.67540747821028]]]},"properties":{"region_id":"village_605970","name":"MENGASANDRA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

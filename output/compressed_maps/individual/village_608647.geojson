@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66628455849155,13.780942836568],[75.66454066652436,13.76977684010215],[75.64429817172562,13.75952735832868],[75.66138198818304,13.75585417036537],[75.67357075703099,13.77005367726369],[75.66628455849155,13.780942836568]]]},"properties":{"region_id":"village_608647","name":"HONNEHATTI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

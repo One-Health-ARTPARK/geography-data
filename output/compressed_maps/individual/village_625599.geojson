@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95235295118499,13.16035276581277],[77.94022446667266,13.1605826773312],[77.94659973269417,13.14974323779198],[77.95235295118499,13.16035276581277]]]},"properties":{"region_id":"village_625599","name":"MARASANDAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8841696202754,13.55599983050596],[77.8774352126201,13.5435919770149],[77.88900887828756,13.53646081592922],[77.89909369245945,13.55116836178285],[77.8841696202754,13.55599983050596]]]},"properties":{"region_id":"village_624048","name":"BYYAPPANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

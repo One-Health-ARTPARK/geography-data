@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89553175681553,17.4668252581816],[76.89885074370196,17.48639922114123],[76.8777420149515,17.48609853421481],[76.88226591949507,17.4636359651558],[76.89553175681553,17.4668252581816]]]},"properties":{"region_id":"village_620223","name":"KAGGANMARDI","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

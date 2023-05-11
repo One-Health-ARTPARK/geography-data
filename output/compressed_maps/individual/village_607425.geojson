@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16608909415385,14.57526024999553],[75.14677902823351,14.57505615949152],[75.14718443627999,14.56194364094636],[75.16696424282071,14.56223118099022],[75.16608909415385,14.57526024999553]]]},"properties":{"region_id":"village_607425","name":"ANAVATTI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

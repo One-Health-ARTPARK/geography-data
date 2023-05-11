@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67610935942312,13.73746395913676],[77.65705387611338,13.74509261511183],[77.64600781288752,13.722057411415],[77.65209746238067,13.71348317763337],[77.67280914871988,13.72251869708688],[77.67610935942312,13.73746395913676]]]},"properties":{"region_id":"village_623286","name":"KOTHUR","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

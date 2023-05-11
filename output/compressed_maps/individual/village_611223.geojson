@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30295900879956,13.38312684239281],[77.30072260729784,13.3752308407132],[77.31386694946087,13.37567721941196],[77.31196385228182,13.38075127896882],[77.30295900879956,13.38312684239281]]]},"properties":{"region_id":"village_611223","name":"PURADAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

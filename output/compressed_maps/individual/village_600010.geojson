@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26211556728137,18.18409685595792],[77.26485742986164,18.20280659785379],[77.2505293078264,18.19467367533879],[77.26211556728137,18.18409685595792]]]},"properties":{"region_id":"village_600010","name":"BASNAL","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

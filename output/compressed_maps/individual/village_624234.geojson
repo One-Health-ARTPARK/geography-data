@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95011168136796,13.34095450068044],[77.92468629094401,13.34419170456015],[77.92453799396307,13.33872157933973],[77.94162055925908,13.33147601871151],[77.95011168136796,13.34095450068044]]]},"properties":{"region_id":"village_624234","name":"K.MUTHAKADAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

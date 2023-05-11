@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23882549480452,13.17762110320345],[77.21824169857994,13.18383012231597],[77.21275451268667,13.1690567631095],[77.2289038887025,13.16089523648104],[77.23882549480452,13.17762110320345]]]},"properties":{"region_id":"village_624762","name":"SHIVAGANGE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

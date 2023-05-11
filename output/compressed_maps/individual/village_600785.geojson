@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3284318017188,16.16690368622081],[77.33592314279078,16.18931850277911],[77.30957774450246,16.18659070562219],[77.3284318017188,16.16690368622081]]]},"properties":{"region_id":"village_600785","name":"HOSUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.67249141927051,15.9635681762786],[74.66019947360755,15.97621497675321],[74.64284330889195,15.96749086536514],[74.63319806480747,15.94238466769142],[74.69265493076117,15.92584278896575],[74.67249141927051,15.9635681762786]]]},"properties":{"region_id":"village_597757","name":"TUMARGUDDI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

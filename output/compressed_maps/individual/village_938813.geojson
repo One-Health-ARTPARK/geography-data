@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03059516981307,13.08770609063378],[74.98442459695684,13.08623117875478],[74.97447157884082,13.06368212439739],[74.99127958933369,13.05556260324958],[74.99834223121837,13.07578618507063],[75.03059516981307,13.08770609063378]]]},"properties":{"region_id":"village_938813","name":"MARPADI","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

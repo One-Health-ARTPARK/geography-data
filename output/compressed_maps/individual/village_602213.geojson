@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89526112133774,15.56526688055792],[74.90292988807727,15.58275219694693],[74.87592713671066,15.57200360848651],[74.88310003489153,15.56186466662825],[74.89526112133774,15.56526688055792]]]},"properties":{"region_id":"village_602213","name":"DUBBANAMARDI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

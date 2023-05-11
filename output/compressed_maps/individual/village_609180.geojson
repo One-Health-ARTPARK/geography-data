@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82423338321767,13.75812449864375],[75.8268948788689,13.7634332024296],[75.82397940460751,13.77300146326157],[75.82044182364652,13.76817630996198],[75.82058512823477,13.76096444007676],[75.82423338321767,13.75812449864375]]]},"properties":{"region_id":"village_609180","name":"RUSHIPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

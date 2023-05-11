@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97372087968954,13.40664750114639],[77.97348854383979,13.40913340222865],[77.9770774450407,13.41536337681144],[77.97245952797344,13.41320011803337],[77.97372087968954,13.40664750114639]]]},"properties":{"region_id":"village_624558","name":"MALLIKARJUNAPURA","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

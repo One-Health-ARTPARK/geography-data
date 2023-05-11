@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89335506463097,15.83773899853703],[75.88116094152815,15.84657535155588],[75.87386219826435,15.82774936428035],[75.88354289977414,15.82535047870184],[75.89335506463097,15.83773899853703]]]},"properties":{"region_id":"village_601389","name":"KADIVAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

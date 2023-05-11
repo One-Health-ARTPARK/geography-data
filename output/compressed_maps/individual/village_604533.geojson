@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56355559810075,14.60018993915362],[75.53758552201508,14.59800074188112],[75.52623345131495,14.57599105728867],[75.55410155991775,14.56949487175629],[75.56355559810075,14.60018993915362]]]},"properties":{"region_id":"village_604533","name":"JOISARAHARALAHALLI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

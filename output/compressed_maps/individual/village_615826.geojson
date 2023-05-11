@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37000399860892,13.20020338811505],[76.35501253671927,13.19775220064495],[76.36298288265392,13.18182560633284],[76.37886862103616,13.18739388243634],[76.37000399860892,13.20020338811505]]]},"properties":{"region_id":"village_615826","name":"HULLEKERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

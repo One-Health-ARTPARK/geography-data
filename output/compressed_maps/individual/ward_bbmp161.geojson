@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53932599991356,12.93365800018864],[77.53363300010518,12.93399199956321],[77.53860699959732,12.91956800002461],[77.54623499971098,12.92806699968445],[77.53932599991356,12.93365800018864]]]},"properties":{"region_id":"ward_bbmp161","name":"WARD NO.161 (HOSAKEREHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

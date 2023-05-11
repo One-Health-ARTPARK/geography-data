@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40048083194434,15.69282453530915],[75.38602233849814,15.71947589382419],[75.36769419018697,15.69409919184967],[75.40048083194434,15.69282453530915]]]},"properties":{"region_id":"village_601873","name":"ARBAN","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00240966821625,12.91052228292604],[74.98871473577154,12.90412389232028],[74.98378251712079,12.88320520610035],[75.00382204912505,12.88938753423016],[75.00240966821625,12.91052228292604]]]},"properties":{"region_id":"village_617559","name":"KALLIGE","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

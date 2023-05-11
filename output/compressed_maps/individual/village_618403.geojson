@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29506427107437,12.3169884255831],[76.27664514926516,12.32505895773339],[76.27499550869757,12.30775062547476],[76.29506427107437,12.3169884255831]]]},"properties":{"region_id":"village_618403","name":"KALKUNIKE","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

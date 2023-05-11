@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23122327243706,12.44823883214965],[77.22176995184122,12.44023672307009],[77.23479189920405,12.43786412084751],[77.23122327243706,12.44823883214965]]]},"properties":{"region_id":"village_614761","name":"HANDANAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

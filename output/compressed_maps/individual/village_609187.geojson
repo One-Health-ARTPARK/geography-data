@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8406742274965,13.73233572241857],[75.84682355805413,13.7481990032459],[75.83765817784395,13.74840004068714],[75.8406742274965,13.73233572241857]]]},"properties":{"region_id":"village_609187","name":"MIRLENAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

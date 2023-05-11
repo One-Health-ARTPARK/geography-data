@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37667462561919,17.07738360494196],[77.36672163459417,17.08377155010248],[77.36241163876907,17.06675750172727],[77.38072097707297,17.06260314859874],[77.37667462561919,17.07738360494196]]]},"properties":{"region_id":"village_620526","name":"GOPANAPALLI(K)","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49101746955772,13.08420861755495],[77.47972606298707,13.08384939940574],[77.48010036231211,13.07223901065601],[77.49301375993066,13.07342297581458],[77.49101746955772,13.08420861755495]]]},"properties":{"region_id":"village_612775","name":"THAMMENAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

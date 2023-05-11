@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82837546769326,13.77591053445548],[74.79290624423409,13.77655387090487],[74.79630260851256,13.73267355213953],[74.81683139168416,13.7259290272248],[74.82837546769326,13.77591053445548]]]},"properties":{"region_id":"village_608709","name":"HOSOOR","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

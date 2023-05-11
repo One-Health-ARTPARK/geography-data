@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76125686093043,12.99961299326941],[75.75054683538153,12.99919039643371],[75.75003245408169,12.98851482548361],[75.75725276540746,12.99180013204803],[75.76125686093043,12.99961299326941]]]},"properties":{"region_id":"village_615102","name":"NARVEY","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53667134685176,17.93216708233178],[77.55134922715298,17.93027832615757],[77.55733003511016,17.94739262299856],[77.52543868043068,17.93979078390175],[77.53667134685176,17.93216708233178]]]},"properties":{"region_id":"village_600168","name":"HAMILAPUR","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

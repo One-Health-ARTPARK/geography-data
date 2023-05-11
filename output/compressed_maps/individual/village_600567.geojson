@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83571489535778,16.29162674265257],[76.83644061358719,16.30634928979378],[76.82544406278697,16.30138225265311],[76.83571489535778,16.29162674265257]]]},"properties":{"region_id":"village_600567","name":"KATMALLI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

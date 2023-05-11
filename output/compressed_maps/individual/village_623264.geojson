@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50595638046488,13.58288885077292],[77.48627506584252,13.56237412020737],[77.5128822879015,13.55778037660642],[77.50595638046488,13.58288885077292]]]},"properties":{"region_id":"village_623264","name":"VEDALAVENI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

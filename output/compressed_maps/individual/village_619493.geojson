@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67831969041734,11.85481909655481],[76.65230841232949,11.8434043512218],[76.66137408338292,11.83333506913139],[76.67457680618082,11.83924667685085],[76.67831969041734,11.85481909655481]]]},"properties":{"region_id":"village_619493","name":"MADRAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

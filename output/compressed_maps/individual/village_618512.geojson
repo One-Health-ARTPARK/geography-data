@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23110609934987,12.60421284091385],[76.20170754996202,12.60727153939568],[76.19265201416535,12.59436126275702],[76.22148345882127,12.58890078943771],[76.23110609934987,12.60421284091385]]]},"properties":{"region_id":"village_618512","name":"SEEGAVALU","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

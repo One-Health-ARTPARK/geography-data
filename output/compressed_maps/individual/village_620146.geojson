@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5895293600766,17.34571509465317],[76.5591661481172,17.34754398024418],[76.56165552371817,17.31306620157358],[76.58567345670653,17.3173522431637],[76.5895293600766,17.34571509465317]]]},"properties":{"region_id":"village_620146","name":"KOGNUR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40893180220843,17.7266582437149],[77.39421218712626,17.73625793130961],[77.38375135140792,17.71628230293163],[77.39166406659506,17.706600745962],[77.40893180220843,17.7266582437149]]]},"properties":{"region_id":"village_600251","name":"MAGDAL","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

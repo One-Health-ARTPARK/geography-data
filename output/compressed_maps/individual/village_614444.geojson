@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87888044776011,12.54774256279638],[76.89717389508105,12.55346984930619],[76.88478462610003,12.5605991973884],[76.88166603466928,12.55761424006921],[76.87888044776011,12.54774256279638]]]},"properties":{"region_id":"village_614444","name":"GOPALAPURA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

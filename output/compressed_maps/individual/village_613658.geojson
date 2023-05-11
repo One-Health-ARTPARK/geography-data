@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48054303899983,12.5379725132998],[76.46620842053524,12.54230697754887],[76.46373480598365,12.51275286306217],[76.47351570265694,12.51332592066838],[76.48054303899983,12.5379725132998]]]},"properties":{"region_id":"village_613658","name":"GANJIGERE","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

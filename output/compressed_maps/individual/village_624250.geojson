@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83639991095764,13.31957078113931],[77.82495204143909,13.32157407107175],[77.82454886090586,13.31660962878608],[77.83639991095764,13.31957078113931]]]},"properties":{"region_id":"village_624250","name":"PURA","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

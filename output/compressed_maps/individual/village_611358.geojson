@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17677715195352,13.47747617090701],[77.17263016637172,13.47632942945862],[77.17732843250246,13.46640939797162],[77.18276263866348,13.47568364530796],[77.17677715195352,13.47747617090701]]]},"properties":{"region_id":"village_611358","name":"HANUMANTHAGIRI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

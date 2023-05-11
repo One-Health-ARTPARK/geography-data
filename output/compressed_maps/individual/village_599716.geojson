@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31452747758401,16.44414377618165],[76.29626515295021,16.44808328993966],[76.30123732560386,16.42096529406403],[76.31452747758401,16.44414377618165]]]},"properties":{"region_id":"village_599716","name":"HADAGINAL","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

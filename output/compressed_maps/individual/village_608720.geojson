@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98750859951286,13.71935416385712],[74.95438599948474,13.75830260917123],[74.91263099615159,13.73101095770724],[74.93855937414025,13.70645647308625],[74.98750859951286,13.71935416385712]]]},"properties":{"region_id":"village_608720","name":"YEDAMOGGE","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

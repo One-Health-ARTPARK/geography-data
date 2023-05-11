@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23113805723526,13.33323972334304],[77.2240825846567,13.33555188956921],[77.21774322242368,13.32569201661051],[77.2263568640022,13.32672001906331],[77.23113805723526,13.33323972334304]]]},"properties":{"region_id":"village_611407","name":"VITRAVUTHANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

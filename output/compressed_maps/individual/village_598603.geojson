@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38392950034086,16.21771978290748],[75.36836577313684,16.21914067059549],[75.36297738825661,16.19277377035184],[75.38897852040989,16.19023024512719],[75.38392950034086,16.21771978290748]]]},"properties":{"region_id":"village_598603","name":"CHITRABANUKOTI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

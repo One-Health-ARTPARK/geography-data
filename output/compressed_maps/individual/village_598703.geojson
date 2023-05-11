@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57381087174647,15.94042393035332],[75.5369053107716,15.94681927713575],[75.53214803344974,15.91430439443144],[75.56487320068419,15.90475272220673],[75.57381087174647,15.94042393035332]]]},"properties":{"region_id":"village_598703","name":"NEELAGUND","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

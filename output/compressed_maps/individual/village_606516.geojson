@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.431765661411,14.49407753266452],[76.37053114390284,14.50039121529874],[76.38595826944324,14.47295381100883],[76.41960597881177,14.47065744884538],[76.431765661411,14.49407753266452]]]},"properties":{"region_id":"village_606516","name":"DONNEHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

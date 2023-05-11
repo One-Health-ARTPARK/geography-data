@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81797832562617,12.91611019431393],[76.79911896031972,12.92167368900647],[76.79418234383117,12.90639397151545],[76.81505820242755,12.90590037835904],[76.81797832562617,12.91611019431393]]]},"properties":{"region_id":"village_613858","name":"KARAGERE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

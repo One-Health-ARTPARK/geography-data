@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99719813018771,15.86825279748692],[74.98287340605481,15.86819958202894],[74.97502831219079,15.8312265995041],[74.9939222613904,15.83395946756291],[75.000997603042,15.85148879860581],[74.99719813018771,15.86825279748692]]]},"properties":{"region_id":"village_598215","name":"KAGIHAL","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65762775950832,11.86573125622428],[76.65230841232949,11.8434043512218],[76.66529846338673,11.84734936299329],[76.67051343273315,11.86064027198507],[76.65762775950832,11.86573125622428]]]},"properties":{"region_id":"village_619487","name":"MALAVALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

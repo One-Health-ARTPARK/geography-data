@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23716857374285,14.09951577022554],[75.21984795099957,14.10394613985903],[75.21223886189485,14.07664188440267],[75.23578520960876,14.07640615165502],[75.23716857374285,14.09951577022554]]]},"properties":{"region_id":"village_607291","name":"MALANDURU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

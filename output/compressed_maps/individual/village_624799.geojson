@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37075315514198,13.26092519648074],[77.35544661706291,13.2567520068787],[77.36132415091751,13.23931483632093],[77.37191329794568,13.23875972431237],[77.37075315514198,13.26092519648074]]]},"properties":{"region_id":"village_624799","name":"BALLAGERE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

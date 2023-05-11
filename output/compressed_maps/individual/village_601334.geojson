@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16488199407182,15.48471440702118],[76.13737206628076,15.48114932334996],[76.1601523145823,15.45814274057036],[76.16488199407182,15.48471440702118]]]},"properties":{"region_id":"village_601334","name":"CHIKBEEDINHALU","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

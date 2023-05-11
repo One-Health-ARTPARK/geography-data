@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03181345629949,14.14866236113529],[76.00018805623822,14.15068550680108],[75.99811948197336,14.13612420145734],[76.02570823840256,14.13189426166687],[76.03181345629949,14.14866236113529]]]},"properties":{"region_id":"village_606967","name":"KULENUR","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

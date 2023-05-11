@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.41494044652657,15.77158502134977],[74.39750378881944,15.76955318229166],[74.38861375410386,15.75157574485145],[74.41854734809458,15.74229833987103],[74.42419521890857,15.7610331276692],[74.41494044652657,15.77158502134977]]]},"properties":{"region_id":"village_597737","name":"KINIYE","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

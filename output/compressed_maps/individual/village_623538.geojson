@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7574050661223,13.49890470927119],[77.75003464250379,13.4995894197375],[77.74680009997455,13.48816831160009],[77.75414515875143,13.48387548818077],[77.7574050661223,13.49890470927119]]]},"properties":{"region_id":"village_623538","name":"HUNEGALLU","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

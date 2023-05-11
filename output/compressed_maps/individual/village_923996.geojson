@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95332754516645,12.49236386692005],[75.94175751913588,12.4957611301516],[75.94314075986806,12.48633350326123],[75.95332754516645,12.49236386692005]]]},"properties":{"region_id":"village_923996","name":"BASAVANTHUR","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

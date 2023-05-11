@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76506462429953,13.78405012201309],[77.75536645538489,13.76232014635811],[77.77340195820865,13.7588655893339],[77.78012577513178,13.77951877458479],[77.76506462429953,13.78405012201309]]]},"properties":{"region_id":"village_623849","name":"KONDAREDDIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

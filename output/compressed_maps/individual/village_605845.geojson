@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19839133348458,13.84373576485014],[76.19750822569304,13.8284074458752],[76.21220838664654,13.82617672029769],[76.21300352211328,13.83805372504339],[76.19839133348458,13.84373576485014]]]},"properties":{"region_id":"village_605845","name":"IYALAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

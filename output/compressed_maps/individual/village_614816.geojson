@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12501513824387,12.30749054237535],[77.11073343931318,12.31237414772889],[77.08479215077384,12.30952144966624],[77.08899456034342,12.29262148699373],[77.12107811383619,12.30034100501552],[77.12501513824387,12.30749054237535]]]},"properties":{"region_id":"village_614816","name":"DASANADODDI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

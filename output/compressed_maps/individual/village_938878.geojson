@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02200092487584,12.80898329721255],[76.01317162859411,12.80877349562959],[76.01220354367743,12.80439083066415],[76.01936440144391,12.80497897988267],[76.02200092487584,12.80898329721255]]]},"properties":{"region_id":"village_938878","name":"KABBARLE","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

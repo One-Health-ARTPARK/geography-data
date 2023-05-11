@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43493821593549,15.02609825126081],[75.41922985658172,15.02749873617339],[75.4181414606018,15.00757761316624],[75.43824301793191,15.01765041813832],[75.43493821593549,15.02609825126081]]]},"properties":{"region_id":"village_604010","name":"HONIKOP","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

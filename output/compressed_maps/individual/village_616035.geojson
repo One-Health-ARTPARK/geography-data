@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11244627983776,13.00992886974001],[76.10860815461028,13.01343807659822],[76.10300879043439,13.00543799492743],[76.10790947403561,13.00265509112315],[76.11244627983776,13.00992886974001]]]},"properties":{"region_id":"village_616035","name":"HASSAN","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83179814319456,14.5866690400263],[75.81420813483278,14.5857547309024],[75.82171668055221,14.56662323410363],[75.84085419167344,14.56910183701589],[75.83179814319456,14.5866690400263]]]},"properties":{"region_id":"village_606265","name":"DHEETUR","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70916682118977,11.79870352463984],[76.68788360452552,11.78007077338231],[76.71244120657818,11.77470776090396],[76.70916682118977,11.79870352463984]]]},"properties":{"region_id":"village_619514","name":"ANNUR","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

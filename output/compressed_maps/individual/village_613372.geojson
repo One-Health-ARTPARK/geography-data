@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41530989253873,12.82605026497405],[76.39803655031996,12.83755236045918],[76.39567183652602,12.81351670069481],[76.4126636271898,12.8090973617562],[76.41530989253873,12.82605026497405]]]},"properties":{"region_id":"village_613372","name":"ANCHEBEERANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

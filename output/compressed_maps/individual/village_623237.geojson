@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5175949023792,13.66721149404093],[77.5397257763843,13.67839366679368],[77.51191118296066,13.68669276040685],[77.5175949023792,13.66721149404093]]]},"properties":{"region_id":"village_623237","name":"GOWDASANDRA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

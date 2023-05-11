@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88887949788919,13.31301980857691],[77.86429607419984,13.31555315724922],[77.86266989978182,13.29570435763668],[77.87755099300603,13.29538462584038],[77.88887949788919,13.31301980857691]]]},"properties":{"region_id":"village_624255","name":"NADIPINAYAKANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

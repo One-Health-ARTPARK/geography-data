@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31451710224603,12.3459040752432],[76.32659152598211,12.3463984535782],[76.31525354039816,12.3650656747205],[76.30649466685949,12.35912401242202],[76.31451710224603,12.3459040752432]]]},"properties":{"region_id":"village_618319","name":"AGRAHARA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

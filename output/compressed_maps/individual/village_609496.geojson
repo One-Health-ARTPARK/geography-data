@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00991052276179,13.5611706314175],[76.02302216702061,13.56398233357512],[76.02989101618144,13.58267139642959],[76.00857745249075,13.58466500272],[76.00991052276179,13.5611706314175]]]},"properties":{"region_id":"village_609496","name":"THURUVANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

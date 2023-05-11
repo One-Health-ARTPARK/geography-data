@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99584980181353,12.43899192778523],[76.9802000244788,12.40010661539988],[77.00813664398194,12.4043786957447],[77.00605980584382,12.4283273096846],[76.99584980181353,12.43899192778523]]]},"properties":{"region_id":"village_614662","name":"DUGGANAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

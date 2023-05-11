@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9993758330367,16.08206381142614],[75.97777350036007,16.08874879574225],[75.93746320730753,16.08479918416649],[75.94899831811983,16.07001554358144],[75.97649486171102,16.07165415120185],[75.9993758330367,16.08206381142614]]]},"properties":{"region_id":"village_598929","name":"HULIGINAL","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

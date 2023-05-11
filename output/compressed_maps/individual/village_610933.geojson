@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36150279501517,13.72591031360653],[77.32766374644787,13.73490203227192],[77.34332102003265,13.71611508351657],[77.36150279501517,13.72591031360653]]]},"properties":{"region_id":"village_610933","name":"KALENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

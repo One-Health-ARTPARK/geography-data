@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36231669923473,12.00997873442035],[76.33609481802,12.0070491329506],[76.34997666879545,11.99131086942598],[76.3695560494623,11.99119830170947],[76.36231669923473,12.00997873442035]]]},"properties":{"region_id":"village_619023","name":"NERALE","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

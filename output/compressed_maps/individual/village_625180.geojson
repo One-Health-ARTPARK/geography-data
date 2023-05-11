@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4319195913515,13.28449566884974],[77.43238780235328,13.29688503350324],[77.4147782085404,13.29727849657074],[77.41992426814295,13.27239122905081],[77.4319195913515,13.28449566884974]]]},"properties":{"region_id":"village_625180","name":"DODDABELAVANGALA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

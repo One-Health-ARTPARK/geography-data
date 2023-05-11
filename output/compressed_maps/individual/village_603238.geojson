@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82112492509053,14.57043100492429],[74.8352750645268,14.56354395221339],[74.83747301567732,14.57414507773859],[74.82112492509053,14.57043100492429]]]},"properties":{"region_id":"village_603238","name":"BETKOPPA","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

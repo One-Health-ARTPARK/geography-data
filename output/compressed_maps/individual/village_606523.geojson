@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28320240134342,14.44100098443212],[76.26029681886497,14.4441659479985],[76.26417923393667,14.42483222061726],[76.28439131989653,14.42559875626139],[76.28320240134342,14.44100098443212]]]},"properties":{"region_id":"village_606523","name":"SANTHEMUDDAPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

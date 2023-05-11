@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18569660600545,18.18684769457126],[77.16868154845157,18.19970242752884],[77.14085049341071,18.18796279114855],[77.1504007051068,18.15360223816291],[77.18569660600545,18.18684769457126]]]},"properties":{"region_id":"village_600012","name":"SONALA","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

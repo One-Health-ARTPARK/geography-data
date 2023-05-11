@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0422066358737,13.46625472229494],[77.036258042366,13.46248787328863],[77.05362795303338,13.44898245907156],[77.05738879868,13.46156275306799],[77.0422066358737,13.46625472229494]]]},"properties":{"region_id":"village_611254","name":"BOMMANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

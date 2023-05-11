@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16333929387933,16.52732094786475],[77.1270441709767,16.53282419383076],[77.14134071870713,16.48952856716429],[77.16333929387933,16.52732094786475]]]},"properties":{"region_id":"village_621208","name":"ROTNADGI","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

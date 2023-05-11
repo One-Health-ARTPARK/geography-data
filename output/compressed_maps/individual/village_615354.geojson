@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99050977276798,13.15976633858164],[75.99662943029176,13.17594114010247],[75.97933316495745,13.1813102800041],[75.98355565307202,13.16089806936151],[75.99050977276798,13.15976633858164]]]},"properties":{"region_id":"village_615354","name":"PANDITANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

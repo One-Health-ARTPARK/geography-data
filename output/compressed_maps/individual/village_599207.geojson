@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84032969002106,17.3069092675369],[75.80655723030733,17.28171833475003],[75.85232039342924,17.2672957543827],[75.84032969002106,17.3069092675369]]]},"properties":{"region_id":"village_599207","name":"ARAJANAL","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

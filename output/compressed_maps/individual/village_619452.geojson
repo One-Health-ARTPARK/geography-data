@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70414596892532,11.94947481166716],[76.72046187518134,11.94756288090749],[76.72404762149168,11.960272257315],[76.70132243523229,11.95920413395416],[76.70414596892532,11.94947481166716]]]},"properties":{"region_id":"village_619452","name":"BHOGGANAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

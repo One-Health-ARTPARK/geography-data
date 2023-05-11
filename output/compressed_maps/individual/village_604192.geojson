@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35068729035713,14.86352155144794],[75.34243493285562,14.86509088452313],[75.32247518596373,14.8486726766625],[75.3354661208198,14.84512394538251],[75.3512161473313,14.85003410663342],[75.35068729035713,14.86352155144794]]]},"properties":{"region_id":"village_604192","name":"VARADAHALLI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

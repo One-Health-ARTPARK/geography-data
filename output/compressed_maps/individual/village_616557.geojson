@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02447981688566,12.76885403131971],[76.02354545516236,12.77427835114949],[76.01048972610255,12.76917068715654],[76.01792060785102,12.76306406318864],[76.02447981688566,12.76885403131971]]]},"properties":{"region_id":"village_616557","name":"VIJAPURA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

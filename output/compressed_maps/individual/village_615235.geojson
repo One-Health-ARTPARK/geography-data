@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85190294884065,13.13362973774926],[75.84834195283368,13.14246119380052],[75.83972656215381,13.14061915180909],[75.84362736288936,13.12486103649753],[75.85190294884065,13.13362973774926]]]},"properties":{"region_id":"village_615235","name":"NITTOR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

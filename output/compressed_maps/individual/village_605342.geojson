@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61720011277711,14.24102043098056],[76.60374565798654,14.28151452193871],[76.58351960666062,14.24764391919683],[76.61720011277711,14.24102043098056]]]},"properties":{"region_id":"village_605342","name":"KANNENAHALLI (B)","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

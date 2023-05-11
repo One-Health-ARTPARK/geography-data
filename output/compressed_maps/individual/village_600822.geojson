@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28811167352856,16.1336119462904],[77.31403296330858,16.15517165943939],[77.27761669019402,16.15663138438951],[77.28811167352856,16.1336119462904]]]},"properties":{"region_id":"village_600822","name":"NELHAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

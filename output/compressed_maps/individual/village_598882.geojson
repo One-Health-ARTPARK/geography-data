@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86610852704572,16.04206391650956],[75.85501788716618,16.04761170712087],[75.85072933107524,16.03568246316949],[75.86619039425749,16.0327170542654],[75.86610852704572,16.04206391650956]]]},"properties":{"region_id":"village_598882","name":"KALLIGUDDA","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

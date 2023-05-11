@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9734310935825,16.58097171746296],[75.00996127131225,16.57914519835701],[75.0043659701865,16.60716375506348],[74.9734310935825,16.58097171746296]]]},"properties":{"region_id":"village_597314","name":"SANKARATTI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

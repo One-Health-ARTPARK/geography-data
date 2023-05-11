@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05144566450385,15.70556625587602],[76.05182081378962,15.72482781990229],[76.02801331313898,15.71366540005837],[76.05144566450385,15.70556625587602]]]},"properties":{"region_id":"village_601239","name":"JHULKATTI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

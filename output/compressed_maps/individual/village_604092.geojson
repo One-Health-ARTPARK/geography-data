@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18157707042856,14.79915236063973],[75.17059901354394,14.78054461683593],[75.18688407338291,14.77632761030153],[75.19302630888119,14.78834242352313],[75.18157707042856,14.79915236063973]]]},"properties":{"region_id":"village_604092","name":"ARALESHWAR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87073352642572,16.85570869398163],[75.87000554646824,16.88180209523187],[75.80213880101276,16.87498744195511],[75.80379015305536,16.7958990508301],[75.83849548392553,16.8395024225386],[75.87073352642572,16.85570869398163]]]},"properties":{"region_id":"village_599087","name":"MADHABHAVI","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17008257692092,14.01569301168407],[76.19416827159372,14.02240551378495],[76.20236591677431,14.06210088618662],[76.16346689086052,14.06835173149656],[76.17008257692092,14.01569301168407]]]},"properties":{"region_id":"village_605740","name":"HOLALKERE (RURAL)","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

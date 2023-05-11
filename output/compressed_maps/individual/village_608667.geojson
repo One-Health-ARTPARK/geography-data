@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.64720556138231,13.78089450093843],[74.64214217181275,13.79671612868161],[74.62072915842825,13.81417777976556],[74.63325889609024,13.75806978549463],[74.64720556138231,13.78089450093843]]]},"properties":{"region_id":"village_608667","name":"KIRIMANJESHWAR","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87110815252288,16.03023663063401],[76.83161523177225,16.03231856632009],[76.85104432497864,16.00871114769526],[76.87110815252288,16.03023663063401]]]},"properties":{"region_id":"village_600926","name":"MALLADGUDDA","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

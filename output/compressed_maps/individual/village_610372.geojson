@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99243689737028,13.77097139608986],[76.98487339840234,13.79073546469555],[76.97642666804214,13.77984660418191],[76.99243689737028,13.77097139608986]]]},"properties":{"region_id":"village_610372","name":"KORATAKERE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

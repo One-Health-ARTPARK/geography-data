@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74941765767957,13.32047581736053],[77.74079987291698,13.30581021043501],[77.7555493393249,13.30442101797803],[77.74941765767957,13.32047581736053]]]},"properties":{"region_id":"village_625332","name":"HAROHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

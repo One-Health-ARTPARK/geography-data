@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48411297812561,13.09789508232905],[77.47557584954004,13.09956921327301],[77.47191476235209,13.08567335202873],[77.48177056775366,13.08372697007151],[77.48411297812561,13.09789508232905]]]},"properties":{"region_id":"village_612878","name":"SASIVEGHATTA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

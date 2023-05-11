@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0922241854795,13.66208236829521],[77.08670909951383,13.66441521365362],[77.07911128536597,13.6624827344299],[77.08911978269991,13.66068006413747],[77.0922241854795,13.66208236829521]]]},"properties":{"region_id":"village_610774","name":"KRISHNAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

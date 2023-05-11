@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50629702443138,12.26829942297461],[76.49347322339322,12.2582247542848],[76.49326687548644,12.23880995669334],[76.50913313839462,12.25821206653084],[76.50629702443138,12.26829942297461]]]},"properties":{"region_id":"village_618910","name":"GOLLANABEEDUSARAGUR","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

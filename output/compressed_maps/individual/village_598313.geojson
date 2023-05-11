@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30065359038123,16.11732216307071],[75.27470522049296,16.12043956909815],[75.26346467158262,16.077336274103],[75.2796941014309,16.07509429349597],[75.29181451863163,16.08068038399256],[75.30065359038123,16.11732216307071]]]},"properties":{"region_id":"village_598313","name":"UDAPUDI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

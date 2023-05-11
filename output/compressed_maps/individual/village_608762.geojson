@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72877915930357,13.52299431440546],[74.71969985844038,13.51618334816356],[74.72556008003598,13.50622575346029],[74.73193441827121,13.51010945240162],[74.72877915930357,13.52299431440546]]]},"properties":{"region_id":"village_608762","name":"BANNADY","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7278755646659,13.14617056710345],[77.71807967079911,13.14519324832921],[77.71462170324209,13.11621002632215],[77.73003333668245,13.13131901269614],[77.7278755646659,13.14617056710345]]]},"properties":{"region_id":"village_612926","name":"MANCHAPPANAHOSAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

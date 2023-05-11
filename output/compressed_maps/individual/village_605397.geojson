@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60333802209497,14.47028257856357],[76.58663270912754,14.46528388752726],[76.5885365048265,14.44012869001644],[76.6013360782462,14.44341803087029],[76.60333802209497,14.47028257856357]]]},"properties":{"region_id":"village_605397","name":"GOWRIPURA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

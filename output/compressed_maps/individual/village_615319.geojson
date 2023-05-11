@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92139677864174,13.18110432295331],[75.90977303077146,13.18098475736478],[75.90729748174317,13.17234132207148],[75.91927542870287,13.17456226745663],[75.92139677864174,13.18110432295331]]]},"properties":{"region_id":"village_615319","name":"IBBEDU HOSAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94863351221078,13.10624126461444],[76.94489443468487,13.09597560904215],[76.96199234955516,13.09308955976512],[76.95775051870788,13.10093505664325],[76.94863351221078,13.10624126461444]]]},"properties":{"region_id":"village_611959","name":"ABBANAKUPPE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

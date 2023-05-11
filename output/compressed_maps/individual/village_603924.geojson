@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25148569040998,15.05167722439598],[75.24623507888614,15.07000045710486],[75.23222444561462,15.0672837904144],[75.23253112109217,15.04136183561605],[75.25148569040998,15.05167722439598]]]},"properties":{"region_id":"village_603924","name":"KABANUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

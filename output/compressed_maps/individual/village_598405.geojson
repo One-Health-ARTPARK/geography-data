@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10131107054646,16.52085772974489],[75.07515326557693,16.52248843679786],[75.07422040809128,16.50380522635515],[75.09046727453772,16.4972649382974],[75.10131107054646,16.52085772974489]]]},"properties":{"region_id":"village_598405","name":"HALINGALI","parent":"subdistrict_7063","parent_name":"RABAKAVI BANAHATTI"}}
+]}

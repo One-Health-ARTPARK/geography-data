@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02635119579054,17.32759340289774],[77.0435735146166,17.35223944475128],[77.02121030814129,17.37739877250931],[77.01068568017493,17.34606003804582],[77.02635119579054,17.32759340289774]]]},"properties":{"region_id":"village_620250","name":"KALBENUR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

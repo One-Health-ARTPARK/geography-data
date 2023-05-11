@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25312429400556,15.22686806889466],[75.2338470347802,15.23304447836878],[75.24295546897244,15.21725702251672],[75.25312429400556,15.22686806889466]]]},"properties":{"region_id":"village_602523","name":"BILEBAL","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

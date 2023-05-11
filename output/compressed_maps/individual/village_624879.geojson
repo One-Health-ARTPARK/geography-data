@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39042536905346,13.13547851650064],[77.37846843173406,13.13384706558569],[77.37341885816423,13.12275504335956],[77.38854893901672,13.12004381508571],[77.39042536905346,13.13547851650064]]]},"properties":{"region_id":"village_624879","name":"KANUGONDANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

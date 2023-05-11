@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08983538325262,13.22119579177004],[76.07526890884363,13.21682661125483],[76.08099632765938,13.20117093019229],[76.09703332626688,13.2116892687764],[76.08983538325262,13.22119579177004]]]},"properties":{"region_id":"village_615310","name":"GANGUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

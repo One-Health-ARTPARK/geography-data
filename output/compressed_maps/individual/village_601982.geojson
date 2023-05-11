@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0370627785925,15.7372665402974],[76.03006591574675,15.74712970698464],[76.02011769524623,15.74775814854925],[76.02695873673852,15.72956058934324],[76.0370627785925,15.7372665402974]]]},"properties":{"region_id":"village_601982","name":"NAGARASHIKOPPA","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

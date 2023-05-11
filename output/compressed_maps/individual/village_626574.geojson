@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4495693432385,12.33223546195168],[77.47117436494868,12.3246534262437],[77.48905391458617,12.33388404194467],[77.48160941384648,12.34851559679308],[77.4495693432385,12.33223546195168]]]},"properties":{"region_id":"village_626574","name":"AREKOPPA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

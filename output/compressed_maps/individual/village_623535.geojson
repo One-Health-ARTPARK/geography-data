@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7926719997817,13.5096865696535],[77.76760217134893,13.49802119576902],[77.77472188414386,13.48288840412499],[77.7926719997817,13.5096865696535]]]},"properties":{"region_id":"village_623535","name":"SOPPAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

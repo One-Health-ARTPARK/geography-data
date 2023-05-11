@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85065380748733,13.22538156558731],[76.83927674410558,13.22942000994468],[76.83288201623357,13.21876051690324],[76.84509406310963,13.21914673841557],[76.85065380748733,13.22538156558731]]]},"properties":{"region_id":"village_611903","name":"PEDDANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

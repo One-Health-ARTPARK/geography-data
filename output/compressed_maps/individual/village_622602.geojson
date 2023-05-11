@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.22447466656625,12.91266383107508],[78.2313262126902,12.90361411245156],[78.25918396351439,12.89823564781021],[78.2580247704695,12.90607996554703],[78.22447466656625,12.91266383107508]]]},"properties":{"region_id":"village_622602","name":"DIMBALADEBBANAHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

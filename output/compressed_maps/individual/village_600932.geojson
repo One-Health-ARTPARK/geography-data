@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86628990820208,16.19014374522581],[76.84910610315553,16.19973859204313],[76.84353537420958,16.19151846264871],[76.8640622323327,16.18404679128112],[76.86628990820208,16.19014374522581]]]},"properties":{"region_id":"village_600932","name":"KASAN DODDI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

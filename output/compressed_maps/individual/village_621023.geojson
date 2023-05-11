@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64225633292472,16.39350519038994],[76.64764279075098,16.3616222308069],[76.6654419761345,16.37323466405723],[76.64225633292472,16.39350519038994]]]},"properties":{"region_id":"village_621023","name":"BANDOLI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

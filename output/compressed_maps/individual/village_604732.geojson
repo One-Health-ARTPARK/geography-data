@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49007143370878,15.3441670802273],[76.4921418216799,15.3337332576726],[76.50142750219095,15.33976165678856],[76.49007143370878,15.3441670802273]]]},"properties":{"region_id":"village_604732","name":"NIMBAPURA","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

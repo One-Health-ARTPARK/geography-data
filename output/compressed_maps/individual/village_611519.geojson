@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01334235284283,13.17806854346719],[77.03172306310785,13.16608773936616],[77.0351762379353,13.18036466880293],[77.01334235284283,13.17806854346719]]]},"properties":{"region_id":"village_611519","name":"KAMBALAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

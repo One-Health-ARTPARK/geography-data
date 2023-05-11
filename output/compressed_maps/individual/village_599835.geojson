@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95162186810992,17.62350207193069],[76.9837477164818,17.65297007783457],[76.96266055550157,17.67455306356698],[76.94539284381217,17.65024215030967],[76.95162186810992,17.62350207193069]]]},"properties":{"region_id":"village_599835","name":"KALKORA","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

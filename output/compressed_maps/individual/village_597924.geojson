@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.49134093549065,15.61651287438886],[74.44996368802224,15.62028359392766],[74.46700388524448,15.58269411520692],[74.48465519076647,15.59418878469668],[74.49134093549065,15.61651287438886]]]},"properties":{"region_id":"village_597924","name":"MANTURGA","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

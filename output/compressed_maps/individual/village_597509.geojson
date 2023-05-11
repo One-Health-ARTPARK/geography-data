@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11316334093489,16.32807320526611],[75.08570292069778,16.32217340790261],[75.08491984135443,16.29430731198118],[75.10300323864732,16.29167098033509],[75.11316334093489,16.32807320526611]]]},"properties":{"region_id":"village_597509","name":"ARALIMATTI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

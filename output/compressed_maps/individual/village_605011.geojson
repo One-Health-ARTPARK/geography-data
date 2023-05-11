@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65974352250252,15.0193653629268],[76.64850463716941,15.00703002060691],[76.66386713695952,14.98623263307934],[76.66891911597081,14.99730025651229],[76.65836455215197,15.00601167546226],[76.65974352250252,15.0193653629268]]]},"properties":{"region_id":"village_605011","name":"NARAYANAPUR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

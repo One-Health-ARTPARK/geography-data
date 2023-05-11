@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83918194950785,12.96579444544578],[77.82969218163004,12.97494934117079],[77.82781133765161,12.96104266029359],[77.83918194950785,12.96579444544578]]]},"properties":{"region_id":"village_625728","name":"DEVANAGONDI HOSAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

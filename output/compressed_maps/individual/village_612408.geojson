@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83733091578848,13.10921826684956],[76.81002815348518,13.10677395779468],[76.80973936353334,13.09665513577565],[76.83615964015566,13.09910727186176],[76.83733091578848,13.10921826684956]]]},"properties":{"region_id":"village_612408","name":"MANICHENDUR","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

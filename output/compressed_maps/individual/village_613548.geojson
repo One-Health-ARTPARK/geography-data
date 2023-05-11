@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42319299922939,12.64395551188673],[76.41597000656101,12.64263398643698],[76.40918027731209,12.65787565208714],[76.39905299312623,12.65375638904477],[76.40464355619825,12.63903990622137],[76.42319299922939,12.64395551188673]]]},"properties":{"region_id":"village_613548","name":"BANDIHOLE","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

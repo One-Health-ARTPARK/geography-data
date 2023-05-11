@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74576422495586,12.72844177010527],[77.73313917675615,12.72826895965353],[77.72880238543945,12.71827027869458],[77.742473069757,12.71251538966565],[77.74576422495586,12.72844177010527]]]},"properties":{"region_id":"village_613351","name":"RACHAMANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

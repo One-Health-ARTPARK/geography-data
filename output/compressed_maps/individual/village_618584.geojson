@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31484832121728,12.42728640029227],[76.28638750822289,12.42682767984721],[76.30123170849052,12.41379109085521],[76.31484832121728,12.42728640029227]]]},"properties":{"region_id":"village_618584","name":"MARAGOWDANAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16869368183248,12.68846222041092],[77.16779825346701,12.694933919861],[77.16401568411528,12.69477219063602],[77.16479768812539,12.69107315074591],[77.16869368183248,12.68846222041092]]]},"properties":{"region_id":"village_626239","name":"THORE HOSUR","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

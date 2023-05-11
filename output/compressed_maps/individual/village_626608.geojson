@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57457280698574,12.43016698657716],[77.55046557756094,12.43251493373894],[77.54234302715656,12.4412204412038],[77.5286360064333,12.42865206537823],[77.53730888313159,12.42057796687582],[77.57457280698574,12.43016698657716]]]},"properties":{"region_id":"village_626608","name":"YERAMGERE","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

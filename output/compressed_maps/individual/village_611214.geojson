@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30832461615942,13.40850170271213],[77.29163465763969,13.39822438255712],[77.30263001054283,13.38454365270756],[77.30832461615942,13.40850170271213]]]},"properties":{"region_id":"village_611214","name":"THIMMASANDRA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

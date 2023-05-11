@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81341212067298,12.96039365409446],[75.80449969608067,12.9635929638981],[75.8000232482416,12.95387808468718],[75.80119802074879,12.94851554212008],[75.81341212067298,12.96039365409446]]]},"properties":{"region_id":"village_614891","name":"BASAVANAHALLI","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

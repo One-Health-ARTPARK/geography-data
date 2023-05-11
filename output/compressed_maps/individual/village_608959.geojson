@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2865447670554,13.41255506176548],[75.29837059305909,13.38672962404366],[75.31118365260434,13.40929549923348],[75.2865447670554,13.41255506176548]]]},"properties":{"region_id":"village_608959","name":"KUNTHUR","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

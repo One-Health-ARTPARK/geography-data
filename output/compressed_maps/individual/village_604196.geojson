@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36777590112919,14.81412682196697],[75.31542719618123,14.81658448694659],[75.32274661332167,14.7733274368815],[75.34991105817393,14.78297873569635],[75.36777590112919,14.81412682196697]]]},"properties":{"region_id":"village_604196","name":"DEVIHOSUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

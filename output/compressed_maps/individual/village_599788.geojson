@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82378872732764,17.80161793319525],[76.80893505087582,17.81090494158386],[76.79100102494046,17.79786138218472],[76.79314019184365,17.77698859731974],[76.8156909091963,17.78563052212532],[76.82378872732764,17.80161793319525]]]},"properties":{"region_id":"village_599788","name":"CHITTAKALDEV","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

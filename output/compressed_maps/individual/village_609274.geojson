@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10175840738981,13.79915064057156],[76.0719080381223,13.80151057820088],[76.06756403970577,13.78441038235836],[76.09788710963852,13.78339578567325],[76.10175840738981,13.79915064057156]]]},"properties":{"region_id":"village_609274","name":"NANDIPURA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84152164688352,14.72750622225257],[74.8289758894977,14.72539567007679],[74.83625609525326,14.71707280619739],[74.84152164688352,14.72750622225257]]]},"properties":{"region_id":"village_603128","name":"ARASAPUR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

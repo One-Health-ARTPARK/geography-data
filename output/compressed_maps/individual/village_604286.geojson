@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37448319931411,14.68740799325127],[75.36562622863406,14.67777392166094],[75.37597763416461,14.66491914676987],[75.38982566219268,14.67519301924056],[75.37448319931411,14.68740799325127]]]},"properties":{"region_id":"village_604286","name":"INGALAGONDI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

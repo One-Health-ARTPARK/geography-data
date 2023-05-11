@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96608362693088,12.34517758714929],[75.92414978265421,12.32290175503363],[75.96561921507094,12.30560126928889],[75.99979875811201,12.33188682962916],[75.96608362693088,12.34517758714929]]]},"properties":{"region_id":"village_618025","name":"MALDARE","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

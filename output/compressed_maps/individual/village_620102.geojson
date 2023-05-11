@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29858391339523,17.24468411859792],[76.2633331945826,17.23684244171779],[76.265520992805,17.22564789104895],[76.30160179182823,17.22165448192505],[76.29858391339523,17.24468411859792]]]},"properties":{"region_id":"village_620102","name":"BHANKALGA","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

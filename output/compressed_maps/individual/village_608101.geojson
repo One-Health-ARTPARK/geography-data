@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25412769185444,13.76409459547804],[75.25374854706659,13.77064287076563],[75.24818939998953,13.77536187982028],[75.24743783814624,13.76220547919965],[75.25412769185444,13.76409459547804]]]},"properties":{"region_id":"village_608101","name":"MALALI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

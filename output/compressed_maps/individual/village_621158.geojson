@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06719286191432,16.61340078326029],[77.07213019414644,16.63155035393637],[77.05583645139806,16.63967138881086],[77.05153148441909,16.61601176169351],[77.06719286191432,16.61340078326029]]]},"properties":{"region_id":"village_621158","name":"TEKURAL","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

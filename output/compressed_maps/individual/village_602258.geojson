@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85380667166255,15.34534483919569],[74.8457659596775,15.3727615298158],[74.81902333695972,15.37080184930496],[74.83564852282728,15.33470652075174],[74.85380667166255,15.34534483919569]]]},"properties":{"region_id":"village_602258","name":"MAVINAKOPPA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

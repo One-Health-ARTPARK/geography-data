@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34884457421607,15.95214760543699],[76.34647615191406,15.93064532405948],[76.36356776611801,15.91191197077687],[76.3719791589181,15.9170385345505],[76.34884457421607,15.95214760543699]]]},"properties":{"region_id":"village_600381","name":"HUNOOR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

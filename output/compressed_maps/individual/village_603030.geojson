@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06104680893004,14.94615489892126],[75.04161930529004,14.93808337206423],[75.05385050703197,14.91456026285057],[75.06722067267741,14.91915029443719],[75.06104680893004,14.94615489892126]]]},"properties":{"region_id":"village_603030","name":"AJJIHALLI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

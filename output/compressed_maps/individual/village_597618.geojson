@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.67660794717592,16.13886859391219],[74.66721007679793,16.15338912193843],[74.63798962546265,16.14518974400688],[74.64761238409957,16.12692222200308],[74.67660794717592,16.13886859391219]]]},"properties":{"region_id":"village_597618","name":"HOSPET","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

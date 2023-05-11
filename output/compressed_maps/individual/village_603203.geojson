@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79574533967613,14.54913197296134],[74.78263169438587,14.54223158403627],[74.79958712647442,14.5349858925068],[74.79574533967613,14.54913197296134]]]},"properties":{"region_id":"village_603203","name":"TATAGUNI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

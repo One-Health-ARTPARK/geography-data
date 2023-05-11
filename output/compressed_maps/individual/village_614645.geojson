@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06907234175148,12.47774288223425],[77.05420118921744,12.47171728004179],[77.055205144069,12.449728014204],[77.07225124904276,12.45111488902766],[77.06907234175148,12.47774288223425]]]},"properties":{"region_id":"village_614645","name":"MENASAGERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

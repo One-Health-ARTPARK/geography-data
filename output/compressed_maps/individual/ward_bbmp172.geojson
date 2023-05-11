@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60730800004777,12.91655399999353],[77.62272699978189,12.91734700015628],[77.61818700009333,12.92441699956817],[77.61026399966966,12.92485499991734],[77.60730800004777,12.91655399999353]]]},"properties":{"region_id":"ward_bbmp172","name":"WARD NO.172 (MADIVALA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

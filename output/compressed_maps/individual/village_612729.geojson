@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08039107862271,12.82576038698444],[77.08138908336397,12.8461425035527],[77.06704334529867,12.84977300687183],[77.06922104780371,12.82148746147432],[77.08039107862271,12.82576038698444]]]},"properties":{"region_id":"village_612729","name":"K.G.DEVAPATTANA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

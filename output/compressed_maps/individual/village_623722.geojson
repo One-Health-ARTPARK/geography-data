@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73277990939611,13.67745830692723],[77.72377650781799,13.67227890346269],[77.73632495991565,13.66917796894823],[77.73277990939611,13.67745830692723]]]},"properties":{"region_id":"village_623722","name":"BATHALAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

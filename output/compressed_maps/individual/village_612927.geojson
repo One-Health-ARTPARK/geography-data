@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71490705375072,13.11580255312689],[77.71432052482119,13.13399741216605],[77.7031969154441,13.13648587183847],[77.70043895962054,13.11681951976572],[77.71490705375072,13.11580255312689]]]},"properties":{"region_id":"village_612927","name":"MARALAKUNTE","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

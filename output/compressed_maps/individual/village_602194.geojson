@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83686555398864,15.03623773076434],[75.82259180754589,15.04569855819422],[75.80193684776884,15.04446918802957],[75.80909525751726,15.02629725430172],[75.83686555398864,15.03623773076434]]]},"properties":{"region_id":"village_602194","name":"GUMGOL","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

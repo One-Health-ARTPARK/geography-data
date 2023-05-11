@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34308777962453,17.88990407642992],[77.33907078727928,17.90135567792839],[77.31129208446846,17.90198948188228],[77.32821299660547,17.87714810120062],[77.34308777962453,17.88990407642992]]]},"properties":{"region_id":"village_599966","name":"BYALHALLI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

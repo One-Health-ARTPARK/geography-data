@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02186883178516,16.24939421851797],[75.00628915339873,16.24872112461798],[75.00867738048315,16.23569913157255],[75.02390944490432,16.23798987662157],[75.02186883178516,16.24939421851797]]]},"properties":{"region_id":"village_597523","name":"LAKSHMESHWAR","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

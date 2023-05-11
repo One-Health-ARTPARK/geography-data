@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3693662442484,18.10285149019659],[77.36550213362004,18.12584185733155],[77.34874755510086,18.11985836126099],[77.35334353224701,18.10765203546691],[77.3693662442484,18.10285149019659]]]},"properties":{"region_id":"village_600037","name":"NITTUR (K)","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

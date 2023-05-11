@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03023112549499,16.86789877209627],[77.00995967091126,16.86073410177327],[77.01478298924954,16.82444496747756],[77.03951801353841,16.83971505390999],[77.03023112549499,16.86789877209627]]]},"properties":{"region_id":"village_621227","name":"ARKERA(B)","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

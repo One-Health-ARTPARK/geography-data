@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95526296471924,16.32106438536101],[76.93482357983771,16.31609922826372],[76.94770071741333,16.30804977157624],[76.95526296471924,16.32106438536101]]]},"properties":{"region_id":"village_600694","name":"MALLINAIKANDODDI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

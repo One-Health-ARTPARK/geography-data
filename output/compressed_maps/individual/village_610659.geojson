@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38637858822578,14.00281284250041],[77.38739831377602,14.01545613730945],[77.3321930870137,14.03094169694168],[77.3468601324362,13.99408039796136],[77.38637858822578,14.00281284250041]]]},"properties":{"region_id":"village_610659","name":"VENKATAPURA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

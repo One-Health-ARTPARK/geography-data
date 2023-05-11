@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.36355574851687,16.29662818351757],[74.38463747370137,16.29199556411499],[74.38640103552426,16.30710440099185],[74.36378034816519,16.30741568539469],[74.36355574851687,16.29662818351757]]]},"properties":{"region_id":"village_597552","name":"BHAIRAPUR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

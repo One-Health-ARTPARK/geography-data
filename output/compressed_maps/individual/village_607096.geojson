@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06901424990093,13.96378202460574],[76.04974440958631,13.95964705829342],[76.04475755617284,13.94211966178976],[76.06597076715981,13.94136164638323],[76.06901424990093,13.96378202460574]]]},"properties":{"region_id":"village_607096","name":"BETTAKADURU","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

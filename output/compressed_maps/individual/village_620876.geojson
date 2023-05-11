@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49398952199223,16.71839994942202],[76.50332381116948,16.70829326776337],[76.5088574198123,16.71715165059578],[76.50506049171966,16.72350813762104],[76.49398952199223,16.71839994942202]]]},"properties":{"region_id":"village_620876","name":"CHITKNAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

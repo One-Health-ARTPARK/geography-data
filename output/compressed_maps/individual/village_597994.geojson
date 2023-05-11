@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65403688506204,15.59258434164859],[74.63409431458865,15.59133708343907],[74.63233867105521,15.57908403287644],[74.65811104553,15.57401696359001],[74.65403688506204,15.59258434164859]]]},"properties":{"region_id":"village_597994","name":"BIDI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

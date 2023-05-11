@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8386543894294,13.19006381987104],[75.82402545594606,13.19395027753911],[75.82558780660527,13.18134414919722],[75.8386543894294,13.19006381987104]]]},"properties":{"region_id":"village_615184","name":"BOMMADIHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

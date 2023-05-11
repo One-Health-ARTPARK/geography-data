@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35152149752919,16.13221506782664],[77.33689305932788,16.13705888190045],[77.32316999172285,16.09377817606744],[77.34231343016917,16.09431146453973],[77.35152149752919,16.13221506782664]]]},"properties":{"region_id":"village_600831","name":"UDAMGAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

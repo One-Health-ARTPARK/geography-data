@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09616969957607,13.44980023500152],[77.093088933552,13.46056162606062],[77.07417503620708,13.46776202031042],[77.07069222937498,13.45295988016822],[77.09616969957607,13.44980023500152]]]},"properties":{"region_id":"village_611336","name":"BRAHMASANDRA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

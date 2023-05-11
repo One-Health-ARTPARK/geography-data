@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37937047169086,12.47567413181789],[76.38539572203261,12.47645861275978],[76.38261848827594,12.48263475921435],[76.37937047169086,12.47567413181789]]]},"properties":{"region_id":"village_618640","name":"CHANDAGAL","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

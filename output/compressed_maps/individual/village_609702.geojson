@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6903071959801,13.39037568796166],[75.67891721791067,13.3963622433579],[75.67312691275924,13.37487900201947],[75.6806779321747,13.37492661626741],[75.6903071959801,13.39037568796166]]]},"properties":{"region_id":"village_609702","name":"BAGANEHEDDALU","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

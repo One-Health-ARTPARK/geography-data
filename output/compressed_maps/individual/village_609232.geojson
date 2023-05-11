@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85200612688641,13.81083965925764],[75.8252963407337,13.81688303718867],[75.8427677069596,13.76813735600584],[75.85728644947805,13.78501100674471],[75.85200612688641,13.81083965925764]]]},"properties":{"region_id":"village_609232","name":"NAGENAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

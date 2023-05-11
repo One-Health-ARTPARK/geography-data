@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94142851846507,12.51983755668978],[76.93330693063344,12.51958247565399],[76.92930617184744,12.51322076526242],[76.9339575754793,12.5064321336614],[76.94060620843278,12.51263128722702],[76.94142851846507,12.51983755668978]]]},"properties":{"region_id":"village_614480","name":"BOOTHANA HOSUR","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

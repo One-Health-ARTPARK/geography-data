@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32736900380088,16.35146345441897],[75.31998079419375,16.30139330704785],[75.34582494250249,16.28715573907559],[75.32736900380088,16.35146345441897]]]},"properties":{"region_id":"village_598583","name":"INGALAGI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

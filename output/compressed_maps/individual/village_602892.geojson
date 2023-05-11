@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65542137268669,15.03203002583701],[74.63918062217279,15.02970404765629],[74.64131025165827,15.02079727432893],[74.65863421400105,15.01939201161599],[74.65542137268669,15.03203002583701]]]},"properties":{"region_id":"village_602892","name":"BARAGADDE","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

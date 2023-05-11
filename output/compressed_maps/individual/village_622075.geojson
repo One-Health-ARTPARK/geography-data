@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.19129369441059,13.11304929316674],[78.17919047211483,13.11518473257685],[78.18098058396784,13.1039080401027],[78.19429796805781,13.10031342541335],[78.19129369441059,13.11304929316674]]]},"properties":{"region_id":"village_622075","name":"BHATRAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72435800426895,14.49612297792895],[74.73420616815308,14.4877486860676],[74.74638754061957,14.50142014160218],[74.73020436073465,14.511775482538],[74.72435800426895,14.49612297792895]]]},"properties":{"region_id":"village_603541","name":"MANIGAR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

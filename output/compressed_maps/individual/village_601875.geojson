@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.317392758778,15.67974011142856],[75.31713190076691,15.70196679185021],[75.29501840458538,15.69181367454061],[75.317392758778,15.67974011142856]]]},"properties":{"region_id":"village_601875","name":"SIDDAPUR","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

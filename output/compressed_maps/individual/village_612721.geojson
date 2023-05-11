@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0190995113419,12.81366583351932],[77.00318253119285,12.81702405769467],[76.9976823106248,12.79673221987527],[77.02082723815055,12.8030908909613],[77.0190995113419,12.81366583351932]]]},"properties":{"region_id":"village_612721","name":"KODAVATHI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

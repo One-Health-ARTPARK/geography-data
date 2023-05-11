@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30667646824806,14.5172066517296],[76.28547354128733,14.51401371140509],[76.28786082535954,14.50213052086636],[76.30970626142899,14.50154484204729],[76.30667646824806,14.5172066517296]]]},"properties":{"region_id":"village_606458","name":"RASTEMACHIKERE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

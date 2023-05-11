@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78145144591997,13.25888937120043],[77.78208522381564,13.26623407938628],[77.77751594836687,13.27597675614339],[77.7756510437286,13.25984232774228],[77.78145144591997,13.25888937120043]]]},"properties":{"region_id":"village_625352","name":"GADDADANAGENAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

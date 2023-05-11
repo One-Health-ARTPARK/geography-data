@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8948313737567,13.18142361820888],[76.88325055766416,13.17446771430272],[76.87643257927485,13.15900750684969],[76.89464148661236,13.15843188221598],[76.8948313737567,13.18142361820888]]]},"properties":{"region_id":"village_611939","name":"HINDISGERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

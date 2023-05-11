@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71403568577645,12.78797650936025],[76.70735816593168,12.78764803077429],[76.70706530296644,12.77514931191794],[76.71453267728697,12.77543406493456],[76.71403568577645,12.78797650936025]]]},"properties":{"region_id":"village_613988","name":"DEVERAHOSUR","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

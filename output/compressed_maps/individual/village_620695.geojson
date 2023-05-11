@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99489532794914,17.00291021627671],[76.96311176598572,16.9736253619522],[77.01752945214226,16.96558897196944],[76.99489532794914,17.00291021627671]]]},"properties":{"region_id":"village_620695","name":"KONCHUR","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24565449410105,15.0775003978948],[75.22627972282854,15.07694435696637],[75.22759107921071,15.06646788629485],[75.24623507888614,15.07000045710486],[75.24565449410105,15.0775003978948]]]},"properties":{"region_id":"village_603921","name":"SURAPGATTI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

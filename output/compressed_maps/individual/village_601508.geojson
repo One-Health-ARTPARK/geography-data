@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3105598029542,15.75338076265495],[76.28502603785158,15.75100148907992],[76.28374018554744,15.7347744600189],[76.29246706024826,15.73122913030865],[76.2949922231958,15.74509716109485],[76.3105598029542,15.75338076265495]]]},"properties":{"region_id":"village_601508","name":"MAYADHUNSI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

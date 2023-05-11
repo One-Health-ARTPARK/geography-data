@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77526090812559,13.73396946467169],[76.76267068263458,13.74930174189967],[76.71064092858674,13.7369538791372],[76.71632468043582,13.7239968862314],[76.76426433972719,13.7239050526348],[76.77526090812559,13.73396946467169]]]},"properties":{"region_id":"village_610402","name":"NERLEGUDDA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3647752204783,13.09245300708769],[77.3575434247824,13.0793775233158],[77.36264913886244,13.07283932684587],[77.37451222105403,13.08415709354728],[77.3647752204783,13.09245300708769]]]},"properties":{"region_id":"village_624915","name":"BHAVIKERE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

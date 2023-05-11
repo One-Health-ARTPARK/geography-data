@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30251600875548,15.97614795751943],[77.27937126904497,15.98502735791614],[77.28042133474368,15.96442216352407],[77.30251600875548,15.97614795751943]]]},"properties":{"region_id":"village_600863","name":"HANMAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

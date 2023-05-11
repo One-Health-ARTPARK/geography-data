@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88104640867415,13.20070724612255],[75.87093387931837,13.21189457897693],[75.86697948140704,13.19911494575026],[75.88104640867415,13.20070724612255]]]},"properties":{"region_id":"village_615221","name":"KORATIKERE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

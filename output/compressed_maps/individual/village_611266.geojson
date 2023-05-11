@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99477813421238,13.44178735415695],[76.98536844655342,13.44286878716822],[76.98793447270758,13.42922327951645],[76.99509073834439,13.42772004174186],[76.99477813421238,13.44178735415695]]]},"properties":{"region_id":"village_611266","name":"DEVARAJANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

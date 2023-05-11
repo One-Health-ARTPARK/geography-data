@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97657211524238,13.16537634796029],[77.9607711625009,13.15981149793305],[77.96005017566893,13.15177026754376],[77.9742214057783,13.15733161252841],[77.97657211524238,13.16537634796029]]]},"properties":{"region_id":"village_621809","name":"DANAVAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

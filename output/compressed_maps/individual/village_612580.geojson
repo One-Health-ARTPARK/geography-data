@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98357993970313,13.01666130419171],[76.96984705970628,13.01663970137367],[76.97027588516357,13.00937524506042],[76.9834702575464,13.01034226730664],[76.98357993970313,13.01666130419171]]]},"properties":{"region_id":"village_612580","name":"KENKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

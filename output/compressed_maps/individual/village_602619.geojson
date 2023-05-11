@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.27555750241577,14.84202538377282],[74.29259661040152,14.86929394664904],[74.27533726526549,14.86858327399749],[74.260850003171,14.8546514709111],[74.27555750241577,14.84202538377282]]]},"properties":{"region_id":"village_602619","name":"DEVALMAKKI","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

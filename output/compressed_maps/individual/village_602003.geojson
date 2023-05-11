@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66232378174739,15.50690590861645],[75.6839718084554,15.50407464084792],[75.68610914561906,15.52869102403475],[75.66697025967707,15.53648841958477],[75.66232378174739,15.50690590861645]]]},"properties":{"region_id":"village_602003","name":"KIRITAGERI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

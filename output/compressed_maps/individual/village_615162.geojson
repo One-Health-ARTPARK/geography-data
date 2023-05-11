@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75853958366017,13.20268089965476],[75.74845507279338,13.20469030600228],[75.74952465837232,13.18541032679806],[75.75800182367566,13.18691053611674],[75.75853958366017,13.20268089965476]]]},"properties":{"region_id":"village_615162","name":"KALLERI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

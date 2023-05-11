@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22292847334764,16.98646669249029],[76.17881077094694,16.98006671328448],[76.17637147309932,16.93439220092414],[76.19882075820183,16.93221101389671],[76.22292847334764,16.98646669249029]]]},"properties":{"region_id":"village_599365","name":"GANIHAR","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

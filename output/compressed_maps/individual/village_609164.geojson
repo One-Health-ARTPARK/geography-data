@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82548020964146,13.67796035646153],[75.81383285136205,13.66795240745146],[75.82217218498188,13.66177116789209],[75.82548020964146,13.67796035646153]]]},"properties":{"region_id":"village_609164","name":"BYRAPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

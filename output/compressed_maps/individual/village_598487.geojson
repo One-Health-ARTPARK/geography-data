@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5941240564591,16.33120171394898],[75.59766467002166,16.37336701336605],[75.57898371571152,16.37696351491403],[75.57581319573461,16.33762715400304],[75.5941240564591,16.33120171394898]]]},"properties":{"region_id":"village_598487","name":"NAGARAL","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

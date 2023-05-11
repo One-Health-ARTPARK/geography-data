@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75167704475768,12.94954482501711],[77.73423571259944,12.9388854781996],[77.75223262428713,12.92531251657554],[77.76459884171388,12.92875778904123],[77.75167704475768,12.94954482501711]]]},"properties":{"region_id":"village_938280","name":"VARTURU","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

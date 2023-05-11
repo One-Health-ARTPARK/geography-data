@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12141479086978,14.62515635698735],[75.10882811431533,14.63353836877058],[75.10274478915636,14.62614080904734],[75.10788466130018,14.61494997329322],[75.12141479086978,14.62515635698735]]]},"properties":{"region_id":"village_607386","name":"SHAKUNAVALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

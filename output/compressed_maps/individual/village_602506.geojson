@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08996903862945,15.16159091262498],[75.06952536733786,15.15344451204998],[75.08322008330731,15.13421905400229],[75.09753105995861,15.13931938012837],[75.08996903862945,15.16159091262498]]]},"properties":{"region_id":"village_602506","name":"BULLANAIKANAHULIKATTI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

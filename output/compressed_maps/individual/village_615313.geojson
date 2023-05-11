@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90893145935945,13.10684850027831],[75.91330966214431,13.12159045517527],[75.8990213669211,13.1241939021642],[75.88991769083846,13.10734515412664],[75.90893145935945,13.10684850027831]]]},"properties":{"region_id":"village_615313","name":"HADLAGERE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37381286263937,14.63241627638253],[76.33063517999199,14.6445346581933],[76.33291106400914,14.61443043956433],[76.37381286263937,14.63241627638253]]]},"properties":{"region_id":"village_606412","name":"KYASENAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

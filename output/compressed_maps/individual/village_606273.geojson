@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87473773400967,14.58890761845697],[75.85817097042387,14.59399038762822],[75.85011119952213,14.58408592386271],[75.87434943339461,14.58408705159607],[75.87473773400967,14.58890761845697]]]},"properties":{"region_id":"village_606273","name":"KENCHANAHALLI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

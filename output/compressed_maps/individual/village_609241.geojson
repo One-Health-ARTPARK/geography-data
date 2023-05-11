@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96446445317926,13.80443306369194],[75.95813547893312,13.8140788189162],[75.94714540445483,13.80394387126116],[75.95538838174676,13.80076802472574],[75.96446445317926,13.80443306369194]]]},"properties":{"region_id":"village_609241","name":"ATTIGATTA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68263282928258,12.75483022412426],[77.66770855588109,12.75473163927259],[77.67192687468501,12.74084526810487],[77.6832280191136,12.74179432631689],[77.68263282928258,12.75483022412426]]]},"properties":{"region_id":"village_613295","name":"SOPPAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

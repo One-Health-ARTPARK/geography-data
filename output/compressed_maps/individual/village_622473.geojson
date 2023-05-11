@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.18339941193393,13.04436875890983],[78.18098968922534,13.04982085297077],[78.16323007756719,13.04965676690504],[78.16902519892935,13.0392274035539],[78.18339941193393,13.04436875890983]]]},"properties":{"region_id":"village_622473","name":"BHAVARAHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

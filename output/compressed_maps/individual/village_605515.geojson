@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33897986576095,14.32740460338429],[76.31129034962217,14.34050227716839],[76.30344754326346,14.320721797351],[76.32400083997292,14.31205268535652],[76.33897986576095,14.32740460338429]]]},"properties":{"region_id":"village_605515","name":"SIDDAVVANADURGA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

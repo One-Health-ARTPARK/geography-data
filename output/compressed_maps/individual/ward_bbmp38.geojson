@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51840499977405,13.03993199986352],[77.52122700045422,13.02451899998907],[77.537066000173,13.02326999994401],[77.54077799981329,13.03243500013633],[77.51840499977405,13.03993199986352]]]},"properties":{"region_id":"ward_bbmp38","name":"WARD NO. 38 (HMT WARD)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

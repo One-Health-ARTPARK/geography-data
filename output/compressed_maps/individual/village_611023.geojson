@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1825370830356,13.55073432352885],[77.18571126918177,13.57362981815918],[77.17175057404116,13.56840232615728],[77.17067117498715,13.55280082611426],[77.1825370830356,13.55073432352885]]]},"properties":{"region_id":"village_611023","name":"GOWJAGAL","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

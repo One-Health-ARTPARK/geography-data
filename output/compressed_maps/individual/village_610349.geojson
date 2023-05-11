@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95589227822214,13.85315344866928],[76.95676401743178,13.82640620269962],[76.96764113212693,13.82617210120639],[76.96868565106797,13.8452690256813],[76.95589227822214,13.85315344866928]]]},"properties":{"region_id":"village_610349","name":"BHOPPANADU","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43766150815856,13.33753486872969],[75.4122010933061,13.34773430723665],[75.40547812655487,13.32862212229228],[75.42476050011737,13.31221155010656],[75.43766150815856,13.33753486872969]]]},"properties":{"region_id":"village_609043","name":"DEVAGODU","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

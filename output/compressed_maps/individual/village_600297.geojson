@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20522703362138,17.76844328744535],[77.17715606913632,17.77515093394254],[77.17001029651581,17.75462543401039],[77.18781842788445,17.72928484598084],[77.2066433717858,17.74530167520229],[77.20522703362138,17.76844328744535]]]},"properties":{"region_id":"village_600297","name":"HUDGI","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

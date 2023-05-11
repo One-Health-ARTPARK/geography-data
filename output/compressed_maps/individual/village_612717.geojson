@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01298711922333,12.8313087432706],[77.00902105735409,12.8297094768451],[76.9934078037788,12.84272136500573],[76.99800854484025,12.82420400503327],[77.0084796754826,12.82434746708623],[77.01298711922333,12.8313087432706]]]},"properties":{"region_id":"village_612717","name":"SONNAIKANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

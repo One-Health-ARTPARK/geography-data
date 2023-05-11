@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17330310950233,13.14494321908118],[77.16155101067697,13.1400896397245],[77.16205097308446,13.13522691792804],[77.1735386652866,13.13521662295481],[77.17330310950233,13.14494321908118]]]},"properties":{"region_id":"village_625820","name":"KEMPAPURA","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

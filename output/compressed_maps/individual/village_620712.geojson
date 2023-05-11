@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.033464315815,16.88780151855533],[77.02210408543986,16.87667827811472],[77.04185326875925,16.86838305289048],[77.04179124636298,16.88148890627675],[77.033464315815,16.88780151855533]]]},"properties":{"region_id":"village_620712","name":"TARKASPET","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

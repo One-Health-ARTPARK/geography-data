@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8618190230851,13.6631592468946],[77.8521373402227,13.67249767024663],[77.84912152586314,13.66615303714879],[77.8618190230851,13.6631592468946]]]},"properties":{"region_id":"village_623751","name":"GUMMAREDDIHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71301849608828,13.04858585047881],[77.70749384098683,13.05136318709466],[77.69374930394271,13.04864441157619],[77.69192184696253,13.04345189844169],[77.71301849608828,13.04858585047881]]]},"properties":{"region_id":"village_613078","name":"HUVINANE","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

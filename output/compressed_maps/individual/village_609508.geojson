@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9687102760967,13.5234403847505],[75.9532533609759,13.52400399190156],[75.95275235710105,13.5154808807393],[75.96900802931393,13.51419931633714],[75.9687102760967,13.5234403847505]]]},"properties":{"region_id":"village_609508","name":"KACHAPURA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

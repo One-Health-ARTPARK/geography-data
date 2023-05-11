@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73415354011881,12.27405933160704],[76.73926330379952,12.25081617879107],[76.7592568287106,12.26377229248894],[76.75259642025718,12.2816302398618],[76.73415354011881,12.27405933160704]]]},"properties":{"region_id":"village_618793","name":"VARUNA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

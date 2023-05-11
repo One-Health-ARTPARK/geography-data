@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03797943973831,16.39388501960158],[75.07182877585531,16.40402469590969],[75.07718328013436,16.43769958232621],[75.03445963730856,16.43446780077239],[75.02748432142135,16.39651144990598],[75.03797943973831,16.39388501960158]]]},"properties":{"region_id":"village_597412","name":"HANDIGUND","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

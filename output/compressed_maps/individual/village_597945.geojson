@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.49890031978279,15.46956994387257],[74.49226214742423,15.49996575332327],[74.46720204116876,15.49456161743594],[74.4696361897743,15.47358562927251],[74.49890031978279,15.46956994387257]]]},"properties":{"region_id":"village_597945","name":"WATRE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

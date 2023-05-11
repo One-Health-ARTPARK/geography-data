@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7486111809909,13.20452764908755],[75.74319868583653,13.20740847940083],[75.73808055680963,13.19961933872448],[75.74733066517015,13.19827304458597],[75.7486111809909,13.20452764908755]]]},"properties":{"region_id":"village_615067","name":"KUMBARAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

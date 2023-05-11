@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60902446720297,14.1032660451008],[76.60752201153691,14.07872156996013],[76.64464298899466,14.08349453275861],[76.63873997823195,14.09726813319552],[76.60902446720297,14.1032660451008]]]},"properties":{"region_id":"village_606072","name":"KALAVIBAGI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

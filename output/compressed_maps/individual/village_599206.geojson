@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85232039342924,17.2672957543827],[75.8335412696964,17.27306026193948],[75.823126352953,17.25269763831075],[75.84785033133038,17.2515765799709],[75.85232039342924,17.2672957543827]]]},"properties":{"region_id":"village_599206","name":"MAILAR","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97645888192014,12.4741453199364],[76.95859145673451,12.471809525368],[76.96692709806086,12.46049356049357],[76.97645888192014,12.4741453199364]]]},"properties":{"region_id":"village_614618","name":"YADAGANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57161901639964,13.31854333227303],[77.55602151960404,13.31376096964018],[77.55027731855641,13.30592916966174],[77.56442833126121,13.30747285014148],[77.57161901639964,13.31854333227303]]]},"properties":{"region_id":"village_625098","name":"SHIVAPURA AMANIKERE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

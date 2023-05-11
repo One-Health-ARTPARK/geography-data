@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5227137238586,17.13378908846218],[76.45429771532814,17.12155422916757],[76.49680710924936,17.08448794980086],[76.5227137238586,17.13378908846218]]]},"properties":{"region_id":"village_620718","name":"ANKALGA","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

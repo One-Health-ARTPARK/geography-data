@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41160326271348,15.34979453114837],[76.40142857410162,15.34578800888915],[76.40447325846854,15.34078679176448],[76.4117366066889,15.34214146251777],[76.41160326271348,15.34979453114837]]]},"properties":{"region_id":"village_601844","name":"AYODHYA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

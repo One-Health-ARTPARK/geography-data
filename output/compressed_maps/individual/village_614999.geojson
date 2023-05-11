@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74649839150297,12.77705744052125],[75.71749861148463,12.7704041529942],[75.71977936088754,12.75305438406872],[75.73937473743806,12.76238345948516],[75.74649839150297,12.77705744052125]]]},"properties":{"region_id":"village_614999","name":"ATHIHALLI","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

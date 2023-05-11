@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.01843139902928,13.09518224423089],[78.00813994288384,13.10054769751328],[78.01052364802167,13.08460657306979],[78.01843139902928,13.09518224423089]]]},"properties":{"region_id":"village_621862","name":"THYAVANAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

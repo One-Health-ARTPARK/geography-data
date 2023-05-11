@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17359231649816,15.61317154473112],[76.13866328697257,15.6226664481451],[76.12143091527759,15.59079006084601],[76.17558709635752,15.58464106183917],[76.17359231649816,15.61317154473112]]]},"properties":{"region_id":"village_601310","name":"MURDI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15207575752054,12.80117573741538],[75.1313818286346,12.80495663474232],[75.11882104692928,12.79865019047616],[75.12352710915033,12.77740998889966],[75.14720021407497,12.78738392787559],[75.15207575752054,12.80117573741538]]]},"properties":{"region_id":"village_617592","name":"IDKIDU","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43552084102633,17.06083592883666],[77.41107296073625,17.06517952787831],[77.42092299153116,17.04709918816732],[77.43552084102633,17.06083592883666]]]},"properties":{"region_id":"village_620562","name":"KADLAPUR","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

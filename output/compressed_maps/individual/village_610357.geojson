@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8255809620014,13.76021075075725],[76.81498688443777,13.78473120619674],[76.79467009524119,13.77258328029776],[76.79588848866507,13.75745596219856],[76.8255809620014,13.76021075075725]]]},"properties":{"region_id":"village_610357","name":"LAKSHMISAGAR","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

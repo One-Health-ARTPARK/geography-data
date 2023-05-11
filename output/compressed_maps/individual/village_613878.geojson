@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72551202827651,12.82863149046045],[76.72727392543898,12.83309022124081],[76.71745612428114,12.8397867427295],[76.7145963998014,12.83132716593067],[76.72551202827651,12.82863149046045]]]},"properties":{"region_id":"village_613878","name":"KALLUKOMARI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

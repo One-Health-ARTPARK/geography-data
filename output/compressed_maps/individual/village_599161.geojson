@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67875298455851,17.44026483067356],[75.62127768841944,17.45231868385741],[75.62223425908518,17.42598101540745],[75.66139372689253,17.41401241671029],[75.67875298455851,17.44026483067356]]]},"properties":{"region_id":"village_599161","name":"UMRAJ","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

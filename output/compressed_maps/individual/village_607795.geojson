@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43639045755867,14.30662414328337],[75.45086845963992,14.33237493105784],[75.42234568544319,14.32134036488508],[75.43639045755867,14.30662414328337]]]},"properties":{"region_id":"village_607795","name":"DINDADAHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71928758643314,16.93892365198041],[76.67051072914003,16.94137672303854],[76.66570363366789,16.87236125429567],[76.71421179813305,16.87294905561271],[76.71928758643314,16.93892365198041]]]},"properties":{"region_id":"village_620814","name":"IJERI","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

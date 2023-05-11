@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4268874904866,13.72072706239342],[76.43372233397315,13.67017371290719],[76.49927687186924,13.6227320354675],[76.52939056912956,13.66549171952824],[76.45288692151806,13.69444121535304],[76.4268874904866,13.72072706239342]]]},"properties":{"region_id":"village_606002","name":"KUDUREKANIVE FOREST","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

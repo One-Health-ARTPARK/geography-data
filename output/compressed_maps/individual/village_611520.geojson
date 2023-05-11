@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04666052176657,13.17047989054156],[77.05242220927403,13.18448869279415],[77.0351762379353,13.18036466880293],[77.04666052176657,13.17047989054156]]]},"properties":{"region_id":"village_611520","name":"KALYANAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

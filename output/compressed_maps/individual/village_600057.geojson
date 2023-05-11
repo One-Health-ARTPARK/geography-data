@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45131657739788,18.2586681188496],[77.43378800370564,18.23745111344584],[77.45298523143522,18.23139486540606],[77.45131657739788,18.2586681188496]]]},"properties":{"region_id":"village_600057","name":"MOHMADAPUR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

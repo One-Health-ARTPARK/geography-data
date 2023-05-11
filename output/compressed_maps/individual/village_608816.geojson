@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87827892055726,13.32103229358766],[74.85443557782455,13.32672268955089],[74.84597350846566,13.30486599636233],[74.86733637076935,13.30451474086786],[74.87827892055726,13.32103229358766]]]},"properties":{"region_id":"village_608816","name":"KUDI (82)","parent":"subdistrict_5523","parent_name":"UDUPI"}}
+]}

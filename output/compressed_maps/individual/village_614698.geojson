@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01975885052985,12.28446142516616],[77.00714545822284,12.28539890310805],[77.01104092779417,12.27254723742602],[77.01862723390471,12.26938304009901],[77.02263518663575,12.27438766951459],[77.01975885052985,12.28446142516616]]]},"properties":{"region_id":"village_614698","name":"SOORKALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64515720852546,12.73655411166059],[77.62962259534356,12.73021964593021],[77.64203109586897,12.71967035320723],[77.64515720852546,12.73655411166059]]]},"properties":{"region_id":"village_613302","name":"INDLAWADI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

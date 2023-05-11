@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81340479900274,13.49050594884859],[77.79480695810625,13.49332957695278],[77.7980849270448,13.48443559710087],[77.81340479900274,13.49050594884859]]]},"properties":{"region_id":"village_623576","name":"D.KURUBARAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

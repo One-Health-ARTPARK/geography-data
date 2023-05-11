@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7813123682809,15.37593886966098],[76.76635419450803,15.35887863174919],[76.78480753452929,15.35804190202052],[76.7813123682809,15.37593886966098]]]},"properties":{"region_id":"village_604863","name":"KARIKERI","parent":"subdistrict_7109","parent_name":"KURUGODU"}}
+]}

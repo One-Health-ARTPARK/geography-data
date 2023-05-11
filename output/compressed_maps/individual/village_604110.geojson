@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07530163568569,14.74158205781552],[75.03749582520166,14.73840932323858],[75.0427802168303,14.72534530112191],[75.06397795162098,14.72403213635401],[75.07530163568569,14.74158205781552]]]},"properties":{"region_id":"village_604110","name":"MANTHAGI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8361332141702,14.54464081856952],[74.83284338342243,14.56357672265286],[74.81830415012084,14.5638382765421],[74.82150935236648,14.5391951704276],[74.8361332141702,14.54464081856952]]]},"properties":{"region_id":"village_603240","name":"KANGOD","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

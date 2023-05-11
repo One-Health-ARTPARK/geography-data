@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84604110998734,13.2772837388543],[75.90648003027438,13.27805401395098],[75.8982015529458,13.30179749329583],[75.85311889214725,13.2946703214644],[75.84604110998734,13.2772837388543]]]},"properties":{"region_id":"village_609870","name":"MARLE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

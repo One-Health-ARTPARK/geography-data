@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66256393781863,12.70484061254872],[76.66052297321943,12.71782132561527],[76.64098441478961,12.70798349165938],[76.64328555653165,12.69545831382907],[76.66256393781863,12.70484061254872]]]},"properties":{"region_id":"village_614046","name":"TALEKERE","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

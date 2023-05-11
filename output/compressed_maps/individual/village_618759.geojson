@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63239477392457,12.21933445729618],[76.61366937269183,12.2373665299205],[76.61113036282934,12.2135019427097],[76.63239477392457,12.21933445729618]]]},"properties":{"region_id":"village_618759","name":"KALALAVADI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

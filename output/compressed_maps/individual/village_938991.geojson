@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8874056554639,12.79666914367171],[75.88457270460628,12.80172023855833],[75.87166413380666,12.80124461371885],[75.8728536347246,12.79495834947086],[75.8874056554639,12.79666914367171]]]},"properties":{"region_id":"village_938991","name":"KALLALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

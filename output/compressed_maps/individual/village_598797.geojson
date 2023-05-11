@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59614256650269,16.18657687865694],[75.56873286614402,16.15632583024496],[75.60722075661161,16.14815069368983],[75.59614256650269,16.18657687865694]]]},"properties":{"region_id":"village_598797","name":"SIMIKERI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

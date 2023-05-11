@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29922625343828,13.55550094988693],[77.28835150295039,13.54321940127707],[77.30125657046509,13.5421300653492],[77.29922625343828,13.55550094988693]]]},"properties":{"region_id":"village_611105","name":"KURUBARAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

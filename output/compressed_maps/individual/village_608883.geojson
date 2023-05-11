@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12253830512356,13.36311479290342],[75.02521804021443,13.3664152204989],[75.03229162902065,13.31943673923073],[75.09206672064037,13.31904485409297],[75.12253830512356,13.36311479290342]]]},"properties":{"region_id":"village_608883","name":"ANDARU","parent":"subdistrict_7065","parent_name":"HEBRI"}}
+]}

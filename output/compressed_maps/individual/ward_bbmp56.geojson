@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67417399955895,12.98686099990652],[77.68115699990828,13.00064599978963],[77.66282500033029,12.99680200029526],[77.67417399955895,12.98686099990652]]]},"properties":{"region_id":"ward_bbmp56","name":"WARD NO.56 (A NARAYANAPURA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

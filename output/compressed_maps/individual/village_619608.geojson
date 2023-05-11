@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98514246097636,12.0790235818565],[76.97330921336679,12.08024838621835],[76.97170152294707,12.065351436361],[76.98333538233082,12.06488847048356],[76.98514246097636,12.0790235818565]]]},"properties":{"region_id":"village_619608","name":"KAVUDAVADI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

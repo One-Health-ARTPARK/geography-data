@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83315752208374,13.5682871086638],[77.81361301955792,13.56224843630621],[77.82470718985022,13.55892482305611],[77.83315752208374,13.5682871086638]]]},"properties":{"region_id":"village_623462","name":"NALLAGUTTAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

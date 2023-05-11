@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75811114186106,13.12259426360653],[76.73795344409108,13.13659571709472],[76.73398844641501,13.11612096994305],[76.75811114186106,13.12259426360653]]]},"properties":{"region_id":"village_612372","name":"HONAKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

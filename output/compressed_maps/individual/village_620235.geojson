@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86321121201814,17.42062009903552],[76.87712322590316,17.45827829231738],[76.86303583713686,17.46189729761902],[76.86321121201814,17.42062009903552]]]},"properties":{"region_id":"village_620235","name":"BANNURA","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

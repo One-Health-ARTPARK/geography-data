@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59392313200148,13.24556957461819],[77.59411273216516,13.25440909146613],[77.58664924000321,13.25348149923068],[77.58706539089049,13.24677507171832],[77.59392313200148,13.24556957461819]]]},"properties":{"region_id":"village_625282","name":"BACHAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

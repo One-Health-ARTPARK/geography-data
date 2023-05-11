@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42730184474925,12.68836560721326],[76.4185082355601,12.69494423030935],[76.41019791249778,12.68640708602396],[76.41342506582419,12.67480140951683],[76.42730184474925,12.68836560721326]]]},"properties":{"region_id":"village_613529","name":"VODDARAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

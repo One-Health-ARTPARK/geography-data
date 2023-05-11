@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64668776596167,16.95386306003755],[75.61108306821856,16.97181605275349],[75.58830733372564,16.92865641597379],[75.63951167279542,16.90171118077403],[75.64668776596167,16.95386306003755]]]},"properties":{"region_id":"village_599038","name":"JALAGERI","parent":"subdistrict_7074","parent_name":"TIKOTA"}}
+]}

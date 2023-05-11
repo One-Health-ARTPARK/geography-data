@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04769230256052,14.88948221767049],[75.03827273893886,14.90507972993793],[75.00872324245772,14.90365608588651],[75.01196270072042,14.88217501392699],[75.04769230256052,14.88948221767049]]]},"properties":{"region_id":"village_603040","name":"HIREHALLI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75845533067981,12.73934390885654],[75.73850845075417,12.74558277657674],[75.72401541806853,12.73536006968595],[75.73444068977985,12.71036300417004],[75.75845533067981,12.73934390885654]]]},"properties":{"region_id":"village_615008","name":"VANAGOOR","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83381264658071,12.22654028336575],[76.81474220501924,12.23020947591494],[76.81860382565809,12.21376996058787],[76.83321515197521,12.21019552128934],[76.83381264658071,12.22654028336575]]]},"properties":{"region_id":"village_618823","name":"KUPPEGALA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

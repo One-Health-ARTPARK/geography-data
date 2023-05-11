@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91286242069307,13.18496223354009],[77.90824942184145,13.17420828387983],[77.92650040710461,13.17155487480712],[77.9325819781202,13.17941288208547],[77.91286242069307,13.18496223354009]]]},"properties":{"region_id":"village_625566","name":"KONDRAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

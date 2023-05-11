@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68154249880322,13.46435345541521],[75.65321938510864,13.45067770644195],[75.66096244246589,13.41291183476271],[75.6862163342418,13.440984899359],[75.68154249880322,13.46435345541521]]]},"properties":{"region_id":"village_609685","name":"JAGARA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

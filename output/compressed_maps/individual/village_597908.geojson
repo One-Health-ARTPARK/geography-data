@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66826919533408,15.60932787491139],[74.65356785107147,15.60352160196097],[74.65427981298096,15.59059785080771],[74.66815817677919,15.59267724403192],[74.66826919533408,15.60932787491139]]]},"properties":{"region_id":"village_597908","name":"HIRE-ANGROLLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

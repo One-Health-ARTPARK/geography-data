@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.758962252638,13.74271571689951],[75.73619536719826,13.74633451488013],[75.7240461973135,13.75274707523012],[75.72518696638699,13.74077906425431],[75.75481734744058,13.73767629760005],[75.758962252638,13.74271571689951]]]},"properties":{"region_id":"village_609139","name":"JODIKODIHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

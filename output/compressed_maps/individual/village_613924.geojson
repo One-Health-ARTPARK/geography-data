@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82239256691142,12.86504345039797],[76.80956120902445,12.86672869881219],[76.80753403861196,12.84880929229583],[76.81764729135868,12.8428880369518],[76.82239256691142,12.86504345039797]]]},"properties":{"region_id":"village_613924","name":"NALKUNDI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

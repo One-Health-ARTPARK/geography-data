@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30926971607997,14.36471081908582],[76.28877906607842,14.36625549859714],[76.29442039299451,14.34670041521133],[76.3112654710259,14.33898193558389],[76.30926971607997,14.36471081908582]]]},"properties":{"region_id":"village_605492","name":"CHIKKABBIGERE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

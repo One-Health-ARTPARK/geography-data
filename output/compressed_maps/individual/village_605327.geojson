@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63201817705391,14.35785812524296],[76.61710532209149,14.36554533018904],[76.61311480162243,14.33919939453293],[76.63397431383947,14.33636158641877],[76.63201817705391,14.35785812524296]]]},"properties":{"region_id":"village_605327","name":"VEERADIMMANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

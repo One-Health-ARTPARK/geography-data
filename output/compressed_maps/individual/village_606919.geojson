@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84234816840916,14.30018246673256],[75.81402726981,14.30132384330951],[75.81181260858416,14.264554199147],[75.84810951915968,14.27953651385212],[75.84234816840916,14.30018246673256]]]},"properties":{"region_id":"village_606919","name":"KATHALGERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

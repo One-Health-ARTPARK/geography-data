@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03805940392084,14.8051890222216],[76.04000652613456,14.7897851438915],[76.07172347014831,14.79824818319013],[76.04808879016599,14.81741764674109],[76.03805940392084,14.8051890222216]]]},"properties":{"region_id":"village_606309","name":"NICHAPURA","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

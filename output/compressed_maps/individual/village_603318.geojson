@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04091477360471,14.52307443018046],[75.02658016161658,14.55294754241326],[75.00883021199256,14.54472215440716],[75.01599607123185,14.52256336878721],[75.04091477360471,14.52307443018046]]]},"properties":{"region_id":"village_603318","name":"BANAVASI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

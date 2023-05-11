@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72521561804993,12.11896891965125],[75.69304441799788,12.14734479699452],[75.67185086676302,12.12104478761484],[75.70309944661649,12.10829451812035],[75.72521561804993,12.11896891965125]]]},"properties":{"region_id":"village_618003","name":"KEDAMULLUR","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0897952349714,12.73677127422408],[76.06812593085661,12.73705334405222],[76.07316934298645,12.72527208728896],[76.0897952349714,12.73677127422408]]]},"properties":{"region_id":"village_616589","name":"MOKALI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11348778378306,13.49172483514752],[77.0954628150248,13.49473434957548],[77.09624445200986,13.48026919922239],[77.11159039203282,13.48130334010968],[77.11348778378306,13.49172483514752]]]},"properties":{"region_id":"village_611318","name":"DEVALAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

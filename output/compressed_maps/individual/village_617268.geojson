@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50614686504058,13.00960550794584],[76.4894351620735,13.00711715440033],[76.49287345946257,12.99478948960727],[76.50320101160715,13.00000999725885],[76.50614686504058,13.00960550794584]]]},"properties":{"region_id":"village_617268","name":"SAMUDRAVALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

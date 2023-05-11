@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01181435853447,12.76331792651911],[76.99946283859659,12.77488921900966],[76.9830964027006,12.76397191919025],[76.98924760619272,12.75650756231723],[77.01181435853447,12.76331792651911]]]},"properties":{"region_id":"village_614538","name":"NAVILE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

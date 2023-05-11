@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66339228126462,12.12774525148306],[76.64442307921179,12.13023348980251],[76.62981608999134,12.12374783726653],[76.65139739233737,12.09680245391943],[76.64963658255105,12.12006675775201],[76.66339228126462,12.12774525148306]]]},"properties":{"region_id":"village_619237","name":"DEBUR","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

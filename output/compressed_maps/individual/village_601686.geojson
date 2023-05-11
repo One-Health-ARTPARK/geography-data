@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62912573176163,15.60173644586574],[76.6271782683564,15.58585377881161],[76.65945590893344,15.58612552070941],[76.65334196235345,15.59749090401575],[76.62912573176163,15.60173644586574]]]},"properties":{"region_id":"village_601686","name":"JURATGI","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

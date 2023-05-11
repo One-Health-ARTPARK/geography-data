@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94202655618426,14.07897335949112],[74.93508499054583,14.08459406349136],[74.92375559586297,14.07806472054265],[74.93693055583283,14.06876073504094],[74.94202655618426,14.07897335949112]]]},"properties":{"region_id":"village_607305","name":"HEDATRI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

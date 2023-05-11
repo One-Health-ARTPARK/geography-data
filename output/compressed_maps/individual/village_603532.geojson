@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71107978021669,14.45250376035412],[74.6875463945261,14.46149778774367],[74.68883495072676,14.44358114086742],[74.71107978021669,14.45250376035412]]]},"properties":{"region_id":"village_603532","name":"NILKUND","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

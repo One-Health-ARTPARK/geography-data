@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.35065990729062,16.49854085444531],[74.33203048525172,16.49959864679827],[74.33287165655219,16.46241532212552],[74.36447201647714,16.47442794841999],[74.35065990729062,16.49854085444531]]]},"properties":{"region_id":"village_597133","name":"SOUNDALGA","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

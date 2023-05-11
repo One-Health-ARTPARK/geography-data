@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94949484877289,13.87133894973067],[77.94825060566971,13.890393317786],[77.92039837689913,13.87262757861069],[77.92070961017119,13.85869092673262],[77.9424503117726,13.86086291981444],[77.94949484877289,13.87133894973067]]]},"properties":{"region_id":"village_623805","name":"GUTTAPALYA","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

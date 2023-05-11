@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28290253816425,14.28719147508965],[77.28481976475098,14.33767950005119],[77.24521413109056,14.31750811971487],[77.28290253816425,14.28719147508965]]]},"properties":{"region_id":"village_610521","name":"NAGALAPURA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

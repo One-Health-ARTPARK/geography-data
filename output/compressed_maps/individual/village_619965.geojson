@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65629564065928,17.66349274110483],[76.63438249156786,17.68248603044358],[76.62516054833826,17.64765670759347],[76.65100338276717,17.64843827619086],[76.65629564065928,17.66349274110483]]]},"properties":{"region_id":"village_619965","name":"JAMGA RUDERWADI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

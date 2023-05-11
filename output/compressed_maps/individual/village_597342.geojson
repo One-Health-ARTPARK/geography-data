@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27644868830994,16.70185231550015],[75.29105813494893,16.7151603165092],[75.27914254183001,16.75001900110206],[75.25313003195002,16.73980604625934],[75.27644868830994,16.70185231550015]]]},"properties":{"region_id":"village_597342","name":"BADAGI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73034460530096,13.72002409446301],[77.71857587013542,13.70953547679144],[77.73068610965859,13.70399451158806],[77.74103614493758,13.71571211644934],[77.73034460530096,13.72002409446301]]]},"properties":{"region_id":"village_623700","name":"PASAPALODU","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

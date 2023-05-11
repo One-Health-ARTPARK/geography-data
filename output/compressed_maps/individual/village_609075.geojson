@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42802526152535,13.64459241663761],[75.43648370499193,13.67969119668169],[75.40283176593039,13.68079797486691],[75.40571049118914,13.65886253518384],[75.42802526152535,13.64459241663761]]]},"properties":{"region_id":"village_609075","name":"MALLANDARU","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

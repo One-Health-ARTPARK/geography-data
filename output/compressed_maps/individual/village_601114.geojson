@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68205777670757,15.88486384627255],[76.67826291261946,15.89999720048046],[76.66350142711167,15.89736910816819],[76.67280085867391,15.88496471055946],[76.68205777670757,15.88486384627255]]]},"properties":{"region_id":"village_601114","name":"RANGAPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

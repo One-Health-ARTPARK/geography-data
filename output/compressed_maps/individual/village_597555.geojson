@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.43855527137872,16.2953047943707],[74.41847398619117,16.30319466436803],[74.4133969370965,16.28831559398885],[74.43855527137872,16.2953047943707]]]},"properties":{"region_id":"village_597555","name":"HONNIHALLI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

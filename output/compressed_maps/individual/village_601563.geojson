@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35244860810226,15.60949923799342],[76.34313017788025,15.62748792805137],[76.32744695017875,15.60273882659001],[76.35337457013009,15.59094535855059],[76.35244860810226,15.60949923799342]]]},"properties":{"region_id":"village_601563","name":"CHIKKA WADDERKAL","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

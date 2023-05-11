@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74645305141017,17.32536171950022],[75.69688558958202,17.29539918366008],[75.71801579928753,17.22379451559709],[75.75687102773254,17.22910949424453],[75.74645305141017,17.32536171950022]]]},"properties":{"region_id":"village_599191","name":"BARDOL","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

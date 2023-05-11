@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07038521732004,14.40383268446758],[75.0761830759774,14.41506672519679],[75.06521391389934,14.42038643836633],[75.05517340845115,14.40623775407997],[75.07038521732004,14.40383268446758]]]},"properties":{"region_id":"village_607549","name":"KUDUREGANI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

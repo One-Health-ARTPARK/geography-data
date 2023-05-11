@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04639106505307,16.21432117331669],[77.01315215014652,16.21315219030606],[77.0015011085318,16.19746855999328],[77.04289133217385,16.19339110871883],[77.04639106505307,16.21432117331669]]]},"properties":{"region_id":"village_600719","name":"YERMARUS","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

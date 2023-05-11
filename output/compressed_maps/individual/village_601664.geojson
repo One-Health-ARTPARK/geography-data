@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48860275118453,15.68319713391668],[76.4913689308842,15.64517078892689],[76.51843020639045,15.67005255124835],[76.48860275118453,15.68319713391668]]]},"properties":{"region_id":"village_601664","name":"KARDONA","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45329022812616,12.56361049668718],[76.44018519277816,12.56268867913255],[76.43906924148797,12.55292657881949],[76.45243087102449,12.55117846818921],[76.45329022812616,12.56361049668718]]]},"properties":{"region_id":"village_613625","name":"KAPANAHALLY","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

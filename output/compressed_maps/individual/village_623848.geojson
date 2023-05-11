@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77974126466904,13.78731815632254],[77.77458756759029,13.79172895500363],[77.76679152642545,13.784123069293],[77.77800115410429,13.78241103031232],[77.77974126466904,13.78731815632254]]]},"properties":{"region_id":"village_623848","name":"GANTAMVARAPALLI .","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79683256227176,15.95169661090055],[74.79192866897176,15.97456776169549],[74.77649231844075,15.97416998980224],[74.78189670260006,15.95257011985806],[74.79683256227176,15.95169661090055]]]},"properties":{"region_id":"village_598030","name":"GAJAMINHAL","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64658044516993,16.95804574190743],[76.599130418206,16.9536579359328],[76.60557727554486,16.93836802439154],[76.64511239888807,16.93490671994676],[76.64658044516993,16.95804574190743]]]},"properties":{"region_id":"village_620811","name":"KASRBHOSGA","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

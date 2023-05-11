@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14312066318918,14.02543620183206],[75.12383591396139,14.03831919041383],[75.11088705225981,14.01902373647016],[75.14312066318918,14.02543620183206]]]},"properties":{"region_id":"village_607913","name":"HARIDRAVATI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

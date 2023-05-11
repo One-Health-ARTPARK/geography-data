@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73003118374305,16.23549013695422],[74.73206212917651,16.24672515603096],[74.72760093502133,16.26572493046293],[74.71714753980466,16.2415739062167],[74.73003118374305,16.23549013695422]]]},"properties":{"region_id":"village_597593","name":"ZANGATIHAL","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

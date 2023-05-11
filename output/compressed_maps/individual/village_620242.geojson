@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9414214665123,17.40122339051723],[76.92072523754389,17.40128975510142],[76.9059882562297,17.37433962726326],[76.9342739881452,17.3769100102516],[76.9414214665123,17.40122339051723]]]},"properties":{"region_id":"village_620242","name":"BHOPAL TEGNUR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

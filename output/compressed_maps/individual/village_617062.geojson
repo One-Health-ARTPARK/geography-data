@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34726903029205,13.01716600700731],[76.33664440226838,13.01847239445424],[76.33606154125356,13.00217576666076],[76.34848296988245,13.00559391593234],[76.34726903029205,13.01716600700731]]]},"properties":{"region_id":"village_617062","name":"GYARAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

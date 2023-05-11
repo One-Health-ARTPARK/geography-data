@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36771307274724,13.52606508647019],[76.3622390045823,13.53027156880131],[76.34799182987433,13.51960581826884],[76.36363266710197,13.51669446175868],[76.36771307274724,13.52606508647019]]]},"properties":{"region_id":"village_615639","name":"DONANAKATTE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

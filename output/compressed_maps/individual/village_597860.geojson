@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.53900010975923,15.68671268334513],[74.52506898112871,15.6875987210969],[74.52754219428165,15.67168731080873],[74.53630326341201,15.67498067962521],[74.53900010975923,15.68671268334513]]]},"properties":{"region_id":"village_597860","name":"BHANDARGALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

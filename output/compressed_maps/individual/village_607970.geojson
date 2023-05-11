@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12705991007138,13.89569184847385],[75.11895834608832,13.8986624667383],[75.10537570579045,13.88136964709167],[75.12287936656405,13.87715336984865],[75.12705991007138,13.89569184847385]]]},"properties":{"region_id":"village_607970","name":"VARAMBALLI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

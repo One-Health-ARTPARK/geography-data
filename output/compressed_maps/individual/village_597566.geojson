@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.58436477877515,16.30997893762939],[74.56252787556633,16.31841536812908],[74.56952040105436,16.29641293480644],[74.58436477877515,16.30997893762939]]]},"properties":{"region_id":"village_597566","name":"HANDIGUD","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

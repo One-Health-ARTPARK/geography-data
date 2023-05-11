@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64986562257972,12.48695488885915],[76.64010282494364,12.49185789868141],[76.63750590782907,12.47895218721126],[76.64751631812403,12.48063411451185],[76.64986562257972,12.48695488885915]]]},"properties":{"region_id":"village_614208","name":"DAMADAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

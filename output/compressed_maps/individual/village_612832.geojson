@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55738023652943,13.21987998907745],[77.55626995975258,13.22527254991827],[77.53817429957263,13.21535739582476],[77.54083129865842,13.21141637095823],[77.55738023652943,13.21987998907745]]]},"properties":{"region_id":"village_612832","name":"MARASANDRA AMANIKERE","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

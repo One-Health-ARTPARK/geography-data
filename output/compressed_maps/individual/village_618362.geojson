@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19781266664437,12.24708279449892],[76.20610554994897,12.26515869411233],[76.19523123056516,12.2655149208329],[76.19781266664437,12.24708279449892]]]},"properties":{"region_id":"village_618362","name":"KAMEGOWDANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

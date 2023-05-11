@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25333392218558,12.64531835957345],[75.24006621206917,12.63288899734003],[75.20446062644338,12.62754997772621],[75.19841323669176,12.61257652201255],[75.24295286356332,12.61429073714006],[75.25333392218558,12.64531835957345]]]},"properties":{"region_id":"village_617749","name":"PADUVANNUR","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

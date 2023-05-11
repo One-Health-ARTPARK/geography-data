@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53820587481023,15.01915451856489],[75.50757387711413,15.04395139616225],[75.47627363330042,15.04390942659793],[75.48379494976278,15.00251464256226],[75.53820587481023,15.01915451856489]]]},"properties":{"region_id":"village_604007","name":"HESARUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

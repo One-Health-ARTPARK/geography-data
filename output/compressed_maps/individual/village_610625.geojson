@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06495499530932,14.10603440075077],[77.02424907449385,14.11291325615502],[77.02565843438033,14.06601393883834],[77.0454492431771,14.05671749485513],[77.06495499530932,14.10603440075077]]]},"properties":{"region_id":"village_610625","name":"ARASIKERE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

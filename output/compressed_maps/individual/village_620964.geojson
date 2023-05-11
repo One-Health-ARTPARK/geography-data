@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33715491609057,16.36492715793967],[76.31141954113421,16.36185115424301],[76.3102149210964,16.32918512567279],[76.33336746217513,16.33616312585855],[76.33715491609057,16.36492715793967]]]},"properties":{"region_id":"village_620964","name":"MUDILINGANHAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

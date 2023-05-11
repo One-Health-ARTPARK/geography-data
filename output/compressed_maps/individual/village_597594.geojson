@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72060996276203,16.27479163419462],[74.68403382157389,16.26807875537945],[74.69375634369926,16.23894558126856],[74.71717184183102,16.24209974150302],[74.72060996276203,16.27479163419462]]]},"properties":{"region_id":"village_597594","name":"GUDAS","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

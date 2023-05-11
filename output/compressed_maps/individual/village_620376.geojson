@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65603982363689,17.50499477859067],[77.65219525812157,17.48426708932667],[77.68429432997853,17.47414414683],[77.68314860490966,17.50721758955942],[77.65603982363689,17.50499477859067]]]},"properties":{"region_id":"village_620376","name":"MAGDAMPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

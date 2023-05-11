@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3608882631169,16.04447856921],[75.34607795687569,16.01796657187626],[75.3844540107976,16.01614965912433],[75.38602803814885,16.03593619513691],[75.3608882631169,16.04447856921]]]},"properties":{"region_id":"village_598326","name":"ANEGUDDI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

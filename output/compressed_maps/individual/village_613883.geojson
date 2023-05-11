@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75963265555924,12.8444408843378],[76.75761887895085,12.85357277749835],[76.7501955432157,12.84967140151956],[76.75963265555924,12.8444408843378]]]},"properties":{"region_id":"village_613883","name":"CHOWDENAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

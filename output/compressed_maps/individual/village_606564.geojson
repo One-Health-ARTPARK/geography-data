@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93681446564035,14.41935473041174],[75.90830661981938,14.42578081772398],[75.90691015244678,14.40074302754325],[75.93681446564035,14.41935473041174]]]},"properties":{"region_id":"village_606564","name":"SHIRAMAGONDANAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

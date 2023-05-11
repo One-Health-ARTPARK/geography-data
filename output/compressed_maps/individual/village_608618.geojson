@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71077399267257,13.93716619312231],[75.69889013948267,13.93882867940181],[75.69711970708411,13.92328794103788],[75.70936031133341,13.92581802310075],[75.71077399267257,13.93716619312231]]]},"properties":{"region_id":"village_608618","name":"MATHIGHATTA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

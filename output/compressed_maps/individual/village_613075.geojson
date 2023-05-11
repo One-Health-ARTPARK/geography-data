@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6960646004771,13.07048913139168],[77.69006223278976,13.06869552794076],[77.68669952423535,13.06165079355324],[77.69451846066988,13.06003889399439],[77.6960646004771,13.07048913139168]]]},"properties":{"region_id":"village_613075","name":"VADERAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

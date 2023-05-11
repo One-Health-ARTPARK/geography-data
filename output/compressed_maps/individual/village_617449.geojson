@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88369593047283,13.05611515576393],[74.87283224979734,13.05155496600414],[74.86111671748155,13.05079549695447],[74.86298787750003,13.04384874516355],[74.87443493491003,13.04230468590856],[74.88369593047283,13.05611515576393]]]},"properties":{"region_id":"village_617449","name":"KONDEMULA","parent":"subdistrict_7198","parent_name":"MULKI"}}
+]}

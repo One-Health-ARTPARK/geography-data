@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68239429977486,13.23686724795273],[77.68914585346849,13.25123360933447],[77.67017245964864,13.25816210920839],[77.6626934597449,13.24325535525243],[77.68239429977486,13.23686724795273]]]},"properties":{"region_id":"village_625382","name":"BOMMAWARA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

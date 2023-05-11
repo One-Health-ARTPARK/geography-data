@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60401633914918,13.98932837209905],[76.56898559233063,13.99101871637917],[76.57741493260494,13.96510656785212],[76.60401633914918,13.98932837209905]]]},"properties":{"region_id":"village_606084","name":"YARADAKATTE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37554025120647,13.05138064479012],[76.38850499561491,13.05184129063078],[76.3886781362449,13.05936945504689],[76.37590013706179,13.05822983605427],[76.37554025120647,13.05138064479012]]]},"properties":{"region_id":"village_617130","name":"HALASINAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

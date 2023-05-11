@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49545551985345,12.67857736692794],[75.46140939423353,12.63436158762175],[75.4818021384064,12.62754602716133],[75.49759227368907,12.63719102950603],[75.49545551985345,12.67857736692794]]]},"properties":{"region_id":"village_617780","name":"KUTHKUNJA","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59484205792869,13.26092066840203],[76.59435581427576,13.28002923080234],[76.57560395255705,13.26895148929062],[76.59484205792869,13.26092066840203]]]},"properties":{"region_id":"village_612042","name":"MADLEHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43331021565324,14.55112805236674],[76.43198743146715,14.56803724185707],[76.40000821595115,14.56681407178682],[76.40668601866679,14.55393395876218],[76.43331021565324,14.55112805236674]]]},"properties":{"region_id":"village_606497","name":"KANANAKATTE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76636556745177,13.78938009141287],[75.77800721083875,13.75651285471126],[75.78843902995592,13.7783948004749],[75.76636556745177,13.78938009141287]]]},"properties":{"region_id":"village_609135","name":"THIMMAPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

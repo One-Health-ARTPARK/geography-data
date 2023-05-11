@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15010423245401,13.60644567960397],[75.1226468532112,13.60363273662876],[75.14120636527662,13.57867646545798],[75.15010423245401,13.60644567960397]]]},"properties":{"region_id":"village_608279","name":"KOLAGI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

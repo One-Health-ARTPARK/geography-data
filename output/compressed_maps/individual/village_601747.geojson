@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17630713560412,15.41202502173331],[76.1663565572418,15.43004588215598],[76.15131556796136,15.41265883511891],[76.17630713560412,15.41202502173331]]]},"properties":{"region_id":"village_601747","name":"DEVLAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

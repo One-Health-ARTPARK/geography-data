@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74347673798997,13.18373716731391],[76.73178991724616,13.1756169707659],[76.7353181388412,13.16587750786429],[76.74530370526033,13.17711272910575],[76.74347673798997,13.18373716731391]]]},"properties":{"region_id":"village_612223","name":"CHENDUR","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98997187434297,13.71262678125485],[75.96688235252567,13.714619527687],[75.96874715820886,13.70473502550099],[75.98207154368617,13.70413287540178],[75.98997187434297,13.71262678125485]]]},"properties":{"region_id":"village_609311","name":"GONDEDAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

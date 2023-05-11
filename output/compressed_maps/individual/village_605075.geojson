@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45784223282912,14.90200686112755],[76.46277465883091,14.92489834118193],[76.43202268096259,14.93702019760077],[76.42327572359761,14.89792849445136],[76.45784223282912,14.90200686112755]]]},"properties":{"region_id":"village_605075","name":"GUNDINAHOLE","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

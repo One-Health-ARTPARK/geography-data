@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26902651471553,15.67880695470125],[76.2478672947976,15.68291211627611],[76.25165407023691,15.66412760626512],[76.26902651471553,15.67880695470125]]]},"properties":{"region_id":"village_601279","name":"CHOUDAPUR","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

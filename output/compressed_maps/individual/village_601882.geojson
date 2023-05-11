@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46913833317703,15.87622964036806],[75.45246938267864,15.87728136937382],[75.45763428037196,15.8614202095072],[75.45777183307752,15.84665226525141],[75.46636707996193,15.84652914214454],[75.46913833317703,15.87622964036806]]]},"properties":{"region_id":"village_601882","name":"BELLERI","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

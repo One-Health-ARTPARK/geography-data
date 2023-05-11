@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6247360610841,13.15254430159357],[76.61495405544295,13.16084146005218],[76.61178729448343,13.14688050962582],[76.61905862655593,13.14203745380761],[76.6247360610841,13.15254430159357]]]},"properties":{"region_id":"village_612241","name":"SOMENAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

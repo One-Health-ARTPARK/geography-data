@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.25830609020323,12.89544209553362],[78.22977304572996,12.8986366414228],[78.22817827094786,12.88476618819534],[78.25314887091787,12.88177368376612],[78.25830609020323,12.89544209553362]]]},"properties":{"region_id":"village_622605","name":"DODDAMARIHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

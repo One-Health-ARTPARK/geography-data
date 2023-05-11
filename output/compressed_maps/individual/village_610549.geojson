@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1625700039201,14.21359716828721],[77.15536915884863,14.20710464146973],[77.16050885262008,14.19111745494469],[77.16988057167244,14.19318308799252],[77.1625700039201,14.21359716828721]]]},"properties":{"region_id":"village_610549","name":"KATHIKYATHANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

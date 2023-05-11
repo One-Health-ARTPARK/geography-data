@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28792052767757,13.74321466512631],[75.27356123512996,13.74345889931606],[75.27395307574096,13.7169862597344],[75.2863500256911,13.7153045834178],[75.28792052767757,13.74321466512631]]]},"properties":{"region_id":"village_608206","name":"BILUVE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

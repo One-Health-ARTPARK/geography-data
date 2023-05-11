@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32498819218432,14.67493973439332],[75.32156324284551,14.66273098779836],[75.33837318201795,14.65892212082874],[75.33571193536118,14.67308969352521],[75.32498819218432,14.67493973439332]]]},"properties":{"region_id":"village_604289","name":"SIDDAPURA","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

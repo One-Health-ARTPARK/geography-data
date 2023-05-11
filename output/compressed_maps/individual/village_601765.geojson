@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19625525571574,15.37214052956007],[76.18192270013174,15.36372011119208],[76.19188169019397,15.3456415824862],[76.21078608169873,15.36003965038154],[76.19625525571574,15.37214052956007]]]},"properties":{"region_id":"village_601765","name":"KIDADHAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

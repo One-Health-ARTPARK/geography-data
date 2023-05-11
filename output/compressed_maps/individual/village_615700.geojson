@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29553374976221,13.30613552059971],[76.28311081745402,13.30735665590802],[76.28689285571673,13.29715681901655],[76.29553374976221,13.30613552059971]]]},"properties":{"region_id":"village_615700","name":"BANDIHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89015627978317,13.3986012074339],[77.87695639298614,13.39653232437053],[77.87472042912755,13.38609371508832],[77.88775245156384,13.38597199391884],[77.89015627978317,13.3986012074339]]]},"properties":{"region_id":"village_624192","name":"BUDHALA","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

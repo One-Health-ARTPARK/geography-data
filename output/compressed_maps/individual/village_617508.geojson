@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94849101845271,12.93492725673623],[74.93017150855982,12.92730550362242],[74.94969809883361,12.91713956059531],[74.94849101845271,12.93492725673623]]]},"properties":{"region_id":"village_617508","name":"ADDUR (CT)","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

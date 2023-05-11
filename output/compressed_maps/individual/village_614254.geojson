@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83302053040715,12.46703223831015],[76.8428873541751,12.47495337825287],[76.83549040227905,12.48687781606234],[76.82823577415243,12.48767668688436],[76.83302053040715,12.46703223831015]]]},"properties":{"region_id":"village_614254","name":"HUNASANAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

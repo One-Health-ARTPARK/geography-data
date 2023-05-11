@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38123116556353,15.30697464983833],[76.38265943398966,15.29604532776651],[76.3885594835634,15.29618658373783],[76.38730227966546,15.31111307301471],[76.38123116556353,15.30697464983833]]]},"properties":{"region_id":"village_604720","name":"BELAGODU","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

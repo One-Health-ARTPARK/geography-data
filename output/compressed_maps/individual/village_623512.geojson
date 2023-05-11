@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76720988747783,13.53651011440816],[77.76196637897917,13.53389461792143],[77.75990953079028,13.52448775644078],[77.76421710912058,13.52551288405028],[77.76720988747783,13.53651011440816]]]},"properties":{"region_id":"village_623512","name":"BYAPPANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

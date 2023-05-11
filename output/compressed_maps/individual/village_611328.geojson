@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06028484984398,13.47443532383624],[77.04448104726809,13.47733374026182],[77.0422066358737,13.46625472229494],[77.06153490935004,13.46154263721641],[77.06028484984398,13.47443532383624]]]},"properties":{"region_id":"village_611328","name":"CHIKKENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

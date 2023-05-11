@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99145688910897,13.96043455804344],[75.97886536252398,13.98180824948741],[75.96052062859138,13.9603003218397],[75.99145688910897,13.96043455804344]]]},"properties":{"region_id":"village_607086","name":"PANDOMATTI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

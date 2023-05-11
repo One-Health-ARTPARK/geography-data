@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26118243432231,17.00888311107704],[77.25374147086093,16.98590058420795],[77.26850465553123,16.98217598413734],[77.27768623648099,17.00253216229765],[77.26118243432231,17.00888311107704]]]},"properties":{"region_id":"village_620552","name":"GUDANHALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

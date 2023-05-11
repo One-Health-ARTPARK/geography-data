@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26276908661973,14.38826808193925],[75.23649767714232,14.3873558648422],[75.24121178187875,14.37674198173062],[75.26071748676526,14.37762071094111],[75.26276908661973,14.38826808193925]]]},"properties":{"region_id":"village_607727","name":"SHIRALAKOPPA (RURAL)","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

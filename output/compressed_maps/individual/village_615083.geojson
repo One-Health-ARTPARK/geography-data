@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79750494612252,13.16266815043248],[75.79030320419581,13.16083112900346],[75.79547157591541,13.15145586754304],[75.80489248911151,13.15644800221988],[75.79750494612252,13.16266815043248]]]},"properties":{"region_id":"village_615083","name":"KOTIGANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

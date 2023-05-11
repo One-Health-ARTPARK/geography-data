@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.44821558379046,14.39715641664512],[74.43631975761468,14.39558831054972],[74.42931200372156,14.38714730887562],[74.43476852463851,14.37917711404631],[74.44821558379046,14.39715641664512]]]},"properties":{"region_id":"village_603491","name":"URKERI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80768793793712,13.82922239989392],[77.78905083221179,13.82927695618331],[77.80845021707161,13.80956328894227],[77.82256661136441,13.82127019374945],[77.80768793793712,13.82922239989392]]]},"properties":{"region_id":"village_623817","name":"POTHEPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33882343001329,13.02836932391255],[77.32877503359063,13.01483918623349],[77.3519533808922,13.01523698035602],[77.33882343001329,13.02836932391255]]]},"properties":{"region_id":"village_624935","name":"CHOWDASANDRA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

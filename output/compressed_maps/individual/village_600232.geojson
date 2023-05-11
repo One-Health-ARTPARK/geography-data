@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46813577346629,17.81618160957855],[77.46347658289814,17.79461106397629],[77.48329282219001,17.80401229139604],[77.46813577346629,17.81618160957855]]]},"properties":{"region_id":"village_600232","name":"BUDHERA","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

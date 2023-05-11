@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81815273225273,13.00853192503035],[74.79533651239535,13.03176383672128],[74.78474826996397,13.0320414090383],[74.79313704676001,12.9938838570498],[74.8179582306484,13.00381233357106],[74.81815273225273,13.00853192503035]]]},"properties":{"region_id":"village_938797","name":"49 SURATKAL","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

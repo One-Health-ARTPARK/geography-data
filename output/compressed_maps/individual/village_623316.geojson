@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63438719367673,13.67794254592126],[77.61998244627229,13.68798990825012],[77.61105420546988,13.67617049467808],[77.61949573999955,13.66608865998198],[77.63438719367673,13.67794254592126]]]},"properties":{"region_id":"village_623316","name":"HULIKUNTE","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

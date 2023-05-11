@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89097874211669,14.59722088293512],[74.8771337327202,14.59467507292642],[74.89303857668888,14.57159496845116],[74.89853733220876,14.58085701646532],[74.89097874211669,14.59722088293512]]]},"properties":{"region_id":"village_603292","name":"KEREKOPPA","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

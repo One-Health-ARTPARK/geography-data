@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68521748019886,14.09170188638927],[75.65345048735038,14.09088306235038],[75.66877919689742,14.06779902808235],[75.68521748019886,14.09170188638927]]]},"properties":{"region_id":"village_606843","name":"DODDERI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

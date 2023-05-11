@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90253835860226,13.49227132653862],[77.88595805843568,13.48840342477046],[77.8944679855721,13.47781164084001],[77.90253835860226,13.49227132653862]]]},"properties":{"region_id":"village_624126","name":"SADDAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

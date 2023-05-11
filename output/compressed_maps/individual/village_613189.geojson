@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70081503071518,12.85611263385528],[77.68785807532834,12.86811400451482],[77.68188335975715,12.84566701890714],[77.70081503071518,12.85611263385528]]]},"properties":{"region_id":"village_613189","name":"CHIKKANAGAMANGALA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

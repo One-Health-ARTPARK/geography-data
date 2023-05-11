@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01270937071106,12.62094451286542],[76.00751750223905,12.62994985475111],[75.99052400168728,12.62133881693092],[75.99312274354227,12.61250997244026],[76.01270937071106,12.62094451286542]]]},"properties":{"region_id":"village_616707","name":"DODDABOMMENAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73063100812622,14.37652645901252],[74.73923560924983,14.36675081487172],[74.75014565572503,14.38539107456161],[74.74182783559526,14.39663686327559],[74.73063100812622,14.37652645901252]]]},"properties":{"region_id":"village_603626","name":"ILLIMANE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

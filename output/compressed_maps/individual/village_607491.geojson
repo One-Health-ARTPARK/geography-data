@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15759708956917,14.48192752208173],[75.15427651276809,14.46480887401812],[75.1760227736795,14.47032487353227],[75.15759708956917,14.48192752208173]]]},"properties":{"region_id":"village_607491","name":"GUDDEKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

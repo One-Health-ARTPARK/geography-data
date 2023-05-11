@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69617819488444,14.65953026721765],[74.67099610794902,14.65260663336313],[74.67345542464801,14.63292020451268],[74.69130006771077,14.62521471713139],[74.69617819488444,14.65953026721765]]]},"properties":{"region_id":"village_603119","name":"NAIGAR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75161742478936,13.76684350236449],[74.7178498396382,13.7705754303035],[74.73816873026018,13.73190224129846],[74.76274910708166,13.74791001988716],[74.75161742478936,13.76684350236449]]]},"properties":{"region_id":"village_608706","name":"ALOOR","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

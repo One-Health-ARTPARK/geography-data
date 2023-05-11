@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59042999563654,13.19506204173044],[76.59375149025846,13.20955808448098],[76.5770157905482,13.20011656709704],[76.59042999563654,13.19506204173044]]]},"properties":{"region_id":"village_612139","name":"NALLIKERE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

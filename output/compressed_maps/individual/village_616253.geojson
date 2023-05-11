@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90376992059342,12.84078181622206],[75.88648033828578,12.8317639390626],[75.89841671482553,12.82893574779985],[75.90376992059342,12.84078181622206]]]},"properties":{"region_id":"village_616253","name":"SIRAGAVARA","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

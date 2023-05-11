@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68015242796004,13.0694998122835],[75.67183976141727,13.06697870204456],[75.67360565950386,13.04482845163508],[75.68788257766904,13.06028039132088],[75.68015242796004,13.0694998122835]]]},"properties":{"region_id":"village_610022","name":"BETTADAMANE","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

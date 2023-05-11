@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20852714207363,13.02516934651825],[76.21767172743827,13.02527543351106],[76.2153131292445,13.04355385141163],[76.20305877108625,13.03950711268528],[76.20852714207363,13.02516934651825]]]},"properties":{"region_id":"village_615978","name":"YOGIHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1445111890538,13.59287261062308],[77.11990825698109,13.5933543268988],[77.1259195552734,13.56644872754755],[77.14668058760157,13.57190287465095],[77.1445111890538,13.59287261062308]]]},"properties":{"region_id":"village_611012","name":"NEGILALA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

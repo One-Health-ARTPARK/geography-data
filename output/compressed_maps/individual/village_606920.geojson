@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87804084717838,14.31996590970592],[75.84910487626432,14.31710875549481],[75.84753413438268,14.29012703185031],[75.87533107446836,14.2905683714803],[75.87804084717838,14.31996590970592]]]},"properties":{"region_id":"village_606920","name":"KARIGANUR","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.47610403188375,14.32149698441559],[74.4708722820349,14.32983604158002],[74.45441867166659,14.32817645875597],[74.4666918492236,14.31559837645343],[74.47610403188375,14.32149698441559]]]},"properties":{"region_id":"village_603740","name":"VANDOOR","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

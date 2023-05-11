@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99003439239868,17.27780941009213],[76.97386547985231,17.24043865585659],[77.02811542173745,17.25141099055012],[76.99003439239868,17.27780941009213]]]},"properties":{"region_id":"village_620635","name":"BENNUR (B)","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

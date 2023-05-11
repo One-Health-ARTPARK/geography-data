@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88286362540822,12.95919233242776],[75.87436802199848,12.95699441192288],[75.87637646269917,12.93875116852515],[75.8839104147821,12.94599360614795],[75.88286362540822,12.95919233242776]]]},"properties":{"region_id":"village_614956","name":"BALU","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

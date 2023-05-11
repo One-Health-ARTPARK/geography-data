@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25372834444784,15.63470397525458],[76.24761034360827,15.67221630869138],[76.22849632524562,15.66382764407857],[76.25372834444784,15.63470397525458]]]},"properties":{"region_id":"village_601280","name":"KALBHAVI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

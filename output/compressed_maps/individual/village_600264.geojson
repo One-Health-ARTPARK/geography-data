@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20601421126027,17.87538442669975],[77.17927175754902,17.87579352187135],[77.17634251009198,17.85197320873515],[77.2134507546519,17.84600545049593],[77.20601421126027,17.87538442669975]]]},"properties":{"region_id":"village_600264","name":"DUBALGUNDI","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

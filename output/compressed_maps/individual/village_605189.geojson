@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7503699090779,14.76409934373335],[76.72537125558709,14.75983137142319],[76.73577030848064,14.752794241381],[76.74995030753993,14.75234690702674],[76.7503699090779,14.76409934373335]]]},"properties":{"region_id":"village_605189","name":"KATANAIKANAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

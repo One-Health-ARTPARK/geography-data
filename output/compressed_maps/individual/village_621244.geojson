@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05825895823682,16.84850061390602],[77.03725720985851,16.8452499030639],[77.0427184158367,16.82798041087189],[77.05825895823682,16.84850061390602]]]},"properties":{"region_id":"village_621244","name":"KHANHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

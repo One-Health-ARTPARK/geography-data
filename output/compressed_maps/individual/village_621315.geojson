@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19750062066949,16.67480955540819],[77.19494139280373,16.69433552424991],[77.17475036355634,16.68658569390175],[77.17692620877983,16.6648710704195],[77.19750062066949,16.67480955540819]]]},"properties":{"region_id":"village_621315","name":"SHETTIKERA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48657256827927,13.65126040632995],[77.46285502285349,13.66860676614511],[77.43592397120355,13.65046136027234],[77.45153469786942,13.62731784287405],[77.48657256827927,13.65126040632995]]]},"properties":{"region_id":"village_623250","name":"IDAGUR","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18329059760637,12.97374063116375],[75.16329928119536,12.95947115055702],[75.18657158803163,12.94916719698248],[75.20748989605724,12.96291686677499],[75.18329059760637,12.97374063116375]]]},"properties":{"region_id":"village_617649","name":"MALADI","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

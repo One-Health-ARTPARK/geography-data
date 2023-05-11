@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49697186945926,13.31944804606077],[77.48551988303649,13.30877099058125],[77.49951907261877,13.30405381358928],[77.49697186945926,13.31944804606077]]]},"properties":{"region_id":"village_625108","name":"GALIPUJE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

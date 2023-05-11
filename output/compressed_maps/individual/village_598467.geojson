@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41850792396271,16.57963826128313],[75.39597875221786,16.5914401791767],[75.38794690837003,16.57054863197857],[75.41850792396271,16.57963826128313]]]},"properties":{"region_id":"village_598467","name":"NAGANUR","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9984890958152,13.43113065704033],[77.99275198485313,13.42007285140151],[78.00672361350485,13.41792887791254],[78.00521757275375,13.4300786232085],[77.9984890958152,13.43113065704033]]]},"properties":{"region_id":"village_624571","name":"CHANDRAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

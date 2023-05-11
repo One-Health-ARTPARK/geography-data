@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7062271852708,12.74613508206648],[76.68021739288422,12.74400515752157],[76.6923555348493,12.72863507646954],[76.7062271852708,12.74613508206648]]]},"properties":{"region_id":"village_614014","name":"GANGANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

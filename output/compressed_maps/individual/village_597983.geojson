@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60524329042038,15.52159030329269],[74.59961094854694,15.52670582530084],[74.58405635922787,15.51001640515031],[74.59613884623722,15.50644945880296],[74.60524329042038,15.52159030329269]]]},"properties":{"region_id":"village_597983","name":"MENDEGALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

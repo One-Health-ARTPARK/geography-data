@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29469503088754,17.10027857436076],[77.25164988564681,17.1035729096686],[77.2660670726357,17.07735687828071],[77.29469503088754,17.10027857436076]]]},"properties":{"region_id":"village_620536","name":"HANMANHALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

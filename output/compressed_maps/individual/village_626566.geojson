@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41239595548716,12.38061979937097],[77.3938678066068,12.36189858674147],[77.40416116113568,12.34800895274966],[77.42186712502004,12.37138332014762],[77.41239595548716,12.38061979937097]]]},"properties":{"region_id":"village_626566","name":"HELIGEHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

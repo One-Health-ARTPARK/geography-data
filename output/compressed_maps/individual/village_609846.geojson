@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70911150391912,13.20403361486702],[75.69836502375671,13.20476653065569],[75.70096959732163,13.19637791144983],[75.70976886777572,13.1947594715818],[75.70911150391912,13.20403361486702]]]},"properties":{"region_id":"village_609846","name":"VATAGANAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54268532040322,12.37955407847404],[75.53591767290777,12.35931839942801],[75.55092947475794,12.35727909842488],[75.5586478309641,12.36881166918409],[75.54268532040322,12.37955407847404]]]},"properties":{"region_id":"village_923895","name":"KORANGALA","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

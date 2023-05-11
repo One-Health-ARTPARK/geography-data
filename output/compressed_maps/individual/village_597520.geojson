@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05209591615056,16.27379600227498],[75.0341263745521,16.29771888665069],[75.02327384732182,16.27494098608747],[75.05209591615056,16.27379600227498]]]},"properties":{"region_id":"village_597520","name":"HOSATTI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

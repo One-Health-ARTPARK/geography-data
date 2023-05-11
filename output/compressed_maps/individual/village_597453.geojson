@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92239609411479,16.27241551504368],[74.90359465240105,16.25638233554643],[74.92823497070587,16.22398516017027],[74.94187763591508,16.24680101229362],[74.9241549050995,16.25300840063891],[74.92239609411479,16.27241551504368]]]},"properties":{"region_id":"village_597453","name":"WADERATTI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

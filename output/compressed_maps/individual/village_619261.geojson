@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6715747021257,12.05452478481645],[76.6542625521058,12.06139649182931],[76.65240905823109,12.03056600779026],[76.66844584168243,12.03433267117022],[76.6715747021257,12.05452478481645]]]},"properties":{"region_id":"village_619261","name":"MUDDAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

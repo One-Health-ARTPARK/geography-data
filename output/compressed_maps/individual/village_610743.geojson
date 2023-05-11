@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06900455448354,13.71969603970884],[77.07887157832585,13.68758513695149],[77.10884690311023,13.6908184395386],[77.10843190783031,13.70824645515128],[77.09121003466218,13.72413855668136],[77.06900455448354,13.71969603970884]]]},"properties":{"region_id":"village_610743","name":"CHANDRAGIRI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

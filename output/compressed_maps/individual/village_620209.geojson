@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95098666397455,17.56390826683655],[76.92363741987155,17.55432688199912],[76.94819377982819,17.53705119725249],[76.95098666397455,17.56390826683655]]]},"properties":{"region_id":"village_620209","name":"DASTAPUR","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

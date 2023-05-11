@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76749978020192,16.88784476334447],[75.7424717094754,16.89463819747255],[75.72066561322255,16.87010335510349],[75.74746114618057,16.85474505267097],[75.76749978020192,16.88784476334447]]]},"properties":{"region_id":"village_599042","name":"HANCHINAL(PH)","parent":"subdistrict_7074","parent_name":"TIKOTA"}}
+]}

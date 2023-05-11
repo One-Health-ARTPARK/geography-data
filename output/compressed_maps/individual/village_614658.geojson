@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96169147665154,12.41726565648406],[76.94188928898069,12.42213277778822],[76.94019282696306,12.40546146011695],[76.95318407727399,12.4096537775912],[76.96169147665154,12.41726565648406]]]},"properties":{"region_id":"village_614658","name":"RAMANDUR","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55900835072848,12.97694836013462],[76.54587845929278,12.98006450812451],[76.54615182826448,12.95982216431971],[76.557467411539,12.96248891366932],[76.55900835072848,12.97694836013462]]]},"properties":{"region_id":"village_617329","name":"BELAGIHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

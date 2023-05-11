@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86733637076935,13.30451474086786],[74.83082104223719,13.30115096019302],[74.86311877260137,13.27586554625719],[74.86733637076935,13.30451474086786]]]},"properties":{"region_id":"village_608819","name":"PERNANKILA","parent":"subdistrict_5523","parent_name":"UDUPI"}}
+]}

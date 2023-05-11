@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7912461370972,13.4396705685244],[77.78142634003257,13.44324368869406],[77.78030337251502,13.43089678535743],[77.7912461370972,13.4396705685244]]]},"properties":{"region_id":"village_623656","name":"MUTHUKADAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

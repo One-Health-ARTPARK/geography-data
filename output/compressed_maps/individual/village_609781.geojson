@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87863485876929,13.35445394812264],[75.86875093777996,13.35512411399024],[75.86224741326362,13.33641297967663],[75.87982226491862,13.34186413928019],[75.87863485876929,13.35445394812264]]]},"properties":{"region_id":"village_609781","name":"LAKYA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

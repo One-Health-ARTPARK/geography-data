@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9958590481719,16.92173248840088],[75.95532567721311,16.9187774400566],[75.94847621270127,16.88206987257401],[75.99396006952588,16.87119137931029],[75.9958590481719,16.92173248840088]]]},"properties":{"region_id":"village_599092","name":"ANKALAGI","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

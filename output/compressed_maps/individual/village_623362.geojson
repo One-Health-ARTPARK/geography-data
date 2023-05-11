@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42650714904066,13.48132877941783],[77.43338070036562,13.49361119093684],[77.42437313327234,13.50361573338281],[77.42111289348871,13.48981125323292],[77.42650714904066,13.48132877941783]]]},"properties":{"region_id":"village_623362","name":"AGRAHARAHOSAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

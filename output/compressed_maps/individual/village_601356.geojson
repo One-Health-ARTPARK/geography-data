@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03110444758423,15.46164211191947],[76.01309658938995,15.41859250032643],[76.03401805910288,15.41712858049975],[76.03110444758423,15.46164211191947]]]},"properties":{"region_id":"village_601356","name":"NITTALI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79192132251413,13.35026421926627],[75.78455270388608,13.35915521503676],[75.77951911192707,13.34732367609348],[75.79192132251413,13.35026421926627]]]},"properties":{"region_id":"village_609736","name":"HAMPAPURA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

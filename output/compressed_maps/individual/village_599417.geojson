@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3851903066514,16.74249512175577],[76.35256865294092,16.74148754099032],[76.34302676813941,16.73095851237423],[76.3814766718242,16.7265625192096],[76.3851903066514,16.74249512175577]]]},"properties":{"region_id":"village_599417","name":"KADRAPUR","parent":"subdistrict_7071","parent_name":"DEVARA HIPPARAGI"}}
+]}

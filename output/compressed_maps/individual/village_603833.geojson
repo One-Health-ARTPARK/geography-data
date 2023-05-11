@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5628472126873,13.97053675406121],[74.55831388869997,13.97576613431894],[74.55482512862204,13.97232155116792],[74.5628472126873,13.97053675406121]]]},"properties":{"region_id":"village_603833","name":"CHOUTANI","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

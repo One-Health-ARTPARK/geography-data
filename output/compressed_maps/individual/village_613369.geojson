@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40729887723343,12.84536902207335],[76.3974507531288,12.84746637277335],[76.38802904204127,12.84077872194287],[76.39816863834056,12.83405536463356],[76.40729887723343,12.84536902207335]]]},"properties":{"region_id":"village_613369","name":"ANEGOLA","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

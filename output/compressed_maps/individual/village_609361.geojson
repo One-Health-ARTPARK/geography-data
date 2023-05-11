@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93845415531072,13.61883827876735],[75.92133685825661,13.62124092417416],[75.917825932548,13.60983371671106],[75.93535381549091,13.61158438166599],[75.93845415531072,13.61883827876735]]]},"properties":{"region_id":"village_609361","name":"HANUMAPURA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

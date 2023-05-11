@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25784821582398,14.320123413062],[75.23900978049484,14.31690800273513],[75.246083664146,14.29997140733708],[75.26623601165491,14.31208450993697],[75.25784821582398,14.320123413062]]]},"properties":{"region_id":"village_607670","name":"CHITTUR","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1881319212669,13.90486166640265],[77.16225268254254,13.90733505682287],[77.16882531423452,13.89009465172325],[77.1881319212669,13.90486166640265]]]},"properties":{"region_id":"village_610672","name":"MALLANAIKANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

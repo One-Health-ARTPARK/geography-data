@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72103050239751,14.08338599657077],[75.73814575624237,14.08707449506223],[75.73856261951858,14.10147129722247],[75.7077985298067,14.09622860434998],[75.72103050239751,14.08338599657077]]]},"properties":{"region_id":"village_606871","name":"HANAGAVADI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

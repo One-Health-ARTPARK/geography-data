@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32581681389216,13.50092981226982],[75.32886934992119,13.48179165602745],[75.34628648200643,13.4979686161882],[75.32581681389216,13.50092981226982]]]},"properties":{"region_id":"village_609003","name":"NARASIPURA","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

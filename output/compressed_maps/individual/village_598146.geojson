@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85054882905744,15.63121897417181],[74.84768655124321,15.64210148498878],[74.83382894703826,15.63690855567328],[74.83770200993,15.62657039099422],[74.85054882905744,15.63121897417181]]]},"properties":{"region_id":"village_598146","name":"TURAKARSHIGIHALLI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2288419373367,13.08301176665243],[76.20593926915794,13.08775744923826],[76.20328214579608,13.07885270590441],[76.22497355931509,13.06750145641586],[76.2288419373367,13.08301176665243]]]},"properties":{"region_id":"village_615963","name":"DUDDA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29195347179235,14.04194897685581],[76.26388817083438,14.03819267515922],[76.25476147121981,14.02451734717175],[76.28219357997511,14.01384729616309],[76.31475231402032,14.01146799992013],[76.29195347179235,14.04194897685581]]]},"properties":{"region_id":"village_605786","name":"TALYA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

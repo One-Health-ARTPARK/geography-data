@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72294329572061,14.70347908269937],[74.73420465981016,14.686955394762],[74.74184800459489,14.70223219097649],[74.72294329572061,14.70347908269937]]]},"properties":{"region_id":"village_603114","name":"NAKSHE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

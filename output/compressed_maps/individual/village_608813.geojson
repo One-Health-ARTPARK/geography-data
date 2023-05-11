@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8241567650994,13.34773742603579],[74.83978798200631,13.34135167023307],[74.84698724679141,13.35177257458346],[74.8279065461339,13.36599274044973],[74.8241567650994,13.34773742603579]]]},"properties":{"region_id":"village_608813","name":"ATHRADI","parent":"subdistrict_5523","parent_name":"UDUPI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92937853799245,13.54779734816837],[77.91365852928439,13.55242362243101],[77.91651481385074,13.54199926249476],[77.92937853799245,13.54779734816837]]]},"properties":{"region_id":"village_624078","name":"RAYAPPANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

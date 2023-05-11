@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99658943124565,13.06759776944978],[77.97558404665773,13.08212630168657],[77.9771286051196,13.06294382486599],[77.99658943124565,13.06759776944978]]]},"properties":{"region_id":"village_622111","name":"SHIVARAPATNA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

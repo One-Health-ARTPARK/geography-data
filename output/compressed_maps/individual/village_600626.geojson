@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97628680076403,16.43764612140008],[76.9723343158536,16.4258587656969],[76.99096701360428,16.42288725654948],[76.99550303442408,16.43470288782634],[76.97628680076403,16.43764612140008]]]},"properties":{"region_id":"village_600626","name":"KAMDHAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

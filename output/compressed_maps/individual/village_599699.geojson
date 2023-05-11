@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3173161272119,16.56006432493005],[76.27709323270359,16.55913490413275],[76.28936688929043,16.53886033260925],[76.3173161272119,16.56006432493005]]]},"properties":{"region_id":"village_599699","name":"FATEPUR P.TALIKOTI","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

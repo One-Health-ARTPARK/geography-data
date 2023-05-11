@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45542483200556,17.80003921148901],[77.42561435302925,17.80123410243338],[77.43129341120859,17.7784763758737],[77.45991131349312,17.7725089795613],[77.45542483200556,17.80003921148901]]]},"properties":{"region_id":"village_600224","name":"CHATNALLI","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

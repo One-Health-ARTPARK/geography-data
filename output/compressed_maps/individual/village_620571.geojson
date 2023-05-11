@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43676936774001,16.97438855644046],[77.43669774478317,16.95971273757092],[77.44885084745168,16.96600389714934],[77.43676936774001,16.97438855644046]]]},"properties":{"region_id":"village_620571","name":"SHAHABAJPUR","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

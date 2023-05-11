@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91847429752417,13.05529948510891],[76.90447353058198,13.05713710970553],[76.90233211303725,13.05015906706836],[76.9165904437627,13.04719825880626],[76.91847429752417,13.05529948510891]]]},"properties":{"region_id":"village_612445","name":"DEVARAKANNASANDRA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

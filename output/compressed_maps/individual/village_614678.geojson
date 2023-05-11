@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99398583718047,12.37880278804865],[76.97831197129999,12.39500150895542],[76.96548459879492,12.36597532020137],[76.9856013930563,12.36235963018392],[76.99398583718047,12.37880278804865]]]},"properties":{"region_id":"village_614678","name":"MARKALU","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

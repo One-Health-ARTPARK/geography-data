@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6694639078517,13.25823797954687],[75.64849098691543,13.25799579833341],[75.6510425542349,13.24295075610023],[75.6694639078517,13.25823797954687]]]},"properties":{"region_id":"village_609852","name":"CHIKKAMAGARAVALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

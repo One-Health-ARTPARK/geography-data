@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84320195725047,14.12604578223926],[74.86843776837277,14.13889251983318],[74.83978166141604,14.13931973659754],[74.84320195725047,14.12604578223926]]]},"properties":{"region_id":"village_607150","name":"KOPPARIGE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

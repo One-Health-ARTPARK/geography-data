@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.27979600012914,14.71361458208935],[74.26451574457309,14.71218498443051],[74.27337372630123,14.69459272008646],[74.28020262390973,14.7019289482898],[74.27979600012914,14.71361458208935]]]},"properties":{"region_id":"village_603328","name":"BELEKERI","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

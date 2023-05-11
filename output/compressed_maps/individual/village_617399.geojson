@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52397668767902,12.85798108595279],[76.50513033250674,12.86302392452274],[76.50236428380703,12.84615262722356],[76.52032701163121,12.84145358854436],[76.52397668767902,12.85798108595279]]]},"properties":{"region_id":"village_617399","name":"SANENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

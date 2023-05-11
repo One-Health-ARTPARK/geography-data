@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58534034353676,13.13268908264253],[77.57430761081702,13.14151917237025],[77.5699586982867,13.1273902062493],[77.57937878174522,13.12096722809677],[77.58534034353676,13.13268908264253]]]},"properties":{"region_id":"village_938517","name":"HAROHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3680335899006,13.72157316910881],[75.35587965667975,13.73327754504393],[75.34013864079289,13.70869774271648],[75.35488088467534,13.70356672666878],[75.3680335899006,13.72157316910881]]]},"properties":{"region_id":"village_608164","name":"KUDIGE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

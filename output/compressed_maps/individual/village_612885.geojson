@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61263623272096,13.20210095875172],[77.60371690323716,13.20261445096456],[77.60070663037911,13.1818522285176],[77.6106357444562,13.18003088474112],[77.61263623272096,13.20210095875172]]]},"properties":{"region_id":"village_612885","name":"KUDURAGERE","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07421602492425,15.6881077380581],[77.05659663950469,15.6908230349728],[77.06455473123223,15.67459894468951],[77.07421602492425,15.6881077380581]]]},"properties":{"region_id":"village_604829","name":"MOTRA DINNE","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

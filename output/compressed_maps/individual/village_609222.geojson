@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9206934277717,13.64122084220443],[75.8845078676554,13.65408375466039],[75.88530667845579,13.62421303248684],[75.917825932548,13.60983371671106],[75.9206934277717,13.64122084220443]]]},"properties":{"region_id":"village_609222","name":"MUNDRE","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

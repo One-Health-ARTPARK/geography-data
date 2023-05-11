@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57976015837919,14.87739498483966],[75.56415988805792,14.84559521903583],[75.6024795656371,14.85176003538639],[75.57976015837919,14.87739498483966]]]},"properties":{"region_id":"village_604266","name":"BOMMANAKATTI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

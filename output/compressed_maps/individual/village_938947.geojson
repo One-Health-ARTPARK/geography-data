@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77865492985211,13.334487126978],[75.78036198492423,13.31928885955601],[75.79318844322673,13.32872984782915],[75.77865492985211,13.334487126978]]]},"properties":{"region_id":"village_938947","name":"DANTARAMAKKI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

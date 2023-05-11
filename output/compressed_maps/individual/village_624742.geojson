@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25799845607705,13.24995119567561],[77.25082708738299,13.25623001138469],[77.2466728878861,13.24344777268842],[77.25647677361079,13.24197395701215],[77.25799845607705,13.24995119567561]]]},"properties":{"region_id":"village_624742","name":"MADDENAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

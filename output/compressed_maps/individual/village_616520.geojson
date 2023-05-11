@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99465239573476,12.76744599770416],[75.98904430291147,12.76912887314248],[75.9832667956002,12.76092764561504],[75.99177362484168,12.75817566866722],[75.99465239573476,12.76744599770416]]]},"properties":{"region_id":"village_616520","name":"BOBBAGALALE","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

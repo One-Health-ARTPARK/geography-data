@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52019600510826,15.23760451661156],[74.51521930688298,15.21774911097351],[74.55795117357101,15.22711365275452],[74.54407115419333,15.25202733325449],[74.52019600510826,15.23760451661156]]]},"properties":{"region_id":"village_939217","name":"BELUDLI KHODLI","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

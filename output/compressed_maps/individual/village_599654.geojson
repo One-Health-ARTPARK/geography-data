@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24334907701893,16.32466331385409],[76.22780254869737,16.32678977027362],[76.22126693167549,16.30861733402566],[76.2412634963361,16.30264429247851],[76.24334907701893,16.32466331385409]]]},"properties":{"region_id":"village_599654","name":"JANGAMURAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

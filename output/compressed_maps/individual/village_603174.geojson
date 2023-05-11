@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.7143915396535,14.60839492612351],[74.71341806856636,14.58755201038712],[74.73455181685777,14.59764625891632],[74.7143915396535,14.60839492612351]]]},"properties":{"region_id":"village_603174","name":"SHIVAGAON","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

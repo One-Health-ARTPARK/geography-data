@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4548148358598,15.63573562631531],[74.43950092128209,15.63475644064561],[74.44752933415111,15.62057237534796],[74.4548148358598,15.63573562631531]]]},"properties":{"region_id":"village_597832","name":"KANJALE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

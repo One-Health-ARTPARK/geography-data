@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06867148883734,13.85366615210774],[75.0362238948679,13.86037461655853],[75.05239805456233,13.83812616539613],[75.06867148883734,13.85366615210774]]]},"properties":{"region_id":"village_608033","name":"KODASE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68102502812309,12.93164965295252],[77.66801486565024,12.93074098155878],[77.66887265038136,12.92334629090326],[77.68270910425633,12.92306227926366],[77.68102502812309,12.93164965295252]]]},"properties":{"region_id":"village_938284","name":"BELLANDURU","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

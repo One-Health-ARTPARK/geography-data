@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50841015579267,14.52553224769632],[75.48410523544678,14.51447245496751],[75.50220633767916,14.50053539958253],[75.51348782238408,14.50082376063297],[75.50841015579267,14.52553224769632]]]},"properties":{"region_id":"village_604402","name":"KUNCHUR","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

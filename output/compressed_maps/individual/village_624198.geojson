@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9436951448223,13.40076121062516],[77.94185574949645,13.39430783224677],[77.95447874080958,13.39477588228365],[77.9436951448223,13.40076121062516]]]},"properties":{"region_id":"village_624198","name":"CHANNAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

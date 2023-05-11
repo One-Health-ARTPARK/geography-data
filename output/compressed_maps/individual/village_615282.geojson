@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00832915921023,13.19973084852277],[75.99747120114216,13.20482642789656],[75.99797734831056,13.19462806652347],[76.00832915921023,13.19973084852277]]]},"properties":{"region_id":"village_615282","name":"HULIKERE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

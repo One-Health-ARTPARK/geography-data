@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37120506331333,12.40798714312558],[77.31220355944015,12.3922842544504],[77.34454847389824,12.27757994423886],[77.40596659091311,12.27583889166193],[77.43987159729264,12.29384763866055],[77.37120506331333,12.40798714312558]]]},"properties":{"region_id":"village_626562","name":"CHEELANDAVADI FOREST","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

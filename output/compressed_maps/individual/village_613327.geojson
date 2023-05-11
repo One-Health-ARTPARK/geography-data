@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68872636087069,12.69662422278079],[77.68595839170871,12.70378134114454],[77.68247555222806,12.69709833083927],[77.68872636087069,12.69662422278079]]]},"properties":{"region_id":"village_613327","name":"CHUDENAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

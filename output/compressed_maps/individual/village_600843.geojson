@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44194462891447,16.0777153543717],[77.39092420903712,16.09925616959136],[77.3729345052449,16.05195544193674],[77.42102997849948,16.05734820781845],[77.44194462891447,16.0777153543717]]]},"properties":{"region_id":"village_600843","name":"YERGERA","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

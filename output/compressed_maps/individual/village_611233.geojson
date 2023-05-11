@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30115005079062,13.35161261758097],[77.29290834702573,13.35399915808292],[77.28682294678659,13.34821314582558],[77.29668707540183,13.34575407089145],[77.30115005079062,13.35161261758097]]]},"properties":{"region_id":"village_611233","name":"MITRAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30996182691435,14.24538151698499],[75.29871665699919,14.24692496406543],[75.2974624268221,14.23643694205097],[75.30754892787466,14.2342076999698],[75.30996182691435,14.24538151698499]]]},"properties":{"region_id":"village_607780","name":"CHUNCHINAKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60646958804084,16.04996969337703],[75.61041134620308,16.08189922267305],[75.5859817473179,16.07537984078135],[75.60646958804084,16.04996969337703]]]},"properties":{"region_id":"village_598659","name":"JAMMANAKATTI","parent":"subdistrict_7061","parent_name":"GULEDGUDDA"}}
+]}

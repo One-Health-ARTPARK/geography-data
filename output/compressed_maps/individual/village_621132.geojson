@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82835608347249,16.59094854995226],[76.80522158695037,16.58996587244227],[76.80186770714023,16.56588381250767],[76.82169923188323,16.57102579056428],[76.82835608347249,16.59094854995226]]]},"properties":{"region_id":"village_621132","name":"SHARDAHALLI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

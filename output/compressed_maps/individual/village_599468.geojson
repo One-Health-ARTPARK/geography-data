@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.804198537093,16.46252302239199],[75.80494689067466,16.48811435050859],[75.78964008659037,16.47414459081562],[75.804198537093,16.46252302239199]]]},"properties":{"region_id":"village_599468","name":"CHEERALDINNI","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

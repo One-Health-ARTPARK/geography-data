@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29430452542836,14.97102519301354],[76.28435018443635,14.93890398202258],[76.31683864478329,14.93263843632648],[76.32914138298355,14.94804699700211],[76.32899730166636,14.96891914273625],[76.29430452542836,14.97102519301354]]]},"properties":{"region_id":"village_604688","name":"HANSI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

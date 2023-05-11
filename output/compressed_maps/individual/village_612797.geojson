@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40705801558565,13.03519789281633],[77.39411546261687,13.03801783750131],[77.39461355308248,13.02309768176376],[77.40890043014805,13.02271322380447],[77.40705801558565,13.03519789281633]]]},"properties":{"region_id":"village_612797","name":"HUNNIGERE","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

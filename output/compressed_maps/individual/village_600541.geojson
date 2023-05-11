@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80048516703802,16.40867950238638],[76.78863626903735,16.41665080248008],[76.7895945055536,16.40018606178316],[76.80048516703802,16.40867950238638]]]},"properties":{"region_id":"village_600541","name":"MUDGOT","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34145079259292,12.38371923633837],[76.32305237747717,12.38235839255198],[76.33121668751608,12.37078605381111],[76.34145079259292,12.38371923633837]]]},"properties":{"region_id":"village_618322","name":"MARAGOWDANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

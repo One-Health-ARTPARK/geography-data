@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.43907723396023,16.50719423370433],[74.4134898046069,16.51322657213844],[74.40761308185877,16.48961275691402],[74.43890902351744,16.49241020873626],[74.43907723396023,16.50719423370433]]]},"properties":{"region_id":"village_597162","name":"HUNNARAGI","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

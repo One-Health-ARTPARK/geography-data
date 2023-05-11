@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14682869483755,14.57868506230999],[76.12384802975296,14.55952932666954],[76.15134610419771,14.54051217344822],[76.16926642673745,14.56120110556948],[76.14682869483755,14.57868506230999]]]},"properties":{"region_id":"village_606433","name":"ASAGODU","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

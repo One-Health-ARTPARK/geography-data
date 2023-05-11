@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46007594733709,12.90659512433433],[77.44997279413187,12.90529142606856],[77.44510129096435,12.8949097503211],[77.45096315501837,12.88840392844005],[77.45983085110326,12.8961407872023],[77.46007594733709,12.90659512433433]]]},"properties":{"region_id":"village_613019","name":"CHALAGHATTA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

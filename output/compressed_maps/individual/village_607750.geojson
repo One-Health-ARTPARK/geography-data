@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32715565422244,14.34276319849911],[75.31457985292009,14.35150154161045],[75.30482025390744,14.34116868249917],[75.31478199046883,14.33008698168884],[75.32715565422244,14.34276319849911]]]},"properties":{"region_id":"village_607750","name":"BHOGI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

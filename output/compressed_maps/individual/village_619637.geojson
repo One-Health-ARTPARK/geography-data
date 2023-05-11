@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06997620025558,11.99275593047253],[77.06285050289354,11.98759231180622],[77.06384230965052,11.97876069580529],[77.07131042796807,11.97642407655819],[77.07493167064048,11.9855279574995],[77.06997620025558,11.99275593047253]]]},"properties":{"region_id":"village_619637","name":"BETTAHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

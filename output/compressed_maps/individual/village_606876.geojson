@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77809003080804,14.16035213329963],[75.76132613515394,14.15084040285278],[75.76387365725725,14.14181294723615],[75.78302493216337,14.15616895302671],[75.77809003080804,14.16035213329963]]]},"properties":{"region_id":"village_606876","name":"CHANNANAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

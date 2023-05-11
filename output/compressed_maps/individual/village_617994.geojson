@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89252243161405,12.40346651233602],[75.88680043319236,12.40099479849237],[75.88586872498257,12.3986220069893],[75.89265436408354,12.40036346998581],[75.89252243161405,12.40346651233602]]]},"properties":{"region_id":"village_617994","name":"RANGASAMUDRA","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

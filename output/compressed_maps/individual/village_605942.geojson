@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4499120652668,13.90228155458358],[76.4110623788084,13.90208878345888],[76.41719801872642,13.87507821788022],[76.45103790322013,13.88188408593247],[76.4499120652668,13.90228155458358]]]},"properties":{"region_id":"village_605942","name":"SEERANAKATTE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

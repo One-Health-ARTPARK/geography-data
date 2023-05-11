@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60670739740411,16.12601965489292],[76.62710940634389,16.10515234082576],[76.63401689313449,16.07953739157529],[76.65469839367299,16.08705669822422],[76.65814146976794,16.1118765259565],[76.60670739740411,16.12601965489292]]]},"properties":{"region_id":"village_600489","name":"CHICK-HESARUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

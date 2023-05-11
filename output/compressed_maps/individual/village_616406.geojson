@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00058352691032,13.00351451336723],[76.00103244828797,12.98850936557228],[76.01537014211209,12.99944468177055],[76.00058352691032,13.00351451336723]]]},"properties":{"region_id":"village_616406","name":"HUNASAVALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

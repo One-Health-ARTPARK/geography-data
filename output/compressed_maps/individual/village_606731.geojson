@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51421096225548,14.10968859270617],[75.49842220345197,14.11867889499682],[75.48907336271418,14.10318794056167],[75.50624444673655,14.09884491636279],[75.51421096225548,14.10968859270617]]]},"properties":{"region_id":"village_606731","name":"MACHAGONDANAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

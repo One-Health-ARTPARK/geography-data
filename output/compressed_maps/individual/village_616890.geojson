@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21589751075034,12.76384377098987],[76.20601699551477,12.77033595729793],[76.19450542418483,12.76368487887865],[76.20123579342548,12.75258216880037],[76.21589751075034,12.76384377098987]]]},"properties":{"region_id":"village_616890","name":"MUNDANAHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

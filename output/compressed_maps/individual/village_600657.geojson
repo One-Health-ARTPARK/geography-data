@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10269520514429,16.36096338723042],[77.08678604586673,16.35892621451796],[77.09021045916036,16.33417604298286],[77.10439727750999,16.33956850222899],[77.10269520514429,16.36096338723042]]]},"properties":{"region_id":"village_600657","name":"HADDINHAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

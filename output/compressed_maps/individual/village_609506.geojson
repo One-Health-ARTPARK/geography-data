@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02037465951295,13.54630335162965],[76.00192240892108,13.53527045153057],[76.0227637692166,13.53012478413465],[76.02037465951295,13.54630335162965]]]},"properties":{"region_id":"village_609506","name":"HARUVANAHALLI (RURAL)","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

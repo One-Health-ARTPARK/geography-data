@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80751427899068,15.23528444744516],[74.79209578685052,15.25321511671725],[74.78327652958042,15.24030885268355],[74.78878334914309,15.2264960570361],[74.80751427899068,15.23528444744516]]]},"properties":{"region_id":"village_602824","name":"AJMINAL","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

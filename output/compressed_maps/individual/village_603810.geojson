@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6691827949789,14.27019843365038],[74.65112338890023,14.27082932515435],[74.65274216710755,14.24345662628418],[74.66505192234446,14.23962926610614],[74.6691827949789,14.27019843365038]]]},"properties":{"region_id":"village_603810","name":"HULEGAR","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

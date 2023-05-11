@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82361090536911,12.45085844826158],[76.81330281499802,12.44795661822491],[76.81043164652522,12.43592164426786],[76.8244916224093,12.43429281243835],[76.82361090536911,12.45085844826158]]]},"properties":{"region_id":"village_614267","name":"DAMMANAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

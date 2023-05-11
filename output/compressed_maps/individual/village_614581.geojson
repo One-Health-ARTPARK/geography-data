@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03106695858794,12.57857248512869],[77.0295690855349,12.59134586985239],[77.01817918235737,12.58418532914711],[77.03106695858794,12.57857248512869]]]},"properties":{"region_id":"village_614581","name":"MOBBALAGERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

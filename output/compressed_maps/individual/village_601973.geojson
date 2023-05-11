@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9835587501425,15.77911430433129],[75.96852530606472,15.76572425485748],[75.98349029837624,15.75113412849854],[75.99510990834149,15.75938158277304],[75.9835587501425,15.77911430433129]]]},"properties":{"region_id":"village_601973","name":"VADEGOL","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

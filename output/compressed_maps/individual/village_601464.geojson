@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14600055639899,15.72910994457221],[76.13639126302469,15.74364402644126],[76.10888216200914,15.72822521493437],[76.13469299592585,15.71023687654424],[76.14600055639899,15.72910994457221]]]},"properties":{"region_id":"village_601464","name":"YELBURTHI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

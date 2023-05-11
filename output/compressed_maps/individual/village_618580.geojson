@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35593152855373,12.55145329790939],[76.34501618154675,12.54283072135432],[76.35753217340573,12.5376050685945],[76.35593152855373,12.55145329790939]]]},"properties":{"region_id":"village_618580","name":"KAKANAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

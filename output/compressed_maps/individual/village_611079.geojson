@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27489711516672,13.52154069498905],[77.26548884020133,13.50175057772475],[77.2766666360287,13.49916107983228],[77.27489711516672,13.52154069498905]]]},"properties":{"region_id":"village_611079","name":"GANTIGANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

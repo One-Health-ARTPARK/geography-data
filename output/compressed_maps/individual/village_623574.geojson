@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79377285282935,13.48745794688237],[77.78246622001373,13.49258296092912],[77.77307641501478,13.48119942562658],[77.79398058365904,13.47534699582575],[77.79377285282935,13.48745794688237]]]},"properties":{"region_id":"village_623574","name":"DIBBUR","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

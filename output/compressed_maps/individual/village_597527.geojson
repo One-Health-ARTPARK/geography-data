@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9698645780557,16.20427972707265],[74.99762875619567,16.20931151707487],[74.97744344713692,16.21716132715182],[74.9698645780557,16.20427972707265]]]},"properties":{"region_id":"village_597527","name":"TALAKATNAL","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

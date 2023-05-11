@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6497519693233,12.47418726233541],[76.63508625318258,12.47768100827075],[76.63166279300633,12.47008074072877],[76.64740642212891,12.45949339142214],[76.6497519693233,12.47418726233541]]]},"properties":{"region_id":"village_614211","name":"ELEKERE","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

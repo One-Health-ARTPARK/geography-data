@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87263740510465,14.09064400976372],[75.84687180065715,14.09013719032847],[75.85222543733602,14.0775523941844],[75.87263740510465,14.09064400976372]]]},"properties":{"region_id":"village_607022","name":"ASTAPANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21178034513719,12.55838074752828],[76.2075148144215,12.56384611540446],[76.19286616841939,12.55251373609086],[76.21051472289572,12.54690044005302],[76.21178034513719,12.55838074752828]]]},"properties":{"region_id":"village_618521","name":"GAYANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

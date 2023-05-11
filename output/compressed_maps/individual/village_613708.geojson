@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76659598595676,13.0083425796522],[76.75432952461239,13.00990595641172],[76.75511945556246,12.99626007427079],[76.76293877815918,12.99451433196998],[76.76659598595676,13.0083425796522]]]},"properties":{"region_id":"village_613708","name":"BANANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

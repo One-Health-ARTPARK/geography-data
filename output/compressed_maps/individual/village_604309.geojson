@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29439409301987,14.61230971089801],[75.28211752040528,14.60950321397659],[75.28275087098758,14.59699239707289],[75.29810894156215,14.6052533903895],[75.29439409301987,14.61230971089801]]]},"properties":{"region_id":"village_604309","name":"THIMMAPUR","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

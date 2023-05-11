@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91973576478675,16.91512096493891],[76.87675679281583,16.93653094173841],[76.87082253834302,16.89646347734145],[76.91973576478675,16.91512096493891]]]},"properties":{"region_id":"village_620857","name":"BIRYAL (B)","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85660793581704,14.2100344353767],[74.84268065479235,14.17878950503818],[74.85740979074325,14.18394056447663],[74.86296931503864,14.1964490002005],[74.85660793581704,14.2100344353767]]]},"properties":{"region_id":"village_607147","name":"HERAVALE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

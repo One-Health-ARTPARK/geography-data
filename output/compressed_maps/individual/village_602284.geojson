@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00975138631081,15.40778568822638],[75.00678612096874,15.41936035768132],[74.98779622551737,15.41073395109557],[74.99224958377195,15.40048058972229],[75.00975138631081,15.40778568822638]]]},"properties":{"region_id":"village_602284","name":"NUGGIKERI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

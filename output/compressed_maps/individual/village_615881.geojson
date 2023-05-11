@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07960422598741,13.07065870699659],[76.06723610703305,13.07221554203115],[76.07305755784907,13.05085038888018],[76.08826974507618,13.06518891920795],[76.07960422598741,13.07065870699659]]]},"properties":{"region_id":"village_615881","name":"SHANKA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

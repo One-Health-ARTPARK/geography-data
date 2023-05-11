@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24812989858931,15.39184950799505],[76.2279388106833,15.39218214111427],[76.23455056920153,15.37817261957855],[76.24812989858931,15.39184950799505]]]},"properties":{"region_id":"village_601823","name":"BHIMANUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

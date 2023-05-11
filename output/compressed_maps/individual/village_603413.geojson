@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.32578613730664,14.57875036476021],[74.32330168767398,14.58310434778361],[74.31771383530888,14.58248755756884],[74.32069788515291,14.57544317219829],[74.32578613730664,14.57875036476021]]]},"properties":{"region_id":"village_603413","name":"BANKIKODLA","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4531536289598,15.3456509467514],[76.4420512442633,15.33894077027425],[76.4674352346399,15.33696068344383],[76.46558966093261,15.34820144873797],[76.4531536289598,15.3456509467514]]]},"properties":{"region_id":"village_601621","name":"VIRUPAPURAGADDI","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42582614477026,12.84648244268056],[76.4253660616929,12.85745951266931],[76.40785723707512,12.86357436594368],[76.4073351937016,12.84518564465826],[76.42582614477026,12.84648244268056]]]},"properties":{"region_id":"village_613370","name":"DODDATHARAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

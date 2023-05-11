@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4425932409181,17.07945958063815],[77.41699314838249,17.08220551279816],[77.41464372103323,17.06515702771889],[77.4355165083919,17.06079902901172],[77.4425932409181,17.07945958063815]]]},"properties":{"region_id":"village_620528","name":"BANNUR","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

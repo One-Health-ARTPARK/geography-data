@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15169003897813,12.43214598081068],[76.13095419250064,12.43045587150454],[76.13530000828202,12.41366140807883],[76.1534021964474,12.41234108565417],[76.15169003897813,12.43214598081068]]]},"properties":{"region_id":"village_618187","name":"NANDIPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

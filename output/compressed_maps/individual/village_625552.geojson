@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91598472278217,13.211541592573],[77.90922733379334,13.20860942662533],[77.91464281195529,13.20273379109395],[77.91381888827432,13.19539612486375],[77.91805350826515,13.19479580592443],[77.91598472278217,13.211541592573]]]},"properties":{"region_id":"village_625552","name":"SARAKAR VADDAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

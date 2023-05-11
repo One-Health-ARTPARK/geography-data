@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76789786778104,14.97020284797615],[75.75679597697709,14.98955943050523],[75.74808928698693,14.9854120160823],[75.75079452770863,14.96792731000691],[75.76789786778104,14.97020284797615]]]},"properties":{"region_id":"village_602138","name":"BASAPUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93458382451638,14.00280085598474],[76.92498335897425,14.01792586947633],[76.90916661323845,14.00646004855959],[76.90784454589094,13.99402707350426],[76.93458382451638,14.00280085598474]]]},"properties":{"region_id":"village_610275","name":"NIDAGATTA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

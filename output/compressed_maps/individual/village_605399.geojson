@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00243791100942,14.198477682101],[76.9990872264454,14.2288541796281],[76.9572983061309,14.22431154786725],[76.96006143231378,14.20156785732799],[77.00243791100942,14.198477682101]]]},"properties":{"region_id":"village_605399","name":"SIDDHESWARANADURGA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

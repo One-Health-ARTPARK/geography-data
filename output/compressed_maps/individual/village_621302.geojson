@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26168525063676,16.76225199110469],[77.26003660119561,16.79737789352399],[77.22919229838577,16.77667553535442],[77.23430014513426,16.7532707752675],[77.26168525063676,16.76225199110469]]]},"properties":{"region_id":"village_621302","name":"RAMASAMUDRA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

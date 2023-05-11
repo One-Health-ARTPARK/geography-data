@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65395094839016,12.71782423800713],[77.6442885472985,12.71938082922496],[77.64471368588589,12.71023235299289],[77.65411153154163,12.71256904004432],[77.65395094839016,12.71782423800713]]]},"properties":{"region_id":"village_613290","name":"CHIKKANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

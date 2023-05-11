@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22343235088375,16.45245910808138],[77.2410114498842,16.44720338776797],[77.24973636154151,16.46298475698804],[77.23812762070673,16.47363110154055],[77.22343235088375,16.45245910808138]]]},"properties":{"region_id":"village_621218","name":"KONGANDA SIMT WADGERA","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

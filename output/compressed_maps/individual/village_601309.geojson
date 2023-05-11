@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17184838583168,15.62352920226857],[76.14907680314535,15.63322421114116],[76.14991268425302,15.61643919872703],[76.17184838583168,15.62352920226857]]]},"properties":{"region_id":"village_601309","name":"NARSAPUR","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

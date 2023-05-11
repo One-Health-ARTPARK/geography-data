@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15591098343957,16.33116667721488],[76.15472913528983,16.34371901771167],[76.12214896424862,16.34664254505669],[76.12229166620916,16.32835946141875],[76.15591098343957,16.33116667721488]]]},"properties":{"region_id":"village_938727","name":"MUDDEBIHALA","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

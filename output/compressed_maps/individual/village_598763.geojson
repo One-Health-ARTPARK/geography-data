@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70614477143677,15.85045821959968],[75.6847130973941,15.86647609856871],[75.688530917914,15.83040120180538],[75.70614477143677,15.85045821959968]]]},"properties":{"region_id":"village_598763","name":"KHYAD","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

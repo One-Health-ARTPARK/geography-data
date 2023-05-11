@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41580488726174,13.21123471796932],[77.40594503373494,13.21202421116666],[77.40593123786374,13.20425776577889],[77.41482199420773,13.2061352092205],[77.41580488726174,13.21123471796932]]]},"properties":{"region_id":"village_625228","name":"CHIKKAVADAGERE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

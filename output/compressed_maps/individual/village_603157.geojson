@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61452093544527,14.59808044002743],[74.65267665695868,14.57232787617371],[74.6710588706387,14.59747872667513],[74.61452093544527,14.59808044002743]]]},"properties":{"region_id":"village_603157","name":"KALLALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

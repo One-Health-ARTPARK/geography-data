@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49936636076775,13.20477348424053],[76.48918041759818,13.20390693997008],[76.48664339484218,13.18995386876761],[76.49355482268537,13.18875289205469],[76.49936636076775,13.20477348424053]]]},"properties":{"region_id":"village_612131","name":"VODDARAMALLENAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

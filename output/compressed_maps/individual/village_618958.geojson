@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49167133005511,12.12806177139163],[76.48077059449687,12.12861438919368],[76.48281998030951,12.11544989500055],[76.49005642098315,12.11685064426975],[76.49167133005511,12.12806177139163]]]},"properties":{"region_id":"village_618958","name":"MARCHAHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

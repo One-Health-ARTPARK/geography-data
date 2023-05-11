@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45616535420226,12.56310969316769],[77.44510032322941,12.5641119344666],[77.43543154670215,12.55402575878161],[77.45434604345853,12.55026081412773],[77.45616535420226,12.56310969316769]]]},"properties":{"region_id":"village_626458","name":"BARADANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

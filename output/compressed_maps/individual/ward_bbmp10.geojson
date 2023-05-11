@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5692689998903,13.05456399964777],[77.56167899986315,13.05923400032671],[77.5480540004112,13.0575710001731],[77.55745099979856,13.04269799955582],[77.5692689998903,13.05456399964777]]]},"properties":{"region_id":"ward_bbmp10","name":"WARD NO.10 (DODDA BOMMASANDRA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

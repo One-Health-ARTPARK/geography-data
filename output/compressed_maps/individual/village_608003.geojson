@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25896521564353,13.92590940155337],[75.22978271093741,13.92907652505403],[75.23778738433593,13.9084002547921],[75.25896521564353,13.92590940155337]]]},"properties":{"region_id":"village_608003","name":"HULIGADDE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

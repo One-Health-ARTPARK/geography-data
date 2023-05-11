@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25022576679366,13.79930067588387],[75.22676269422071,13.79530896006564],[75.23168080013582,13.77713647560784],[75.26359572647506,13.79104386472768],[75.25022576679366,13.79930067588387]]]},"properties":{"region_id":"village_608099","name":"JAMBETALLURU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

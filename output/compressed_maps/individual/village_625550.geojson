@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90631835497351,13.20879063425922],[77.87049967702508,13.20000817591577],[77.87769681746204,13.18625246624475],[77.90370080149381,13.19110445345302],[77.90631835497351,13.20879063425922]]]},"properties":{"region_id":"village_625550","name":"NANDAGUDI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

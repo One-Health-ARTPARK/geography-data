@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79185426113868,16.20109705170754],[75.73116512041987,16.21722232713553],[75.75264622330234,16.17783594879223],[75.79185426113868,16.20109705170754]]]},"properties":{"region_id":"village_598846","name":"KIRASUR","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

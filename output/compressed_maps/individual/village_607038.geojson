@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.866449379176,14.05530102238938],[75.83263515647201,14.04362741725647],[75.83640437828046,14.03718073054742],[75.85999921939708,14.04549068745788],[75.866449379176,14.05530102238938]]]},"properties":{"region_id":"village_607038","name":"HIREMALALI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74574054748602,14.9795614726025],[75.73073839469711,14.97993946713673],[75.74370858460013,14.94631487277049],[75.75469268891548,14.95684490566318],[75.74574054748602,14.9795614726025]]]},"properties":{"region_id":"village_602137","name":"SASARWAD","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

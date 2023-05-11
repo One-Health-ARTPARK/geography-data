@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82628560220651,13.1845844381275],[77.81161912619281,13.1898667459939],[77.8116876245633,13.18149339774283],[77.82628560220651,13.1845844381275]]]},"properties":{"region_id":"village_625506","name":"BETTAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

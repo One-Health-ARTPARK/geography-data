@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42842138680666,13.32996298039044],[76.40480180279158,13.32821127383434],[76.40968480183614,13.30316877868438],[76.42842138680666,13.32996298039044]]]},"properties":{"region_id":"village_611997","name":"BAGAVALA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

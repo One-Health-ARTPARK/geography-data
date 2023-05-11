@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89556984708273,17.14658834530555],[76.87275812216383,17.14763347987257],[76.87294823552985,17.10718693191167],[76.89932974407996,17.1081531203391],[76.89556984708273,17.14658834530555]]]},"properties":{"region_id":"village_620653","name":"TONSINHALLI","parent":"subdistrict_7088","parent_name":"SHAHABAD"}}
+]}

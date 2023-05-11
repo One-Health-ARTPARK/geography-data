@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94829680127707,14.39670906117272],[74.92512886262949,14.39369137536846],[74.92209046476059,14.37662678999158],[74.941001995736,14.36787713328672],[74.94829680127707,14.39670906117272]]]},"properties":{"region_id":"village_603713","name":"KANGOD","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

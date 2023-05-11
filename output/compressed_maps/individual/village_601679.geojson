@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65344787976566,15.6604128258456],[76.61805609485252,15.67017658826231],[76.61392254841824,15.64056727052293],[76.63833843285609,15.62121527200726],[76.65344787976566,15.6604128258456]]]},"properties":{"region_id":"village_601679","name":"BEVINHAL","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

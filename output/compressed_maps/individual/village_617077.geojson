@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37805485431076,12.95738899525582],[76.36161841570689,12.95824075205954],[76.36316541302989,12.93115865525601],[76.37796272049692,12.93727395428263],[76.37805485431076,12.95738899525582]]]},"properties":{"region_id":"village_617077","name":"DODDAMATHIGHATTA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

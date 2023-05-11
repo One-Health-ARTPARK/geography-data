@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57472459324346,12.38067534620665],[75.56153424026985,12.38544353077297],[75.55634114425158,12.37118025675377],[75.56544682049856,12.36515735457088],[75.57472459324346,12.38067534620665]]]},"properties":{"region_id":"village_923906","name":"PADAKALLI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

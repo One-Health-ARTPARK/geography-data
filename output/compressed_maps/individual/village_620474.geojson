@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22611059849947,17.24679036696563],[77.20094136093167,17.25443814623593],[77.19461503222276,17.23345104922897],[77.2156180229215,17.21925208163963],[77.22611059849947,17.24679036696563]]]},"properties":{"region_id":"village_620474","name":"MEENHABAL","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99364758618158,16.28417569345819],[75.00833088452747,16.26256820786809],[75.01809190691982,16.28502392978487],[74.99364758618158,16.28417569345819]]]},"properties":{"region_id":"village_597521","name":"BAIRANATTI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

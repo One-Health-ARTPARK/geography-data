@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31661533100521,13.28612100634595],[77.30788817044727,13.27006997834554],[77.32554528270248,13.2684477801824],[77.31661533100521,13.28612100634595]]]},"properties":{"region_id":"village_624784","name":"SOMASAGARA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40281306491865,15.8227369728638],[76.4097944814507,15.80419418063816],[76.42246340661217,15.81038623385385],[76.40281306491865,15.8227369728638]]]},"properties":{"region_id":"village_601522","name":"UMLIRAMPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

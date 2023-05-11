@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78457414517439,13.0936652115454],[77.77410405790668,13.09310525931619],[77.78163007164986,13.08528120790831],[77.78457414517439,13.0936652115454]]]},"properties":{"region_id":"village_625685","name":"UPPARAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

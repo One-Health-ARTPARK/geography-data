@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19616510205074,15.11909387794863],[75.18452503751047,15.11398947492785],[75.18816654471763,15.09855891077252],[75.20088140138705,15.10367411000917],[75.19616510205074,15.11909387794863]]]},"properties":{"region_id":"village_602546","name":"HANAMANAHALLI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

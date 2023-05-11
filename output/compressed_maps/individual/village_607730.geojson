@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32182718582112,14.39530112941887],[75.29450523434068,14.39520672119201],[75.29755100726635,14.38707452226597],[75.32007154961632,14.38737817373627],[75.32182718582112,14.39530112941887]]]},"properties":{"region_id":"village_607730","name":"UTHARANIHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

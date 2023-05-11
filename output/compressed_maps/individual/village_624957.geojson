@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44358333420867,13.46131244917358],[77.43416837601306,13.46409466876519],[77.43017328120779,13.45549087522527],[77.43792201045892,13.44932800952125],[77.44358333420867,13.46131244917358]]]},"properties":{"region_id":"village_624957","name":"YARAMUDDENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

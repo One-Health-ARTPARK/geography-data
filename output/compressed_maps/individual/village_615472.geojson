@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09084027614358,13.27354349636875],[76.1069397185191,13.28386777170685],[76.09811940878203,13.29539257826933],[76.08631673359149,13.28831488412408],[76.09084027614358,13.27354349636875]]]},"properties":{"region_id":"village_615472","name":"BANDUR","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

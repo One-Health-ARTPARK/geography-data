@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66623154019204,16.17080281494965],[75.67428679146636,16.20580873856388],[75.66654937640364,16.20887037774161],[75.66034722444688,16.17198548522776],[75.66623154019204,16.17080281494965]]]},"properties":{"region_id":"village_598794","name":"VEERAPUR","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

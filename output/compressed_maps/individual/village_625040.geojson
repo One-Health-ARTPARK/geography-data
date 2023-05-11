@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52594802425082,13.35289110314525],[77.52496840421925,13.36443691769443],[77.51788076306434,13.36583040521594],[77.51402748110588,13.35264552648649],[77.52594802425082,13.35289110314525]]]},"properties":{"region_id":"village_625040","name":"BACHCHAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

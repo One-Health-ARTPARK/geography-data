@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33406712022305,13.38916782030183],[77.32603665795766,13.39134984809698],[77.32175912268548,13.37802989663162],[77.32635798094391,13.37207565599194],[77.33406712022305,13.38916782030183]]]},"properties":{"region_id":"village_611218","name":"GADAMENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

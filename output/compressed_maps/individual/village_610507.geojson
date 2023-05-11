@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93464295081317,13.49083654537003],[76.96500690962166,13.48854858927165],[76.97477359542275,13.52492572910635],[76.92351310733983,13.52816009622197],[76.93464295081317,13.49083654537003]]]},"properties":{"region_id":"village_610507","name":"HUNJUNALU","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

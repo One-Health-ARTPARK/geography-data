@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66975764065256,15.72184613468474],[74.65032375815318,15.72677293336677],[74.63959083745861,15.70780787324513],[74.66815425539404,15.71410790188126],[74.66975764065256,15.72184613468474]]]},"properties":{"region_id":"village_597789","name":"KUKADOLI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

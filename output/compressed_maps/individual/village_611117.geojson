@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27489711516672,13.52154069498905],[77.28094887427619,13.53131102296491],[77.2709451142533,13.53473153618539],[77.26756694674451,13.52430696270327],[77.27489711516672,13.52154069498905]]]},"properties":{"region_id":"village_611117","name":"SONNENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

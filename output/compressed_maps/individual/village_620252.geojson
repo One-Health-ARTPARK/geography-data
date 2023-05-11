@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92033544890495,17.29982220318392],[76.91832571991559,17.32649772722712],[76.8976992134821,17.30746204627403],[76.92033544890495,17.29982220318392]]]},"properties":{"region_id":"village_620252","name":"KALAGNOOR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

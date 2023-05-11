@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98055504118479,16.32043985674067],[76.96003699723417,16.33272187870148],[76.95394832896916,16.312830411595],[76.98055504118479,16.32043985674067]]]},"properties":{"region_id":"village_600692","name":"KARDONA","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

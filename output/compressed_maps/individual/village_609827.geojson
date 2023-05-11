@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68095098132764,13.26451565367798],[75.68116940117486,13.27368995737998],[75.67469815096999,13.27105608790442],[75.68095098132764,13.26451565367798]]]},"properties":{"region_id":"village_609827","name":"GOWTHAMESHWARA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

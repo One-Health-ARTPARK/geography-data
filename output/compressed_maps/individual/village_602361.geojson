@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39237883869714,15.48675173022985],[75.37266811286177,15.49357698646586],[75.35533761344925,15.4518607824143],[75.3854748997863,15.44845855579551],[75.39237883869714,15.48675173022985]]]},"properties":{"region_id":"village_602361","name":"BASAPUR","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6048902058688,13.40506827319215],[76.59120619316218,13.39610103194916],[76.59930058379653,13.38225625828385],[76.60770546208201,13.39481342412786],[76.6048902058688,13.40506827319215]]]},"properties":{"region_id":"village_610216","name":"DUGADIHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

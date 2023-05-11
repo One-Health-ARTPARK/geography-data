@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03707327602343,12.6342903453823],[76.02401092624942,12.63255874704509],[76.02250826722782,12.6169145203576],[76.04280572741888,12.61567211672456],[76.03707327602343,12.6342903453823]]]},"properties":{"region_id":"village_616721","name":"ULLENAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

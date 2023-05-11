@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37889791842207,14.31727376459995],[76.3845648263526,14.26658784761526],[76.4147294991596,14.27723633127182],[76.40640936395535,14.31620995118458],[76.37889791842207,14.31727376459995]]]},"properties":{"region_id":"village_605570","name":"GUDDADARANGAVVANAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

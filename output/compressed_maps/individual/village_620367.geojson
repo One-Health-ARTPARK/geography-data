@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41879807898634,17.51914710578327],[77.39866422831837,17.5228928448224],[77.3837048669705,17.48416029450884],[77.4058674495403,17.48813351200905],[77.41879807898634,17.51914710578327]]]},"properties":{"region_id":"village_620367","name":"DEGALMADI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

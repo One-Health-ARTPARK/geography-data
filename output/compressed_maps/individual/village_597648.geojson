@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.46233853030772,16.05014796031276],[74.44504548813573,16.08088299936167],[74.42916129177557,16.07121601382061],[74.44156160609495,16.05282270854833],[74.46233853030772,16.05014796031276]]]},"properties":{"region_id":"village_597648","name":"RAMEWADI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

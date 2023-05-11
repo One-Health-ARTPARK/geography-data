@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87401619987965,13.01117350849924],[76.85581079746729,13.01002268413837],[76.86444866836224,13.00301180644516],[76.87401619987965,13.01117350849924]]]},"properties":{"region_id":"village_612469","name":"SHESHAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56880605826754,17.94671221668854],[77.56270802473078,17.92480784421586],[77.58732229532923,17.9245296376147],[77.58817753696603,17.94436546764065],[77.56880605826754,17.94671221668854]]]},"properties":{"region_id":"village_600174","name":"GHUMMA","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

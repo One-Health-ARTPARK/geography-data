@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03304959462258,12.7129101019939],[76.03316191278499,12.72369799280622],[76.01886471808449,12.72610430408295],[76.02037903713273,12.71598135534349],[76.03304959462258,12.7129101019939]]]},"properties":{"region_id":"village_616569","name":"MADAPURA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

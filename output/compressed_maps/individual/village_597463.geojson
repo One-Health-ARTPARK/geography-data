@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91229960969957,16.10600467175588],[74.91365342806016,16.11970882006337],[74.89720191667384,16.1244699613865],[74.88707308049507,16.11550956480926],[74.88123308136953,16.0965066810727],[74.91229960969957,16.10600467175588]]]},"properties":{"region_id":"village_597463","name":"AJJANAKATTI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

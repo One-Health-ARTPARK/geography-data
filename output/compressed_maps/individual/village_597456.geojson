@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71494503230012,16.15219127529147],[74.72389732143874,16.12879458963694],[74.75979617475501,16.12666983941796],[74.7505795000874,16.14563049888467],[74.71494503230012,16.15219127529147]]]},"properties":{"region_id":"village_597456","name":"GODACHINAMALAKI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

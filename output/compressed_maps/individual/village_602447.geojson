@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9496922493567,15.26673522136709],[74.93715296830747,15.28438988512714],[74.92630472775993,15.28200567741071],[74.9375610911657,15.2635652873779],[74.9496922493567,15.26673522136709]]]},"properties":{"region_id":"village_602447","name":"AREBASANKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

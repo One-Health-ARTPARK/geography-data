@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01671592894266,11.87418398742439],[77.01584956931124,11.88246611439618],[77.00979144319312,11.88437065305422],[77.01671592894266,11.87418398742439]]]},"properties":{"region_id":"village_619774","name":"KANIKERE","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

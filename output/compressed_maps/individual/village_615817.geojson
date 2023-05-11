@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35505125932558,13.11591729961161],[76.34588649448854,13.12179568527845],[76.33551860755227,13.11269891278381],[76.35505125932558,13.11591729961161]]]},"properties":{"region_id":"village_615817","name":"HIRIYALU","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

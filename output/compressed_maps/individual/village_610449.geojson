@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7520257061933,13.59488373800497],[76.75082452981881,13.61756371594078],[76.73236357743532,13.61166292724347],[76.73252997728093,13.59113151011302],[76.7520257061933,13.59488373800497]]]},"properties":{"region_id":"village_610449","name":"JANAKALLU","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

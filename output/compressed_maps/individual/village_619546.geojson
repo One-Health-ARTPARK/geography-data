@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83997906104736,11.73425674308013],[76.80642048263682,11.7403492201263],[76.80386805082422,11.71799256825504],[76.82344303390647,11.71505973392759],[76.83997906104736,11.73425674308013]]]},"properties":{"region_id":"village_619546","name":"BOMMANAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

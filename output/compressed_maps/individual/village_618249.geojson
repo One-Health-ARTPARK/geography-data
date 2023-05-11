@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02668070870268,12.35245289130935],[76.02514965794784,12.36391257881432],[76.01141687189266,12.36100739861079],[76.01265870162929,12.35263634440694],[76.02668070870268,12.35245289130935]]]},"properties":{"region_id":"village_618249","name":"ILAPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48865550765458,14.49195184234377],[76.46114999400115,14.50485092151971],[76.45736061786452,14.48948861593619],[76.48865550765458,14.49195184234377]]]},"properties":{"region_id":"village_605244","name":"JOGIHATTI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

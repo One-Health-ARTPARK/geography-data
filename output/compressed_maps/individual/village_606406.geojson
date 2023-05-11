@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3428415848209,14.66572413208232],[76.33785934370862,14.68592301495664],[76.31923748506989,14.69260917988904],[76.32310978648223,14.66334096368378],[76.3428415848209,14.66572413208232]]]},"properties":{"region_id":"village_606406","name":"CHIKKA-UJJINI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

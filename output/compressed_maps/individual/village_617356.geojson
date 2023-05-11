@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58861851410994,12.92433945175334],[76.57282355389898,12.91269613404154],[76.59534379527292,12.89979088351113],[76.58861851410994,12.92433945175334]]]},"properties":{"region_id":"village_617356","name":"AYYARAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

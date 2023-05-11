@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89099358553855,12.76043471100431],[75.89007517041695,12.76696488125082],[75.88243733190554,12.76203232718427],[75.89099358553855,12.76043471100431]]]},"properties":{"region_id":"village_938994","name":"KARKANALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

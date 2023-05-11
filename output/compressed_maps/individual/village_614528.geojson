@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99181780203278,12.65943537312195],[76.98250892901895,12.67833046403097],[76.96593728873076,12.67668229725473],[76.97385936076626,12.65343823951867],[76.99181780203278,12.65943537312195]]]},"properties":{"region_id":"village_614528","name":"KONASALE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

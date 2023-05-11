@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6718825670349,16.38698964303306],[75.68220615987622,16.40540705069115],[75.6747102126326,16.40990940566119],[75.6718825670349,16.38698964303306]]]},"properties":{"region_id":"village_598501","name":"HOSA GOVINADINNI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

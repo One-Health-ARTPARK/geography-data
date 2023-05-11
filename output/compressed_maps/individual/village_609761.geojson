@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90770185238827,13.40308925414054],[75.90301577885865,13.41211182243349],[75.88803798216688,13.41460143802214],[75.88795135335597,13.4031476994957],[75.90770185238827,13.40308925414054]]]},"properties":{"region_id":"village_609761","name":"KENKERE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

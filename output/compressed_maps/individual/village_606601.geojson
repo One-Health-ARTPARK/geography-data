@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13854564371961,14.50872494523442],[76.11748817256706,14.49697178170829],[76.13431909762632,14.48520900418461],[76.13854564371961,14.50872494523442]]]},"properties":{"region_id":"village_606601","name":"HEMMANABETHUR","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

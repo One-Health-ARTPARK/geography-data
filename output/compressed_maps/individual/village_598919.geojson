@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03560484765134,16.19740732597774],[76.02585626446427,16.1928758718265],[76.02942476153416,16.18266385980185],[76.0358495634047,16.18301762816651],[76.03560484765134,16.19740732597774]]]},"properties":{"region_id":"village_598919","name":"KHAJAGAL","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98914755535272,16.68902407059034],[74.96196759594773,16.67802792642312],[74.96388241617473,16.66004403528747],[74.99221975953355,16.65693946609422],[75.04806780353962,16.66646114627873],[74.98914755535272,16.68902407059034]]]},"properties":{"region_id":"village_597304","name":"HULAGABALI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51363832307884,15.97153008384293],[77.51419263768804,16.0085249959557],[77.48821228341035,16.00094803326792],[77.51363832307884,15.97153008384293]]]},"properties":{"region_id":"village_600881","name":"MEERAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

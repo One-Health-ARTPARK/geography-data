@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41953961492517,13.99319024288422],[75.41055473296532,14.0037320717492],[75.39381744115066,13.98658238638082],[75.40973060319784,13.98224915370584],[75.41953961492517,13.99319024288422]]]},"properties":{"region_id":"village_608380","name":"ADAGADI","parent":"subdistrict_5520","parent_name":"SHIVAMOGGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26117256317633,14.60693491519647],[75.24864972410212,14.58156660212242],[75.28785916490638,14.58407552763943],[75.26117256317633,14.60693491519647]]]},"properties":{"region_id":"village_604348","name":"KACHAVI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

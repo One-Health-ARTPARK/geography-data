@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59625100038222,13.03918200034262],[77.58964700006065,13.04023099985125],[77.5861950001102,13.02850200015396],[77.59581000039441,13.0283519999972],[77.59625100038222,13.03918200034262]]]},"properties":{"region_id":"ward_bbmp21","name":"WARD NO.21(HEBBALA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

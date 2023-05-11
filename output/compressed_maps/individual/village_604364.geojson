@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39428472041617,14.55886336873075],[75.37573055110784,14.55624905674666],[75.38265250140518,14.53455634124835],[75.40410902663918,14.53563588757747],[75.39428472041617,14.55886336873075]]]},"properties":{"region_id":"village_604364","name":"DIVAGIHALLI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

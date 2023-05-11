@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94994296444406,17.20628825301127],[76.91666248167238,17.20804878461284],[76.91747706146826,17.18240516288851],[76.93756860073002,17.17672114149227],[76.94994296444406,17.20628825301127]]]},"properties":{"region_id":"village_620646","name":"DEVANTEGNUR","parent":"subdistrict_7088","parent_name":"SHAHABAD"}}
+]}

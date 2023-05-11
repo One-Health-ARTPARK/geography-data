@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99667317888373,13.19789847102727],[76.97941476955684,13.19921577006266],[76.97843674624356,13.19205612571583],[76.99090888471821,13.1859619746314],[76.99667317888373,13.19789847102727]]]},"properties":{"region_id":"village_611496","name":"RAGIMUDDANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

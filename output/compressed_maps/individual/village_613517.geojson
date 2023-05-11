@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57630518421307,12.60881407961319],[76.58632909801467,12.60714998099606],[76.59307656592858,12.617223108029],[76.57713125712903,12.61477980897096],[76.57630518421307,12.60881407961319]]]},"properties":{"region_id":"village_613517","name":"RAJAGHATTA","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

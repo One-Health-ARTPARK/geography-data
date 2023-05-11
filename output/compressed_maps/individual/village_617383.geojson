@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48141459738208,12.84968281054493],[76.47497494055779,12.85348676358898],[76.46884145777435,12.85217054525415],[76.46829925655248,12.84642232770013],[76.48141459738208,12.84968281054493]]]},"properties":{"region_id":"village_617383","name":"UTHENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

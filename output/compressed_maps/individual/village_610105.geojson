@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52847121449791,13.58370818469499],[76.52200290602276,13.58327875747928],[76.51855920314419,13.58757705193237],[76.51336768645649,13.5770204552077],[76.52199438729387,13.57611504410942],[76.52847121449791,13.58370818469499]]]},"properties":{"region_id":"village_610105","name":"KESHAVAPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34671298195839,12.05807679788673],[76.32039307591602,12.05607388007474],[76.3145853401055,12.04031392793736],[76.33841227274733,12.03591719905332],[76.34671298195839,12.05807679788673]]]},"properties":{"region_id":"village_618894","name":"KOLLEGOWDANAHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

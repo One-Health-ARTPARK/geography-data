@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66923652190317,16.47970569226472],[76.64904534726185,16.49433901725161],[76.63350454725632,16.47769661564887],[76.66603437828508,16.46746618260914],[76.66923652190317,16.47970569226472]]]},"properties":{"region_id":"village_620999","name":"BACHIMATTI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59111452797336,12.90067424476956],[77.57894086740502,12.90213800865982],[77.57894700156392,12.89726288755291],[77.59111452797336,12.90067424476956]]]},"properties":{"region_id":"village_938469","name":"SARAKKIKERE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

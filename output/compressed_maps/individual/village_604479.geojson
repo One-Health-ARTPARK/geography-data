@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68003499930332,14.77317758881885],[75.68283375895469,14.79460594859105],[75.66685942644838,14.79146811411016],[75.68003499930332,14.77317758881885]]]},"properties":{"region_id":"village_604479","name":"CHANDAPUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

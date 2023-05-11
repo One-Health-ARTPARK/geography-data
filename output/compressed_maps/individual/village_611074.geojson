@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23613215371448,13.54048763843291],[77.23183946981284,13.52693132994963],[77.24883530348379,13.518990317027],[77.23613215371448,13.54048763843291]]]},"properties":{"region_id":"village_611074","name":"MUDLAPANNE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83923214141412,13.19949993717277],[77.83452960993968,13.19282627134252],[77.84250616999613,13.18823072649084],[77.84409249418358,13.19671075670268],[77.83923214141412,13.19949993717277]]]},"properties":{"region_id":"village_625494","name":"DODDARALAGERE","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10318827651206,12.34620113118034],[77.07461177488797,12.34241907451904],[77.08344174878167,12.32242017927785],[77.10450629603672,12.32617682999352],[77.10318827651206,12.34620113118034]]]},"properties":{"region_id":"village_614800","name":"BACHANAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

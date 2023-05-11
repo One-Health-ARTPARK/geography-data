@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.20461175879625,13.33701241712219],[78.19491644714226,13.34142594110257],[78.18889233554802,13.33407473745597],[78.20050476947584,13.33314512797185],[78.20461175879625,13.33701241712219]]]},"properties":{"region_id":"village_621640","name":"PEDDANACHAPALI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73830359631424,13.52355902915744],[77.73023195223809,13.52782121330078],[77.72976517642239,13.52378924049184],[77.73747010964925,13.51751663697751],[77.73830359631424,13.52355902915744]]]},"properties":{"region_id":"village_623515","name":"ITTAPPANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

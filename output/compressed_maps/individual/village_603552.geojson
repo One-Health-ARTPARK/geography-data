@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74671475350387,14.44760589952388],[74.7374044827487,14.43705275068091],[74.74881010053997,14.42002706095746],[74.75557479404463,14.42854485434819],[74.74671475350387,14.44760589952388]]]},"properties":{"region_id":"village_603552","name":"HOSTOT","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

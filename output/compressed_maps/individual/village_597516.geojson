@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23070161868974,16.22639872011757],[75.23903585126268,16.25141379163604],[75.22278129828544,16.26360078927415],[75.21586024219849,16.2293046260776],[75.23070161868974,16.22639872011757]]]},"properties":{"region_id":"village_597516","name":"KOPADATTI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

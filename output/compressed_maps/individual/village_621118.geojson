@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88022711172142,16.74976844859565],[76.86856709029327,16.72061584512857],[76.88291203487312,16.71949272629716],[76.88022711172142,16.74976844859565]]]},"properties":{"region_id":"village_621118","name":"BEVINHALLI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

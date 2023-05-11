@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81549842609716,13.6451957400157],[77.80877193983687,13.63497395878353],[77.81871333270969,13.63119963358636],[77.81549842609716,13.6451957400157]]]},"properties":{"region_id":"village_623781","name":"GANGANAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

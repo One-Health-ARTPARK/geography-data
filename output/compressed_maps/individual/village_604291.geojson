@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33837318201795,14.65892212082874],[75.31452425032775,14.66640096371024],[75.31534875020775,14.64501213494975],[75.33451070064399,14.64235271701651],[75.33837318201795,14.65892212082874]]]},"properties":{"region_id":"village_604291","name":"HIREHALLI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87295747208037,12.32066951982278],[76.86281710246027,12.31819965847341],[76.86461033281867,12.31006825665997],[76.87546901563192,12.31373341510376],[76.87295747208037,12.32066951982278]]]},"properties":{"region_id":"village_619338","name":"KANCHANAHALLI","parent":"subdistrict_5575","parent_name":"TIRUMAKUDAL - NARSIPUR"}}
+]}

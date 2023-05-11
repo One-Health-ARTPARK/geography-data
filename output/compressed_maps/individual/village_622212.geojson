@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95055492955684,12.95691162627194],[77.94267959790773,12.95669279013434],[77.94098917544501,12.9485630148885],[77.95062190806054,12.94764463141196],[77.95055492955684,12.95691162627194]]]},"properties":{"region_id":"village_622212","name":"SONNAPPANAHATTI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50549769502304,13.20713432933655],[77.47921083351052,13.22421316213157],[77.47347984317415,13.2070699657382],[77.50549769502304,13.20713432933655]]]},"properties":{"region_id":"village_612826","name":"SONNENAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93810384495448,13.0667305603062],[77.9276351854937,13.06874800147806],[77.92325928536616,13.06162877434072],[77.93334655978379,13.05591586023204],[77.93810384495448,13.0667305603062]]]},"properties":{"region_id":"village_622117","name":"SEETHANAIKANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

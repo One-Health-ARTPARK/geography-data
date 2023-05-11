@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25681467872883,14.82726704726492],[75.24700301246195,14.83957207797578],[75.23379608902772,14.84299934729451],[75.23555139807775,14.82503774573878],[75.25681467872883,14.82726704726492]]]},"properties":{"region_id":"village_604064","name":"HOMBLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

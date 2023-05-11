@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51920269837228,12.89932967555663],[76.5168837061676,12.91280776292353],[76.51092773123943,12.90701496832455],[76.51003780562894,12.89882723543392],[76.51920269837228,12.89932967555663]]]},"properties":{"region_id":"village_617403","name":"KEMPINAKOTE","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02287924996578,15.53557877785914],[75.01805756846274,15.5467188373993],[74.98714278920833,15.54148805341909],[74.98587978040557,15.52964801276268],[75.02287924996578,15.53557877785914]]]},"properties":{"region_id":"village_602229","name":"LAKAMAPUR","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30949536021927,13.83536214555064],[77.2732150118559,13.80995329615251],[77.32929222540932,13.79592541746066],[77.33648034071759,13.83197167799379],[77.30949536021927,13.83536214555064]]]},"properties":{"region_id":"village_610869","name":"ITAKADIBBANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20438367588693,16.14819335642759],[75.15562040830879,16.15088054845738],[75.15417891197588,16.13105622983103],[75.20811928736329,16.12844134762621],[75.20438367588693,16.14819335642759]]]},"properties":{"region_id":"village_598294","name":"CHIPPALKATTI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87484527104836,16.23958684960677],[75.84899071312645,16.24160770318009],[75.84833075103592,16.2220486934573],[75.87204282154578,16.22054136787388],[75.87484527104836,16.23958684960677]]]},"properties":{"region_id":"village_598851","name":"SANGAPUR","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

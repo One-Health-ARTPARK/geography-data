@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77318939575754,12.12102553854142],[76.73809078446642,12.11463487515374],[76.73826149512776,12.11006119109998],[76.7738171881754,12.11004677308995],[76.77318939575754,12.12102553854142]]]},"properties":{"region_id":"village_619228","name":"MALLUPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34736102928257,12.54601434612853],[77.35041142028719,12.5635438845425],[77.34277775769228,12.55750567265427],[77.33836886699616,12.54903444961464],[77.34736102928257,12.54601434612853]]]},"properties":{"region_id":"village_626441","name":"MURADIHOSAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

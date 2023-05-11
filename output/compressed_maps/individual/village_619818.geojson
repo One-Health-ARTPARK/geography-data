@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25116292073709,12.22602779001947],[77.26458771597623,12.19367731926823],[77.30063713135884,12.19934911613478],[77.29380425101874,12.2224798295447],[77.25116292073709,12.22602779001947]]]},"properties":{"region_id":"village_619818","name":"CHIKKILUR","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

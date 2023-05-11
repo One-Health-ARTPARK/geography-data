@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92298689797387,12.77229690189456],[75.9189812869977,12.77152322267501],[75.91960019299489,12.75895690759453],[75.92402350114192,12.76451105412981],[75.92298689797387,12.77229690189456]]]},"properties":{"region_id":"village_938987","name":"HEMMANE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20820724768679,12.70201259161533],[76.18508327141147,12.70154917947921],[76.18307218182832,12.68105031329951],[76.20231729247782,12.67971710056549],[76.20820724768679,12.70201259161533]]]},"properties":{"region_id":"village_616960","name":"ODANAHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

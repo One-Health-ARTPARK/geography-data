@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28819212330994,13.54260415872693],[77.27698836065433,13.54877540219126],[77.27092598388096,13.53473421286718],[77.28354846502727,13.53496837753364],[77.28819212330994,13.54260415872693]]]},"properties":{"region_id":"village_611071","name":"GOWRAGANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

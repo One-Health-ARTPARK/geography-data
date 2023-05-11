@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79512953619768,12.8330743095665],[77.77847887671113,12.83591311735271],[77.77386553100081,12.8150697477413],[77.78721918767579,12.81201348264288],[77.79512953619768,12.8330743095665]]]},"properties":{"region_id":"village_613227","name":"S.MEDIHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

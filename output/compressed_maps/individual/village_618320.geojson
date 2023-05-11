@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32584601204077,12.36264044598938],[76.32719515435781,12.36763888471103],[76.30190012641864,12.36462919275021],[76.30883846553438,12.35993201759199],[76.31525354039816,12.3650656747205],[76.32584601204077,12.36264044598938]]]},"properties":{"region_id":"village_618320","name":"HODAKEKATTEKAVAL","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

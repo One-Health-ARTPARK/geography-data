@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66368223448907,12.96999181526466],[77.64285303997444,12.9657989389603],[77.65544613779534,12.95164514889854],[77.66368223448907,12.96999181526466]]]},"properties":{"region_id":"village_938266","name":"KODIHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

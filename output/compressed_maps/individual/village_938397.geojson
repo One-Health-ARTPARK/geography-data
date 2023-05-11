@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89977248335099,14.4646166641085],[75.88220658799735,14.43215576270778],[75.91970885325803,14.42819919772941],[75.92127179930071,14.44352024250247],[75.89977248335099,14.4646166641085]]]},"properties":{"region_id":"village_938397","name":"SHYAMANUR","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

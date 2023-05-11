@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27558943498303,16.06055412090885],[75.25571474064185,16.06182610146245],[75.25502530641499,16.04670386957196],[75.27023003083352,16.04545578790624],[75.27558943498303,16.06055412090885]]]},"properties":{"region_id":"village_598315","name":"ROKKADAKATTI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1222907782502,14.67690671366085],[75.12506765490618,14.69821791487541],[75.08526586262037,14.69149725410211],[75.09863560130889,14.66598128230017],[75.1222907782502,14.67690671366085]]]},"properties":{"region_id":"village_604129","name":"SHIRGODA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12284247511752,16.80310795739135],[75.05192444775787,16.81260463774952],[75.03385895397305,16.79442851696468],[75.08863119817521,16.77568264845322],[75.1197696036738,16.77543967997056],[75.12284247511752,16.80310795739135]]]},"properties":{"region_id":"village_597272","name":"PARTHANAHALLI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

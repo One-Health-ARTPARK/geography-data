@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.47418636854323,15.39651120878712],[74.47127628396134,15.40860693278655],[74.43456098609289,15.40162278849107],[74.44445546246727,15.38488297875146],[74.47418636854323,15.39651120878712]]]},"properties":{"region_id":"village_602649","name":"CHAPALI","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

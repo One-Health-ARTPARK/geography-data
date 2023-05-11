@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94566414730454,13.70188074877353],[76.9279353999869,13.70385987541626],[76.93937561671434,13.67021587660253],[76.95620063078805,13.67389043883833],[76.94566414730454,13.70188074877353]]]},"properties":{"region_id":"village_610395","name":"DODDAGULA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

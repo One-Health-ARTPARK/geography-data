@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26576033246512,14.63061224359539],[76.24340163301605,14.63491259419205],[76.2461638960229,14.5952201635311],[76.26969338894983,14.60620311844023],[76.26576033246512,14.63061224359539]]]},"properties":{"region_id":"village_606394","name":"MALEMACHIKERE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

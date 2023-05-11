@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96332919769114,15.79323980144742],[74.9630612582499,15.81023665868062],[74.93009960455545,15.80213033383953],[74.93090161104382,15.79016419804373],[74.94352456518627,15.78375566941953],[74.96332919769114,15.79323980144742]]]},"properties":{"region_id":"village_598218","name":"INGALAGI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

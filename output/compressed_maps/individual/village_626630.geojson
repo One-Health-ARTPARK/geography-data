@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57601252658293,12.37424397636884],[77.58882701507811,12.37616512418711],[77.57891993585436,12.39391407041874],[77.56456737619679,12.38284827614787],[77.57601252658293,12.37424397636884]]]},"properties":{"region_id":"village_626630","name":"THATTIKERE","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

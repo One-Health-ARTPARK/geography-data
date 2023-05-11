@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.950216406775,12.58979264061004],[75.94554138855692,12.59949939807904],[75.93246295061964,12.59837592408244],[75.9438675294183,12.58834998257213],[75.950216406775,12.58979264061004]]]},"properties":{"region_id":"village_924018","name":"SIDDALINGAPURA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

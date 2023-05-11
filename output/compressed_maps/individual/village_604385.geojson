@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38412466175157,14.49058745697643],[75.35910821099893,14.49406000620452],[75.35958184764245,14.47790292477231],[75.38718003285715,14.47791743162725],[75.38412466175157,14.49058745697643]]]},"properties":{"region_id":"village_604385","name":"HADRIHALLI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

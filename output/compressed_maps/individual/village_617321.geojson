@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60397893299056,13.05732595360945],[76.59867854100969,13.0498619414098],[76.60467545012563,13.04776748234325],[76.60397893299056,13.05732595360945]]]},"properties":{"region_id":"village_617321","name":"HAMMANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32964904635358,13.52230350891653],[76.3007142561713,13.52173823188127],[76.29996233992686,13.50252603883496],[76.32533867693127,13.50726126361342],[76.32964904635358,13.52230350891653]]]},"properties":{"region_id":"village_615618","name":"KANAKATTE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5659974121625,13.18290186934409],[77.56441163111364,13.17259498529876],[77.57359347144454,13.16403634955518],[77.57635903416164,13.17755834532702],[77.5659974121625,13.18290186934409]]]},"properties":{"region_id":"village_612847","name":"ADIGANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

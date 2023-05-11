@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45241710210452,15.38585223098445],[75.42515962954025,15.39515437336884],[75.42286792809206,15.3616623954038],[75.44797975914503,15.35887550728974],[75.45241710210452,15.38585223098445]]]},"properties":{"region_id":"village_602371","name":"MAJJIGUDDA","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

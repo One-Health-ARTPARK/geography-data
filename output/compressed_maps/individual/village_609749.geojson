@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8082198980387,13.30093585206615],[75.80395051459244,13.28806659245462],[75.83052299402212,13.28918493405222],[75.82709760355175,13.30485240298278],[75.8082198980387,13.30093585206615]]]},"properties":{"region_id":"village_609749","name":"KARTHIKERE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

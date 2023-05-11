@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79823851648597,16.73752221633313],[76.79841359366583,16.76612678879473],[76.79156235153454,16.76591032278889],[76.79215606730098,16.75401348003703],[76.79823851648597,16.73752221633313]]]},"properties":{"region_id":"village_621105","name":"RAJAPUR (K)","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

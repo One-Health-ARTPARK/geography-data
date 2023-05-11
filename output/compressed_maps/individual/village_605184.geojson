@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8322212577166,14.79279651748147],[76.84598825750439,14.82223464603178],[76.82563391835446,14.81913384144821],[76.8322212577166,14.79279651748147]]]},"properties":{"region_id":"village_605184","name":"MACHENAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

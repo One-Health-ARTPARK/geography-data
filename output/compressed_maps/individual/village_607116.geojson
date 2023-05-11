@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93535407992356,13.84803157987909],[75.92177384241546,13.85271828061931],[75.91617574944482,13.83819085001974],[75.92847342034975,13.83868211448672],[75.93535407992356,13.84803157987909]]]},"properties":{"region_id":"village_607116","name":"KODAGIKERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

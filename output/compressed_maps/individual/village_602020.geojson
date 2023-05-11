@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56868318179201,15.48590477037222],[75.53314895320342,15.48840935090216],[75.5317812072353,15.43888042436947],[75.5746409871642,15.44491594165927],[75.56868318179201,15.48590477037222]]]},"properties":{"region_id":"village_602020","name":"HIREHANDIGOL","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71986372627508,13.72516968548763],[77.67992085687462,13.72759640647151],[77.67439579385496,13.69834939946615],[77.69633757877898,13.70116905265753],[77.71986372627508,13.72516968548763]]]},"properties":{"region_id":"village_623305","name":"CHOLASETTYHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

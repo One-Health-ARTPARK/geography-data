@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08011932150268,15.31890024698299],[76.0553325200928,15.34284139108636],[76.03368567803021,15.32311923384743],[76.08011932150268,15.31890024698299]]]},"properties":{"region_id":"village_601712","name":"HANWAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

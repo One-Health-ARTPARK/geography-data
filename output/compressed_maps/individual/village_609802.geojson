@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96582220818443,13.29340605767022],[75.95623080132319,13.26098827288861],[75.98215307757448,13.2666577033035],[75.96582220818443,13.29340605767022]]]},"properties":{"region_id":"village_609802","name":"ESWARAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

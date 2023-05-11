@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45686947407513,15.59310760870044],[76.43672164268885,15.60803759880765],[76.4298636525837,15.58377208610607],[76.45686947407513,15.59310760870044]]]},"properties":{"region_id":"village_601581","name":"NEERLOTI","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

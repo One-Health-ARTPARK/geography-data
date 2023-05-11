@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68910502610107,12.99845414506244],[77.6817544764256,13.00331287701101],[77.67073851698802,12.99565425598541],[77.68014631788868,12.98858466817109],[77.68910502610107,12.99845414506244]]]},"properties":{"region_id":"village_938254","name":"B NARAYANAPURA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

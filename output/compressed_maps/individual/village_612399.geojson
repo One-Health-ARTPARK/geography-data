@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89166623460379,13.06491320550304],[76.89045330950279,13.08163133694692],[76.87662954181823,13.08096026881491],[76.88166428280925,13.06200820667239],[76.89166623460379,13.06491320550304]]]},"properties":{"region_id":"village_612399","name":"ITTIGEHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

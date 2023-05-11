@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64067107942726,12.32284855231773],[76.62315354329091,12.32721793169055],[76.62085803947642,12.31981006630598],[76.6391642329747,12.31226853250756],[76.64067107942726,12.32284855231773]]]},"properties":{"region_id":"village_939296","name":"PADUVARAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9121226096122,13.23166875103083],[77.91962891845193,13.21447941541577],[77.9259670511768,13.23178423234729],[77.9121226096122,13.23166875103083]]]},"properties":{"region_id":"village_625538","name":"HINDIGANALA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

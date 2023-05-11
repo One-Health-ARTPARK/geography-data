@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33379615957953,15.08191794537369],[75.31692171605341,15.12418131649461],[75.30921638782851,15.10878031092138],[75.31593594923456,15.07633888557045],[75.33379615957953,15.08191794537369]]]},"properties":{"region_id":"village_603918","name":"SHISUVINAL","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

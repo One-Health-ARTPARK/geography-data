@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74391841677097,15.0634562795467],[75.7229730906526,15.07573267890639],[75.71709879014668,15.05067516937964],[75.74391841677097,15.0634562795467]]]},"properties":{"region_id":"village_602120","name":"TARIKOPPA","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

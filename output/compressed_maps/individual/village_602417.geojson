@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11074197280931,15.25839722332617],[75.11351388200214,15.27183618830853],[75.10282041740962,15.26986863843371],[75.11074197280931,15.25839722332617]]]},"properties":{"region_id":"village_602417","name":"GIRIYAL","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

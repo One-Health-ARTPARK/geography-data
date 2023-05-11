@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34739230582682,15.57525323664296],[76.32824845789736,15.55057294141847],[76.36501330678409,15.54528338173619],[76.34739230582682,15.57525323664296]]]},"properties":{"region_id":"village_601570","name":"KANNERMADU","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

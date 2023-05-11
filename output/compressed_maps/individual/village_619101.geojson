@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4179838581045,11.90113414879546],[76.40459205693503,11.88497263436248],[76.42058347060535,11.88334645587264],[76.4179838581045,11.90113414879546]]]},"properties":{"region_id":"village_619101","name":"KANDALIKE","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

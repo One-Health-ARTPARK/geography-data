@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1022547724996,12.34327560151779],[76.10795242204232,12.36077531925268],[76.08784797119483,12.35602571362539],[76.1022547724996,12.34327560151779]]]},"properties":{"region_id":"village_618261","name":"HARAVEMALLARAJAPATNA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

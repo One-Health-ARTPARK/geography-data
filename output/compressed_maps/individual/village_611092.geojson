@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28119358582862,13.48281012990794],[77.25966851635457,13.48223616525711],[77.25747353238647,13.46529597721878],[77.28012055243221,13.47536056526263],[77.28119358582862,13.48281012990794]]]},"properties":{"region_id":"village_611092","name":"MADAVARA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

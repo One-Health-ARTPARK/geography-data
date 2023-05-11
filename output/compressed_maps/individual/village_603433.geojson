@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.37743139748976,14.4852823470307],[74.37095122664728,14.4886693705218],[74.36405747889712,14.50073757754593],[74.35926357294997,14.49853594916832],[74.36645989926596,14.48127387438614],[74.37743139748976,14.4852823470307]]]},"properties":{"region_id":"village_603433","name":"HUBBANGERI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

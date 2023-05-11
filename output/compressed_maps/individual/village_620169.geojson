@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6183519718695,17.21179229446042],[76.59655557528397,17.2143688242611],[76.56862150272346,17.18227921570372],[76.62782275438799,17.17628638996001],[76.6183519718695,17.21179229446042]]]},"properties":{"region_id":"village_620169","name":"BANDERWAD","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

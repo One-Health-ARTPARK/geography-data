@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97097152309587,11.84966115850281],[76.95853251028963,11.82143727310732],[76.97193650802092,11.8224970723805],[76.97097152309587,11.84966115850281]]]},"properties":{"region_id":"village_619746","name":"BEVINATHALAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16317143397306,16.52436841879858],[77.15380179130408,16.47370556033134],[77.16114890684139,16.44847770093459],[77.21418451983962,16.46056313878625],[77.16317143397306,16.52436841879858]]]},"properties":{"region_id":"village_621214","name":"BENDEBEMBLI","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

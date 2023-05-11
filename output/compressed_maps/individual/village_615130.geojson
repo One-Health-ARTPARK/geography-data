@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84165788239034,13.14858068134375],[75.83624848006868,13.14767585898681],[75.83521542128999,13.1396262854792],[75.84564664062313,13.14268795884948],[75.84165788239034,13.14858068134375]]]},"properties":{"region_id":"village_615130","name":"MAILAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

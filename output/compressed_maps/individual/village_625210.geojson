@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48666075447612,13.25134192801141],[77.48334807955568,13.24036247188687],[77.50634677635684,13.23443786326875],[77.50236159591196,13.25055435536999],[77.48666075447612,13.25134192801141]]]},"properties":{"region_id":"village_625210","name":"GEJJIGADAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

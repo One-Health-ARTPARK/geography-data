@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5830592114136,13.44707684043411],[77.60143201135365,13.44424576665338],[77.60090261663787,13.45945609042967],[77.5830592114136,13.44707684043411]]]},"properties":{"region_id":"village_623425","name":"ALAS THIMMANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

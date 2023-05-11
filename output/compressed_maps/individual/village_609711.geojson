@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6337300805574,13.31045394782169],[75.6323454808874,13.32274349148638],[75.59280361924675,13.31477140878113],[75.59951343837615,13.29541079066237],[75.6337300805574,13.31045394782169]]]},"properties":{"region_id":"village_609711","name":"BYGOOR","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

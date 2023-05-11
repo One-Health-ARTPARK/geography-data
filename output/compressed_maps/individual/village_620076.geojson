@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57216280286698,17.42002654102938],[76.55478865999308,17.41706707515426],[76.56478739178647,17.39721766716872],[76.57216280286698,17.42002654102938]]]},"properties":{"region_id":"village_620076","name":"BATTARGA","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

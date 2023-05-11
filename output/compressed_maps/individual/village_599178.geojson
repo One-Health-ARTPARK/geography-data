@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78033828365103,17.37861883819246],[75.77241810323973,17.34297425586628],[75.79641318924062,17.34250510967634],[75.80366039171182,17.36979771502944],[75.78033828365103,17.37861883819246]]]},"properties":{"region_id":"village_599178","name":"TADDEWADI","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

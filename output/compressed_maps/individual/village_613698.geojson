@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71799005198551,13.00239147042116],[76.70079925040791,13.00823350662851],[76.69619166834732,12.99570184999532],[76.70639406257246,12.99455355059782],[76.70795980914218,13.00160722783956],[76.71799005198551,13.00239147042116]]]},"properties":{"region_id":"village_613698","name":"THIGALANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70391453031617,13.62706231032634],[74.72654444121913,13.62632696484204],[74.72211385313065,13.64051424667677],[74.70391453031617,13.62706231032634]]]},"properties":{"region_id":"village_608738","name":"ANAGALLI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

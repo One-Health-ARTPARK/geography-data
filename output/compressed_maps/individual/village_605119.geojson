@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38894287712394,14.78886003452591],[76.36339069300152,14.73263959500307],[76.42356396787595,14.74458034386218],[76.38894287712394,14.78886003452591]]]},"properties":{"region_id":"village_605119","name":"SULADHAHALLI","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

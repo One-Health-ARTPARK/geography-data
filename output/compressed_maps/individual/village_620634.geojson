@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03013946304704,17.26673163984184],[76.99838377310813,17.27675482735826],[76.99677504223257,17.26479078402946],[77.02811542173745,17.25141099055012],[77.03013946304704,17.26673163984184]]]},"properties":{"region_id":"village_620634","name":"SANGAVI","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85612685436365,13.58521013514329],[75.83609075705047,13.57552204286091],[75.8583975335566,13.54914156933912],[75.85612685436365,13.58521013514329]]]},"properties":{"region_id":"village_609344","name":"YARADAHANKLU","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

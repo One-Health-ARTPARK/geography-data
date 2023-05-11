@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77555832121831,13.1903894378762],[77.77001636270057,13.19232747403063],[77.7683156774149,13.18726049446209],[77.77788913723387,13.18430514359552],[77.77555832121831,13.1903894378762]]]},"properties":{"region_id":"village_625449","name":"BIDALAPURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

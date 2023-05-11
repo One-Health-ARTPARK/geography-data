@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42214010202409,12.43622561408655],[76.41537000516213,12.43950183251353],[76.41114346539518,12.43613059084474],[76.40717143154815,12.4260391221924],[76.41765545772049,12.41734034223117],[76.42214010202409,12.43622561408655]]]},"properties":{"region_id":"village_618675","name":"BASAVARAJAPURA","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

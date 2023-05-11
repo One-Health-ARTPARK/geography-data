@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19798755787427,16.77651106444044],[77.17656485901543,16.77593007054235],[77.15752291592051,16.76681560308759],[77.1971337591771,16.75456479565078],[77.19798755787427,16.77651106444044]]]},"properties":{"region_id":"village_621300","name":"ASHOKNAGAR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

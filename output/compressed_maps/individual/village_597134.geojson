@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.34593210771996,16.45956016145743],[74.33096401111793,16.4614924379654],[74.32923031095046,16.44719604505419],[74.34266452385728,16.4492012334713],[74.34593210771996,16.45956016145743]]]},"properties":{"region_id":"village_597134","name":"BUDIHAL","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

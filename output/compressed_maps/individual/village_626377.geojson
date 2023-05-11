@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51431365789085,12.66048822173609],[77.51934990410363,12.66328632594627],[77.51936362444471,12.68568092705],[77.51185092416307,12.68403434217727],[77.50570387788972,12.66749660016899],[77.51431365789085,12.66048822173609]]]},"properties":{"region_id":"village_626377","name":"KONASANDRA","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2070526371714,15.67692151186806],[76.20423745940735,15.68579426634061],[76.18794615260032,15.683584028259],[76.18579207853891,15.67833910900854],[76.2070526371714,15.67692151186806]]]},"properties":{"region_id":"village_601283","name":"N.JARKUNTI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

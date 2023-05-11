@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81302572766839,17.1651072608123],[75.78917606229379,17.13146143691623],[75.82256515356299,17.12323018551002],[75.81302572766839,17.1651072608123]]]},"properties":{"region_id":"village_599226","name":"HALAGUNAKI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

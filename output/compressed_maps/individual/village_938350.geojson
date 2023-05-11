@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54025892523254,13.00442273569485],[77.51675176304394,13.02235403024011],[77.50625105208823,13.00995396874754],[77.52763683217864,12.99976010713067],[77.54025892523254,13.00442273569485]]]},"properties":{"region_id":"village_938350","name":"LAGGERE","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76678705107905,14.39280217335056],[74.76289331669324,14.37267111063669],[74.77963944372941,14.37883716388044],[74.76678705107905,14.39280217335056]]]},"properties":{"region_id":"village_603632","name":"CHAPPARMANE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

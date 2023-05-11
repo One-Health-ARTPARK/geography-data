@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0107656729783,12.80669778616353],[76.00196495556503,12.80935335340082],[76.00092327205047,12.80139156837949],[76.0107656729783,12.80669778616353]]]},"properties":{"region_id":"village_926791","name":"KALLUKOPPALU","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

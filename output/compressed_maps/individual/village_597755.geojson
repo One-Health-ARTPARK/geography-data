@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.64260983230128,15.90869145634164],[74.63901463811594,15.92226704353914],[74.63228117881192,15.93614163925873],[74.62260457166938,15.93467203186725],[74.6331711769865,15.90004608236769],[74.64260983230128,15.90869145634164]]]},"properties":{"region_id":"village_597755","name":"KHANAGAON (B.K)","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

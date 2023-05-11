@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19092465853966,14.02510777118199],[75.19008789531001,14.04606876871315],[75.16420852233452,14.03634890760774],[75.15846214578387,14.0230463986093],[75.19092465853966,14.02510777118199]]]},"properties":{"region_id":"village_607922","name":"K.HUNASAVALLI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

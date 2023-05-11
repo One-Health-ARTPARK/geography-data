@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.53073429718341,14.20480184209699],[74.53417484973095,14.22166114630376],[74.5224734291919,14.22398527691923],[74.5194694969468,14.20615209833595],[74.53073429718341,14.20480184209699]]]},"properties":{"region_id":"village_603761","name":"MELIN-MANNIGE","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

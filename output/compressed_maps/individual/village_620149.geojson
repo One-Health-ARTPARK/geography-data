@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58585677243036,17.27609687541506],[76.61303083272425,17.27442514356421],[76.62484156082404,17.31825039324633],[76.5766594135986,17.31154657279775],[76.58585677243036,17.27609687541506]]]},"properties":{"region_id":"village_620149","name":"BHAIRAMADGI","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

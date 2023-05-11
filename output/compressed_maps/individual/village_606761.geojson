@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58914111834089,14.21821178319934],[75.57466075131248,14.21998712643698],[75.5694418028809,14.20590710502522],[75.57485761118336,14.19184055410446],[75.58914111834089,14.21821178319934]]]},"properties":{"region_id":"village_606761","name":"THUGLAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

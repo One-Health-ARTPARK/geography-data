@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07526196666109,12.32967548316237],[76.057157858841,12.32107949994488],[76.06372990331894,12.31068561773363],[76.07348959227818,12.31756815120628],[76.07526196666109,12.32967548316237]]]},"properties":{"region_id":"village_618263","name":"THIMAKAPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

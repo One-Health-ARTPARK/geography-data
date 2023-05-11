@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37757913865173,13.10106235542338],[77.36470377955473,13.09230431567735],[77.37373148917935,13.08580258688959],[77.37757913865173,13.10106235542338]]]},"properties":{"region_id":"village_624947","name":"H.KEMPALINGANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

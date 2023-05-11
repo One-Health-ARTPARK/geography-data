@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25081305065244,13.1192530167457],[76.24391211033542,13.11956514486296],[76.23895420679803,13.09654918743838],[76.25962536901515,13.10392552924692],[76.25081305065244,13.1192530167457]]]},"properties":{"region_id":"village_615995","name":"ATTAVARA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

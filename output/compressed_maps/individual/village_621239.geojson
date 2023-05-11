@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2325486679071,16.88193208732271],[77.1933035927466,16.88604896484935],[77.20467692950098,16.84815187072147],[77.2325486679071,16.88193208732271]]]},"properties":{"region_id":"village_621239","name":"KATGI-SHAHAPUR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

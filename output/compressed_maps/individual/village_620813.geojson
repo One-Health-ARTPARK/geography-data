@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66714247707247,16.92124568989686],[76.6458927535516,16.92664541999597],[76.65050999400171,16.90406813766671],[76.6652304046712,16.89738406610493],[76.66714247707247,16.92124568989686]]]},"properties":{"region_id":"village_620813","name":"JAWALGA","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

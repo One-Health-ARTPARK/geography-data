@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53180352781855,13.45395166688688],[76.51663655959786,13.47063509480954],[76.50686474614461,13.45803893470614],[76.53180352781855,13.45395166688688]]]},"properties":{"region_id":"village_610085","name":"UPPARAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

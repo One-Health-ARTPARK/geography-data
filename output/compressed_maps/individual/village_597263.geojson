@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18189022792356,16.84346370710879],[75.17646024051383,16.86798342407086],[75.09386368433879,16.87285944142328],[75.13193153427935,16.82979815715851],[75.18189022792356,16.84346370710879]]]},"properties":{"region_id":"village_597263","name":"BALLIGERI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

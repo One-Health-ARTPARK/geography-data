@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72548979103797,12.50049686393077],[76.72727750901873,12.51481582233168],[76.72040920550482,12.51401283953215],[76.71748337724448,12.5008612988704],[76.72548979103797,12.50049686393077]]]},"properties":{"region_id":"village_614109","name":"THIRUMALAPURA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.966786194818,12.9013314749266],[77.9565706533942,12.90824610233438],[77.94101970044316,12.89560062975508],[77.9545719964894,12.88606795458342],[77.966786194818,12.9013314749266]]]},"properties":{"region_id":"village_622269","name":"CHALAGANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

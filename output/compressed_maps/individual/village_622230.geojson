@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89151914163473,12.95422021355616],[77.8805175192702,12.95691719589235],[77.8739742444089,12.94612666666238],[77.88967107423572,12.94532785679375],[77.89151914163473,12.95422021355616]]]},"properties":{"region_id":"village_622230","name":"BARUGUR","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

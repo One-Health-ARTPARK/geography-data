@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92674991330813,13.73648525743423],[74.91366361154512,13.75218415465952],[74.86923219451552,13.7248216916444],[74.90170000486624,13.70054601467031],[74.92674991330813,13.73648525743423]]]},"properties":{"region_id":"village_608719","name":"KAMALASHILE","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20440828027021,14.24914125963912],[75.19023376560774,14.28224950177116],[75.17080473913117,14.26996593790859],[75.1720157767039,14.24394852166493],[75.20440828027021,14.24914125963912]]]},"properties":{"region_id":"village_607225","name":"BARUR","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

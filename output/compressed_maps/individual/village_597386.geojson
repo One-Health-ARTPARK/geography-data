@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90866096871959,16.58188393869266],[74.91562923525929,16.60491951326136],[74.89064353300485,16.60272100339243],[74.886752552385,16.58812684253294],[74.90866096871959,16.58188393869266]]]},"properties":{"region_id":"village_597386","name":"PARAMANANDWADI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

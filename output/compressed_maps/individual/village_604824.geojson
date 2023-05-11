@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03736798024394,15.71545235832408],[77.0395898486015,15.73112948629315],[77.0186839109444,15.72693835315017],[77.02385915673068,15.71586991162708],[77.03736798024394,15.71545235832408]]]},"properties":{"region_id":"village_604824","name":"GUBBIHAL","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

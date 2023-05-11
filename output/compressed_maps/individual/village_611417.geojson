@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27214207169305,13.36383434593077],[77.26938271408895,13.34663138614582],[77.28157403915908,13.34355023623042],[77.28918023978471,13.35829220109895],[77.27214207169305,13.36383434593077]]]},"properties":{"region_id":"village_611417","name":"HALUGONDANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

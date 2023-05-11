@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88959006135484,13.09776424450459],[77.87738494407988,13.09848943215569],[77.88131667434355,13.09514181772789],[77.88911899165683,13.09426486518523],[77.88959006135484,13.09776424450459]]]},"properties":{"region_id":"village_625613","name":"HALASAKAIPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

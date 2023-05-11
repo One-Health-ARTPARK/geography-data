@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8874021656025,15.62960642047443],[74.88123246168593,15.59979550107325],[74.89944608004272,15.60448678192915],[74.8874021656025,15.62960642047443]]]},"properties":{"region_id":"village_602200","name":"KHANAPUR-M-TADAKOD","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

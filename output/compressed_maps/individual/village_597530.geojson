@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90967432610691,16.2053231129121],[74.90146371231619,16.19332579194477],[74.9090914108781,16.1694708474188],[74.91485995405156,16.16995120010821],[74.90967432610691,16.2053231129121]]]},"properties":{"region_id":"village_597530","name":"KALARKOPPA","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9238933055724,16.35073670645527],[76.92582210740667,16.35961682306185],[76.91351422461378,16.35288222952969],[76.92023266445814,16.34709232900779],[76.9238933055724,16.35073670645527]]]},"properties":{"region_id":"village_600617","name":"GUDDAD IRABGERA","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3418974622188,13.4016175672737],[77.32822834341025,13.40342552844375],[77.32603665795766,13.39134984809698],[77.33406712022305,13.38916782030183],[77.3418974622188,13.4016175672737]]]},"properties":{"region_id":"village_611195","name":"BELLADAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

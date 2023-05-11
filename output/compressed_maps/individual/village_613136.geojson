@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59571634596578,12.82749010193237],[77.59026934191917,12.81940729930495],[77.60243204500266,12.81679687251635],[77.59571634596578,12.82749010193237]]]},"properties":{"region_id":"village_613136","name":"LAXMIPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

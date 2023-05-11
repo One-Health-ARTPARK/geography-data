@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39790685390987,13.9063740090118],[77.3992718846821,13.88873675557171],[77.43512691465719,13.91412055612006],[77.41591588639832,13.92404074710696],[77.39790685390987,13.9063740090118]]]},"properties":{"region_id":"village_610667","name":"VIRUPASAMUDRA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

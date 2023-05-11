@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48749395454499,15.53396197752857],[76.46916588569785,15.53388459471193],[76.4644954379069,15.51594546821061],[76.48840898528897,15.51596913663125],[76.48749395454499,15.53396197752857]]]},"properties":{"region_id":"village_601600","name":"ARLAHALLI","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

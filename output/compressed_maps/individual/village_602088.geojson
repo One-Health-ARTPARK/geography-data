@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60902493774678,15.06260237186864],[75.60905999285774,15.07838850068284],[75.59629483154737,15.08508039278909],[75.59518796130784,15.06828615577411],[75.60902493774678,15.06260237186864]]]},"properties":{"region_id":"village_602088","name":"NELOGAL","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

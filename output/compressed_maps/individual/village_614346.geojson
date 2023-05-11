@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8500375920284,12.69298093667757],[76.83928716921892,12.69524925055626],[76.83789989355665,12.68507824504402],[76.84897750310377,12.68614269926325],[76.8500375920284,12.69298093667757]]]},"properties":{"region_id":"village_614346","name":"THARANAGERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11070101640856,12.95431562626741],[76.09679339990502,12.95671199524218],[76.09295385497828,12.94684818777094],[76.10923508955975,12.93940209849259],[76.11070101640856,12.95431562626741]]]},"properties":{"region_id":"village_616191","name":"PERUMENAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

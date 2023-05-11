@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88319141578405,13.76149490681641],[77.86203343251695,13.77058519368605],[77.86203764777602,13.75291603237977],[77.88319141578405,13.76149490681641]]]},"properties":{"region_id":"village_623875","name":"GURRALADINNE","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

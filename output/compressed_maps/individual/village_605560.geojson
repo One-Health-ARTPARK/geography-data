@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30176489521187,14.20604196459386],[76.27633136362542,14.1995532146702],[76.28048774943309,14.18641976863933],[76.29982832247235,14.19111774686307],[76.30176489521187,14.20604196459386]]]},"properties":{"region_id":"village_605560","name":"ROTTIHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57174376021591,15.23810133635374],[76.5444035787886,15.24318559250828],[76.54506498830892,15.22398264452374],[76.56488589685557,15.2204889590261],[76.57174376021591,15.23810133635374]]]},"properties":{"region_id":"village_604743","name":"DHARMASAGARA","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

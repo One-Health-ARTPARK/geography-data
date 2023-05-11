@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73951387752358,12.80659544401443],[76.72362345932194,12.80595560616364],[76.70697254960275,12.78771777834154],[76.73674914983154,12.78957328990363],[76.73951387752358,12.80659544401443]]]},"properties":{"region_id":"village_613894","name":"SANKANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

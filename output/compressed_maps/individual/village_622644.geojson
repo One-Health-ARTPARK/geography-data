@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.22306008666524,12.76685871389909],[78.22844314790458,12.79193435996913],[78.22056057817974,12.80194429930589],[78.21101033910807,12.77283422412706],[78.22306008666524,12.76685871389909]]]},"properties":{"region_id":"village_622644","name":"THALUR","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

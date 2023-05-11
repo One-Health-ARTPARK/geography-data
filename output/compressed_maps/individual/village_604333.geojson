@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53553523145038,14.66288365361845],[75.51535457772988,14.67663672466242],[75.49485967584918,14.65270754493606],[75.50093705150793,14.62986083305032],[75.53315287761161,14.61879229332337],[75.53553523145038,14.66288365361845]]]},"properties":{"region_id":"village_604333","name":"KADARAMANDALAGI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73715713919032,13.43791848480318],[77.72276708764149,13.43359408234306],[77.7225175711703,13.42549241294727],[77.7419595906119,13.42109606024224],[77.73715713919032,13.43791848480318]]]},"properties":{"region_id":"village_623564","name":"CHIKBALLAPUR (RURAL)","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

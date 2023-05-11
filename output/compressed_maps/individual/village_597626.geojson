@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.53451710027271,16.11946642665056],[74.5230040816846,16.14866276747185],[74.48487861880898,16.14200537454064],[74.49103532269446,16.11211236875414],[74.53451710027271,16.11946642665056]]]},"properties":{"region_id":"village_597626","name":"THANAHATTARGI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04951308240369,13.35245961377386],[76.0358072191194,13.35395539601537],[76.02985191832886,13.34270499121936],[76.05020722999754,13.34781863987329],[76.04951308240369,13.35245961377386]]]},"properties":{"region_id":"village_615835","name":"GUDDENAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

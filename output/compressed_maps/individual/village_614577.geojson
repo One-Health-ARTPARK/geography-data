@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04733538596328,12.62766847405963],[77.04494218589136,12.62000203324202],[77.05338449762563,12.61910375825442],[77.04733538596328,12.62766847405963]]]},"properties":{"region_id":"village_614577","name":"HULUGANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90750397043327,17.71653644158308],[76.88138703282424,17.69396170874424],[76.91701860551618,17.67702143985423],[76.92449591237629,17.70509467955146],[76.90750397043327,17.71653644158308]]]},"properties":{"region_id":"village_599824","name":"EKLORA","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

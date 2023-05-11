@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06095428146958,16.75378229786968],[77.03962886376252,16.7233254094675],[77.02521003150984,16.6782258224554],[77.07201880083633,16.6866472520656],[77.09387308110898,16.74395460985422],[77.06095428146958,16.75378229786968]]]},"properties":{"region_id":"village_621150","name":"NAIKAL","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

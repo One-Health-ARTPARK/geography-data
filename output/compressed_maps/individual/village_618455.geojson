@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45183743613896,12.35008862214576],[76.45642131759253,12.34974931802921],[76.46032064452753,12.35216707815],[76.45759511771566,12.35564569251235],[76.45371862043802,12.35457266491213],[76.45183743613896,12.35008862214576]]]},"properties":{"region_id":"village_618455","name":"HALEBEEDUKAVAL","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

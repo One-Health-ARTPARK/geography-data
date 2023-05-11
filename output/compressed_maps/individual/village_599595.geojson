@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2102037491611,16.43516032296696],[76.18353685518548,16.43635462747012],[76.17254377356915,16.40619579960896],[76.19864596828627,16.40426787240577],[76.2102037491611,16.43516032296696]]]},"properties":{"region_id":"village_599595","name":"INGALGERI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

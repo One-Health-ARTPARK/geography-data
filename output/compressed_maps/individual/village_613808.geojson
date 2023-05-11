@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61845893655469,12.86855105590844],[76.60819506631894,12.88518291221169],[76.59670992640683,12.87867390678254],[76.6019773254033,12.86723130533899],[76.61845893655469,12.86855105590844]]]},"properties":{"region_id":"village_613808","name":"H.BHUVANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

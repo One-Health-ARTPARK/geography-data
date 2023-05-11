@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2256493599924,13.75944372819794],[75.21278646257949,13.7600698949192],[75.21537646712125,13.74898066684472],[75.2256493599924,13.75944372819794]]]},"properties":{"region_id":"village_608190","name":"NIJAGOORU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

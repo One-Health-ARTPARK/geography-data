@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7473518662496,15.81441096846678],[75.75321819277677,15.86596700980038],[75.73750148377111,15.85074004932296],[75.73586993518143,15.81398072796846],[75.7473518662496,15.81441096846678]]]},"properties":{"region_id":"village_598766","name":"BELUR","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

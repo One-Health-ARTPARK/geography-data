@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06946495703085,14.88831980581256],[75.04750196398001,14.88891785771176],[75.04479932922405,14.87614267165998],[75.07090361824847,14.87809977473507],[75.06946495703085,14.88831980581256]]]},"properties":{"region_id":"village_603054","name":"MUDASALI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

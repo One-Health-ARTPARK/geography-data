@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46098960803832,13.16038971132118],[77.44298976915866,13.16688994134978],[77.43086640127855,13.15951727647863],[77.45277249254706,13.1450783587985],[77.46098960803832,13.16038971132118]]]},"properties":{"region_id":"village_612750","name":"KUKKANAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

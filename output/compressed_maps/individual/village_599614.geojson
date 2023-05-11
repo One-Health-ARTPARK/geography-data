@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08036399378094,16.35273826161568],[76.06525907113742,16.33601973404575],[76.09385116846428,16.32821152946724],[76.09981157036998,16.35066258617449],[76.08036399378094,16.35273826161568]]]},"properties":{"region_id":"village_599614","name":"GEDDALAMARI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

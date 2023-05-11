@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61303083272425,17.27442514356421],[76.58687570444705,17.27372964735886],[76.59523573539765,17.25168450339126],[76.61303083272425,17.27442514356421]]]},"properties":{"region_id":"village_620157","name":"WADHALLI","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

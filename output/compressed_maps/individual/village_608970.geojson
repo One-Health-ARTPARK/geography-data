@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2636189026134,13.56195322788962],[75.23840359530764,13.55806399607179],[75.25566524542567,13.5342518880556],[75.2636189026134,13.56195322788962]]]},"properties":{"region_id":"village_608970","name":"HOSUR","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

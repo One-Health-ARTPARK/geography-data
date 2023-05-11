@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22922824347222,12.56462827519827],[76.22799297276038,12.57839294742388],[76.20839966086707,12.57347883738405],[76.211534866253,12.55830626505435],[76.22922824347222,12.56462827519827]]]},"properties":{"region_id":"village_618518","name":"LAKKIKUPPE","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

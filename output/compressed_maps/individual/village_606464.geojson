@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2465928463203,14.49952229650914],[76.25132356107395,14.51109653425499],[76.23808703980276,14.51080038510916],[76.2465928463203,14.49952229650914]]]},"properties":{"region_id":"village_606464","name":"SETTIGONDANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

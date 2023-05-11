@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3110243437413,12.51160455173268],[77.30130448557856,12.52189191253157],[77.29640760690937,12.50860277881903],[77.3110243437413,12.51160455173268]]]},"properties":{"region_id":"village_626503","name":"KAMBASAGARA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

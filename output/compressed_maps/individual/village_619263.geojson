@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70582081754735,12.04601375056334],[76.68874569655773,12.04099238534838],[76.68782453170503,12.02612777008383],[76.7056211387666,12.02129328208834],[76.70582081754735,12.04601375056334]]]},"properties":{"region_id":"village_619263","name":"KURAHATTI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

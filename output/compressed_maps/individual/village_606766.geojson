@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64883760296334,14.20457324552994],[75.621101350398,14.21018718871389],[75.60869257556027,14.19103535211481],[75.64608655041098,14.18194996257605],[75.64883760296334,14.20457324552994]]]},"properties":{"region_id":"village_606766","name":"ARABAGATTE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

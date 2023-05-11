@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09453318372186,13.47030180889182],[77.09616969957607,13.44980023500152],[77.10273956687969,13.4498208860954],[77.10870542874531,13.46656556758344],[77.09453318372186,13.47030180889182]]]},"properties":{"region_id":"village_611335","name":"KARIKERE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

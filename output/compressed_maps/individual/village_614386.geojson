@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88343385030566,12.60450944915413],[76.87619070548799,12.60430167966386],[76.88223235880471,12.58193239921133],[76.89160058335474,12.58766371597774],[76.88343385030566,12.60450944915413]]]},"properties":{"region_id":"village_614386","name":"JEEGUNDIPATNA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

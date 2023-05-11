@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47545855648495,18.13876264728554],[77.48682637464601,18.14055768961383],[77.49529800758278,18.16930289475061],[77.48696732458716,18.17072320074139],[77.47545855648495,18.13876264728554]]]},"properties":{"region_id":"village_600087","name":"NANDI NAGOOR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

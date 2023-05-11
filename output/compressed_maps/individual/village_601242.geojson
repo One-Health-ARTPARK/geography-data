@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11271149036659,15.71308073698719],[76.10888216200914,15.72822521493437],[76.07215986159176,15.71576241401637],[76.06992764705339,15.69660600008141],[76.11271149036659,15.71308073698719]]]},"properties":{"region_id":"village_601242","name":"CHIKBANNIGOL","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

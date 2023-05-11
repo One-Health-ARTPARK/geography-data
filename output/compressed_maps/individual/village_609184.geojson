@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82048952486684,13.77687386086848],[75.80957159296845,13.77347806897889],[75.8075276032038,13.72619415830399],[75.81844912177719,13.72752002562804],[75.81601317035991,13.75282292093226],[75.82048952486684,13.77687386086848]]]},"properties":{"region_id":"village_609184","name":"YEREHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

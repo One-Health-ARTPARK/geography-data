@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28902165252448,13.35849439472413],[77.29455217430039,13.36684750241789],[77.28514140843696,13.37034624568756],[77.2794908918943,13.36604547617101],[77.28902165252448,13.35849439472413]]]},"properties":{"region_id":"village_611225","name":"OMACHIHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81968915462424,13.60778372000843],[75.78540984892496,13.60861187478287],[75.80682743554937,13.58041203375815],[75.81968915462424,13.60778372000843]]]},"properties":{"region_id":"village_609333","name":"HULITHIMMAPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

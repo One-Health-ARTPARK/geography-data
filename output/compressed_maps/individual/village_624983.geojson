@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36182772656095,13.41516518600224],[77.34729311333336,13.41801508541185],[77.3426969263892,13.40266962427343],[77.36115018526459,13.402495432465],[77.36182772656095,13.41516518600224]]]},"properties":{"region_id":"village_624983","name":"MACHENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

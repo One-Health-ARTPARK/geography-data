@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48682131995176,16.26030423693724],[77.46998377271859,16.23995560238005],[77.49226333571339,16.2310886773923],[77.48682131995176,16.26030423693724]]]},"properties":{"region_id":"village_600774","name":"ARSIGERA","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

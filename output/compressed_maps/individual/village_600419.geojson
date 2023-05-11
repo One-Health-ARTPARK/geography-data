@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5450450398606,16.19118956651485],[76.52048279370783,16.19447572781026],[76.52040340050087,16.17438040734457],[76.56125309915625,16.17577953394196],[76.5450450398606,16.19118956651485]]]},"properties":{"region_id":"village_600419","name":"AIDANHAL","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

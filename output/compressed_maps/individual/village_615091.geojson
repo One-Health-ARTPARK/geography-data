@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77195077133622,13.11351383221254],[75.76158092158808,13.08761237741473],[75.78238140601148,13.08762275438854],[75.77195077133622,13.11351383221254]]]},"properties":{"region_id":"village_615091","name":"KOGODU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

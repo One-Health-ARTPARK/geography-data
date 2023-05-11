@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15660301315651,16.08642760428955],[76.1382935584164,16.07099222458455],[76.17096829235855,16.06610013976583],[76.17543091571014,16.08258730835765],[76.15660301315651,16.08642760428955]]]},"properties":{"region_id":"village_598979","name":"TURAMARI","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

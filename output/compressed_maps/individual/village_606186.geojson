@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71519070889408,13.8107681355248],[76.72756781197997,13.83620470589173],[76.70291842075142,13.84283111264991],[76.71519070889408,13.8107681355248]]]},"properties":{"region_id":"village_606186","name":"ANESIDRI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

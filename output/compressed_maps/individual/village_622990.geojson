@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.41508199293288,13.21186726515167],[78.40616644269288,13.21499217919364],[78.4054782812088,13.21113822842797],[78.41508199293288,13.21186726515167]]]},"properties":{"region_id":"village_622990","name":"KUSANDRA","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

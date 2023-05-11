@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03874864660264,15.38877337081686],[75.01724340948533,15.3885802923912],[75.02272341936035,15.36737555203492],[75.04333844614176,15.37209963049002],[75.03874864660264,15.38877337081686]]]},"properties":{"region_id":"village_602290","name":"ITIGATTI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

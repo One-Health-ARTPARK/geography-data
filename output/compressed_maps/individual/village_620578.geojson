@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4336972168142,16.9753122357734],[77.41971719571232,16.98285426730476],[77.40811348566827,16.97095755294795],[77.42536816886748,16.96231575262316],[77.4336972168142,16.9753122357734]]]},"properties":{"region_id":"village_620578","name":"KISHTAPUR","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

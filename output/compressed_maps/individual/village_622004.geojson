@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.17649841827921,13.14359438185207],[78.17025272820543,13.14479268319642],[78.17065614768006,13.13560779285223],[78.17893047679786,13.1367597918813],[78.17649841827921,13.14359438185207]]]},"properties":{"region_id":"village_622004","name":"MITTAKALLAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

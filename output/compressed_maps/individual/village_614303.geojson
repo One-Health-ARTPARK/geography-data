@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75306663475979,12.39437459190716],[76.71843929305632,12.39603145770907],[76.71927732601547,12.36554530724989],[76.74308189950334,12.36417410741576],[76.75306663475979,12.39437459190716]]]},"properties":{"region_id":"village_614303","name":"HEBBADI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59707284340256,17.53486997154796],[77.55592710344482,17.55538009852116],[77.54900192339298,17.51644099671975],[77.59707284340256,17.53486997154796]]]},"properties":{"region_id":"village_620361","name":"VENKATAPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

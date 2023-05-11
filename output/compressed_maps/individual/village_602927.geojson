@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66401805594123,14.86931721997841],[74.656115100679,14.86782731084879],[74.65201714484428,14.84961302057178],[74.657720073907,14.85002696115279],[74.66401805594123,14.86931721997841]]]},"properties":{"region_id":"village_602927","name":"DABAGULI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

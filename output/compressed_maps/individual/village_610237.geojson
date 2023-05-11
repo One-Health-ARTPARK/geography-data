@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58386613079333,13.37829923794993],[76.57883655965107,13.38579691650629],[76.56764010651321,13.3861757307629],[76.57484731165837,13.37615438895701],[76.58386613079333,13.37829923794993]]]},"properties":{"region_id":"village_610237","name":"VADERAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.219909171933,13.04772941422461],[77.22074301591319,13.05618422354005],[77.20076170354265,13.0508738081329],[77.21433349103683,13.03722616261133],[77.219909171933,13.04772941422461]]]},"properties":{"region_id":"village_625853","name":"VAJARAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

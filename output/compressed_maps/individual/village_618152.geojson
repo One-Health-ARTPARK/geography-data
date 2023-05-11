@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09933185661951,12.50387217502338],[76.08263579770534,12.50660313906437],[76.07803969935037,12.48160737251866],[76.10001709851346,12.48762281051138],[76.09933185661951,12.50387217502338]]]},"properties":{"region_id":"village_618152","name":"GORAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

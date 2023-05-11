@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67123869995088,13.7134667274774],[75.65896101884366,13.71117564624388],[75.66060527702706,13.70348054628675],[75.67109039260058,13.70603836565368],[75.67123869995088,13.7134667274774]]]},"properties":{"region_id":"village_609113","name":"MALIKOPPA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

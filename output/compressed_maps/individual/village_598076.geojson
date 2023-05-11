@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71002951023874,15.70528181603805],[74.7005947488554,15.70344175495919],[74.69255184438178,15.69179890363947],[74.70273776384488,15.67951087524729],[74.71730066691735,15.68255782013397],[74.71002951023874,15.70528181603805]]]},"properties":{"region_id":"village_598076","name":"DASTIKOPPA","parent":"subdistrict_7043","parent_name":"KITTUR"}}
+]}

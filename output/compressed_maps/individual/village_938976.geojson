@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92126430890485,12.73447367816754],[75.9205839735399,12.74076250632526],[75.91193234564643,12.73876029975955],[75.91367262284784,12.73441495255601],[75.92126430890485,12.73447367816754]]]},"properties":{"region_id":"village_938976","name":"BEEKALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

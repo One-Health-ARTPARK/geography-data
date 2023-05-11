@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98117951960882,12.71968749016409],[76.96145520405486,12.71963731833711],[76.96329997208265,12.71154831533672],[76.98117951960882,12.71968749016409]]]},"properties":{"region_id":"village_614508","name":"T.BALLEKERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

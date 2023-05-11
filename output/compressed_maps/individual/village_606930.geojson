@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89602283879914,14.22812848256843],[75.88781962144455,14.20579409665771],[75.89698459099917,14.20372826356633],[75.89602283879914,14.22812848256843]]]},"properties":{"region_id":"village_606930","name":"RAMPURA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

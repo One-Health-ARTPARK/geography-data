@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34312868582177,13.8891906306314],[76.32158251035003,13.86956950279798],[76.3022145790943,13.87780705896643],[76.31401346821839,13.83609355177875],[76.33671307238953,13.83517327604746],[76.34312868582177,13.8891906306314]]]},"properties":{"region_id":"village_605932","name":"DEVAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

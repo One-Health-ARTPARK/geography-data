@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2291177269269,15.67843727119072],[76.2035708914272,15.65066665817095],[76.23304197734868,15.64930518367595],[76.2291177269269,15.67843727119072]]]},"properties":{"region_id":"village_601281","name":"MATALDINNI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

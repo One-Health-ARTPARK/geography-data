@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96735518488133,13.28250443393127],[77.95748445621872,13.28146195173372],[77.96117486294378,13.26949960687468],[77.9668950629877,13.27378626884933],[77.96735518488133,13.28250443393127]]]},"properties":{"region_id":"village_621736","name":"PADIGANAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

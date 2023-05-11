@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5780509997277,12.90538699973377],[77.57329799991732,12.90648400022049],[77.57467199983797,12.89479800011877],[77.58342600013476,12.89873300019192],[77.5780509997277,12.90538699973377]]]},"properties":{"region_id":"ward_bbmp186","name":"WARD NO.186 (JARAGANAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

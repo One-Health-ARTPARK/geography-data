@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01547407759239,12.44345402983899],[76.99826541768122,12.44215373467682],[77.00055190610789,12.43095962946133],[77.01351306931305,12.42903225771487],[77.01547407759239,12.44345402983899]]]},"properties":{"region_id":"village_614663","name":"DEVIPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

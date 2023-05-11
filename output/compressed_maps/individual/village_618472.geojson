@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46681963340498,12.32274335150567],[76.43291263029877,12.31253594651655],[76.43544146593928,12.2977569300141],[76.45445739507834,12.29861672790741],[76.46681963340498,12.32274335150567]]]},"properties":{"region_id":"village_618472","name":"DALLALU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

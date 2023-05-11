@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7077350698698,16.2121956784369],[76.70953815951158,16.23067356819733],[76.70084095191193,16.23692953797405],[76.69519844637803,16.21193265273951],[76.7077350698698,16.2121956784369]]]},"properties":{"region_id":"village_600477","name":"TAWAG","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

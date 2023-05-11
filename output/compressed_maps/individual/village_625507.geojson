@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81958449330533,13.17622052296693],[77.81076044352878,13.17812971376567],[77.8148237702391,13.15767394211318],[77.81958449330533,13.17622052296693]]]},"properties":{"region_id":"village_625507","name":"GIDDAPPANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

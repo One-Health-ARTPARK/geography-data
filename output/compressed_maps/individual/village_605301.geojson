@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8434861395355,14.28433155820826],[76.84516688519669,14.30425058115092],[76.82260026751538,14.29826927254654],[76.82248724393543,14.28123799112583],[76.8434861395355,14.28433155820826]]]},"properties":{"region_id":"village_605301","name":"THIMMANNANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

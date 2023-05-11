@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73841172212379,17.01933420521742],[75.69127475403397,16.97044165354943],[75.74658319345936,16.95933316333544],[75.73841172212379,17.01933420521742]]]},"properties":{"region_id":"village_599065","name":"MAKANAPUR","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

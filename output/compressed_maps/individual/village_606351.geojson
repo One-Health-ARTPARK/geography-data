@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93618849431952,14.59130828676809],[75.89150804384718,14.62495556571059],[75.8943592435535,14.57902679340814],[75.93618849431952,14.59130828676809]]]},"properties":{"region_id":"village_606351","name":"RAGIMASALAWADA","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

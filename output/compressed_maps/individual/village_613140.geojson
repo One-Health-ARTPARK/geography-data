@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61364477461294,12.79219631217537],[77.5998462253236,12.7964301102083],[77.59523940075539,12.77990066925254],[77.61364477461294,12.79219631217537]]]},"properties":{"region_id":"village_613140","name":"BEGIHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

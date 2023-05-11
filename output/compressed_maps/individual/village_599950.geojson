@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39551720038773,18.01754942572415],[77.38578751827507,18.02320135155773],[77.38314722099875,18.00732429606885],[77.38928698792486,18.00668688540088],[77.39551720038773,18.01754942572415]]]},"properties":{"region_id":"village_599950","name":"ALLABAD","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

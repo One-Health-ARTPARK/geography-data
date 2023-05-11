@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36064606200044,16.10154990145649],[76.37245701923257,16.10250684237172],[76.37253552403502,16.12422611910731],[76.3621596365341,16.1294371768786],[76.36064606200044,16.10154990145649]]]},"properties":{"region_id":"village_600412","name":"HANUMANGUDDA(HOSUR)","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

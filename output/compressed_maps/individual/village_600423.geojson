@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46381775411349,16.16290447335913],[76.46070252424701,16.14057701243988],[76.48406340435538,16.13785446214903],[76.48647980028834,16.15947894208469],[76.46381775411349,16.16290447335913]]]},"properties":{"region_id":"village_600423","name":"ADAVIBHAVI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

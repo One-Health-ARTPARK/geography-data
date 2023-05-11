@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.07661938630761,13.36758787513703],[78.08745241850538,13.34102745007829],[78.09608551306738,13.36576744265671],[78.07661938630761,13.36758787513703]]]},"properties":{"region_id":"village_624668","name":"HADIGERE","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

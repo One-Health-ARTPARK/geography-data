@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.08456333207127,13.30185631735932],[78.07958925325528,13.30272190933756],[78.07759975520784,13.29540938667278],[78.08536106717511,13.29379145081907],[78.08456333207127,13.30185631735932]]]},"properties":{"region_id":"village_621894","name":"SETTIVARAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

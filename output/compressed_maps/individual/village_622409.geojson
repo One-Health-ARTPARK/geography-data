@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.10223453793701,12.98290488830942],[78.10249780031067,12.99198040531585],[78.09553077868745,12.9923880836281],[78.09454972629234,12.97808648066532],[78.10223453793701,12.98290488830942]]]},"properties":{"region_id":"village_622409","name":"MITTIGANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0976042023431,13.47013521897135],[77.0962431816438,13.48027950110624],[77.08194174535889,13.47849036232664],[77.08290073021352,13.46969424224068],[77.0976042023431,13.47013521897135]]]},"properties":{"region_id":"village_611333","name":"KALLASETTIGUNTE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23452414007468,13.00858837987162],[76.22293184009625,13.00831063156139],[76.22650717073564,12.99478763726979],[76.23243006910144,12.9930730240436],[76.23452414007468,13.00858837987162]]]},"properties":{"region_id":"village_615972","name":"BANDIHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

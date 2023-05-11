@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94811435835342,13.30991917095515],[75.92102153247207,13.29745592686275],[75.94509558571893,13.28640991181117],[75.94811435835342,13.30991917095515]]]},"properties":{"region_id":"village_609795","name":"MALLAMMANAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

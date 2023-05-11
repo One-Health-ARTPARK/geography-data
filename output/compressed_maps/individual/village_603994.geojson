@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38921414134927,14.94721919455291],[75.3739603419114,14.92906171198034],[75.40221660440086,14.92807537611548],[75.38921414134927,14.94721919455291]]]},"properties":{"region_id":"village_603994","name":"TALLIHALLI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

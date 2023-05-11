@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94259340678255,12.23206842283768],[75.93126729330453,12.21066256100938],[75.94617437933607,12.20607850176388],[75.94259340678255,12.23206842283768]]]},"properties":{"region_id":"village_939078","name":"NALLAGOTE","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

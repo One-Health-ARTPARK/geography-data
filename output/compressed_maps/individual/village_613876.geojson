@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68844675719939,12.83553278137231],[76.65853122125941,12.84061214805318],[76.6620081172325,12.8071332585268],[76.68045880117425,12.80521063571792],[76.68844675719939,12.83553278137231]]]},"properties":{"region_id":"village_613876","name":"P. NERALAKERE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

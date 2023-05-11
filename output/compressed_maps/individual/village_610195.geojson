@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57783531902672,13.43309898236258],[76.58442405728627,13.44373406259935],[76.57657972741046,13.45000843938432],[76.57024491631837,13.44251188991946],[76.57783531902672,13.43309898236258]]]},"properties":{"region_id":"village_610195","name":"PINNENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

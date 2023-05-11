@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.67199231251352,15.56750406589704],[74.6636748775185,15.56631699734788],[74.66654463850494,15.55905419247806],[74.67199231251352,15.56750406589704]]]},"properties":{"region_id":"village_598001","name":"ADI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

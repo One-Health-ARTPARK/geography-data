@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8677864911854,12.66032281603676],[75.85511631232166,12.65682620419977],[75.86054903504512,12.64608114281806],[75.86881517478771,12.64545416035408],[75.8677864911854,12.66032281603676]]]},"properties":{"region_id":"village_617901","name":"SUNTI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

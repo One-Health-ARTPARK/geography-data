@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96788500942128,12.53301465538712],[75.95583264344816,12.53140140203915],[75.95947203002962,12.52219697766444],[75.97161791060522,12.52536406044157],[75.96788500942128,12.53301465538712]]]},"properties":{"region_id":"village_617976","name":"MARUR","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

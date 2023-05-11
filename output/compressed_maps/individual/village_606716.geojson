@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47107085019609,14.13527869360179],[75.47397775008102,14.1548048736223],[75.46213915709227,14.17259848430328],[75.45821682795152,14.14380408178787],[75.47107085019609,14.13527869360179]]]},"properties":{"region_id":"village_606716","name":"SIDDAPURA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

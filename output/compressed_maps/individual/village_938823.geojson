@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77577418796913,15.31873052070403],[74.77761353052493,15.32908058661944],[74.76559166672355,15.3304398549097],[74.7664699036002,15.32374883881606],[74.77577418796913,15.31873052070403]]]},"properties":{"region_id":"village_938823","name":"GUDDAPURA","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

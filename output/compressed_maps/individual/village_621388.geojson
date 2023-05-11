@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27719336886425,16.58759922887121],[77.2538619873231,16.56480864444442],[77.2708997687895,16.55794651001823],[77.27719336886425,16.58759922887121]]]},"properties":{"region_id":"village_621388","name":"SAIDAPUR (CT)","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

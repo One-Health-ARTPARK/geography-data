@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91021988629419,14.68206182840016],[74.90182873283626,14.68474412318874],[74.89670483242448,14.66917589148909],[74.92124446888768,14.67150870815894],[74.91021988629419,14.68206182840016]]]},"properties":{"region_id":"village_603207","name":"SANNAKERI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2586544922845,12.29006646295741],[76.2666055809786,12.28492804584663],[76.27062856981013,12.29461734438726],[76.25489736220995,12.29683778854381],[76.2586544922845,12.29006646295741]]]},"properties":{"region_id":"village_618349","name":"RAMENAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

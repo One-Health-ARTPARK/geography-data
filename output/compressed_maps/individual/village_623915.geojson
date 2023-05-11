@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98472741105687,13.63401774320778],[77.97146836853403,13.6364269809325],[77.97553554260868,13.62497169364503],[77.98472741105687,13.63401774320778]]]},"properties":{"region_id":"village_623915","name":"BOMMASANDRA","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

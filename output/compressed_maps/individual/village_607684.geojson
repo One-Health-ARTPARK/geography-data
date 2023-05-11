@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2625640987372,14.47740999395003],[75.26970874172765,14.48075132930291],[75.26515965846323,14.48474479498768],[75.2625640987372,14.47740999395003]]]},"properties":{"region_id":"village_607684","name":"BANDALIKE","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

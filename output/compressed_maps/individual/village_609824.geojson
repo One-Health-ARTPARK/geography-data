@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69009997711053,13.28441076156635],[75.69107216853095,13.28902151508626],[75.67203886837592,13.28516340267998],[75.67809972192423,13.27941763370663],[75.69009997711053,13.28441076156635]]]},"properties":{"region_id":"village_609824","name":"KODUVALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

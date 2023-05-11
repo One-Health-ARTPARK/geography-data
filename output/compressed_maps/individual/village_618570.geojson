@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35127804595186,12.58145910527118],[76.33393708578323,12.58176131933885],[76.34357395632343,12.56917373274776],[76.35127804595186,12.58145910527118]]]},"properties":{"region_id":"village_618570","name":"BATTIGANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3197779000986,15.99528588670922],[77.27813201913796,15.99976448945037],[77.27523233091868,15.98702180801857],[77.31365147535278,15.97417356892662],[77.3197779000986,15.99528588670922]]]},"properties":{"region_id":"village_600861","name":"GATBICHAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

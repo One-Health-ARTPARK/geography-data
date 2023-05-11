@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99744932520774,15.31325932204372],[75.00366008097609,15.32704795131274],[74.99068718609507,15.32820441243237],[74.9871869973322,15.31537368371756],[74.99744932520774,15.31325932204372]]]},"properties":{"region_id":"village_602439","name":"JAMMIHAL","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73392387440637,14.70231791980943],[76.69260169728781,14.69506346415731],[76.69641350326712,14.67595967186446],[76.72866669224088,14.68206288816764],[76.73392387440637,14.70231791980943]]]},"properties":{"region_id":"village_605208","name":"GUNDLURU","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

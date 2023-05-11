@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23550168396386,14.35451288380555],[75.22068169136158,14.35534555225836],[75.23010309512549,14.33434884221668],[75.24318567663454,14.34667601338294],[75.23550168396386,14.35451288380555]]]},"properties":{"region_id":"village_607663","name":"HIREKASAVI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

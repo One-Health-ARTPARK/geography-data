@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7668771284944,13.7358393727195],[75.74871840469237,13.73845238390529],[75.75130144873818,13.72302697440126],[75.77043315591418,13.72416670860371],[75.7668771284944,13.7358393727195]]]},"properties":{"region_id":"village_609141","name":"HIREKATHUR","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

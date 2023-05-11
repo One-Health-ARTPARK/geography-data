@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75810415529132,14.01900416815035],[75.745349265629,14.02525575125762],[75.74674221884423,14.01263083163438],[75.75810415529132,14.01900416815035]]]},"properties":{"region_id":"village_608532","name":"KALLAJJANALU","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

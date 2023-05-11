@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.67700710048267,15.99802028523669],[74.6762872558861,15.94730808799309],[74.71940072672545,15.96637709164989],[74.71287096310895,15.98997655174824],[74.67700710048267,15.99802028523669]]]},"properties":{"region_id":"village_597498","name":"SULADHAL","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

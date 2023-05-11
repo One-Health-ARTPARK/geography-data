@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74103869128285,13.46470868533229],[74.72840861359511,13.45860956773381],[74.73974277484604,13.44112734254473],[74.74861971199188,13.44606397013363],[74.74166363422187,13.45433949260009],[74.74103869128285,13.46470868533229]]]},"properties":{"region_id":"village_608789","name":"HANDADY","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

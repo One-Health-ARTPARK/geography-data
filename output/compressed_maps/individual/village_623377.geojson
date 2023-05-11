@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53372727490692,13.52509140730772],[77.52362394052706,13.51727419059599],[77.54298498517734,13.51217831762191],[77.54408828776624,13.52057945299034],[77.53372727490692,13.52509140730772]]]},"properties":{"region_id":"village_623377","name":"CHARAKAMITTENEHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

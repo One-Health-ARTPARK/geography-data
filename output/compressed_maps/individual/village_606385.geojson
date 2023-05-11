@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29036840653656,14.68550537982777],[76.27660728905019,14.67181237404622],[76.28967137517701,14.66200422532489],[76.29036840653656,14.68550537982777]]]},"properties":{"region_id":"village_606385","name":"GOPALAPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

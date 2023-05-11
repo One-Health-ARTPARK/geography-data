@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86843067923967,16.08223598566924],[75.87810891320483,16.11751776119417],[75.8457008298463,16.13588922519925],[75.83645757846826,16.10051565331003],[75.86843067923967,16.08223598566924]]]},"properties":{"region_id":"village_599026","name":"KAMATGI (CT)","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

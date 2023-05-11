@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.49322883625923,14.29076262714287],[74.48403139226913,14.29041098276763],[74.47943609189055,14.28237390341611],[74.49197629186708,14.28017592810219],[74.49322883625923,14.29076262714287]]]},"properties":{"region_id":"village_603786","name":"NAGRE","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88992225062789,13.73373372738427],[77.87684614550453,13.71160433619307],[77.90723934334086,13.71634190831429],[77.88992225062789,13.73373372738427]]]},"properties":{"region_id":"village_623890","name":"BOORAGAMADAGU","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

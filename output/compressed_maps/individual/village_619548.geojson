@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8414249923639,11.71018054699909],[76.85055446442436,11.72093907667074],[76.84939256809987,11.73603196022457],[76.83997906104736,11.73425674308013],[76.8414249923639,11.71018054699909]]]},"properties":{"region_id":"village_619548","name":"RAMAIAHNAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

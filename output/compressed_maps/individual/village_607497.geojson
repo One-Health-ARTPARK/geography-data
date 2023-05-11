@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1948601498485,14.47218609291991],[75.17738463849004,14.46838844214828],[75.17575933843439,14.4530721959103],[75.19496651815473,14.44820288966988],[75.1948601498485,14.47218609291991]]]},"properties":{"region_id":"village_607497","name":"GUDUGINAKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

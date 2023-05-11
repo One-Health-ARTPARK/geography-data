@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23169315313042,13.55844017541182],[77.23060491970504,13.5704326722231],[77.21500783743198,13.57079303405752],[77.21654709430071,13.55604767814053],[77.23169315313042,13.55844017541182]]]},"properties":{"region_id":"village_611062","name":"BIRADENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13519402394427,14.72105096656098],[75.1136139344303,14.71611282914108],[75.12584367201029,14.70145532176259],[75.13519402394427,14.72105096656098]]]},"properties":{"region_id":"village_604118","name":"GADIYANKANAHALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

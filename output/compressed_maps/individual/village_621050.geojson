@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73698143082181,16.49062060497139],[76.75079061002833,16.53014498986796],[76.70907050802774,16.5393770470193],[76.70415254068664,16.48631742264445],[76.73698143082181,16.49062060497139]]]},"properties":{"region_id":"village_621050","name":"TALWARGERA","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

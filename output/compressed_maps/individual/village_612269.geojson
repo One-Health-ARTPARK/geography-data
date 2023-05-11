@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80332649618285,13.25769684622569],[76.79696116016494,13.23614489406055],[76.80880998472514,13.23658962107569],[76.80332649618285,13.25769684622569]]]},"properties":{"region_id":"village_612269","name":"ANGAREKHANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

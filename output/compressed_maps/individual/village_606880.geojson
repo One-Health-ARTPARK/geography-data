@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80235196710657,14.1187331241596],[75.76853895382426,14.11918128662247],[75.76812368375012,14.1014610522518],[75.804048878157,14.09981323942433],[75.80235196710657,14.1187331241596]]]},"properties":{"region_id":"village_606880","name":"THYAGADAKATTE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17748051450059,12.6077025985375],[76.17079602320432,12.61595329726444],[76.14750114162862,12.61078365697291],[76.16439634331464,12.5954180737096],[76.17748051450059,12.6077025985375]]]},"properties":{"region_id":"village_616773","name":"KALENAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

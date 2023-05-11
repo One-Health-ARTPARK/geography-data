@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24346592821001,14.37514656930173],[75.23708651505977,14.35319349350085],[75.26213808234479,14.35418855347901],[75.24346592821001,14.37514656930173]]]},"properties":{"region_id":"village_607739","name":"THADAGANI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

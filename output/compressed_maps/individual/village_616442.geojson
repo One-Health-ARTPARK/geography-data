@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98032038121605,12.85951874672419],[75.97131906387898,12.85642420314178],[75.97887856962053,12.84659787221497],[75.98032038121605,12.85951874672419]]]},"properties":{"region_id":"village_616442","name":"SANENAHALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77010352149966,12.49138580174762],[75.75452112816674,12.47737410480136],[75.77338786634972,12.47144018800454],[75.77010352149966,12.49138580174762]]]},"properties":{"region_id":"village_923912","name":"HEMMETHALU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

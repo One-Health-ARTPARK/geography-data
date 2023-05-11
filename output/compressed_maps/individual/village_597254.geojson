@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98939427335718,16.90985117416756],[74.96395800705497,16.91115095099254],[74.96028204666749,16.88100836543587],[74.99346037755275,16.88955889591356],[74.98939427335718,16.90985117416756]]]},"properties":{"region_id":"village_597254","name":"SHIRUR","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

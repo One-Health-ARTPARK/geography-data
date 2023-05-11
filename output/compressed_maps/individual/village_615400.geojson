@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88633740825831,13.0844874121862],[75.87784761519859,13.08114967098562],[75.88513079633458,13.07101001061318],[75.8889374041951,13.07359506138268],[75.88633740825831,13.0844874121862]]]},"properties":{"region_id":"village_615400","name":"NIDUMANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

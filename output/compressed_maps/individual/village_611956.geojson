@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95586425210077,13.12640037617391],[76.94773869790485,13.13666139601723],[76.92936037985965,13.13522400542728],[76.9244096695447,13.12276315057578],[76.95586425210077,13.12640037617391]]]},"properties":{"region_id":"village_611956","name":"BORAPPANAPALYA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

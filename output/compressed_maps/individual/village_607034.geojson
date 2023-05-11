@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8978717256142,14.03633566457516],[75.8976371579989,14.04876560209619],[75.87349894636384,14.04570823020937],[75.88662431481447,14.03571954331525],[75.8978717256142,14.03633566457516]]]},"properties":{"region_id":"village_607034","name":"MUDIGERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

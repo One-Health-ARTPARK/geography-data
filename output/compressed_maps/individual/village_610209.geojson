@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67062292182644,13.44131303390696],[76.66357173777907,13.44522286934499],[76.63043391999447,13.43197745219811],[76.65384501880106,13.42456137925124],[76.67062292182644,13.44131303390696]]]},"properties":{"region_id":"village_610209","name":"HOSAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

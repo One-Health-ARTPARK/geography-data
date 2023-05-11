@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52103530781767,13.30092435692648],[77.51658461409595,13.30902176345172],[77.50446002198197,13.30220072136025],[77.51572486067528,13.29578224258562],[77.52103530781767,13.30092435692648]]]},"properties":{"region_id":"village_625112","name":"KODIGEHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

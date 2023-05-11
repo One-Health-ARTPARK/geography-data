@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20022084223667,16.57342454137055],[77.16835905528096,16.57819925891708],[77.17578838709633,16.55011532764459],[77.20022084223667,16.57342454137055]]]},"properties":{"region_id":"village_621363","name":"ANUR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

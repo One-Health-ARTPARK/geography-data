@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34154025143903,13.99746939729734],[76.32603005479837,13.99933528275006],[76.32503009502466,13.98633499248957],[76.3615788931662,13.98635634635252],[76.34154025143903,13.99746939729734]]]},"properties":{"region_id":"village_605812","name":"BUDIPURA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

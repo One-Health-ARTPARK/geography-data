@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16994447565492,12.51546773419981],[76.16068228301515,12.50377684328497],[76.17334806442146,12.49234218506408],[76.17725909820751,12.51433682533863],[76.16994447565492,12.51546773419981]]]},"properties":{"region_id":"village_618161","name":"MELUR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

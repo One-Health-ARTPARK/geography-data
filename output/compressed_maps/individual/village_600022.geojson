@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36322235856139,18.19857935792978],[77.33465215354735,18.20742819416718],[77.32480310444227,18.19191481614168],[77.34190184544,18.17842284419683],[77.36322235856139,18.19857935792978]]]},"properties":{"region_id":"village_600022","name":"K0REKAL","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41503347795947,13.74484834926807],[77.37264983121459,13.73659995447884],[77.37368734389676,13.71791562689172],[77.40951082393,13.71651184901286],[77.41503347795947,13.74484834926807]]]},"properties":{"region_id":"village_610923","name":"KODIGENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

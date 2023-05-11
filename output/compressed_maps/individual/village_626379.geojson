@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4531100935166,12.64156470820632],[77.43662992124318,12.64628824756787],[77.44254163593433,12.63033905665222],[77.4531100935166,12.64156470820632]]]},"properties":{"region_id":"village_626379","name":"JAKKASANDRA","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

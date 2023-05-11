@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.41465995464297,12.98454647685504],[78.39171185134786,12.98309179947271],[78.39184834509277,12.97497214744799],[78.40735132887207,12.97606912972411],[78.41465995464297,12.98454647685504]]]},"properties":{"region_id":"village_622790","name":"PAPENAHALLI","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

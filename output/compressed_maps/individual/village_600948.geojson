@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87214291576781,16.18773856438505],[76.84591747954552,16.16052073261218],[76.87347256815198,16.16340398604801],[76.87214291576781,16.18773856438505]]]},"properties":{"region_id":"village_600948","name":"BULLAPUR","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

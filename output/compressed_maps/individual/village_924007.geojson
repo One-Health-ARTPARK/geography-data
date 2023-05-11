@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91279673297097,12.3869577761511],[75.90323903962175,12.38750944000144],[75.90524257545445,12.3739219517959],[75.9115198585348,12.37813998305539],[75.91279673297097,12.3869577761511]]]},"properties":{"region_id":"village_924007","name":"HOSAPATNA","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

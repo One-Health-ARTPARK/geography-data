@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27642676276145,16.52376609933003],[77.25077292020849,16.4756537326646],[77.29432143196757,16.4768589117148],[77.27642676276145,16.52376609933003]]]},"properties":{"region_id":"village_621383","name":"BADIYAL","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

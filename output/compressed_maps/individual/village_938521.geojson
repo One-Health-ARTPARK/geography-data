@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5749575204771,13.10994460228513],[77.57005351762112,13.10522536571301],[77.56938063118626,13.09379395225401],[77.5739026497432,13.09854748874292],[77.5749575204771,13.10994460228513]]]},"properties":{"region_id":"village_938521","name":"MANDALAKUNTE","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03504158241434,17.02101743717749],[77.00212837627747,17.04019111408816],[76.97386861099635,17.01192148724843],[77.00908923273633,16.99469074141609],[77.03504158241434,17.02101743717749]]]},"properties":{"region_id":"village_620682","name":"HALKATTA","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

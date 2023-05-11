@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45081308896549,14.43965155935314],[75.42895538264973,14.43929279582062],[75.4293949014986,14.42187198472474],[75.44775872924811,14.42276176582917],[75.45081308896549,14.43965155935314]]]},"properties":{"region_id":"village_604440","name":"INGALAGONDI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3155248698682,12.29455906764638],[76.34600641800199,12.26841496580295],[76.37442940696486,12.28410782748114],[76.35747886867156,12.29870406033236],[76.3412559491029,12.2863944801767],[76.3155248698682,12.29455906764638]]]},"properties":{"region_id":"village_618431","name":"UDDURU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

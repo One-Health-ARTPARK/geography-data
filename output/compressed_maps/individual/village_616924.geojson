@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28849328629558,12.77423601486815],[76.27767489836084,12.7883050891735],[76.26077080354881,12.77335400939628],[76.27206502571465,12.76570244593464],[76.28849328629558,12.77423601486815]]]},"properties":{"region_id":"village_616924","name":"MALLAPPANAHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

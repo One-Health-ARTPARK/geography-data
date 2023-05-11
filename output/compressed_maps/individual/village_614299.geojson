@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78158662382332,12.35216977653568],[76.79107339212744,12.34724764049559],[76.79652259375031,12.35582999118765],[76.78755054885332,12.35944684014374],[76.78158662382332,12.35216977653568]]]},"properties":{"region_id":"village_614299","name":"BIDARAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

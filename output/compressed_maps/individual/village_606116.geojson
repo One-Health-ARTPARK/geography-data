@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.723099251258,14.03073680384495],[76.69156703088714,14.03211787833899],[76.68993034140078,14.01100653405822],[76.72046490677181,14.01820512437773],[76.723099251258,14.03073680384495]]]},"properties":{"region_id":"village_606116","name":"BYADARAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

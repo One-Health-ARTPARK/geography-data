@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16366554085556,14.17626850438629],[75.1433341937343,14.18355658323408],[75.14010092462344,14.1691152225229],[75.15530863320896,14.15896954465181],[75.16366554085556,14.17626850438629]]]},"properties":{"region_id":"village_607231","name":"NEECHADI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

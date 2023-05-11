@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47372207252756,13.0396123522934],[77.46039798778075,13.04537192198122],[77.44731092512498,13.02583733021925],[77.47164788613104,13.02897436162045],[77.47372207252756,13.0396123522934]]]},"properties":{"region_id":"village_612804","name":"LAKSHMIPURA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

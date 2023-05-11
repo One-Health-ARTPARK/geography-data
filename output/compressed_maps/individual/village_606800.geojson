@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78613395223012,14.31213463633608],[75.75719322511704,14.29359312471932],[75.78457849576846,14.29761371851311],[75.78613395223012,14.31213463633608]]]},"properties":{"region_id":"village_606800","name":"YAKKANAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

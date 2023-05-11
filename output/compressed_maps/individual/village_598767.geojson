@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78021315055577,15.853216838086],[75.75321819277677,15.86596700980038],[75.74725292275517,15.81583078962655],[75.77967719128257,15.81733016584086],[75.78021315055577,15.853216838086]]]},"properties":{"region_id":"village_598767","name":"JALIHAL","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

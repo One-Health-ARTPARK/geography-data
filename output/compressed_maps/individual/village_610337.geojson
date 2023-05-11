@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90322124688957,13.83234823428168],[76.88009840871632,13.8271686444465],[76.87497802763923,13.80758323327013],[76.89871126059747,13.81249636540246],[76.90322124688957,13.83234823428168]]]},"properties":{"region_id":"village_610337","name":"BANDAKUNTE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

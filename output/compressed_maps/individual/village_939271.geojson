@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87756824088432,12.80315135316241],[75.87506123274714,12.80827073421341],[75.86506384295633,12.80328167867977],[75.86554260698475,12.79927340742806],[75.87756824088432,12.80315135316241]]]},"properties":{"region_id":"village_939271","name":"HOSAHALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

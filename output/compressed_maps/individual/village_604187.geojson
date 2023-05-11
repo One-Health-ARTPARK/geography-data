@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21828841003641,14.59725136405176],[75.20255912275462,14.59704718876985],[75.19746805730824,14.57750944532055],[75.22038608598099,14.58064999853781],[75.21828841003641,14.59725136405176]]]},"properties":{"region_id":"village_604187","name":"HULAGADDI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

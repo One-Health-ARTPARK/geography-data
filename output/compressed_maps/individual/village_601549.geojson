@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3581497841368,15.66524039994365],[76.32506044588776,15.66406041670648],[76.33998707060192,15.64516810506586],[76.3581497841368,15.66524039994365]]]},"properties":{"region_id":"village_601549","name":"HOMMINHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

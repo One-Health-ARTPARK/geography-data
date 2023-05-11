@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73213971165202,17.03315310671744],[76.70443234033121,17.05067127266212],[76.70313086928586,17.02055066173113],[76.73213971165202,17.03315310671744]]]},"properties":{"region_id":"village_620762","name":"JANIWAR","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

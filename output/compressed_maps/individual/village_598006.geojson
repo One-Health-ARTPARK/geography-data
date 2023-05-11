@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68051431775406,15.47728992926616],[74.67404809283106,15.49057559848801],[74.65576156130321,15.47688407765196],[74.66168375040567,15.46463866573026],[74.68051431775406,15.47728992926616]]]},"properties":{"region_id":"village_598006","name":"MASKENAHATTI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

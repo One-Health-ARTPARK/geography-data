@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33926537463333,13.33424702894944],[77.33257535137506,13.33614695923968],[77.33041728423946,13.32946671077199],[77.33851468858117,13.3288354867662],[77.33926537463333,13.33424702894944]]]},"properties":{"region_id":"village_611239","name":"CHALLALU","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

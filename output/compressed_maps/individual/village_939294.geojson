@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63701477645236,12.28322888908806],[76.63500164309465,12.29968382974693],[76.62755349397462,12.30021172569185],[76.62084528990358,12.2963643596092],[76.62394430398315,12.27541447241031],[76.63701477645236,12.28322888908806]]]},"properties":{"region_id":"village_939294","name":"MALALAWADI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

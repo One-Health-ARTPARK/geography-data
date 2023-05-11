@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0653945646034,13.48308580321637],[77.05706924531309,13.47519258356386],[77.06980071507297,13.47485185520232],[77.0653945646034,13.48308580321637]]]},"properties":{"region_id":"village_611329","name":"BURADAGHATTA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

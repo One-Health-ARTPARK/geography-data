@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15676657105983,12.78080000084734],[75.14921130871312,12.78787278207379],[75.13655614509443,12.77426805088848],[75.14592056766651,12.76939482605685],[75.15676657105983,12.78080000084734]]]},"properties":{"region_id":"village_617593","name":"KULA","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

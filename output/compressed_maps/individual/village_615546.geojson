@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35197384304755,13.33333937888102],[76.33590716967493,13.33035392529885],[76.33482485318925,13.32497353767297],[76.351985350485,13.32765823200213],[76.35197384304755,13.33333937888102]]]},"properties":{"region_id":"village_615546","name":"KENCHANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

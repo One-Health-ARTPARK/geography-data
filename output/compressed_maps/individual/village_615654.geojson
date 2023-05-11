@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14913131762384,13.44369997042175],[76.15791048543186,13.45888868846387],[76.1514145439783,13.45796326414835],[76.14682997906154,13.44822022772233],[76.14913131762384,13.44369997042175]]]},"properties":{"region_id":"village_615654","name":"BASAVANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

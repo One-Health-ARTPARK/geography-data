@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86824128363531,13.13184304345492],[76.85861499399431,13.12757725952048],[76.86597866825676,13.12202564874382],[76.86824128363531,13.13184304345492]]]},"properties":{"region_id":"village_611944","name":"CHIKKAYADIYUR","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

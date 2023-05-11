@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38981016921092,12.18478910460511],[76.38583832495341,12.1612521917166],[76.40316400590207,12.16587105414698],[76.38981016921092,12.18478910460511]]]},"properties":{"region_id":"village_618495","name":"THARIKALNALA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

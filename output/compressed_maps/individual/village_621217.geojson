@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22061635965838,16.45607278712311],[77.20430406586891,16.43013394267347],[77.22476524195802,16.4213747064451],[77.22061635965838,16.45607278712311]]]},"properties":{"region_id":"village_621217","name":"GONAL","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

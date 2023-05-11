@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2418956801235,12.96180382325415],[76.22788970601634,12.96311001614289],[76.22549833357004,12.94265597708301],[76.24397687048199,12.94315303030057],[76.2418956801235,12.96180382325415]]]},"properties":{"region_id":"village_616216","name":"HOLALU","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

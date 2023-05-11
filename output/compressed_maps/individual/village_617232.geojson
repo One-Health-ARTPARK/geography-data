@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4550924529212,12.90494408318722],[76.43966304450215,12.90356143826941],[76.44442666861653,12.88785459042281],[76.45220601236599,12.88524243982052],[76.4550924529212,12.90494408318722]]]},"properties":{"region_id":"village_617232","name":"BEDIGANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

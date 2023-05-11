@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94775216510935,12.6244480969848],[75.93861605384116,12.61964618682163],[75.94713245693318,12.61358780983586],[75.94775216510935,12.6244480969848]]]},"properties":{"region_id":"village_923954","name":"BUVANGALA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

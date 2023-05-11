@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77912655644084,12.68829720385915],[75.78586253961132,12.70526379495877],[75.76848541650146,12.70894120958815],[75.76354297930138,12.69950057231694],[75.77912655644084,12.68829720385915]]]},"properties":{"region_id":"village_615037","name":"THAMBALAGERE","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28439135772467,14.97249569898376],[76.28891414845157,14.99558195661612],[76.24070594921082,14.99793296673311],[76.26709334220648,14.97593908021184],[76.28439135772467,14.97249569898376]]]},"properties":{"region_id":"village_604684","name":"UPPARAGATTA","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78072183411611,16.67526384883381],[76.76051639438812,16.6891017301496],[76.74321341003218,16.65829598304559],[76.77640576235802,16.65706502466512],[76.78072183411611,16.67526384883381]]]},"properties":{"region_id":"village_621126","name":"NAGNATGI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

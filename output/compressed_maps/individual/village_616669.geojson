@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1280949360208,12.6736023265581],[76.14122593937928,12.67319098208268],[76.1436217638183,12.6815587607249],[76.12849039323588,12.68073535414158],[76.1280949360208,12.6736023265581]]]},"properties":{"region_id":"village_616669","name":"HANEMARANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

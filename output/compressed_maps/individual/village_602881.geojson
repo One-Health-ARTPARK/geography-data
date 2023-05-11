@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61349893790428,15.01590226507191],[74.61471014127306,14.97993653433505],[74.6306640777783,14.99338355725272],[74.61349893790428,15.01590226507191]]]},"properties":{"region_id":"village_602881","name":"DEHALLI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

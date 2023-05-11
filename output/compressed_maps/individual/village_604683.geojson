@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22331458340206,14.93716586655296],[76.24781573651453,14.99092827364701],[76.2148011991061,15.00384249676159],[76.21234077226859,14.97616183678123],[76.18908679487029,14.95100664889822],[76.22331458340206,14.93716586655296]]]},"properties":{"region_id":"village_604683","name":"VARALIHALLI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

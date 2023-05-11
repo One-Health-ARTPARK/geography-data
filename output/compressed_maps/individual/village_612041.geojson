@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61412679863403,13.28525572434128],[76.60160514530197,13.28781043268568],[76.60243349549776,13.24296565451616],[76.63214498141289,13.25497906358362],[76.61412679863403,13.28525572434128]]]},"properties":{"region_id":"village_612041","name":"ARALAGUPPE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

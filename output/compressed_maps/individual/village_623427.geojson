@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58924977301245,13.43622838148668],[77.57511471073916,13.43396364143568],[77.56990596009545,13.42012502337784],[77.58250699182504,13.42124605381364],[77.58924977301245,13.43622838148668]]]},"properties":{"region_id":"village_623427","name":"MARIMAKALAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

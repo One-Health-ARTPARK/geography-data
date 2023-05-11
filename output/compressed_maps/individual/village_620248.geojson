@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98522360406167,17.37846921378015],[76.9636226559433,17.37904207754502],[76.96010699416824,17.36799712644236],[76.98379879770002,17.36274942283968],[76.98522360406167,17.37846921378015]]]},"properties":{"region_id":"village_620248","name":"KHAJIKOTNUR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

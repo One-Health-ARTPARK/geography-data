@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57224000017197,13.00279399978954],[77.57386899976429,12.99892000020166],[77.58414699976716,12.99937800007319],[77.5788389996361,13.00637200029658],[77.57224000017197,13.00279399978954]]]},"properties":{"region_id":"ward_bbmp64","name":"WARD NO.64 (RAJ MAHAL GUTTAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

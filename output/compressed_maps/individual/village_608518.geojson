@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81351958901084,14.09505701794096],[75.7652672035603,14.09497587219242],[75.76652003856259,14.08305802133846],[75.81351958901084,14.09505701794096]]]},"properties":{"region_id":"village_608518","name":"DIGGENAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

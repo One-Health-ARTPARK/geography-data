@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14160979223186,16.52474585186852],[75.1628040900361,16.5332637955315],[75.16630073054628,16.5542644449265],[75.13822831235164,16.54862890802522],[75.14160979223186,16.52474585186852]]]},"properties":{"region_id":"village_597321","name":"JANAWAD","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84553829568132,13.22770514812382],[75.8430044073657,13.23368587664039],[75.84527170198922,13.2440376282684],[75.83590189144371,13.24130773413952],[75.83690443583234,13.23430247012557],[75.84553829568132,13.22770514812382]]]},"properties":{"region_id":"village_615207","name":"KODANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

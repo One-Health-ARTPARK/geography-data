@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24183617000604,14.97567083945257],[76.22331458340206,14.93716586655296],[76.26114235093257,14.91346671376579],[76.27746991238705,14.9700518815629],[76.24183617000604,14.97567083945257]]]},"properties":{"region_id":"village_604690","name":"BENNIKAL","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

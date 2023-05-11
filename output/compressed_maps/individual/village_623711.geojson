@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71759341242965,13.6910132742795],[77.7092767697396,13.692426419134],[77.7092706912817,13.67809856290106],[77.72239831552679,13.68296777852479],[77.71759341242965,13.6910132742795]]]},"properties":{"region_id":"village_623711","name":"VABASANDRA","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

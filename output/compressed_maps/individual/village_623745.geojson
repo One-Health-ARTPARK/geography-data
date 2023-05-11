@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7799037860017,13.68374453325101],[77.77092482310748,13.68501351445469],[77.76354010324476,13.67685288489752],[77.77468087914596,13.67364623719287],[77.7799037860017,13.68374453325101]]]},"properties":{"region_id":"village_623745","name":"BEECHAGANAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

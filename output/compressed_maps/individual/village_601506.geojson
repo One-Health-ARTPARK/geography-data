@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26928997682545,15.74110208312828],[76.26976915730053,15.78073755685874],[76.25764121425466,15.77152291410151],[76.25666649993703,15.7503613574486],[76.26928997682545,15.74110208312828]]]},"properties":{"region_id":"village_601506","name":"GANGANHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

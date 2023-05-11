@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22447338251212,16.77453793884006],[77.22548984028157,16.79527792642182],[77.20515992030319,16.79042956209144],[77.22447338251212,16.77453793884006]]]},"properties":{"region_id":"village_621256","name":"KURKUMBAL","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

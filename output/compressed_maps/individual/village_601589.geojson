@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48036633372034,15.55247089595818],[76.46495787694394,15.55189569281495],[76.4728755218314,15.53387388613766],[76.48036633372034,15.55247089595818]]]},"properties":{"region_id":"village_601589","name":"BENKANHAL","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

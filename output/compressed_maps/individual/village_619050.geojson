@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28031645055823,11.88939668060436],[76.28061547895557,11.93392451156362],[76.2637745200074,11.93090534751951],[76.28031645055823,11.88939668060436]]]},"properties":{"region_id":"village_619050","name":"BEERAMBALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

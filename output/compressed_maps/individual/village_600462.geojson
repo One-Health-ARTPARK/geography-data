@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68712105301954,16.299680218074],[76.63821348482391,16.27203468585806],[76.65968472559358,16.25531823111368],[76.68712105301954,16.299680218074]]]},"properties":{"region_id":"village_600462","name":"BENCHALDODDI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

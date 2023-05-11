@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70762670048447,12.10686371209454],[76.71348099213543,12.12334402424092],[76.68837988052104,12.12716490580634],[76.67212930486848,12.09718810337355],[76.6968461881125,12.09477970173015],[76.70762670048447,12.10686371209454]]]},"properties":{"region_id":"village_619243","name":"NANJANGUD(RURAL)","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.58946353619734,15.56777292065347],[74.58210592456578,15.56800376470296],[74.57819543074726,15.55433154622943],[74.59057710481561,15.55685129942096],[74.58946353619734,15.56777292065347]]]},"properties":{"region_id":"village_597897","name":"CHANNEWADI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

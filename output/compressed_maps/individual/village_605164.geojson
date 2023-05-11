@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7878828006823,14.87605417444945],[76.78493197164634,14.89116991231055],[76.77540346540938,14.89192932258945],[76.77208399422246,14.87351270615494],[76.7878828006823,14.87605417444945]]]},"properties":{"region_id":"village_605164","name":"RAMPURA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

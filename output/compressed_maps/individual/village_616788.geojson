@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19244131764971,12.58546616254888],[76.18312837360108,12.58230105332877],[76.18421506646418,12.57716486435974],[76.19643443666494,12.57748512613723],[76.19244131764971,12.58546616254888]]]},"properties":{"region_id":"village_616788","name":"DORAMBALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40123333453961,13.10952044689319],[77.38612543137522,13.10148698191002],[77.39276766642756,13.08295261700733],[77.40848393563817,13.09371835007102],[77.40123333453961,13.10952044689319]]]},"properties":{"region_id":"village_624885","name":"NELAMANGALA (RURAL)","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

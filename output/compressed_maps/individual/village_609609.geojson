@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98583100583541,13.4364214943182],[75.98159348266714,13.45833417690704],[75.96801526245892,13.44865315983315],[75.98583100583541,13.4364214943182]]]},"properties":{"region_id":"village_609609","name":"GUBBIHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

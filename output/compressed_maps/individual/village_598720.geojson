@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53467129979818,15.87471858521588],[75.53235640087019,15.91157220382325],[75.51671122350126,15.8833744261491],[75.53467129979818,15.87471858521588]]]},"properties":{"region_id":"village_598720","name":"NARASAPUR","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

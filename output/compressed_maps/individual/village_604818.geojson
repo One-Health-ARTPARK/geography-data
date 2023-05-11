@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05075480531286,15.76401039105885],[77.02437439191812,15.77829374641239],[77.01984901528247,15.76648189985364],[77.0478581866651,15.75622686657347],[77.05075480531286,15.76401039105885]]]},"properties":{"region_id":"village_604818","name":"KALLUKUTTIGANAHAL","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

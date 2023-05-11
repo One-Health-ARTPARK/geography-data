@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62801329222503,12.36557454195025],[76.62668914493469,12.34404714195001],[76.63855600514277,12.34328430455274],[76.64102917506118,12.35961967500257],[76.62801329222503,12.36557454195025]]]},"properties":{"region_id":"village_618834","name":"METAGALLI (OG)","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

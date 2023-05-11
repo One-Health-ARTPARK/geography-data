@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06775832433622,13.66556876064004],[75.03885944744758,13.68994592778993],[75.00813182675957,13.66056660536634],[75.04508876399449,13.65013217285632],[75.06775832433622,13.66556876064004]]]},"properties":{"region_id":"village_608047","name":"GUBBIGA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

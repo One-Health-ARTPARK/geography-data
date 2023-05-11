@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.622546307242,15.62729563830036],[76.56672422246493,15.63281485947223],[76.55037577383878,15.60438872872427],[76.622546307242,15.62729563830036]]]},"properties":{"region_id":"village_601683","name":"SOMANHAL","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

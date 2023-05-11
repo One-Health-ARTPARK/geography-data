@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36217094301283,17.0359527787691],[77.3346783524304,17.01905028133216],[77.35249327163191,17.00193039973885],[77.3882819321647,17.01525447342294],[77.36217094301283,17.0359527787691]]]},"properties":{"region_id":"village_620549","name":"MADNA","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

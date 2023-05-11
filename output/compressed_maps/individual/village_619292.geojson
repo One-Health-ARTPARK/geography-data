@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71685877813292,12.00289013929516],[76.70236858146245,12.00603639900545],[76.70247038301433,11.99123601743051],[76.71262259832196,11.99160564794288],[76.71685877813292,12.00289013929516]]]},"properties":{"region_id":"village_619292","name":"BAGOORU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90556979135754,16.00664000229958],[76.86244121895372,16.00392167527948],[76.87059760796558,15.96985150855696],[76.89763944920922,15.96871298737509],[76.90556979135754,16.00664000229958]]]},"properties":{"region_id":"village_601043","name":"BYAGWAT","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

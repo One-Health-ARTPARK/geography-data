@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25328196747455,13.36473665740871],[77.25930038696906,13.34739959377017],[77.27204758525725,13.36371320289708],[77.25328196747455,13.36473665740871]]]},"properties":{"region_id":"village_611416","name":"HIREDODDAVADI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

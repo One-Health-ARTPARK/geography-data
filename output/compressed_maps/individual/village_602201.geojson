@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91251881001268,15.6304871278029],[74.88737529954979,15.62947807026266],[74.89293199090034,15.61928732169276],[74.91200981643325,15.62220261824482],[74.91251881001268,15.6304871278029]]]},"properties":{"region_id":"village_602201","name":"THIMMAPUR-M-TADAKOD","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

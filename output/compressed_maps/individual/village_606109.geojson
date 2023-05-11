@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83597159372786,14.08743697522932],[76.8367757509258,14.04873873096528],[76.85538444143873,14.0548908033459],[76.85439395674469,14.08001350661686],[76.83597159372786,14.08743697522932]]]},"properties":{"region_id":"village_606109","name":"SHRAVANAGERE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

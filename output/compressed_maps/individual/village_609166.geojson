@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86824169779267,13.67300625439236],[75.8650818530732,13.69932530899155],[75.84721763289664,13.68322428351031],[75.86824169779267,13.67300625439236]]]},"properties":{"region_id":"village_609166","name":"GERAMARADI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

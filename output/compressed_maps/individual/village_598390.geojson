@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35109179584991,15.86284334663641],[75.35180774220726,15.8883416299617],[75.32463528928005,15.8956060969628],[75.3340176009113,15.86111052459025],[75.35109179584991,15.86284334663641]]]},"properties":{"region_id":"village_598390","name":"LAKHANAYAKANAKOPPA","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

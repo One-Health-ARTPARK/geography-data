@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23168361547043,17.57811165732866],[77.19953258783777,17.58248863246061],[77.19007639089206,17.53874365119361],[77.21385143831799,17.53164801790022],[77.23168361547043,17.57811165732866]]]},"properties":{"region_id":"village_620338","name":"GADILINGDHALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

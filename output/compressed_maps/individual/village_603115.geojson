@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72739275999223,14.67432501076917],[74.73420465981016,14.686955394762],[74.72169857949378,14.71021196296616],[74.7067790281699,14.68084514001784],[74.72739275999223,14.67432501076917]]]},"properties":{"region_id":"village_603115","name":"KOLIGAR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

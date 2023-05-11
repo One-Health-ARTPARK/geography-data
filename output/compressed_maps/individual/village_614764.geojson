@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25774755543324,12.46401683526742],[77.24091633437051,12.46415298690291],[77.25143671401352,12.43802731164747],[77.25774755543324,12.46401683526742]]]},"properties":{"region_id":"village_614764","name":"JUGANAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

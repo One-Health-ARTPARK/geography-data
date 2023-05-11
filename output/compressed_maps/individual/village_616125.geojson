@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10597582089655,12.8441059512242],[76.10937102993287,12.85410423604799],[76.10062127104017,12.85546829980938],[76.09804541322359,12.84702432600764],[76.10597582089655,12.8441059512242]]]},"properties":{"region_id":"village_616125","name":"MALLAPPANHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

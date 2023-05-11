@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69195121954803,15.41907688695638],[74.65670709366091,15.41299892709534],[74.6499192031274,15.39121684111842],[74.68892484964994,15.39867058170937],[74.69195121954803,15.41907688695638]]]},"properties":{"region_id":"village_598008","name":"TAVARGATTI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

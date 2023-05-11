@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87454657362805,12.45984886292449],[76.86130054934684,12.45410559061547],[76.86928716734909,12.43809913512095],[76.8791080888081,12.44557182680199],[76.87454657362805,12.45984886292449]]]},"properties":{"region_id":"village_614471","name":"LALANKERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

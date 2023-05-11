@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83473223962437,16.49934382284273],[75.80494689067466,16.48811435050859],[75.80843002025041,16.45936884242923],[75.82855976799277,16.45874325629229],[75.83473223962437,16.49934382284273]]]},"properties":{"region_id":"village_599469","name":"TELGI","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43679470357739,17.00146778852463],[77.4187016590233,17.00304939124938],[77.41950296512701,16.98300609193965],[77.43676936774001,16.97438855644046],[77.43679470357739,17.00146778852463]]]},"properties":{"region_id":"village_620573","name":"PAKHAL","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

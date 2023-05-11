@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55042536419441,16.92948610857059],[76.56738878970093,16.92973764135616],[76.57861617729235,16.95346413925496],[76.54677660113866,16.95314330219706],[76.55042536419441,16.92948610857059]]]},"properties":{"region_id":"village_620783","name":"KUMMANASIRASGI","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

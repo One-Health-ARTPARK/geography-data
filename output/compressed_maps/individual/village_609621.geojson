@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04557152764163,13.43492810861428],[76.0541289538938,13.41200910041614],[76.07601225551782,13.42747438860845],[76.04557152764163,13.43492810861428]]]},"properties":{"region_id":"village_609621","name":"NAGARAHALU","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

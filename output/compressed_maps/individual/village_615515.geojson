@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17853002082465,13.23112735019318],[76.1628602543326,13.236820748581],[76.16778155646925,13.22084236365008],[76.17853002082465,13.23112735019318]]]},"properties":{"region_id":"village_615515","name":"HARALAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

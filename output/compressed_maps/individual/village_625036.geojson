@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49073806446056,13.36493756505916],[77.49017924922036,13.34712367700169],[77.50000745784173,13.34835057967994],[77.50111116321712,13.36465022072021],[77.49073806446056,13.36493756505916]]]},"properties":{"region_id":"village_625036","name":"KAMALUR","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

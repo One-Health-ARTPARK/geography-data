@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74319523788063,17.36992973487367],[75.7373884564314,17.3472651755884],[75.7724095522979,17.34257125214311],[75.76299214597431,17.36884477369541],[75.74319523788063,17.36992973487367]]]},"properties":{"region_id":"village_599176","name":"KARUR","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

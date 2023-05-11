@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.57480150737362,16.24533595969604],[74.56426312365602,16.25601290350849],[74.54703965649642,16.24499531877448],[74.56920755238495,16.23056500436139],[74.57480150737362,16.24533595969604]]]},"properties":{"region_id":"village_597573","name":"MASARGUPPI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

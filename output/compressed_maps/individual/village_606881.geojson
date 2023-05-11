@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79511219531113,14.22096050885914],[75.75429034608875,14.2053599852098],[75.76940316170955,14.19038131041502],[75.79779562468983,14.19643746557762],[75.79511219531113,14.22096050885914]]]},"properties":{"region_id":"village_606881","name":"DAGINAKATTE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

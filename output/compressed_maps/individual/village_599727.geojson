@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05754342300794,18.00002354706381],[77.04188593827898,18.00741054335813],[77.03120788098052,17.98892988018898],[77.05616314603586,17.98651852192014],[77.05754342300794,18.00002354706381]]]},"properties":{"region_id":"village_599727","name":"HALHALLI","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

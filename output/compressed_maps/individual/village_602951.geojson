@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88353237867494,14.96034525937143],[74.86558468549714,14.96582665853421],[74.83574630856411,14.93784049060317],[74.85249894526412,14.921116589591],[74.85916509118945,14.94522917070851],[74.88353237867494,14.96034525937143]]]},"properties":{"region_id":"village_602951","name":"BANKASALLI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

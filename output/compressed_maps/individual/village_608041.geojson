@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06427864904595,13.75314704741518],[75.04019792259699,13.73492524138036],[75.04710010598478,13.7175219631899],[75.0822024510635,13.74098158191379],[75.06427864904595,13.75314704741518]]]},"properties":{"region_id":"village_608041","name":"GINIKALLU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

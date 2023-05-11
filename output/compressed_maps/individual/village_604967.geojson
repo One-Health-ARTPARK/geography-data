@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43311170183809,14.9702663997783],[76.38192655920517,14.98458917998685],[76.37516988279692,14.95713861066796],[76.40703322959843,14.95207127543031],[76.4291906428741,14.93291411468758],[76.43311170183809,14.9702663997783]]]},"properties":{"region_id":"village_604967","name":"CHIKKAKERIYAGINAHALLI","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

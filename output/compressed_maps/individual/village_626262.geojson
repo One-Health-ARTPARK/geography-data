@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19515865141042,12.63553257194474],[77.18098682903636,12.62291782134468],[77.19045221423826,12.59658255927948],[77.20256225063171,12.6074287628963],[77.19515865141042,12.63553257194474]]]},"properties":{"region_id":"village_626262","name":"KUDLUR","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

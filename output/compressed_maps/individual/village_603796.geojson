@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.51482512587452,14.28791470702031],[74.50319660062834,14.26036006322176],[74.52116264750123,14.25600664480548],[74.53777392598892,14.2727859075617],[74.51482512587452,14.28791470702031]]]},"properties":{"region_id":"village_603796","name":"KHARWA","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

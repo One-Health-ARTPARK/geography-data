@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16072059884671,15.98678104941814],[76.1249632786083,15.99057804591704],[76.1246367468925,15.98160728373086],[76.15887168178485,15.97289255737221],[76.16072059884671,15.98678104941814]]]},"properties":{"region_id":"village_599007","name":"INGALGI","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

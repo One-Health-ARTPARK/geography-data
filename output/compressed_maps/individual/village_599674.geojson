@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28141350723314,16.17789967088863],[76.28598894115561,16.19922789776948],[76.2626886217431,16.20655545174552],[76.25905297750371,16.18264834225898],[76.28141350723314,16.17789967088863]]]},"properties":{"region_id":"village_599674","name":"GHALAPUJI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

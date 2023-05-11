@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85781154503933,15.76907445724789],[74.84627372946593,15.76208743959634],[74.85238178828352,15.74714084071012],[74.8635892803008,15.74693136477504],[74.85781154503933,15.76907445724789]]]},"properties":{"region_id":"village_598129","name":"HIREMULAKUR","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

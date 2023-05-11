@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5162877889505,12.21665511915963],[76.49571250838632,12.21395876053482],[76.50180924221561,12.18130744830874],[76.51612215214797,12.19843827246742],[76.5162877889505,12.21665511915963]]]},"properties":{"region_id":"village_618925","name":"BETTADABEEDU","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

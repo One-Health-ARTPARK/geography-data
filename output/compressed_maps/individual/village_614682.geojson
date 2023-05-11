@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91787577121603,12.36847350534977],[76.89912324756087,12.37382523235314],[76.89819215597532,12.35678497769683],[76.91921798096037,12.35929684553798],[76.91787577121603,12.36847350534977]]]},"properties":{"region_id":"village_614682","name":"BENDARAVADI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

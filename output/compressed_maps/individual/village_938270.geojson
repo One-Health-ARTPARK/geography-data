@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68617026166486,12.97229983827321],[77.67225741936447,12.97468643471044],[77.66720979308974,12.95654897295935],[77.68864531763509,12.95249051515247],[77.68617026166486,12.97229983827321]]]},"properties":{"region_id":"village_938270","name":"VIBHUTIPURA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

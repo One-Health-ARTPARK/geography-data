@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40066291506953,13.5375643387473],[75.39088812174796,13.55119645417273],[75.38331002402285,13.55180412647392],[75.38886814317387,13.53009209063565],[75.40066291506953,13.5375643387473]]]},"properties":{"region_id":"village_609001","name":"TALAMAKKI ESTATE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

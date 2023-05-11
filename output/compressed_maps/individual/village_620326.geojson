@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19770398752226,17.58322127919712],[77.17769522566016,17.60566669037912],[77.16574069925669,17.57967048372939],[77.19770398752226,17.58322127919712]]]},"properties":{"region_id":"village_620326","name":"KHANAPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

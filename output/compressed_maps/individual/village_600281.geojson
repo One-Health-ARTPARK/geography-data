@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28535081431511,17.84074904986047],[77.26643649306895,17.83483931878104],[77.26453878735686,17.82238702218346],[77.28936189197347,17.82632316195025],[77.28535081431511,17.84074904986047]]]},"properties":{"region_id":"village_600281","name":"SHAKARGUNJ","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

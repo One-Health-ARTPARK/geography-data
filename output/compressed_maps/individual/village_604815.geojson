@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0642870987061,15.80922401883851],[77.06250036542133,15.8302728232885],[77.01987872474014,15.82739319732405],[77.02587369420966,15.81330659543388],[77.0642870987061,15.80922401883851]]]},"properties":{"region_id":"village_604815","name":"TASALLA KUDLUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

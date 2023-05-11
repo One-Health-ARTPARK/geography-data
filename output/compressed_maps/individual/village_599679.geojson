@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34533512472501,16.24964276887315],[76.32088411195126,16.24898057728614],[76.31906861568464,16.23900497018978],[76.34629945024946,16.23222245069326],[76.34533512472501,16.24964276887315]]]},"properties":{"region_id":"village_599679","name":"BACHIHAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

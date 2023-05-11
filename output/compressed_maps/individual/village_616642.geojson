@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12346919347355,12.74326708093527],[76.10362875229754,12.741839438254],[76.10372054590022,12.72363803715856],[76.13110024973129,12.72697494423077],[76.12346919347355,12.74326708093527]]]},"properties":{"region_id":"village_616642","name":"SANTHEMARUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

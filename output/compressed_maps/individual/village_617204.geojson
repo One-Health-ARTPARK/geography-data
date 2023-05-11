@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41356127794934,12.93823586745673],[76.41381902063166,12.95864311934296],[76.39994900011423,12.94915234937283],[76.41356127794934,12.93823586745673]]]},"properties":{"region_id":"village_617204","name":"KARIMARANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

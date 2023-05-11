@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79595923327312,15.37762588175365],[74.78564872780062,15.38482424975249],[74.76125905853509,15.37811683601527],[74.75226241862951,15.36565364727954],[74.7836985564236,15.36042136922989],[74.79595923327312,15.37762588175365]]]},"properties":{"region_id":"village_602846","name":"TERGAON","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

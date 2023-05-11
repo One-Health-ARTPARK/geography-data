@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80846164839838,14.59362470237408],[74.80277865117056,14.59421573317973],[74.7860169854189,14.56983924537871],[74.80345259875075,14.56957921546006],[74.80846164839838,14.59362470237408]]]},"properties":{"region_id":"village_603228","name":"SIRSIMAKKI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

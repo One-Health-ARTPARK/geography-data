@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21197935733426,13.45913704098378],[77.19700151645279,13.46281689602518],[77.19661970354316,13.4245541599405],[77.20862788853597,13.4241555704233],[77.21197935733426,13.45913704098378]]]},"properties":{"region_id":"village_611368","name":"JAKKENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

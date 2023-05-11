@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00570647201984,16.31111790927334],[74.99045314862428,16.32195008775711],[74.98901343145901,16.30760564850093],[75.00570647201984,16.31111790927334]]]},"properties":{"region_id":"village_597424","name":"RANGAPUR","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

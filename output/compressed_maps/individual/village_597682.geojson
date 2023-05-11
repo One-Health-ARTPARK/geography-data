@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45729162072857,15.95663788036306],[74.43854301649931,15.96055910609829],[74.44443099130233,15.94947459134713],[74.45729162072857,15.95663788036306]]]},"properties":{"region_id":"village_597682","name":"MAHALENAHATTI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

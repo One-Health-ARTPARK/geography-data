@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22900279158569,14.78591188911649],[75.22094383352191,14.7873474371922],[75.20915380626172,14.77395306660657],[75.22968540531818,14.77323190776434],[75.22900279158569,14.78591188911649]]]},"properties":{"region_id":"village_604139","name":"CHANNAPUR (M) ADUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

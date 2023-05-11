@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85416892979784,13.30004664498672],[77.84150269224341,13.30080363507728],[77.84342610074961,13.29324457171103],[77.8498456109018,13.29326365275037],[77.85416892979784,13.30004664498672]]]},"properties":{"region_id":"village_624266","name":"HOSAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

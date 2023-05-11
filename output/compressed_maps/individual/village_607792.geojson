@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42234568544319,14.32134036488508],[75.40077012636922,14.31830669340594],[75.41489142069449,14.29766581052121],[75.42234568544319,14.32134036488508]]]},"properties":{"region_id":"village_607792","name":"BAGANAKATTE","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41589577021082,13.83905789962487],[77.37811537926757,13.83538078149981],[77.38404511897892,13.82189706851997],[77.41353039815519,13.82428986653696],[77.41589577021082,13.83905789962487]]]},"properties":{"region_id":"village_610873","name":"DODDADALAVATTA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

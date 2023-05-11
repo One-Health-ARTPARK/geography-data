@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.49981951732238,15.60313915522141],[74.48773025576835,15.60156149147146],[74.49170405998693,15.58899915312507],[74.50223698210092,15.59613798839358],[74.49981951732238,15.60313915522141]]]},"properties":{"region_id":"village_597935","name":"HARURI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49777702677885,14.44501288268038],[75.49491234600337,14.47311320422],[75.47405324081467,14.45907245507044],[75.49777702677885,14.44501288268038]]]},"properties":{"region_id":"village_604430","name":"CHIKKAYADACHI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23656071639545,15.27568526068953],[76.1970757967125,15.2762757881791],[76.20218167540125,15.25197794663622],[76.23656071639545,15.27568526068953]]]},"properties":{"region_id":"village_601784","name":"LACHANKERA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

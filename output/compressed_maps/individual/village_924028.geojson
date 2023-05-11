@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94360295058728,12.14365342650535],[75.91912676657564,12.13665257338624],[75.92393393053861,12.12267637887868],[75.93667691607537,12.12443878963797],[75.94360295058728,12.14365342650535]]]},"properties":{"region_id":"village_924028","name":"HUDURU","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82322727218349,12.27026899277162],[76.8176458311543,12.25952512091039],[76.81997038373923,12.234676699153],[76.8338154708573,12.22664857338282],[76.83584189972149,12.24487829610512],[76.82322727218349,12.27026899277162]]]},"properties":{"region_id":"village_618822","name":"INAM-UTHANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

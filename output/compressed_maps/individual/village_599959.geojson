@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3991257674503,17.97017076322893],[77.37442695844447,17.96258890269362],[77.36504192848146,17.9436604100096],[77.40024827814884,17.94834218135604],[77.3991257674503,17.97017076322893]]]},"properties":{"region_id":"village_599959","name":"KHANAPUR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

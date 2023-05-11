@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61956339183605,16.04482049415072],[76.59894288659473,16.05134393273653],[76.58879334939178,16.03002733847064],[76.61062707855247,16.02248818112388],[76.61956339183605,16.04482049415072]]]},"properties":{"region_id":"village_600500","name":"ANKUSADODDI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

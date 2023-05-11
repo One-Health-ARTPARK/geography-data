@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09169184786754,12.91387860512529],[76.09672287524756,12.9199254712146],[76.0871761857835,12.92252453745175],[76.083397905908,12.91754334228977],[76.09169184786754,12.91387860512529]]]},"properties":{"region_id":"village_616131","name":"CHIKKABAGANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

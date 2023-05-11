@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4744812654845,13.32227747987109],[76.45846973678164,13.32468193969572],[76.45857211639098,13.30951388002047],[76.46843477375263,13.31060326653854],[76.4744812654845,13.32227747987109]]]},"properties":{"region_id":"village_612014","name":"HARISAMUDRA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

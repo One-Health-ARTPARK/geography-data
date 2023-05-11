@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44583000620149,13.66098631105635],[75.41094829869192,13.6393341831633],[75.44897051243892,13.62310326456514],[75.44583000620149,13.66098631105635]]]},"properties":{"region_id":"village_609076","name":"HATHBUR","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

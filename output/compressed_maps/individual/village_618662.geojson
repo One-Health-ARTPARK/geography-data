@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41960425871352,12.47404296882395],[76.40539404276835,12.48310911699831],[76.39999266333547,12.47746205629859],[76.39806048770504,12.46224913388842],[76.40285265474135,12.45763103248413],[76.41960425871352,12.47404296882395]]]},"properties":{"region_id":"village_618662","name":"GORAGUNDI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4590550843649,12.47839011987941],[75.43553876635205,12.47003320446005],[75.46797670034256,12.45887036460366],[75.4590550843649,12.47839011987941]]]},"properties":{"region_id":"village_923915","name":"P.PERAJE","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

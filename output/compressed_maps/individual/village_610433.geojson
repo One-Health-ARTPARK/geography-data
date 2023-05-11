@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82838285280774,13.63712896334218],[76.79651805746997,13.64704694631934],[76.7950282765152,13.62878112837815],[76.82838285280774,13.63712896334218]]]},"properties":{"region_id":"village_610433","name":"KUMBARAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

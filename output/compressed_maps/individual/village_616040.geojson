@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03508468502947,13.05104189219251],[76.02002556751316,13.04758275628414],[76.02470144981052,13.03950591479555],[76.03241088020458,13.04195931188075],[76.03508468502947,13.05104189219251]]]},"properties":{"region_id":"village_616040","name":"AGALAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

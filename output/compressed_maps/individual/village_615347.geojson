@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99689057386087,13.12170311921113],[75.98112483804391,13.12228155248004],[75.98029541907448,13.10664654920567],[75.98956511314702,13.10582893211075],[75.99689057386087,13.12170311921113]]]},"properties":{"region_id":"village_615347","name":"MADIHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

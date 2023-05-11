@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07458543505483,12.34243882548188],[77.06734297272521,12.37850428408597],[77.05327127344482,12.37060573181357],[77.04816223479654,12.35036345189551],[77.07458543505483,12.34243882548188]]]},"properties":{"region_id":"village_614747","name":"MAREHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

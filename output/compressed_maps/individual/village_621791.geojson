@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99463834773236,13.20635531482559],[77.97913669840123,13.20015228301808],[77.98451562124907,13.18207637214156],[77.99564544241905,13.18359093436076],[77.99463834773236,13.20635531482559]]]},"properties":{"region_id":"village_621791","name":"KURUGAL","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

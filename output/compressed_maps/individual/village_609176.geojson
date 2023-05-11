@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84467834867574,13.66338787551684],[75.82223879865475,13.65499520708675],[75.84389980701998,13.62992803359443],[75.84467834867574,13.66338787551684]]]},"properties":{"region_id":"village_609176","name":"HOSAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

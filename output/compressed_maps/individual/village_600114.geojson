@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46696413589157,18.05982797419627],[77.4667021765164,18.0735464344039],[77.4453638060678,18.0678649078527],[77.44617255050754,18.05520585537702],[77.46696413589157,18.05982797419627]]]},"properties":{"region_id":"village_600114","name":"BALLUR JANWADA","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

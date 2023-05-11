@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.527705158134,16.10146534461331],[74.49103532269446,16.11211236875414],[74.5039399962082,16.06635560789011],[74.527705158134,16.10146534461331]]]},"properties":{"region_id":"village_597632","name":"MANGUTTI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

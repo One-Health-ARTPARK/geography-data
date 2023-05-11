@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70025220443495,13.12225178038591],[77.69057757039111,13.12704270337825],[77.68559075907122,13.11665244682285],[77.70239747102029,13.10848042234387],[77.70025220443495,13.12225178038591]]]},"properties":{"region_id":"village_612928","name":"DASANAYAKANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

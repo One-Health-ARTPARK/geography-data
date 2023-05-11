@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42881340573514,15.12658501324686],[75.44182078066999,15.13614088181024],[75.42416716630828,15.16540213924162],[75.41587802694926,15.14210082152108],[75.42881340573514,15.12658501324686]]]},"properties":{"region_id":"village_602061","name":"RAMAGERI","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24578764474444,16.12822386183008],[76.24661291882401,16.16119937286787],[76.2384180211613,16.16353523115219],[76.23427577030046,16.13050835982673],[76.24578764474444,16.12822386183008]]]},"properties":{"region_id":"village_600344","name":"UPANHAL","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

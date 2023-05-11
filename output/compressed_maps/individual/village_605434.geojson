@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2022432055321,14.42853246930224],[76.18785982314924,14.41826313695523],[76.1886623911118,14.40635386516335],[76.2048900726261,14.40482065413566],[76.2022432055321,14.42853246930224]]]},"properties":{"region_id":"village_605434","name":"CHOWLIHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

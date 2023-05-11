@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6529625085988,12.53206815541678],[76.63803998147215,12.52089576829976],[76.64907550969872,12.51229239664274],[76.6529625085988,12.53206815541678]]]},"properties":{"region_id":"village_614196","name":"CHANDRE","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

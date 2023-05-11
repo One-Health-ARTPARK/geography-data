@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62108186471607,12.32472405625181],[76.60817149261953,12.31923144603361],[76.61029827636658,12.30815662157718],[76.62300418930984,12.30807645103604],[76.62108186471607,12.32472405625181]]]},"properties":{"region_id":"village_939297","name":"VIJAYASHRIPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81760001505802,16.97491946649789],[76.8143291087584,17.00775204782988],[76.79329865275872,17.00658067539633],[76.79014785110293,16.97175155838683],[76.81760001505802,16.97491946649789]]]},"properties":{"region_id":"village_620841","name":"CHANNUR","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

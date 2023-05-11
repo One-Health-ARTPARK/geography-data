@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79421307689056,12.73705132818286],[76.78073537845039,12.74305858503551],[76.7762524722035,12.7273402574743],[76.79319747117664,12.72657357633884],[76.79421307689056,12.73705132818286]]]},"properties":{"region_id":"village_614316","name":"ANKUSHAPURA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88613430790613,13.32070621044694],[77.86008721229874,13.32597804987554],[77.86198379295575,13.31798460815814],[77.88613430790613,13.32070621044694]]]},"properties":{"region_id":"village_624247","name":"BASAVAPATNA","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

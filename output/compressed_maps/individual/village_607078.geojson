@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99621990655119,14.03360920285881],[76.02777732853963,14.04247684825195],[76.01223061862136,14.06029005235227],[75.99621990655119,14.03360920285881]]]},"properties":{"region_id":"village_607078","name":"HODIGERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

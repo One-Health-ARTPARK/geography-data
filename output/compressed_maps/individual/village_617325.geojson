@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58671391093544,13.00995035968184],[76.57336456694921,13.02400366068242],[76.5624104485831,13.00770010835713],[76.58671391093544,13.00995035968184]]]},"properties":{"region_id":"village_617325","name":"HOSAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

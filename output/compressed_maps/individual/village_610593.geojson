@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0626902701949,14.15303361135689],[77.03202719947957,14.16482914924076],[77.0369226341194,14.14421680103066],[77.0626902701949,14.15303361135689]]]},"properties":{"region_id":"village_610593","name":"KYATHAGANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

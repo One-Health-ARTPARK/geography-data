@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46234605847418,13.01617839106135],[77.45413109625414,13.02572650068812],[77.4529613834484,13.01324776387529],[77.46234605847418,13.01617839106135]]]},"properties":{"region_id":"village_612785","name":"LAKKENAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

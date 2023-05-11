@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86119813966171,15.15535201118839],[75.84319545303941,15.16090804022612],[75.84521874754515,15.14512589500711],[75.86119813966171,15.15535201118839]]]},"properties":{"region_id":"village_602177","name":"TIPPAPUR","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

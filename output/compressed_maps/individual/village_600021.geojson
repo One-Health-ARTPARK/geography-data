@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33648695865615,18.21656342412633],[77.31222459750137,18.19959779305666],[77.32721093096414,18.19299871801785],[77.33648695865615,18.21656342412633]]]},"properties":{"region_id":"village_600021","name":"BEMBRA","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

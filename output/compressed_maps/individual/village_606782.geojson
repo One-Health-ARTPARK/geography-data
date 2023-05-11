@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69967794982361,14.27387485392943],[75.7195886889893,14.29783918415673],[75.70125926472971,14.33150750513103],[75.6786220015592,14.29598417921451],[75.69967794982361,14.27387485392943]]]},"properties":{"region_id":"village_606782","name":"ARAKERE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

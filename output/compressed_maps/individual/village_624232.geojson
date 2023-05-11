@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95375431719629,13.34150480637526],[77.93851603494512,13.35582513231451],[77.92468629094401,13.34419170456015],[77.95375431719629,13.34150480637526]]]},"properties":{"region_id":"village_624232","name":"CHINTHUDUPI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

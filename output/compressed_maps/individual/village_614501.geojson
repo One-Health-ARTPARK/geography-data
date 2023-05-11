@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06764060069561,12.62234206707943],[77.05521440421302,12.61218583324379],[77.06245305118446,12.60189023131343],[77.07395424966333,12.60737450031551],[77.07635483888176,12.61818411349333],[77.06764060069561,12.62234206707943]]]},"properties":{"region_id":"village_614501","name":"SOMANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

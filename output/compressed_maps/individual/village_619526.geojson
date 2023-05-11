@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77126976385827,11.84994280517174],[76.75660723848839,11.85362954493329],[76.75583783139972,11.83899375682706],[76.77068319629693,11.84207871028002],[76.77126976385827,11.84994280517174]]]},"properties":{"region_id":"village_619526","name":"NARAYANAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

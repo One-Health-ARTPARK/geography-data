@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48956100251367,16.05273892133914],[75.4632693203208,16.04425501160976],[75.49035429638353,16.03318734249525],[75.48956100251367,16.05273892133914]]]},"properties":{"region_id":"village_598653","name":"SAGANUR","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

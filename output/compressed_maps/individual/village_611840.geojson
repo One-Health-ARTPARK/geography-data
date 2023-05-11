@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90856629194839,13.30737704070159],[76.89525462111207,13.30858726690645],[76.8887834170855,13.28957412340673],[76.90680024183006,13.28973499038188],[76.90856629194839,13.30737704070159]]]},"properties":{"region_id":"village_611840","name":"HODALUR","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05692716524474,14.18688054978105],[76.06067558626604,14.2225505591752],[76.04194929752862,14.21313645397101],[76.05692716524474,14.18688054978105]]]},"properties":{"region_id":"village_606950","name":"SIDDANAMATHA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

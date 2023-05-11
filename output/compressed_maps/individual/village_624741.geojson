@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28113137888607,13.25102153118068],[77.25718111741023,13.24773876204947],[77.26832512414995,13.22660390358796],[77.28113137888607,13.25102153118068]]]},"properties":{"region_id":"village_624741","name":"NIDAVANDA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

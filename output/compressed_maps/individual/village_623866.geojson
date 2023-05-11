@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84621259957552,13.77942528454931],[77.83853336926023,13.76076049145889],[77.85925214766787,13.76732238987493],[77.84621259957552,13.77942528454931]]]},"properties":{"region_id":"village_623866","name":"PEDDATHUMKEPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

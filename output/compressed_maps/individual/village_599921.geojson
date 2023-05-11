@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22732648170023,18.00706068812395],[77.21842478940344,18.01138459676484],[77.20769780806492,18.00407075023718],[77.22097300279556,17.99538549484042],[77.22732648170023,18.00706068812395]]]},"properties":{"region_id":"village_599921","name":"KELWADI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38642224995898,16.21887729374304],[75.37990629261638,16.23703065299684],[75.36670083934742,16.23461909580231],[75.3681258449132,16.21926014624894],[75.38642224995898,16.21887729374304]]]},"properties":{"region_id":"village_598591","name":"BUDNI KHURD","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

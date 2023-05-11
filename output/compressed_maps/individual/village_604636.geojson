@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02904669075266,14.95445875336783],[75.99476371528772,14.95412395457251],[75.97548737955543,14.93117600232129],[76.02707736263737,14.9283126154734],[76.02904669075266,14.95445875336783]]]},"properties":{"region_id":"village_604636","name":"VARAKANHALLI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

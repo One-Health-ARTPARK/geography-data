@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63181549916234,13.5671419730329],[77.6303252051812,13.57634999500385],[77.6231065229616,13.57209819150071],[77.63181549916234,13.5671419730329]]]},"properties":{"region_id":"village_623345","name":"DEVAREDDIHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

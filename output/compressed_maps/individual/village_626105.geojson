@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42748644326186,12.85100860038993],[77.41876949767007,12.86934933497137],[77.4116764054663,12.8641533322938],[77.41300766500869,12.84740627928359],[77.42748644326186,12.85100860038993]]]},"properties":{"region_id":"village_626105","name":"HEJJALA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47936951321674,14.55290455771334],[76.45936682533566,14.5356157898922],[76.47823552973921,14.52832903575141],[76.47936951321674,14.55290455771334]]]},"properties":{"region_id":"village_606506","name":"TAITONE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

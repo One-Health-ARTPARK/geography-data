@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37513738263728,15.9022249958652],[76.35407444501462,15.9031237167845],[76.35735745030335,15.88178867636192],[76.37760015890453,15.87960430201256],[76.37513738263728,15.9022249958652]]]},"properties":{"region_id":"village_601518","name":"KIDADUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95453980037722,13.2958867277157],[76.9361937753664,13.29743743867532],[76.94291521306886,13.27954289261731],[76.95453980037722,13.2958867277157]]]},"properties":{"region_id":"village_611836","name":"CHIKKONAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28884508023751,17.71431563342096],[77.2692184735622,17.7174010715911],[77.26731342099399,17.69031757643796],[77.28659048521061,17.68091980991852],[77.28884508023751,17.71431563342096]]]},"properties":{"region_id":"village_600323","name":"BANNALLI","parent":"subdistrict_7084","parent_name":"CHITAGUPPA"}}
+]}

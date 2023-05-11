@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17123788745943,12.61935249761083],[77.1562908775064,12.61840321438111],[77.157022236257,12.60220788060481],[77.1769830198655,12.60627584946291],[77.17123788745943,12.61935249761083]]]},"properties":{"region_id":"village_626220","name":"CHAKKERE","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

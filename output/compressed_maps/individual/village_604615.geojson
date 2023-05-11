@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92788242796469,15.04190325661222],[75.94158878809814,15.02994688375832],[75.97919487582047,15.03422451326793],[75.98017730081877,15.06371839578216],[75.94745085910583,15.06548425523567],[75.92788242796469,15.04190325661222]]]},"properties":{"region_id":"village_604615","name":"DASARAHALLITHANDA","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

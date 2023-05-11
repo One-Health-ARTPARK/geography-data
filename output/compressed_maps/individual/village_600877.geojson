@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45654824480393,15.97306649246792],[77.4376014368069,15.97858818373471],[77.44423480518554,15.96111010449227],[77.45654824480393,15.97306649246792]]]},"properties":{"region_id":"village_600877","name":"BUDDINNI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

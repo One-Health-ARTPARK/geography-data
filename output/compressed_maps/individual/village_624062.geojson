@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93079452768632,13.54469778136148],[77.93545254322767,13.54935666903821],[77.9360540891511,13.55775067000903],[77.92919237411026,13.55637828405274],[77.93079452768632,13.54469778136148]]]},"properties":{"region_id":"village_624062","name":"MARALAPPANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

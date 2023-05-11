@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34858082274867,13.77130004223596],[75.33373303354725,13.78674081190188],[75.32757577032457,13.7732025012188],[75.33477191931624,13.76155030534548],[75.34858082274867,13.77130004223596]]]},"properties":{"region_id":"village_608140","name":"MARAHALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

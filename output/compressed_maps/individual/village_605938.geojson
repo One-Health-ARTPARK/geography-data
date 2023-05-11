@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41772470828057,13.91180466388261],[76.3726419574956,13.90357133274954],[76.37052484874467,13.88032693274905],[76.41590526489803,13.88380041869631],[76.41772470828057,13.91180466388261]]]},"properties":{"region_id":"village_605938","name":"MADADAKERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02816672592265,14.18597491620162],[75.02033053875495,14.18521013326531],[75.01952965192248,14.17419921905926],[75.02729731809708,14.17282395865022],[75.02816672592265,14.18597491620162]]]},"properties":{"region_id":"village_938593","name":"ANAGALAKOPPA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

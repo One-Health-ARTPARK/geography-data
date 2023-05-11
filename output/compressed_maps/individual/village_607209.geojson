@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11608604867996,14.17457860885727],[75.11133205388262,14.18585098027449],[75.09368865477573,14.1742865021042],[75.09614796316356,14.16698316670868],[75.11608604867996,14.17457860885727]]]},"properties":{"region_id":"village_607209","name":"BRAHMANAMANCHALE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

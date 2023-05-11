@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37866766932154,13.36478669514659],[75.35441900043844,13.37415437394884],[75.35098847663383,13.34175721856741],[75.37866766932154,13.36478669514659]]]},"properties":{"region_id":"village_609030","name":"GUDDETHOTA","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

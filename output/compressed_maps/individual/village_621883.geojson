@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.03100946494887,13.05374716677833],[78.01497810815876,13.05323014488602],[78.01865966433478,13.03984127772555],[78.03654782919902,13.04441511293826],[78.03100946494887,13.05374716677833]]]},"properties":{"region_id":"village_621883","name":"THIRUMALAKOPPA","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29681936613954,12.45505506261582],[77.3008745525341,12.46888721214957],[77.29277252347961,12.46416724980601],[77.29681936613954,12.45505506261582]]]},"properties":{"region_id":"village_626520","name":"NARIPURA","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

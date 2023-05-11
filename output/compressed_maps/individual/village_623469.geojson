@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74830492666354,13.5987368978929],[77.73596428421172,13.6015184828366],[77.73338792826418,13.5842166274702],[77.74758373111892,13.58345675075883],[77.74830492666354,13.5987368978929]]]},"properties":{"region_id":"village_623469","name":"GUNDLAMANDIKAL","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.757589202974,14.6889283525851],[75.75566224409458,14.70811034792323],[75.74130240656595,14.70008543172861],[75.757589202974,14.6889283525851]]]},"properties":{"region_id":"village_606336","name":"TAVARAGUNDI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

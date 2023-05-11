@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.53542755161762,16.36839967821279],[74.54409274550976,16.37453408928108],[74.53231982259874,16.39208972020396],[74.50481557869321,16.38777044784402],[74.52524982966789,16.36535760857921],[74.53542755161762,16.36839967821279]]]},"properties":{"region_id":"village_597224","name":"TORANAHALLI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

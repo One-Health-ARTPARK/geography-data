@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29005304559794,14.06900685785565],[75.26084330224072,14.0699874951659],[75.26061482980064,14.05712739632255],[75.29005304559794,14.06900685785565]]]},"properties":{"region_id":"village_607299","name":"KEREHITHALU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

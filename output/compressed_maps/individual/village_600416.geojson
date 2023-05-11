@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50167476161583,16.20019604440847],[76.48282489505455,16.20099370777523],[76.47885447775991,16.18312567198204],[76.49898333262914,16.18089784261549],[76.50167476161583,16.20019604440847]]]},"properties":{"region_id":"village_600416","name":"JALIBENCHI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

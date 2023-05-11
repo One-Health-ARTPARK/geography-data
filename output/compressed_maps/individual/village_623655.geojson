@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78126769402772,13.42967701246738],[77.77473263422458,13.44182355512521],[77.77096786911045,13.42832509735545],[77.78126769402772,13.42967701246738]]]},"properties":{"region_id":"village_623655","name":"ANDARLAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

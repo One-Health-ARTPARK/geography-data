@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50763644246904,12.71920933446983],[77.47597391321632,12.72139609875071],[77.47652436205715,12.70468410708517],[77.50585646915061,12.70480949639777],[77.50763644246904,12.71920933446983]]]},"properties":{"region_id":"village_626344","name":"GABBADI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

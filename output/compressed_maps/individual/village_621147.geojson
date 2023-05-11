@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01100360732617,16.73862418451438],[76.99750445085238,16.74021184433259],[76.9947475920107,16.72960491689884],[77.01051991914363,16.73055515607185],[77.01100360732617,16.73862418451438]]]},"properties":{"region_id":"village_621147","name":"KARANGI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22821028597727,14.5611403251106],[75.21887088931773,14.55922143417829],[75.21830070655807,14.54107825837965],[75.23641918404077,14.55118830151838],[75.22821028597727,14.5611403251106]]]},"properties":{"region_id":"village_607436","name":"BELAVANTANAKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

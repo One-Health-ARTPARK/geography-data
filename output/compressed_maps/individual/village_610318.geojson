@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77801590356772,13.88323779245196],[76.77590795612893,13.84125247303359],[76.79404693747156,13.85397966037215],[76.77801590356772,13.88323779245196]]]},"properties":{"region_id":"village_610318","name":"NARAYANAPURA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

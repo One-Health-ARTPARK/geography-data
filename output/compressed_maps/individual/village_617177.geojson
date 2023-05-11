@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45755914752569,13.11613369167812],[76.44232596783998,13.11605735913435],[76.44092136280665,13.11079040057999],[76.45244790482155,13.10855046749079],[76.45755914752569,13.11613369167812]]]},"properties":{"region_id":"village_617177","name":"RECHIHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

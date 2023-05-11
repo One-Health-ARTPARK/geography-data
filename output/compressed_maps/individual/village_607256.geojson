@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14449837085611,14.08380583791384],[75.14645077693444,14.09297465306179],[75.13849566911404,14.10145001083207],[75.12997965390447,14.09871160330578],[75.14449837085611,14.08380583791384]]]},"properties":{"region_id":"village_607256","name":"JAMBEKOPPA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

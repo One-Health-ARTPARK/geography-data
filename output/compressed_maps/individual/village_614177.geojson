@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.751851198071,12.53164702081073],[76.73780338761132,12.54576393078128],[76.72353598706214,12.53685929024968],[76.73320960971215,12.51599074629886],[76.751851198071,12.53164702081073]]]},"properties":{"region_id":"village_614177","name":"KANAGANA MARADI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14394290112932,12.91708651326037],[77.13622636008273,12.92076901185857],[77.13218899756684,12.91469612557479],[77.13858256642649,12.91020619858966],[77.14394290112932,12.91708651326037]]]},"properties":{"region_id":"village_612576","name":"GIDDADASANAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

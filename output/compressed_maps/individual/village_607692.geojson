@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30254685405176,14.46989531061678],[75.28250582460308,14.46166208884905],[75.2881776031268,14.44875109868981],[75.30669329321843,14.46175717912236],[75.30254685405176,14.46989531061678]]]},"properties":{"region_id":"village_607692","name":"MULAKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

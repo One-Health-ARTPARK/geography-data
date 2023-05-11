@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94631790348434,14.03909410601574],[75.93229157295526,14.04666219749677],[75.92181045142796,14.03449181408921],[75.94631790348434,14.03909410601574]]]},"properties":{"region_id":"village_607050","name":"MUDDENAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

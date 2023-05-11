@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82766292850516,13.62976751771185],[77.82178456516594,13.61905145249706],[77.8378398250597,13.61667046031118],[77.84212994934224,13.62481786172375],[77.82766292850516,13.62976751771185]]]},"properties":{"region_id":"village_623784","name":"SOMESWARA","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

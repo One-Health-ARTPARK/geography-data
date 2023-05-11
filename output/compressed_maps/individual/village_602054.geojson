@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44981739662212,15.23634324272246],[75.43986411587568,15.26074830460455],[75.41744063598375,15.25582849715893],[75.41599929270406,15.23424313491818],[75.44981739662212,15.23634324272246]]]},"properties":{"region_id":"village_602054","name":"YATTINAHALLI","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

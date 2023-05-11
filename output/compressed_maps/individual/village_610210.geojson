@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67571031817928,13.4245589154804],[76.64289425921676,13.42374165137382],[76.64453066878706,13.41121225215403],[76.67571031817928,13.4245589154804]]]},"properties":{"region_id":"village_610210","name":"GOLLARAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

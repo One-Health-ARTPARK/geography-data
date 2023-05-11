@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15723758772369,13.6549503804364],[75.14465183832259,13.65058215070045],[75.16589152174272,13.63844174916469],[75.17216187248623,13.65271207387596],[75.15723758772369,13.6549503804364]]]},"properties":{"region_id":"village_608219","name":"LAKKUNDA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

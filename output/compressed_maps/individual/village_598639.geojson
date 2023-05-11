@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43420780128898,16.09452691808245],[75.43510157475889,16.06860601061925],[75.44566411313795,16.07775201229165],[75.43420780128898,16.09452691808245]]]},"properties":{"region_id":"village_598639","name":"SHEEPARAMATTI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

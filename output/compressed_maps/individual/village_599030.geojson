@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45826235518537,16.96017741116175],[75.4295961114165,16.96822376003528],[75.40174706643278,16.86289304161911],[75.4267832348286,16.84090632838349],[75.48063824268718,16.94329500476472],[75.45826235518537,16.96017741116175]]]},"properties":{"region_id":"village_599030","name":"BIJJARAGI","parent":"subdistrict_7074","parent_name":"TIKOTA"}}
+]}

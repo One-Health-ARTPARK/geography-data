@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31251504407312,13.74081260076015],[75.29113126629262,13.73053858310441],[75.30121070800396,13.72230494007728],[75.31959138981712,13.72537363237694],[75.31251504407312,13.74081260076015]]]},"properties":{"region_id":"village_608147","name":"KUDUMALLIGE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

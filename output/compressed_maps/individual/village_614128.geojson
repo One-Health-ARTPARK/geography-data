@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60492980254848,12.52980802219888],[76.58502780936453,12.53298902977558],[76.57925936764507,12.52018585131238],[76.59765568854161,12.51816672759236],[76.60492980254848,12.52980802219888]]]},"properties":{"region_id":"village_614128","name":"HONAGANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

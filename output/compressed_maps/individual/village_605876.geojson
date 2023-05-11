@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2403761776653,13.77405446880733],[76.22310230976979,13.77215950350622],[76.2100577488135,13.78128307958388],[76.20745493589169,13.76963910639817],[76.22863466403108,13.76815494482762],[76.2403761776653,13.77405446880733]]]},"properties":{"region_id":"village_605876","name":"PEELAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

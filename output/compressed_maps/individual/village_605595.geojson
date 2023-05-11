@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34102930997855,14.20914470775162],[76.34484824293706,14.19997956860993],[76.35999796622315,14.20130584605201],[76.36072093182379,14.21090439767938],[76.34102930997855,14.20914470775162]]]},"properties":{"region_id":"village_605595","name":"SOLLAPURA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

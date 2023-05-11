@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3167787692504,12.02345402597719],[76.30177899074302,12.02562022758805],[76.30574381547659,12.01123923004011],[76.31921062925552,12.01044395331287],[76.3167787692504,12.02345402597719]]]},"properties":{"region_id":"village_619018","name":"NURALAKUPPE","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

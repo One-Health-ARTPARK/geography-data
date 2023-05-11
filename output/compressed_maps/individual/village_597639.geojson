@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.43753039817416,16.08077429476186],[74.44225484788278,16.10590614593912],[74.4287918576488,16.10568983822155],[74.43753039817416,16.08077429476186]]]},"properties":{"region_id":"village_597639","name":"ATTIHAL","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

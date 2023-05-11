@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90254796489857,13.05984019944326],[77.88552556463813,13.06022659628738],[77.89216829606715,13.05442329048037],[77.90548891903347,13.05103757610689],[77.90254796489857,13.05984019944326]]]},"properties":{"region_id":"village_625640","name":"DODDATHAGGALI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

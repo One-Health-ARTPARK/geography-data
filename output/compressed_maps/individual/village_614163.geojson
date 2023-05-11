@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66389489453489,12.55488835856887],[76.65660550839455,12.55766027190784],[76.65361330288427,12.54279917382701],[76.66599347008774,12.54678463431175],[76.66389489453489,12.55488835856887]]]},"properties":{"region_id":"village_614163","name":"DEVARAYANAPATNA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

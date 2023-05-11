@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23485283728287,14.91587442556244],[75.21439660910234,14.91148139886965],[75.21897368998718,14.89550880719964],[75.24285708308145,14.90408059050251],[75.23485283728287,14.91587442556244]]]},"properties":{"region_id":"village_603964","name":"HALE BANKAPUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18878235179704,16.42848055185331],[77.17376709854754,16.43016977972957],[77.15171877087396,16.40379681933568],[77.18275578809376,16.39768850871831],[77.18878235179704,16.42848055185331]]]},"properties":{"region_id":"village_600640","name":"MADARKAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

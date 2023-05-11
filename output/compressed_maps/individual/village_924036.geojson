@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83061944129746,12.18650299485842],[75.80685639915262,12.19964694560836],[75.8143651454481,12.18376209605136],[75.82836141470038,12.17743117362405],[75.83061944129746,12.18650299485842]]]},"properties":{"region_id":"village_924036","name":"AMBATTI","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

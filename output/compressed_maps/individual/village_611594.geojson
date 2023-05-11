@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16670744483142,13.2418050412803],[77.15841685351535,13.24375421437331],[77.15456450736374,13.23401947109666],[77.15963124564476,13.22775799329485],[77.16670744483142,13.2418050412803]]]},"properties":{"region_id":"village_611594","name":"INAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

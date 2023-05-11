@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45709486290988,13.80779679968715],[76.44293541291054,13.80769862204855],[76.44575862687145,13.79865383137344],[76.45799751260016,13.79742876611487],[76.45709486290988,13.80779679968715]]]},"properties":{"region_id":"village_606017","name":"AGASARAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

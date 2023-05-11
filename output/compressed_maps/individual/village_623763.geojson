@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77381434499569,13.67203085156488],[77.7677763813907,13.65882947692597],[77.77993027740462,13.65277675413707],[77.78223696088699,13.67082841393722],[77.77381434499569,13.67203085156488]]]},"properties":{"region_id":"village_623763","name":"BANDARLAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

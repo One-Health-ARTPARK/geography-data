@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4583391656413,15.68640586964332],[76.45321596865453,15.71718736134722],[76.43077410432147,15.7230043719404],[76.43062904817006,15.69684324881594],[76.4469003708345,15.70150956160525],[76.4583391656413,15.68640586964332]]]},"properties":{"region_id":"village_601539","name":"KANHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

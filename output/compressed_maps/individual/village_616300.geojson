@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91930569308774,13.0672505624149],[75.91884528001466,13.05314331423895],[75.93021784505487,13.0524172900813],[75.93131053516615,13.06653054160788],[75.91930569308774,13.0672505624149]]]},"properties":{"region_id":"village_616300","name":"SAMUDRAVALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

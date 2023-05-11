@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04151598081113,17.14422317462012],[77.0299890454949,17.17230148778148],[77.00761943551515,17.17335435547661],[77.01381729380269,17.14649255866179],[77.04151598081113,17.14422317462012]]]},"properties":{"region_id":"village_620665","name":"KADDARGI","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

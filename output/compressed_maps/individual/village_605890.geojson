@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28507932757822,13.74923387141289],[76.2671235162065,13.76050016339938],[76.26991912061268,13.73856721622025],[76.28507932757822,13.74923387141289]]]},"properties":{"region_id":"village_605890","name":"KYADIGERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

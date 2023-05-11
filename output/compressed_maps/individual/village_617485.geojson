@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9315627494232,12.96388543007038],[74.90743218171772,12.95910268322741],[74.90466894932929,12.94101667388256],[74.92906034733174,12.95090728893865],[74.9315627494232,12.96388543007038]]]},"properties":{"region_id":"village_617485","name":"KANDAVARA","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.47618402457047,14.35556574828779],[74.46626195058052,14.36683336283835],[74.4602638227523,14.35224754889006],[74.47618402457047,14.35556574828779]]]},"properties":{"region_id":"village_603734","name":"AUNSALLI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

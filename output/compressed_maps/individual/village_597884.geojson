@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66838114204639,15.67372955504199],[74.65868129874653,15.67560195258102],[74.66038546693946,15.65669465764327],[74.6689447513368,15.65797702804186],[74.66838114204639,15.67372955504199]]]},"properties":{"region_id":"village_597884","name":"KARVINKOP","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59307377227648,15.41446995940193],[75.58757066626768,15.45624142261048],[75.57223820766596,15.45413898498616],[75.57931130748891,15.422533906671],[75.59307377227648,15.41446995940193]]]},"properties":{"region_id":"village_602022","name":"BINKADAKATTI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

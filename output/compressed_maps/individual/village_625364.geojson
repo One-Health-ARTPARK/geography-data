@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69618150410402,13.28934832314038],[77.667067156175,13.29381744319718],[77.66791477339824,13.27593949455345],[77.69618150410402,13.28934832314038]]]},"properties":{"region_id":"village_625364","name":"BIDALUR","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

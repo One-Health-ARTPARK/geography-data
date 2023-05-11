@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41490249257157,13.39876267417612],[76.397422739535,13.40423123702523],[76.39226405197145,13.39045061672144],[76.40961529645179,13.38615137361158],[76.41490249257157,13.39876267417612]]]},"properties":{"region_id":"village_611962","name":"VADERAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

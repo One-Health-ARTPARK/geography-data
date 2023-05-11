@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50374753329564,16.26284166560425],[75.47524339094112,16.27812227716188],[75.47039796655206,16.25881710167016],[75.4930055471608,16.23958631081737],[75.50374753329564,16.26284166560425]]]},"properties":{"region_id":"village_598512","name":"KATARKI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

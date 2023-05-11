@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02458874667461,13.6664536380985],[77.00065068649735,13.66883328651552],[77.00892678736464,13.659325363922],[77.02458874667461,13.6664536380985]]]},"properties":{"region_id":"village_610475","name":"BYRAPURA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71582743100362,12.70600011984205],[77.71728277827567,12.71197725828297],[77.70904285247475,12.71131080025991],[77.70589256200995,12.70637105733259],[77.71582743100362,12.70600011984205]]]},"properties":{"region_id":"village_613343","name":"KURUBARAHATTI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

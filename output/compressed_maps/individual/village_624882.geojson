@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40252154404126,13.10875312738846],[77.39971346082707,13.10198692217],[77.41490943291339,13.09258192020757],[77.41788121841323,13.10276341223142],[77.40252154404126,13.10875312738846]]]},"properties":{"region_id":"village_624882","name":"VAJARAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

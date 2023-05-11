@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56630513109847,13.68297028667124],[77.55793513824267,13.6875207279306],[77.53942083522938,13.68458140264804],[77.53888927130329,13.67866072967082],[77.56671450659447,13.67742755554308],[77.56630513109847,13.68297028667124]]]},"properties":{"region_id":"village_623242","name":"BYCHAPURA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

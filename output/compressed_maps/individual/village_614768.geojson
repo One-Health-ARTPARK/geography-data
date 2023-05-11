@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27153670065077,12.42221000639327],[77.26474088569562,12.41698806392649],[77.27211630860069,12.39881084224421],[77.27823163259453,12.41565370669177],[77.27153670065077,12.42221000639327]]]},"properties":{"region_id":"village_614768","name":"KEMPAINADODDI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

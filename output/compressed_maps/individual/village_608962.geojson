@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28041932970801,13.38008969383549],[75.24620185922663,13.37748619600657],[75.27727740401573,13.36117002931377],[75.28041932970801,13.38008969383549]]]},"properties":{"region_id":"village_608962","name":"KUTHAGODU","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

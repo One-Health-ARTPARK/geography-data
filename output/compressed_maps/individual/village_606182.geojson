@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63375568268529,13.83160559733881],[76.61445389168053,13.84542668020142],[76.60954462075301,13.82860585637549],[76.63375568268529,13.83160559733881]]]},"properties":{"region_id":"village_606182","name":"RANGAPURA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

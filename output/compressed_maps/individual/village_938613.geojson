@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08186963238099,14.23224454743122],[75.05585485645578,14.22288045045587],[75.06296302478492,14.20494669220858],[75.07849891879748,14.20530984048936],[75.08186963238099,14.23224454743122]]]},"properties":{"region_id":"village_938613","name":"MADADURU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

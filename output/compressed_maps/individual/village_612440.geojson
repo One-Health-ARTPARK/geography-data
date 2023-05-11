@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93951622820417,13.06148464229285],[76.929192845751,13.06272303068128],[76.92779443832832,13.05228768757656],[76.93958163330359,13.05073739499735],[76.93951622820417,13.06148464229285]]]},"properties":{"region_id":"village_612440","name":"KOTEKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

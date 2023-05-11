@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45417126306349,16.29202217395495],[75.4461061231421,16.24837754041972],[75.46859095702074,16.23569242075735],[75.47625158810216,16.28082427733713],[75.45417126306349,16.29202217395495]]]},"properties":{"region_id":"village_598511","name":"KOPPA(S.K)","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

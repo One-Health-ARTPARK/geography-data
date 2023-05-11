@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63770524674568,13.42522617063451],[76.63206254215018,13.42358138932624],[76.63665969465104,13.41839023377571],[76.63770524674568,13.42522617063451]]]},"properties":{"region_id":"village_610206","name":"BAGAYATHU","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

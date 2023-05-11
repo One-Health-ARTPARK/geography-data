@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56544775465305,12.37842917926216],[76.55920395477905,12.39012454475259],[76.54805579187153,12.39050729366982],[76.53757858053163,12.38580018506008],[76.56544775465305,12.37842917926216]]]},"properties":{"region_id":"village_618703","name":"MEGALAPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

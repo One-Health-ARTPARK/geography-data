@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84644810201775,13.76125860476658],[76.84145178069343,13.7800358335239],[76.82605508236595,13.76052397610166],[76.84644810201775,13.76125860476658]]]},"properties":{"region_id":"village_610354","name":"PANJIGANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

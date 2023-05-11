@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83632396909081,11.77517138961849],[76.82862115117656,11.78379605667901],[76.82349077838568,11.77207429879918],[76.83632396909081,11.77517138961849]]]},"properties":{"region_id":"village_619533","name":"MAYANAYAKANAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

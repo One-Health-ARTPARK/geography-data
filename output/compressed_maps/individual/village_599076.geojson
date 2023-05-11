@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82033027474908,16.88481098472329],[75.80012264776501,16.91190023580438],[75.75699531615844,16.87573185828202],[75.79362326279649,16.86691169755203],[75.82033027474908,16.88481098472329]]]},"properties":{"region_id":"village_599076","name":"ALIYABAD","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

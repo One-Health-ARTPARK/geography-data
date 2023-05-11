@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46744909394508,12.31143070656487],[76.45445910811192,12.29852918120164],[76.46902392728914,12.29449413785727],[76.46744909394508,12.31143070656487]]]},"properties":{"region_id":"village_618471","name":"DODDABEECHANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

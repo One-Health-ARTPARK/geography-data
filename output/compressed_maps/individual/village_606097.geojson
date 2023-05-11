@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72484834346972,14.051320543966],[76.74775237432581,14.03473229497186],[76.76336273954347,14.04800891904192],[76.75283130355294,14.0710176413427],[76.72484834346972,14.051320543966]]]},"properties":{"region_id":"village_606097","name":"ABBINAHOLE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

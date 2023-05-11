@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78620374754423,16.98461300540605],[75.74793292546453,17.01341253609648],[75.74679756441992,16.96145543768863],[75.78620374754423,16.98461300540605]]]},"properties":{"region_id":"village_599068","name":"TIDAGUNDI","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

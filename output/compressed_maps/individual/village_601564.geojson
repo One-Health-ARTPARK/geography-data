@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39303478355382,15.60634574943704],[76.36230588862233,15.62428636167238],[76.35337457013009,15.59094535855059],[76.39066882516863,15.58051141224648],[76.39303478355382,15.60634574943704]]]},"properties":{"region_id":"village_601564","name":"BASRIHAL","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

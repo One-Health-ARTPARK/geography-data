@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01628315942956,12.66558712407283],[76.0002729658636,12.66437205430086],[75.99681837386836,12.65204177155631],[76.0180613292876,12.65123551774345],[76.01628315942956,12.66558712407283]]]},"properties":{"region_id":"village_616697","name":"KESAVATHUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

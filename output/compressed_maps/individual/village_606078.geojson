@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54417827321709,14.01752680757708],[76.4991824735284,14.01091303667167],[76.5059109230392,13.97502284487636],[76.53885333995342,13.98231933988112],[76.54417827321709,14.01752680757708]]]},"properties":{"region_id":"village_606078","name":"SOORAGONDANAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

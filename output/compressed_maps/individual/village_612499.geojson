@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99492697691396,13.09480744966653],[76.98803117703268,13.09946138404741],[76.99180152102605,13.11737151967586],[76.98424709358875,13.11148242661902],[76.9843523256414,13.09617713495649],[76.99492697691396,13.09480744966653]]]},"properties":{"region_id":"village_612499","name":"VANIGERE KAVAL","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

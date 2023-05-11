@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70370685214176,15.61647095590791],[74.69029580971649,15.60270256123794],[74.70864112949761,15.59861486026927],[74.70370685214176,15.61647095590791]]]},"properties":{"region_id":"village_597912","name":"GANDIGWAD","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

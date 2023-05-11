@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34568427682572,13.04365702540958],[76.34170801411673,13.05213523385937],[76.3311155661676,13.05064820983842],[76.33133369607383,13.04046384161767],[76.34568427682572,13.04365702540958]]]},"properties":{"region_id":"village_617060","name":"ANKENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04962248556873,13.8950453019797],[76.04041709847299,13.85051615152835],[76.05605282133094,13.85743197916765],[76.04962248556873,13.8950453019797]]]},"properties":{"region_id":"village_609236","name":"KALLENAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

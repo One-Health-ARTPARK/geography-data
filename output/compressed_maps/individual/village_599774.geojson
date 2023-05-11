@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03107714349605,17.74877746345752],[77.041283577135,17.73120919854868],[77.05493937819946,17.72690112157856],[77.0668192592796,17.74037060331062],[77.03107714349605,17.74877746345752]]]},"properties":{"region_id":"village_599774","name":"SADLAPUR","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

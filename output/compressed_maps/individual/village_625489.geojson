@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78840315876795,13.19837308186295],[77.78762885586066,13.19432382870194],[77.79902252890909,13.19442057282348],[77.79815961823556,13.19750678970713],[77.78840315876795,13.19837308186295]]]},"properties":{"region_id":"village_625489","name":"RAMAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

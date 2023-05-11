@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09068478704415,13.56387667374009],[76.09182022312248,13.56045869749789],[76.09765449729129,13.56281869634931],[76.09721774297527,13.56577189032786],[76.09031836676184,13.56987782423564],[76.09068478704415,13.56387667374009]]]},"properties":{"region_id":"village_609482","name":"THIPPAGONDANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

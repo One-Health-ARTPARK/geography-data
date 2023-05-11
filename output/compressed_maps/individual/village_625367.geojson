@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69103888889835,13.26087484274308],[77.67386300263624,13.26942606470461],[77.67017245871666,13.25816210831478],[77.68909076008572,13.25142536691773],[77.69103888889835,13.26087484274308]]]},"properties":{"region_id":"village_625367","name":"SETTERAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

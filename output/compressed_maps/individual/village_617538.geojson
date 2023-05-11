@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10311800041953,12.96182189027912],[75.06837394374863,12.95906194548755],[75.07718747830523,12.94939348458173],[75.09893308560603,12.9436944843793],[75.10311800041953,12.96182189027912]]]},"properties":{"region_id":"village_617538","name":"PILIMOGRU","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

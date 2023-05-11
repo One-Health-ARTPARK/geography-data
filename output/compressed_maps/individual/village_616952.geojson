@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18394003161838,12.7103028466095],[76.17232248125124,12.70992412337983],[76.17798203183798,12.69793636342934],[76.18508460704427,12.70155660806318],[76.18394003161838,12.7103028466095]]]},"properties":{"region_id":"village_616952","name":"RAMENAHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43405313626836,12.53004014637622],[77.41646193326481,12.53224308957836],[77.4124569488513,12.51712764492016],[77.4485281209027,12.51346497706216],[77.43405313626836,12.53004014637622]]]},"properties":{"region_id":"village_626465","name":"ARALALU","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

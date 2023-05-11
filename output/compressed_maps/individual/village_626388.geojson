@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49253610943065,12.6255206128951],[77.47663248959205,12.62921896318726],[77.47988741656248,12.61342822699627],[77.49253610943065,12.6255206128951]]]},"properties":{"region_id":"village_626388","name":"AGARA","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.44418797878701,14.41103312288812],[74.43258148713915,14.411639348418],[74.42986489947474,14.40120025232083],[74.44471690116644,14.39864959766307],[74.44418797878701,14.41103312288812]]]},"properties":{"region_id":"village_603492","name":"VALGALLI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

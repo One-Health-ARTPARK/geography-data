@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31688553606465,14.80810222490213],[75.30304617665246,14.80682039502479],[75.31111421925127,14.7747798207929],[75.31940668709936,14.780793671129],[75.31688553606465,14.80810222490213]]]},"properties":{"region_id":"village_604195","name":"VENKATAPUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

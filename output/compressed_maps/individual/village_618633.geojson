@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35144757716341,12.50378852780184],[76.33915636555436,12.49976610414661],[76.36615271161537,12.48851384485263],[76.36931998086735,12.49791993431844],[76.36450913405207,12.50182394196491],[76.35144757716341,12.50378852780184]]]},"properties":{"region_id":"village_618633","name":"KAPPADIHANTHA","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

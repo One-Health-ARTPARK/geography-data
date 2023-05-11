@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21347645886644,14.20688538643866],[77.19332240534365,14.20601119408497],[77.20417117443736,14.18733773965841],[77.21347645886644,14.20688538643866]]]},"properties":{"region_id":"village_610552","name":"YETTINAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

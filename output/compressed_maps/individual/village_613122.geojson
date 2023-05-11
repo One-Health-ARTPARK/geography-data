@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72401401652525,12.89668790871331],[77.70687973059452,12.89984892587682],[77.6998975044897,12.87869812887904],[77.72129488707023,12.87800135000628],[77.72401401652525,12.89668790871331]]]},"properties":{"region_id":"village_613122","name":"KODATHI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

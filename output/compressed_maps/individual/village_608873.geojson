@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06698420237122,13.38943119999983],[75.05680578747878,13.43031025184305],[75.03285798661624,13.42906239110136],[75.02951649927483,13.36932969568749],[75.06698420237122,13.38943119999983]]]},"properties":{"region_id":"village_608873","name":"KABBINALE","parent":"subdistrict_7065","parent_name":"HEBRI"}}
+]}

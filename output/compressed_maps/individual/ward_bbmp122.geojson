@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55153899975755,12.96990900002281],[77.55708899968806,12.96937600020259],[77.5586989997201,12.97573099980143],[77.5544990002239,12.97555500039754],[77.55153899975755,12.96990900002281]]]},"properties":{"region_id":"ward_bbmp122","name":"WARD NO.122 (KEMPAPURA AGRAHARA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

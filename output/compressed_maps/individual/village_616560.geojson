@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03577980644074,12.79624678870978],[76.02436318413939,12.79441931382771],[76.02602579205953,12.7876752377926],[76.03567931309418,12.78525283400772],[76.03577980644074,12.79624678870978]]]},"properties":{"region_id":"village_616560","name":"CHOWDENAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

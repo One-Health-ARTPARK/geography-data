@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19288006661874,14.68680853551627],[76.15730598467154,14.70147804998192],[76.15568097935913,14.67146427811009],[76.19288006661874,14.68680853551627]]]},"properties":{"region_id":"village_606373","name":"MAGADI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23408161457796,14.08740570508827],[77.22778235150663,14.08387825124938],[77.22650557368038,14.07720234426886],[77.23237044986827,14.07686536909472],[77.23408161457796,14.08740570508827]]]},"properties":{"region_id":"village_610644","name":"PALKUNTE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

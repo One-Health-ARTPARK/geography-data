@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90954007475946,14.27991767157459],[74.88412529205107,14.28190230862638],[74.89595090466537,14.2566014671285],[74.90954007475946,14.27991767157459]]]},"properties":{"region_id":"village_603722","name":"KAVANCHUR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

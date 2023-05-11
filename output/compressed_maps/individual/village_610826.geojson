@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22489370779984,13.67084835491199],[77.22925026684916,13.68483083887823],[77.22240764144946,13.68335976296195],[77.22489370779984,13.67084835491199]]]},"properties":{"region_id":"village_610826","name":"KAMBATANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

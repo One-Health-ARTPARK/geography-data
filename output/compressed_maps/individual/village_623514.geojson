@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74580281728161,13.516844085551],[77.74543560148082,13.52307916837489],[77.73830359631424,13.52355902915744],[77.73933910623211,13.51419859746254],[77.74580281728161,13.516844085551]]]},"properties":{"region_id":"village_623514","name":"GONGADIPURA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

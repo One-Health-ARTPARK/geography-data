@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30269057086427,14.651877665064],[76.27906451831507,14.6502977912182],[76.27967181996335,14.6376607207292],[76.29840844524966,14.63707067934362],[76.30269057086427,14.651877665064]]]},"properties":{"region_id":"village_606387","name":"LAKKAMPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

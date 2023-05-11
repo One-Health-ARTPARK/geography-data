@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84587807867211,14.49917072494617],[74.84638304826512,14.50631636069736],[74.82622903223603,14.50502866284257],[74.8295412954348,14.49384253726539],[74.84587807867211,14.49917072494617]]]},"properties":{"region_id":"village_603590","name":"KALKATTE HUNASEKOPPA","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

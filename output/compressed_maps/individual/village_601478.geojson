@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19512227128216,15.89620434142389],[76.18430496447687,15.86611772409799],[76.16660753623096,15.86537957004189],[76.16621308819438,15.85456284861889],[76.18772742625546,15.86038532945262],[76.19512227128216,15.89620434142389]]]},"properties":{"region_id":"village_601478","name":"NADAVALKOPPA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

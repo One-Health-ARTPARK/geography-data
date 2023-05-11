@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35492732808996,13.82129673304676],[77.33950198116717,13.82438230990872],[77.33928819543685,13.81336118510253],[77.35492732808996,13.82129673304676]]]},"properties":{"region_id":"village_610870","name":"KANTANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

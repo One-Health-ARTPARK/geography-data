@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61232399977256,12.93434800033539],[77.62021400043282,12.92119200006587],[77.63615199978133,12.92865400016315],[77.61927900010798,12.94534700035184],[77.61232399977256,12.93434800033539]]]},"properties":{"region_id":"ward_bbmp151","name":"WARD NO.151 (KORAMANGALA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

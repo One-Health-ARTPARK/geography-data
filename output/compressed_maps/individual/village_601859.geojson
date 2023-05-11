@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31306879034682,15.29259893085386],[76.28937988849316,15.26343734730155],[76.3311175945583,15.26384663746557],[76.31306879034682,15.29259893085386]]]},"properties":{"region_id":"village_601859","name":"HOLEMUDLAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

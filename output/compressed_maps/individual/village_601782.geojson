@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18380914265711,15.29148382080004],[76.16904351864714,15.28713330984482],[76.15179586061127,15.24501543593371],[76.18831306380875,15.23818009868215],[76.18380914265711,15.29148382080004]]]},"properties":{"region_id":"village_601782","name":"HYATI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

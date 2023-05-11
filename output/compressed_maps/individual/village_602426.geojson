@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19917620628263,15.25205716546436],[75.12877906983252,15.23363450794582],[75.1204596022171,15.21308296496439],[75.17657531500309,15.21786506972205],[75.17455489563226,15.23617651134567],[75.19917620628263,15.25205716546436]]]},"properties":{"region_id":"village_602426","name":"CHEBBI","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

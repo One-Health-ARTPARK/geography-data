@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8360765019804,17.53779127234704],[76.83310184417299,17.5074575640936],[76.85726450625833,17.51574425728448],[76.8360765019804,17.53779127234704]]]},"properties":{"region_id":"village_620003","name":"SIRCHAND","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

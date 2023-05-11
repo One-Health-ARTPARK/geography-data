@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82975540549425,13.4482552737808],[76.80227322211522,13.45130329690324],[76.80718121853855,13.4332933382786],[76.82975540549425,13.4482552737808]]]},"properties":{"region_id":"village_611652","name":"SETTIHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

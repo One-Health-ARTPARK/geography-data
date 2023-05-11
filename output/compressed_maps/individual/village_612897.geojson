@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63242656463309,13.1787729057332],[77.63460592207203,13.15699888401137],[77.64268154754282,13.15694670007247],[77.64278763751827,13.1739381834001],[77.63242656463309,13.1787729057332]]]},"properties":{"region_id":"village_612897","name":"CHIKKAJALA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

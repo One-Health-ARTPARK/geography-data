@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95433768100395,15.70883796765851],[74.92762008215782,15.70125999299461],[74.92736056990783,15.68781096988928],[74.9555587208801,15.6983641366895],[74.95433768100395,15.70883796765851]]]},"properties":{"region_id":"village_598141","name":"UDIKERI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

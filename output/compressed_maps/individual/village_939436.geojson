@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56465368414568,12.95462309494317],[77.55668500436875,12.95004174291176],[77.5495113010958,12.94046672071218],[77.56154401159638,12.93949531698489],[77.56465368414568,12.95462309494317]]]},"properties":{"region_id":"village_939436","name":"GAVIPURA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

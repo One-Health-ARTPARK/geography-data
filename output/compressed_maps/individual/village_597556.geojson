@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.44501178008531,16.35011713146851],[74.42867085217037,16.36028298911011],[74.4054502005198,16.31690010382917],[74.41847398619117,16.30319466436803],[74.4339245538797,16.30309014949848],[74.44501178008531,16.35011713146851]]]},"properties":{"region_id":"village_597556","name":"KANAGALE","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68592048855433,16.18415223497751],[74.67770328673993,16.2113577851185],[74.67218145037377,16.20847842469294],[74.67279016431911,16.18253125847752],[74.68592048855433,16.18415223497751]]]},"properties":{"region_id":"village_597606","name":"NOGINHAL","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

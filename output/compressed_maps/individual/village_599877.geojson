@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18976838218636,18.11514698330502],[77.16397018950471,18.11331085173877],[77.16125204611097,18.10320080994957],[77.1828351401702,18.09405143855579],[77.18976838218636,18.11514698330502]]]},"properties":{"region_id":"village_599877","name":"TELGAON","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

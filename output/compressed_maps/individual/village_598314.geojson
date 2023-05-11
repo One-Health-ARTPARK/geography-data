@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25385510141163,16.07649307457992],[75.24814658444703,16.06198879212003],[75.27551569169714,16.06042223956122],[75.27854544904093,16.06695926892434],[75.25395722671223,16.06974346693649],[75.25385510141163,16.07649307457992]]]},"properties":{"region_id":"village_598314","name":"GUDAGUMNAL","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

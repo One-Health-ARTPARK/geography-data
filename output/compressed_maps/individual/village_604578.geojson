@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6295120952251,14.41961720339513],[75.63245499624918,14.43230532613383],[75.61633933473527,14.42961748675229],[75.61666467282943,14.41899468606545],[75.6295120952251,14.41961720339513]]]},"properties":{"region_id":"village_604578","name":"TIMMENAHALLI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

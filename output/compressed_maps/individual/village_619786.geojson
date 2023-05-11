@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04813070411501,12.11753955057365],[77.03450377561595,12.1133574826279],[77.04801946027513,12.10747760860181],[77.04813070411501,12.11753955057365]]]},"properties":{"region_id":"village_619786","name":"KATNAVADI","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

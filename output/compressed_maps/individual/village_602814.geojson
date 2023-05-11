@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77415907259312,15.25927805701696],[74.77191966322631,15.26818209936433],[74.76161284941915,15.2651990086183],[74.7649934583833,15.25342623633612],[74.77415907259312,15.25927805701696]]]},"properties":{"region_id":"village_602814","name":"TIPPINGERI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

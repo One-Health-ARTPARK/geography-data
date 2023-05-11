@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02831827714742,12.75274597678237],[76.02602033549819,12.7589096231468],[76.01875325943621,12.75910788915227],[76.01997129761506,12.75069955325991],[76.02831827714742,12.75274597678237]]]},"properties":{"region_id":"village_616566","name":"THATTEKERE","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

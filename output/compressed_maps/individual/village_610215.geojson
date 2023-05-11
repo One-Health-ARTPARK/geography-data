@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61802718854308,13.41108043454808],[76.6064521584849,13.4077784956314],[76.60947339918319,13.3982822438296],[76.61802718854308,13.41108043454808]]]},"properties":{"region_id":"village_610215","name":"KEDIGEHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

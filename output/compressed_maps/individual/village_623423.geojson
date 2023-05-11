@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54558743911407,13.4365593810802],[77.56550968625247,13.4392950892999],[77.56252254414093,13.44945688309895],[77.547018567342,13.4472972251321],[77.54558743911407,13.4365593810802]]]},"properties":{"region_id":"village_623423","name":"NAGARABHAVI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

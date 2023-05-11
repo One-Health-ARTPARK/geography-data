@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90944667876809,11.93920906117541],[76.89343072901161,11.93826641986052],[76.89332255119997,11.92985401535446],[76.90602911983088,11.92545099656096],[76.90944667876809,11.93920906117541]]]},"properties":{"region_id":"village_619665","name":"MUNACHANAHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

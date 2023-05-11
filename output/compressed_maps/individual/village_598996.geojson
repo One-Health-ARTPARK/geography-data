@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1616582129036,15.99336127205625],[76.16320954076647,16.01460582665834],[76.13958487046071,16.0199363734123],[76.13708866288913,16.00216095417355],[76.1616582129036,15.99336127205625]]]},"properties":{"region_id":"village_598996","name":"TUMBA","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

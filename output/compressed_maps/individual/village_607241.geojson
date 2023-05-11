@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07104116084392,14.10024155760959],[75.06288074179228,14.08798691944228],[75.07008743159516,14.07594107556985],[75.07612202587906,14.08695199655634],[75.07104116084392,14.10024155760959]]]},"properties":{"region_id":"village_607241","name":"HEGGODU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

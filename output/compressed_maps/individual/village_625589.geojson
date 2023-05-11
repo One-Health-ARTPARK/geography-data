@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91914827661657,13.13128530424357],[77.90144194013898,13.12781173650887],[77.91504420369121,13.1172700542675],[77.91914827661657,13.13128530424357]]]},"properties":{"region_id":"village_625589","name":"YELACHAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

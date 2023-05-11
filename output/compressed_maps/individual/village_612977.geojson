@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38405042553416,12.95993805132836],[77.36991570025509,12.96041113890709],[77.37122481357889,12.95113551918551],[77.38400951801975,12.95059718100114],[77.38405042553416,12.95993805132836]]]},"properties":{"region_id":"village_612977","name":"GANUKAL","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

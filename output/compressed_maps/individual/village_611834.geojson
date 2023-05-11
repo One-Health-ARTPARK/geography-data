@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96665579331672,13.27445139492294],[76.97431595417889,13.29244296857809],[76.96306485617464,13.29752914027151],[76.95149690789769,13.28576280517292],[76.96665579331672,13.27445139492294]]]},"properties":{"region_id":"village_611834","name":"HALEGUBBI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

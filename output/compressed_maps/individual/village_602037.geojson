@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59478880709516,15.34059131758509],[75.53084917183659,15.34819124535014],[75.54795403997761,15.31647759720873],[75.59478880709516,15.34059131758509]]]},"properties":{"region_id":"village_602037","name":"HARTI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

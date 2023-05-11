@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47810638416301,13.76002314126747],[76.46141149396341,13.75998233213551],[76.46265268912525,13.74966152475027],[76.47405530765207,13.74627569308917],[76.47810638416301,13.76002314126747]]]},"properties":{"region_id":"village_606023","name":"DODDAKARPURADAKATTE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56671450659447,13.67742755554308],[77.5397257763843,13.67839366679368],[77.54307293534708,13.66613989357582],[77.5681648994726,13.65991022448813],[77.56671450659447,13.67742755554308]]]},"properties":{"region_id":"village_623244","name":"BADIMARALUR","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

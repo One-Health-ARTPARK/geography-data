@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75785311176014,12.42490098781104],[76.7552834023702,12.40505344341008],[76.77120295760896,12.40456460462981],[76.77738260781146,12.43101444646699],[76.75785311176014,12.42490098781104]]]},"properties":{"region_id":"village_614243","name":"MUNDAGADORE","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

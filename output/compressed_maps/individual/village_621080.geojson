@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71901235076638,16.77793398064812],[76.67954421699197,16.78475974907986],[76.67683593899396,16.7523026429622],[76.71820079374731,16.74573578331266],[76.71901235076638,16.77793398064812]]]},"properties":{"region_id":"village_621080","name":"HARANGERA","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

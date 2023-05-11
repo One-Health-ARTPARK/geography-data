@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70543554411115,13.39245073289336],[77.69534710935531,13.39324146111343],[77.69272908427065,13.37831795446669],[77.70177637482635,13.37420183394684],[77.70543554411115,13.39245073289336]]]},"properties":{"region_id":"village_623625","name":"NANDI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

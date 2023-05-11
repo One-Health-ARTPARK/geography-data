@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15550388522121,13.05038241062228],[76.16539723432349,13.0604172293307],[76.16120846367102,13.06718681790438],[76.15034276799922,13.0604181695028],[76.15550388522121,13.05038241062228]]]},"properties":{"region_id":"village_615948","name":"MAHADEVARAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

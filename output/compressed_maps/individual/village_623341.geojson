@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58680016128521,13.5827728031507],[77.57817083397016,13.58687100654069],[77.57658139827738,13.57224167182026],[77.58713115707779,13.57556799225541],[77.58680016128521,13.5827728031507]]]},"properties":{"region_id":"village_623341","name":"BUDIGENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

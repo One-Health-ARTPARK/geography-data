@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95668498080441,13.75715285957406],[75.95851160307126,13.77600866908899],[75.93117113334037,13.79147869343878],[75.92128862837589,13.76530462919543],[75.95668498080441,13.75715285957406]]]},"properties":{"region_id":"village_609275","name":"HANNEKAVAL","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

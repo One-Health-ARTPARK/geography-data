@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42854833420768,16.07350959088527],[74.41346164557228,16.07036999269191],[74.41083084166428,16.05688855251782],[74.43087809196138,16.0600515034109],[74.42854833420768,16.07350959088527]]]},"properties":{"region_id":"village_597646","name":"MODAGE","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

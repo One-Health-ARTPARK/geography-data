@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70524094733229,14.81748702469074],[76.68223420386715,14.80813991896427],[76.68427962207116,14.77979167976244],[76.712319888455,14.78727888566877],[76.70524094733229,14.81748702469074]]]},"properties":{"region_id":"village_605185","name":"BHATRAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

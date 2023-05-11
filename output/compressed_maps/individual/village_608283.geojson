@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17294330581497,13.59831664335761],[75.15280727691699,13.59964583203864],[75.1467200226726,13.57762363314285],[75.18154261009008,13.58511329821605],[75.17294330581497,13.59831664335761]]]},"properties":{"region_id":"village_608283","name":"SHIRURU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

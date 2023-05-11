@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37227511214148,15.5056123035794],[75.32593647055336,15.50700845338203],[75.33210873072615,15.48379133114601],[75.37227511214148,15.5056123035794]]]},"properties":{"region_id":"village_602341","name":"BELAHAR","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

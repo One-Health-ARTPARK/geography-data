@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1972368857596,16.32005513888118],[76.15972006033549,16.32098751656603],[76.16440567693678,16.28052914040704],[76.19396878139457,16.29099282520587],[76.1972368857596,16.32005513888118]]]},"properties":{"region_id":"village_599656","name":"SARUR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

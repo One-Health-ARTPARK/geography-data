@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69363028296287,14.8590671758319],[75.71273868632382,14.85282810676177],[75.73250213884765,14.86386156244412],[75.73411617632951,14.88017748345247],[75.70320010423933,14.87179116764072],[75.69363028296287,14.8590671758319]]]},"properties":{"region_id":"village_604273","name":"SHYAKAR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

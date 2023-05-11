@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26437683290294,13.8875584909283],[76.22506524079002,13.88847006640872],[76.22021933980224,13.86511442476628],[76.26994768014562,13.86859492968359],[76.26437683290294,13.8875584909283]]]},"properties":{"region_id":"village_605832","name":"DEVIGERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

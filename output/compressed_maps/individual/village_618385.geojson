@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17952964580043,12.21148714103301],[76.17237533443493,12.21614810797851],[76.16703913297043,12.21329309644556],[76.17249355790557,12.20407726114968],[76.17952964580043,12.21148714103301]]]},"properties":{"region_id":"village_618385","name":"SINDENAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

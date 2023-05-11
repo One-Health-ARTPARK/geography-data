@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66921182886567,16.41844867797082],[76.66178322258351,16.38276972445363],[76.67564182102728,16.39372292494772],[76.67834976429911,16.41458584498046],[76.66921182886567,16.41844867797082]]]},"properties":{"region_id":"village_621021","name":"TINTHNI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

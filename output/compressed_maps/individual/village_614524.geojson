@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03336598979212,12.68399459463855],[77.01017322458335,12.68251363988376],[77.01109682893788,12.67255215554071],[77.03218705007998,12.6763984110201],[77.03336598979212,12.68399459463855]]]},"properties":{"region_id":"village_614524","name":"NILVAGILU","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03642682113167,14.0905411085336],[76.02554960963079,14.10030360004749],[76.01214475276147,14.06061467400033],[76.03372778591086,14.0607438414677],[76.03642682113167,14.0905411085336]]]},"properties":{"region_id":"village_606999","name":"CHIKGANGOOR","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

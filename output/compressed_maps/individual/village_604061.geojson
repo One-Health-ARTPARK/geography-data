@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22169662708127,14.84328699706966],[75.20419452424365,14.84455724029713],[75.20225158525182,14.83465030306628],[75.21412256142169,14.83117526490346],[75.22169662708127,14.84328699706966]]]},"properties":{"region_id":"village_604061","name":"ALADAKATTI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

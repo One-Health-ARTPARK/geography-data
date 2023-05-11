@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58721311081844,13.48205483474557],[77.55934097013932,13.49415591667257],[77.55882088984886,13.48438526764475],[77.58721311081844,13.48205483474557]]]},"properties":{"region_id":"village_623415","name":"CHINNAGENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

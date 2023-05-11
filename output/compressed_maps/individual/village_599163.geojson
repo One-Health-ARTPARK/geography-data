@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65514287753275,17.41469522446653],[75.60661136516225,17.41981740550776],[75.61793096521266,17.37289673987489],[75.65240339805185,17.37618466025415],[75.65514287753275,17.41469522446653]]]},"properties":{"region_id":"village_599163","name":"REVATHAGAON","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

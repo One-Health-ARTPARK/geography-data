@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64848328616797,12.79369573426271],[76.65099855888064,12.80569315015271],[76.6416221619367,12.80723587164525],[76.64086646669618,12.79974551571109],[76.64848328616797,12.79369573426271]]]},"properties":{"region_id":"village_613963","name":"MATADABUVANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26730506044814,16.96175657423957],[76.23064242027478,16.96351280902319],[76.2075422818378,16.92900629605352],[76.23470508720027,16.87388611719495],[76.2911374256267,16.90157950138514],[76.26730506044814,16.96175657423957]]]},"properties":{"region_id":"village_599346","name":"SINDGI (RURAL) *","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

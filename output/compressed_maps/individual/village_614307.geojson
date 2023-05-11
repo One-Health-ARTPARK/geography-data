@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75966851863514,12.33351690223761],[76.75941055529279,12.34024408908095],[76.74921695195577,12.34057367408086],[76.75004090549982,12.33615315122991],[76.75966851863514,12.33351690223761]]]},"properties":{"region_id":"village_614307","name":"CHIKKANKANAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

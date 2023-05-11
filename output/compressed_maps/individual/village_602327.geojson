@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32577630131739,15.60649558596178],[75.29830920227226,15.60751981752052],[75.29854857524344,15.57782854046044],[75.32463119267932,15.58147226534519],[75.32577630131739,15.60649558596178]]]},"properties":{"region_id":"village_602327","name":"SHANAWAD","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

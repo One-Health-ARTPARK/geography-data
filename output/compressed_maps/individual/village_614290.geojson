@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67188680242396,12.41846979870399],[76.66246318512741,12.42654550577606],[76.65366409526554,12.4241935331773],[76.65464698507083,12.41065278472396],[76.66189515717473,12.41019746312297],[76.67188680242396,12.41846979870399]]]},"properties":{"region_id":"village_614290","name":"KARIMANTI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

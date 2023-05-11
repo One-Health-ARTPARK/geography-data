@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17457030458829,16.27593779989551],[75.13809891956474,16.28446750583646],[75.13287660584848,16.26590168740089],[75.16399576564797,16.25747149551587],[75.17457030458829,16.27593779989551]]]},"properties":{"region_id":"village_597514","name":"GULAGANJIKOPPA","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

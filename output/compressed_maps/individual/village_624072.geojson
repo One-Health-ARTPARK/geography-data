@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8704494558118,13.5640480413598],[77.85557202765338,13.56255602219526],[77.85844764132344,13.55748903174278],[77.87025456400823,13.55480716226266],[77.8704494558118,13.5640480413598]]]},"properties":{"region_id":"village_624072","name":"DYAVARAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

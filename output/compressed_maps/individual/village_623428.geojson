@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59045995660385,13.42146934768687],[77.58967112392571,13.43236472116835],[77.58252446489558,13.42626573155953],[77.59045995660385,13.42146934768687]]]},"properties":{"region_id":"village_623428","name":"BUDAGATHIMMANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

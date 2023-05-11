@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99871768512428,16.8894727246161],[74.96950541543353,16.86068818522654],[75.01865484329166,16.85389350749888],[74.99871768512428,16.8894727246161]]]},"properties":{"region_id":"village_597255","name":"SAMBARAGI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

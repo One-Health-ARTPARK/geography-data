@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59348935526656,13.1173454801808],[77.59891267873361,13.11407599524565],[77.59902039526781,13.12667712375469],[77.5900144689428,13.11917904072554],[77.59348935526656,13.1173454801808]]]},"properties":{"region_id":"village_938520","name":"MANCHENAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

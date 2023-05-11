@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70057982537136,14.54427504600774],[75.70181457950702,14.56448222162499],[75.68328208970014,14.56231417027996],[75.68519915697527,14.54780022847902],[75.70057982537136,14.54427504600774]]]},"properties":{"region_id":"village_604542","name":"DEVAGONDANAKATTI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

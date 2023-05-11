@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00361040684696,13.27166552360815],[75.98570076684767,13.26868369279492],[75.98931594409714,13.26032040674023],[76.00401401290894,13.26049790868403],[76.00361040684696,13.27166552360815]]]},"properties":{"region_id":"village_609810","name":"GOVINDAPURA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

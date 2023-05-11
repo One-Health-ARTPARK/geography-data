@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46964601812637,12.80077180913268],[76.4788337230633,12.80728521301866],[76.47419845523808,12.8219089123153],[76.46691731426202,12.8096218680218],[76.46964601812637,12.80077180913268]]]},"properties":{"region_id":"village_617389","name":"ALADAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

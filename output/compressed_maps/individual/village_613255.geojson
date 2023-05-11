@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68589175480525,12.84491473699781],[77.66381050440314,12.84111183631629],[77.67697615260704,12.83400078673249],[77.68589175480525,12.84491473699781]]]},"properties":{"region_id":"village_613255","name":"VEERASANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

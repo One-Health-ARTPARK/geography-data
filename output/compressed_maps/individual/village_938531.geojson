@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59649631298772,13.09321912427523],[77.58412294885464,13.09248294679511],[77.58227534657317,13.07301727204598],[77.5883783443492,13.07262906094109],[77.59649631298772,13.09321912427523]]]},"properties":{"region_id":"village_938531","name":"ALLALASANDRA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

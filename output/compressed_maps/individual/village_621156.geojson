@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07340655683119,16.66954051597837],[77.07401450290449,16.68712257946269],[77.0529848884991,16.68361300260288],[77.05891072318234,16.66567828272766],[77.07340655683119,16.66954051597837]]]},"properties":{"region_id":"village_621156","name":"MALHALLI","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

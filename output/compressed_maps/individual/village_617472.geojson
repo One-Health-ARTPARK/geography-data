@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12688732104324,13.13065330651229],[75.08753833727772,13.10783345728194],[75.10020009688064,13.09163094803104],[75.1258395437735,13.11731655090964],[75.12688732104324,13.13065330651229]]]},"properties":{"region_id":"village_617472","name":"MANTRADY","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

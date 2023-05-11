@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36435310629508,17.91064613117684],[77.36437429721262,17.93034228907285],[77.33984360241215,17.93095090384664],[77.3330829491319,17.91514390257955],[77.36435310629508,17.91064613117684]]]},"properties":{"region_id":"village_599961","name":"RUDNOOR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

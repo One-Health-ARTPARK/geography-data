@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54090041362383,12.74884374993896],[77.52180765574626,12.7316836613462],[77.53440065806318,12.69347020852145],[77.55909758820138,12.71326084516942],[77.54090041362383,12.74884374993896]]]},"properties":{"region_id":"village_626352","name":"GULLAHATTI KAVAL","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

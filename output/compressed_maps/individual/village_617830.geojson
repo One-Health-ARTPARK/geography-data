@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81462373083419,12.37656329773377],[75.80366552122253,12.3839497772605],[75.78049377017064,12.3496757083531],[75.81942813599913,12.36139267410348],[75.81462373083419,12.37656329773377]]]},"properties":{"region_id":"village_617830","name":"MARAGODU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

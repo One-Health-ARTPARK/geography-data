@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00050554410673,14.34501904167406],[76.0100247154162,14.35119072177106],[76.00763541911437,14.36475721579084],[75.99625893793691,14.36487470027428],[76.00050554410673,14.34501904167406]]]},"properties":{"region_id":"village_606669","name":"HANUMANAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

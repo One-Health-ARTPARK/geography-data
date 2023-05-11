@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77259266361196,11.7538873685504],[76.781109424758,11.76433251580694],[76.77442748157219,11.77673314981199],[76.76481875902348,11.77302601518096],[76.77259266361196,11.7538873685504]]]},"properties":{"region_id":"village_619537","name":"SHEELAVANTHAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2047634525983,13.8690524334865],[76.19566850844174,13.8691157809307],[76.19528898019962,13.86022176269743],[76.2051400422178,13.86111146982068],[76.2047634525983,13.8690524334865]]]},"properties":{"region_id":"village_605836","name":"KONDAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

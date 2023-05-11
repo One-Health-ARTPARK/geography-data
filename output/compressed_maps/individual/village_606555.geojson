@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94704721953849,14.52369935377655],[75.93933450403051,14.56042793673402],[75.92463123903967,14.56190411438772],[75.92514001060958,14.51956687076941],[75.94704721953849,14.52369935377655]]]},"properties":{"region_id":"village_606555","name":"MALAGONDANAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

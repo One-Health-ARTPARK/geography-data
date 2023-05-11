@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49171685120767,16.30076486225773],[77.47277925551668,16.30287444228378],[77.47761492889926,16.28991321945768],[77.49260788993611,16.28774279988238],[77.49171685120767,16.30076486225773]]]},"properties":{"region_id":"village_600764","name":"APPANDODDI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90603658509951,14.99800649855333],[74.86558468549714,14.96582665853421],[74.94322708704681,14.88885702450086],[74.98519758921579,14.96487538430115],[74.90603658509951,14.99800649855333]]]},"properties":{"region_id":"village_603011","name":"MAINALLI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

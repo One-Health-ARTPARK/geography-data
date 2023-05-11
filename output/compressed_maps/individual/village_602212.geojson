@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87762802808534,15.56451614643926],[74.85538855425429,15.56693154937236],[74.85880457559244,15.5515160413477],[74.87762802808534,15.56451614643926]]]},"properties":{"region_id":"village_602212","name":"BOGUR","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

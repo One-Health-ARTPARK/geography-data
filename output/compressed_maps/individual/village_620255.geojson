@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9886398643799,17.30074916065298],[76.96714957953287,17.29251476566234],[76.96965631448019,17.26816686506704],[77.00380716973866,17.28895825202807],[76.9886398643799,17.30074916065298]]]},"properties":{"region_id":"village_620255","name":"SANNUR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

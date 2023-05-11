@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62749434387244,13.63842323097646],[76.6172178361212,13.63656713362718],[76.63514399782815,13.60153144036288],[76.64372058255057,13.61149051454256],[76.62749434387244,13.63842323097646]]]},"properties":{"region_id":"village_610113","name":"BORANAKANIVE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0592376402784,13.35904358696403],[77.04964060582692,13.36417443618233],[77.02945355342884,13.35312418830265],[77.03328309830765,13.34509141957902],[77.05431985666989,13.34652940068799],[77.0592376402784,13.35904358696403]]]},"properties":{"region_id":"village_611291","name":"VOKKODI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

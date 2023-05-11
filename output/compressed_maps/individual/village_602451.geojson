@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04575522790094,15.30187650983169],[75.0308399493683,15.30850036600711],[75.00788310595568,15.29529970549162],[75.03304762829991,15.27962002775985],[75.04575522790094,15.30187650983169]]]},"properties":{"region_id":"village_602451","name":"KURANKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

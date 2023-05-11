@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83818685505297,13.12649596461708],[76.83422434706037,13.13714515042114],[76.81431565971096,13.12957570699315],[76.81366478372487,13.12121168275938],[76.83818685505297,13.12649596461708]]]},"properties":{"region_id":"village_612392","name":"DODDAMARGONAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

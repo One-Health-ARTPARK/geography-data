@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99227006968894,12.8383430754823],[74.98130068524854,12.84403108908388],[74.97696931430265,12.83163556042754],[74.99217151194938,12.82559192860671],[74.99227006968894,12.8383430754823]]]},"properties":{"region_id":"village_617561","name":"CHELUR","parent":"subdistrict_7197","parent_name":"ULLALA"}}
+]}

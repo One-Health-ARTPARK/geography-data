@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39908690337187,12.39047125871341],[77.38458561465157,12.38835699181907],[77.3938678066068,12.36189858674147],[77.40974445361222,12.38878032577425],[77.39908690337187,12.39047125871341]]]},"properties":{"region_id":"village_626559","name":"UYYAMBALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

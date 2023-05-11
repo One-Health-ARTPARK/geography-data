@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20883075021996,12.7419325069261],[77.17661892774049,12.74348418949364],[77.18660586392436,12.72399884045182],[77.20883075021996,12.7419325069261]]]},"properties":{"region_id":"village_626068","name":"CHAMANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87183775605395,17.74920746438078],[76.87527935954239,17.79561003796404],[76.84599836867967,17.7814280280165],[76.87183775605395,17.74920746438078]]]},"properties":{"region_id":"village_599793","name":"GUNDUR","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

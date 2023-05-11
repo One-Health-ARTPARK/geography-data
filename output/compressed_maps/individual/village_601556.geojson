@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42272183917332,15.64804478087073],[76.40378853775366,15.62594251739182],[76.44347993691903,15.62291018651643],[76.42272183917332,15.64804478087073]]]},"properties":{"region_id":"village_601556","name":"SIRWAR","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83832027222454,13.52288385552906],[75.81893053553294,13.53300237622356],[75.80684779156063,13.55337684726347],[75.79370851644607,13.52856830866013],[75.83832027222454,13.52288385552906]]]},"properties":{"region_id":"village_609347","name":"PILLEBEERANAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

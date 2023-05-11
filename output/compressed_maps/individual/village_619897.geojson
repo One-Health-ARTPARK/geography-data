@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39957341504557,12.01740194047735],[77.38005932404252,12.01201809127515],[77.39247929654555,11.98343010909262],[77.41952448710892,11.99809643974896],[77.39957341504557,12.01740194047735]]]},"properties":{"region_id":"village_619897","name":"RAMAPURA","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93238311989492,12.62511841144694],[76.92215317614723,12.61998754585162],[76.93559024872579,12.61201663145726],[76.93238311989492,12.62511841144694]]]},"properties":{"region_id":"village_614380","name":"HONNAYAKANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

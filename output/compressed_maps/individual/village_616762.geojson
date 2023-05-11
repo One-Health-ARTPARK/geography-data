@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10867160956617,12.5391952850615],[76.10065841905903,12.54470507284697],[76.0868745160808,12.54073688405392],[76.09923483691718,12.53215246976231],[76.10867160956617,12.5391952850615]]]},"properties":{"region_id":"village_616762","name":"MALLAPURA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

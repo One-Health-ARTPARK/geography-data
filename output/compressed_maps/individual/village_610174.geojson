@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72998246202637,13.47902411392566],[76.72964246463545,13.49262234171752],[76.71048093778602,13.48590503494858],[76.71753073528926,13.47374802803138],[76.72998246202637,13.47902411392566]]]},"properties":{"region_id":"village_610174","name":"SHRAYADA HOSAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

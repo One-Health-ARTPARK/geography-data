@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85239368923479,14.91804346176158],[75.83063165453807,14.91878348742299],[75.83096451037599,14.88512138324193],[75.84788703867329,14.8871384256633],[75.85239368923479,14.91804346176158]]]},"properties":{"region_id":"village_604590","name":"MANIHALLI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

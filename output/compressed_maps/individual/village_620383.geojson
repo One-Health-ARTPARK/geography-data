@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59779631903584,17.5122151614938],[77.57857992759553,17.4868514943126],[77.60555719890483,17.49261443349923],[77.59779631903584,17.5122151614938]]]},"properties":{"region_id":"village_620383","name":"MAMBAPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

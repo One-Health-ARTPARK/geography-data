@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31517199405624,14.65366643662831],[76.31109182066899,14.64411947241136],[76.31780859606046,14.64175817707142],[76.32404587810841,14.64816270529824],[76.31517199405624,14.65366643662831]]]},"properties":{"region_id":"village_606404","name":"MEDAKERIHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

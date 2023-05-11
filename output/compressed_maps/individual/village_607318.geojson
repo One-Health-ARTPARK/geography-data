@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97291658394438,14.02549893659893],[74.96875145442249,13.99626510043785],[74.98581703551112,13.98792907207165],[75.00188815582061,14.00829588458674],[74.97291658394438,14.02549893659893]]]},"properties":{"region_id":"village_607318","name":"KOLUR","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71724675750856,16.51819378644668],[74.68168370556324,16.51529304672284],[74.67563269705761,16.48440255518992],[74.7366570313252,16.45715144540433],[74.73444200343052,16.49816375028174],[74.71724675750856,16.51819378644668]]]},"properties":{"region_id":"village_597364","name":"NANDIKURALI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

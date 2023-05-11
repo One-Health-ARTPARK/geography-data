@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46016409646312,12.26996084834461],[76.44907697741547,12.27581934198043],[76.44958766906136,12.26525864292788],[76.46016409646312,12.26996084834461]]]},"properties":{"region_id":"village_618475","name":"SHANKAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

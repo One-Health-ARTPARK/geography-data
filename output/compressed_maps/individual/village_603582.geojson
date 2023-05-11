@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8410019203992,14.48891198761004],[74.82883911961936,14.46665591731489],[74.84295840989256,14.45708491257288],[74.85241702118661,14.47583824461307],[74.8410019203992,14.48891198761004]]]},"properties":{"region_id":"village_603582","name":"GAVINGUDDE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

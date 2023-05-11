@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75537029432041,12.97479776374758],[76.74362047657857,12.96714147315975],[76.75040607848098,12.95901952205111],[76.7587689845823,12.9646899181781],[76.75537029432041,12.97479776374758]]]},"properties":{"region_id":"village_613723","name":"THAVAREKERE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

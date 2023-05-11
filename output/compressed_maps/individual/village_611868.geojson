@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78247097249807,13.2675687866938],[76.78411839323842,13.28960781719037],[76.77174882201031,13.28413988739859],[76.78247097249807,13.2675687866938]]]},"properties":{"region_id":"village_611868","name":"BADENAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

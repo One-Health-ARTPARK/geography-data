@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65163005557376,13.17288588688712],[76.6433775347157,13.17317050160535],[76.63742298830118,13.16286884231019],[76.64895668192318,13.16449343477213],[76.65163005557376,13.17288588688712]]]},"properties":{"region_id":"village_612243","name":"T.HOSAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

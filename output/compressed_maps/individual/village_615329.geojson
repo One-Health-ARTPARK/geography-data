@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92298155761652,13.1041824125253],[75.91201326702955,13.1147545465519],[75.9092313869164,13.1056326780456],[75.92298155761652,13.1041824125253]]]},"properties":{"region_id":"village_615329","name":"PURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39543349663235,17.54672525556084],[77.37725522889681,17.55327993581097],[77.37122186882114,17.52962603720599],[77.3930792401271,17.53138295061274],[77.39543349663235,17.54672525556084]]]},"properties":{"region_id":"village_620350","name":"SHIKARM0TAKPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38397363705188,15.83899500526542],[75.37538063116291,15.84604891006252],[75.36570120315885,15.81403055249404],[75.36915857169343,15.80315912190934],[75.38397363705188,15.83899500526542]]]},"properties":{"region_id":"village_601863","name":"KURUGOVINAKOPPA","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

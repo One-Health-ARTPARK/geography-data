@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75869544181374,13.48270785221971],[77.75448817854442,13.48352979266186],[77.74963676961877,13.47113068734939],[77.75840234897017,13.47338992405821],[77.75869544181374,13.48270785221971]]]},"properties":{"region_id":"village_623559","name":"AMANI MAVUKERE","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

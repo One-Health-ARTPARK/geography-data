@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78173346739263,17.78128034312362],[76.75128870814973,17.78718241837363],[76.72120917238773,17.77395641568435],[76.71805602854117,17.75372276805677],[76.79585860587223,17.74339132450307],[76.78173346739263,17.78128034312362]]]},"properties":{"region_id":"village_599798","name":"UJLAM","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

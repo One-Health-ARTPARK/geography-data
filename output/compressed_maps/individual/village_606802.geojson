@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78986547535729,14.32321133237118],[75.77492209592327,14.32501690396269],[75.77511172964586,14.31206552540922],[75.78613395223012,14.31213463633608],[75.78986547535729,14.32321133237118]]]},"properties":{"region_id":"village_606802","name":"YAREHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

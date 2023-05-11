@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65202319046773,12.30983765841619],[75.66067656826401,12.32612262937817],[75.63282659042044,12.33426965406277],[75.63796331859511,12.31683157142575],[75.65202319046773,12.30983765841619]]]},"properties":{"region_id":"village_617844","name":"YEMMEMADU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

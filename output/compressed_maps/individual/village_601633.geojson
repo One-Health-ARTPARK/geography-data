@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55207906792594,15.3930635819355],[76.55806722869777,15.39909749076499],[76.55130597100472,15.40828440625082],[76.5407854896067,15.39842233327256],[76.55207906792594,15.3930635819355]]]},"properties":{"region_id":"village_601633","name":"VIPRA","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

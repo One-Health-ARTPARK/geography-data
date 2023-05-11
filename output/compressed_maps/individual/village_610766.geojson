@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14695380144921,13.67281926379319],[77.13907882540802,13.67557671837503],[77.13493353028674,13.65908531304352],[77.146150486069,13.66383260873407],[77.14695380144921,13.67281926379319]]]},"properties":{"region_id":"village_610766","name":"HARIHARAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

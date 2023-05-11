@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65605049980752,14.28195066669309],[76.64141189227244,14.28356526333392],[76.63378509442745,14.26594286576794],[76.65805430481825,14.26559830176326],[76.65605049980752,14.28195066669309]]]},"properties":{"region_id":"village_605340","name":"LAKSHMIPURA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58324215167555,12.92724451404885],[77.5783496350559,12.91957604388509],[77.58450720177444,12.91402469707852],[77.58890660416563,12.92072764906343],[77.58324215167555,12.92724451404885]]]},"properties":{"region_id":"village_939495","name":"THAYAPPANAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

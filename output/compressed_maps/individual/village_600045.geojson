@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35490600654197,18.32051153155916],[77.3398688933063,18.31906242765029],[77.33754332645191,18.2879523905958],[77.34859294616533,18.29149432374876],[77.35490600654197,18.32051153155916]]]},"properties":{"region_id":"village_600045","name":"HULIYAL","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

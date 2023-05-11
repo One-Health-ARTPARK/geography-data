@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3271395013727,13.79081733535408],[75.3278885436212,13.81363912390246],[75.3085273813626,13.79918399575346],[75.3271395013727,13.79081733535408]]]},"properties":{"region_id":"village_608122","name":"MALLAPURA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

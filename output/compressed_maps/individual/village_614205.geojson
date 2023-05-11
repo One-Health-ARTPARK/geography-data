@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64623752366788,12.51115942634361],[76.63369917005788,12.50882956401418],[76.63307287085374,12.4931542798985],[76.64218387478427,12.4954042504079],[76.64623752366788,12.51115942634361]]]},"properties":{"region_id":"village_614205","name":"KURUBARABETTAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

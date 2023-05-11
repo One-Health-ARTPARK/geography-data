@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06443706214334,17.31563865644204],[76.06439176298933,17.3538863734944],[76.03142929937518,17.33528584561286],[76.06443706214334,17.31563865644204]]]},"properties":{"region_id":"village_599249","name":"GUBBEWAD","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

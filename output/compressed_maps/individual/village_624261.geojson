@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92564658678158,13.3004468970066],[77.92601545339433,13.30526223437786],[77.92075596575211,13.30728115034553],[77.91848708848791,13.2999731491238],[77.92564658678158,13.3004468970066]]]},"properties":{"region_id":"village_624261","name":"YARECHINAPURA","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6248521872556,17.00473401398807],[76.56289183617794,17.00971857672661],[76.55972100041167,16.9634281594962],[76.62573646648546,16.96165726050374],[76.6248521872556,17.00473401398807]]]},"properties":{"region_id":"village_620749","name":"HIPPERGA S.NELOGI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

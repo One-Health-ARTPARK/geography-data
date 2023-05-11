@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0297629824677,14.23524735385903],[76.01495549880445,14.23636351865046],[76.00744223598646,14.19806210592519],[76.01890234174638,14.19834124307311],[76.0297629824677,14.23524735385903]]]},"properties":{"region_id":"village_606953","name":"MEDIKERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

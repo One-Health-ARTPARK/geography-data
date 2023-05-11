@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93107992235589,12.50464584404917],[76.91400057258483,12.50839692528625],[76.90800281442762,12.49864704574284],[76.91688293324032,12.48575211739794],[76.93107992235589,12.50464584404917]]]},"properties":{"region_id":"village_614478","name":"CHEERANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94673800064815,13.31917204006697],[75.91638841713713,13.32620800442797],[75.92102153247207,13.29745592686275],[75.94673800064815,13.31917204006697]]]},"properties":{"region_id":"village_609785","name":"KOUTHALU","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

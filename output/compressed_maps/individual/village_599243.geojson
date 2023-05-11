@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94743590758992,16.97406494715243],[75.92217500629388,16.9607715235552],[75.93503989450338,16.93236230735307],[75.96061436023982,16.95809508016069],[75.94743590758992,16.97406494715243]]]},"properties":{"region_id":"village_599243","name":"SHIRKANAHALLI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7140163979127,14.91927082409375],[76.7037352133595,14.93104687633324],[76.6803805130673,14.92466395104071],[76.7126377805336,14.90243736076341],[76.7140163979127,14.91927082409375]]]},"properties":{"region_id":"village_605169","name":"CHINIVALADAGUDDA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.3656537517336,16.31190634016402],[74.33534867762576,16.30914269935139],[74.3472135627318,16.2922244976016],[74.36181731159641,16.29156269029784],[74.3656537517336,16.31190634016402]]]},"properties":{"region_id":"village_597550","name":"BUGATEALUR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

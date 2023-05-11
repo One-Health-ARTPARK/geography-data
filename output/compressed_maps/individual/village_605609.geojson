@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35817566497796,14.15041346504978],[76.31934365921087,14.13496219841062],[76.35436534599685,14.10840128127931],[76.35817566497796,14.15041346504978]]]},"properties":{"region_id":"village_605609","name":"GODABANAHAL","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

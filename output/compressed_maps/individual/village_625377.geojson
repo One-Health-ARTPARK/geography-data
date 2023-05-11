@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74663199659607,13.25454101265326],[77.72730988350061,13.24744291405426],[77.74312885814093,13.23644247746043],[77.74663199659607,13.25454101265326]]]},"properties":{"region_id":"village_625377","name":"GOKARE","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

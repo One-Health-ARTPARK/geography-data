@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.678975126074,16.11158691623523],[74.67564505312,16.13470010240449],[74.64222990924658,16.12638700033742],[74.63905973021215,16.1089942054596],[74.66197138896975,16.10616746844764],[74.678975126074,16.11158691623523]]]},"properties":{"region_id":"village_597664","name":"RUSTUMPUR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

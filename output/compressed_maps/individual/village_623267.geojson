@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52767202016797,13.58700289716517],[77.53631348361816,13.5742080285584],[77.54901768596416,13.58250911953732],[77.52767202016797,13.58700289716517]]]},"properties":{"region_id":"village_623267","name":"KURUBARAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

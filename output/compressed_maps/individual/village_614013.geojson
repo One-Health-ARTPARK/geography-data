@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68678259802364,12.73054477927573],[76.68138842929159,12.74118727505555],[76.67597570563687,12.73218106618403],[76.68678259802364,12.73054477927573]]]},"properties":{"region_id":"village_614013","name":"KEMMANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71213217809493,15.98559222560306],[75.69842469269025,16.0043533556281],[75.67783270179255,15.97115600753013],[75.69737168237668,15.96929115024578],[75.71213217809493,15.98559222560306]]]},"properties":{"region_id":"village_598737","name":"KUTAKANAKERI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

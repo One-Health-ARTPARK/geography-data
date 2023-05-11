@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94780016394279,12.85036765178542],[76.94531059594334,12.86722009059262],[76.93308292719634,12.8628964179933],[76.92724810856616,12.85061744538927],[76.94780016394279,12.85036765178542]]]},"properties":{"region_id":"village_612677","name":"SANABA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05301866154376,12.69007631425444],[75.0852330143039,12.70318083829915],[75.0526877085018,12.72001502857148],[75.05301866154376,12.69007631425444]]]},"properties":{"region_id":"village_617589","name":"PERUVAI","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

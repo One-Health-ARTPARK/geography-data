@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88543589839311,14.37794424747616],[74.86183580358039,14.37515370839279],[74.86381577911462,14.36012230897797],[74.88543589839311,14.37794424747616]]]},"properties":{"region_id":"village_603699","name":"BALGULI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

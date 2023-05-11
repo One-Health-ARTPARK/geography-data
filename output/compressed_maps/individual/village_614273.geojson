@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58654730864026,12.40186272195743],[76.57399762500947,12.40373328481919],[76.56790961801028,12.39607927849812],[76.58652471855821,12.38722836464713],[76.58654730864026,12.40186272195743]]]},"properties":{"region_id":"village_614273","name":"HULIKERE","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

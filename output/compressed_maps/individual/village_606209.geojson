@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75616299808128,14.47442976168174],[75.73434209746284,14.47746936650629],[75.74216460505762,14.45966032059893],[75.7551104326859,14.46236753647762],[75.75616299808128,14.47442976168174]]]},"properties":{"region_id":"village_606209","name":"HOSAHALLI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75096582287163,11.69722450617969],[76.75822823465126,11.70158414951684],[76.75650718152455,11.7094572957592],[76.74985609021488,11.70658976713541],[76.75096582287163,11.69722450617969]]]},"properties":{"region_id":"village_619553","name":"MALAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

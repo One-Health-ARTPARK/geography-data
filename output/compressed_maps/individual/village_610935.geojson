@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35069006318696,13.70421610062341],[77.34076029671785,13.69983802524314],[77.33676830317809,13.6844154057329],[77.35330053847657,13.68732296451181],[77.35069006318696,13.70421610062341]]]},"properties":{"region_id":"village_610935","name":"CHIKKAMALUR","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

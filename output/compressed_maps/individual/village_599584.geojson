@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10343870784317,16.48037362727615],[76.08282653262282,16.48241269245818],[76.07851283969794,16.45417554150889],[76.09471438377535,16.45566896863686],[76.10343870784317,16.48037362727615]]]},"properties":{"region_id":"village_599584","name":"AGASABAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

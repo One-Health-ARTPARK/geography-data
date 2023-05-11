@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00123368091629,15.66651749587097],[76.96332515592053,15.66397404645125],[76.96532506988495,15.6538232126332],[76.9995497901934,15.65728380024297],[77.00123368091629,15.66651749587097]]]},"properties":{"region_id":"village_604800","name":"T.RAMPURA","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

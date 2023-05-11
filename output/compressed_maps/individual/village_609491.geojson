@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12684400131313,13.5442776340527],[76.12737639740776,13.56578355875714],[76.11299464266428,13.56484692466948],[76.11607200837541,13.55027524155914],[76.12684400131313,13.5442776340527]]]},"properties":{"region_id":"village_609491","name":"DODDANAYAKANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

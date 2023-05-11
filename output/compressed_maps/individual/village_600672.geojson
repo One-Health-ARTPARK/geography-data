@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13869981083707,16.23519424115846],[77.12126660170652,16.26187411638118],[77.10708636834693,16.21332779893952],[77.13494123070228,16.21306163165001],[77.13869981083707,16.23519424115846]]]},"properties":{"region_id":"village_600672","name":"GANEKAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

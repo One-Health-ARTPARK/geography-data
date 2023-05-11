@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17491357114402,17.23759069468487],[77.15350707526738,17.23601790396989],[77.16149221533352,17.20887395163425],[77.18242286482784,17.22275801781612],[77.17491357114402,17.23759069468487]]]},"properties":{"region_id":"village_620472","name":"SANGAVI (M)","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

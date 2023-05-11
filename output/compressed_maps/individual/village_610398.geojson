@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71167647069777,13.76759388473053],[76.69583566559209,13.75485207456692],[76.68424948424973,13.7306026258252],[76.71059106480246,13.7363022729821],[76.71167647069777,13.76759388473053]]]},"properties":{"region_id":"village_610398","name":"GUNGARAPENTE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

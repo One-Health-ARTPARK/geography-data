@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.47885144367326,14.30378479839147],[74.46729479453407,14.30646917968471],[74.46349474841875,14.29801796606634],[74.47330081950672,14.29119732412414],[74.47885144367326,14.30378479839147]]]},"properties":{"region_id":"village_603779","name":"AROLLI-MUNDAGOD","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

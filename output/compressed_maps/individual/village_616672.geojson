@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15934692635707,12.64993550553699],[76.16861213021305,12.65297499626564],[76.16254261550742,12.66360088702937],[76.15289173493862,12.66250043256217],[76.15934692635707,12.64993550553699]]]},"properties":{"region_id":"village_616672","name":"SEEBAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

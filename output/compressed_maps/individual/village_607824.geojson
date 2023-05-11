@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33106912555553,14.21177644932693],[75.32113682639833,14.21138441254203],[75.31907119784937,14.19589924279948],[75.33691822367565,14.19984827050687],[75.33106912555553,14.21177644932693]]]},"properties":{"region_id":"village_607824","name":"HARIGEHALU","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

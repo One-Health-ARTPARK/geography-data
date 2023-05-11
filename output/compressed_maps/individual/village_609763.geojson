@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8839225920128,13.39995207281538],[75.87622141687478,13.40302055792445],[75.8632474648761,13.39840555513349],[75.8820907815265,13.39089933150522],[75.8839225920128,13.39995207281538]]]},"properties":{"region_id":"village_609763","name":"THADABENAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

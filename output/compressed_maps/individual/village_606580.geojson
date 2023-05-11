@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89476180080447,14.34031758993168],[75.87949977703227,14.34281078325428],[75.86676573380464,14.328400648882],[75.89332954878927,14.32298000991787],[75.89476180080447,14.34031758993168]]]},"properties":{"region_id":"village_606580","name":"KUKKAVADA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

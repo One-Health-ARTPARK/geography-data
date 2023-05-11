@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07785789098364,13.92966703245201],[76.03827365913708,13.93062521223765],[76.02851947654311,13.89877554916831],[76.07797836377708,13.91128563881673],[76.07785789098364,13.92966703245201]]]},"properties":{"region_id":"village_605702","name":"THUPPADAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.18754358362499,13.43444612334788],[78.18311263608526,13.43405032968922],[78.18216857476823,13.4240682444241],[78.19186130495054,13.42877360704067],[78.18754358362499,13.43444612334788]]]},"properties":{"region_id":"village_621546","name":"NACHAGADDE","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

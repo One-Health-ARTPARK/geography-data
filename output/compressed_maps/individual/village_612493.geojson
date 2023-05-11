@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91975613231739,12.97221349107461],[76.90148048086145,12.97567351201082],[76.89989542789772,12.9528558974955],[76.91852184172662,12.95526685922746],[76.91975613231739,12.97221349107461]]]},"properties":{"region_id":"village_612493","name":"MANTYA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

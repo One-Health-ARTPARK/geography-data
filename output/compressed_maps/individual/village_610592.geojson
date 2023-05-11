@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51458180527953,14.1820233817682],[77.47047592788971,14.17447281586418],[77.50377742710778,14.1577207154314],[77.51458180527953,14.1820233817682]]]},"properties":{"region_id":"village_610592","name":"HUSSAINPURA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

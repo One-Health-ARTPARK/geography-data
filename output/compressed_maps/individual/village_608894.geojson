@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91322412180155,13.23734380487814],[74.90110637687252,13.23175298687406],[74.88278683670771,13.2071777995751],[74.92267415291467,13.18650346432542],[74.91322412180155,13.23734380487814]]]},"properties":{"region_id":"village_608894","name":"KALLYA","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

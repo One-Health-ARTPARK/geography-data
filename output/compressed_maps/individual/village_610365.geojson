@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85331754717319,13.74211200531684],[76.87918869060921,13.74407519910739],[76.8748447954522,13.75752714396052],[76.84644810201775,13.76125860476658],[76.85331754717319,13.74211200531684]]]},"properties":{"region_id":"village_610365","name":"BHUVANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

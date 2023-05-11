@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77515937173334,14.66146570911942],[74.76053064494756,14.63899753394948],[74.76732652730982,14.62998717014942],[74.7861717500969,14.64593891359855],[74.77515937173334,14.66146570911942]]]},"properties":{"region_id":"village_603141","name":"BALEGADDE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

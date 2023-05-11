@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85545888173642,14.71045846349098],[74.84668743130915,14.73238922727516],[74.83625609525326,14.71707280619739],[74.85545888173642,14.71045846349098]]]},"properties":{"region_id":"village_603129","name":"BELALE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

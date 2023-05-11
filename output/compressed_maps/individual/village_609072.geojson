@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.539486814235,13.5816145119186],[75.50867988568586,13.56800101910688],[75.51238224650655,13.54054219963388],[75.53508656938189,13.55844469129503],[75.539486814235,13.5816145119186]]]},"properties":{"region_id":"village_609072","name":"VARKATE","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

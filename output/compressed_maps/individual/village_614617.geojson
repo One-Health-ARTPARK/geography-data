@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95830950457962,12.47157489747302],[76.94237318241503,12.46757924937527],[76.94809046021199,12.4468059584692],[76.95846536234276,12.44644270372442],[76.95830950457962,12.47157489747302]]]},"properties":{"region_id":"village_614617","name":"SABBANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

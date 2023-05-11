@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.301975785136,15.30692486561891],[76.29770920741045,15.32679953624728],[76.27650717619119,15.31912844952589],[76.29030673329486,15.29974371802059],[76.301975785136,15.30692486561891]]]},"properties":{"region_id":"village_601852","name":"CHIKKASANKANDI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

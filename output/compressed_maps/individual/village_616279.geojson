@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95098268877011,12.85464781318878],[75.9419083820029,12.86660139486952],[75.93592030849632,12.85735104489271],[75.93981547210794,12.84657309039936],[75.95098268877011,12.85464781318878]]]},"properties":{"region_id":"village_616279","name":"KANIVE BASAVANAHALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87565833831705,13.11100552837522],[77.86734777570231,13.10367411570804],[77.87714129529736,13.09844045762104],[77.87565833831705,13.11100552837522]]]},"properties":{"region_id":"village_625616","name":"MYLAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

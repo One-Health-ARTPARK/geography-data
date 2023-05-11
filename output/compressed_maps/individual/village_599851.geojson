@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10772146821134,18.08803893520254],[77.09652989565706,18.0874082171295],[77.08780489654956,18.06220661545869],[77.10558213118439,18.06590648181756],[77.10772146821134,18.08803893520254]]]},"properties":{"region_id":"village_599851","name":"KHUDAWANDPUR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

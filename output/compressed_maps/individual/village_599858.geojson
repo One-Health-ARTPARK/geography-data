@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11418067428397,18.02592285269706],[77.0840614757998,18.04371670595878],[77.08435628702388,18.01549164754304],[77.1023003524025,18.01198992043137],[77.11418067428397,18.02592285269706]]]},"properties":{"region_id":"village_599858","name":"LADHA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

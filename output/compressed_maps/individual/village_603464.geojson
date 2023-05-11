@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.46379942983806,14.45357866823612],[74.43855529923859,14.47293953864285],[74.43352718295829,14.44328310218324],[74.46379942983806,14.45357866823612]]]},"properties":{"region_id":"village_603464","name":"DIVGI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

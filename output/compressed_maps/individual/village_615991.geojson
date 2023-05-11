@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26111548229717,13.07369185285409],[76.25028653794895,13.06968033501865],[76.25383652621441,13.06107176813738],[76.27267245145231,13.06898791188525],[76.26111548229717,13.07369185285409]]]},"properties":{"region_id":"village_615991","name":"VALAGEREHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

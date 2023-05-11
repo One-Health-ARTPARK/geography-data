@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86333053884482,13.63400603430028],[74.84665942506726,13.64398258580828],[74.81580458680568,13.62160109505755],[74.86615744152255,13.58883908952156],[74.86333053884482,13.63400603430028]]]},"properties":{"region_id":"village_608716","name":"SHANKARANARAYANA","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

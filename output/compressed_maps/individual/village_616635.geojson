@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09667198683282,12.69207745512991],[76.07150916110207,12.69695910692432],[76.07048061053304,12.6872686086188],[76.08570160917436,12.68306319514233],[76.09667198683282,12.69207745512991]]]},"properties":{"region_id":"village_616635","name":"DODDAMAGGE","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

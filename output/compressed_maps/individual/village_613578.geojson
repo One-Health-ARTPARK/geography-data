@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49399533593919,12.6212550805662],[76.48308557041858,12.61685210900051],[76.4923045500196,12.61090425184788],[76.49399533593919,12.6212550805662]]]},"properties":{"region_id":"village_613578","name":"NARGONAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

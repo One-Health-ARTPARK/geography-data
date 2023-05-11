@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.15612193241466,13.51418266177716],[78.14684474738877,13.50729994327378],[78.16421548136867,13.49873352211747],[78.16906845449274,13.50920986637119],[78.15612193241466,13.51418266177716]]]},"properties":{"region_id":"village_624430","name":"PASALANAIKANAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

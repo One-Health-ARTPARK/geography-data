@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25344150303953,13.64250829478727],[75.26046274194556,13.66245852050358],[75.24331354674084,13.66887297724156],[75.23278274408575,13.65594260839335],[75.25344150303953,13.64250829478727]]]},"properties":{"region_id":"village_608241","name":"HARALIMUTT","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

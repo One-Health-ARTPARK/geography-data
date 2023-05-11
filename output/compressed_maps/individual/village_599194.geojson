@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64026316010981,17.18919221210696],[75.62837223245612,17.16214120014881],[75.6506361656104,17.14773063113927],[75.64026316010981,17.18919221210696]]]},"properties":{"region_id":"village_599194","name":"KATARAL","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

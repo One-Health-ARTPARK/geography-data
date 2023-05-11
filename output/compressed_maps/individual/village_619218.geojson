@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8493182341092,12.21485564623465],[76.83380042645241,12.22602120023292],[76.83311981756792,12.19804823366439],[76.84930195522827,12.19770199759221],[76.8493182341092,12.21485564623465]]]},"properties":{"region_id":"village_619218","name":"THAYURU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

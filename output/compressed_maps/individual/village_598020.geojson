@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73024446065475,15.42855624659979],[74.71651728537418,15.42470676758017],[74.71664681173984,15.41115355583317],[74.7318926879669,15.4079796549561],[74.73024446065475,15.42855624659979]]]},"properties":{"region_id":"village_598020","name":"PUR","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

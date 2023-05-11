@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81078887275186,15.44354146063459],[76.77673494362814,15.43465289293558],[76.75697685727991,15.43621238214012],[76.75814923886722,15.41661122228243],[76.79621923017392,15.41274460782977],[76.81078887275186,15.44354146063459]]]},"properties":{"region_id":"village_604785","name":"HAVINAHAL","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

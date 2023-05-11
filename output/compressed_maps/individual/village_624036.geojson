@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84794436454399,13.61668340190543],[77.83934388945633,13.62098117212009],[77.83072820109417,13.60976664230984],[77.83489106741992,13.60097007337881],[77.84794436454399,13.61668340190543]]]},"properties":{"region_id":"village_624036","name":"S.DEVAGANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

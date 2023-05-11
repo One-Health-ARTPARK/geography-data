@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51527631498884,14.7798721504488],[76.50817695293041,14.80100468681948],[76.4903988227286,14.78435631398855],[76.49554600542535,14.77400091700025],[76.51527631498884,14.7798721504488]]]},"properties":{"region_id":"village_605096","name":"BELLIGATTA","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

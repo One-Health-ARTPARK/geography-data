@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2607956763582,12.59901842249604],[76.25326101958763,12.59128222484804],[76.26639871610297,12.58990102987447],[76.2607956763582,12.59901842249604]]]},"properties":{"region_id":"village_618515","name":"SANABINAKUPPE","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

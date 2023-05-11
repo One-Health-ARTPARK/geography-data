@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05172485202174,13.73435438518749],[76.03745935984227,13.72235615762818],[76.06038729989311,13.71638834765871],[76.05172485202174,13.73435438518749]]]},"properties":{"region_id":"village_609301","name":"SOLLAPUR","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

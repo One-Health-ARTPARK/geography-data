@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90614599890183,14.00723841392562],[76.8806484094722,14.02402858823961],[76.86925318551933,14.00354245571506],[76.90783604056116,13.98790822347256],[76.90614599890183,14.00723841392562]]]},"properties":{"region_id":"village_610267","name":"NEJANTHI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

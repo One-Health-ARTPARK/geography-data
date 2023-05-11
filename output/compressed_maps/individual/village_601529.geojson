@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34876960807068,15.82422166126843],[76.33158243857608,15.82348311762969],[76.32682635282657,15.79697972516582],[76.33490035882771,15.79568574351191],[76.34876960807068,15.82422166126843]]]},"properties":{"region_id":"village_601529","name":"IDLAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71685064813009,16.74596215477422],[76.69141722402485,16.74877156065496],[76.67884853838639,16.74262012313504],[76.68055159542254,16.71491026421101],[76.6997372411014,16.73943352616368],[76.71685064813009,16.74596215477422]]]},"properties":{"region_id":"village_621082","name":"DARSHANAPUR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

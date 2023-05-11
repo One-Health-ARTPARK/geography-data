@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20832541295597,13.66831599988915],[77.19600500826611,13.65786159874404],[77.19184471188775,13.63887067492267],[77.2046403077026,13.63898655031119],[77.21403876454025,13.65668473748811],[77.20832541295597,13.66831599988915]]]},"properties":{"region_id":"village_610850","name":"MADHUGIRI (RURAL)","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

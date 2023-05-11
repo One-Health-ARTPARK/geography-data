@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84834863904912,12.28952788759683],[75.83241967051077,12.29401792681723],[75.81002851009576,12.28717782741584],[75.83792438489688,12.27198140946696],[75.84834863904912,12.28952788759683]]]},"properties":{"region_id":"village_618020","name":"YEDUR","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

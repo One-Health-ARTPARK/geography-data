@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39643419315364,12.74522034721356],[75.36709707876916,12.74415019887933],[75.37775401757101,12.72212718392199],[75.39643419315364,12.74522034721356]]]},"properties":{"region_id":"village_617717","name":"CHARVAKA","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

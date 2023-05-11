@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93209060884543,16.40103791016782],[75.92894397326128,16.41837440857276],[75.91253333945254,16.42229137376101],[75.91386443990218,16.39903986122347],[75.93209060884543,16.40103791016782]]]},"properties":{"region_id":"village_599517","name":"ABBIHAL","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

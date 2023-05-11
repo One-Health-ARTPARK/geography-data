@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68875705852689,14.30751832309232],[76.64867938971068,14.30408935209847],[76.64143496704075,14.28362071995651],[76.68588088223723,14.28665139648567],[76.68875705852689,14.30751832309232]]]},"properties":{"region_id":"village_605338","name":"NAGARAMGERE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

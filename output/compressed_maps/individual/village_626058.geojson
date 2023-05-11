@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2678905067321,12.8087934615312],[77.28709895711644,12.8042494597982],[77.29132487552657,12.82574882700464],[77.27209859325717,12.83165767927765],[77.2678905067321,12.8087934615312]]]},"properties":{"region_id":"village_626058","name":"MELEHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

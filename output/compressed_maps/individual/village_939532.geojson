@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53657677226896,13.97918644139766],[75.53091746141959,13.96483486138962],[75.54638656895753,13.95886409858713],[75.55539142547818,13.96866030558882],[75.53657677226896,13.97918644139766]]]},"properties":{"region_id":"village_939532","name":"SOMANAKOPPA","parent":"subdistrict_5520","parent_name":"SHIVAMOGGA"}}
+]}

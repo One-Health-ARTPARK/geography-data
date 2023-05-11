@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8618190230851,13.6631592468946],[77.85005005187735,13.66129068657649],[77.85655408848653,13.65237223919338],[77.8618190230851,13.6631592468946]]]},"properties":{"region_id":"village_623752","name":"KAMMADIKE","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

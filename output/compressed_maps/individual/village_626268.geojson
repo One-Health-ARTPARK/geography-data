@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24576336965484,12.61769450210716],[77.23404019829906,12.62027657057972],[77.2288792524324,12.61221017022802],[77.2406507886461,12.61266112889229],[77.24576336965484,12.61769450210716]]]},"properties":{"region_id":"village_626268","name":"SANABANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

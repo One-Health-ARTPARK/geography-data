@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5143424991788,13.62120515157306],[77.50303693083467,13.62081984569884],[77.49991676343842,13.60791640289098],[77.51652986642625,13.60638103721644],[77.5143424991788,13.62120515157306]]]},"properties":{"region_id":"village_623252","name":"KAREKALLAHALLI *","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

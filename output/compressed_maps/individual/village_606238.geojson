@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74349547680907,14.36435537410908],[75.72937297738794,14.34569935414767],[75.76296238678252,14.3402315059159],[75.76163834648708,14.35923898289015],[75.74349547680907,14.36435537410908]]]},"properties":{"region_id":"village_606238","name":"MALEBENNUR","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

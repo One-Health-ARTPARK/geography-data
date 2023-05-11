@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15221339712267,17.83961433082425],[77.15359183940744,17.86280808032925],[77.10665110880153,17.85282302686478],[77.11011936233058,17.83443674846188],[77.15221339712267,17.83961433082425]]]},"properties":{"region_id":"village_600270","name":"SEDOL","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59075723241679,14.73404224022755],[75.56175756259404,14.75372768055845],[75.55140984050352,14.70738323311275],[75.60091582633943,14.69814697106706],[75.59075723241679,14.73404224022755]]]},"properties":{"region_id":"village_604324","name":"BUDAPANAHALLI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31521494653144,14.11175332946296],[76.31528343395789,14.09212779565099],[76.32991786314011,14.08887756190958],[76.33875081971452,14.10975681167239],[76.31521494653144,14.11175332946296]]]},"properties":{"region_id":"village_605611","name":"ANNEHAL","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

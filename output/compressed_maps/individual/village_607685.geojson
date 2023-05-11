@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2625640987372,14.47740999395003],[75.26515965846323,14.48474479498768],[75.27484953335947,14.4999053368393],[75.26082554946713,14.49514577433535],[75.25386600090307,14.47506305107942],[75.2625640987372,14.47740999395003]]]},"properties":{"region_id":"village_607685","name":"SHANKRIKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

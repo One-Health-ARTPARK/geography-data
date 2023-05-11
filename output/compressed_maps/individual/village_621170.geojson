@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93000208742909,16.63503815212675],[76.90928775122384,16.63598939240403],[76.89465889067966,16.62340463635432],[76.92694594496177,16.62427092328587],[76.93000208742909,16.63503815212675]]]},"properties":{"region_id":"village_621170","name":"ANWAR","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

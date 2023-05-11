@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15842320632801,13.89227289972399],[76.14576466953517,13.89145650604582],[76.14882088532805,13.87224623625712],[76.15838016625992,13.87366988905552],[76.15842320632801,13.89227289972399]]]},"properties":{"region_id":"village_605712","name":"CHANNASAMUDRA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

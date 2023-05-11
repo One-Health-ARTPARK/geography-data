@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81207930805559,13.57776096041804],[74.77649637218876,13.57370062744582],[74.80010150338232,13.54871306184653],[74.81207930805559,13.57776096041804]]]},"properties":{"region_id":"village_608746","name":"YEDYADI-MATHYADI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

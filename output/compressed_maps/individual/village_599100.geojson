@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77627503604438,16.8115934209264],[75.75020572927156,16.79515004156716],[75.74052518099123,16.75955708455765],[75.77666946646676,16.75498829710906],[75.80203642131708,16.76876442003856],[75.77627503604438,16.8115934209264]]]},"properties":{"region_id":"village_599100","name":"BIJAPUR (RURAL)","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

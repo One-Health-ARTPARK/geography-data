@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71034900573686,13.4967984428228],[74.68643204657462,13.50543192591353],[74.68743275696656,13.49036708625185],[74.71034900573686,13.4967984428228]]]},"properties":{"region_id":"village_938672","name":"PARAMPALLI","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

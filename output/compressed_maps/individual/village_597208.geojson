@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.46385492301789,16.36743047245127],[74.43399330934209,16.38309827653704],[74.43347419590685,16.35820371584951],[74.46385492301789,16.36743047245127]]]},"properties":{"region_id":"village_597208","name":"WALKI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

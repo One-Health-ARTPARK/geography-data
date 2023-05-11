@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26962890023935,14.40537423224765],[75.2573833828087,14.40466126475456],[75.25444817865153,14.39797860812491],[75.2717292684852,14.39787992545838],[75.26962890023935,14.40537423224765]]]},"properties":{"region_id":"village_607717","name":"MAYASETTIKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25792695289421,13.69073113986384],[77.254897995468,13.70302252831436],[77.24797073081774,13.7032366034763],[77.24729042623608,13.69353228195449],[77.25792695289421,13.69073113986384]]]},"properties":{"region_id":"village_610821","name":"MARUVEKERE","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

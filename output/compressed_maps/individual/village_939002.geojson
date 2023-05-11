@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91174075106304,12.81637306379642],[75.90216560465122,12.81876385255626],[75.8962683751952,12.81302973146096],[75.90623128198139,12.80551892639325],[75.91174075106304,12.81637306379642]]]},"properties":{"region_id":"village_939002","name":"MAGADALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

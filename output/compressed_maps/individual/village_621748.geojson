@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96549766439394,13.26108541288362],[77.95623585821839,13.24907228380275],[77.96872305527592,13.2455913155782],[77.96549766439394,13.26108541288362]]]},"properties":{"region_id":"village_621748","name":"CHANNASANDRA","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

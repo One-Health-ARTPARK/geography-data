@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03223049254692,18.14748042832189],[77.05218767839341,18.17384991354939],[77.023594982215,18.17537971501762],[77.03223049254692,18.14748042832189]]]},"properties":{"region_id":"village_599839","name":"MANKESHWAR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

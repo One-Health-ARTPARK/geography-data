@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.49577400649024,14.30276028412905],[74.49172491288587,14.32894797167159],[74.47336047397467,14.31690148686433],[74.48184040717013,14.30180192018326],[74.49577400649024,14.30276028412905]]]},"properties":{"region_id":"village_603743","name":"HOSAKULI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

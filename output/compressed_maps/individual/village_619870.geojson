@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26602326784362,12.09705707305452],[77.2496864704872,12.10041881877754],[77.24461343471175,12.07170652645421],[77.26254205842385,12.07474621147594],[77.26602326784362,12.09705707305452]]]},"properties":{"region_id":"village_619870","name":"GANGADHARAKATTE","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

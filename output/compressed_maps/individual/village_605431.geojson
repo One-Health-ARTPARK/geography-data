@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24670630846184,14.41257881440892],[76.22333426246468,14.4183128115739],[76.2071097638288,14.40499033183965],[76.23076137320336,14.38659878063817],[76.24670630846184,14.41257881440892]]]},"properties":{"region_id":"village_605431","name":"ISSAMUDRA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

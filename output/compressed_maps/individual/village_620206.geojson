@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14251968938039,17.60005248771801],[77.11989688393422,17.57922658497103],[77.1312349472363,17.5653824132311],[77.15892455459726,17.57873680392336],[77.14251968938039,17.60005248771801]]]},"properties":{"region_id":"village_620206","name":"KINNISARPOSH","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

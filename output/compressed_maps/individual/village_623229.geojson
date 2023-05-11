@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48414623126816,13.54209119813465],[77.46323454634937,13.53202831317425],[77.4759745996531,13.52468916273606],[77.48414623126816,13.54209119813465]]]},"properties":{"region_id":"village_623229","name":"GEDARE","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86630270709841,12.70915879503545],[76.85047810131366,12.69461483278473],[76.86723047163157,12.68761184053204],[76.86630270709841,12.70915879503545]]]},"properties":{"region_id":"village_614343","name":"KAREKATTE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42758274913167,16.24756292915543],[75.39841447710009,16.27087135034201],[75.41566356829361,16.23501542997123],[75.42943594286689,16.23382763249701],[75.42758274913167,16.24756292915543]]]},"properties":{"region_id":"village_598589","name":"BUDNI (B.K.)","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86587700576906,13.21996884244869],[77.85807911209875,13.20544739899973],[77.86544860766375,13.2020739358809],[77.86587700576906,13.21996884244869]]]},"properties":{"region_id":"village_625476","name":"DIMBAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

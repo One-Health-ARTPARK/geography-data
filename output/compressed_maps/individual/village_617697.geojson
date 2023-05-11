@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37292631606493,12.82021609880619],[75.36301835425974,12.82920593006854],[75.34693307818698,12.82199253282209],[75.35705640678482,12.80571327645316],[75.37292631606493,12.82021609880619]]]},"properties":{"region_id":"village_617697","name":"ALANTHAYA","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

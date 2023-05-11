@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09928442719031,15.81284269282304],[75.07070797010007,15.81741549507866],[75.07035291149855,15.8024059776786],[75.08467060783745,15.79984810752842],[75.09928442719031,15.81284269282304]]]},"properties":{"region_id":"village_939194","name":"HADAGALI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

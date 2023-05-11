@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09826197278927,13.62730400166261],[75.08004733119283,13.62186995272487],[75.09932071366755,13.61105396371082],[75.09826197278927,13.62730400166261]]]},"properties":{"region_id":"village_608273","name":"HURULI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

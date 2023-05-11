@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02550918295982,14.59058339485873],[75.01573079992873,14.62198148255744],[74.99746841476124,14.60767471091038],[75.02550918295982,14.59058339485873]]]},"properties":{"region_id":"village_603283","name":"ANDGI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

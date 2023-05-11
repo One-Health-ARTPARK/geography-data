@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59963160528487,12.37531924393389],[77.6002765216271,12.40606978548251],[77.57774582748415,12.39660237056052],[77.59963160528487,12.37531924393389]]]},"properties":{"region_id":"village_626632","name":"HUNSANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

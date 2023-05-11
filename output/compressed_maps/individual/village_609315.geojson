@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99636954351956,13.70542882443229],[75.99178892880474,13.70589751796343],[75.98827706460554,13.68029475015972],[75.9951388643983,13.68998359865318],[75.99636954351956,13.70542882443229]]]},"properties":{"region_id":"village_609315","name":"KURUBARAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

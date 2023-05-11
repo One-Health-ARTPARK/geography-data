@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28730482516751,14.76325240542896],[75.28237211477368,14.771090929148],[75.2730808074234,14.75748816371853],[75.27824232206852,14.75197009075161],[75.28730482516751,14.76325240542896]]]},"properties":{"region_id":"village_604202","name":"BIDARAGADDI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3217905267747,16.99771893537439],[76.2684939772214,16.99762745958231],[76.26864524129199,16.98135420488623],[76.3217905267747,16.99771893537439]]]},"properties":{"region_id":"village_599326","name":"MANGALUR","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

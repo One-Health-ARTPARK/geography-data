@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59522492483643,12.8994348684817],[76.58841609518319,12.90608822662969],[76.57990272739983,12.89576061903949],[76.590608977385,12.88977414352242],[76.59522492483643,12.8994348684817]]]},"properties":{"region_id":"village_617353","name":"CHOLAMBALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

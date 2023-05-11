@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38119101452364,13.99885098723281],[76.36106798195014,13.99196153559737],[76.36140682819007,13.98546084339909],[76.38567965005964,13.98675170936895],[76.38119101452364,13.99885098723281]]]},"properties":{"region_id":"village_605816","name":"MULIGERANAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

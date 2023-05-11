@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03894708027771,14.25902007016911],[76.04028944384521,14.27984976898372],[76.01968482282567,14.27887590480069],[76.01412658826958,14.26431243979955],[76.03894708027771,14.25902007016911]]]},"properties":{"region_id":"village_606704","name":"ANABERU","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02579101042926,12.38864774153563],[76.00106251553692,12.39051749728774],[76.00909231275045,12.3739393275073],[76.02269287181093,12.37931341299659],[76.02579101042926,12.38864774153563]]]},"properties":{"region_id":"village_618238","name":"ALANAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

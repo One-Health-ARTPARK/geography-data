@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60090539881566,12.86991147335412],[76.59670992640683,12.87867390678254],[76.5873541213844,12.87544904974638],[76.59457553555796,12.86615957981943],[76.60090539881566,12.86991147335412]]]},"properties":{"region_id":"village_613809","name":"GUNJENAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

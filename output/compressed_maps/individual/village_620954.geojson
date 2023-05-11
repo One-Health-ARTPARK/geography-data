@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45775987042238,16.47329996036796],[76.43066599088758,16.47389576883223],[76.43491638248605,16.43729506095417],[76.46978027755004,16.4357908707076],[76.45775987042238,16.47329996036796]]]},"properties":{"region_id":"village_620954","name":"MALNOOR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

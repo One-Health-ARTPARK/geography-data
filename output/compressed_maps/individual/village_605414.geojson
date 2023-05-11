@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78374327841387,14.12378169585446],[76.74435320097334,14.11657655416817],[76.75823133711152,14.10048777965695],[76.78374327841387,14.12378169585446]]]},"properties":{"region_id":"village_605414","name":"KALAMARAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

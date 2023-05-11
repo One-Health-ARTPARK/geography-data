@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35911401579054,15.00878172950986],[75.3179084655619,15.01158377336297],[75.3253760681052,14.99375549022744],[75.35461128735197,14.99739180272819],[75.35911401579054,15.00878172950986]]]},"properties":{"region_id":"village_603977","name":"CHILLUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

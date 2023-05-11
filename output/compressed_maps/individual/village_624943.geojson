@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37030513012814,12.99969640036209],[77.36763093895703,13.02029087697196],[77.35721201178406,13.01613530928013],[77.37030513012814,12.99969640036209]]]},"properties":{"region_id":"village_624943","name":"BANASAVADI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

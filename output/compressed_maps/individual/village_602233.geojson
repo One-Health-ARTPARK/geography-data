@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97869708939096,15.49574719382658],[74.97089761447005,15.50177685445003],[74.9579010971727,15.49953400254351],[74.96371048649881,15.49157577537219],[74.97869708939096,15.49574719382658]]]},"properties":{"region_id":"village_602233","name":"KUMBAPUR-M-NARENDRA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

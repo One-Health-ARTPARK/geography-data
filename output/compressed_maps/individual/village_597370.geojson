@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76256456032523,16.43542759247966],[74.73997840187087,16.45644800787833],[74.74185421582033,16.41447481680551],[74.76256456032523,16.43542759247966]]]},"properties":{"region_id":"village_597370","name":"BAVACHI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

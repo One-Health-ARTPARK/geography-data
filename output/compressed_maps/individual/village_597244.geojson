@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77878874504239,16.33166536468796],[74.7337459989055,16.31472458385262],[74.73336402508343,16.2965180169667],[74.76956880598573,16.30810826936129],[74.77878874504239,16.33166536468796]]]},"properties":{"region_id":"village_597244","name":"JAGANUR","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

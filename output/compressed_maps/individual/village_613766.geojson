@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70382967704117,12.97540257185996],[76.695723010773,12.97860545985371],[76.69141760762656,12.96861677814019],[76.70016986539974,12.97016172209221],[76.70382967704117,12.97540257185996]]]},"properties":{"region_id":"village_613766","name":"VARAHASANDRA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

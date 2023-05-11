@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70537579498829,13.44995615459063],[77.68756129586872,13.4556221410791],[77.67315878437961,13.45158836047436],[77.6727870186187,13.43990127259432],[77.70537579498829,13.44995615459063]]]},"properties":{"region_id":"village_623548","name":"THIPPENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

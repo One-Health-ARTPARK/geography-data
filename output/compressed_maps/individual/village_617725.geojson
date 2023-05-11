@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38907510888322,12.71755299834142],[75.3689875413891,12.73160020156618],[75.3637498039742,12.71240307327951],[75.38907510888322,12.71755299834142]]]},"properties":{"region_id":"village_617725","name":"KANIYOOR","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

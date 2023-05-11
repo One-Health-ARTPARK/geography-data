@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15263161839694,16.02965766142377],[75.123586005178,16.02650144543565],[75.12392509769828,16.01442521014757],[75.14746739124935,16.01789729439112],[75.15263161839694,16.02965766142377]]]},"properties":{"region_id":"village_598346","name":"KESARAGOPPA","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

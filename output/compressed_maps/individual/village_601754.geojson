@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20430550361817,15.39112428750923],[76.18477672670986,15.40034013829299],[76.17412567715803,15.38820594294018],[76.19625525571574,15.37214052956007],[76.20430550361817,15.39112428750923]]]},"properties":{"region_id":"village_601754","name":"TANKANKAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24594667828525,12.43880585104841],[77.23825594480333,12.43987061279465],[77.21482912096484,12.42897345655177],[77.21803298785451,12.41721185882325],[77.24258755880315,12.42607315667157],[77.24594667828525,12.43880585104841]]]},"properties":{"region_id":"village_614775","name":"HALAGURU","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

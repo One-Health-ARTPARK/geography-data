@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92065073760057,14.56416981138469],[75.91034060187822,14.56292259289278],[75.90317248407194,14.54240963003763],[75.921834762612,14.54163097995141],[75.92065073760057,14.56416981138469]]]},"properties":{"region_id":"village_606550","name":"OBAJJIHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

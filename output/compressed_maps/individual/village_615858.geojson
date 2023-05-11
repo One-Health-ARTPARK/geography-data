@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99128297949872,13.10137792457446],[75.98005927930159,13.09592785466394],[75.99390592075727,13.08449672663805],[75.99514864260932,13.09056899271559],[75.98972880447556,13.09479646466611],[75.99128297949872,13.10137792457446]]]},"properties":{"region_id":"village_615858","name":"GOWDAGERE","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

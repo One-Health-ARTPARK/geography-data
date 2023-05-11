@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94639512214741,13.2223672622534],[77.94548871692088,13.22976026161156],[77.93804408802467,13.23036922416301],[77.93668459205385,13.2216532998334],[77.94639512214741,13.2223672622534]]]},"properties":{"region_id":"village_625543","name":"YETHINAVADEYARAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

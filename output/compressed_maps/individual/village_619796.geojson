@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09709389827894,12.07142720273631],[77.08404504238446,12.0779894361998],[77.08146436303258,12.06754519982095],[77.09674458443601,12.05963782487036],[77.09709389827894,12.07142720273631]]]},"properties":{"region_id":"village_619796","name":"MALARPALYA","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

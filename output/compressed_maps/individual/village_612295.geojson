@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77480314870735,13.21706924149504],[76.7688932475974,13.22952812271405],[76.75040477570202,13.22304386049638],[76.7524757057876,13.21381300752346],[76.77480314870735,13.21706924149504]]]},"properties":{"region_id":"village_612295","name":"TOVINAKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

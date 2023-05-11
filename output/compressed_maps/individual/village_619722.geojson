@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93849907980014,11.87704621746473],[76.91019512121049,11.87857367106833],[76.9311989077555,11.86407176826111],[76.93849907980014,11.87704621746473]]]},"properties":{"region_id":"village_619722","name":"KOTAGANAHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

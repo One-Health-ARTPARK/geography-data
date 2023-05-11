@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25309315562737,15.39167268056769],[75.23256688514559,15.35347370331149],[75.27118683470259,15.35539606939526],[75.27860897078581,15.38321380332439],[75.25309315562737,15.39167268056769]]]},"properties":{"region_id":"village_602394","name":"BHANDIWAD","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

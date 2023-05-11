@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06226853338356,13.50589133892322],[76.0407004233372,13.50585736877979],[76.04842923232897,13.48990393647773],[76.06226853338356,13.50589133892322]]]},"properties":{"region_id":"village_609644","name":"GEDLEHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

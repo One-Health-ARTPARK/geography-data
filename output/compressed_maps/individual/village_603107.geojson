@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69768496661389,14.73761442663243],[74.68810942843838,14.7512335514015],[74.67485136974933,14.72994034102623],[74.694207158998,14.72578336628837],[74.69768496661389,14.73761442663243]]]},"properties":{"region_id":"village_603107","name":"VANALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

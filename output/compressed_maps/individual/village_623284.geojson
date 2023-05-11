@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67103574083765,13.76078280965014],[77.67839491309864,13.76851865176948],[77.6796498535577,13.7871261405548],[77.66876485218405,13.78384657402719],[77.67103574083765,13.76078280965014]]]},"properties":{"region_id":"village_623284","name":"BANDARLAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

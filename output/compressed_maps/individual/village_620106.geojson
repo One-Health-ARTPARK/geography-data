@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2522581281346,17.21529588368754],[76.2139969907903,17.18627391637786],[76.24411611587175,17.16401071880329],[76.2522581281346,17.21529588368754]]]},"properties":{"region_id":"village_620106","name":"BHOSGA","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

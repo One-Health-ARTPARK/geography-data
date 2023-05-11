@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16575226843563,12.36654927372022],[76.15344124251726,12.36710162896921],[76.15032950938733,12.35040813459357],[76.16934453387275,12.356479564494],[76.16575226843563,12.36654927372022]]]},"properties":{"region_id":"village_618214","name":"MAKANAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

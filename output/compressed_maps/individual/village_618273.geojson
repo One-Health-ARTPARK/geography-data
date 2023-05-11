@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13131312513973,12.33521824923943],[76.11821651152381,12.33532274312036],[76.11777682359566,12.31723488230711],[76.12907786241855,12.31936564639886],[76.13131312513973,12.33521824923943]]]},"properties":{"region_id":"village_618273","name":"TATANAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75066356716651,14.64715595026652],[74.74525590043872,14.67809962727521],[74.72913195457174,14.66199500975166],[74.75066356716651,14.64715595026652]]]},"properties":{"region_id":"village_603136","name":"MELIN ONIKERI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

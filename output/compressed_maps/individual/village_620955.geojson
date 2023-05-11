@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47804732230543,16.43066179450513],[76.44264165359505,16.43455762689212],[76.44584803240461,16.41781824241657],[76.47644889040323,16.41572435752932],[76.47804732230543,16.43066179450513]]]},"properties":{"region_id":"village_620955","name":"GULBAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

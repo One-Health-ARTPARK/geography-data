@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82121480492324,13.06579319361716],[77.81840926247436,13.08062440314545],[77.80754052629636,13.08266330159128],[77.80101022176073,13.07339467827445],[77.82121480492324,13.06579319361716]]]},"properties":{"region_id":"village_938776","name":"DANDUPALYA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

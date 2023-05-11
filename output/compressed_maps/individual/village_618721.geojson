@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56358914652384,12.29111090889364],[76.55394385238573,12.29337763945281],[76.5532648908473,12.28548513401166],[76.56484381079592,12.28035874815816],[76.56358914652384,12.29111090889364]]]},"properties":{"region_id":"village_618721","name":"GOHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

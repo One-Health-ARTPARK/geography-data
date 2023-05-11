@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98519404209662,13.50681291119495],[75.97129483079732,13.50788856123703],[75.96802737935205,13.49433794336505],[75.97887550917615,13.48340034236547],[75.98519404209662,13.50681291119495]]]},"properties":{"region_id":"village_609528","name":"CHANNAPURA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

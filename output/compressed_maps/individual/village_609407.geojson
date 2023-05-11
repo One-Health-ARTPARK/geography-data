@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02387157536201,13.67025795435615],[75.99853975819298,13.67105213892709],[75.99616280600576,13.64726576103689],[76.01342235717968,13.64369820807009],[76.02387157536201,13.67025795435615]]]},"properties":{"region_id":"village_609407","name":"MELENAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

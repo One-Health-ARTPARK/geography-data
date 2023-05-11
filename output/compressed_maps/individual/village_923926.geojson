@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93082699944566,12.70137363016744],[75.93726771114363,12.70198217961048],[75.93849017476776,12.70839684386551],[75.93112417901568,12.70925081963666],[75.93082699944566,12.70137363016744]]]},"properties":{"region_id":"village_923926","name":"BETTADALLII","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

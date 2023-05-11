@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64537813264955,14.27305851609512],[75.63260435260095,14.2745614335444],[75.63283274429874,14.24930578795371],[75.64690296778139,14.25185607869579],[75.64537813264955,14.27305851609512]]]},"properties":{"region_id":"village_606817","name":"KONAYAKANAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29267219953557,13.25975853027199],[76.27774835242518,13.25962088445516],[76.27826387164113,13.23633219009995],[76.30064122421312,13.23869290021057],[76.29267219953557,13.25975853027199]]]},"properties":{"region_id":"village_615736","name":"T.KODIHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

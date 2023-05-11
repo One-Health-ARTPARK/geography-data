@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28868213167665,14.9728228303582],[76.33802046510417,14.96959563566282],[76.3646624747335,14.99105007426916],[76.33454958771841,15.02797004871072],[76.29507161816908,15.00594426136171],[76.28868213167665,14.9728228303582]]]},"properties":{"region_id":"village_604687","name":"HOSAKERI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

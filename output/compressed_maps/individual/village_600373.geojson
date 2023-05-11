@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30722372882967,15.99986777946822],[76.29991303297174,15.97652340953121],[76.30950989489139,15.95707201704082],[76.33747978665892,15.97040853878952],[76.30722372882967,15.99986777946822]]]},"properties":{"region_id":"village_600373","name":"KANSAVI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

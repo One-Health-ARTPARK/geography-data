@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69426500125138,15.88769135611139],[75.63869866321365,15.90346976117242],[75.63860323088159,15.87774205752554],[75.68742537687925,15.86652736847059],[75.69426500125138,15.88769135611139]]]},"properties":{"region_id":"village_598757","name":"YARAGOPPA.S.B","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

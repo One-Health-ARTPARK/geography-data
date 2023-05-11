@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01405185823599,11.9803878590208],[75.98171471313348,11.9386656760264],[76.00342396783545,11.93099401701537],[76.02166434355675,11.95038005534707],[76.01405185823599,11.9803878590208]]]},"properties":{"region_id":"village_618077","name":"MANCHALLI & FOREST","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

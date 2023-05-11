@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99452603079722,13.0205694527729],[77.98688326983094,13.02056141720544],[77.98061514584451,13.00868780671678],[77.99332490102823,13.01293519620353],[77.99452603079722,13.0205694527729]]]},"properties":{"region_id":"village_622153","name":"VADAGANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

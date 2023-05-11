@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89840513117937,12.72960296098834],[75.89436402655971,12.73360442336067],[75.88510486410912,12.7302828256387],[75.89660417960769,12.72346363804233],[75.89840513117937,12.72960296098834]]]},"properties":{"region_id":"village_617892","name":"BIDARUR","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

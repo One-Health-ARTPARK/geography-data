@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8851134116096,12.73017391696369],[75.8750467604497,12.73002711670435],[75.87492649723309,12.72364297123633],[75.88381842479215,12.71972956860352],[75.8851134116096,12.73017391696369]]]},"properties":{"region_id":"village_939037","name":"CHIKKATHOLURU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

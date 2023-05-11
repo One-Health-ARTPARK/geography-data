@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30837750813657,13.8203832817381],[76.28664748193546,13.8208502448527],[76.2884892862604,13.81202279222825],[76.31048714484871,13.80763150878961],[76.30837750813657,13.8203832817381]]]},"properties":{"region_id":"village_605867","name":"SRIRANGAPURA (JODI)","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

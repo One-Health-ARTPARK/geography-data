@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66393829417278,14.12951326402893],[75.6831473469954,14.12970585432079],[75.6814523824947,14.15303777389904],[75.6637956296706,14.15753652963478],[75.66393829417278,14.12951326402893]]]},"properties":{"region_id":"village_606836","name":"KURUVA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

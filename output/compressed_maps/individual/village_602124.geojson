@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71640529677089,15.07304876694999],[75.69444990950099,15.04843167683244],[75.70577536045606,15.02679693157992],[75.71804650081546,15.05034292652403],[75.71640529677089,15.07304876694999]]]},"properties":{"region_id":"village_602124","name":"WADAVI","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

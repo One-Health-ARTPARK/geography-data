@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44019523854085,16.20567324163473],[76.41478185767699,16.2151274268404],[76.41429264733166,16.19218736851955],[76.43321659717006,16.18220904037442],[76.44019523854085,16.20567324163473]]]},"properties":{"region_id":"village_600406","name":"UPPERI(BIG)","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

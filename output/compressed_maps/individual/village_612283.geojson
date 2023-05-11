@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71060698069405,13.22036506588746],[76.70846635522464,13.23518029663411],[76.69889496389382,13.23650501113354],[76.69622837797652,13.22341732976144],[76.71060698069405,13.22036506588746]]]},"properties":{"region_id":"village_612283","name":"RAMADIHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

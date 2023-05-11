@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7296284824697,13.21724909913867],[75.72804348169744,13.22945126604147],[75.72097209712325,13.22209451307795],[75.7296284824697,13.21724909913867]]]},"properties":{"region_id":"village_939550","name":"IMMANAMANE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70114872466125,15.76964133850692],[74.69716035142159,15.74816383666924],[74.71480550993975,15.74831890051991],[74.70806658627251,15.76757098747498],[74.70114872466125,15.76964133850692]]]},"properties":{"region_id":"village_598062","name":"GADDIKURVINKOPPA","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

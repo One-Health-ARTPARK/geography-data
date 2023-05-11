@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6412768747865,13.35466773786577],[75.63498850220604,13.36642467413202],[75.62874685173335,13.35917603193704],[75.6412768747865,13.35466773786577]]]},"properties":{"region_id":"village_609704","name":"DANIHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

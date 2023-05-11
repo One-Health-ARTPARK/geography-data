@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47642336137112,13.36066778684606],[76.4657212206039,13.36378826810976],[76.46606639066765,13.35019006990322],[76.48123466450606,13.35187600824443],[76.47642336137112,13.36066778684606]]]},"properties":{"region_id":"village_612004","name":"BYRAPURA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82003879224553,12.85079285286749],[75.81251690171281,12.84825788023538],[75.8134374407202,12.83837720845223],[75.8215877208194,12.84640463264553],[75.82003879224553,12.85079285286749]]]},"properties":{"region_id":"village_614981","name":"ECHALAPURA","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

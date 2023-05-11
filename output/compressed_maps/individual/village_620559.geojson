@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35546712595692,16.94692741707731],[77.33520034495322,16.96405356830008],[77.31875377442363,16.95143975564926],[77.33605413319466,16.93050320779716],[77.35546712595692,16.94692741707731]]]},"properties":{"region_id":"village_620559","name":"MALKAPALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

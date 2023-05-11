@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8582341247991,11.92732679309981],[76.8456597359162,11.93401284521362],[76.83859703162864,11.92385558782643],[76.83257135177251,11.90035516713986],[76.84698465315569,11.89306365867088],[76.8582341247991,11.92732679309981]]]},"properties":{"region_id":"village_619698","name":"NANJEDEVANAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

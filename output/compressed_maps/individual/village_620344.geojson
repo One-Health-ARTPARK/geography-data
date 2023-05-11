@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23652825943064,17.52563929753458],[77.2145899428748,17.52903858662809],[77.20730425413477,17.51431772192509],[77.2373486539734,17.51127016787314],[77.23652825943064,17.52563929753458]]]},"properties":{"region_id":"village_620344","name":"RANAPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

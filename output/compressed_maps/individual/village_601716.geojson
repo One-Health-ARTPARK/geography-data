@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07525333802063,15.31391158630821],[76.06504924012019,15.31375434711705],[76.06012219825303,15.3048548889175],[76.07125608578018,15.30237550365315],[76.07525333802063,15.31391158630821]]]},"properties":{"region_id":"village_601716","name":"NARSIPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

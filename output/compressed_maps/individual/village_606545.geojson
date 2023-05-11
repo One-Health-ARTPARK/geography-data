@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87728813330375,14.49773751986056],[75.84218492496208,14.49855197572099],[75.85295665939994,14.46575058951046],[75.88374255388074,14.4735502717326],[75.87728813330375,14.49773751986056]]]},"properties":{"region_id":"village_606545","name":"DODDABATHI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45966930764635,14.12890992629645],[75.46213915709227,14.17259848430328],[75.43831036226337,14.15964537008267],[75.45966930764635,14.12890992629645]]]},"properties":{"region_id":"village_606717","name":"JOGA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

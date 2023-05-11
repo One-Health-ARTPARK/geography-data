@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28173898609856,16.24350315493482],[75.26207486543056,16.24399889623792],[75.27031975569194,16.20750661888415],[75.28431677911334,16.22815768405688],[75.28173898609856,16.24350315493482]]]},"properties":{"region_id":"village_598598","name":"NINGAPUR","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

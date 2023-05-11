@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35849983785144,13.58275208577113],[76.3636270197586,13.56704121917337],[76.38255331319786,13.57042069498256],[76.37877796819545,13.58906105830286],[76.35849983785144,13.58275208577113]]]},"properties":{"region_id":"village_610032","name":"KIDUKANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

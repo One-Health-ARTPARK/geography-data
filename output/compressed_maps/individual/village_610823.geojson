@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24733359002828,13.69511897754746],[77.23573124252685,13.68963714651144],[77.24437322113155,13.68548189899631],[77.24733359002828,13.69511897754746]]]},"properties":{"region_id":"village_610823","name":"SOMAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

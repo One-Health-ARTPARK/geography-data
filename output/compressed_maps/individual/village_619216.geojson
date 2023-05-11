@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82642326515648,12.18404831191967],[76.80770391888838,12.19018379670929],[76.80918788743173,12.16083321341623],[76.8298196189832,12.16546062231048],[76.82642326515648,12.18404831191967]]]},"properties":{"region_id":"village_619216","name":"BILUGALI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

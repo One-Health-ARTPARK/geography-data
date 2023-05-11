@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88033205980184,13.51903686820391],[77.87531480829196,13.52958149421782],[77.86428171229403,13.52612607365611],[77.86647836884865,13.51449009576426],[77.88033205980184,13.51903686820391]]]},"properties":{"region_id":"village_624121","name":"MUDDANNANADINNE","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

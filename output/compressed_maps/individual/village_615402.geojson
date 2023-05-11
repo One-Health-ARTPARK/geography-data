@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86095577281206,13.07557062108293],[75.84014299272675,13.07525317416017],[75.84660453382709,13.06714452792397],[75.86095577281206,13.07557062108293]]]},"properties":{"region_id":"village_615402","name":"HUSKUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65068551670093,15.50445298766424],[74.61590846513579,15.50900241247637],[74.61616239489972,15.49125611238559],[74.65068551670093,15.50445298766424]]]},"properties":{"region_id":"village_597987","name":"KIRHALASHI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

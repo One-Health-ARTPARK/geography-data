@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61289694091715,13.145512357589],[76.59520791186225,13.14558356958182],[76.59329339633213,13.13309118298429],[76.61950553395215,13.13579630748897],[76.61289694091715,13.145512357589]]]},"properties":{"region_id":"village_612320","name":"GOVINDAGHATTA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40238639735092,17.89408100654193],[77.40502330494417,17.91331253889773],[77.36551551805208,17.91072906055872],[77.38222615589115,17.88750879644753],[77.40238639735092,17.89408100654193]]]},"properties":{"region_id":"village_600197","name":"KHADERNAGAR","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

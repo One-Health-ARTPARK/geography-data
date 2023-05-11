@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79161115625976,13.73068350422497],[75.7885851569593,13.75039463504555],[75.7759269389523,13.74887612851522],[75.77775780439491,13.7324985112072],[75.79161115625976,13.73068350422497]]]},"properties":{"region_id":"village_609142","name":"PERUMENAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

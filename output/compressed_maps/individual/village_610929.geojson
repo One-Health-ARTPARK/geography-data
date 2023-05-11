@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43764331977029,13.71639227539684],[77.40938652329848,13.71647269375137],[77.39425627087222,13.68935039850658],[77.4287286369424,13.69607802263055],[77.43764331977029,13.71639227539684]]]},"properties":{"region_id":"village_610929","name":"KALIDEVAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

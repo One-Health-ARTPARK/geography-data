@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.12255392008362,12.87942077070524],[78.11919711175828,12.87711277170276],[78.11941442244076,12.87002206173042],[78.12304819652357,12.8722872552782],[78.12255392008362,12.87942077070524]]]},"properties":{"region_id":"village_622571","name":"SONTIGANAHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

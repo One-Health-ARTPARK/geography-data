@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86828256527942,14.47878901648891],[74.85093572826295,14.45260387668276],[74.8716944907153,14.44939301681842],[74.86828256527942,14.47878901648891]]]},"properties":{"region_id":"village_603587","name":"MATTI HALLI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

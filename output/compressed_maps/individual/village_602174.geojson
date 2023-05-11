@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8908733416527,15.19132665610414],[75.88019703925346,15.20322437116076],[75.85994403413538,15.18530380763551],[75.8856363910657,15.18253714783397],[75.8908733416527,15.19132665610414]]]},"properties":{"region_id":"village_602174","name":"BYALAWADGI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

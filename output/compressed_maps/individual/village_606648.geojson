@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1114793334037,14.35521010882722],[76.08071993570312,14.35689166646789],[76.07485772692529,14.33771330421625],[76.11950742511779,14.3419889332332],[76.1114793334037,14.35521010882722]]]},"properties":{"region_id":"village_606648","name":"NARAGANAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

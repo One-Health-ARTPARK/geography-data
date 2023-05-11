@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.40362314110735,15.66828275173586],[74.39035231330591,15.66522262930895],[74.39344132366863,15.65405212897684],[74.4039722208715,15.65977433639481],[74.40362314110735,15.66828275173586]]]},"properties":{"region_id":"village_597828","name":"BUDASE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

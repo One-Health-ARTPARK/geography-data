@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88768723405956,16.04707730986503],[75.86610852704572,16.04206391650956],[75.87926104633786,16.01306124323534],[75.91004093254153,16.02717976594242],[75.88768723405956,16.04707730986503]]]},"properties":{"region_id":"village_598884","name":"IHOLE","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

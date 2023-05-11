@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26720509690723,12.34721895563471],[76.26039060266572,12.35571939914444],[76.24525311381454,12.34734183397155],[76.24774900235063,12.34214356860839],[76.26720509690723,12.34721895563471]]]},"properties":{"region_id":"village_618314","name":"SANNENAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

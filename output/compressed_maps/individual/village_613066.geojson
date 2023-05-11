@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67011506225913,13.10953329960537],[77.66274186880257,13.10806570842835],[77.66013916478597,13.09539994109638],[77.66565700154551,13.0892987677281],[77.67250595480795,13.10677207116543],[77.67011506225913,13.10953329960537]]]},"properties":{"region_id":"village_613066","name":"KADUSONNAPPANAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

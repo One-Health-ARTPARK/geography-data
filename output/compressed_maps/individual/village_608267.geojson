@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32630236449654,13.59093600623135],[75.31937293199834,13.61143318633958],[75.2958027028024,13.59920229419377],[75.29778607814806,13.58374658101663],[75.32630236449654,13.59093600623135]]]},"properties":{"region_id":"village_608267","name":"BEKKANUR","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

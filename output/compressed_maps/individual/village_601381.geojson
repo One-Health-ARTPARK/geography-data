@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8683947995864,15.87683487800973],[75.84898279173895,15.87681711967603],[75.85975355723268,15.8598586139364],[75.8683947995864,15.87683487800973]]]},"properties":{"region_id":"village_601381","name":"BILEKAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

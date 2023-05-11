@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97489433780041,16.32071807289005],[75.96591829322662,16.29889120737579],[75.98462625851819,16.30084580899764],[75.97489433780041,16.32071807289005]]]},"properties":{"region_id":"village_599609","name":"MASUTI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26550122269782,14.29315855486242],[75.25440280625254,14.30289724263609],[75.23485560328955,14.29384526425697],[75.24502572044769,14.27893130712536],[75.26550122269782,14.29315855486242]]]},"properties":{"region_id":"village_607672","name":"INDIHALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

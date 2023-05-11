@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91917268777097,15.56289676108278],[74.91626464590074,15.57711070448925],[74.89512554023779,15.5661541620773],[74.89939820580365,15.55817005623463],[74.91917268777097,15.56289676108278]]]},"properties":{"region_id":"village_602214","name":"AGASANAHALLI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

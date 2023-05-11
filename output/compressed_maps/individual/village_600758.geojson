@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58836312341835,16.33254349834192],[77.5423367015974,16.36085886628548],[77.53890813896122,16.34465768028889],[77.5576978365569,16.32979441813144],[77.58836312341835,16.33254349834192]]]},"properties":{"region_id":"village_600758","name":"KORVAKALA","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

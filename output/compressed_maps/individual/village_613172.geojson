@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65329606226231,12.74188029553872],[77.64711003722326,12.74611176032254],[77.6362083548208,12.74619429334684],[77.64529533031063,12.73642771885249],[77.65329606226231,12.74188029553872]]]},"properties":{"region_id":"village_613172","name":"NOSENUR GOLLAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

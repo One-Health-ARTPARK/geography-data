@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80402146540567,12.26554769347493],[75.79294999279415,12.26371171921545],[75.78930500382164,12.23924643021638],[75.80832855838571,12.24065456203915],[75.8171855946599,12.25060448024741],[75.80402146540567,12.26554769347493]]]},"properties":{"region_id":"village_618000","name":"DEVANAGERI","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

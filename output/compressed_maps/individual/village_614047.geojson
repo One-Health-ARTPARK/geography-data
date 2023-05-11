@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64098441478961,12.70798349165938],[76.62098376044807,12.71267675449771],[76.6146174587383,12.70094986610491],[76.64328766624469,12.69549751431027],[76.64098441478961,12.70798349165938]]]},"properties":{"region_id":"village_614047","name":"CALLARAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

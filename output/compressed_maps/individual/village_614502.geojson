@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91767905237926,12.75475050052433],[76.91978155323378,12.7431374658415],[76.92831703395876,12.74288842222948],[76.92875477628503,12.75319405532219],[76.91767905237926,12.75475050052433]]]},"properties":{"region_id":"village_614502","name":"D. MALLIGERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

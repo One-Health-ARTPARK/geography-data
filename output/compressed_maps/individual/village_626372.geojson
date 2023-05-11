@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4578234025462,12.66472725960018],[77.45148779416996,12.66996842088319],[77.43470209654694,12.66527881820532],[77.44367105529695,12.65667870675054],[77.4578234025462,12.66472725960018]]]},"properties":{"region_id":"village_626372","name":"DEVARAKAGGALAHALLI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53575321682888,12.40965983010329],[75.49769053905484,12.42730994084951],[75.47441556045918,12.39787284164133],[75.4958985317876,12.38346994228961],[75.53575321682888,12.40965983010329]]]},"properties":{"region_id":"village_617794","name":"THANNIMANI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

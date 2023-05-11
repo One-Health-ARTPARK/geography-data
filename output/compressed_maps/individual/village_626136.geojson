@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38484448945367,12.75423023894377],[77.35474761970234,12.7512160502987],[77.35950800845904,12.72944594972167],[77.38731425204892,12.73033675918601],[77.38484448945367,12.75423023894377]]]},"properties":{"region_id":"village_626136","name":"URAGAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

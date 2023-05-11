@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06635595784024,16.3968373999138],[77.04853221326165,16.39696130338768],[77.04399048698508,16.37393480464391],[77.06464197403335,16.37351828604318],[77.06635595784024,16.3968373999138]]]},"properties":{"region_id":"village_600633","name":"GUNTARHAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

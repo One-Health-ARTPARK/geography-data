@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73436095950113,12.75728384287344],[76.72424088581201,12.75450384187825],[76.72371731974778,12.74523203071323],[76.73167296373079,12.74085539755001],[76.73436095950113,12.75728384287344]]]},"properties":{"region_id":"village_614018","name":"BRAMHADEVARAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

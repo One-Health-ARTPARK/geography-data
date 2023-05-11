@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75982545050486,14.31651808270257],[74.73941516292011,14.31869224673551],[74.73276929976157,14.30148278477835],[74.74265156530349,14.29489952350056],[74.75982545050486,14.31651808270257]]]},"properties":{"region_id":"village_603654","name":"KEREMANE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12741760989417,14.82959778695112],[75.10896443091673,14.82141547507215],[75.120684649176,14.81186242045529],[75.12906126402653,14.81552009451738],[75.12741760989417,14.82959778695112]]]},"properties":{"region_id":"village_604080","name":"BAICHAVALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

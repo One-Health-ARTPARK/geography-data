@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82191174490676,12.93469959824524],[77.8166979077206,12.93460241311718],[77.8158551112659,12.92596437508961],[77.82232878260041,12.92873693353553],[77.82191174490676,12.93469959824524]]]},"properties":{"region_id":"village_625751","name":"MUTHAKADAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

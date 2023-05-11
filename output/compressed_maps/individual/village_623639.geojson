@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74392269269558,13.40305221663414],[77.7309434592045,13.40281003063842],[77.72763553662782,13.39397208071982],[77.74454184942672,13.39036424253393],[77.74392269269558,13.40305221663414]]]},"properties":{"region_id":"village_623639","name":"CHOKKAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

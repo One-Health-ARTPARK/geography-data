@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02774381208636,14.65382013114397],[75.0057968178575,14.64848929750864],[75.01206831277234,14.63705182513769],[75.03158310406593,14.64062362065691],[75.02774381208636,14.65382013114397]]]},"properties":{"region_id":"village_603279","name":"KIRWATTI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

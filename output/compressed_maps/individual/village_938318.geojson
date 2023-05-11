@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53335588902381,15.07434646930546],[76.52271035974681,15.07738463070375],[76.5249412075259,15.06062507778765],[76.53956284587287,15.0630999411911],[76.53335588902381,15.07434646930546]]]},"properties":{"region_id":"village_938318","name":"DHARMAPURA","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

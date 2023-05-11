@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50468844202615,15.60547222762909],[74.50044750995515,15.62316840057979],[74.48896723206191,15.61295054417903],[74.50468844202615,15.60547222762909]]]},"properties":{"region_id":"village_597936","name":"SHEDEGALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6908514589504,13.21964578142374],[75.67846773332985,13.19536211619242],[75.70096959732163,13.19637791144983],[75.6908514589504,13.21964578142374]]]},"properties":{"region_id":"village_609861","name":"BALEHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

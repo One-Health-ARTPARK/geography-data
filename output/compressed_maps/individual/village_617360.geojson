@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46644860590499,13.10396368421688],[76.45158966838581,13.10639455501381],[76.45391819500743,13.0936913596213],[76.46644860590499,13.10396368421688]]]},"properties":{"region_id":"village_617360","name":"THIMMALAPURA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

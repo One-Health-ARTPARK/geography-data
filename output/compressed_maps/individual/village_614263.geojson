@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84202143828912,12.42649631384299],[76.85385837878255,12.41787907660021],[76.857256961783,12.43084460898153],[76.84202143828912,12.42649631384299]]]},"properties":{"region_id":"village_614263","name":"BETTAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

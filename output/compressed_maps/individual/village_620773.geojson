@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72876480821792,16.97670804499773],[76.69807971881178,16.97750567345654],[76.69565910777962,16.9454534867206],[76.74017079010461,16.95518925416326],[76.72876480821792,16.97670804499773]]]},"properties":{"region_id":"village_620773","name":"HARNUR","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

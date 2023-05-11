@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92413526703903,11.96211559318305],[76.9159799632135,11.94514912796859],[76.9386835322582,11.94853155329021],[76.92413526703903,11.96211559318305]]]},"properties":{"region_id":"village_619662","name":"KADAHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

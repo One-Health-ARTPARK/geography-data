@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5149829797317,14.7433166471431],[75.49857207962093,14.76374644119399],[75.48680830217111,14.7380771057242],[75.5149829797317,14.7433166471431]]]},"properties":{"region_id":"village_604321","name":"ARABAGONDA","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

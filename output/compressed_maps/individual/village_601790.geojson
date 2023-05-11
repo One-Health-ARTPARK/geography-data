@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2857575365959,15.57849324210298],[76.25811421315726,15.57384695343762],[76.27280586299837,15.55969032990417],[76.2857575365959,15.57849324210298]]]},"properties":{"region_id":"village_601790","name":"CHALLARI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

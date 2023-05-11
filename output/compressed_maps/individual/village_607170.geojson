@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97852416993405,14.3433831413621],[74.96828965035634,14.31472154950369],[74.99005302585228,14.28501358221725],[75.01176601332502,14.30613337016077],[75.00209364223969,14.32469644766173],[74.97852416993405,14.3433831413621]]]},"properties":{"region_id":"village_607170","name":"SHUNTIKOPPA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

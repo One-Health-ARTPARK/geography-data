@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1895183727711,13.56551260140474],[75.17228566379232,13.58192058811811],[75.1660681161617,13.55916797996963],[75.1895183727711,13.56551260140474]]]},"properties":{"region_id":"village_608289","name":"CHANGARU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

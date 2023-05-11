@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02707781485292,15.57137273803493],[75.99112261967419,15.56167219099201],[76.0003530950159,15.5297007762208],[76.02711249997957,15.52725096994412],[76.02707781485292,15.57137273803493]]]},"properties":{"region_id":"village_601265","name":"KALLUR","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

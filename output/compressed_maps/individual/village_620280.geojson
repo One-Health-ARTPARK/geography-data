@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84318767005142,17.41852246596176],[76.8268534932721,17.42500541055139],[76.7927079232284,17.38759406603405],[76.84271150442815,17.39093750535048],[76.84318767005142,17.41852246596176]]]},"properties":{"region_id":"village_620280","name":"TAJ SULTANPUR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

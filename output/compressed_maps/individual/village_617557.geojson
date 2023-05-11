@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97646377065689,12.90004465368903],[74.96823174601731,12.90291265014132],[74.9403040103896,12.89346067869691],[74.96666925475488,12.88743039234722],[74.97646377065689,12.90004465368903]]]},"properties":{"region_id":"village_617557","name":"MEREMAJALU","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

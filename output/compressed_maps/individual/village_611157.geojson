@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21487108507489,13.45375433724544],[77.20901122611517,13.42430474355377],[77.22339439108234,13.42587812762421],[77.22994843710819,13.44600071863554],[77.21487108507489,13.45375433724544]]]},"properties":{"region_id":"village_611157","name":"DODDAPALANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

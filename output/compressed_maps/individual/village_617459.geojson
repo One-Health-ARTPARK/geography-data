@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01886593016879,13.0499227118169],[75.00456960126773,13.03779136922629],[75.00707894960145,13.02133884232559],[75.03645484770199,13.03564082309243],[75.01886593016879,13.0499227118169]]]},"properties":{"region_id":"village_617459","name":"HOSABETTU","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

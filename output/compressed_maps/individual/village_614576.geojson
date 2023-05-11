@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05100440961053,12.63778478210893],[77.0425072051578,12.63724147258088],[77.04733538596328,12.62766847405963],[77.05100440961053,12.63778478210893]]]},"properties":{"region_id":"village_614576","name":"KADALIPURA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

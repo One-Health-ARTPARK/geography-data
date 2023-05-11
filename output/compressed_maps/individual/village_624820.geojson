@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.330354863893,13.20651128907843],[77.32381969810828,13.20955785062745],[77.32215385869554,13.20064147046123],[77.32980232295495,13.20142169870394],[77.330354863893,13.20651128907843]]]},"properties":{"region_id":"village_624820","name":"NARASAPURA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01818105563063,12.26456891915027],[77.016600338008,12.26454041619495],[77.01575043152148,12.2595517135975],[77.01747391316161,12.25957940800024],[77.01818105563063,12.26456891915027]]]},"properties":{"region_id":"village_614835","name":"BILIJAGALIMOLE","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

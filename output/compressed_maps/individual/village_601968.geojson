@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89134653678938,15.78014108072303],[75.8934936773351,15.79405563328093],[75.88332780628856,15.79686177055946],[75.87855600584217,15.76654225109275],[75.89167812039884,15.76749018707052],[75.89134653678938,15.78014108072303]]]},"properties":{"region_id":"village_601968","name":"AMARAGATTI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

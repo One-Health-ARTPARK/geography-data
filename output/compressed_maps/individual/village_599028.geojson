@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94635066205082,15.9161108566738],[75.89968114047795,15.95756916496916],[75.9019547736796,15.92275172795465],[75.92722163632797,15.89744698814113],[75.94635066205082,15.9161108566738]]]},"properties":{"region_id":"village_599028","name":"GUDUR (S.B)","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

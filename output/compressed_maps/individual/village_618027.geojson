@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90353455404549,12.30008373967486],[75.87509920646036,12.29671892394619],[75.87228417649327,12.27947142257512],[75.89988562793519,12.28029163802143],[75.90353455404549,12.30008373967486]]]},"properties":{"region_id":"village_618027","name":"SIDDAPURA","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

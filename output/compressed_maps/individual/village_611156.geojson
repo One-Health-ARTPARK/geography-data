@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33592761156558,13.43864159797402],[77.32399901279341,13.43995481866116],[77.32586775800989,13.4226668875713],[77.34406364273133,13.42467682360134],[77.33592761156558,13.43864159797402]]]},"properties":{"region_id":"village_611156","name":"HURULAGERE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

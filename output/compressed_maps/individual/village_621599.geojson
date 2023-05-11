@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.27874482593865,13.39696001237901],[78.26693498888163,13.40113863145933],[78.25805242816983,13.38803405188866],[78.28037626963732,13.38645790502453],[78.27874482593865,13.39696001237901]]]},"properties":{"region_id":"village_621599","name":"CHAMPALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

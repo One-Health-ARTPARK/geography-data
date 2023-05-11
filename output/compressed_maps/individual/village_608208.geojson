@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27500839220639,13.7154854884681],[75.25296529999672,13.70407627761612],[75.27963814550806,13.69363735459021],[75.27500839220639,13.7154854884681]]]},"properties":{"region_id":"village_608208","name":"BHARATHIPURA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

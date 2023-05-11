@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55762141352338,16.06902499234019],[74.51699783892617,16.07101372849498],[74.53801603360401,16.03909045008933],[74.55762141352338,16.06902499234019]]]},"properties":{"region_id":"village_597649","name":"BIRANHOLI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

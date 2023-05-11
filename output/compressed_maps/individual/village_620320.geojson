@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87985881443528,17.16934934194225],[76.85007743821521,17.18316685750572],[76.81593797541471,17.1574856507839],[76.82806488202228,17.09670221782593],[76.87473307613122,17.09778390557895],[76.87985881443528,17.16934934194225]]]},"properties":{"region_id":"village_620320","name":"KIRANAGI","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65854910016895,16.05179161711021],[74.64468976863691,16.03914250021741],[74.66077253616656,16.03032321920307],[74.65854910016895,16.05179161711021]]]},"properties":{"region_id":"village_597700","name":"HARANKOL","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

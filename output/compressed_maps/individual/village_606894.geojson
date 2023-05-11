@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81251158260369,14.20539603773123],[75.80333250057073,14.2117165305145],[75.79801467144938,14.20010350422881],[75.81735665373216,14.19804041470083],[75.81251158260369,14.20539603773123]]]},"properties":{"region_id":"village_606894","name":"HOSAKERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

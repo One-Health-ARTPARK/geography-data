@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36464785990283,12.0671754447759],[76.3537019669226,12.05261864847223],[76.36943301617146,12.04388165006863],[76.37359277982239,12.05807259266303],[76.36464785990283,12.0671754447759]]]},"properties":{"region_id":"village_618898","name":"JAKKAHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

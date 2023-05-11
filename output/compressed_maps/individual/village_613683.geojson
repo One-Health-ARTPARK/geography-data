@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6829805887023,13.0163282679247],[76.68411412593345,13.04377589725594],[76.6770581459232,13.03404175424234],[76.67695127602046,13.02022726373097],[76.6829805887023,13.0163282679247]]]},"properties":{"region_id":"village_613683","name":"M.KODIHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

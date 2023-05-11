@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60140067440075,14.17007390767754],[75.62747786137571,14.18844256288093],[75.60476476487747,14.19665897313202],[75.58518119219849,14.18792955229088],[75.60140067440075,14.17007390767754]]]},"properties":{"region_id":"village_606765","name":"MADANABHAVI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

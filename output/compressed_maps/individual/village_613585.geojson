@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3899160318323,12.70537121928028],[76.39543383699872,12.72009320740789],[76.381388064972,12.71961759472503],[76.37679820189372,12.70596700351981],[76.3899160318323,12.70537121928028]]]},"properties":{"region_id":"village_613585","name":"GADDEHOSUR","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

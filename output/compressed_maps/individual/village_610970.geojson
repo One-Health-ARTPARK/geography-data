@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33136487960995,13.67769668933005],[77.31163291207056,13.6802137549416],[77.31060252213119,13.67327809966805],[77.3306398815726,13.67236085032121],[77.33136487960995,13.67769668933005]]]},"properties":{"region_id":"village_610970","name":"GAMKARALAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

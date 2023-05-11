@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56029755464748,13.42878678993886],[76.54578172748124,13.42856603179252],[76.5472420411964,13.41860917612819],[76.55722622755859,13.41543798166812],[76.56029755464748,13.42878678993886]]]},"properties":{"region_id":"village_610198","name":"ANEKATTE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

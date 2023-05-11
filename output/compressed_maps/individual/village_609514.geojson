@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04526502426523,13.51856999743496],[76.05802823880364,13.54056003387026],[76.03633988764312,13.53922696035019],[76.04526502426523,13.51856999743496]]]},"properties":{"region_id":"village_609514","name":"TANGLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

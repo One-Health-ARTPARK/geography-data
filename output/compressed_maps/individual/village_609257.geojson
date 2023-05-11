@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00569733355753,13.80393084784432],[75.99321801836973,13.80354663833202],[75.98849758809041,13.78305681453247],[75.99884326411681,13.78255189151812],[76.00569733355753,13.80393084784432]]]},"properties":{"region_id":"village_609257","name":"JAVOOR","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

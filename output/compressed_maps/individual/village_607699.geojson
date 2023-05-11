@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2879204367235,14.44363565885177],[75.27237042819111,14.44390989708454],[75.26927892193906,14.42973755739171],[75.29701814974673,14.43006089187008],[75.2879204367235,14.44363565885177]]]},"properties":{"region_id":"village_607699","name":"BISALAHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

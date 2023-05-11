@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01602349123391,13.13187487542913],[74.98683630037641,13.14862579513612],[74.96060826476828,13.10156422338003],[74.99132107656555,13.08875841229616],[75.01602349123391,13.13187487542913]]]},"properties":{"region_id":"village_617461","name":"BELUVAI","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

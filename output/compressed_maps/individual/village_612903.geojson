@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70895604009583,13.19023595272667],[77.6922034906332,13.18981132742991],[77.69100862420626,13.17992431738797],[77.70433847818582,13.1792877674964],[77.70895604009583,13.19023595272667]]]},"properties":{"region_id":"village_612903","name":"MYLANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.815894129703,17.59110111701511],[76.78963980074539,17.60542316315073],[76.79628635569827,17.57599723065976],[76.815894129703,17.59110111701511]]]},"properties":{"region_id":"village_619992","name":"WAGDHARI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

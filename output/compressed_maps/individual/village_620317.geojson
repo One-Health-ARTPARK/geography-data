@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77553969074286,17.10280108588089],[76.81186196299191,17.0455396560728],[76.82806488202228,17.09670221782593],[76.77553969074286,17.10280108588089]]]},"properties":{"region_id":"village_620317","name":"FEROZABAD","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

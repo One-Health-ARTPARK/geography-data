@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55607399963722,12.95035799993919],[77.55010100025567,12.95026100042705],[77.55215399958819,12.93888299979641],[77.55757900036862,12.93944299983098],[77.55607399963722,12.95035799993919]]]},"properties":{"region_id":"ward_bbmp156","name":"WARD NO.156 (SRI NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

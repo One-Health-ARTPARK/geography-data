@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01590609638295,15.77871958730481],[75.99997245516008,15.78166834123993],[76.0046848995946,15.76390169730255],[76.01590609638295,15.77871958730481]]]},"properties":{"region_id":"village_601974","name":"MYAKALZERI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

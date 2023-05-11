@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88136043606423,12.34999336569952],[76.87668176307938,12.35536214383976],[76.86217631637473,12.3534998681331],[76.86930163456348,12.34210197234578],[76.88136043606423,12.34999336569952]]]},"properties":{"region_id":"village_619328","name":"BEEDANAHALLI","parent":"subdistrict_5575","parent_name":"TIRUMAKUDAL - NARSIPUR"}}
+]}

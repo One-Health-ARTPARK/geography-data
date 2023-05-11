@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43138071105479,12.89566165996246],[76.43091676621755,12.90162058445279],[76.41740772842081,12.90078280821067],[76.42547495579234,12.89335883315823],[76.43138071105479,12.89566165996246]]]},"properties":{"region_id":"village_617220","name":"CHAMADIHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

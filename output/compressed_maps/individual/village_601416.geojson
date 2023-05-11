@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9894410976596,15.97930253842507],[75.97372194378148,15.98614714432093],[75.97652226231222,15.92895124336524],[76.00250720791216,15.9367961184747],[76.00694299281177,15.95771166650146],[75.9894410976596,15.97930253842507]]]},"properties":{"region_id":"village_601416","name":"KATAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

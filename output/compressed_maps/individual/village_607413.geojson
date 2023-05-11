@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15343058242945,14.59796761254087],[75.13855942971938,14.599353329731],[75.14277326953496,14.57863627800153],[75.15873135486257,14.57791497734022],[75.15343058242945,14.59796761254087]]]},"properties":{"region_id":"village_607413","name":"NERALIGE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

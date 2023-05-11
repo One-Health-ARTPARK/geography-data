@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.39975483473191,16.35333635836366],[74.37654098791636,16.36083122147678],[74.36838488536857,16.33162412561502],[74.3904518230952,16.33597008016035],[74.39975483473191,16.35333635836366]]]},"properties":{"region_id":"village_597545","name":"SHIPPUR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27446498577653,15.69756734639996],[76.26613243321745,15.70571554339715],[76.2489957042782,15.70409544605711],[76.25342992269371,15.69241999552974],[76.27446498577653,15.69756734639996]]]},"properties":{"region_id":"village_601272","name":"GULE","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

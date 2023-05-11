@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41155938333817,15.36845827430957],[76.3896858628001,15.37067903932352],[76.39536050009053,15.3505968996243],[76.41155938333817,15.36845827430957]]]},"properties":{"region_id":"village_601841","name":"BASAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

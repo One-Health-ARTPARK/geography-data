@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64358320494482,14.95119545307529],[75.62643042418944,14.9492213744504],[75.61226619636118,14.9190119560225],[75.64504479572092,14.92315488270943],[75.64358320494482,14.95119545307529]]]},"properties":{"region_id":"village_604262","name":"MAROL","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

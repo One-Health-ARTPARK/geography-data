@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26883405686561,12.64592061478436],[77.24962741615576,12.64515627089413],[77.23808137181376,12.63652106945677],[77.25846578318088,12.62593731756434],[77.26883405686561,12.64592061478436]]]},"properties":{"region_id":"village_626270","name":"BRAHMANIPURA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

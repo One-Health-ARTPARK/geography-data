@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7065302377823,12.22468964766788],[76.69864098200709,12.21485137663567],[76.71680472946825,12.21176001389533],[76.72005889527209,12.22531780430367],[76.7065302377823,12.22468964766788]]]},"properties":{"region_id":"village_618813","name":"KUMBARAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5844176992537,13.31861910405268],[77.59200881648839,13.33275299480739],[77.58515450467333,13.33271974609655],[77.5844176992537,13.31861910405268]]]},"properties":{"region_id":"village_625086","name":"RAJAGHATTA AMANIKERE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

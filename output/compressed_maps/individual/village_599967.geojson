@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33409812361107,17.88302550897061],[77.31866668689416,17.86492877867256],[77.3297034509383,17.85283795223558],[77.3364824360799,17.87578236738252],[77.33409812361107,17.88302550897061]]]},"properties":{"region_id":"village_599967","name":"KAMALAPURA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09930249286748,13.02590760282079],[77.09113209055816,13.02677566399059],[77.08600561274974,13.013460903824],[77.09454213767063,13.01003894644013],[77.09930249286748,13.02590760282079]]]},"properties":{"region_id":"village_612543","name":"A. HOSAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

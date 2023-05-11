@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66974934313883,12.7839203416663],[77.66591038101168,12.76873733485388],[77.67761892583191,12.76997744763705],[77.66974934313883,12.7839203416663]]]},"properties":{"region_id":"village_613176","name":"RAJAPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

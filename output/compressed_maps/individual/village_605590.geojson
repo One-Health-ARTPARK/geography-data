@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3349259500376,14.2146250331149],[76.34341099591782,14.23472411698645],[76.33172206725327,14.23600588153563],[76.32585437567172,14.22641512676754],[76.3349259500376,14.2146250331149]]]},"properties":{"region_id":"village_605590","name":"KATIHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

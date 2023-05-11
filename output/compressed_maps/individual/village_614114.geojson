@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59290825888569,12.56634702391714],[76.58351000180323,12.56220603101843],[76.5900732245845,12.55001957031031],[76.59290825888569,12.56634702391714]]]},"properties":{"region_id":"village_614114","name":"KANAGANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.30882068825177,14.61811064784055],[74.31509425817545,14.62467185778857],[74.3067016479831,14.62561531229929],[74.30882068825177,14.61811064784055]]]},"properties":{"region_id":"village_603369","name":"SHINGANMAKKI","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

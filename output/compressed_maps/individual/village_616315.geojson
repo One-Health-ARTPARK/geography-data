@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92400062778385,12.99221368172759],[75.92558605978424,13.00383085253652],[75.91982597325959,13.00893632985183],[75.92063297505219,12.9987408030998],[75.92400062778385,12.99221368172759]]]},"properties":{"region_id":"village_616315","name":"NEELANAHALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38303738802448,13.61070255764082],[76.3692313708365,13.607311827885],[76.36791248833778,13.58991016404678],[76.37849054089591,13.59198951681695],[76.38303738802448,13.61070255764082]]]},"properties":{"region_id":"village_605990","name":"KURUBARAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

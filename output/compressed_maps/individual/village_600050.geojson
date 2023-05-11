@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43826433213424,18.28743482528391],[77.43391695671181,18.27902629892896],[77.41022994687611,18.27559396675373],[77.42384931054356,18.26287441722907],[77.4477105076845,18.26988474657518],[77.43826433213424,18.28743482528391]]]},"properties":{"region_id":"village_600050","name":"NARAYANPUR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97126447750563,13.98918166443452],[75.95305021862987,13.99046824229081],[75.94945885347836,13.9639058242167],[75.97145142649407,13.97804729197198],[75.97126447750563,13.98918166443452]]]},"properties":{"region_id":"village_607073","name":"RAJAGONDANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56538675185809,13.02913990728041],[77.56329439074042,13.0403846632961],[77.55378001899689,13.0379712606528],[77.55741856252492,13.02494775272285],[77.56538675185809,13.02913990728041]]]},"properties":{"region_id":"village_939460","name":"MATTHIKERE","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

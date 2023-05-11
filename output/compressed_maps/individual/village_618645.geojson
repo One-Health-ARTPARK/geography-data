@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37278965501959,12.45435417000467],[76.36505683317918,12.43570521771762],[76.37860202603137,12.43255281121314],[76.37278965501959,12.45435417000467]]]},"properties":{"region_id":"village_618645","name":"MADHUVANAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11793532704095,14.97031377785914],[75.10162533470405,14.98345074211652],[75.08152570117443,14.96963622211768],[75.11793532704095,14.97031377785914]]]},"properties":{"region_id":"village_603905","name":"BASAVANAKOPPA","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

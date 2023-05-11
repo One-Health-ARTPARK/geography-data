@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2013654233245,13.8917580087464],[76.17537755326389,13.88956795086721],[76.17589359958932,13.86804878279748],[76.19758606041154,13.86900566220973],[76.2013654233245,13.8917580087464]]]},"properties":{"region_id":"village_605829","name":"HEBBALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

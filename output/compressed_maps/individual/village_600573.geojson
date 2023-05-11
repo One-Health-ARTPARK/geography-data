@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7776154095691,16.32198182369979],[76.75926014105025,16.30048955158219],[76.77860545460842,16.30406298309871],[76.7776154095691,16.32198182369979]]]},"properties":{"region_id":"village_600573","name":"BHOGIRAMANGUND","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

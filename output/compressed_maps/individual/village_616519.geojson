@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99985309497276,12.77549507236386],[75.985347845362,12.78113255263213],[75.98250853523663,12.77228277272063],[75.99465239573476,12.76744599770416],[75.99985309497276,12.77549507236386]]]},"properties":{"region_id":"village_616519","name":"MASARANGALA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

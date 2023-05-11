@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08359050564174,13.61779730072582],[77.08089123022854,13.62460269339355],[77.0662223392981,13.62301060923205],[77.06832527674239,13.61504328631984],[77.08359050564174,13.61779730072582]]]},"properties":{"region_id":"village_610786","name":"GODDANAPALYA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00085221986886,14.52528325905645],[74.99473556598703,14.54177510170756],[74.97787651288951,14.53354679339228],[74.98545059982315,14.51975729860571],[75.00085221986886,14.52528325905645]]]},"properties":{"region_id":"village_603314","name":"KANTRAJI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

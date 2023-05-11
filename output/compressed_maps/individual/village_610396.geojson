@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97741281780962,13.67851663016587],[76.95947541335492,13.68082177207464],[76.9577611885373,13.65968188997289],[76.9776631469426,13.65476256769898],[76.97741281780962,13.67851663016587]]]},"properties":{"region_id":"village_610396","name":"CHIKKAGULA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

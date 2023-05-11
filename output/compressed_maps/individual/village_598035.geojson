@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84109621748954,15.90362092602002],[74.83082349484062,15.94855818478675],[74.816080840315,15.92938145168599],[74.84109621748954,15.90362092602002]]]},"properties":{"region_id":"village_598035","name":"MEKALMARADI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

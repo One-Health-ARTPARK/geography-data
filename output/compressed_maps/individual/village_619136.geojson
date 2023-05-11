@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50450626759996,12.06927209201054],[76.47684605828073,12.06117961422443],[76.47583024560464,12.050911251164],[76.50702590856942,12.06086393904051],[76.50450626759996,12.06927209201054]]]},"properties":{"region_id":"village_619136","name":"NELLITHALAPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

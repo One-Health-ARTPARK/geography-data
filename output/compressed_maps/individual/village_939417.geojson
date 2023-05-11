@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5660182335593,12.96557211104944],[77.55500037801808,12.96570698040266],[77.5529797459099,12.9579233754063],[77.56583754537698,12.95995888990192],[77.5660182335593,12.96557211104944]]]},"properties":{"region_id":"village_939417","name":"BOGENAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

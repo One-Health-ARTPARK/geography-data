@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87605994243827,12.96767545030477],[76.8875098248947,12.96521955481154],[76.88427347395793,12.98110860685011],[76.87620513025891,12.97618533847505],[76.87605994243827,12.96767545030477]]]},"properties":{"region_id":"village_612490","name":"SOMPURADA KAVAL","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

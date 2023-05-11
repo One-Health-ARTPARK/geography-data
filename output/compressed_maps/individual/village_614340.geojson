@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88471099393358,12.68762555254107],[76.86806712416282,12.69106059033029],[76.85783891659285,12.67370648080368],[76.8813210960786,12.67714314691496],[76.88471099393358,12.68762555254107]]]},"properties":{"region_id":"village_614340","name":"GUTHAGANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

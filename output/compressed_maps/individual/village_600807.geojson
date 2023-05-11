@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34442232261742,16.29278507524109],[77.32751877248815,16.30004923843065],[77.31574736383351,16.27541085231067],[77.35013480755742,16.27170518811776],[77.34442232261742,16.29278507524109]]]},"properties":{"region_id":"village_600807","name":"KUKNOOR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

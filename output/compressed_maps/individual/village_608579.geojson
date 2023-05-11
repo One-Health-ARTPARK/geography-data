@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74987996926696,13.91650227886804],[75.73572783834744,13.90379672237436],[75.75644303344045,13.89390016339416],[75.74987996926696,13.91650227886804]]]},"properties":{"region_id":"village_608579","name":"SITARAMAPURA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

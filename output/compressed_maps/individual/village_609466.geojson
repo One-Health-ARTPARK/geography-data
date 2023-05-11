@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13758171048674,13.5887728796102],[76.1397173773868,13.60187151751762],[76.12750091546293,13.59430918019411],[76.13758171048674,13.5887728796102]]]},"properties":{"region_id":"village_609466","name":"BUKKANAGUNDI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

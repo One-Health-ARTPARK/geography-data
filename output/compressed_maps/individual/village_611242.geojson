@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0103122905315,13.4967036145355],[76.98849216623141,13.50252228172877],[76.9865070513933,13.47674886843615],[77.00014923366865,13.4695071924605],[77.0103122905315,13.4967036145355]]]},"properties":{"region_id":"village_611242","name":"SOREKUNTE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

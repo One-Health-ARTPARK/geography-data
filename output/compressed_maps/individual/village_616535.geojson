@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99860869776941,12.67830645749123],[75.9838643502818,12.68221816592476],[75.97385864003473,12.66812820425948],[75.99790536798237,12.67198861209002],[75.99860869776941,12.67830645749123]]]},"properties":{"region_id":"village_616535","name":"CHIKKABEMMATHI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

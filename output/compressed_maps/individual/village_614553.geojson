@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0578371393134,12.68563755588356],[77.05174977978554,12.68617466406555],[77.0446648444649,12.67400695567028],[77.05573319308598,12.67264920409346],[77.0578371393134,12.68563755588356]]]},"properties":{"region_id":"village_614553","name":"TUBINAKERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

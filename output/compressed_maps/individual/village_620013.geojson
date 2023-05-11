@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62037015342096,17.57952704137774],[76.59978747834361,17.60214529865931],[76.59192190658598,17.58792170505296],[76.62037015342096,17.57952704137774]]]},"properties":{"region_id":"village_620013","name":"HONHALLI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15057192086158,15.21374429257922],[75.12044806980809,15.21306680214375],[75.13293083425646,15.1887346081907],[75.15057192086158,15.21374429257922]]]},"properties":{"region_id":"village_602428","name":"WARUR","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

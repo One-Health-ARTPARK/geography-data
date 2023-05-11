@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65573587254508,16.82501155164188],[75.67237599561352,16.83506661539065],[75.6585591152202,16.84610441643193],[75.65573587254508,16.82501155164188]]]},"properties":{"region_id":"village_599060","name":"NAVARASAPUR (PART)","parent":"subdistrict_7074","parent_name":"TIKOTA"}}
+]}

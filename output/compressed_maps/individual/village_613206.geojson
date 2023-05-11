@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74175241111058,12.85138878660742],[77.73031782017542,12.85609052374992],[77.72774665709663,12.84914861711308],[77.73655875203934,12.84086256085783],[77.74175241111058,12.85138878660742]]]},"properties":{"region_id":"village_613206","name":"GOPASANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

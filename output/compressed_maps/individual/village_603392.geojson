@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.41128605571998,14.57390663386887],[74.40268116994501,14.59096727464562],[74.39445789197244,14.57616768748405],[74.41128605571998,14.57390663386887]]]},"properties":{"region_id":"village_603392","name":"KAREBAIL","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

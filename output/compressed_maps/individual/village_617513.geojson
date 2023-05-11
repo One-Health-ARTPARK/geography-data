@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93361209970077,12.84050635475366],[74.91888060412074,12.86228804396102],[74.90505400254911,12.83952495964428],[74.93361209970077,12.84050635475366]]]},"properties":{"region_id":"village_617513","name":"HAREKALA (CT)","parent":"subdistrict_7197","parent_name":"ULLALA"}}
+]}

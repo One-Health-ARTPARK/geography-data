@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89982926804018,15.48765817973198],[76.92185569590028,15.48754651521711],[76.94072123318807,15.51318632987783],[76.96554768821358,15.52766391967629],[76.9480171232815,15.54894686838137],[76.89982926804018,15.48765817973198]]]},"properties":{"region_id":"village_604840","name":"BALAKUNDI","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

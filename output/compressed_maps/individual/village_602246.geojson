@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87189186231632,15.49505216076718],[74.83820081580009,15.48785332837969],[74.84138485982376,15.46692748629384],[74.87613691196972,15.48327170021351],[74.87189186231632,15.49505216076718]]]},"properties":{"region_id":"village_602246","name":"RAMAPUR","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

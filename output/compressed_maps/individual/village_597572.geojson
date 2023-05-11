@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.56426312365602,16.25601290350849],[74.53316597616066,16.27111277666549],[74.53318684695579,16.23751047839421],[74.56426312365602,16.25601290350849]]]},"properties":{"region_id":"village_597572","name":"NERLI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

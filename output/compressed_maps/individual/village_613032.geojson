@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46187720836852,12.83663387309053],[77.45325106224281,12.83887165392382],[77.45387491857907,12.82913918388828],[77.46187720836852,12.83663387309053]]]},"properties":{"region_id":"village_613032","name":"VASANTHANAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

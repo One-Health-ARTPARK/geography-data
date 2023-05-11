@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35981873775025,14.71938533418697],[76.33324718589219,14.73509093450957],[76.31925370168304,14.69879487183691],[76.33781626865388,14.68599997896045],[76.35981873775025,14.71938533418697]]]},"properties":{"region_id":"village_605121","name":"MANGAPURA","parent":"subdistrict_7108","parent_name":"KOTTURU"}}
+]}

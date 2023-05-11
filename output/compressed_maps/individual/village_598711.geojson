@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51228719823777,15.89782917648784],[75.5069797287243,15.91579849689927],[75.49575835436218,15.89752467213942],[75.51228719823777,15.89782917648784]]]},"properties":{"region_id":"village_598711","name":"KHANAPUR S.K.","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

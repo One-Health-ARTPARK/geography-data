@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1894865493839,12.60989991670043],[76.17759444663076,12.60739137417811],[76.17832114856358,12.59476253338752],[76.19215599989366,12.59820104264358],[76.1894865493839,12.60989991670043]]]},"properties":{"region_id":"village_616786","name":"BOODANUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

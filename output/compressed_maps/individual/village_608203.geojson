@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27273687739557,13.74922959500373],[75.24548483199801,13.75820969238896],[75.25105909103856,13.73218375585858],[75.27273687739557,13.74922959500373]]]},"properties":{"region_id":"village_608203","name":"ARALAPURA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

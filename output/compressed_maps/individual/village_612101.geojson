@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39050155391972,13.27536612392223],[76.38292287791457,13.27571803054101],[76.38094544305622,13.26590491823739],[76.39013927283827,13.26305842292722],[76.39050155391972,13.27536612392223]]]},"properties":{"region_id":"village_612101","name":"HIREBIDARE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

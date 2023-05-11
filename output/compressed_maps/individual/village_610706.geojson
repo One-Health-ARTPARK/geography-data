@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21708785548655,13.7666961992462],[77.22257607161895,13.77432774833957],[77.20408296053287,13.77641704676463],[77.20357868848271,13.76655985262554],[77.21708785548655,13.7666961992462]]]},"properties":{"region_id":"village_610706","name":"GALIHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

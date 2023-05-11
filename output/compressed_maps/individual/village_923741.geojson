@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79156235153454,16.76591032278889],[76.78063265921152,16.76643783274073],[76.77608389050077,16.74592954376559],[76.78694228951488,16.74592595890846],[76.79156235153454,16.76591032278889]]]},"properties":{"region_id":"village_923741","name":"HULKAL(K)","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

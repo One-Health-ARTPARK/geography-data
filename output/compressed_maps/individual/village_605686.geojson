@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11611451954742,13.96491097614282],[76.11800992485382,13.97937192675211],[76.09966905976509,13.98076359730252],[76.09869841662629,13.96314543465565],[76.11611451954742,13.96491097614282]]]},"properties":{"region_id":"village_605686","name":"DASIKATTE","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74063700011635,12.98738800008377],[77.6907340003267,12.99723500034619],[77.69222799997665,12.98352000017717],[77.71416899992964,12.97766599989332],[77.74127800033709,12.97596199973592],[77.74063700011635,12.98738800008377]]]},"properties":{"region_id":"ward_bbmp82","name":"WARD NO.82 (GARUDACHAR PALYA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

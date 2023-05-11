@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20531740384865,14.08728847210713],[75.21980164905513,14.1040432482898],[75.2081347051063,14.12385812947961],[75.18682185701579,14.10394680115452],[75.20531740384865,14.08728847210713]]]},"properties":{"region_id":"village_607280","name":"MUMBALU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

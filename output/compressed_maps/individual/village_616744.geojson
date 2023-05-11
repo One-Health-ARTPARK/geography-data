@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08087925037053,12.59745621890659],[76.08994093491081,12.60222278995366],[76.08256698612196,12.60656261892808],[76.08087925037053,12.59745621890659]]]},"properties":{"region_id":"village_616744","name":"MALLARAJAPATNA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

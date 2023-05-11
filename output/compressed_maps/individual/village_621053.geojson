@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81383393854163,16.52304256406871],[76.79095975941462,16.54075832503097],[76.78286924573122,16.51628870254724],[76.81383393854163,16.52304256406871]]]},"properties":{"region_id":"village_621053","name":"VANKIHAL -","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

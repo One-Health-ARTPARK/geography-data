@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5151754867556,13.97688426972135],[76.47516360410927,13.97696322221496],[76.48799517241375,13.949926481184],[76.5151754867556,13.97688426972135]]]},"properties":{"region_id":"village_606082","name":"GUDIHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

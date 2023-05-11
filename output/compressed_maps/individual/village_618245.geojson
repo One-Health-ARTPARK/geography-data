@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00996809087975,12.37399317313007],[75.99948345428939,12.37850886907098],[75.9988123329143,12.3646570184403],[76.00641600592105,12.36490319064126],[76.00996809087975,12.37399317313007]]]},"properties":{"region_id":"village_618245","name":"KORALAHOSAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

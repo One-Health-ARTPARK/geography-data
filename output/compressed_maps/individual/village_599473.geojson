@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8349405056304,16.46086312714516],[75.80683424481,16.45944115031387],[75.80227646567909,16.43173826173961],[75.82628992925756,16.42903725767496],[75.8349405056304,16.46086312714516]]]},"properties":{"region_id":"village_599473","name":"KAULGI","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

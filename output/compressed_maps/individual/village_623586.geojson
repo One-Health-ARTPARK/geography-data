@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83813290965098,13.45339777155567],[77.83035187674868,13.45966374318003],[77.8236371607008,13.44035120905671],[77.84273829226844,13.44220892020473],[77.83813290965098,13.45339777155567]]]},"properties":{"region_id":"village_623586","name":"KANDAKANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

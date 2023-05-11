@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27128598092519,12.72613930296764],[77.25289578444378,12.71998356030926],[77.2766905086382,12.71269127065792],[77.27128598092519,12.72613930296764]]]},"properties":{"region_id":"village_626084","name":"IJOOR","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

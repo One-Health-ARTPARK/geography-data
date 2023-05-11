@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18824714499569,13.27556097707797],[77.17025291939828,13.28186263500242],[77.16103920746639,13.27437586187983],[77.17010503160118,13.26785942212118],[77.18824714499569,13.27556097707797]]]},"properties":{"region_id":"village_611398","name":"KOLIHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

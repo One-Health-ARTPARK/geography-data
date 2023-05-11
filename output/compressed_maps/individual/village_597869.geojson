@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.53640790138387,15.63494844610475],[74.51828275207703,15.6299740444857],[74.51757369892057,15.61853748188001],[74.53827350657953,15.61547585170668],[74.53640790138387,15.63494844610475]]]},"properties":{"region_id":"village_597869","name":"KARAMBAL","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

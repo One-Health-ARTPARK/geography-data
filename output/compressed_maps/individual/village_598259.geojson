@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15834779833968,15.9232602567974],[75.14465250142659,15.9234118495149],[75.14810893419208,15.88963254367423],[75.16306397167318,15.89309768652582],[75.15834779833968,15.9232602567974]]]},"properties":{"region_id":"village_598259","name":"KITADAL","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

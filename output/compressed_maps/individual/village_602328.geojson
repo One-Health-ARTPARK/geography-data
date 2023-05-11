@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29816519517034,15.60718312553753],[75.24668019071923,15.61167178069072],[75.24881301076735,15.572973030677],[75.29807546512956,15.58475810012591],[75.29816519517034,15.60718312553753]]]},"properties":{"region_id":"village_602328","name":"HALAKUSUGAL","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9949784408649,13.04661563032027],[74.96993744516928,13.05025715049991],[74.96709715583188,13.0329440128301],[74.99789926028909,13.02538482818617],[74.9949784408649,13.04661563032027]]]},"properties":{"region_id":"village_617456","name":"THODARU","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

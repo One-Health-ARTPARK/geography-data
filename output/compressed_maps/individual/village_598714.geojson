@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63948058364561,15.91509796183149],[75.60207353376421,15.92836970376435],[75.59623907483767,15.87480400142899],[75.63875715711572,15.88266729491174],[75.63948058364561,15.91509796183149]]]},"properties":{"region_id":"village_598714","name":"MUTTALAGERI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

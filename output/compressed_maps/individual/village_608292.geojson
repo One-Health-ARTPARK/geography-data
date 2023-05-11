@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20125897203042,13.61404717398815],[75.20965988581416,13.62206688384062],[75.19577255763997,13.62678419405012],[75.1919952362339,13.61803475152142],[75.20125897203042,13.61404717398815]]]},"properties":{"region_id":"village_608292","name":"YADAMANE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

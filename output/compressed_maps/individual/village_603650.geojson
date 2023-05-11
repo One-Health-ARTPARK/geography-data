@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80799385138192,14.35998168779202],[74.7985354699355,14.33985782538105],[74.81766687659896,14.34125537184657],[74.80799385138192,14.35998168779202]]]},"properties":{"region_id":"village_603650","name":"HOSAMANJU","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

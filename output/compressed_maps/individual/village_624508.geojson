@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.16851870364053,13.42955264880895],[78.16453719020339,13.43591404477566],[78.15486686139361,13.43599246688887],[78.15969479665921,13.42181780509552],[78.16851870364053,13.42955264880895]]]},"properties":{"region_id":"village_624508","name":"NANDIGANAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

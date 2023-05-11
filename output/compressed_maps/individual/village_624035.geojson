@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83792430188511,13.63551651870881],[77.85129144341424,13.61811083189978],[77.85033742945383,13.64133972570977],[77.83792430188511,13.63551651870881]]]},"properties":{"region_id":"village_624035","name":"NALLAPPANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

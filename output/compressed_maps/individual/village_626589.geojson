@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55410084556522,12.46940582863591],[77.53392600305571,12.49128227227442],[77.52479160239804,12.47554838755485],[77.53208193589879,12.46065562002834],[77.55410084556522,12.46940582863591]]]},"properties":{"region_id":"village_626589","name":"HERANDYAPPANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

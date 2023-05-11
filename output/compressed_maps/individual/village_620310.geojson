@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71734694459325,17.13980170017818],[76.68419361759872,17.13964154233074],[76.68946022950833,17.11993585107085],[76.7094803736174,17.11324859391879],[76.71734694459325,17.13980170017818]]]},"properties":{"region_id":"village_620310","name":"BASAVAPATTANA","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

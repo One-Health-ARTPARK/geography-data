@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57172901077267,16.07868652510788],[75.55804318168454,16.06556495285725],[75.58563615539754,16.06162897594841],[75.5859817473179,16.07537984078135],[75.57172901077267,16.07868652510788]]]},"properties":{"region_id":"village_598646","name":"YARAGOPPA INAM","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

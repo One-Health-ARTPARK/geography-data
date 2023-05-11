@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75040477570202,13.22304386049638],[76.74784504145333,13.23925858487758],[76.73781749529863,13.23429156084901],[76.73649072686888,13.22246618199546],[76.75040477570202,13.22304386049638]]]},"properties":{"region_id":"village_612291","name":"HATTIHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

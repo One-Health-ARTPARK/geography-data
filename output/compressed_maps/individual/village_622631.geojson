@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.20553271412582,12.83104745421684],[78.21126595283253,12.84303858050511],[78.20421399337742,12.84047620846498],[78.20553271412582,12.83104745421684]]]},"properties":{"region_id":"village_622631","name":"MITTAHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

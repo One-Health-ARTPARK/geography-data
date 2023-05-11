@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08453308815184,13.82705694541151],[76.07088332209693,13.8260957364581],[76.0683680871956,13.8177383358553],[76.08176411031461,13.818585608009],[76.08453308815184,13.82705694541151]]]},"properties":{"region_id":"village_609272","name":"THYARAJJANAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

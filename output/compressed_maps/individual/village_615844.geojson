@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97312448062769,13.064511226471],[75.96376694542344,13.06279771445601],[75.96757016047063,13.05358894360733],[75.97312448062769,13.064511226471]]]},"properties":{"region_id":"village_615844","name":"KANAVANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90967866014343,11.83898269357144],[76.88969971043942,11.8260618824446],[76.90282049398688,11.81429459960882],[76.90967866014343,11.83898269357144]]]},"properties":{"region_id":"village_619741","name":"HONNAHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

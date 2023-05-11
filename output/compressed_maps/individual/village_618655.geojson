@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43599450715097,12.52218792112542],[76.4199345573594,12.53332125649776],[76.41147635557735,12.51958325536679],[76.42687088683243,12.50301316385661],[76.43599450715097,12.52218792112542]]]},"properties":{"region_id":"village_618655","name":"DEGGANAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

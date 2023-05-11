@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63201772311277,14.23351310367281],[76.62174164306879,14.21005812488692],[76.64495215681336,14.19587175014322],[76.64936618332766,14.22227758389733],[76.63201772311277,14.23351310367281]]]},"properties":{"region_id":"village_605366","name":"GANJIGUNTE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

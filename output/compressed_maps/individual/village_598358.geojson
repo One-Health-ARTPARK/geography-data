@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27711655336746,15.95939164839895],[75.2844855060773,15.98907949717291],[75.27790798700865,15.99427215275297],[75.26684664821184,15.96868207300071],[75.27711655336746,15.95939164839895]]]},"properties":{"region_id":"village_598358","name":"KANKANWADI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

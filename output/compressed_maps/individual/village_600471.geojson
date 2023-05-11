@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61029248754438,16.16947214841887],[76.62159567218897,16.18608872439742],[76.61767461889158,16.20441425115721],[76.60190774743175,16.20700214238116],[76.59701260755863,16.1860036372036],[76.61029248754438,16.16947214841887]]]},"properties":{"region_id":"village_600471","name":"MEDINAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

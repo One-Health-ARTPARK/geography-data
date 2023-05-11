@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33101266084545,13.30315995507388],[76.31614403572635,13.29856330254991],[76.33935800190497,13.28462080045225],[76.34707527420471,13.29779072396893],[76.33101266084545,13.30315995507388]]]},"properties":{"region_id":"village_615777","name":"ADIHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

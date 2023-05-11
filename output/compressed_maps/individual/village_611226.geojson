@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30379717593243,13.35709200877564],[77.2998427169014,13.36345288960452],[77.29773813743638,13.35359356690179],[77.30379717593243,13.35709200877564]]]},"properties":{"region_id":"village_611226","name":"MADHAVARAYANAPALYA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17961278785602,17.96756923941409],[77.17079962331061,17.96913856521818],[77.17042616996677,17.94994298333529],[77.17939027851811,17.95130326223873],[77.17961278785602,17.96756923941409]]]},"properties":{"region_id":"village_599935","name":"KAPLAPUR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97046799045411,13.16799649782314],[76.96168908054365,13.16805567691021],[76.94745070863407,13.15630817438528],[76.96392971279654,13.15422438220175],[76.9759630366608,13.15942028905487],[76.97046799045411,13.16799649782314]]]},"properties":{"region_id":"village_611930","name":"AVERAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

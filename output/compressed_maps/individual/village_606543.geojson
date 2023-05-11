@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84032678621341,14.49932499641072],[75.83174497150343,14.50068116602727],[75.83125394908045,14.47930341035646],[75.84088373148322,14.48034550824341],[75.84032678621341,14.49932499641072]]]},"properties":{"region_id":"village_606543","name":"NEELANAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

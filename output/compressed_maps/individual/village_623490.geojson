@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72723359495322,13.57283423624877],[77.71528579938868,13.57589094768783],[77.70189023702038,13.57609625587036],[77.7241920994166,13.56339884864269],[77.72723359495322,13.57283423624877]]]},"properties":{"region_id":"village_623490","name":"KACHAKADATHA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

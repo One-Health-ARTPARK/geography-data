@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50349378485502,17.49707268312168],[77.47537561654858,17.51609227491699],[77.42440055676232,17.51297031768298],[77.45115924634206,17.48177934101339],[77.50349378485502,17.49707268312168]]]},"properties":{"region_id":"village_620369","name":"AINOLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

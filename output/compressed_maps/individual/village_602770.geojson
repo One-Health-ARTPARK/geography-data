@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71002403943932,15.32002296300681],[74.71022671538432,15.32926186629824],[74.68646006944093,15.32654136633957],[74.69150713612947,15.31597728685307],[74.71002403943932,15.32002296300681]]]},"properties":{"region_id":"village_602770","name":"SATMANI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

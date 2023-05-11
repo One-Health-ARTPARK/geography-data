@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69128520295848,12.87915298317515],[77.67418432374923,12.88412649094644],[77.67532488951636,12.87257866596945],[77.69128520295848,12.87915298317515]]]},"properties":{"region_id":"village_613185","name":"RAYASANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

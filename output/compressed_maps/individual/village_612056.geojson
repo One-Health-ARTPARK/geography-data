@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55978427893803,13.24052253634787],[76.56054203234156,13.24849009630359],[76.54761270139473,13.2517059993123],[76.55048592572446,13.23758520403307],[76.55978427893803,13.24052253634787]]]},"properties":{"region_id":"village_612056","name":"KADUSHETTIHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

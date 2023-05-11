@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54136671548657,18.19177176818851],[77.51669370483468,18.19094449612091],[77.51580675888033,18.17691261387731],[77.53808874812357,18.17261836591958],[77.54136671548657,18.19177176818851]]]},"properties":{"region_id":"village_600090","name":"MEDPALLI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

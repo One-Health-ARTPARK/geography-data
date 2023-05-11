@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1797196893155,14.87883502605444],[75.15568752115355,14.87909353210722],[75.15518910698387,14.8674673578081],[75.17498773267808,14.86573550652103],[75.1797196893155,14.87883502605444]]]},"properties":{"region_id":"village_604040","name":"BADAMGATTI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

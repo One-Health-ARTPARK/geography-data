@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15501112061415,14.3161097263762],[75.14977708044086,14.34456611599613],[75.13907920807672,14.3294226237934],[75.14759142716728,14.32910008983916],[75.14831219434147,14.31654624175679],[75.15501112061415,14.3161097263762]]]},"properties":{"region_id":"village_607648","name":"KUMBATHI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

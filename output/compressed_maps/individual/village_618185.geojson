@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12658729027144,12.44228143983393],[76.10549735651281,12.43510652407821],[76.118726442707,12.4219056625134],[76.12658729027144,12.44228143983393]]]},"properties":{"region_id":"village_618185","name":"BARSE","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

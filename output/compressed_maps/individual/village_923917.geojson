@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57750914997858,12.46767852740042],[75.56364066753243,12.47716469353373],[75.55959094647504,12.46511617745732],[75.56810152835267,12.45404494110283],[75.57750914997858,12.46767852740042]]]},"properties":{"region_id":"village_923917","name":"KALLALA","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34485013826357,13.19330480053308],[77.33404457904741,13.19379794635124],[77.32562108307751,13.17917861738225],[77.35374370728972,13.17677758041673],[77.34485013826357,13.19330480053308]]]},"properties":{"region_id":"village_624852","name":"JAKKANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

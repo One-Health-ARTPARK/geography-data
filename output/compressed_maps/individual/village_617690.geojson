@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2214924046178,12.81893918532788],[75.2037785976419,12.80600465657149],[75.22569136330905,12.79441146647115],[75.2214924046178,12.81893918532788]]]},"properties":{"region_id":"village_617690","name":"KODIMBADY","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

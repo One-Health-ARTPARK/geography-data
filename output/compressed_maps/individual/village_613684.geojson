@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66353971976964,12.85524148224222],[76.65350784612015,12.85492117664696],[76.65882967061668,12.84073531973026],[76.66683006942107,12.84313963232281],[76.66353971976964,12.85524148224222]]]},"properties":{"region_id":"village_613684","name":"MANCHENAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

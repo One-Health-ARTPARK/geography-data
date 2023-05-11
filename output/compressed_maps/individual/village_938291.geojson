@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68549095426765,12.90878627899775],[77.68139514202375,12.90914229447718],[77.67713169456167,12.89999669365313],[77.68625593806989,12.90392522662461],[77.68549095426765,12.90878627899775]]]},"properties":{"region_id":"village_938291","name":"JUNNASANDRA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

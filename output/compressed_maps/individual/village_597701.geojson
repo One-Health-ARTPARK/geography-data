@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.62540045135232,15.98693943153919],[74.64407331033877,16.00027377758691],[74.63525068487121,16.00531412288586],[74.62540045135232,15.98693943153919]]]},"properties":{"region_id":"village_597701","name":"RANGADHOLI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

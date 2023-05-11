@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91890313472166,16.02004789335156],[75.93204598386566,16.04083503638785],[75.91070075707545,16.04820756005595],[75.91890313472166,16.02004789335156]]]},"properties":{"region_id":"village_598886","name":"KUNABENCHI","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

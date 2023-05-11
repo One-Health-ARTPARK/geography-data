@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10199339791087,13.44567026146096],[76.08478690828899,13.43434466209103],[76.08058477296181,13.42171256919491],[76.10275229487218,13.41144760704224],[76.10199339791087,13.44567026146096]]]},"properties":{"region_id":"village_609636","name":"DEVANUR","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

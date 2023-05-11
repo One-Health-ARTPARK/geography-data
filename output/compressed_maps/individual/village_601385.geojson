@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91023106688887,15.87485564302607],[75.87954366248155,15.86463215912949],[75.87946992992602,15.85030073602688],[75.9061207522897,15.85613072625124],[75.91023106688887,15.87485564302607]]]},"properties":{"region_id":"village_601385","name":"HANMANHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28047693411024,13.76669140282473],[77.26600246285565,13.77556654506827],[77.22898556107154,13.7490960667629],[77.25173786007065,13.74083773972525],[77.28047693411024,13.76669140282473]]]},"properties":{"region_id":"village_610891","name":"BRAHMASAMUDRA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

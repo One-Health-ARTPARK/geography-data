@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08111270544804,13.67664104248054],[77.07680258522132,13.66220870975654],[77.08435809354496,13.66400259935729],[77.08111270544804,13.67664104248054]]]},"properties":{"region_id":"village_610761","name":"APPANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

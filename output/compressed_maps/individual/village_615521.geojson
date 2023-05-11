@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21574852147664,13.22640770018485],[76.20522624783406,13.217114731562],[76.22267813595984,13.20186842776838],[76.23271731580759,13.21583758946433],[76.21574852147664,13.22640770018485]]]},"properties":{"region_id":"village_615521","name":"DODDENAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

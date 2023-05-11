@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04369295092023,14.19175581363812],[76.04194929752862,14.21313645397101],[76.02965884556038,14.20776349853164],[76.02571408969786,14.19480054714676],[76.04369295092023,14.19175581363812]]]},"properties":{"region_id":"village_606951","name":"KALLENAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

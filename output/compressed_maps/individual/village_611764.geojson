@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81338805542434,13.36699782051475],[76.77580026814285,13.36827740065825],[76.77432058463437,13.35688393767175],[76.807706330229,13.35687365741656],[76.81338805542434,13.36699782051475]]]},"properties":{"region_id":"village_611764","name":"VIRUPAKSHIPURA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99144323450597,13.24682432281606],[77.97510774393272,13.23800530569181],[77.98580451914916,13.23056764474194],[77.99144323450597,13.24682432281606]]]},"properties":{"region_id":"village_621771","name":"KADAGATTUR","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

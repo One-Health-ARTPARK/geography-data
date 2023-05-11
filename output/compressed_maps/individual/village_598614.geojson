@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35319298528553,16.16193291616304],[75.33131764544767,16.17343861922039],[75.32013323203365,16.14814879424873],[75.34546545927063,16.1426174321955],[75.35319298528553,16.16193291616304]]]},"properties":{"region_id":"village_598614","name":"LAXANATTI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

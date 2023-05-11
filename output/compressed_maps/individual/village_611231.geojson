@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32731096515117,13.35396845150102],[77.31437544594631,13.35537644464306],[77.31161646731985,13.3476309872203],[77.32606032721434,13.34642755094259],[77.32731096515117,13.35396845150102]]]},"properties":{"region_id":"village_611231","name":"BHEEMASAGARA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

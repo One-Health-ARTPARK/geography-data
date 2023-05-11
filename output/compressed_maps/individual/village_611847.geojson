@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94780272376002,13.25828425081722],[76.94771824767132,13.24857917143334],[76.96651079638293,13.25382030641138],[76.95557353174623,13.26659572990638],[76.94780272376002,13.25828425081722]]]},"properties":{"region_id":"village_611847","name":"DODDERI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

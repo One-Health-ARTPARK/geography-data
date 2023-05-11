@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5985304182762,14.25455000078844],[75.58318658280292,14.27814859216828],[75.56454598891474,14.2592169604721],[75.5985304182762,14.25455000078844]]]},"properties":{"region_id":"village_606773","name":"SOMANAMALLAPURA","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

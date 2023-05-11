@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40723351641839,13.35999429426816],[77.41300598362274,13.37614009215233],[77.39763406630777,13.37265714613481],[77.40723351641839,13.35999429426816]]]},"properties":{"region_id":"village_625000","name":"KADLAPANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

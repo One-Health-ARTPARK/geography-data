@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46298683744993,12.75806806432464],[76.46867236619542,12.77293661901505],[76.46154652063495,12.77603312100082],[76.45674358260902,12.75846605388779],[76.46298683744993,12.75806806432464]]]},"properties":{"region_id":"village_613418","name":"MANGANAHOSAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

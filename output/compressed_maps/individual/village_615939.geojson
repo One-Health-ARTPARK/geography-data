@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16397323668423,13.11510969645583],[76.15285009447419,13.1174151008707],[76.15037248954546,13.10423268391144],[76.16191070254109,13.10153378852998],[76.16397323668423,13.11510969645583]]]},"properties":{"region_id":"village_615939","name":"CHIKKAMENAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

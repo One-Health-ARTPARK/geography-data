@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04530113941341,16.32410213164429],[76.02994718737614,16.32806122785377],[76.01861367759436,16.30236124754496],[76.0301791558347,16.29527582311749],[76.04530113941341,16.32410213164429]]]},"properties":{"region_id":"village_599611","name":"MUDUR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

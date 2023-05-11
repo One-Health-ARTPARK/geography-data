@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26648859725253,14.12384305745369],[76.25662762391487,14.1023904334685],[76.28186064047183,14.10663316729611],[76.26648859725253,14.12384305745369]]]},"properties":{"region_id":"village_605768","name":"CHITRAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

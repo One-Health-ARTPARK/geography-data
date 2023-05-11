@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66143762565147,17.02079443519521],[76.65674965796417,17.0474400719214],[76.63798082851743,17.05388366900785],[76.63404858404449,17.01142101823743],[76.66143762565147,17.02079443519521]]]},"properties":{"region_id":"village_620768","name":"KALHANGERGA","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

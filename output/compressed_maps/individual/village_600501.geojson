@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63927789032122,16.02983993707919],[76.61266782753627,16.00804251091743],[76.64530609273618,15.99496760212633],[76.63927789032122,16.02983993707919]]]},"properties":{"region_id":"village_600501","name":"MUDWAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

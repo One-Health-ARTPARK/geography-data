@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40294241832436,15.63386360412544],[76.37929205925644,15.64577263893945],[76.36857694898183,15.63916346693288],[76.38965293100088,15.62244205370557],[76.40294241832436,15.63386360412544]]]},"properties":{"region_id":"village_601559","name":"VARANKHED","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

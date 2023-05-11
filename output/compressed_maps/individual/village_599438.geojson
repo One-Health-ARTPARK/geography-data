@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36788721752012,16.65933056893957],[76.33566701034985,16.66054848300368],[76.33300966064596,16.63662008381189],[76.36327579981405,16.63473851381702],[76.36788721752012,16.65933056893957]]]},"properties":{"region_id":"village_599438","name":"BEKINAL","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

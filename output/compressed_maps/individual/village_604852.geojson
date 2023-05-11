@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03046953245845,15.41128979664393],[77.02136122798039,15.43470036951178],[76.99293264711635,15.42615315717462],[76.99212002574222,15.41379165314287],[77.03046953245845,15.41128979664393]]]},"properties":{"region_id":"village_604852","name":"ULUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

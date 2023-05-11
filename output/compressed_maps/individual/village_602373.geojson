@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49865624300969,15.42345385832815],[75.48830228405383,15.41442180832578],[75.4808317406171,15.38877220407256],[75.49402571294311,15.38744300475238],[75.49865624300969,15.42345385832815]]]},"properties":{"region_id":"village_602373","name":"SAIDAPUR","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

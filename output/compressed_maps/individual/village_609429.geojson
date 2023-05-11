@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0445138827245,13.61708925442461],[76.04413308903456,13.62557850472407],[76.03438280906084,13.62267294586147],[76.02638234834816,13.61309333295137],[76.0445138827245,13.61708925442461]]]},"properties":{"region_id":"village_609429","name":"K.DASARAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

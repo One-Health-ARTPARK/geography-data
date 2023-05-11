@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64437286379584,15.39743779300491],[75.61286817040637,15.36746761826722],[75.64961706574745,15.35228969652395],[75.64437286379584,15.39743779300491]]]},"properties":{"region_id":"village_602025","name":"KALASAPUR","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

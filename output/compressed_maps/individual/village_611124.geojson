@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30893919307657,13.51229152186009],[77.29605305401542,13.50593044942495],[77.30990697255149,13.50088526289299],[77.30893919307657,13.51229152186009]]]},"properties":{"region_id":"village_611124","name":"KODLAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

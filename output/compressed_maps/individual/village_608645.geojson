@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67935210100485,13.78076731316029],[75.67899357889597,13.79185690313256],[75.66392170933555,13.79065209500065],[75.66086748835534,13.78095782757477],[75.67935210100485,13.78076731316029]]]},"properties":{"region_id":"village_608645","name":"THARIKATTE","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

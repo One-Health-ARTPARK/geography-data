@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68782368375861,17.56707154188333],[76.71218797641757,17.56473437631988],[76.71309108274545,17.58070688685712],[76.687196058877,17.5870914741176],[76.68782368375861,17.56707154188333]]]},"properties":{"region_id":"village_620020","name":"KUNISANGAVI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

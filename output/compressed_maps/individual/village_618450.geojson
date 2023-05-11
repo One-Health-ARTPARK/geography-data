@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45560211989171,12.37110907632618],[76.45371862043802,12.35457266491213],[76.47194732285357,12.35596441858359],[76.46948077094295,12.36742353547036],[76.45560211989171,12.37110907632618]]]},"properties":{"region_id":"village_618450","name":"HALEBEEDU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

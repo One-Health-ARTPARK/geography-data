@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18174633090598,14.08673228608671],[75.16346350703786,14.08064993075158],[75.17509054376268,14.0592923123722],[75.18174633090598,14.08673228608671]]]},"properties":{"region_id":"village_607274","name":"ADUR","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

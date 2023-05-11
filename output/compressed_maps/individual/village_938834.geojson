@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.13155178846809,14.80799545549596],[74.12940961834289,14.80832514131746],[74.12826497031035,14.80255869792771],[74.13226817487724,14.8028670922626],[74.13155178846809,14.80799545549596]]]},"properties":{"region_id":"village_938834","name":"KONE","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42384159268101,16.94495715388305],[76.42907528443999,16.97900135868588],[76.40063487324734,16.97733260624569],[76.40233856585918,16.94312357177398],[76.42384159268101,16.94495715388305]]]},"properties":{"region_id":"village_620744","name":"DESANGI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

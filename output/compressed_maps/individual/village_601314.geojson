@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07392890539329,15.55332741801081],[76.0633575006914,15.52156605983685],[76.07936161794228,15.52106298192586],[76.07392890539329,15.55332741801081]]]},"properties":{"region_id":"village_601314","name":"BUDGUMPI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

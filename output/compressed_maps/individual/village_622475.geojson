@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.16349485725668,13.02845592119674],[78.15420553273808,13.04730230407645],[78.15171656173784,13.02703000921813],[78.16349485725668,13.02845592119674]]]},"properties":{"region_id":"village_622475","name":"KUPPANHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

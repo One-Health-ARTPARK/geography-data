@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96002457828106,13.34762427708029],[76.94717561619987,13.34885226544528],[76.94540606717145,13.33855841129865],[76.97087988718211,13.34011899373371],[76.96002457828106,13.34762427708029]]]},"properties":{"region_id":"village_611822","name":"CHIKKANETAGUNTE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61601052416462,12.5714052520129],[76.6395734794075,12.56808436796555],[76.64656008999533,12.57883891586914],[76.61777991301693,12.58260687927818],[76.61601052416462,12.5714052520129]]]},"properties":{"region_id":"village_614108","name":"SANABA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

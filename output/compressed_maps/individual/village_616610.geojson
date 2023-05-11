@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13158662710127,12.79968500434122],[76.13022174613303,12.80968323971654],[76.12410913809454,12.80949985817129],[76.13158662710127,12.79968500434122]]]},"properties":{"region_id":"village_616610","name":"GANGANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

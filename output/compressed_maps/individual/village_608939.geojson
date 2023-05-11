@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21492750493327,13.27147937188368],[75.2246416765124,13.32908915427102],[75.20484250801667,13.31798465722637],[75.21492750493327,13.27147937188368]]]},"properties":{"region_id":"village_608939","name":"HADIKIRURU","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

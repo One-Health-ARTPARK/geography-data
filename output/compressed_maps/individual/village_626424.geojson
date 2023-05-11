@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55373894287175,12.60116467943865],[77.54105915244969,12.59637491124963],[77.54876864605245,12.58479940410352],[77.55373894287175,12.60116467943865]]]},"properties":{"region_id":"village_626424","name":"BHEEMASANDRA","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

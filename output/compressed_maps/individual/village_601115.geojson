@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68205777670757,15.88486384627255],[76.67401697252645,15.86674637757533],[76.68736454160394,15.8578634817772],[76.68848078542608,15.87770779868262],[76.68205777670757,15.88486384627255]]]},"properties":{"region_id":"village_601115","name":"MUDDAPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

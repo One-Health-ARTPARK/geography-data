@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05634341347073,12.45248610567097],[76.03735204416553,12.4532751537652],[76.04223498566837,12.4315688988224],[76.06195551110592,12.43296458776622],[76.05634341347073,12.45248610567097]]]},"properties":{"region_id":"village_618176","name":"KONASUR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

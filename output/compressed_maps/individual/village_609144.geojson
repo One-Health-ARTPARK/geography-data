@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80262260952493,13.72082952180029],[75.80026626728309,13.73177251156311],[75.79033655689912,13.72416863530379],[75.80262260952493,13.72082952180029]]]},"properties":{"region_id":"village_609144","name":"SHIVAGANGE","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

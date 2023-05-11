@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.56671524158828,15.70638645661183],[74.54618832669051,15.69305388353743],[74.56296847385231,15.67844754701593],[74.57115384776058,15.68604642356386],[74.56671524158828,15.70638645661183]]]},"properties":{"region_id":"village_597854","name":"TOPINKATTI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

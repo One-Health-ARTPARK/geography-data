@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02210942323953,12.48418145288086],[77.0031668663177,12.49140383982642],[76.99827067309698,12.47735662050838],[77.02153745782338,12.46754264541027],[77.02210942323953,12.48418145288086]]]},"properties":{"region_id":"village_614634","name":"KARADAKERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

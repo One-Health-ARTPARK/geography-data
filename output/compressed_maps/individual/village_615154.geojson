@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84080028074264,13.07345292754463],[75.82982011284093,13.06444493811463],[75.84362489332767,13.05903015210164],[75.84080028074264,13.07345292754463]]]},"properties":{"region_id":"village_615154","name":"SURUKODU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27885087743542,15.29373362238405],[75.27061384455664,15.275179089457],[75.28643943163246,15.27283536972327],[75.29664081002933,15.29184075163166],[75.27885087743542,15.29373362238405]]]},"properties":{"region_id":"village_602557","name":"BENAKANAHALLI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96262870662461,15.8654730677552],[75.97874177761497,15.87165737634439],[75.97538307721965,15.89736537368834],[75.95413791562903,15.89379660069857],[75.96262870662461,15.8654730677552]]]},"properties":{"region_id":"village_598899","name":"GANDAL","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

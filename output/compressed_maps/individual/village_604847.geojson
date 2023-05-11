@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00475889017129,15.46079829379862],[76.98665977665007,15.48482191193257],[76.97762293079057,15.4520628986142],[77.00475889017129,15.46079829379862]]]},"properties":{"region_id":"village_604847","name":"MOTA SUGUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

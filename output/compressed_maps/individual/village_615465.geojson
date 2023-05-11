@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11081713231195,13.31708145590742],[76.09625234277051,13.34103851890212],[76.08485558811289,13.32989015940731],[76.08894333375245,13.31486037092527],[76.11081713231195,13.31708145590742]]]},"properties":{"region_id":"village_615465","name":"MOSALE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

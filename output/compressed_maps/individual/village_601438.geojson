@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11719554143727,15.88601490644098],[76.10583057807877,15.89345257242007],[76.08494874320303,15.88777457529715],[76.09274591113315,15.87692931324571],[76.11719554143727,15.88601490644098]]]},"properties":{"region_id":"village_601438","name":"HANAMAGERI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

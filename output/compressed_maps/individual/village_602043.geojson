@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62179161151363,15.30175527684834],[75.60514795223781,15.31197026710145],[75.59923533847278,15.28266425094463],[75.623069630809,15.28160984806496],[75.62179161151363,15.30175527684834]]]},"properties":{"region_id":"village_602043","name":"SHIRUNJA","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

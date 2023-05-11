@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16043380012724,17.17185114481376],[77.14589740005938,17.16666939185448],[77.15760199108658,17.13600262021461],[77.16902719425293,17.13846733584298],[77.16119871347887,17.15597013921781],[77.16043380012724,17.17185114481376]]]},"properties":{"region_id":"village_620495","name":"BHIMNAGAR","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94848254754245,14.09211517675358],[76.94424389048193,14.12043491578767],[76.89882097307427,14.13525702441371],[76.89160256379431,14.1038584584817],[76.94848254754245,14.09211517675358]]]},"properties":{"region_id":"village_606105","name":"KHANDENAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

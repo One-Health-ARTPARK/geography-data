@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52675400040594,13.02151500012086],[77.52226900042962,13.01540199989663],[77.53061599992382,13.01461400007017],[77.52675400040594,13.02151500012086]]]},"properties":{"region_id":"ward_bbmp42","name":"WARD NO.42 (LAKSHMI DEVI NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

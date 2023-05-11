@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09614596213459,15.50103708577876],[75.07925293826794,15.49446289633402],[75.08257366003386,15.48194194398361],[75.09958288052535,15.48810117121418],[75.09614596213459,15.50103708577876]]]},"properties":{"region_id":"village_602303","name":"BENAKANAMATTI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

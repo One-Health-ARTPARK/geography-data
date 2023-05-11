@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25729107026694,14.79030680384443],[75.2358990177189,14.7882862370959],[75.2326158855124,14.76295985438189],[75.2582654861197,14.76223625363099],[75.25729107026694,14.79030680384443]]]},"properties":{"region_id":"village_604140","name":"ADUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

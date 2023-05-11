@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57937060545085,13.94834658987659],[76.57740115926134,13.96510042035208],[76.55491677497392,13.97900584563007],[76.55974682132148,13.94816708379061],[76.57937060545085,13.94834658987659]]]},"properties":{"region_id":"village_606133","name":"MAYASANDRA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

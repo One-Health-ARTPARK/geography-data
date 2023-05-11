@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.600369153757,13.38388187825603],[75.58704834686245,13.42269680591725],[75.55922035487323,13.40908597886247],[75.5710431576847,13.39198362014611],[75.600369153757,13.38388187825603]]]},"properties":{"region_id":"village_609665","name":"BOGGASE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80063691260304,14.84019941896719],[75.76754879175573,14.84212200500873],[75.7701591544447,14.83021640002663],[75.80063691260304,14.84019941896719]]]},"properties":{"region_id":"village_604597","name":"POTHALAKATTI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

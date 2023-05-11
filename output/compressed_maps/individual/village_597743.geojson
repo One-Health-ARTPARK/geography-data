@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.43794323431355,15.77105320032263],[74.41877249652387,15.77955972449259],[74.42014805598163,15.76662704574178],[74.43794323431355,15.77105320032263]]]},"properties":{"region_id":"village_597743","name":"BAHADARWADI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

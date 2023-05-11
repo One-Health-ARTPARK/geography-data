@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82644679925355,13.1321104404896],[75.82324335082012,13.1239580772457],[75.83060578376265,13.12292171661748],[75.84062704331315,13.12643563768094],[75.82644679925355,13.1321104404896]]]},"properties":{"region_id":"village_615132","name":"KANDAVARA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51047055585805,14.10146592260381],[75.52742104827745,14.09340893701947],[75.53242331410847,14.11321578900278],[75.51047055585805,14.10146592260381]]]},"properties":{"region_id":"village_606732","name":"SOVALANGA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

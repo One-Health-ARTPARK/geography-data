@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84387246918496,13.60233524629553],[74.81060689209765,13.62666465239147],[74.78972001756925,13.58503234365753],[74.81675413829353,13.57861917157744],[74.84387246918496,13.60233524629553]]]},"properties":{"region_id":"village_608747","name":"MOLAHALLI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66727056409644,14.71550102483571],[76.64437538649047,14.71550760572772],[76.65047875166002,14.69389042280061],[76.66821245226207,14.68946475836131],[76.66727056409644,14.71550102483571]]]},"properties":{"region_id":"village_605204","name":"SIDDAIAHNAKOTE","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

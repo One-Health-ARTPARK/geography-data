@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30960876688845,15.93928790151444],[75.2896545919671,15.90575347712993],[75.31177788691215,15.89865001678921],[75.30960876688845,15.93928790151444]]]},"properties":{"region_id":"village_598379","name":"DODAMANGADI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

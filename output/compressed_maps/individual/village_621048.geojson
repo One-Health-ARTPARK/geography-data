@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67353111346969,16.5377579088662],[76.65662862428316,16.54644111378834],[76.62665685927135,16.53686055840587],[76.6388264164975,16.51873692997409],[76.67235587865815,16.52268458838187],[76.67353111346969,16.5377579088662]]]},"properties":{"region_id":"village_621048","name":"PETH AMMAPUR","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

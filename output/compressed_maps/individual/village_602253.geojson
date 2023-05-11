@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9074505777967,15.48064845950207],[74.90024048517785,15.49342366950424],[74.8608753994009,15.47401917571126],[74.86529645468417,15.45602255123715],[74.89881065544974,15.46485222232818],[74.9074505777967,15.48064845950207]]]},"properties":{"region_id":"village_602253","name":"WARAVANAGALAVI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

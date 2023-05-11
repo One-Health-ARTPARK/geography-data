@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48945688074058,13.32147952467536],[77.47467722812429,13.32090218841203],[77.47480431747556,13.30989899828715],[77.48503653850075,13.30714097040254],[77.48945688074058,13.32147952467536]]]},"properties":{"region_id":"village_625109","name":"NERALAGHATTA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

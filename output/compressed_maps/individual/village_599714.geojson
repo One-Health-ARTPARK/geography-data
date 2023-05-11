@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3541753698872,16.44857606072982],[76.33565105141096,16.45606122699449],[76.33257810624949,16.42859946889767],[76.350300289848,16.4270378095504],[76.3541753698872,16.44857606072982]]]},"properties":{"region_id":"village_599714","name":"MASKANAL","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

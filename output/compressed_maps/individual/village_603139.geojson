@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73809697730131,14.6505672394714],[74.71496214759024,14.65107075740985],[74.71814683645059,14.62840153041444],[74.73809697730131,14.6505672394714]]]},"properties":{"region_id":"village_603139","name":"KADBAL","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

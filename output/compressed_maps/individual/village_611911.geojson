@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85657085138574,13.19920193836967],[76.83669391333451,13.20326137297797],[76.84527262993018,13.18900861472826],[76.85657085138574,13.19920193836967]]]},"properties":{"region_id":"village_611911","name":"MANCHIHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

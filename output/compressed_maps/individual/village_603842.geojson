@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.617224751144,14.04685429343473],[74.59009926701836,14.0653629591206],[74.58216890374696,14.040176699944],[74.617224751144,14.04685429343473]]]},"properties":{"region_id":"village_603842","name":"HUDIL","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

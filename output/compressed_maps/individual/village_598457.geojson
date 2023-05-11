@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3520072295442,16.71530163730944],[75.31033966524585,16.62848626599147],[75.35445540522787,16.6258672767166],[75.37644984061941,16.6689607636892],[75.3520072295442,16.71530163730944]]]},"properties":{"region_id":"village_598457","name":"SAVALAGI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

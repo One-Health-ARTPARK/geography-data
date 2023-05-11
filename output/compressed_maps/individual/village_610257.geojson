@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66457744914071,13.3432349670819],[76.64349424775757,13.34537852502151],[76.65098620171142,13.33285146806756],[76.66457744914071,13.3432349670819]]]},"properties":{"region_id":"village_610257","name":"HALGONA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

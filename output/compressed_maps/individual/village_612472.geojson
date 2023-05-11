@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87949239472424,13.00182364867185],[76.85594951361848,13.00351141809632],[76.86398661275194,12.98785512145785],[76.87949239472424,13.00182364867185]]]},"properties":{"region_id":"village_612472","name":"JALADAGERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

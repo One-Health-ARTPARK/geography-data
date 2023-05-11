@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25077880103512,13.45405876602097],[75.24088216416644,13.42685978271246],[75.26073336393932,13.43364125880032],[75.25077880103512,13.45405876602097]]]},"properties":{"region_id":"village_608947","name":"BELANDUR","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

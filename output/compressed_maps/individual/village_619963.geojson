@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69412580339466,17.6961416956481],[76.71176382000122,17.69450035304512],[76.69942761928355,17.70829224768427],[76.69412580339466,17.6961416956481]]]},"properties":{"region_id":"village_619963","name":"NANDGUR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

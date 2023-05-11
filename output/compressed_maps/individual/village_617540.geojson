@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09120611351418,12.9421874899481],[75.07346948822725,12.93193007822102],[75.06428795392772,12.9124009321947],[75.08225736154657,12.91128079294239],[75.09120611351418,12.9421874899481]]]},"properties":{"region_id":"village_617540","name":"MUDANADUGODU","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

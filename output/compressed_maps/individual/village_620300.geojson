@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81397546589528,17.24462188614861],[76.78570111977275,17.23696659438655],[76.77585112850639,17.21782686271007],[76.81310485970727,17.21784616494218],[76.81397546589528,17.24462188614861]]]},"properties":{"region_id":"village_620300","name":"SIRNOOR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

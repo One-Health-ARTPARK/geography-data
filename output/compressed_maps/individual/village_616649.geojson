@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09147727483341,12.66053049722864],[76.07677178704743,12.66117974980299],[76.08249251614056,12.63757777368506],[76.09146037993021,12.65012942712354],[76.09147727483341,12.66053049722864]]]},"properties":{"region_id":"village_616649","name":"MUGALUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

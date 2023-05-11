@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33134050163021,16.42520730474043],[76.30230535439125,16.42575559012637],[76.30959480486645,16.3971556620359],[76.33198772834824,16.39690851671043],[76.33134050163021,16.42520730474043]]]},"properties":{"region_id":"village_599720","name":"NAGUR","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

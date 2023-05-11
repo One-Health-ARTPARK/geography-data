@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98731970794121,13.52505180490787],[77.97915519596917,13.52716313807949],[77.96346300965432,13.51966773503006],[77.98097446742025,13.51296947535835],[77.98731970794121,13.52505180490787]]]},"properties":{"region_id":"village_624083","name":"CHIKKABANDARAGATTA","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

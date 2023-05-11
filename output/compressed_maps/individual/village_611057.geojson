@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28006936585545,13.58518879853183],[77.26334971081121,13.58277344109421],[77.26816016175084,13.56085034455464],[77.28035861197527,13.56106563266165],[77.28006936585545,13.58518879853183]]]},"properties":{"region_id":"village_611057","name":"VODDAGERE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

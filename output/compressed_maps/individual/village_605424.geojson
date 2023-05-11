@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21478050729655,14.44582772566325],[76.17459004738656,14.46242186473037],[76.18170605790232,14.43106278322809],[76.20501375965306,14.42841098732767],[76.21478050729655,14.44582772566325]]]},"properties":{"region_id":"village_605424","name":"KADEHUDE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

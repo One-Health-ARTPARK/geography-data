@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80844756710006,13.6673781801134],[74.74047116472634,13.65658700488825],[74.75790692702947,13.63886952895496],[74.78021921742649,13.66006350324217],[74.80844756710006,13.6673781801134]]]},"properties":{"region_id":"village_608703","name":"GULVADI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

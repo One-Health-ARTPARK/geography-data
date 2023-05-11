@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49361044023448,13.0966196264079],[77.49772594487163,13.10881695730385],[77.4858300342822,13.10528532108294],[77.49361044023448,13.0966196264079]]]},"properties":{"region_id":"village_612880","name":"KUMBARAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

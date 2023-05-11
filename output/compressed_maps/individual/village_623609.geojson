@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69126384321017,13.41595238963793],[77.6759520837202,13.40899897564348],[77.67635382723533,13.39906939835151],[77.69409126106021,13.4010396419955],[77.69126384321017,13.41595238963793]]]},"properties":{"region_id":"village_623609","name":"SUDDAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

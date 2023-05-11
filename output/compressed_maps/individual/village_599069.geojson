@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77734260040455,16.96439605949003],[75.74679756441992,16.96145543768863],[75.73328258046281,16.93250362511712],[75.77434242251618,16.94059752804195],[75.77734260040455,16.96439605949003]]]},"properties":{"region_id":"village_599069","name":"KANNAL","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

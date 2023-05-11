@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29240208845953,14.94618017402116],[75.29169545730001,14.96738240894142],[75.28163568985718,14.96542302990879],[75.28320647170412,14.94487658116725],[75.29240208845953,14.94618017402116]]]},"properties":{"region_id":"village_603983","name":"NANDIHALLI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

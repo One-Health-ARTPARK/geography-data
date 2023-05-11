@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15087429754263,17.72036696989375],[77.12692900224397,17.72908821028501],[77.12907465596902,17.70547752977276],[77.15087429754263,17.72036696989375]]]},"properties":{"region_id":"village_600305","name":"HANKUNI","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

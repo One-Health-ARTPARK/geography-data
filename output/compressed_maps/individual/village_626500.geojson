@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35875082875997,12.53141586109978],[77.3474418783936,12.53141003660806],[77.34560421025245,12.52350723859298],[77.35837411670607,12.52436638385262],[77.35875082875997,12.53141586109978]]]},"properties":{"region_id":"village_626500","name":"VIRUPASANDRA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76924428490308,13.44442888090469],[77.77459700818638,13.45401820148775],[77.7592670846412,13.45261517354549],[77.75664000471934,13.44320155566848],[77.76924428490308,13.44442888090469]]]},"properties":{"region_id":"village_623569","name":"ETHAMAKALAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73795849144805,15.87016524583401],[74.73596440184352,15.857464166787],[74.75063330352614,15.84167779165034],[74.75033343846815,15.86759729067486],[74.73795849144805,15.87016524583401]]]},"properties":{"region_id":"village_598044","name":"YARAGUDDI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

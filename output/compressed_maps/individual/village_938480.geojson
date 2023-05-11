@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53753761279265,12.93971628120821],[77.5217723432124,12.93036996474799],[77.53041887358211,12.91722356199299],[77.54115872252751,12.92183506540328],[77.53753761279265,12.93971628120821]]]},"properties":{"region_id":"village_938480","name":"HOSAKEREHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0425775250922,12.55061304020392],[77.04317600573994,12.56211093553827],[77.03339636407276,12.56173176095817],[77.03161604645844,12.55080570601886],[77.0425775250922,12.55061304020392]]]},"properties":{"region_id":"village_614602","name":"UPPINAKERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

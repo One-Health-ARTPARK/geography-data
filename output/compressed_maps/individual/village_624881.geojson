@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40072761847564,13.10857490664676],[77.40144944666812,13.11504467705562],[77.39390728053199,13.11743377276673],[77.39280485659961,13.10626652126481],[77.40072761847564,13.10857490664676]]]},"properties":{"region_id":"village_624881","name":"KOOLIPURA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

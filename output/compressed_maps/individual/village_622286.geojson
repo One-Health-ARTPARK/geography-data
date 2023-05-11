@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98177847784055,12.90829115530534],[77.97398131237779,12.90882534255854],[77.96654538141168,12.89970982157449],[77.97774942715775,12.89650035459676],[77.98177847784055,12.90829115530534]]]},"properties":{"region_id":"village_622286","name":"INDUMANGALA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

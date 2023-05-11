@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76387365725725,14.14181294723615],[75.75295107018151,14.14315055419576],[75.74464588894017,14.12937501744009],[75.7709641447245,14.12671846319076],[75.76387365725725,14.14181294723615]]]},"properties":{"region_id":"village_606875","name":"KYASAINAKERE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

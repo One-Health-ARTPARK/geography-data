@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10008195861886,12.67011528143266],[77.09942406650119,12.67320152706348],[77.07230410201844,12.67705790345985],[77.07141622014034,12.66974908766232],[77.07548717649672,12.66800648132761],[77.10008195861886,12.67011528143266]]]},"properties":{"region_id":"village_614555","name":"ALAMSETTAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

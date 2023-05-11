@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8802241832312,12.79384376856631],[75.86447847554321,12.79348187894401],[75.8735139898043,12.7788904493279],[75.8802241832312,12.79384376856631]]]},"properties":{"region_id":"village_939000","name":"KYATE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

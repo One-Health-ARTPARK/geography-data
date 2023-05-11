@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78297660859842,16.03982454598229],[76.75212523396175,16.02023993877704],[76.7855787788881,16.00483212921068],[76.78297660859842,16.03982454598229]]]},"properties":{"region_id":"village_600919","name":"TORAN DINNI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

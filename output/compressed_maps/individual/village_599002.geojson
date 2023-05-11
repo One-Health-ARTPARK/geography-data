@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25145409525737,15.99664306292494],[76.2425775815285,16.01207679272845],[76.21932410092901,15.99895736789338],[76.24189178756852,15.98235842405873],[76.25145409525737,15.99664306292494]]]},"properties":{"region_id":"village_599002","name":"KRISHNAPUR","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

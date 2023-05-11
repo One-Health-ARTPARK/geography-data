@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76486881391368,15.64640994745164],[76.7508330075444,15.65305834313646],[76.74598003571505,15.61664272768595],[76.77593577980697,15.62259268430988],[76.76486881391368,15.64640994745164]]]},"properties":{"region_id":"village_601221","name":"MAVINMADU","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

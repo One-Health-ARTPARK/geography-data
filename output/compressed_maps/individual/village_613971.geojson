@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65637508162818,12.78400129683616],[76.64592860115981,12.77887781530764],[76.64581265762783,12.76309268141322],[76.65210639566502,12.76013477010919],[76.65637508162818,12.78400129683616]]]},"properties":{"region_id":"village_613971","name":"SUKADORE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.08351868476309,12.89317766689477],[78.08084130691748,12.88090519160549],[78.09409146924466,12.87846970018415],[78.09142581562081,12.8905445064314],[78.08351868476309,12.89317766689477]]]},"properties":{"region_id":"village_622365","name":"GUNDLAPALYA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

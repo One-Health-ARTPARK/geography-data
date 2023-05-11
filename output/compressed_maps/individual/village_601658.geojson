@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49009343461748,15.694060711402],[76.50462967548364,15.69253238642478],[76.51706391351952,15.71324868182598],[76.49110305411737,15.70757746229296],[76.49009343461748,15.694060711402]]]},"properties":{"region_id":"village_601658","name":"BUNHATTI","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63385584409635,15.51222874571834],[76.62437011698991,15.49069840622841],[76.64878014336144,15.48553068361596],[76.65619190364234,15.49582832908858],[76.63385584409635,15.51222874571834]]]},"properties":{"region_id":"village_601697","name":"BARGUR","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

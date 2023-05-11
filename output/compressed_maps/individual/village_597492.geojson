@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71857221094521,16.02882004943688],[74.71107375827015,16.01940521034166],[74.72775584188939,16.01068465731364],[74.73255074956302,16.02254145419028],[74.71857221094521,16.02882004943688]]]},"properties":{"region_id":"village_597492","name":"ARABHAVI-DHAVALATTI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

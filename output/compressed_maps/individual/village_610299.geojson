@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00218189488729,13.92333645220562],[77.01297012981216,13.93097628462686],[77.00830047948322,13.94557331494884],[76.99737200456799,13.94490908677707],[77.00218189488729,13.92333645220562]]]},"properties":{"region_id":"village_610299","name":"YALPENAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

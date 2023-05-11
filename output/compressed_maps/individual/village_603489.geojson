@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42836092903698,14.37720769198567],[74.41317715206915,14.37392409890001],[74.4067096397516,14.35699943024036],[74.42635366790746,14.36260476650385],[74.4301778584997,14.37284064444113],[74.42836092903698,14.37720769198567]]]},"properties":{"region_id":"village_603489","name":"HOLEGADDE","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

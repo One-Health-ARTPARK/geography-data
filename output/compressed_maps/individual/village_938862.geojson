@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81012687847041,14.96863456645678],[74.78618178063353,14.96589980195032],[74.79986743261075,14.93530208066943],[74.81573412673154,14.94862672363482],[74.81012687847041,14.96863456645678]]]},"properties":{"region_id":"village_938862","name":"SAHASRALLI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

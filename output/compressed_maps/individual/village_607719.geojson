@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31729267269775,14.42872790699171],[75.29581743065931,14.42957915952486],[75.30267038675075,14.40527250569338],[75.32989830767335,14.42109154898531],[75.31729267269775,14.42872790699171]]]},"properties":{"region_id":"village_607719","name":"HULUGINAKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

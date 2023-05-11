@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93778852842276,13.22942406682073],[77.92504564037081,13.22083144405133],[77.9451928198408,13.21141038388024],[77.94639512214741,13.2223672622534],[77.93778852842276,13.22942406682073]]]},"properties":{"region_id":"village_625544","name":"NELAVAGILU","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93616941325033,13.18090041651552],[76.93238102068828,13.16795721920746],[76.93844432197072,13.15986696943228],[76.94814475121676,13.17224369988763],[76.93616941325033,13.18090041651552]]]},"properties":{"region_id":"village_611926","name":"BUKKASAGARA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

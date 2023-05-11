@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.11709779089905,13.11666476733402],[78.10229598512839,13.1229674300311],[78.0985566477209,13.10853599642592],[78.11406669704728,13.10760274634365],[78.11709779089905,13.11666476733402]]]},"properties":{"region_id":"village_622022","name":"AMMERAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2838287728312,13.58848278035711],[75.26492031847951,13.58510425435156],[75.27084063984566,13.56804526326327],[75.28966584688801,13.57680682347508],[75.2838287728312,13.58848278035711]]]},"properties":{"region_id":"village_608265","name":"BHANDIGADI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49789973177297,16.22929738461983],[76.48741258728742,16.24778353696753],[76.458488819482,16.22858531182262],[76.48099772263657,16.22255741241523],[76.49789973177297,16.22929738461983]]]},"properties":{"region_id":"village_600449","name":"SHILAHALLI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

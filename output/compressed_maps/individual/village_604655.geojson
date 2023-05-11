@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22407334286622,15.21199251164357],[76.18755200081918,15.23543354519606],[76.18162335454707,15.20806711095675],[76.22407334286622,15.21199251164357]]]},"properties":{"region_id":"village_604655","name":"MUTHUKUR","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

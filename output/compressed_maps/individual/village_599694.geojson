@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.421724355505,16.55964707517914],[76.39951778128614,16.56005243986049],[76.39168865205568,16.53466791349315],[76.42805375832239,16.53506432630313],[76.421724355505,16.55964707517914]]]},"properties":{"region_id":"village_599694","name":"SHELLAGI","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

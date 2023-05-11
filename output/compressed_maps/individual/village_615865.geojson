@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03191645453623,13.08547128992173],[76.02426233939583,13.08574822078323],[76.02428687709231,13.06546667762487],[76.0339035193917,13.06551251646538],[76.03191645453623,13.08547128992173]]]},"properties":{"region_id":"village_615865","name":"ANUGANALU","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

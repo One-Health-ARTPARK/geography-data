@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.0348729783559,13.07665779081084],[78.02309757722868,13.08272371094798],[78.0209524697422,13.07120301071243],[78.0472956519615,13.06340028349952],[78.04783511143728,13.08141805091261],[78.0348729783559,13.07665779081084]]]},"properties":{"region_id":"village_621881","name":"VOKKALERI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

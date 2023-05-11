@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30958654208563,13.63907104117253],[76.3018777480592,13.62721967525723],[76.31330527904846,13.62330433673706],[76.30958654208563,13.63907104117253]]]},"properties":{"region_id":"village_605958","name":"KODIHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

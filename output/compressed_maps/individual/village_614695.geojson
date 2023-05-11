@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99818514774147,12.31582431098352],[76.99005504398008,12.28486616442761],[77.01036122094682,12.28583751999975],[77.01253514962224,12.31429727053163],[76.99818514774147,12.31582431098352]]]},"properties":{"region_id":"village_614695","name":"MALIYUR","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

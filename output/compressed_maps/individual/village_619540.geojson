@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77148676382937,11.74677599909217],[76.76498133800727,11.75351383531784],[76.75982123755378,11.74263722609045],[76.77148676382937,11.74677599909217]]]},"properties":{"region_id":"village_619540","name":"SOMANAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

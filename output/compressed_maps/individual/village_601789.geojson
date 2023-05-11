@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26658360989887,15.5581567526213],[76.24646234361376,15.57568741549363],[76.23858276696679,15.56212730460688],[76.25539775000975,15.54639535751641],[76.26658360989887,15.5581567526213]]]},"properties":{"region_id":"village_601789","name":"ACHARTIMMAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

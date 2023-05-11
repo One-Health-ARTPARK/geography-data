@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12161683683345,15.55496769404649],[76.08379479354606,15.54755208529216],[76.0797184259167,15.51919865851069],[76.10350281203007,15.50568573119871],[76.12161683683345,15.55496769404649]]]},"properties":{"region_id":"village_601315","name":"RYAVANKI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

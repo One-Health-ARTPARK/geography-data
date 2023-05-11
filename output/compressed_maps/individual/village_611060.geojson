@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2571806378325,13.57417353767278],[77.24603731854357,13.57546269326713],[77.2454722783322,13.55385404600555],[77.25562561987094,13.55493676842219],[77.2571806378325,13.57417353767278]]]},"properties":{"region_id":"village_611060","name":"TUMBADI GOLLAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

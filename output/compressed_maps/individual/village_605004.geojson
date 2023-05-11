@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59230287358078,15.11459597621215],[76.58465092532659,15.11356606776708],[76.58393263616597,15.10493479535574],[76.59591213800516,15.1054062342068],[76.59230287358078,15.11459597621215]]]},"properties":{"region_id":"village_605004","name":"SANKARAPUR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

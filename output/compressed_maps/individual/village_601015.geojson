@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22649257799462,15.97437720750922],[77.20785022418607,15.97703910834826],[77.20349673963484,15.95367197047617],[77.2376026446217,15.95460294482945],[77.22649257799462,15.97437720750922]]]},"properties":{"region_id":"village_601015","name":"JUKUR","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

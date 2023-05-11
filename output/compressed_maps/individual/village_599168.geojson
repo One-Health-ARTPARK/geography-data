@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74319523788063,17.36992973487367],[75.74796003613326,17.41233562942634],[75.71616017436654,17.41084900168372],[75.71714546531719,17.38246935430504],[75.74319523788063,17.36992973487367]]]},"properties":{"region_id":"village_599168","name":"UMRANI (OLD)","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

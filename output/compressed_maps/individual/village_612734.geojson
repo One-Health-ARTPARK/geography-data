@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13841254203098,12.85287856128027],[77.13288441726479,12.85873058361584],[77.11889399766288,12.85403290849307],[77.12156266609367,12.84479714893561],[77.13193491648396,12.84499671011202],[77.13841254203098,12.85287856128027]]]},"properties":{"region_id":"village_612734","name":"GANGAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

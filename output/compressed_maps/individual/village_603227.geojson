@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81611740399487,14.60153576392088],[74.80973728443291,14.6105415487301],[74.79872427667436,14.60934355207744],[74.80656171511474,14.59219689348095],[74.81611740399487,14.60153576392088]]]},"properties":{"region_id":"village_603227","name":"HEEPNALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

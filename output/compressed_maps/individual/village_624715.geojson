@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29170170936263,13.31131185702685],[77.28157547336949,13.31082888316331],[77.28069710384322,13.30080228605543],[77.2919232464017,13.30134567903101],[77.29170170936263,13.31131185702685]]]},"properties":{"region_id":"village_624715","name":"CHIKKANNANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

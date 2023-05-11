@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78092194956668,13.29331042078223],[75.77044190757104,13.27899469237576],[75.79036082396695,13.26335195524361],[75.81390425283644,13.27519046098367],[75.78092194956668,13.29331042078223]]]},"properties":{"region_id":"village_609865","name":"AMBLE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

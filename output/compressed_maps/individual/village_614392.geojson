@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74250188305328,12.66894230416288],[76.73443312574584,12.67116154978216],[76.73081232184579,12.66289575710033],[76.74204373964199,12.66036775777656],[76.74250188305328,12.66894230416288]]]},"properties":{"region_id":"village_614392","name":"CHIKKAGANGAVADI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

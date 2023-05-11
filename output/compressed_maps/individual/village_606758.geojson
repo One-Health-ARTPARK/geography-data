@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55215707746997,14.27392045727532],[75.5306710710628,14.27659155596854],[75.52889788001758,14.23025067608076],[75.55819594357855,14.22075879277025],[75.55215707746997,14.27392045727532]]]},"properties":{"region_id":"village_606758","name":"KATHIGE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

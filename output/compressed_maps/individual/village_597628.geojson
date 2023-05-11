@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5636270295521,16.15756461998211],[74.5436416256981,16.15524092627577],[74.5461110708065,16.1283876036613],[74.56506530905074,16.1302594795121],[74.5636270295521,16.15756461998211]]]},"properties":{"region_id":"village_597628","name":"JINARAL","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73983239288738,13.56714179728245],[77.72741189827511,13.57351343697178],[77.7242482808398,13.56338445250562],[77.73782352696897,13.56045857781048],[77.73983239288738,13.56714179728245]]]},"properties":{"region_id":"village_623489","name":"ADDAGAL","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

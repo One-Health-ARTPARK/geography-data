@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68093828934056,12.60677648395551],[76.66732913613751,12.60882180454447],[76.66494508818234,12.59540207561263],[76.68093828934056,12.60677648395551]]]},"properties":{"region_id":"village_614075","name":"BELLALE","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

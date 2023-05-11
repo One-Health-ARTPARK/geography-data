@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2293947322671,13.31430989966109],[77.24205801388348,13.30282333254629],[77.25299381247142,13.30273230882019],[77.25482077102467,13.31341635024192],[77.2293947322671,13.31430989966109]]]},"properties":{"region_id":"village_611410","name":"KURUVELU","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

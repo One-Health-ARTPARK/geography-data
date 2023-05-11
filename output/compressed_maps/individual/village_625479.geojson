@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84784862843301,13.20603924674613],[77.83484776187389,13.20706121767431],[77.83320550022157,13.20009116729208],[77.84375970686541,13.19839963075237],[77.84784862843301,13.20603924674613]]]},"properties":{"region_id":"village_625479","name":"DYAVASANDRA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

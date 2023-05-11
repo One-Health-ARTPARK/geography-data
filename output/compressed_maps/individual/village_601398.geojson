@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94275009327063,15.81346582000359],[75.92807160754305,15.8227334483108],[75.91892798678946,15.7990184429743],[75.93817653562829,15.79072739314642],[75.94275009327063,15.81346582000359]]]},"properties":{"region_id":"village_601398","name":"GADCHINTI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

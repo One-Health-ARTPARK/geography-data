@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46873964599189,17.53590390066216],[77.46190668989199,17.55938545473598],[77.43091611173354,17.55633262706602],[77.4324246033108,17.52361746651528],[77.46873964599189,17.53590390066216]]]},"properties":{"region_id":"village_620364","name":"KOLLUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

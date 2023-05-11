@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39164247992518,13.56622578444029],[76.38122641068239,13.57002487386283],[76.36680353711685,13.56199204284332],[76.3770013808684,13.54604545196614],[76.38271019548625,13.55974205081759],[76.39164247992518,13.56622578444029]]]},"properties":{"region_id":"village_610036","name":"DODDAHULLENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

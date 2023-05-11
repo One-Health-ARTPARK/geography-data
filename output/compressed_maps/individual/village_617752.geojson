@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28577041995422,12.84212328343095],[75.24283004076564,12.83062860791487],[75.26457779163901,12.81883561069069],[75.28684903453617,12.81848401876881],[75.28577041995422,12.84212328343095]]]},"properties":{"region_id":"village_617752","name":"UPPINANGADY (CT)","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

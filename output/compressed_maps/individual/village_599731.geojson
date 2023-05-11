@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00604991568679,17.9571009820675],[76.96340611617673,17.97978378888561],[76.947304748147,17.93678561648072],[76.99550539491814,17.92363382453917],[77.00604991568679,17.9571009820675]]]},"properties":{"region_id":"village_599731","name":"BELURA","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

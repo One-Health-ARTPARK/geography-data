@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65676703696809,13.93537013057146],[76.6376883254918,13.93916522032867],[76.64441029145722,13.92461722605874],[76.65676703696809,13.93537013057146]]]},"properties":{"region_id":"village_606158","name":"PATREHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

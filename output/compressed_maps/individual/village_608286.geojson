@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13488911703107,13.54580027295173],[75.08585995011036,13.55540097285526],[75.06897523445636,13.53038400940875],[75.07862732946037,13.49470377600075],[75.10176664866805,13.49538332667664],[75.13488911703107,13.54580027295173]]]},"properties":{"region_id":"village_608286","name":"TALLURU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

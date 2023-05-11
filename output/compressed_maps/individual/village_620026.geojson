@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46692714295827,17.55593567919967],[76.4897247671657,17.56444415507161],[76.48870740702425,17.58665454918383],[76.46416496123392,17.58075387055999],[76.46692714295827,17.55593567919967]]]},"properties":{"region_id":"village_620026","name":"KHANAPUR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

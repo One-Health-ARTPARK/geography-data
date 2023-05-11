@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65038767376744,11.87940503313622],[76.65199078775863,11.89675344103404],[76.63114536155334,11.89805245395622],[76.62626629964467,11.88270393617897],[76.65038767376744,11.87940503313622]]]},"properties":{"region_id":"village_619468","name":"HASAGULI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

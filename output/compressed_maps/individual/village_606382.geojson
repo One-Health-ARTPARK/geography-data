@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2625788447914,14.65586880017035],[76.2387537218864,14.67634308099145],[76.22609435861085,14.64109284602964],[76.25595240295725,14.63110043058948],[76.2625788447914,14.65586880017035]]]},"properties":{"region_id":"village_606382","name":"YERLAKATTE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

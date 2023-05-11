@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40247254656211,15.26049339237636],[75.39679774933384,15.2808714475199],[75.36214025763026,15.2785807122122],[75.36844182345475,15.24991557344455],[75.40247254656211,15.26049339237636]]]},"properties":{"region_id":"village_602561","name":"BARDWAD","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

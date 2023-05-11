@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81308421079326,12.60855759954354],[75.8159903861918,12.59803075938692],[75.83339691407855,12.60652181412898],[75.82259480828543,12.61440709549863],[75.81308421079326,12.60855759954354]]]},"properties":{"region_id":"village_923980","name":"HANAGALLU SHETTALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84404895958215,13.14661533919449],[77.82898227578191,13.14634882495594],[77.83047574854537,13.13267478148967],[77.84688875214393,13.12878766459345],[77.84404895958215,13.14661533919449]]]},"properties":{"region_id":"village_625529","name":"BEGUR","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26009188467853,16.8288399734306],[77.30091840273975,16.83515844754802],[77.29316404530594,16.85313691134344],[77.26009188467853,16.8288399734306]]]},"properties":{"region_id":"village_621268","name":"SUBASHNAGAR","parent":"subdistrict_7094","parent_name":"GURUMITKAL"}}
+]}

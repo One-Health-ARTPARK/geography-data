@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09198627326592,18.00151855166739],[77.05755684808122,18.00006354926496],[77.06258350346076,17.97889575021368],[77.09198627326592,18.00151855166739]]]},"properties":{"region_id":"village_599856","name":"RACHAPPAGONDGAON","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

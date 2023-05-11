@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36419537590142,12.57169327724704],[76.35828608268552,12.58162752724765],[76.35127804595186,12.58145910527118],[76.34832381698969,12.57057143957898],[76.36419537590142,12.57169327724704]]]},"properties":{"region_id":"village_618574","name":"SUGGANAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98994236761553,15.71950667693116],[76.94945271642821,15.72495531690439],[76.94846326949097,15.70859628357212],[76.9709680967156,15.70397736327824],[76.98994236761553,15.71950667693116]]]},"properties":{"region_id":"village_604796","name":"KUDUDARAHAL","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

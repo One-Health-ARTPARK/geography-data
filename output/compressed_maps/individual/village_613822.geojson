@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65788083812711,12.83890223854607],[76.65093904264322,12.83777231655973],[76.65073459531641,12.83133682760147],[76.65743188713536,12.83105556922661],[76.65788083812711,12.83890223854607]]]},"properties":{"region_id":"village_613822","name":"HONNENAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

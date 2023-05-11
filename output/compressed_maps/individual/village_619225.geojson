@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79596294927289,12.15710646962466],[76.79019579768556,12.13683340182302],[76.80674796408432,12.13786113706322],[76.79596294927289,12.15710646962466]]]},"properties":{"region_id":"village_619225","name":"BELAGUNDA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.421724355505,16.55964707517914],[76.41618748452164,16.5899797160118],[76.39713850671596,16.58593410679318],[76.39760837561639,16.56005954171458],[76.421724355505,16.55964707517914]]]},"properties":{"region_id":"village_599693","name":"PEERAPUR","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

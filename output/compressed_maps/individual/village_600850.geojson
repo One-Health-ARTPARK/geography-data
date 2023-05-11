@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37278098681608,16.05414091293185],[77.35010095401948,16.05563458968705],[77.34796992162349,16.04267926640449],[77.37117416459766,16.04109654268198],[77.37278098681608,16.05414091293185]]]},"properties":{"region_id":"village_600850","name":"UPRAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

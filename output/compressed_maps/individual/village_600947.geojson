@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8957838293485,16.10794662821192],[76.86521187798223,16.09914163056404],[76.87004728151197,16.08841701531663],[76.90619732462591,16.09034150577328],[76.8957838293485,16.10794662821192]]]},"properties":{"region_id":"village_600947","name":"DEWATGAL","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

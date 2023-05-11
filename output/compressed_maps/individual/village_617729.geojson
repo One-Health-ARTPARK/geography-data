@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50514564314825,12.74260862849582],[75.485384958902,12.73610480227367],[75.50955464828158,12.71127940452234],[75.51453995451652,12.72570843279488],[75.50514564314825,12.74260862849582]]]},"properties":{"region_id":"village_617729","name":"102 NEKKILADY","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

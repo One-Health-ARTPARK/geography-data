@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86196468754365,15.17085803090729],[74.85013974933004,15.17106401556385],[74.84505688538131,15.15660958523846],[74.8623898175738,15.1553889509545],[74.86196468754365,15.17085803090729]]]},"properties":{"region_id":"village_602474","name":"MASALIKATTI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34077596772278,13.17447001585787],[77.32491940635562,13.1792445654804],[77.32207879876897,13.16781519920858],[77.3364814131719,13.16476485172842],[77.34077596772278,13.17447001585787]]]},"properties":{"region_id":"village_624851","name":"MINNAPURA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

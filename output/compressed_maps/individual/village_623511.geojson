@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.774705956583,13.52511117641808],[77.76582207829262,13.5313468717383],[77.76315829652135,13.52227639778219],[77.774705956583,13.52511117641808]]]},"properties":{"region_id":"village_623511","name":"MARAGANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99499960293049,15.18960741860932],[74.98218368464711,15.18528586504359],[74.98530329855362,15.16839381642543],[74.99801683316579,15.1705678397448],[74.99499960293049,15.18960741860932]]]},"properties":{"region_id":"village_602471","name":"MADKIHONNIHALLI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

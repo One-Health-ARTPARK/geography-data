@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70148393228715,15.5963926078176],[74.68876512048936,15.60208758286213],[74.69067437268258,15.59071735305192],[74.70148393228715,15.5963926078176]]]},"properties":{"region_id":"village_597997","name":"HULIKOTTAL","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

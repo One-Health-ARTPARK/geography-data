@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45188548890442,15.35251616732643],[76.4188507658742,15.36372026099185],[76.42613372578141,15.34490581892126],[76.43938217528503,15.33735148094799],[76.45188548890442,15.35251616732643]]]},"properties":{"region_id":"village_601628","name":"SANAPUR","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

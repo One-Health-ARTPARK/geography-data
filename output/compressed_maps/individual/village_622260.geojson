@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91343761657343,12.9145673685712],[77.90763838739993,12.90109227302299],[77.92374537158936,12.89907800001881],[77.91343761657343,12.9145673685712]]]},"properties":{"region_id":"village_622260","name":"CHOWDADENAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

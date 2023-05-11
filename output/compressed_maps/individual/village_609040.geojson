@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35546921929242,13.29489795536614],[75.37680123019189,13.29241006313987],[75.37061832057516,13.31486484077982],[75.34090332283638,13.3094621410804],[75.35546921929242,13.29489795536614]]]},"properties":{"region_id":"village_609040","name":"ATTIKUDIGE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

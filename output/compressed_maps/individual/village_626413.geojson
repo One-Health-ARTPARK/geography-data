@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59463852941806,12.66679703257484],[77.56627347319652,12.66291975687898],[77.56807943308081,12.64924383512656],[77.59606001000101,12.65063466975317],[77.59463852941806,12.66679703257484]]]},"properties":{"region_id":"village_626413","name":"KOLALUGUNDI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40211377903282,12.81496741031818],[77.3847989241039,12.81586328301641],[77.39355458568556,12.80269186170054],[77.40211377903282,12.81496741031818]]]},"properties":{"region_id":"village_626119","name":"KETHIGANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

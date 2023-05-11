@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84087529406213,12.15679474604416],[76.81248905920286,12.15169954357204],[76.81825498173339,12.12558110595812],[76.8331246192349,12.1291469143606],[76.84149522380095,12.14811981081638],[76.84087529406213,12.15679474604416]]]},"properties":{"region_id":"village_619223","name":"KALKUNDA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

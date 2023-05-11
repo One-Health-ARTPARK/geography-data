@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03450169641084,14.75360794401963],[75.03404787341722,14.768955428237],[75.01552841681651,14.77177268081766],[75.02668728933587,14.75413526205305],[75.03450169641084,14.75360794401963]]]},"properties":{"region_id":"village_603085","name":"KOP (GOTGUDI)","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

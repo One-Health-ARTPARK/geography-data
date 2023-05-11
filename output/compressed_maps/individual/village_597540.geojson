@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04799623455715,16.1558478644255],[75.03503459765481,16.15847980201238],[74.99997540724085,16.14590724766892],[75.00066041064501,16.1291692186261],[75.03668411715684,16.12457503108364],[75.04799623455715,16.1558478644255]]]},"properties":{"region_id":"village_597540","name":"BAGARNAL","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

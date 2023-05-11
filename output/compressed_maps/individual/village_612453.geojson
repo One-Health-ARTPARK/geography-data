@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85034765962179,13.01000212852978],[76.8521950182055,13.03076761667453],[76.83699973846213,13.03447705851851],[76.82935181203334,13.01830587953438],[76.85034765962179,13.01000212852978]]]},"properties":{"region_id":"village_612453","name":"CHIKKAMADURE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

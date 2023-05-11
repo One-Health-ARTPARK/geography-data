@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46897979208258,12.86967395691104],[75.45195824117148,12.888638430913],[75.43404848694178,12.87739231687296],[75.44522889703245,12.84998724085454],[75.46897979208258,12.86967395691104]]]},"properties":{"region_id":"village_617682","name":"HATHYADKA","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97422079891612,16.35483872729845],[75.95004061062936,16.32425598839288],[75.97492347497459,16.3233183705151],[75.98939543974848,16.33947750541778],[75.97422079891612,16.35483872729845]]]},"properties":{"region_id":"village_599608","name":"WADAWADAGI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

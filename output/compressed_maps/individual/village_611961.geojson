@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41176229423617,13.38823357074971],[76.39246703316,13.39041716911964],[76.41465926917687,13.37498068722929],[76.41176229423617,13.38823357074971]]]},"properties":{"region_id":"village_611961","name":"MALLIDEVIHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

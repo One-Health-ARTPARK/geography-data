@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8731207726284,13.02134834685014],[77.8646607552542,13.02366915715832],[77.85588833184087,13.01862251229495],[77.85672055892452,13.00975162412798],[77.8731207726284,13.02134834685014]]]},"properties":{"region_id":"village_625678","name":"KAMARASANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

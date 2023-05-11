@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79752791891276,16.03902312458641],[76.78099442662172,16.02237326776503],[76.79566382608941,16.00217359545759],[76.80721933245981,16.01608468260029],[76.79752791891276,16.03902312458641]]]},"properties":{"region_id":"village_600921","name":"CHIKKADINNI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

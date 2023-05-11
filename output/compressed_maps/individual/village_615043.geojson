@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8313311563949,12.73656442866876],[75.80280766395164,12.70927035844142],[75.81257021809506,12.70314026589846],[75.82754556046307,12.71786032917433],[75.8313311563949,12.73656442866876]]]},"properties":{"region_id":"village_615043","name":"HERUR","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

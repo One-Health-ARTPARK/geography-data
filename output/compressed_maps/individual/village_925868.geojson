@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58221873743581,12.9327999149993],[77.57324825155483,12.93129446676495],[77.5783496350559,12.91957604388509],[77.58221873743581,12.9327999149993]]]},"properties":{"region_id":"village_925868","name":"YADIYOORU","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

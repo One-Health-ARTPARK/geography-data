@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57406927310288,18.25676701389799],[77.53958778454226,18.25946116121557],[77.53228433163977,18.23891758893933],[77.57296225565477,18.24311169922314],[77.57406927310288,18.25676701389799]]]},"properties":{"region_id":"village_600075","name":"RAIPALLI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

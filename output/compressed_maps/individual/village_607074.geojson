@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94921686602616,13.98222463938579],[75.95336815914553,13.99569542302934],[75.93990397465033,13.9998717815576],[75.9361465774438,13.98156314411207],[75.94921686602616,13.98222463938579]]]},"properties":{"region_id":"village_607074","name":"THIPPAGONDANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

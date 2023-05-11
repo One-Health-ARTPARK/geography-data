@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03396689432991,12.88546259494992],[77.01788803692492,12.89279552831613],[77.0182023849236,12.86816665605886],[77.03229838702653,12.86951582320922],[77.03396689432991,12.88546259494992]]]},"properties":{"region_id":"village_612695","name":"MADAGONAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

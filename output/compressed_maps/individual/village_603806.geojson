@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.58512758365639,14.25142614232722],[74.57055959379831,14.26371264082544],[74.55861826738807,14.24960924312192],[74.575596467335,14.23558708038061],[74.58512758365639,14.25142614232722]]]},"properties":{"region_id":"village_603806","name":"HERANGADI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

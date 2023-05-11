@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0664185782072,16.24130009150322],[76.04927657660798,16.24653544060436],[76.03301205360988,16.23596599540146],[76.05728147657075,16.23175796600368],[76.0664185782072,16.24130009150322]]]},"properties":{"region_id":"village_598914","name":"TURADAGI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

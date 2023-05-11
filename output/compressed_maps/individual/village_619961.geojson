@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66524508974011,17.68783522604534],[76.65341786137789,17.72230405587429],[76.61529658086218,17.72686895940519],[76.63450933491315,17.68281076106343],[76.66524508974011,17.68783522604534]]]},"properties":{"region_id":"village_619961","name":"HODLUR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

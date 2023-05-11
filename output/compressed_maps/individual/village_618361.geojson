@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2136430241165,12.24438398081914],[76.2147353046737,12.26750925141647],[76.19893086768506,12.25075020904188],[76.2136430241165,12.24438398081914]]]},"properties":{"region_id":"village_618361","name":"HEGGANDUR","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4229110021029,13.22530366920107],[75.44108910846653,13.25479803098544],[75.41031232810496,13.25952460938773],[75.4229110021029,13.22530366920107]]]},"properties":{"region_id":"village_609900","name":"HEMMAKKI","parent":"subdistrict_7194","parent_name":"KALASA"}}
+]}

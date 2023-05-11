@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61339534273112,15.98852541651631],[74.58926609488987,15.95617302974389],[74.62459351564686,15.95308420885596],[74.61339534273112,15.98852541651631]]]},"properties":{"region_id":"village_597695","name":"NANDI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

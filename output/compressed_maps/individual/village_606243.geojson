@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77492209592327,14.32501690396269],[75.76296238678252,14.3402315059159],[75.753289848786,14.32150404207547],[75.76669230459245,14.31305765937163],[75.77492209592327,14.32501690396269]]]},"properties":{"region_id":"village_606243","name":"HALIVANA","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

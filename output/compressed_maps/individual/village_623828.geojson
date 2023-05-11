@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95387080787316,13.84421151607587],[77.95319714962368,13.85603880405573],[77.92562851169852,13.85419124699887],[77.92548813851764,13.82782635521007],[77.95387080787316,13.84421151607587]]]},"properties":{"region_id":"village_623828","name":"G. MADDEPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

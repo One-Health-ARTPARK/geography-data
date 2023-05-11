@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51570708094113,12.45746641436415],[77.49918843753088,12.45143781220007],[77.50475463158337,12.44205417554422],[77.51706464605118,12.44596492830696],[77.51570708094113,12.45746641436415]]]},"properties":{"region_id":"village_626594","name":"DODDAKABBAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

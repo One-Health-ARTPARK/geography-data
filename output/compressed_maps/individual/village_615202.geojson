@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84577710067416,13.22715848160392],[75.83180846452052,13.22508712065733],[75.84251584312439,13.21325321861747],[75.84577710067416,13.22715848160392]]]},"properties":{"region_id":"village_615202","name":"BENNUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

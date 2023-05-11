@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13675048001853,13.19307888587003],[76.14187017728095,13.20543307516305],[76.13699136141706,13.20893690541259],[76.1290066007363,13.19796873812057],[76.13675048001853,13.19307888587003]]]},"properties":{"region_id":"village_615909","name":"KOPPALAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

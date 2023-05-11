@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69145616618697,13.2147722419107],[76.6825800084685,13.21812288916144],[76.67523075526941,13.20967261655888],[76.69151607391453,13.20532366925222],[76.69145616618697,13.2147722419107]]]},"properties":{"region_id":"village_612219","name":"M.GANGANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92264726247545,14.48415485924443],[75.90185897236645,14.48576062804753],[75.89977248335099,14.4646166641085],[75.92530120828695,14.46684271813422],[75.92264726247545,14.48415485924443]]]},"properties":{"region_id":"village_938392","name":"DAVANGERE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

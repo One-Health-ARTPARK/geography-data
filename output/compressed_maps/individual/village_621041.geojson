@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78165651030044,16.58916440865579],[76.75169091827779,16.58862811629336],[76.75081179340062,16.55680478488175],[76.78165651030044,16.58916440865579]]]},"properties":{"region_id":"village_621041","name":"RATTAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

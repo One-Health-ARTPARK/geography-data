@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3098293731377,16.56950046908758],[75.29301400116503,16.59044008195072],[75.27873935871814,16.56275635352069],[75.3098293731377,16.56950046908758]]]},"properties":{"region_id":"village_598431","name":"KADAKOL","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

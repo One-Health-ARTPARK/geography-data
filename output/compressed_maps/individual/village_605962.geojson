@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35912607749242,13.65292408998685],[76.36336012522263,13.67794735107023],[76.34354495176666,13.66848964903416],[76.35912607749242,13.65292408998685]]]},"properties":{"region_id":"village_605962","name":"THONECHENAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

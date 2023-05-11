@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49089261446773,12.40639438735471],[76.49051419332287,12.41558822856178],[76.47987646278759,12.41793034833791],[76.48183849597453,12.40680869995691],[76.49089261446773,12.40639438735471]]]},"properties":{"region_id":"village_618696","name":"S.HEMMANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

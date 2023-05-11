@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62918657257639,12.69982336074788],[75.62822432595324,12.77431902760871],[75.55173098042185,12.71035172959953],[75.62918657257639,12.69982336074788]]]},"properties":{"region_id":"village_617714","name":"BILINELE","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

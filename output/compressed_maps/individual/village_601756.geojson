@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21665788162731,15.36543835909741],[76.23801860804936,15.36465889415829],[76.23173142149003,15.38628384193304],[76.21665788162731,15.36543835909741]]]},"properties":{"region_id":"village_601756","name":"KUTGANHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

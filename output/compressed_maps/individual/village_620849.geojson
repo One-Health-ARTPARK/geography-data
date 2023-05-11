@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93069685750591,16.96359435590765],[76.88008872938597,16.96828242790911],[76.87838898263823,16.94361528354398],[76.91134942017607,16.94177304678112],[76.93069685750591,16.96359435590765]]]},"properties":{"region_id":"village_620849","name":"MALLA (B)","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

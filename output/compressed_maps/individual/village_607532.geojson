@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0193831758521,14.39321959196438],[74.9727576192615,14.38376270260713],[74.9764518928161,14.36535903596019],[75.01128990249232,14.37194725391137],[75.0193831758521,14.39321959196438]]]},"properties":{"region_id":"village_607532","name":"HECHE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

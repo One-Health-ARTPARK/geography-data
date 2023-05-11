@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26837832057342,13.3240300410051],[77.25571256020213,13.321984312775],[77.25473857737343,13.30875335211468],[77.27102115434889,13.31201097794051],[77.26837832057342,13.3240300410051]]]},"properties":{"region_id":"village_611411","name":"BETTASEETHAKAL","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74400546032838,15.89485700295772],[74.73551335596954,15.89446467651764],[74.73795849144805,15.87016524583401],[74.7658379397059,15.86971182550986],[74.7606578094883,15.89388980182109],[74.74400546032838,15.89485700295772]]]},"properties":{"region_id":"village_598039","name":"MATTIKOPPA","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

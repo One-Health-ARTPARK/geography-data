@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21336641322121,13.92494519740184],[76.1893976801303,13.9404525625151],[76.18978537037475,13.9161354928936],[76.21336641322121,13.92494519740184]]]},"properties":{"region_id":"village_605694","name":"NARAYANAGONDANAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

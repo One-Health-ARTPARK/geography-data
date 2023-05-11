@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18361232483018,14.91631794381741],[75.15963645053735,14.91915463659546],[75.16629595210145,14.89415323568275],[75.17785219712778,14.89469463781966],[75.18361232483018,14.91631794381741]]]},"properties":{"region_id":"village_603956","name":"HUNGUND","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

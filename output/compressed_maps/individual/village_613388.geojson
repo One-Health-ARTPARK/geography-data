@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44150352710108,12.80389060821432],[76.43711659611537,12.80214410396569],[76.4379060305617,12.79518852047962],[76.44334005160287,12.79521852629454],[76.44150352710108,12.80389060821432]]]},"properties":{"region_id":"village_613388","name":"BHADRANAKOPPALU","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

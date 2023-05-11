@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59100885704967,13.50355315842803],[76.5798210751661,13.48972804756407],[76.6026163826599,13.48485300826524],[76.60525749380474,13.5004385399947],[76.59100885704967,13.50355315842803]]]},"properties":{"region_id":"village_610159","name":"MARALUHALLADA KAVAL","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

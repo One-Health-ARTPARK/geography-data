@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51736558059397,18.22353819302879],[77.49654688447384,18.22623170575918],[77.49575563650723,18.19494769952061],[77.51732010801253,18.20529844391049],[77.51736558059397,18.22353819302879]]]},"properties":{"region_id":"village_600083","name":"BELDHAL","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

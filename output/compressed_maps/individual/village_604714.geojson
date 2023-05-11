@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33500754257926,15.07485454632459],[76.31701387656705,15.07587141558122],[76.31676279779532,15.05373010072845],[76.3394329643322,15.05241321298963],[76.33500754257926,15.07485454632459]]]},"properties":{"region_id":"village_604714","name":"T.BASAPURA","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

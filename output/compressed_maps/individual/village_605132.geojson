@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50942106131217,14.60013690804628],[76.48091148718696,14.61566745187105],[76.4643937984977,14.57384842550651],[76.50532727227487,14.56566565793159],[76.50942106131217,14.60013690804628]]]},"properties":{"region_id":"village_605132","name":"KENCHAMALLANAHALLI","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

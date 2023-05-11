@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13896794292833,15.35201928426278],[75.18523302293138,15.35962434528465],[75.18417422449484,15.36765855480842],[75.14488190824842,15.36385245061619],[75.13896794292833,15.35201928426278]]]},"properties":{"region_id":"village_602380","name":"KESHWAPUR","parent":"subdistrict_7079","parent_name":"HUBBALLI URBAN"}}
+]}

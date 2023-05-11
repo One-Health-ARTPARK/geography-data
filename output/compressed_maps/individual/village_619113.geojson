@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39745639720024,11.86595686442487],[76.37874921274367,11.86134172771435],[76.38587842634932,11.82556356489827],[76.39745639720024,11.86595686442487]]]},"properties":{"region_id":"village_619113","name":"HIREHALLI","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

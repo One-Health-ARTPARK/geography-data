@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10517588396321,12.80882154916003],[76.11262950358312,12.82277421434389],[76.10643861571636,12.82471310946897],[76.10133905216114,12.81579999885967],[76.10517588396321,12.80882154916003]]]},"properties":{"region_id":"village_616608","name":"BOLAKYATHANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

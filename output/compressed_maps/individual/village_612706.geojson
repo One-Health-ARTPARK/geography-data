@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10683596542906,12.86670844098099],[77.09622623079245,12.86720752959726],[77.0976963912777,12.86011342113277],[77.10683596542906,12.86670844098099]]]},"properties":{"region_id":"village_612706","name":"CHIKKONAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

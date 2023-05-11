@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22718087221804,17.74667758286219],[77.22606360447962,17.76503886219886],[77.20522703362138,17.76844328744535],[77.20953252865267,17.73869976997813],[77.22718087221804,17.74667758286219]]]},"properties":{"region_id":"village_600296","name":"KAPPARGAON","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

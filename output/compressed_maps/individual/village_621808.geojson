@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96109506236495,13.18279559572422],[77.95451021057106,13.17162790564021],[77.96147571329395,13.16970021965656],[77.96585838820816,13.17674227352644],[77.96109506236495,13.18279559572422]]]},"properties":{"region_id":"village_621808","name":"GUTTAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

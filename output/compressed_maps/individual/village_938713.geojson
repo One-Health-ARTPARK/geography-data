@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9833561826341,15.16595421642457],[74.98218368464711,15.18528586504359],[74.9731937524823,15.18222788476435],[74.9833561826341,15.16595421642457]]]},"properties":{"region_id":"village_938713","name":"BENDIGERI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

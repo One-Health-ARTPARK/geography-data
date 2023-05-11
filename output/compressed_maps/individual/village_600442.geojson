@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65372523841569,16.04153282991511],[76.63927789032122,16.02983993707919],[76.65130744966162,16.02016706647603],[76.65372523841569,16.04153282991511]]]},"properties":{"region_id":"village_600442","name":"BUDDINNI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

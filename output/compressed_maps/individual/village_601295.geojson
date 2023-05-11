@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31111966091667,15.675615117247],[76.29372299208762,15.6428384793166],[76.33312550079413,15.63751602231028],[76.31111966091667,15.675615117247]]]},"properties":{"region_id":"village_601295","name":"GANDHAL","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

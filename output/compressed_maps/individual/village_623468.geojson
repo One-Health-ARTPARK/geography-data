@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77073863597136,13.5947499032515],[77.75891437490102,13.58952698814618],[77.7709792444283,13.5818884642401],[77.78367371929954,13.59239353172042],[77.77073863597136,13.5947499032515]]]},"properties":{"region_id":"village_623468","name":"KAKALACHINTE","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

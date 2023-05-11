@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81930725456353,12.73864599369808],[75.79999314769866,12.73072388231317],[75.81360583524805,12.7200820247761],[75.81930725456353,12.73864599369808]]]},"properties":{"region_id":"village_615040","name":"UCHANGI","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

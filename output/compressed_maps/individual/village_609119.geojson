@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94736425097643,13.70775077197119],[75.92875571597979,13.70811950890966],[75.93465488162789,13.69877749559548],[75.94736425097643,13.70775077197119]]]},"properties":{"region_id":"village_609119","name":"BASAVANAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69776286381872,14.56040628602105],[74.71663172311206,14.56653860141869],[74.69986908339754,14.58172969851151],[74.6881149450051,14.56987197354047],[74.69776286381872,14.56040628602105]]]},"properties":{"region_id":"village_603177","name":"NAVILGAR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

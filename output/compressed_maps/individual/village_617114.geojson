@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3772033024558,13.12271103537599],[76.36034133086925,13.11711737022187],[76.360909870523,13.09355183623616],[76.37499175841336,13.10139494111999],[76.3772033024558,13.12271103537599]]]},"properties":{"region_id":"village_617114","name":"BALAGHATTA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

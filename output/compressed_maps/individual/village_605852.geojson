@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24842757425148,13.79757179965774],[76.24858275296285,13.81671979904661],[76.23495467117314,13.82045159383811],[76.23389921921901,13.79468804718889],[76.24842757425148,13.79757179965774]]]},"properties":{"region_id":"village_605852","name":"RANGAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

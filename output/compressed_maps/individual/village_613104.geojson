@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74329278332486,13.01494360468897],[77.7376812537604,13.01734661117089],[77.73614664865184,13.00761469600589],[77.74686636660887,13.00720191045792],[77.74329278332486,13.01494360468897]]]},"properties":{"region_id":"village_613104","name":"DOMMASANDRA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

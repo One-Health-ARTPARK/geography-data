@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55048592572446,13.23758520403307],[76.5431221892643,13.2461703862085],[76.53462417680007,13.23153715069386],[76.55127066343543,13.23196475140973],[76.55048592572446,13.23758520403307]]]},"properties":{"region_id":"village_612090","name":"EACHANUR KAVAL","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45187142339404,17.17221180975037],[76.4170876758562,17.17716102973429],[76.41482916998834,17.14125377130147],[76.44985591662704,17.13827091363256],[76.45187142339404,17.17221180975037]]]},"properties":{"region_id":"village_620133","name":"KALUR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

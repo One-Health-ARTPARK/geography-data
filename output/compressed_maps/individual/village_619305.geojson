@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87061425005037,12.05601470500157],[76.85318023463876,12.06027626883963],[76.8490044996451,12.04419002363964],[76.86139685894602,12.04187871140096],[76.87061425005037,12.05601470500157]]]},"properties":{"region_id":"village_619305","name":"HANUMANAPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

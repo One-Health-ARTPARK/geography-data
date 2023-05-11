@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41043696726896,12.97103962036054],[76.39536950679175,12.97197370581171],[76.3829314192283,12.95303867973968],[76.39994900011423,12.94915234937283],[76.41043696726896,12.97103962036054]]]},"properties":{"region_id":"village_617203","name":"KALASINDA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32052814228788,17.87561898826663],[77.31325556264096,17.88824092708554],[77.28992645995682,17.87780251115032],[77.30035282160378,17.86345858753477],[77.32052814228788,17.87561898826663]]]},"properties":{"region_id":"village_600277","name":"SINDBANDIGI","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

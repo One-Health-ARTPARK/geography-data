@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31779221540303,13.56696200875985],[77.29998364859055,13.55810397737206],[77.31063880875944,13.54314410271264],[77.31779221540303,13.56696200875985]]]},"properties":{"region_id":"village_611106","name":"SOMPURA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

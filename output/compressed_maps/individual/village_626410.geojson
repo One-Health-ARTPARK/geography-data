@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55334376656663,12.67514069435152],[77.5529631012211,12.70405087863407],[77.54182737437065,12.69611855987391],[77.53617286846756,12.67789757762763],[77.55334376656663,12.67514069435152]]]},"properties":{"region_id":"village_626410","name":"GODURU","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

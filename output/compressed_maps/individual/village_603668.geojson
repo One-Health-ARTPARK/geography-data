@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8823117639145,14.30922193440858],[74.86438937556878,14.31147957986517],[74.86556567923553,14.30380608509201],[74.8776494261734,14.3028293481663],[74.8823117639145,14.30922193440858]]]},"properties":{"region_id":"village_603668","name":"MATTIGAR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

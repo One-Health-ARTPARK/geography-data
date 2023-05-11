@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31659121635431,16.63624168495557],[77.29123856871816,16.64065735781434],[77.28767194909311,16.60668859048405],[77.31837246833766,16.62177572775546],[77.31659121635431,16.63624168495557]]]},"properties":{"region_id":"village_621330","name":"NEELHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45068533992767,12.87310694448328],[77.4530338684555,12.88696625095723],[77.43593326642127,12.89253303459192],[77.43058562031352,12.87018906997765],[77.45068533992767,12.87310694448328]]]},"properties":{"region_id":"village_613062","name":"KUMBALAGODU (CT)","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

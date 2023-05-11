@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6366447274479,13.02668743527369],[77.62390482488928,13.03088709503039],[77.6215933278288,13.01637312510083],[77.64063343473191,13.01310942397921],[77.6366447274479,13.02668743527369]]]},"properties":{"region_id":"village_939445","name":"KACHARAKANAHALLI K.G","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

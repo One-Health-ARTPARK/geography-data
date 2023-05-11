@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72267166744285,17.42645383237428],[76.68730323621331,17.40919715698587],[76.70862177694865,17.38493793914517],[76.74971972231367,17.40564079658701],[76.72267166744285,17.42645383237428]]]},"properties":{"region_id":"village_620277","name":"PATTAN","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

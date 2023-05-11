@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06414695686372,13.26661213394529],[76.06258825000779,13.27765425130453],[76.05499762789574,13.27366269206712],[76.06414695686372,13.26661213394529]]]},"properties":{"region_id":"village_615295","name":"SHIVANENAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

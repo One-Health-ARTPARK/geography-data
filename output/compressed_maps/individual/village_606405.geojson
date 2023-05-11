@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32310978648223,14.66334096368378],[76.31184129345606,14.68733248130373],[76.2894308660596,14.685244227072],[76.28990011444077,14.65256406760438],[76.32310978648223,14.66334096368378]]]},"properties":{"region_id":"village_606405","name":"GADIMAKUNTE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13025313100964,16.52021958806361],[76.12176995157343,16.54007487559546],[76.08870586732291,16.52615730602743],[76.10703434221372,16.50289195366469],[76.13025313100964,16.52021958806361]]]},"properties":{"region_id":"village_599550","name":"BYAKOD","parent":"subdistrict_5452","parent_name":"BASAVANA BAGEVADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78538779235443,16.3076672166349],[75.7701073742708,16.29597504166859],[75.79396362028362,16.25914958741595],[75.81203741058704,16.26157631406698],[75.78538779235443,16.3076672166349]]]},"properties":{"region_id":"village_598805","name":"ILAL","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

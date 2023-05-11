@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99103920714215,16.4228979039631],[76.97202135959463,16.42494754593174],[76.97243823010169,16.40171911193794],[76.98198943602145,16.40157664607721],[76.99103920714215,16.4228979039631]]]},"properties":{"region_id":"village_600627","name":"DEVERGUD","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

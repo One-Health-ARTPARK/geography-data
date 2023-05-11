@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5931853177837,14.07770959701052],[75.57489583820661,14.10418829216734],[75.5634848028461,14.09383974734768],[75.56913547113396,14.06708498591778],[75.5931853177837,14.07770959701052]]]},"properties":{"region_id":"village_606747","name":"CHATNAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

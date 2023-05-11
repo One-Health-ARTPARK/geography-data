@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17174274310257,16.03549859466039],[77.17080046885928,16.06368321142369],[77.14105562405533,16.0470422040649],[77.13502666088768,16.0180146368774],[77.17174274310257,16.03549859466039]]]},"properties":{"region_id":"village_600998","name":"BAILMARCHAD","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

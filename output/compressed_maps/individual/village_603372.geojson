@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.34358473453369,14.61188923356161],[74.33601765323108,14.62072765228284],[74.32162605386888,14.60481077956253],[74.33619645952821,14.60691684454811],[74.34358473453369,14.61188923356161]]]},"properties":{"region_id":"village_603372","name":"HICHKAD","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

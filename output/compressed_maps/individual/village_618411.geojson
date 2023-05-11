@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38161885374836,12.36777880790044],[76.36976704993589,12.36358477782395],[76.38129864022122,12.35690639900269],[76.38161885374836,12.36777880790044]]]},"properties":{"region_id":"village_618411","name":"RAYANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71990241418206,12.82879673326529],[77.71579918380851,12.81290320385841],[77.72707623595062,12.81823233880217],[77.71990241418206,12.82879673326529]]]},"properties":{"region_id":"village_613259","name":"RAMASAGARA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

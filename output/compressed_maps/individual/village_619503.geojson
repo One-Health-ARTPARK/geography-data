@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7284244308089,11.82540801139745],[76.72611152085813,11.83722706117718],[76.715585660433,11.8296032651074],[76.7284244308089,11.82540801139745]]]},"properties":{"region_id":"village_619503","name":"KILAGERE","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59029887575093,13.10457475711106],[76.57270655091757,13.11191761375196],[76.5741622300852,13.09658385091305],[76.59029887575093,13.10457475711106]]]},"properties":{"region_id":"village_612328","name":"KANATHUR","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85421156522362,12.06274417972617],[76.87028257110101,12.06335490552826],[76.88061721621807,12.09842739321576],[76.85182629245115,12.09474118363301],[76.85421156522362,12.06274417972617]]]},"properties":{"region_id":"village_619284","name":"KARYA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

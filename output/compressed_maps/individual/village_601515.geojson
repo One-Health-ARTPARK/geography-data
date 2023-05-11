@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33778912681487,15.87163560975592],[76.34506658749766,15.90077058224711],[76.32120979693298,15.89945664265855],[76.33778912681487,15.87163560975592]]]},"properties":{"region_id":"village_601515","name":"MUDDALGUNDI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

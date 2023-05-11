@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06628576035723,14.7830201364078],[75.06884262848446,14.79798272031184],[75.05637176720424,14.8049050018447],[75.05696672266467,14.78373370712224],[75.06628576035723,14.7830201364078]]]},"properties":{"region_id":"village_603068","name":"INGALKI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

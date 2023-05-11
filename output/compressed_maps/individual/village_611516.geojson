@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0106193901511,13.16207213578904],[77.01614971585458,13.16788975298498],[77.00602867885118,13.17671564697884],[77.0055277728124,13.16787970984142],[77.0106193901511,13.16207213578904]]]},"properties":{"region_id":"village_611516","name":"THIMMASANDARA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

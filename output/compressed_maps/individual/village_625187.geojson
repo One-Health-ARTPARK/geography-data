@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46124271431188,13.4028857428994],[77.43567412416753,13.40418455679176],[77.43871120238332,13.38271848738348],[77.46124271431188,13.4028857428994]]]},"properties":{"region_id":"village_625187","name":"HULIKUNTE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

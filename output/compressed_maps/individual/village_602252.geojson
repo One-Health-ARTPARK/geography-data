@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85998888251744,15.4319442409271],[74.85000583086494,15.44272815054118],[74.83442380167985,15.43945842132345],[74.84579539232945,15.4175058883193],[74.85998888251744,15.4319442409271]]]},"properties":{"region_id":"village_602252","name":"HONNAPUR","parent":"subdistrict_7081","parent_name":"ALNAVAR"}}
+]}

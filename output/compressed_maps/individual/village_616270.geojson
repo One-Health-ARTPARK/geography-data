@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93088599418496,12.92829933023888],[75.91862329915695,12.93224030117228],[75.9183671492987,12.91856431582688],[75.93011948310233,12.9193563253911],[75.93088599418496,12.92829933023888]]]},"properties":{"region_id":"village_616270","name":"HACHAGODANAHALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

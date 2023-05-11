@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14777387645273,15.75854679361698],[76.12384095305845,15.75305013880267],[76.1477454314835,15.73674015251924],[76.14777387645273,15.75854679361698]]]},"properties":{"region_id":"village_601499","name":"BYALIHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

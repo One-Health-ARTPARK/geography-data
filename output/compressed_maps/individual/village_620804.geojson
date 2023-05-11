@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4511248384177,16.77893078080828],[76.41871052856543,16.78202536240138],[76.4184357439597,16.76885335342848],[76.44242360604234,16.75745942891335],[76.4511248384177,16.77893078080828]]]},"properties":{"region_id":"village_620804","name":"BIRYALHISSA","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

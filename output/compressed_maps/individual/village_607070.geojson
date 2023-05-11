@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93643062328735,14.01059312029709],[75.92079450255667,13.97355066350716],[75.93611743755079,13.98153070727],[75.9398968057826,13.99990215879041],[75.93643062328735,14.01059312029709]]]},"properties":{"region_id":"village_607070","name":"DIGGENAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

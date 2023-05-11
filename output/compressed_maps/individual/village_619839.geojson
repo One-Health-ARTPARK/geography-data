@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08671482649062,12.18230886099344],[77.06955383122154,12.17617582792005],[77.07368821006165,12.15807730312177],[77.08982472702012,12.1605255500968],[77.08671482649062,12.18230886099344]]]},"properties":{"region_id":"village_619839","name":"HAMPAPURA","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

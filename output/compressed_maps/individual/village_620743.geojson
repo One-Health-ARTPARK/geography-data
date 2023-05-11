@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45723075885292,16.9932656815892],[76.4410624731267,16.99910502878388],[76.43687043644688,16.98189074675744],[76.45263801125336,16.9796899043835],[76.45723075885292,16.9932656815892]]]},"properties":{"region_id":"village_620743","name":"MULHALLI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

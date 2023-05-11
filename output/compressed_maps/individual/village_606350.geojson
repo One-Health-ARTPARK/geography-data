@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89152196492736,14.62488850742935],[75.8696636261896,14.62798819494318],[75.86834370982642,14.59372598982621],[75.88944493970018,14.59638084450209],[75.89152196492736,14.62488850742935]]]},"properties":{"region_id":"village_606350","name":"SIRIGANAHALLI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

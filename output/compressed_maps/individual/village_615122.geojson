@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8056629107291,13.13141910442704],[75.80717883076338,13.14134992271749],[75.78779578309124,13.13574680727354],[75.79183095550071,13.12893162093972],[75.8056629107291,13.13141910442704]]]},"properties":{"region_id":"village_615122","name":"MATHIHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

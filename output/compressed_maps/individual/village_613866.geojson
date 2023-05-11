@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72452628076793,12.88803532384864],[76.72072517013429,12.90343124919171],[76.71523058926773,12.90384081481599],[76.71551206007896,12.88092703676604],[76.72452628076793,12.88803532384864]]]},"properties":{"region_id":"village_613866","name":"HULIKERE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

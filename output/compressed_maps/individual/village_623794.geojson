@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85283257652041,13.91110555331355],[77.84231202201929,13.91691121127318],[77.83852935905038,13.90381122250852],[77.84831358571175,13.90332758433107],[77.85283257652041,13.91110555331355]]]},"properties":{"region_id":"village_623794","name":"RAMANODUPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

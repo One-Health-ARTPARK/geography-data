@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41479125777187,16.25093108029959],[76.40144576401767,16.24049667909706],[76.39787332216724,16.20071110804227],[76.41434898582835,16.19262698980073],[76.41027044468247,16.23167780251887],[76.41479125777187,16.25093108029959]]]},"properties":{"region_id":"village_600402","name":"SUNKAL","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19799282247617,13.7248467840169],[75.19243711222107,13.73107436179407],[75.17992497965176,13.72106931102709],[75.19820535059748,13.71423079373805],[75.19799282247617,13.7248467840169]]]},"properties":{"region_id":"village_608193","name":"MUKTIHARIHARAPURA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

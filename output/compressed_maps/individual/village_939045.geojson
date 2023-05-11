@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89295153962728,12.70189186491522],[75.88703804814033,12.70948446456692],[75.88701137708972,12.70119663562778],[75.89295153962728,12.70189186491522]]]},"properties":{"region_id":"village_939045","name":"KENKARE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

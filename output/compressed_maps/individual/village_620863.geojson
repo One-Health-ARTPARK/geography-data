@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7665756098036,16.9092267397397],[76.72701196652747,16.91811719943257],[76.74284126569009,16.87282107152785],[76.7665756098036,16.9092267397397]]]},"properties":{"region_id":"village_620863","name":"YALWAR","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

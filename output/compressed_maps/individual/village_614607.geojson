@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06928300973355,12.55333824239305],[77.05867207824494,12.55431755939187],[77.04969458751036,12.53388756584903],[77.07110481862816,12.53392314887183],[77.06928300973355,12.55333824239305]]]},"properties":{"region_id":"village_614607","name":"MALAGARANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

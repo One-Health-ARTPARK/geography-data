@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9628378507631,16.96712036286913],[76.93548444936629,16.97346414488378],[76.9305900113254,16.95488465837341],[76.96077104688177,16.94652134955033],[76.9628378507631,16.96712036286913]]]},"properties":{"region_id":"village_620696","name":"KOLKUNDA","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

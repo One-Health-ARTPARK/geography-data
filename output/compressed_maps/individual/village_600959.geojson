@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96236224498227,16.14015760042211],[76.94801499148933,16.10560951622425],[76.98145960802071,16.10365031140179],[76.96236224498227,16.14015760042211]]]},"properties":{"region_id":"village_600959","name":"HOSUR.N","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

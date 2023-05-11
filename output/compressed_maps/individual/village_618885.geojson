@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33587648686456,12.07394887517483],[76.30382908073545,12.0740815396468],[76.31818772411789,12.06037499798933],[76.33587648686456,12.07394887517483]]]},"properties":{"region_id":"village_618885","name":"KATTEMANUGANAHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

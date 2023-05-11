@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99339366457771,13.20460337079186],[75.97397021528784,13.20002538659587],[75.97933316495745,13.1813102800041],[75.98719106332535,13.18541000368829],[75.98592552130174,13.19890399042772],[75.99339366457771,13.20460337079186]]]},"properties":{"region_id":"village_615274","name":"KATTESOMENAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

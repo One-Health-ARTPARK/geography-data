@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09175906237606,15.43223730794248],[76.06544119045763,15.43422923394541],[76.06414782269307,15.39915572563962],[76.10046321800189,15.40458312251665],[76.09175906237606,15.43223730794248]]]},"properties":{"region_id":"village_601359","name":"VEERAPUR","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

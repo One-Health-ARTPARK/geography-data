@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79181930894941,11.75987160412446],[76.78061037497518,11.7617867088308],[76.77094275393867,11.74763490680317],[76.78226643530282,11.74622335179745],[76.79181930894941,11.75987160412446]]]},"properties":{"region_id":"village_619541","name":"MARIHOSAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

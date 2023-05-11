@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72981576485287,13.97870971912507],[75.71604531478447,13.97770700565999],[75.72306922434855,13.97114113822481],[75.72981576485287,13.97870971912507]]]},"properties":{"region_id":"village_608544","name":"KEREBEERANAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87710927005365,15.30589095039671],[74.85707396538801,15.32955919155886],[74.83742767483804,15.31355885696113],[74.84512253429848,15.29165491726665],[74.87710927005365,15.30589095039671]]]},"properties":{"region_id":"village_602862","name":"GHADIYAL","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

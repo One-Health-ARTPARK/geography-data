@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25048754362535,17.04902206776821],[76.22896265559145,17.05640485032593],[76.22793547044732,17.04178120513321],[76.25048754362535,17.04902206776821]]]},"properties":{"region_id":"village_599314","name":"UCHITNAVADGI","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

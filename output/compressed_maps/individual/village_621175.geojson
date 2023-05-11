@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92026137157285,16.57256386664431],[76.93044357379317,16.57174150475531],[76.93503009093453,16.59517797196504],[76.92727989583896,16.59520269330471],[76.92026137157285,16.57256386664431]]]},"properties":{"region_id":"village_621175","name":"BASWANTPUR","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

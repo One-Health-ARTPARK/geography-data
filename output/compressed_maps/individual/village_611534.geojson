@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01979380872528,13.14579373800902],[77.00872501260748,13.14807086176043],[77.00795527692914,13.14186950270127],[77.01587840597306,13.13778549395998],[77.01979380872528,13.14579373800902]]]},"properties":{"region_id":"village_611534","name":"BYCHANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

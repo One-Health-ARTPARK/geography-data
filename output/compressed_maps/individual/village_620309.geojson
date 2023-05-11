@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7094803736174,17.11324859391879],[76.68946022950833,17.11993585107085],[76.68253407107265,17.09363473751126],[76.69987141345457,17.09743855457471],[76.7094803736174,17.11324859391879]]]},"properties":{"region_id":"village_620309","name":"BELGUMPA (K)","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

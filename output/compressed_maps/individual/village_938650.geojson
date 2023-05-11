@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14800310989374,13.33194157224177],[77.13376163558937,13.3396462013919],[77.1351885505862,13.32055889190951],[77.14800310989374,13.33194157224177]]]},"properties":{"region_id":"village_938650","name":"DEVARAYAPATNA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

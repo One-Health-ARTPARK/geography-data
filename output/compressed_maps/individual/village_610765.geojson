@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1321493738272,13.6813005682124],[77.1186833904607,13.6752762429266],[77.13493237440396,13.65908153122254],[77.14268391513913,13.67860502420707],[77.1321493738272,13.6813005682124]]]},"properties":{"region_id":"village_610765","name":"DABBEGHATTA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

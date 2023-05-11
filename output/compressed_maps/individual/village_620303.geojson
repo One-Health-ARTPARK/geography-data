@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81310485970727,17.21784616494218],[76.77591805909692,17.21562048935269],[76.78068269705989,17.16572683017617],[76.81310485970727,17.21784616494218]]]},"properties":{"region_id":"village_620303","name":"FARHATABAD","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

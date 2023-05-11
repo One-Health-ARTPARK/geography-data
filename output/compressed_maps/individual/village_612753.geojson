@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4229276763317,13.12330172059606],[77.42593511634428,13.13195253250749],[77.41825836849003,13.13711703943802],[77.41370229797197,13.12937515678862],[77.4229276763317,13.12330172059606]]]},"properties":{"region_id":"village_612753","name":"BOMMASETTIHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

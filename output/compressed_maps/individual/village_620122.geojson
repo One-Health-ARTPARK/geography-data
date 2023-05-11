@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40316785071175,17.24314354933727],[76.39292518943309,17.26092967784586],[76.37742915310781,17.25613637845977],[76.38099571355266,17.24150290485047],[76.40316785071175,17.24314354933727]]]},"properties":{"region_id":"village_620122","name":"HALIYAL","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

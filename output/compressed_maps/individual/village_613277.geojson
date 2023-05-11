@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74850424107736,12.76031727413226],[77.73571566931008,12.7637938123436],[77.7377602361893,12.7586552678332],[77.74512958544713,12.75666223040279],[77.74850424107736,12.76031727413226]]]},"properties":{"region_id":"village_613277","name":"KAMBLIPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

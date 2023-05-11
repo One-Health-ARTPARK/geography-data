@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60378146117013,13.09535934071795],[77.59649631298772,13.09321912427523],[77.5965086889704,13.0869081333325],[77.60778955172913,13.08847621674188],[77.60378146117013,13.09535934071795]]]},"properties":{"region_id":"village_938523","name":"SHIVANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

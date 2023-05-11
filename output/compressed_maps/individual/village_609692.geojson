@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71909026135769,13.41404291595797],[75.6862163342418,13.440984899359],[75.66447633937794,13.40379985878073],[75.71343522194542,13.39143614140112],[75.71909026135769,13.41404291595797]]]},"properties":{"region_id":"village_609692","name":"PANDARAVALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

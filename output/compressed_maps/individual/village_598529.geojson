@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75222795801636,16.30418372786724],[75.74205753801813,16.33164910119766],[75.6972724481176,16.33231475716923],[75.69766200741061,16.31038585673031],[75.75222795801636,16.30418372786724]]]},"properties":{"region_id":"village_598529","name":"HONNIHAL","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

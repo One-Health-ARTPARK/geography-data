@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13355658798058,12.6656045090046],[77.11429382980302,12.66608884897442],[77.11723775584467,12.65486522518654],[77.13355658798058,12.6656045090046]]]},"properties":{"region_id":"village_626212","name":"ANIGERE","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

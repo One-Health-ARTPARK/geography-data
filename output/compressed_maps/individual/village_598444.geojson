@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3178634783719,16.48411604825722],[75.29054065944212,16.48117842106578],[75.29257708756825,16.44030058723063],[75.32400274385589,16.4565956210443],[75.3178634783719,16.48411604825722]]]},"properties":{"region_id":"village_598444","name":"HULYAL","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

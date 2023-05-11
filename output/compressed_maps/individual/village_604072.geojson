@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20218558474467,14.83481933050267],[75.16876297127112,14.83043606547984],[75.19172058700924,14.81192733427084],[75.21148480976603,14.82128039919335],[75.20218558474467,14.83481933050267]]]},"properties":{"region_id":"village_604072","name":"BELAGALAPETH","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

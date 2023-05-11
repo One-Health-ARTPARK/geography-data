@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60463276593298,15.7412080738373],[74.59948358376448,15.72187499229624],[74.61876168997577,15.72862819774222],[74.60463276593298,15.7412080738373]]]},"properties":{"region_id":"village_597785","name":"HULIKAVI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

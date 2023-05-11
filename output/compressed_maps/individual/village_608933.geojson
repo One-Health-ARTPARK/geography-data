@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1963900569163,13.34749501615777],[75.15466750485533,13.34652943236089],[75.15207613845496,13.31697021064754],[75.19727464513217,13.31254303139269],[75.1963900569163,13.34749501615777]]]},"properties":{"region_id":"village_608933","name":"GULAGANJIMANE","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

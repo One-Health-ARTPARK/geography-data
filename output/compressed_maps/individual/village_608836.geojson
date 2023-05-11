@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8302274757002,13.20391586106108],[74.8112123140689,13.21141718098278],[74.79752939895103,13.20559508865873],[74.81213188144548,13.18704654250621],[74.8302274757002,13.20391586106108]]]},"properties":{"region_id":"village_608836","name":"KUTHYAR","parent":"subdistrict_7067","parent_name":"KAPU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.05792869913795,13.22798987233412],[78.04802187001242,13.24071678247499],[78.0320291075772,13.2360799547661],[78.02787068661492,13.22124815251245],[78.0580096433244,13.21706191512712],[78.05792869913795,13.22798987233412]]]},"properties":{"region_id":"village_621779","name":"RAJAKALLAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

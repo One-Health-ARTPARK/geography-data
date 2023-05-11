@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83965016774707,13.38165346782648],[77.85115954347486,13.38323487208858],[77.84800850468297,13.39773980731452],[77.84166917567332,13.39452198321359],[77.83965016774707,13.38165346782648]]]},"properties":{"region_id":"village_624189","name":"HANDIGANALA","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.29416848499666,13.27358506102381],[78.28512231813045,13.27427624381253],[78.28355388091612,13.26790186591825],[78.29258469488363,13.26624278974868],[78.29416848499666,13.27358506102381]]]},"properties":{"region_id":"village_621722","name":"SEETHAREDDIHALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

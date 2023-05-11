@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82489967879337,13.2074400814523],[77.82398997530068,13.19501586281937],[77.8328210383349,13.1987097941102],[77.82489967879337,13.2074400814523]]]},"properties":{"region_id":"village_625481","name":"CHIKKARALAGERE","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

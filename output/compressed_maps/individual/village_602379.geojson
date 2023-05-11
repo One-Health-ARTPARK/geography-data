@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18474352588107,15.37903667392195],[75.16403589598752,15.37240780715485],[75.16560323007589,15.36521023995722],[75.18417422449484,15.36765855480842],[75.18474352588107,15.37903667392195]]]},"properties":{"region_id":"village_602379","name":"NAGASHETTIKOP","parent":"subdistrict_7079","parent_name":"HUBBALLI URBAN"}}
+]}

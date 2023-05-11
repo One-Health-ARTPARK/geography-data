@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70320010423933,14.87179116764072],[75.7390570914397,14.88686054125711],[75.72780835597851,14.89726345571324],[75.69695876376542,14.89144232112485],[75.70320010423933,14.87179116764072]]]},"properties":{"region_id":"village_604272","name":"HAUNSHI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

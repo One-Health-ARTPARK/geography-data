@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68963470699255,12.85556788263936],[76.68664041174631,12.88586498261409],[76.67934978652231,12.88962744887979],[76.67831944592488,12.86491898845608],[76.68963470699255,12.85556788263936]]]},"properties":{"region_id":"village_613870","name":"NARAGALLU","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

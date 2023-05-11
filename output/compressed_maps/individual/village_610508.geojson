@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00076398043717,13.54293566314047],[76.98242691323524,13.55763149192437],[76.92351310733983,13.52816009622197],[76.97477359542275,13.52492572910635],[77.00076398043717,13.54293566314047]]]},"properties":{"region_id":"village_610508","name":"SEEBI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

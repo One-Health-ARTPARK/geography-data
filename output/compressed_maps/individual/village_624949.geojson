@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40840486324436,13.07194493123098],[77.42968870027751,13.08291773221821],[77.40859194641492,13.09369917454675],[77.40840486324436,13.07194493123098]]]},"properties":{"region_id":"village_624949","name":"ARASINAKUNTE (CT)","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

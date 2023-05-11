@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18827078282004,16.48145546439417],[76.18601305395374,16.46504542966827],[76.20604558838886,16.46476326149409],[76.21008914363033,16.48203421451581],[76.18827078282004,16.48145546439417]]]},"properties":{"region_id":"village_599597","name":"VANAHALLI","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

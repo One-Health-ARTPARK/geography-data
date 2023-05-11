@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22798062414847,13.39785811886867],[77.2128165594765,13.41500439810694],[77.2031456580336,13.39932351414599],[77.22798062414847,13.39785811886867]]]},"properties":{"region_id":"village_611370","name":"ANUPANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

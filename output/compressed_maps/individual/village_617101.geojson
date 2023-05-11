@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31460402632202,12.87266751951847],[76.3044097649426,12.87472028864788],[76.30425343750362,12.86318948497511],[76.31302800650211,12.86468206850121],[76.31460402632202,12.87266751951847]]]},"properties":{"region_id":"village_617101","name":"POTHANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1952288283018,12.67824705518114],[77.1986781547115,12.68609182050475],[77.18851468993996,12.69097878825932],[77.18573582360264,12.678975543138],[77.1952288283018,12.67824705518114]]]},"properties":{"region_id":"village_626241","name":"KOMANANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

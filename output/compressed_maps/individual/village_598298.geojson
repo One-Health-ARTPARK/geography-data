@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12831395706588,16.09181691308548],[75.09945607753478,16.09029151184823],[75.1004212320887,16.07048407059805],[75.1184429505519,16.07030057986423],[75.12831395706588,16.09181691308548]]]},"properties":{"region_id":"village_598298","name":"MURAKATNAL","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

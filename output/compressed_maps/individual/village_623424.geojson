@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55086720199375,13.43465097919669],[77.56985527681397,13.420123520145],[77.58888479203273,13.45744778913854],[77.5679262423541,13.47206970171433],[77.56252254414093,13.44945688309895],[77.55086720199375,13.43465097919669]]]},"properties":{"region_id":"village_623424","name":"HALEHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

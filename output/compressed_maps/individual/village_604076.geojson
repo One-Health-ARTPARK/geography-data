@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1217438719029,14.83515558477753],[75.11232564343338,14.83476160691157],[75.09718545550415,14.82773849954124],[75.09393516264846,14.82015873741716],[75.11612944967828,14.82428744715235],[75.1217438719029,14.83515558477753]]]},"properties":{"region_id":"village_604076","name":"CHEERANAHALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

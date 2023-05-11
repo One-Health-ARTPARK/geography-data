@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6222841761556,16.20353992205123],[74.64058439664542,16.20722200548864],[74.6418383002523,16.21838011076852],[74.63320935844632,16.23094588088868],[74.6184100124851,16.22752321510376],[74.6222841761556,16.20353992205123]]]},"properties":{"region_id":"village_597602","name":"MADIHALLI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

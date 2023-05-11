@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3031924398177,16.17841943302925],[77.24840352021504,16.16399320253644],[77.25499177710614,16.14550086850721],[77.30026703712201,16.15669228356088],[77.3031924398177,16.17841943302925]]]},"properties":{"region_id":"village_600821","name":"MAMDAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63401689313449,16.07953739157529],[76.62710940634389,16.10515234082576],[76.61272281658542,16.09082540449439],[76.63401689313449,16.07953739157529]]]},"properties":{"region_id":"village_600438","name":"AMARAWATI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

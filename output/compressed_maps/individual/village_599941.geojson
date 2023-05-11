@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23534592461841,17.91143233377147],[77.23887383070338,17.92969808012833],[77.21843993181207,17.93562144447915],[77.22202005253709,17.91371527873673],[77.23534592461841,17.91143233377147]]]},"properties":{"region_id":"village_599941","name":"SECUNDRABAD","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38520812541884,13.49906750431216],[75.37441522063297,13.47845983538474],[75.39324390449329,13.47550790694817],[75.38520812541884,13.49906750431216]]]},"properties":{"region_id":"village_609009","name":"TANUDI","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

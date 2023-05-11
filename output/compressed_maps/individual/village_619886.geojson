@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71651284507526,12.04648198681243],[77.68975293726953,12.05115847440722],[77.70591942641818,12.0388115618075],[77.71651284507526,12.04648198681243]]]},"properties":{"region_id":"village_619886","name":"GOPINATHAM","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27440710547644,13.37025481917343],[76.25731313075978,13.38109247271052],[76.23114537807696,13.38327150553559],[76.23943802349612,13.36695445518779],[76.27440710547644,13.37025481917343]]]},"properties":{"region_id":"village_615597","name":"HARATHANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80715141048628,12.48862348349797],[76.79147132983954,12.4782035621876],[76.81292334006226,12.46224559209754],[76.81984541386916,12.48132246765592],[76.80715141048628,12.48862348349797]]]},"properties":{"region_id":"village_614462","name":"URAMARKASALAGERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

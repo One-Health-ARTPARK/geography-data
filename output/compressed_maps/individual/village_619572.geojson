@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68535020989462,11.76515996934989],[76.66956809308158,11.76496978821529],[76.67067443965466,11.7504183142459],[76.68149984801094,11.74646471687289],[76.68535020989462,11.76515996934989]]]},"properties":{"region_id":"village_619572","name":"BENDARAVADI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6802973352308,12.80517478650878],[76.6620081172325,12.8071332585268],[76.67063216358858,12.78923334457779],[76.6802973352308,12.80517478650878]]]},"properties":{"region_id":"village_613967","name":"MALLASANDRA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

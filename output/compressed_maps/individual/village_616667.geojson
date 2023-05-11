@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15499132092562,12.70338813959695],[76.14473396935702,12.69778933299781],[76.14550414939036,12.68340035226823],[76.15617108361953,12.68189456394282],[76.15499132092562,12.70338813959695]]]},"properties":{"region_id":"village_616667","name":"AJJUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

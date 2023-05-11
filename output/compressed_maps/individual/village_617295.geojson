@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54781671198451,12.94331909587836],[76.54417478179874,12.95402510000816],[76.53176934351458,12.946039959051],[76.53244872441498,12.93592938112573],[76.54781671198451,12.94331909587836]]]},"properties":{"region_id":"village_617295","name":"CHIKKONAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

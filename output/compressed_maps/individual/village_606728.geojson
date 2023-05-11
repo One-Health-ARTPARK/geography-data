@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54214732557261,14.18449702947336],[75.52649298650725,14.1858724847933],[75.5227013278313,14.17257650665781],[75.54690078071847,14.16953312514297],[75.54214732557261,14.18449702947336]]]},"properties":{"region_id":"village_606728","name":"RAMESWARA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

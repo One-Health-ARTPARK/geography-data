@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74615797347194,17.59877821444528],[76.71811763882683,17.6021660746513],[76.71934277480544,17.56519537842635],[76.74615797347194,17.59877821444528]]]},"properties":{"region_id":"village_619996","name":"BILGUNDA","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

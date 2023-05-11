@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91716763269712,12.76016667180688],[75.90867550601412,12.74735199052575],[75.92064405215072,12.74532002940381],[75.91716763269712,12.76016667180688]]]},"properties":{"region_id":"village_938989","name":"HULUKODU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48950693217103,13.34294972726865],[77.47792236200671,13.34265989765114],[77.47675501516404,13.32939098529811],[77.4926278655273,13.33211871086666],[77.48950693217103,13.34294972726865]]]},"properties":{"region_id":"village_625114","name":"SRINIVASAPURA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

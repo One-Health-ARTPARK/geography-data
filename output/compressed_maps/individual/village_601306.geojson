@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10140978615087,15.61730375393793],[76.07069086829145,15.62694829654858],[76.05808784031565,15.60568242499086],[76.10471766475361,15.60104274380046],[76.10140978615087,15.61730375393793]]]},"properties":{"region_id":"village_601306","name":"GEDIGERA","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

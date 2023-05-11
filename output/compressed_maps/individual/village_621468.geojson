@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.33569998442296,13.50879792683754],[78.31552263448089,13.50637758014512],[78.31704096237426,13.49018464240942],[78.33569998442296,13.50879792683754]]]},"properties":{"region_id":"village_621468","name":"MANDYALA","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

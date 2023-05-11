@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41721840936312,18.15107877136878],[77.39003315646414,18.15357948966846],[77.3843168400106,18.13968163983029],[77.40934993628608,18.13086685028881],[77.41721840936312,18.15107877136878]]]},"properties":{"region_id":"village_600033","name":"NAGUR BABJI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

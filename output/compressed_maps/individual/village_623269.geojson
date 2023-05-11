@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56329176663843,13.5949395051693],[77.55117258081569,13.60737264135622],[77.53460313543825,13.58738420952014],[77.55974393861503,13.57968398018909],[77.56329176663843,13.5949395051693]]]},"properties":{"region_id":"village_623269","name":"GANGASANDRA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

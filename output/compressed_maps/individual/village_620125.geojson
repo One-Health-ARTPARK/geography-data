@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44483912301618,17.25840958527123],[76.42569920581148,17.23286443435616],[76.44833107308568,17.20870557047186],[76.44483912301618,17.25840958527123]]]},"properties":{"region_id":"village_620125","name":"MALLABAD","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

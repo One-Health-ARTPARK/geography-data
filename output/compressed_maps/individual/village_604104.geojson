@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09840685102351,14.747486332442],[75.08931523280421,14.76234410414886],[75.08206562097115,14.74558270165758],[75.09840685102351,14.747486332442]]]},"properties":{"region_id":"village_604104","name":"CHIKKERI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2969650841669,16.13563968727532],[76.272429428938,16.11189825337597],[76.28568480465917,16.10606865885772],[76.3011038114003,16.11750454095029],[76.2969650841669,16.13563968727532]]]},"properties":{"region_id":"village_600349","name":"PALGAL DINNI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

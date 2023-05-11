@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06764534693845,12.85511077284019],[77.05278073622385,12.83041629807285],[77.03211614857,12.82270690047166],[77.04095051286984,12.80572485045206],[77.06589484402589,12.81039003275746],[77.06764534693845,12.85511077284019]]]},"properties":{"region_id":"village_612728","name":"HULIYURDURGA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

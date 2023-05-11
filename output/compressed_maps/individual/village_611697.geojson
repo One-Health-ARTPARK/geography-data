@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97580594105845,13.45688488107101],[76.9763084091725,13.46935906602511],[76.96473522398853,13.46832375457463],[76.96115190632585,13.45865907697785],[76.97580594105845,13.45688488107101]]]},"properties":{"region_id":"village_611697","name":"KATANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36208896805941,15.38718153424949],[75.32962540062388,15.38734331084668],[75.33927238194791,15.35071571422256],[75.36469627090986,15.35889917070975],[75.36208896805941,15.38718153424949]]]},"properties":{"region_id":"village_602369","name":"NALAVADI","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

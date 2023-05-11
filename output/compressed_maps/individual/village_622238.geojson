@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91217774262032,12.94737845201281],[77.89798894140665,12.94639817148684],[77.90009230715532,12.93552407412836],[77.91164069240483,12.93411041954133],[77.91217774262032,12.94737845201281]]]},"properties":{"region_id":"village_622238","name":"CHOODAGONDAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

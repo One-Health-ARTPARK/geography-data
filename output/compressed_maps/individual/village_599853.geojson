@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09811726345754,18.06131562804194],[77.08293436293995,18.06057790419883],[77.08404203659025,18.04372176667717],[77.09648622964754,18.04436120118877],[77.09811726345754,18.06131562804194]]]},"properties":{"region_id":"village_599853","name":"HALSILAKMADEVI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

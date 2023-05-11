@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63804681736399,17.15390281404331],[76.60280230732806,17.11518920747024],[76.64263099036691,17.10410757735847],[76.66553319794842,17.15328312561665],[76.63804681736399,17.15390281404331]]]},"properties":{"region_id":"village_620306","name":"JOGUR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

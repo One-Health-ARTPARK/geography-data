@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81648940577533,13.71862722227541],[75.8069430909774,13.7218261162528],[75.80550689556604,13.70838977891439],[75.81904156829204,13.69946286120082],[75.81648940577533,13.71862722227541]]]},"properties":{"region_id":"village_938954","name":"TAREEKERE","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

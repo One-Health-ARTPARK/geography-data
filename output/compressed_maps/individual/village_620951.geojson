@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33174035767553,16.39696451617991],[76.30974060108598,16.39621547709216],[76.309718191113,16.36160309858313],[76.34089340321708,16.36495691327504],[76.33174035767553,16.39696451617991]]]},"properties":{"region_id":"village_620951","name":"BAPPARGA","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

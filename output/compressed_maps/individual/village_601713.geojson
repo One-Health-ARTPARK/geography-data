@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08463453668217,15.35082369212521],[76.05995764322917,15.36081638558238],[76.0659102253029,15.33913461493983],[76.08463453668217,15.35082369212521]]]},"properties":{"region_id":"village_601713","name":"WADGANHAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

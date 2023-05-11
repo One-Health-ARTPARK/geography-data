@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20867214613062,15.70267515993295],[76.19317511780866,15.71960470170417],[76.18362712281409,15.70471488990283],[76.20867214613062,15.70267515993295]]]},"properties":{"region_id":"village_601503","name":"KURBANHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

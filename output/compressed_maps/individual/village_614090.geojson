@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75835398270169,12.58889148230369],[76.74302969058662,12.59039720635679],[76.73817109824839,12.57653784262205],[76.7574852359007,12.57546704555456],[76.75835398270169,12.58889148230369]]]},"properties":{"region_id":"village_614090","name":"NALLAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

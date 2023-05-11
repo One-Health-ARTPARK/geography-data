@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.52452004678761,13.17835554478253],[78.51910015644391,13.18031429984729],[78.51622295184156,13.17118007203582],[78.52583479880869,13.16960470346575],[78.52452004678761,13.17835554478253]]]},"properties":{"region_id":"village_623100","name":"CHIKKAGOLLAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

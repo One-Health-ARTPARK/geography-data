@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66728908937634,14.90164466887229],[75.6685478420179,14.93225084535631],[75.64554560807237,14.91024551377651],[75.66728908937634,14.90164466887229]]]},"properties":{"region_id":"village_604263","name":"BELAVIGI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

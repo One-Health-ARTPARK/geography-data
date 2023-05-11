@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.3419929520084,14.63302770869146],[74.35026045359146,14.65756464518155],[74.33669424360914,14.66761272574101],[74.31749197682147,14.64539491323217],[74.3419929520084,14.63302770869146]]]},"properties":{"region_id":"village_603362","name":"BOLE","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

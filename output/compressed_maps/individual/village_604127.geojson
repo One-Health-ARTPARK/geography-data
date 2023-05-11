@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07465426804879,14.6538555179029],[75.06898450387808,14.66924819798273],[75.05138915099712,14.6638147675934],[75.0684803099581,14.6514707075171],[75.07465426804879,14.6538555179029]]]},"properties":{"region_id":"village_604127","name":"KONANKOPPA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

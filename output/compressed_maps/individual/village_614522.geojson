@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99088598608134,12.69427466358713],[76.97700742583018,12.69317508277234],[76.98677553568973,12.66162684333908],[77.00835124791406,12.65851062148391],[77.01109682893788,12.67255215554071],[76.99088598608134,12.69427466358713]]]},"properties":{"region_id":"village_614522","name":"MARALIGA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

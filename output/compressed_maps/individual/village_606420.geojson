@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3022622803284,14.53748295816716],[76.29678892002111,14.51885118339014],[76.315715169105,14.51769807253331],[76.31707186941594,14.53768077164848],[76.3022622803284,14.53748295816716]]]},"properties":{"region_id":"village_606420","name":"GIDDANAKATTE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

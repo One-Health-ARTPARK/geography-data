@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66858751431066,15.60934630360727],[74.6681858951937,15.59164976963135],[74.67282363220286,15.58865790141073],[74.68447059435313,15.60262801911616],[74.66858751431066,15.60934630360727]]]},"properties":{"region_id":"village_597996","name":"CHICK-ANGROLLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

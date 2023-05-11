@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31812442346404,14.10105033037348],[77.31392237493732,14.12762505812101],[77.27291047722512,14.12096840798832],[77.26821347527567,14.07400713219542],[77.31812442346404,14.10105033037348]]]},"properties":{"region_id":"village_610635","name":"PAVAGADA (RURAL)","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

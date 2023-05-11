@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4342152373341,16.91755699991442],[77.43180212439576,16.93202596586],[77.4101037983207,16.93674509623442],[77.41407101182125,16.92293486038588],[77.4342152373341,16.91755699991442]]]},"properties":{"region_id":"village_620583","name":"GUNTATIPADAMPALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

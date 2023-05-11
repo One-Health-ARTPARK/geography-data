@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26785163076173,17.26610217347616],[76.26295807979429,17.23675544666496],[76.29067350282989,17.241281358582],[76.28947518638377,17.26170758701996],[76.26785163076173,17.26610217347616]]]},"properties":{"region_id":"village_620112","name":"GOUR (K)","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

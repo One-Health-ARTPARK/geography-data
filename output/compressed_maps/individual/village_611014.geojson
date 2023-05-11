@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11839207407508,13.55423917558923],[77.10788741069166,13.53472538396268],[77.12509830326509,13.52899775745686],[77.11839207407508,13.55423917558923]]]},"properties":{"region_id":"village_611014","name":"JUNJURAMANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

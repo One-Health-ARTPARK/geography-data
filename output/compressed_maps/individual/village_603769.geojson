@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55372151083084,14.2053026574503],[74.53670537922028,14.21049361812494],[74.52412439193287,14.196230899589],[74.52441375184041,14.18119013444486],[74.54875478726163,14.19435727699303],[74.55372151083084,14.2053026574503]]]},"properties":{"region_id":"village_603769","name":"ADUKAL","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

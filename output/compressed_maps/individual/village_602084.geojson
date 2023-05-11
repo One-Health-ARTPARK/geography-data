@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52984420817029,15.05144423481644],[75.5246887571266,15.08689197138141],[75.49817221200848,15.09483826355985],[75.49475586748221,15.04619228954093],[75.52984420817029,15.05144423481644]]]},"properties":{"region_id":"village_602084","name":"DODDUR","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

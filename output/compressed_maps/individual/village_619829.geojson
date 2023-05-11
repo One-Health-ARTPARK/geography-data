@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23945049085125,12.16492099186206],[77.2319997394834,12.16735987102386],[77.2044478199717,12.13703837026447],[77.22041447455844,12.13907254151716],[77.23253926049985,12.14688757215652],[77.23945049085125,12.16492099186206]]]},"properties":{"region_id":"village_619829","name":"SINGANALLUR","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

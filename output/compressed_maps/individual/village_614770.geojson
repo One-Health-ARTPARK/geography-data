@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25837502878309,12.42170556388887],[77.24507825795746,12.43073786463258],[77.24371644124304,12.40760798379222],[77.25687285131069,12.40249242400355],[77.25837502878309,12.42170556388887]]]},"properties":{"region_id":"village_614770","name":"GUNDAPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

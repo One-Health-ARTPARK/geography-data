@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8151453360929,12.52655598450006],[76.80077968452079,12.53139262225237],[76.79615115916411,12.51795169957755],[76.81493101560332,12.51526704953182],[76.8151453360929,12.52655598450006]]]},"properties":{"region_id":"village_614441","name":"AVVERAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

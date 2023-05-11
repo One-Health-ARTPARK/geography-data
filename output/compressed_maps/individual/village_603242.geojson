@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81688797643312,14.54254620896236],[74.82430978737982,14.52837956856265],[74.82999461464199,14.53532527749049],[74.81688797643312,14.54254620896236]]]},"properties":{"region_id":"village_603242","name":"AJJIBAL","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

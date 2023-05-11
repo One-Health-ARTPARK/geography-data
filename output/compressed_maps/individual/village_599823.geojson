@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94014648930676,17.70499184983252],[76.91730827336059,17.68019053876677],[76.94668248642843,17.6532855092808],[76.96582241528928,17.67759085703625],[76.94014648930676,17.70499184983252]]]},"properties":{"region_id":"village_599823","name":"CHICKNAGAON","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

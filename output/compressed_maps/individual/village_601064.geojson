@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55310472955915,15.79814622588894],[76.55244826351161,15.77738621452079],[76.56788551336524,15.77971988023169],[76.57254202626787,15.79227068537164],[76.55310472955915,15.79814622588894]]]},"properties":{"region_id":"village_601064","name":"HATTIGUDDA","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

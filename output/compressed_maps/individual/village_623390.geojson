@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56545254787514,13.53685860711462],[77.55571902710791,13.53119070614537],[77.5532679413535,13.52179137088234],[77.56747475621019,13.52754642281882],[77.56545254787514,13.53685860711462]]]},"properties":{"region_id":"village_623390","name":"ARASALBANDE","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

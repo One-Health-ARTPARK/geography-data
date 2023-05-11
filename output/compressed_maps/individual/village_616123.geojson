@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12745607415049,12.83082161881344],[76.12540520499522,12.84477485410524],[76.1172531719284,12.84908344666087],[76.1135151329179,12.83185746506472],[76.12745607415049,12.83082161881344]]]},"properties":{"region_id":"village_616123","name":"KARLE","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

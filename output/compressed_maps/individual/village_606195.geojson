@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57632722315711,13.73567934501221],[76.570462416095,13.76350256049054],[76.54161494212069,13.76106516812072],[76.56230097424037,13.73112742384521],[76.57632722315711,13.73567934501221]]]},"properties":{"region_id":"village_606195","name":"ULIVINAHAL","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

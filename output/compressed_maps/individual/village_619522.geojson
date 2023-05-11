@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79392407965582,11.8655026685192],[76.77603699674198,11.86550171682753],[76.77503992446051,11.85664641235246],[76.79576121947596,11.85251537307563],[76.79392407965582,11.8655026685192]]]},"properties":{"region_id":"village_619522","name":"SHYANADRAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

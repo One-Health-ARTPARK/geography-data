@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06888036028747,12.70872454461046],[76.06941485862544,12.71962298543519],[76.05850778732392,12.71667415626445],[76.0577363193012,12.71010759358978],[76.06888036028747,12.70872454461046]]]},"properties":{"region_id":"village_616629","name":"MADIKEHOSAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30744640151492,15.51296913817549],[76.28113969259807,15.50987984938273],[76.27838310827937,15.48206400669698],[76.30871312139739,15.48119309468709],[76.30744640151492,15.51296913817549]]]},"properties":{"region_id":"village_601804","name":"ARSINKERA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97698099032225,12.70410723017339],[76.96289612492686,12.70120010071959],[76.9626485299234,12.68709705547826],[76.97725167307593,12.68796452639623],[76.97698099032225,12.70410723017339]]]},"properties":{"region_id":"village_614516","name":"HURUGALAVADI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

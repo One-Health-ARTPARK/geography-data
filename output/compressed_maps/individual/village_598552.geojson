@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23164482168286,16.43289325460677],[75.20447411135983,16.42795333939189],[75.21290128525064,16.38504944385791],[75.23970534929715,16.3839055522439],[75.23164482168286,16.43289325460677]]]},"properties":{"region_id":"village_598552","name":"KULALI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42551226619352,17.34856684071871],[77.40137470884426,17.35511642993009],[77.39275516020938,17.33314916606315],[77.41390965968591,17.32850797788765],[77.42551226619352,17.34856684071871]]]},"properties":{"region_id":"village_620453","name":"IRAGPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

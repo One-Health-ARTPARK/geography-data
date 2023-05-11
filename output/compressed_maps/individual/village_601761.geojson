@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27610441730465,15.32015009806294],[76.28204821842432,15.34697736782718],[76.27277024001289,15.34883378618481],[76.27610441730465,15.32015009806294]]]},"properties":{"region_id":"village_601761","name":"RUDRAPURA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

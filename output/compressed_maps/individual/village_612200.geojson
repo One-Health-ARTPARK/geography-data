@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69961356356545,13.2615984859786],[76.69959177968595,13.27056212841147],[76.69061899226594,13.27357143639263],[76.69440179694926,13.26392251466382],[76.69961356356545,13.2615984859786]]]},"properties":{"region_id":"village_612200","name":"LINGAPURA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

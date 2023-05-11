@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70839187347084,14.13820961741575],[75.68166243492512,14.13975439759544],[75.68320285716342,14.12969090411051],[75.70839187347084,14.13820961741575]]]},"properties":{"region_id":"village_606837","name":"MARIGONDANAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

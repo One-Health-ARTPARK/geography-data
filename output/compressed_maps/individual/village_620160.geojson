@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51007336373766,17.22332913117535],[76.53516835760392,17.22130794142124],[76.54072774742819,17.23655734981034],[76.52203689994256,17.24241299188157],[76.51007336373766,17.22332913117535]]]},"properties":{"region_id":"village_620160","name":"INGALGI (B)","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

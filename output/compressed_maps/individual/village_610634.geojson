@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2737589218106,14.12123463674082],[77.2318933099807,14.13476642430651],[77.22991645028662,14.11109120916292],[77.2737589218106,14.12123463674082]]]},"properties":{"region_id":"village_610634","name":"BOMMATHANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

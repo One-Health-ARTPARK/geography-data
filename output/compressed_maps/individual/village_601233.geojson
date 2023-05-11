@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91492418060793,15.69805544844132],[75.89386324660697,15.68822046278665],[75.89789000875433,15.67831902792888],[75.91990890877702,15.68545439771597],[75.91492418060793,15.69805544844132]]]},"properties":{"region_id":"village_601233","name":"SOMPUR","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

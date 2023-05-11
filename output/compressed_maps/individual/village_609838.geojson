@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73078874245019,13.24562998738765],[75.71956360871317,13.245571498958],[75.71335294978692,13.23311498674214],[75.73276972886477,13.24079798948592],[75.73078874245019,13.24562998738765]]]},"properties":{"region_id":"village_609838","name":"VALAGAREHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72829732529323,13.39933100953076],[76.73831465889914,13.41196476914295],[76.71990821141408,13.41994686102092],[76.71546601721008,13.40262404731898],[76.72829732529323,13.39933100953076]]]},"properties":{"region_id":"village_610183","name":"CHIKKARAMAPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

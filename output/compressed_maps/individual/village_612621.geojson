@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02524605092928,12.92908385217773],[77.02131813159853,12.94505860391215],[76.99455975693253,12.93825045245322],[77.00934846903247,12.92581689118302],[77.02524605092928,12.92908385217773]]]},"properties":{"region_id":"village_612621","name":"HANGRAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98283582032857,12.99236712806054],[77.97972962805983,12.99335781059032],[77.97448002600649,12.98478461132368],[77.97903354099721,12.98393621575019],[77.98283582032857,12.99236712806054]]]},"properties":{"region_id":"village_622199","name":"ANGASETTIHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

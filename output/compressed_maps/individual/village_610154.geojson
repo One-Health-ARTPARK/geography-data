@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63967712470773,13.53881325512674],[76.6052193797889,13.54310586140401],[76.6057580971881,13.52233834092181],[76.6446466882998,13.52339939001956],[76.63967712470773,13.53881325512674]]]},"properties":{"region_id":"village_610154","name":"KANDIKERE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

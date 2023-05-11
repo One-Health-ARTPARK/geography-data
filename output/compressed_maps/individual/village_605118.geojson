@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44937015081194,14.74601646352987],[76.47373066359143,14.79065476798242],[76.41860511595148,14.7841580127036],[76.42372025031987,14.75022320258828],[76.44937015081194,14.74601646352987]]]},"properties":{"region_id":"village_605118","name":"BANAVIKAL","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

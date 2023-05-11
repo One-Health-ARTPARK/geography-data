@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5851841829466,14.37623705884439],[74.5627559148043,14.39330209622752],[74.54733101000296,14.36676965075284],[74.56300503277217,14.36236311997882],[74.5851841829466,14.37623705884439]]]},"properties":{"region_id":"village_603521","name":"HONAGERE","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65460137045291,12.62678372063722],[76.67456686915752,12.63911640714358],[76.6467378687321,12.64197006072281],[76.65460137045291,12.62678372063722]]]},"properties":{"region_id":"village_614060","name":"GOWDAGERE","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

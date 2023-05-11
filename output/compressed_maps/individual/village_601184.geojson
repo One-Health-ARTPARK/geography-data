@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85887464845936,15.74856774319439],[76.85057021674193,15.72958854559393],[76.86741296390085,15.73175850901952],[76.85887464845936,15.74856774319439]]]},"properties":{"region_id":"village_601184","name":"MALDINNI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87969698783628,12.63322045163435],[75.87132657191593,12.63114348842601],[75.87540448169909,12.62473917642005],[75.88361470313305,12.62915442099558],[75.87969698783628,12.63322045163435]]]},"properties":{"region_id":"village_939052","name":"SULIMALTE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75704539265763,14.47396369080764],[74.76632011616307,14.45466830339422],[74.7741274119571,14.4707159915357],[74.75704539265763,14.47396369080764]]]},"properties":{"region_id":"village_603546","name":"MURUR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

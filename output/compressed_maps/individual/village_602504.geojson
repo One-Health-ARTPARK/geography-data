@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04258998046302,15.12316420558487],[75.03996048286801,15.14573405090597],[75.0245273542541,15.14353893917797],[75.02854964296002,15.11701226521739],[75.04258998046302,15.12316420558487]]]},"properties":{"region_id":"village_602504","name":"K. HUNISHIKATTI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

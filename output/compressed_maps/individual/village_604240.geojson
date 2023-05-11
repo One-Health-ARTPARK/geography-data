@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41966186315871,14.78636480187161],[75.40519546143271,14.77862257908989],[75.41918677938023,14.75499181072327],[75.42862873222487,14.7670980822827],[75.41966186315871,14.78636480187161]]]},"properties":{"region_id":"village_604240","name":"TOTADAYELLAPUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

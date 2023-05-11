@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40324886245601,18.27340075222894],[77.38830448086566,18.27798100821801],[77.37554999691723,18.26390167710798],[77.3955133752947,18.25815164143231],[77.40324886245601,18.27340075222894]]]},"properties":{"region_id":"village_599977","name":"GANESHPUR (A)","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

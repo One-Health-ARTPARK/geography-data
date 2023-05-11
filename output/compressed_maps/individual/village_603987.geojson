@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33335404697088,14.93488159946202],[75.30942413411383,14.93836222340739],[75.30696432207509,14.92646133196801],[75.33335404697088,14.93488159946202]]]},"properties":{"region_id":"village_603987","name":"MAVOOR (MAHUR)","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75890463617968,12.76135103000622],[77.74985664367523,12.76238367939627],[77.73719761643187,12.74869039690583],[77.73443316322349,12.73984840552761],[77.75273125936504,12.74186703013696],[77.75890463617968,12.76135103000622]]]},"properties":{"region_id":"village_613278","name":"MAYASANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

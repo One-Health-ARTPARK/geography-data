@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51088855801083,12.10284669888404],[76.51148068938855,12.11462778777366],[76.50348848264026,12.12213529987909],[76.50484531298409,12.10452897147177],[76.51088855801083,12.10284669888404]]]},"properties":{"region_id":"village_618963","name":"KANCHAMALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

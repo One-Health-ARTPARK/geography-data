@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2731623212824,17.92499606959823],[77.25954878074022,17.92570025869862],[77.25519187322722,17.91125338698311],[77.27775585771576,17.91088451029217],[77.2731623212824,17.92499606959823]]]},"properties":{"region_id":"village_599943","name":"NELWAD","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

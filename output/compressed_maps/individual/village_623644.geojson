@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75118600473756,13.38575393153853],[77.73537530429634,13.38474748616577],[77.74112407911159,13.37046869407908],[77.75118600473756,13.38575393153853]]]},"properties":{"region_id":"village_623644","name":"KOLAVANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83751945526778,16.30839973005445],[75.82922087240655,16.34843363029767],[75.81548410844886,16.33718367446773],[75.82463122039596,16.32752765635417],[75.8291344687835,16.3109085177027],[75.83751945526778,16.30839973005445]]]},"properties":{"region_id":"village_598810","name":"MUTTATTI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

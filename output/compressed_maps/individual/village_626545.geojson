@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35600756983753,12.42513169463872],[77.33956800069494,12.42216226732937],[77.35254113127775,12.40953816755937],[77.35600756983753,12.42513169463872]]]},"properties":{"region_id":"village_626545","name":"CHIKKAMUDUDE","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

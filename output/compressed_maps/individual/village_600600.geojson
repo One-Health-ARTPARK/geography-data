@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11131444137149,16.48480650294004],[77.09475418301163,16.49463178573993],[77.07924374039298,16.46268029982354],[77.10046998767841,16.45154644959695],[77.11131444137149,16.48480650294004]]]},"properties":{"region_id":"village_600600","name":"HERUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

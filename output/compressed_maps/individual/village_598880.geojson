@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8517721101925,16.06423155879043],[75.88297070903948,16.06294285731057],[75.86843067923967,16.08223598566924],[75.8607687753855,16.07834843248042],[75.8517721101925,16.06423155879043]]]},"properties":{"region_id":"village_598880","name":"HUVINAHALLI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

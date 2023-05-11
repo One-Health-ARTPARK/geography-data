@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0779572260253,15.11043214455004],[75.0519316871328,15.09575198217912],[75.05458638164669,15.07308474438756],[75.08174520221509,15.07441027968975],[75.0779572260253,15.11043214455004]]]},"properties":{"region_id":"village_602518","name":"BENDALGATTI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

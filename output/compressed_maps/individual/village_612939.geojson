@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57103110681673,13.14155951415899],[77.55062205885369,13.13256899074175],[77.56966337848174,13.12502235253296],[77.57103110681673,13.14155951415899]]]},"properties":{"region_id":"village_612939","name":"AVALAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

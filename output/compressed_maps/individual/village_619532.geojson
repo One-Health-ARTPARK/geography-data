@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8277282215952,11.79096354030123],[76.81600616230513,11.82620668771665],[76.77269117798544,11.82778496681005],[76.78284189217874,11.78269211799044],[76.82436234775452,11.77683325350988],[76.8277282215952,11.79096354030123]]]},"properties":{"region_id":"village_619532","name":"TERAKANAMBI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

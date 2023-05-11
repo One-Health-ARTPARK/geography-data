@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69108140106688,13.52215481469541],[76.6823715750547,13.5372586780877],[76.6680751335317,13.53319528520903],[76.67084645062293,13.5165132870786],[76.69108140106688,13.52215481469541]]]},"properties":{"region_id":"village_610152","name":"SIDDANAKATTE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

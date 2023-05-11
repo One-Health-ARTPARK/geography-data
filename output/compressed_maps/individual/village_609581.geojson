@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33580075489856,13.54028378690442],[76.32460815824938,13.55470932267145],[76.32153285032749,13.54191350205185],[76.33580075489856,13.54028378690442]]]},"properties":{"region_id":"village_609581","name":"THUBINAKERE","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

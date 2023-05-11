@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80714131153485,13.69718734843503],[74.78806443257366,13.70441431147221],[74.75467183763973,13.67520454818053],[74.77824887041903,13.66392776341715],[74.80714131153485,13.69718734843503]]]},"properties":{"region_id":"village_608704","name":"KARKUNJE","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

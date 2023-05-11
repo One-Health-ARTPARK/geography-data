@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21338707279726,12.48492882550932],[77.17841277615408,12.47944208077333],[77.19169564303179,12.46412805752779],[77.21338707279726,12.48492882550932]]]},"properties":{"region_id":"village_614751","name":"SAGYASARAGUR","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

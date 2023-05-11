@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75766912438252,15.10233354602959],[76.75508101400462,15.12846254058676],[76.73775682326539,15.12020573974177],[76.75766912438252,15.10233354602959]]]},"properties":{"region_id":"village_605025","name":"APPALAPUR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

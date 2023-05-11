@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74308634888664,12.69963825437678],[76.73003866786007,12.70475120330062],[76.72321871147534,12.69473575793521],[76.7321092492026,12.68861725021988],[76.74308634888664,12.69963825437678]]]},"properties":{"region_id":"village_614025","name":"YALLEKOPPALA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

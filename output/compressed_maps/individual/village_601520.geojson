@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43836167178347,15.82475803100154],[76.44889483620317,15.85273819405679],[76.41678514591491,15.86481902258281],[76.43836167178347,15.82475803100154]]]},"properties":{"region_id":"village_601520","name":"KILARHATTI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

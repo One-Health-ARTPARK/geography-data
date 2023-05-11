@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76735916672473,15.09941370607266],[75.74713123440017,15.11262477774086],[75.73910877099529,15.0809991452593],[75.769745687564,15.08272895316679],[75.76735916672473,15.09941370607266]]]},"properties":{"region_id":"village_602190","name":"MALLIKARJUNAPURA","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

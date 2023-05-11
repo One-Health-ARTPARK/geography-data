@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32950763858555,13.71422896279367],[76.30415111506652,13.71274486190543],[76.3117116196401,13.68821417562288],[76.33251444828973,13.68922178078765],[76.32950763858555,13.71422896279367]]]},"properties":{"region_id":"village_605950","name":"KALKERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

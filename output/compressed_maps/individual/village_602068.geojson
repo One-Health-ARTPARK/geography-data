@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47264945519379,15.12307147029949],[75.45324080619528,15.10825925388911],[75.47791194019473,15.09934715824138],[75.47264945519379,15.12307147029949]]]},"properties":{"region_id":"village_602068","name":"PETHABAN","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

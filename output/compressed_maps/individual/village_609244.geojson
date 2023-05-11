@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9701279834675,13.80415927758278],[75.96173387252803,13.80394486711298],[75.9588186457937,13.79109864011046],[75.96810249145875,13.79058363550679],[75.9701279834675,13.80415927758278]]]},"properties":{"region_id":"village_609244","name":"GUNDASAMUDRA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

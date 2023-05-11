@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48974762262694,15.98833636195496],[77.47893557229605,15.97879717204414],[77.48286420053556,15.96151789196965],[77.50004401316839,15.97233015935755],[77.48974762262694,15.98833636195496]]]},"properties":{"region_id":"village_600882","name":"MIRZAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

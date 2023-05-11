@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.4017729678866,13.0680359694586],[78.38839276861151,13.06346474159516],[78.39020212025699,13.05467689408698],[78.40083078310946,13.05072461230832],[78.4017729678866,13.0680359694586]]]},"properties":{"region_id":"village_622982","name":"SUNNANGUR","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

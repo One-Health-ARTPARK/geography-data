@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19288584253852,15.17035679580235],[76.16362686907104,15.17456077105359],[76.14644749414907,15.15447873479885],[76.17275053630276,15.14469649191071],[76.19288584253852,15.17035679580235]]]},"properties":{"region_id":"village_604657","name":"THAMBRAHALLI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65784987256225,11.86866053977933],[76.63663067239193,11.87475820695458],[76.63991316382423,11.85845804110014],[76.65292851380508,11.85530334617646],[76.65784987256225,11.86866053977933]]]},"properties":{"region_id":"village_619486","name":"HONAKAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

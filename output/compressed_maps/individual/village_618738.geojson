@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61677433094513,12.23755269196068],[76.63501550766486,12.22744288327252],[76.63885895439506,12.24367178910222],[76.61677433094513,12.23755269196068]]]},"properties":{"region_id":"village_618738","name":"GURUR","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

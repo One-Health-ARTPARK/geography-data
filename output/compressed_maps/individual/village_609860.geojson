@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65599803477787,13.18010696170856],[75.67526883370982,13.20758467006232],[75.66335625922868,13.21505190933547],[75.65599803477787,13.18010696170856]]]},"properties":{"region_id":"village_609860","name":"MACHAGONDANAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

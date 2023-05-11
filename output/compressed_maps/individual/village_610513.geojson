@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02394035069015,13.53293493180334],[77.02291818802566,13.543849316951],[77.01478156045064,13.54617370022978],[77.0097858420665,13.53577420210659],[77.02394035069015,13.53293493180334]]]},"properties":{"region_id":"village_610513","name":"SALUPARAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18105926356101,12.94590370301249],[77.1711744943164,12.94746906976579],[77.17027943915038,12.94035394506022],[77.17805076228737,12.93748174781536],[77.18105926356101,12.94590370301249]]]},"properties":{"region_id":"village_625963","name":"KEMPASAGARA","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01255642656555,12.39519270347555],[77.0052051034915,12.39238806713034],[76.99928807230573,12.37569393411929],[77.00972084039945,12.37592340325095],[77.01255642656555,12.39519270347555]]]},"properties":{"region_id":"village_614676","name":"KALLAREPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

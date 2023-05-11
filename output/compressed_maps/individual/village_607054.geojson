@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93874702802718,14.03455739899765],[75.92061645923494,14.02907511208663],[75.91415247831132,14.01400726804748],[75.93643062328735,14.01059312029709],[75.93874702802718,14.03455739899765]]]},"properties":{"region_id":"village_607054","name":"CHANNAGIRI (RURAL)","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

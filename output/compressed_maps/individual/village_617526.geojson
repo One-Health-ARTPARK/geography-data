@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06401351365109,13.00010486663127],[75.06454279389276,13.00902940784469],[75.03236444075606,13.01409062072431],[75.03638712773662,12.99090304137244],[75.06401351365109,13.00010486663127]]]},"properties":{"region_id":"village_617526","name":"SANGABETTU","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

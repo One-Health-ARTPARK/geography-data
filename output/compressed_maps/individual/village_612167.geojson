@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50046606052541,13.16633761331055],[76.48658396812964,13.15943043389515],[76.49406040932122,13.15191673882391],[76.50046606052541,13.16633761331055]]]},"properties":{"region_id":"village_612167","name":"MACHAGHATTA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

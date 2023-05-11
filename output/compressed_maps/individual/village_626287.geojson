@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31315590629258,12.57705961009686],[77.29485140903505,12.58908493461267],[77.28923457414666,12.57001669856576],[77.31315590629258,12.57705961009686]]]},"properties":{"region_id":"village_626287","name":"MENASIGANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

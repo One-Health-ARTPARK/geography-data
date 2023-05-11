@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10017280657858,17.97500972567457],[77.08677219891302,17.97247895208112],[77.0907328851758,17.95422106608713],[77.09966163487219,17.95237844550596],[77.10017280657858,17.97500972567457]]]},"properties":{"region_id":"village_599927","name":"HALGORTA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

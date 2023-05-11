@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60865035007208,13.47538479863955],[77.58718915442361,13.47955790196044],[77.58888479203273,13.45744778913854],[77.60865035007208,13.47538479863955]]]},"properties":{"region_id":"village_623419","name":"SHAMPURA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

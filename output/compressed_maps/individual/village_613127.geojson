@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5625605001502,12.83897186945196],[77.551436640359,12.8479607240891],[77.54451640627127,12.82240715405637],[77.55139614688443,12.81827260257793],[77.5625605001502,12.83897186945196]]]},"properties":{"region_id":"village_613127","name":"KANNAIKANA AGRAHARA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

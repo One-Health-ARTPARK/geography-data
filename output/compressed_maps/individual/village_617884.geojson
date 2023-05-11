@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91367384312788,12.73441516715775],[75.90388633048754,12.74098668362228],[75.90081862560746,12.73292269351823],[75.90904374624841,12.72943719059493],[75.91367384312788,12.73441516715775]]]},"properties":{"region_id":"village_617884","name":"BELLARAHALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

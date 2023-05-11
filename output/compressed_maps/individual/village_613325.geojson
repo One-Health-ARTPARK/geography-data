@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69649186544291,12.72614480893392],[77.68916215293443,12.72761589543185],[77.68259367547307,12.72102695557883],[77.68708213257035,12.71740024442536],[77.69131983413325,12.72442383531744],[77.69649186544291,12.72614480893392]]]},"properties":{"region_id":"village_613325","name":"HASARUVANI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

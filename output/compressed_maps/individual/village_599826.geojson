@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87339181665943,17.71792956951962],[76.85901608173049,17.72185817202385],[76.84617536536466,17.69713419896075],[76.88138703282424,17.69396170874424],[76.87339181665943,17.71792956951962]]]},"properties":{"region_id":"village_599826","name":"HARKUD","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

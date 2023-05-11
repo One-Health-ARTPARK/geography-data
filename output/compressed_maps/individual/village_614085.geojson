@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68401299780189,12.55449997109282],[76.69184720909305,12.56553566531621],[76.68147456242977,12.57632728105305],[76.67476071851016,12.5586929131768],[76.68401299780189,12.55449997109282]]]},"properties":{"region_id":"village_614085","name":"BEERANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

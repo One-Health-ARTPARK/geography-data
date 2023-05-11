@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62114791767571,12.83502086693461],[77.60522824281519,12.83523087236234],[77.62219927853303,12.81797298825029],[77.62114791767571,12.83502086693461]]]},"properties":{"region_id":"village_613144","name":"HULLAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72555751470762,14.74818349294802],[76.67951739848058,14.74276535560132],[76.6835398256762,14.72018357386218],[76.71838144203792,14.72138504992765],[76.72555751470762,14.74818349294802]]]},"properties":{"region_id":"village_605200","name":"HANAGAL","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

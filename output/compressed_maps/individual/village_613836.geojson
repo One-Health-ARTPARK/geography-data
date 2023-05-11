@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74687662500826,12.94084696024795],[76.73035864133011,12.9393571196892],[76.73319521928613,12.92732221592618],[76.74819342213104,12.92993320215882],[76.74687662500826,12.94084696024795]]]},"properties":{"region_id":"village_613836","name":"KABBINAKERE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

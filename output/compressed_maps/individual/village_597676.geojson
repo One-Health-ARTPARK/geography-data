@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.51271229150782,15.99223297365984],[74.49601526064731,16.00510711511568],[74.47802340073946,15.99733629929012],[74.48173901598327,15.9766921325067],[74.51271229150782,15.99223297365984]]]},"properties":{"region_id":"village_597676","name":"BAMBARGE","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

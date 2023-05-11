@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33413408903841,13.13632355911878],[77.334079949907,13.14083616275143],[77.32123526243949,13.14213666799269],[77.32872726278814,13.13378955332087],[77.33413408903841,13.13632355911878]]]},"properties":{"region_id":"village_624895","name":"ARALEDIBBA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

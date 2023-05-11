@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9412637188904,16.49346065583105],[75.91313610138133,16.49776873500051],[75.91979378813086,16.45395716338203],[75.94493444994436,16.46353333939708],[75.9412637188904,16.49346065583105]]]},"properties":{"region_id":"village_599515","name":"HANGARGI","parent":"subdistrict_5452","parent_name":"BASAVANA BAGEVADI"}}
+]}

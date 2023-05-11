@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04414906001645,14.15108875020829],[75.04083281400187,14.16482084483755],[75.03127922272651,14.16270296378869],[75.02857475654766,14.14871435490846],[75.04414906001645,14.15108875020829]]]},"properties":{"region_id":"village_607197","name":"KAMBALIKOPPA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72899136274955,12.01884035981261],[76.6991314302506,12.02109292166405],[76.69801339639692,12.00578433822949],[76.72970886417002,12.00630154018767],[76.72899136274955,12.01884035981261]]]},"properties":{"region_id":"village_619291","name":"KOODLAPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

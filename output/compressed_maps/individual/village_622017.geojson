@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.1022779597992,13.14652875288559],[78.08344449229048,13.15042933293806],[78.08368061914251,13.13000333431392],[78.09711128649502,13.12728262237919],[78.1022779597992,13.14652875288559]]]},"properties":{"region_id":"village_622017","name":"PAPARAJANAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

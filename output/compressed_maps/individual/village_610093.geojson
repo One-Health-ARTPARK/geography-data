@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63154694171111,13.67042823693073],[76.60236500211424,13.67268510084],[76.61721709482282,13.63656807580156],[76.63828799594391,13.65273759667039],[76.63154694171111,13.67042823693073]]]},"properties":{"region_id":"village_610093","name":"NULENOOR","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

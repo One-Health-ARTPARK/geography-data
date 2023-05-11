@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6300452527158,13.48901991852604],[77.62401522019975,13.49308793466402],[77.61878515219318,13.48118450699219],[77.63371429511821,13.48201259351836],[77.6300452527158,13.48901991852604]]]},"properties":{"region_id":"village_623589","name":"VALASENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

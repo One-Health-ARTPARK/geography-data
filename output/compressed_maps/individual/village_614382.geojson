@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9079780230433,12.61370443323105],[76.88989435125701,12.61564586256795],[76.88343385030566,12.60450944915413],[76.90610388870896,12.60601505974379],[76.9079780230433,12.61370443323105]]]},"properties":{"region_id":"village_614382","name":"S.I.KODIHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

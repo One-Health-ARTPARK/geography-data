@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95773878626403,16.04632570867598],[76.97003797282002,16.03247231779098],[76.99445979035661,16.03312447742928],[76.97833295051457,16.06362397639612],[76.95773878626403,16.04632570867598]]]},"properties":{"region_id":"village_600966","name":"ALDHAL","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

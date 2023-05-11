@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11666339271966,15.17900274659844],[75.10910448324272,15.19931627308342],[75.08113542370342,15.18840898658001],[75.08418861194811,15.17678079252775],[75.11666339271966,15.17900274659844]]]},"properties":{"region_id":"village_602494","name":"NAGANUR","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

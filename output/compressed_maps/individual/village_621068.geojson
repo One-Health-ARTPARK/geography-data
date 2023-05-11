@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84978164810991,16.4653482854059],[76.8532134271339,16.48822154980252],[76.83850545304449,16.49597959659032],[76.82436467943336,16.47479496170694],[76.84978164810991,16.4653482854059]]]},"properties":{"region_id":"village_621068","name":"KARNAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

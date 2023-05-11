@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77771114302253,12.3407882871977],[75.76577128604798,12.3410423692486],[75.74715065080679,12.31256186078422],[75.7685914159994,12.30518715535718],[75.7755208210634,12.3213166067404],[75.77771114302253,12.3407882871977]]]},"properties":{"region_id":"village_617832","name":"KANTHUR","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

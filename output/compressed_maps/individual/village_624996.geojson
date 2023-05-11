@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3895942885746,13.35604280626345],[77.37495950380804,13.3593743785452],[77.37499927763669,13.34462360811363],[77.38681026721481,13.33936526777368],[77.3895942885746,13.35604280626345]]]},"properties":{"region_id":"village_624996","name":"ADAKAVALA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

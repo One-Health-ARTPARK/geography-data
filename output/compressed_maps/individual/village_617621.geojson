@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16135891914311,13.06315449949374],[75.13854231482566,13.05206955046706],[75.15681735897272,13.03143868077715],[75.1836683288528,13.04261234763753],[75.16135891914311,13.06315449949374]]]},"properties":{"region_id":"village_617621","name":"ANDINJE","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

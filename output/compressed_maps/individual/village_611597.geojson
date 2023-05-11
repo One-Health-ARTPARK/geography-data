@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1487339683568,13.22054272167139],[77.13636476392448,13.22282335515803],[77.13460913966362,13.21219016142237],[77.14529900747611,13.21300239558796],[77.1487339683568,13.22054272167139]]]},"properties":{"region_id":"village_611597","name":"BUCHANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4904587867567,13.23055223385963],[76.48993815318372,13.24077500929256],[76.47738197593956,13.24260119017533],[76.47882396964617,13.22809245066814],[76.4904587867567,13.23055223385963]]]},"properties":{"region_id":"village_612094","name":"HAVENAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

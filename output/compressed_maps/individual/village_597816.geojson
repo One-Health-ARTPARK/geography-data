@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.33432086311966,15.62550238704659],[74.31169332838923,15.65458581378],[74.26262543674912,15.6187319751054],[74.2794275845905,15.59504629394906],[74.33432086311966,15.62550238704659]]]},"properties":{"region_id":"village_597816","name":"AMAGAON","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

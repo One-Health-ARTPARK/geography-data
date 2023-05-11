@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70052842545331,14.09175320158637],[75.70131347225632,14.07243345115343],[75.72554008162327,14.07594243573133],[75.70052842545331,14.09175320158637]]]},"properties":{"region_id":"village_606848","name":"MALALI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

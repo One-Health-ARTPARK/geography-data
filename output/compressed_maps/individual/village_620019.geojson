@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71885007873546,17.60230156696209],[76.70055572395619,17.60953384145707],[76.687196058877,17.5870914741176],[76.71316850883245,17.58070029036914],[76.71885007873546,17.60230156696209]]]},"properties":{"region_id":"village_620019","name":"DEGAON","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

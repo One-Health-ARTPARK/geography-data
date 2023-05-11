@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48980823698594,17.46835304398127],[77.45921683293022,17.46890988938284],[77.46394524165521,17.44347554485865],[77.48980823698594,17.46835304398127]]]},"properties":{"region_id":"village_620389","name":"KALBHAVI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

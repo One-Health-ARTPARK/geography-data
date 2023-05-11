@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.21134614681074,13.40048772141774],[78.19465137515849,13.39753653819078],[78.21882449649277,13.37914716799074],[78.22183025384533,13.39063466154506],[78.21134614681074,13.40048772141774]]]},"properties":{"region_id":"village_621461","name":"KAMBALAPALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59584139330998,13.23155974233638],[76.56972532316816,13.22603053672713],[76.5699771911429,13.21165339283268],[76.59058968082215,13.21056755578625],[76.59584139330998,13.23155974233638]]]},"properties":{"region_id":"village_612063","name":"KOTIGEHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

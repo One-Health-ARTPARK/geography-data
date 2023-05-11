@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63663125103751,12.24740215840907],[76.63604771445371,12.22926234769005],[76.65423742653586,12.22236507804739],[76.66585180175397,12.24237680354288],[76.63663125103751,12.24740215840907]]]},"properties":{"region_id":"village_618739","name":"MANDAKALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14298722422045,13.63483409382383],[75.12805450526325,13.6343220282883],[75.12057231399206,13.6190447618342],[75.13359051310044,13.61541246018463],[75.14298722422045,13.63483409382383]]]},"properties":{"region_id":"village_608276","name":"BILUMANE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

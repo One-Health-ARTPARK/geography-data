@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0371194421904,12.29612434525316],[77.0318471816306,12.29855206880169],[77.01424558780737,12.30050814237193],[77.02143387350847,12.28780375958272],[77.0371194421904,12.29612434525316]]]},"properties":{"region_id":"village_614821","name":"MALLINATHAPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

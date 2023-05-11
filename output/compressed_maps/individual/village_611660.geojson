@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82761604437135,13.43299058813509],[76.81312812599046,13.4325496039697],[76.81649989452183,13.4249487303958],[76.82761604437135,13.43299058813509]]]},"properties":{"region_id":"village_611660","name":"THIMMALAPURA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

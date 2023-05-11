@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4568331512793,12.85309831710632],[77.44102880440235,12.85535370169688],[77.43435201646004,12.84548323974799],[77.45281077194186,12.83890948192719],[77.4568331512793,12.85309831710632]]]},"properties":{"region_id":"village_613027","name":"KUMBALAGODU GOLLAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

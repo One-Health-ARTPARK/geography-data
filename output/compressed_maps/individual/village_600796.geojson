@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4013238234085,16.15466180786501],[77.38510521277648,16.12674058311888],[77.40369484130686,16.12795346042426],[77.4013238234085,16.15466180786501]]]},"properties":{"region_id":"village_600796","name":"MITTIMALKAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

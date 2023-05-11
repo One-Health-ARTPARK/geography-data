@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33150134564245,13.70640910832372],[77.32528718625126,13.72391215846002],[77.32022193318429,13.71027267036691],[77.33150134564245,13.70640910832372]]]},"properties":{"region_id":"village_610947","name":"GOVINDANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

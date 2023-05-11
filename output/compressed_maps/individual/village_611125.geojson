@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32950833561587,13.51080148574778],[77.32616059376052,13.52194280614433],[77.30833908452077,13.52133037426356],[77.30895014566025,13.51049396203711],[77.32950833561587,13.51080148574778]]]},"properties":{"region_id":"village_611125","name":"SHAKUNI THIMMANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

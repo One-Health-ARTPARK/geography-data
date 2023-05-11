@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77445098362736,17.17410676930166],[75.74770511834166,17.18953639397344],[75.72512110048974,17.16706909373675],[75.75759517101375,17.14177776970563],[75.77445098362736,17.17410676930166]]]},"properties":{"region_id":"village_599221","name":"HADALASANG","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93264837811383,15.77576546514482],[75.90128108573614,15.76465812074466],[75.89740470061864,15.75055576566228],[75.91534950292942,15.74634674743441],[75.93264837811383,15.77576546514482]]]},"properties":{"region_id":"village_601977","name":"DINDUR","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

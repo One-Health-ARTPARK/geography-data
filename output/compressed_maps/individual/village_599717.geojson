@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29674483563818,16.42123849551182],[76.29626515295021,16.44808328993966],[76.28585437871843,16.45263150002321],[76.28736712908874,16.43093321579468],[76.29674483563818,16.42123849551182]]]},"properties":{"region_id":"village_599717","name":"KALADEVANAHALLI","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

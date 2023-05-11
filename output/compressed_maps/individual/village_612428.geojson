@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83286784482024,13.04931865222769],[76.8198219264553,13.049005078355],[76.8206907696213,13.03774761519786],[76.83442782393408,13.03523787185463],[76.83286784482024,13.04931865222769]]]},"properties":{"region_id":"village_612428","name":"KAMANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

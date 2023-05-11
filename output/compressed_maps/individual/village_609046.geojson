@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48541280324517,13.726261423695],[75.460700392318,13.74009071555379],[75.4546211090363,13.71092908553154],[75.48192579815701,13.71113863556176],[75.48541280324517,13.726261423695]]]},"properties":{"region_id":"village_609046","name":"MUTHINAKOPPA","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

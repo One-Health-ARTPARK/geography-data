@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78453332000521,13.05934280466626],[74.77717575211477,13.07077701553659],[74.78068136420478,13.04882007099586],[74.78756117862632,13.05104033270992],[74.78453332000521,13.05934280466626]]]},"properties":{"region_id":"village_617435","name":"SASIHITHLU","parent":"subdistrict_7198","parent_name":"MULKI"}}
+]}

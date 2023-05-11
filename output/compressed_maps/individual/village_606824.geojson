@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6661109355953,14.23691157313538],[75.6532337618592,14.23641605209948],[75.65386524650671,14.21895758889056],[75.66463320485659,14.21983952337362],[75.6661109355953,14.23691157313538]]]},"properties":{"region_id":"village_606824","name":"DEVANAYAKANAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

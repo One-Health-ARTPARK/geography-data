@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71240249616505,12.7930606202409],[77.68908076157336,12.79228696011559],[77.70239021491795,12.77433818524584],[77.71240249616505,12.7930606202409]]]},"properties":{"region_id":"village_613265","name":"IGGALUR","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

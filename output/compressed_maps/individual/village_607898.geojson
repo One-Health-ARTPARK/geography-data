@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11283811658954,13.99421497724939],[75.0919693423531,13.99390638371964],[75.08770763265464,13.98272021895214],[75.10664877806016,13.9772087689643],[75.11283811658954,13.99421497724939]]]},"properties":{"region_id":"village_607898","name":"KACHIGEBYLU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

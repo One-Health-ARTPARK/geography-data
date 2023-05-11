@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3142746643409,12.44436778165636],[77.29669580049936,12.45078231633815],[77.29289182655215,12.43455963843504],[77.3067712872697,12.4318905698491],[77.3142746643409,12.44436778165636]]]},"properties":{"region_id":"village_626525","name":"KEMMALE","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

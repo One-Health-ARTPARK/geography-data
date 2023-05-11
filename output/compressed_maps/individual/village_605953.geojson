@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34524390607116,13.68907492654353],[76.33236415808119,13.68916485726835],[76.33292470553418,13.67089819609994],[76.36048614755772,13.67784683631575],[76.34524390607116,13.68907492654353]]]},"properties":{"region_id":"village_605953","name":"TUMBINAKERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

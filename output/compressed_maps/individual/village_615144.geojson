@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81180334932043,13.06434976171842],[75.80211352567103,13.06398241814579],[75.7953457321668,13.04103957102206],[75.8061305895735,13.04057487060842],[75.81737187330047,13.05610151614867],[75.81180334932043,13.06434976171842]]]},"properties":{"region_id":"village_615144","name":"AREHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72396007448411,12.96067915000894],[77.71452176229265,12.96228348555583],[77.71687337015024,12.94427909753432],[77.72221689118176,12.94695954246884],[77.72396007448411,12.96067915000894]]]},"properties":{"region_id":"village_938279","name":"TOBARAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

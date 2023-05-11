@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50643606178993,16.07937399470388],[76.5064941961141,16.11972754528727],[76.49538722403662,16.1257079420673],[76.48540042924787,16.0784209728124],[76.50643606178993,16.07937399470388]]]},"properties":{"region_id":"village_600433","name":"HUNKUNTI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

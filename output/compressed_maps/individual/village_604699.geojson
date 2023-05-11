@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3525220512968,15.19071511256348],[76.3492298050017,15.20723274042998],[76.33620261169023,15.20681646793343],[76.3369135528539,15.17940902605658],[76.3525220512968,15.19071511256348]]]},"properties":{"region_id":"village_604699","name":"112 VENKATAPURA","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19357912243511,13.77010542613397],[75.18101985467844,13.77518818610821],[75.17758827105578,13.76347541317127],[75.19353351684035,13.75852185133277],[75.19357912243511,13.77010542613397]]]},"properties":{"region_id":"village_608187","name":"KADEGADDE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84615224336353,14.23788521444053],[75.83179826562306,14.24180290133829],[75.82108104800065,14.22760862507565],[75.84589715915645,14.22617098034829],[75.84615224336353,14.23788521444053]]]},"properties":{"region_id":"village_606888","name":"SANGAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

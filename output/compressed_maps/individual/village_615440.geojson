@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92786136836507,13.10102148096864],[75.90994749895569,13.10173927589961],[75.90673204455311,13.09201640016534],[75.92017584498234,13.0896149911892],[75.92786136836507,13.10102148096864]]]},"properties":{"region_id":"village_615440","name":"CHANDANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

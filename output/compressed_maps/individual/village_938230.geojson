@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64690118864078,13.05511532289251],[77.63841993426671,13.05485840891385],[77.63708962007686,13.04468444806817],[77.64747656864147,13.04752551511989],[77.64690118864078,13.05511532289251]]]},"properties":{"region_id":"village_938230","name":"GEDDALAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

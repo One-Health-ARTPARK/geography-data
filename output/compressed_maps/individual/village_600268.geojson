@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10565553927934,17.86796409644617],[77.06939851188874,17.87504253962457],[77.0797884988067,17.84170092991948],[77.10565553927934,17.86796409644617]]]},"properties":{"region_id":"village_600268","name":"HUNSGERA","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

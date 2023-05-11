@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71489578973085,13.24415838132568],[76.69620727254072,13.24794274882544],[76.7010568438806,13.24093148710463],[76.71489578973085,13.24415838132568]]]},"properties":{"region_id":"village_612282","name":"ARAKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26875930234586,17.03630749734682],[76.25382152153749,17.0477089033286],[76.2449956542745,17.02364966381488],[76.26607180595265,17.02137664349078],[76.26875930234586,17.03630749734682]]]},"properties":{"region_id":"village_599313","name":"MADARI","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

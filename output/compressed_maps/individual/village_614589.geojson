@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06272827946073,12.59077320193342],[77.06385906775567,12.59904834171513],[77.05999165323419,12.59608171898893],[77.05624091531936,12.59516752247846],[77.06090414910408,12.59080661962574],[77.06272827946073,12.59077320193342]]]},"properties":{"region_id":"village_614589","name":"AGRALINGANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

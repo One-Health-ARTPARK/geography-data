@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62419340172175,14.66622185322015],[76.59822729351593,14.66986735652313],[76.59757647859959,14.65378613779825],[76.61242471683344,14.64836075829082],[76.62419340172175,14.66622185322015]]]},"properties":{"region_id":"village_605216","name":"CHIKKOBANAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

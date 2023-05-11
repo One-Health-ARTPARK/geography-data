@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1131130257997,16.26361285972978],[76.11302778602087,16.27283705193167],[76.08613752403741,16.28078398803562],[76.08641062343544,16.26938097994379],[76.1131130257997,16.26361285972978]]]},"properties":{"region_id":"village_599629","name":"BANOSHI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

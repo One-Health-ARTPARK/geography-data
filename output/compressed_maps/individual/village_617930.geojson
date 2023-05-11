@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83322608615966,12.53686779826455],[75.82505001509779,12.55454518902435],[75.81068909827427,12.56824593299999],[75.80224522132671,12.55777471881176],[75.82200989422435,12.52997760431854],[75.83322608615966,12.53686779826455]]]},"properties":{"region_id":"village_617930","name":"BILIGERI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

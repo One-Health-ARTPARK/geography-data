@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71065078210276,13.70262552943531],[75.71071651220669,13.68350376767278],[75.73383875388201,13.6578229417777],[75.74148496251163,13.67632097046503],[75.71065078210276,13.70262552943531]]]},"properties":{"region_id":"village_609120","name":"SHANTHIPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

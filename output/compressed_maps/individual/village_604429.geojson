@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48056406874862,14.47003070868703],[75.45686425295028,14.47380937204141],[75.47125871586668,14.44523161537407],[75.48056406874862,14.47003070868703]]]},"properties":{"region_id":"village_604429","name":"HIREYADACHI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

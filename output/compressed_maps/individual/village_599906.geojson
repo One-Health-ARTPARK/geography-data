@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1807442320092,18.02431866941377],[77.17390150999903,18.03091085980265],[77.15753848906078,18.02870422701267],[77.15503214697532,18.0207208954486],[77.16621483219248,18.01885393609432],[77.1807442320092,18.02431866941377]]]},"properties":{"region_id":"village_599906","name":"EKLASPUR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

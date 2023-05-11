@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53558143737217,13.23846184599136],[76.52098200763275,13.25227236965386],[76.51175600857269,13.22604340865418],[76.53959265497564,13.22469847954246],[76.53558143737217,13.23846184599136]]]},"properties":{"region_id":"village_612091","name":"EACHANUR","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

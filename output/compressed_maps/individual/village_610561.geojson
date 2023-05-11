@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28342014991033,14.28222315390497],[77.25628731596366,14.21405274113643],[77.30760470814192,14.20778467451638],[77.32766068512599,14.24005291325534],[77.28342014991033,14.28222315390497]]]},"properties":{"region_id":"village_610561","name":"KAMANADURGA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58589425592263,17.14886154085652],[76.57458427769166,17.12740076672664],[76.60421298017357,17.12056944005461],[76.6124242749948,17.14051668844153],[76.58589425592263,17.14886154085652]]]},"properties":{"region_id":"village_620172","name":"HASARGUNDGI","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

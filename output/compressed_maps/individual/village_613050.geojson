@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51066916233461,12.78820727496211],[77.49702304616227,12.78986362274891],[77.49352004116746,12.76298795057735],[77.50823338199233,12.7590454697801],[77.51066916233461,12.78820727496211]]]},"properties":{"region_id":"village_613050","name":"SOMANAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

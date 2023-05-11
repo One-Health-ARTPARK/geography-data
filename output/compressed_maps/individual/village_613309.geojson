@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68205008538816,12.72097079197213],[77.66741799899906,12.72666928311224],[77.6643166599311,12.72191828568167],[77.68205008538816,12.72097079197213]]]},"properties":{"region_id":"village_613309","name":"GOWRENAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

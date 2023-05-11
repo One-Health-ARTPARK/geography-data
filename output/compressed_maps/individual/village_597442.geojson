@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78329844248663,16.1947408687482],[74.77341025059461,16.23426212502693],[74.74774145845755,16.24171628857611],[74.75521298035818,16.20002418137065],[74.78329844248663,16.1947408687482]]]},"properties":{"region_id":"village_597442","name":"DHUPADAL","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

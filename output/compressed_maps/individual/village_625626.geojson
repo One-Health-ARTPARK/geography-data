@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92754022275112,13.06862271669046],[77.94159701572809,13.06911509608591],[77.93903145476565,13.07929867296923],[77.92754022275112,13.06862271669046]]]},"properties":{"region_id":"village_625626","name":"UMMALU","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

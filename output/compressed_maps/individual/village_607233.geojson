@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04866012098822,14.12255289089115],[75.04000471456683,14.1153455183727],[75.05078787536883,14.10829993157111],[75.04866012098822,14.12255289089115]]]},"properties":{"region_id":"village_607233","name":"SHEDTIKERE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

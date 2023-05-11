@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.56343591942252,14.79264328364268],[74.49144786291383,14.72554223785982],[74.52697465065422,14.71193158167682],[74.56343591942252,14.79264328364268]]]},"properties":{"region_id":"village_603350","name":"SUNKSAL","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

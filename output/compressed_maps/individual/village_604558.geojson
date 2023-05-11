@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62467921138719,14.49521236432629],[75.62177756156915,14.51253825330482],[75.61028397632953,14.51137306165574],[75.61150010805413,14.49327098637584],[75.62467921138719,14.49521236432629]]]},"properties":{"region_id":"village_604558","name":"YALABADIGI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

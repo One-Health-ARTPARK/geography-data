@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53982612177067,13.85562254731267],[76.50356533245858,13.85659823034053],[76.50314213557803,13.84393348365132],[76.5412429976998,13.84429616004416],[76.53982612177067,13.85562254731267]]]},"properties":{"region_id":"village_606149","name":"UTTARE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

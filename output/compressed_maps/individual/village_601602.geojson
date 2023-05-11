@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51202169125104,15.51399754789537],[76.4890743338402,15.52001560814685],[76.47786883125958,15.50811290150924],[76.4887424070186,15.49415549963782],[76.51202169125104,15.51399754789537]]]},"properties":{"region_id":"village_601602","name":"KESARHATTI","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

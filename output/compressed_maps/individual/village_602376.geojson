@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08724534803005,15.36173360700372],[75.10045847895151,15.36879212789442],[75.0875810878577,15.37712655153769],[75.06990748585132,15.36820924145182],[75.08724534803005,15.36173360700372]]]},"properties":{"region_id":"village_602376","name":"UNKAL","parent":"subdistrict_7079","parent_name":"HUBBALLI URBAN"}}
+]}

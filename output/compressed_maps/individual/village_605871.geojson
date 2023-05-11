@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36613563104227,13.78885778419709],[76.35573668714737,13.82923638213768],[76.33769485306631,13.80596460454873],[76.36613563104227,13.78885778419709]]]},"properties":{"region_id":"village_605871","name":"KAPPAGERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

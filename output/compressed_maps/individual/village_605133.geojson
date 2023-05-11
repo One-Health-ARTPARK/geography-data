@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51391198974798,14.63503373058229],[76.4879639172017,14.63634914048193],[76.48091148718696,14.61566745187105],[76.50842405415588,14.60110908699021],[76.51391198974798,14.63503373058229]]]},"properties":{"region_id":"village_605133","name":"LOKIKERE","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

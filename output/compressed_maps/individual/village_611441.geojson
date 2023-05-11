@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07920569184789,13.37394983976673],[77.0691045259902,13.3837078130772],[77.05773113840286,13.37119520082774],[77.06202298339139,13.36573067484196],[77.07920569184789,13.37394983976673]]]},"properties":{"region_id":"village_611441","name":"KUPPUR","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

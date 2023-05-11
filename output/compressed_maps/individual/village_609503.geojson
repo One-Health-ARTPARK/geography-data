@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12277146005994,13.427258722362],[76.11345558280188,13.42946897631937],[76.10966948420943,13.42421694940677],[76.12534779063358,13.41745547736751],[76.12277146005994,13.427258722362]]]},"properties":{"region_id":"village_609503","name":"KURUBARAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

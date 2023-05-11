@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15399330788038,17.12794219869235],[77.12606755173411,17.12769958297393],[77.13736747331583,17.10243582248479],[77.15399330788038,17.12794219869235]]]},"properties":{"region_id":"village_620670","name":"ITGA","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

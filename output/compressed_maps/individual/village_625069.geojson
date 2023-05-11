@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5899695008513,13.35081572845945],[77.57848790527142,13.35144945908331],[77.57540071207745,13.33310154593809],[77.59610973550616,13.34058262257733],[77.5899695008513,13.35081572845945]]]},"properties":{"region_id":"village_625069","name":"KANCHIGANALA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

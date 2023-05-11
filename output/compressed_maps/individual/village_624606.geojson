@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93394126332892,13.30583132665802],[77.92652588593408,13.30944209922989],[77.92564658678158,13.3004468970066],[77.93379514895524,13.30026028384167],[77.93394126332892,13.30583132665802]]]},"properties":{"region_id":"village_624606","name":"KADIRAPURA","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

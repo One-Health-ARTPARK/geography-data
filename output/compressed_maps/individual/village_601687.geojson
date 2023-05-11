@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64039849810445,15.58579961287034],[76.60101204636474,15.58352845205841],[76.60886166388276,15.55738768030188],[76.63646264510643,15.55217700534356],[76.64039849810445,15.58579961287034]]]},"properties":{"region_id":"village_601687","name":"HULKIHAL","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

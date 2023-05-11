@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53538516773452,15.8673463227123],[75.51988952586693,15.86944854576229],[75.5151420395794,15.84834973198824],[75.531510250835,15.84122387027992],[75.53538516773452,15.8673463227123]]]},"properties":{"region_id":"village_598729","name":"KALAS","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

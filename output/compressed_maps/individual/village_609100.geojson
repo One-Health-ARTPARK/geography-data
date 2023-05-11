@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47526062269856,13.33094483881654],[75.44294365263615,13.32009391642931],[75.46258441454917,13.28829184587231],[75.47526062269856,13.33094483881654]]]},"properties":{"region_id":"village_609100","name":"HALSUR","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

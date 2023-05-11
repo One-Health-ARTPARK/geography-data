@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80962146364473,14.24630189673151],[75.79175223578783,14.24666817591419],[75.78232579569102,14.23595656118982],[75.80496103635795,14.23950601543576],[75.80962146364473,14.24630189673151]]]},"properties":{"region_id":"village_606884","name":"HARLIPURA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2126956619821,13.54331028600292],[77.20006945381844,13.54598578336859],[77.19623607515541,13.53172270191452],[77.2102986992202,13.52857253627082],[77.2126956619821,13.54331028600292]]]},"properties":{"region_id":"village_611037","name":"GONDIHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

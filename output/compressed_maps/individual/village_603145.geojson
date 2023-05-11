@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80008643239466,14.66308107395985],[74.81416940698591,14.66813090088175],[74.8088837205884,14.68102526035176],[74.7925666518808,14.67168225241944],[74.80008643239466,14.66308107395985]]]},"properties":{"region_id":"village_603145","name":"ANDOLLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

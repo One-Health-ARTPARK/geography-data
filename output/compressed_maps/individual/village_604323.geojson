@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52576826385831,14.74124005042637],[75.49408531540583,14.73681757270128],[75.50594614135245,14.71806391652518],[75.5378887174818,14.71697244491707],[75.52576826385831,14.74124005042637]]]},"properties":{"region_id":"village_604323","name":"ALALAGERI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

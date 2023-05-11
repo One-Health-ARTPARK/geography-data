@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02079823920101,13.07725181450648],[74.99834223121837,13.07578618507063],[74.99124521811947,13.05549197606013],[75.01671471931765,13.05142873105726],[75.02079823920101,13.07725181450648]]]},"properties":{"region_id":"village_938815","name":"PRANTYA","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

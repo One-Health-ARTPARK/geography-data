@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93142383472163,13.24231445209075],[77.94199955145676,13.25791182878007],[77.93332125815893,13.26031897947312],[77.93142383472163,13.24231445209075]]]},"properties":{"region_id":"village_624306","name":"KARIYANAPURA","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

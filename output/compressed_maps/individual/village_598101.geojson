@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78927789926746,15.62224360692388],[74.78236118495842,15.62177582500385],[74.78558222919601,15.6051174985742],[74.79262648496402,15.6072891679176],[74.78927789926746,15.62224360692388]]]},"properties":{"region_id":"village_598101","name":"BASSAPUR","parent":"subdistrict_7043","parent_name":"KITTUR"}}
+]}

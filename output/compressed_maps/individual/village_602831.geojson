@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8293103126195,15.13934352641867],[74.83967438431323,15.1655743802981],[74.81930348637803,15.15794463709334],[74.8293103126195,15.13934352641867]]]},"properties":{"region_id":"village_602831","name":"BOGUR","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

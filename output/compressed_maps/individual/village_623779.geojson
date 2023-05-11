@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80021021571395,13.63851398705484],[77.7781124450748,13.62675654637869],[77.7887400420319,13.61986757128789],[77.80257094260372,13.623708117121],[77.80021021571395,13.63851398705484]]]},"properties":{"region_id":"village_623779","name":"VARLAKONDA","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

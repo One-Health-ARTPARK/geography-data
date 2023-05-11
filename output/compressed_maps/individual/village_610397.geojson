@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01524869620019,13.67491259857928],[76.97741281780962,13.67851663016587],[76.9776631469426,13.65476256769898],[77.01524869620019,13.67491259857928]]]},"properties":{"region_id":"village_610397","name":"DEVAGONDANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79140108738468,17.35835005607842],[76.80470930539616,17.36536573686357],[76.79111219331716,17.37689358468647],[76.79140108738468,17.35835005607842]]]},"properties":{"region_id":"village_620259","name":"PALLAPUR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

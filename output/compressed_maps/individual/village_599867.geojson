@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1031656447035,18.12368545690451],[77.07521820195228,18.12050366211864],[77.0706839245443,18.09674000792693],[77.0846893797179,18.09482254170695],[77.10671519886496,18.1164280581058],[77.1031656447035,18.12368545690451]]]},"properties":{"region_id":"village_599867","name":"BHATSANGVI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5770209622893,11.98270254228687],[76.55140758618441,11.98773928764096],[76.55185820841923,11.9770293488762],[76.57598121263506,11.97281525652002],[76.5770209622893,11.98270254228687]]]},"properties":{"region_id":"village_619159","name":"MALLAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

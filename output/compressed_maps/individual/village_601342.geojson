@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91019728979069,15.52626156727188],[75.96417348509323,15.51572563470724],[75.98270731599327,15.52565157114542],[75.93930221514198,15.53230462430847],[75.91672518674854,15.53268969141261],[75.91019728979069,15.52626156727188]]]},"properties":{"region_id":"village_601342","name":"RAJOOR","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

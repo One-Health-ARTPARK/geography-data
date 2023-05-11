@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43039078314757,12.61469135252738],[76.41919492087021,12.6164092490033],[76.41281197601941,12.62111003272366],[76.40609474964185,12.60941389562483],[76.42004497102197,12.60251588443735],[76.43039078314757,12.61469135252738]]]},"properties":{"region_id":"village_613570","name":"HARIHARAPURA","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

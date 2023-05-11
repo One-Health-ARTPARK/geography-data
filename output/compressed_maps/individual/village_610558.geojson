@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24781591315934,14.16475831149623],[77.23123839233106,14.17645021101201],[77.22462345702046,14.15696088011297],[77.24781591315934,14.16475831149623]]]},"properties":{"region_id":"village_610558","name":"TALAMARADAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11899409788211,13.68025108702164],[77.11960680523487,13.69377398022086],[77.10931808215427,13.6885330424343],[77.10755181731786,13.67742237875344],[77.11899409788211,13.68025108702164]]]},"properties":{"region_id":"village_610745","name":"THONACHAGONDANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

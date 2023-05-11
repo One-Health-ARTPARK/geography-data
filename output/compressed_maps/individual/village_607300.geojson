@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27614908788502,14.05049530981147],[75.24821573342244,14.05782976398452],[75.24789407043554,14.04892461330884],[75.27614908788502,14.05049530981147]]]},"properties":{"region_id":"village_607300","name":"LAKKAVALLI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

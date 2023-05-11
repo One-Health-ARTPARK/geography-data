@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69195604225582,12.66046669605574],[77.71086298523004,12.66639355073217],[77.71081722940349,12.68372178103143],[77.69195604225582,12.66046669605574]]]},"properties":{"region_id":"village_613333","name":"MENASIGANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

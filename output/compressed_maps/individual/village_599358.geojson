@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33610850337587,16.89960604884982],[76.32722359033413,16.91571789016762],[76.30883187809411,16.89129121508432],[76.33610850337587,16.89960604884982]]]},"properties":{"region_id":"village_599358","name":"BYALIHAL","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86056107848924,13.08104089462427],[74.81561931149366,13.07562473603879],[74.82407965717651,13.05815486913079],[74.85996587225719,13.06615893976914],[74.86056107848924,13.08104089462427]]]},"properties":{"region_id":"village_617499","name":"TALIPADY (CT)","parent":"subdistrict_7198","parent_name":"MULKI"}}
+]}

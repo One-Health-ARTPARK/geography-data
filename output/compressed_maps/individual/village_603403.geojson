@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.46523943603418,14.54359876841783],[74.51791626474478,14.56453809443943],[74.49935775466074,14.5928247831494],[74.46523943603418,14.54359876841783]]]},"properties":{"region_id":"village_603403","name":"BRAHMUR","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

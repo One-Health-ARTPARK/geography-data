@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77948301710357,11.87314887247436],[76.75858498099213,11.87795171301512],[76.7561680564718,11.86611119742354],[76.76892775234197,11.86389273513207],[76.77948301710357,11.87314887247436]]]},"properties":{"region_id":"village_619520","name":"HOORADAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

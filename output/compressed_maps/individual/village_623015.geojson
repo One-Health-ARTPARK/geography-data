@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.39170541914177,13.14235851961445],[78.38466157265313,13.14405189702737],[78.38418678877545,13.12807933488227],[78.39528355718332,13.1319475993345],[78.39170541914177,13.14235851961445]]]},"properties":{"region_id":"village_623015","name":"THORADI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

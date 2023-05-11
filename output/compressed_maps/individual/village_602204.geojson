@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96514039671449,15.62850992303611],[74.94443904871915,15.62241630620055],[74.9483799824305,15.59666270469457],[74.97252355845428,15.60621394561251],[74.96803933160913,15.6283155847395],[74.96514039671449,15.62850992303611]]]},"properties":{"region_id":"village_602204","name":"KOTABAGI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

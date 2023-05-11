@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22549334887171,13.82746266443483],[76.22188528451507,13.83458090700201],[76.21334961865867,13.84005325076982],[76.21324921905983,13.82827741278323],[76.22549334887171,13.82746266443483]]]},"properties":{"region_id":"village_605847","name":"LAKKENAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

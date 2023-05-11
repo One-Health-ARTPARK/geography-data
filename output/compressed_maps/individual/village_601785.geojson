@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26907437180728,15.2823446514624],[76.23650533457686,15.27875025220382],[76.23731599109738,15.26505073033605],[76.26805995234535,15.26684341321058],[76.26907437180728,15.2823446514624]]]},"properties":{"region_id":"village_601785","name":"CHIKBOGANHAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

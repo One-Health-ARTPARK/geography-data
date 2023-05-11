@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60194408324841,13.29676981015416],[77.59325289043059,13.29398105320647],[77.59294635160032,13.28221644969486],[77.60457376357509,13.28526825625196],[77.60194408324841,13.29676981015416]]]},"properties":{"region_id":"village_625091","name":"NAGADENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

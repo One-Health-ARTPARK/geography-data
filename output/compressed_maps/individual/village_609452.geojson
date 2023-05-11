@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12826416523966,13.61346400492145],[76.13114066013864,13.62797176408845],[76.11906396428994,13.62771860366171],[76.11747751502436,13.61439484398755],[76.12826416523966,13.61346400492145]]]},"properties":{"region_id":"village_609452","name":"HIREGARJE","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

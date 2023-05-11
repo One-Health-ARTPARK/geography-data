@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.44111724597026,15.38957481377465],[74.40642596344647,15.38687018176382],[74.40798443118169,15.34763921634171],[74.43273807726216,15.35173382458793],[74.44111724597026,15.38957481377465]]]},"properties":{"region_id":"village_602658","name":"KAMRA","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26982440577132,16.52089366789841],[77.23832755026824,16.51822524135335],[77.23868958187295,16.50749502681643],[77.26265258935055,16.51040802846432],[77.26982440577132,16.52089366789841]]]},"properties":{"region_id":"village_621381","name":"KONDAPUR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

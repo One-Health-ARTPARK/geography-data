@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61276229067501,17.64590601809214],[76.6002992552683,17.64227836216222],[76.5914870935958,17.60502261545427],[76.6234501446703,17.60149030525641],[76.61276229067501,17.64590601809214]]]},"properties":{"region_id":"village_619975","name":"KINNISULTAN","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

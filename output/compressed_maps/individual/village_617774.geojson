@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41703475167394,12.7074975304994],[75.38688633286743,12.69259834492443],[75.39064624530228,12.67755257922506],[75.42283989403631,12.67915686840543],[75.41703475167394,12.7074975304994]]]},"properties":{"region_id":"village_617774","name":"MURULYA","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

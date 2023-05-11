@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16091421719787,12.5635721601101],[76.15186937095629,12.55429761265097],[76.16257012163781,12.54596654054226],[76.16504781119924,12.55617790878498],[76.16091421719787,12.5635721601101]]]},"properties":{"region_id":"village_618597","name":"HULLEHOSUR","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

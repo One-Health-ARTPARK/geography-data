@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99768067926153,13.63998189427748],[77.98587034091443,13.6412895338329],[77.98497492668305,13.63246337846445],[77.99419874335656,13.63098696490667],[77.99768067926153,13.63998189427748]]]},"properties":{"region_id":"village_623916","name":"BATTALAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

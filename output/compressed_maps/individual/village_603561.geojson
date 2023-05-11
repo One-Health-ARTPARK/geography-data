@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80027874657192,14.52307532805951],[74.7849147669571,14.50671380567976],[74.79365233014195,14.48222816508896],[74.80804496570951,14.50976839717487],[74.80027874657192,14.52307532805951]]]},"properties":{"region_id":"village_603561","name":"HASARGOD","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

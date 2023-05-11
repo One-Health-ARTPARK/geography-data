@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31633471047414,13.83126595683754],[75.27367085326175,13.84015094334554],[75.27668300984249,13.82786571911123],[75.31633471047414,13.83126595683754]]]},"properties":{"region_id":"village_608076","name":"DEMLAPURA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

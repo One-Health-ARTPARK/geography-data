@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0962239601856,15.85638909513471],[76.0928699196508,15.83296898659747],[76.10513813874655,15.83789064294272],[76.0962239601856,15.85638909513471]]]},"properties":{"region_id":"village_601446","name":"MALKAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

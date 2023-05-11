@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0169689928083,15.88108956185471],[77.0164119570276,15.89874688162113],[76.9983651483845,15.90407735657275],[76.99010165967236,15.88044314804933],[77.0169689928083,15.88108956185471]]]},"properties":{"region_id":"village_601034","name":"PANNUR JAGIR","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

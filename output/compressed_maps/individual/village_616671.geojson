@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.149508065739,12.67819973361079],[76.1280949360208,12.6736023265581],[76.13403999744266,12.6560272450175],[76.15216295578824,12.65824800514003],[76.149508065739,12.67819973361079]]]},"properties":{"region_id":"village_616671","name":"BELAVADI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

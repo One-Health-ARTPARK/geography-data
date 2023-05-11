@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77158865523566,14.80646482221849],[76.73825766426292,14.78209615297102],[76.75492401078533,14.74625051496131],[76.79122381891537,14.74646004014357],[76.77158865523566,14.80646482221849]]]},"properties":{"region_id":"village_605188","name":"NAGASAMUDRA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

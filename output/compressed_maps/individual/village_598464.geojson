@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4052450887084,16.62172318587269],[75.40003106724157,16.65194880198281],[75.36485009675586,16.6388099738892],[75.37332286707826,16.61883509117779],[75.4052450887084,16.62172318587269]]]},"properties":{"region_id":"village_598464","name":"ADIHUDI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

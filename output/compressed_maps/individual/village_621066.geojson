@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5404044096248,16.57906530184793],[76.54280605562106,16.59697796963506],[76.52861169865781,16.60038222221363],[76.52486420476596,16.58632576388806],[76.5404044096248,16.57906530184793]]]},"properties":{"region_id":"village_621066","name":"SHAKHAPUR","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

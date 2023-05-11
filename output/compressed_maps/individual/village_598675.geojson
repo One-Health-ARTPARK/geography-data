@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81585124477232,16.04356574071451],[75.77895957606397,16.04522827408412],[75.78247012887522,16.0332572063015],[75.81585124477232,16.04356574071451]]]},"properties":{"region_id":"village_598675","name":"PARWATI","parent":"subdistrict_7061","parent_name":"GULEDGUDDA"}}
+]}

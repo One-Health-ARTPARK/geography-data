@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30392709187284,13.18659114417429],[77.29664294079241,13.18715176117184],[77.29008617747809,13.18070292456926],[77.30208151336294,13.1779671677566],[77.30392709187284,13.18659114417429]]]},"properties":{"region_id":"village_624831","name":"LAKKENAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

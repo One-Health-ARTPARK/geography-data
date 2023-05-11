@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70931136169546,12.09038738881763],[76.70042419769808,12.086674747676],[76.70704619659772,12.08290392063691],[76.70931136169546,12.09038738881763]]]},"properties":{"region_id":"village_619242","name":"DEVARASANAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

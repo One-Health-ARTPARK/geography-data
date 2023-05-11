@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4317183572439,13.54534430509048],[75.42021379187604,13.56010557868039],[75.4087622167037,13.55292825880941],[75.41935019731214,13.52445656334455],[75.4317183572439,13.54534430509048]]]},"properties":{"region_id":"village_609000","name":"THALAMAKKI","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

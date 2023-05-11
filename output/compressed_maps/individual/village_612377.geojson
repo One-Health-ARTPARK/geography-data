@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79458984031763,13.13968537432924],[76.78047816349735,13.12917723848326],[76.80024822034119,13.12380610235165],[76.79458984031763,13.13968537432924]]]},"properties":{"region_id":"village_612377","name":"VADAVANAGHATTA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

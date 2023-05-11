@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1352329006788,16.0048686706897],[76.10775188785387,16.00738267608524],[76.09246639108336,15.99224872585512],[76.13170200510531,15.98767945165684],[76.1352329006788,16.0048686706897]]]},"properties":{"region_id":"village_598999","name":"HERUR","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

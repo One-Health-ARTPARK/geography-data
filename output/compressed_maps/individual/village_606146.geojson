@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50314373196798,13.89200896916301],[76.49506796886739,13.91264041893084],[76.47996378081056,13.90974567794935],[76.49140231477057,13.88618559605926],[76.50314373196798,13.89200896916301]]]},"properties":{"region_id":"village_606146","name":"VANIVILASAPURA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

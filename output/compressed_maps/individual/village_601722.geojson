@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03701491712567,15.25752638735987],[76.0647416580898,15.26099402266254],[76.06565202761868,15.28306639533256],[76.03469485050444,15.26859610171589],[76.03701491712567,15.25752638735987]]]},"properties":{"region_id":"village_601722","name":"BIKANHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

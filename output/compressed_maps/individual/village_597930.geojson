@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.46720204116876,15.49456161743594],[74.45790821660228,15.44924500719514],[74.48401747052894,15.44868006141241],[74.46720204116876,15.49456161743594]]]},"properties":{"region_id":"village_597930","name":"MOHISET","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

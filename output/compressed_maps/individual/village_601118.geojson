@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68900499459001,15.85648599832973],[76.701517323817,15.87646301177968],[76.6884741659664,15.87765331744984],[76.68900499459001,15.85648599832973]]]},"properties":{"region_id":"village_601118","name":"HARAPUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

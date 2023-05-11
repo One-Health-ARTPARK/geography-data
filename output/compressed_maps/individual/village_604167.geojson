@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24023982381205,14.71979904955786],[75.22864810138341,14.72106822188011],[75.22367094304484,14.7050436183309],[75.24668660774343,14.7066029848304],[75.24023982381205,14.71979904955786]]]},"properties":{"region_id":"village_604167","name":"WASAN","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

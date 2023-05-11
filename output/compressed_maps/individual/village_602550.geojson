@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28883283380476,15.33449659093336],[75.27573595249733,15.31100068427622],[75.30170579084171,15.3120692366737],[75.28883283380476,15.33449659093336]]]},"properties":{"region_id":"village_602550","name":"YARINARAYANPUR","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

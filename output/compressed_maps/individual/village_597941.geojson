@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.49267052811688,15.58889628366699],[74.4822850535659,15.58850057438811],[74.48707911381011,15.57445936690555],[74.50028255824444,15.57767879070088],[74.49267052811688,15.58889628366699]]]},"properties":{"region_id":"village_597941","name":"DHOKEGALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

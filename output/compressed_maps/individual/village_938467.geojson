@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57151933143359,12.863588439532],[77.57528620765879,12.86727948821219],[77.57317870031495,12.87263239186071],[77.56822283829565,12.86437221095805],[77.57151933143359,12.863588439532]]]},"properties":{"region_id":"village_938467","name":"RAGHAVANAPALYA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

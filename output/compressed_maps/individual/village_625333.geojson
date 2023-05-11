@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74079987291698,13.30581021043501],[77.73826479413748,13.31622983302514],[77.72503006689307,13.31561499996345],[77.72315505252432,13.30375852601474],[77.74079987291698,13.30581021043501]]]},"properties":{"region_id":"village_625333","name":"BULLAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55372709839072,12.61866577914007],[76.5442044989392,12.62657485052596],[76.5362429242854,12.62310671021184],[76.5375528541537,12.61257218851461],[76.55372709839072,12.61866577914007]]]},"properties":{"region_id":"village_613513","name":"MARADAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

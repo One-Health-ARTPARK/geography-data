@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69131612565226,13.7948808500113],[75.67899357889597,13.79185690313256],[75.67935210100485,13.78076731316029],[75.68891900247934,13.77933356470758],[75.69131612565226,13.7948808500113]]]},"properties":{"region_id":"village_608657","name":"ARALIKOPPA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

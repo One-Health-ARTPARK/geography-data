@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29565528507321,16.80801879581419],[75.3393425760422,16.81305616450675],[75.3162033710074,16.83403447579272],[75.29565528507321,16.80801879581419]]]},"properties":{"region_id":"village_597328","name":"KANNAL","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0180211401201,13.86392832673186],[76.0060123514347,13.86688294179105],[76.00900780959205,13.84698658545906],[76.02062675625028,13.84596943912417],[76.0180211401201,13.86392832673186]]]},"properties":{"region_id":"village_609231","name":"BEERANAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79150556516463,13.59485132704214],[77.78030191247672,13.60720581227565],[77.77620575529215,13.59409574482134],[77.79150556516463,13.59485132704214]]]},"properties":{"region_id":"village_623454","name":"NANDANAGANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

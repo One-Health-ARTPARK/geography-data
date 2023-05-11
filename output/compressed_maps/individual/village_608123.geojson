@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34306676795836,13.80260343484871],[75.32992859645707,13.81347411632566],[75.3271395013727,13.79081733535408],[75.33701847802179,13.78606396387786],[75.34306676795836,13.80260343484871]]]},"properties":{"region_id":"village_608123","name":"SALEKOPPA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

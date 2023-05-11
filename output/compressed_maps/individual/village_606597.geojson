@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05797792704786,14.48905936855886],[76.07552983127758,14.49175664945239],[76.07098230072536,14.51217169999801],[76.05273100136714,14.505451568045],[76.05797792704786,14.48905936855886]]]},"properties":{"region_id":"village_606597","name":"GOLLARAHATTI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

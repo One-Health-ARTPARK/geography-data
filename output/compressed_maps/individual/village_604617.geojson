@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8687910395619,15.00622623850161],[75.85687063774455,15.01394874567982],[75.84933851439412,14.99397290093322],[75.86689827917162,14.99361444037627],[75.8687910395619,15.00622623850161]]]},"properties":{"region_id":"village_604617","name":"AYYANAHALLI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

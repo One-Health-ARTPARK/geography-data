@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9086699706473,12.74738988497815],[75.91025817924717,12.76115205289552],[75.90463391049866,12.76365240862192],[75.90057449696808,12.75103651865345],[75.9086699706473,12.74738988497815]]]},"properties":{"region_id":"village_617881","name":"AVARADALU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

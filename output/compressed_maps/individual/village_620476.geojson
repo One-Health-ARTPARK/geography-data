@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26802148101696,17.26112348032252],[77.25134665427133,17.22582868254645],[77.28396164289347,17.22179191796947],[77.26802148101696,17.26112348032252]]]},"properties":{"region_id":"village_620476","name":"YADGA","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

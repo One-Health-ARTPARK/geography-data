@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82595106795023,16.51817235590981],[76.81110045536478,16.50361811775337],[76.84107423102597,16.50252768928216],[76.82595106795023,16.51817235590981]]]},"properties":{"region_id":"village_621065","name":"HALGERA","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

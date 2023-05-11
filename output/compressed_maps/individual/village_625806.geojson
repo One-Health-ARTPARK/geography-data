@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13321178430675,13.15053001111753],[77.13480493654086,13.15913043935496],[77.12884618158007,13.16426570350109],[77.11885465319992,13.16348632612071],[77.11854583112473,13.14750438052047],[77.13321178430675,13.15053001111753]]]},"properties":{"region_id":"village_625806","name":"SUGGANAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

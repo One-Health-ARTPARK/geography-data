@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01214475276147,14.06061467400033],[76.00579679371658,14.073996433841],[75.98719765982112,14.06475177793568],[75.99921741914675,14.05431060430381],[76.01214475276147,14.06061467400033]]]},"properties":{"region_id":"village_606996","name":"YERAGATTIHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

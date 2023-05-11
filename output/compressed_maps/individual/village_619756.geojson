@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01001811319027,11.97517284145702],[77.01131097205672,11.9506283103311],[77.03275399689403,11.94989978405184],[77.04147408053696,11.96618450436979],[77.01001811319027,11.97517284145702]]]},"properties":{"region_id":"village_619756","name":"KAGALAVADI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

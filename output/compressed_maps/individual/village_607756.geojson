@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30359311363921,14.30981952143293],[75.27809691499475,14.33105815970472],[75.2694192359041,14.30748216946257],[75.30359311363921,14.30981952143293]]]},"properties":{"region_id":"village_607756","name":"PUNEDAHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75431859507756,15.34301510358545],[74.74510710328403,15.34231324030904],[74.744784561309,15.33750033502717],[74.75551503187778,15.33892460201702],[74.75431859507756,15.34301510358545]]]},"properties":{"region_id":"village_602764","name":"TIMMAPUR","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

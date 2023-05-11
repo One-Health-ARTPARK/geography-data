@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8693646756247,14.54583610793195],[75.86376206169915,14.56378777115908],[75.8532170677737,14.56268095587139],[75.85990109598579,14.54502880581754],[75.8693646756247,14.54583610793195]]]},"properties":{"region_id":"village_606275","name":"VADERAHALLI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

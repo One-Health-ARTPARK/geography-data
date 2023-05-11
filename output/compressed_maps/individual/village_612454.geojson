@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87361560916818,13.02939189656561],[76.85206050661705,13.02478169715275],[76.85034765962179,13.01000212852978],[76.87401619987965,13.01117350849924],[76.87361560916818,13.02939189656561]]]},"properties":{"region_id":"village_612454","name":"DODDAMADURE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

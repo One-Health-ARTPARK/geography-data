@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7937764265137,14.86197582027769],[75.76112997357662,14.86211927630384],[75.76754879175573,14.84212200500873],[75.79881042701882,14.84160729942472],[75.7937764265137,14.86197582027769]]]},"properties":{"region_id":"village_604596","name":"DASANAHALLI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

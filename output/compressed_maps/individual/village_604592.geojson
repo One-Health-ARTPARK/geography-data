@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75911838094427,14.88379926913421],[75.73427332680373,14.88292289515889],[75.72385361112921,14.84496146496221],[75.73014757544327,14.83242494825214],[75.76130500692976,14.86276130568435],[75.75911838094427,14.88379926913421]]]},"properties":{"region_id":"village_604592","name":"BUDANUR","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

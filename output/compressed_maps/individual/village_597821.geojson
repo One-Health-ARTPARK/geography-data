@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.39736474909989,15.74833228047735],[74.37863440637877,15.74959402328343],[74.37796862977967,15.72828103856472],[74.3908044255092,15.73179496376951],[74.39736474909989,15.74833228047735]]]},"properties":{"region_id":"village_597821","name":"BAILUR","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

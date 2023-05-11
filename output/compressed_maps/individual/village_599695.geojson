@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39069041021443,16.54451020991955],[76.35358902454767,16.54360516122159],[76.35821906515928,16.51300951270133],[76.39069041021443,16.54451020991955]]]},"properties":{"region_id":"village_599695","name":"KARAGANUR","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

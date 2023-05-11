@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68275021524099,16.3317941850397],[76.66089181230971,16.34946288818613],[76.62552283107892,16.32312586000481],[76.68074247367457,16.30324201702851],[76.68275021524099,16.3317941850397]]]},"properties":{"region_id":"village_600458","name":"GOLPALLI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

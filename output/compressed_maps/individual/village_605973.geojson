@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46877615174887,13.6290377485495],[76.4672717212399,13.65067013104713],[76.45077120902022,13.66856435589283],[76.44057849685306,13.66730267443113],[76.46877615174887,13.6290377485495]]]},"properties":{"region_id":"village_605973","name":"GRANTAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

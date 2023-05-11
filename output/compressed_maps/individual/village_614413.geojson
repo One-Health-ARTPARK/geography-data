@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8587517474769,12.58824985275081],[76.86186013028474,12.60240931086336],[76.84865041155491,12.60733576433637],[76.84526221627196,12.59267896146872],[76.8587517474769,12.58824985275081]]]},"properties":{"region_id":"village_614413","name":"SHAMBONAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

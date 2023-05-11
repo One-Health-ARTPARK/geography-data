@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.51475571859608,14.28873638309671],[74.51132342238296,14.30022160024703],[74.49485289508641,14.28868086272408],[74.50481149741398,14.27506115548572],[74.51475571859608,14.28873638309671]]]},"properties":{"region_id":"village_603788","name":"HADINBAL","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66587853903701,12.23698028755258],[76.67841637954537,12.2409479439353],[76.67918171141987,12.24748794206634],[76.66434183889302,12.24967638853901],[76.66587853903701,12.23698028755258]]]},"properties":{"region_id":"village_618810","name":"GUDUMADANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

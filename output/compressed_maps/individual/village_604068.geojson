@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30304617665246,14.80682039502479],[75.28430248722975,14.80340916410143],[75.28543991775837,14.78078576134275],[75.30304617665246,14.80682039502479]]]},"properties":{"region_id":"village_604068","name":"WARDI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85656954005799,16.1125838807687],[74.8227211616288,16.0977401204069],[74.8169746294476,16.07365165172924],[74.84252435892796,16.06305502100098],[74.85656954005799,16.1125838807687]]]},"properties":{"region_id":"village_597465","name":"KOLAVI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

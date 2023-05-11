@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99708934676323,12.65749028855364],[76.0002729658636,12.66437205430086],[75.9963794468801,12.67191749018405],[75.9895656078425,12.6704034862394],[75.99127271452356,12.65956812707992],[75.99708934676323,12.65749028855364]]]},"properties":{"region_id":"village_616534","name":"PEMMANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30022095500071,15.85669311677497],[75.3075835750745,15.85782655524489],[75.30532218775947,15.87054033782574],[75.29928664173939,15.87108960852543],[75.30022095500071,15.85669311677497]]]},"properties":{"region_id":"village_598393","name":"MUDENKOPPA","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

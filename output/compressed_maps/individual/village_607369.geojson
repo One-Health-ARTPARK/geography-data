@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06850275955324,14.65148163388578],[75.05327849847014,14.64921614760078],[75.0629760159301,14.63979906624572],[75.06850275955324,14.65148163388578]]]},"properties":{"region_id":"village_607369","name":"BANKAVALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

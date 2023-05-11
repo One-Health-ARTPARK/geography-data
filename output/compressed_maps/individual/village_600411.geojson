@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35053078918483,16.13599409968586],[76.33449802297675,16.12553514720231],[76.35957359444248,16.10615768645468],[76.36214532111038,16.12976265716446],[76.35053078918483,16.13599409968586]]]},"properties":{"region_id":"village_600411","name":"JULGUDDA","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89352233363391,11.99870545640021],[76.8823088285369,12.01519139730025],[76.86097463709166,11.99885138063767],[76.85997733333866,11.97801620615488],[76.87006118838673,11.97192532062555],[76.89352233363391,11.99870545640021]]]},"properties":{"region_id":"village_619649","name":"BADANAGUPPE","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

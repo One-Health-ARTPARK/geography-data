@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35467802093004,12.4531040361328],[76.33800172152225,12.4582087644445],[76.32613922394073,12.44484944207898],[76.35530652459892,12.43778165194882],[76.35467802093004,12.4531040361328]]]},"properties":{"region_id":"village_618646","name":"BYADARAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

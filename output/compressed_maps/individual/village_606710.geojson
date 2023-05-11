@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50630287611797,14.19795579221213],[75.49983920262527,14.20376041527213],[75.48530214340491,14.20093722766034],[75.48623468884969,14.19293075345602],[75.5048454834552,14.19063759128239],[75.50630287611797,14.19795579221213]]]},"properties":{"region_id":"village_606710","name":"KULLAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

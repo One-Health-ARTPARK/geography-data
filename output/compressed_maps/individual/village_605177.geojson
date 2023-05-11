@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85631632554734,14.86193153775636],[76.83554151445047,14.86306093101312],[76.83475739732295,14.83919625133701],[76.854107948547,14.84304783646592],[76.85631632554734,14.86193153775636]]]},"properties":{"region_id":"village_605177","name":"URTHAL","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

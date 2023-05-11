@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78893630730931,15.4283895169199],[74.76907302565495,15.43029278387573],[74.76234710294094,15.42247132971634],[74.76955382831564,15.41094087714592],[74.78893630730931,15.4283895169199]]]},"properties":{"region_id":"village_602239","name":"BALAGERI","parent":"subdistrict_7081","parent_name":"ALNAVAR"}}
+]}

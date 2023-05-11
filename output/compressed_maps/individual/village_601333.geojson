@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1370194790141,15.48409474723811],[76.11821919373682,15.48442110731593],[76.12272586805724,15.46009572552017],[76.14248365132036,15.4585669030838],[76.1370194790141,15.48409474723811]]]},"properties":{"region_id":"village_601333","name":"HIREBEEDINHALU","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66903251724194,16.17771927049474],[74.64862913363743,16.18118455910823],[74.65536541774922,16.16091620304877],[74.66903251724194,16.17771927049474]]]},"properties":{"region_id":"village_597616","name":"INGALI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

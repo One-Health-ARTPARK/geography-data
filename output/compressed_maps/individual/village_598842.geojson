@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96415830791437,16.26466951600939],[75.93694045948114,16.25956453648232],[75.93178289014263,16.24246579578287],[75.95229961539312,16.23098184115716],[75.96415830791437,16.26466951600939]]]},"properties":{"region_id":"village_598842","name":"CHITAGINAKOPP","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

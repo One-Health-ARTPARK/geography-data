@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54730347544428,12.52354339898507],[76.53931868702423,12.52345942520347],[76.53639859085834,12.50185507829861],[76.55181060938165,12.49968376198491],[76.5565611917377,12.52194029581094],[76.54730347544428,12.52354339898507]]]},"properties":{"region_id":"village_614122","name":"DINKA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

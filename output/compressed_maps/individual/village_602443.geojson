@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99744932520774,15.31325932204372],[74.98518080952617,15.31524326477429],[74.98556926027719,15.30189904737431],[74.99977126949777,15.30015445110568],[74.99744932520774,15.31325932204372]]]},"properties":{"region_id":"village_602443","name":"GAMBYAPUR","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

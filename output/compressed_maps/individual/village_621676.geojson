@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.11195771888985,13.28899535744949],[78.10253398180018,13.29296319614298],[78.09844557721694,13.28312580100463],[78.1053647367921,13.27834465379298],[78.11195771888985,13.28899535744949]]]},"properties":{"region_id":"village_621676","name":"BAGALAHALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

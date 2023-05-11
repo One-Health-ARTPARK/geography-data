@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45386557632509,12.16269289562608],[76.42931646329566,12.16201307777317],[76.43365582740995,12.11929880078795],[76.45458719702444,12.12200150791726],[76.45386557632509,12.16269289562608]]]},"properties":{"region_id":"village_618954","name":"KARIGALA","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

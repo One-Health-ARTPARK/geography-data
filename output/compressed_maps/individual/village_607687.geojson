@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2303541155719,14.46686988673602],[75.23498691883198,14.48636837480464],[75.21440513936786,14.47865672363197],[75.2303541155719,14.46686988673602]]]},"properties":{"region_id":"village_607687","name":"KOLAGI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

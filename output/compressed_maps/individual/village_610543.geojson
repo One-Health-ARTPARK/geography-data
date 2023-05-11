@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03639026262844,14.19434397969615],[77.02238093714088,14.19768360301455],[77.02345154088651,14.18043198906827],[77.0380649975235,14.17620605511695],[77.03639026262844,14.19434397969615]]]},"properties":{"region_id":"village_610543","name":"JADENAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

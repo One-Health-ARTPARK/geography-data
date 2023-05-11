@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09591514991774,15.95026710009455],[76.07447144771645,15.96995965959583],[76.0638214459048,15.91583962828878],[76.10150945462303,15.9004600670098],[76.09591514991774,15.95026710009455]]]},"properties":{"region_id":"village_599016","name":"BALAKUNDI","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

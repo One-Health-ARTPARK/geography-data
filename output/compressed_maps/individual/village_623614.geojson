@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70959783893085,13.41274825760174],[77.70404574466471,13.39884847029689],[77.71195646733442,13.39629973576626],[77.71545539078332,13.4041104114285],[77.70959783893085,13.41274825760174]]]},"properties":{"region_id":"village_623614","name":"THIRNAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

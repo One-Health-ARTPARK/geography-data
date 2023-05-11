@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6250418152492,16.01140176696583],[75.60146924300747,16.01054382054125],[75.58421045898109,15.98131616338913],[75.6224587011845,15.97202791642413],[75.6250418152492,16.01140176696583]]]},"properties":{"region_id":"village_598657","name":"HULLIKERI INAM","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

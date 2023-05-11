@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40786069493679,12.42245744048031],[76.39696476114216,12.41845205272784],[76.4041951171133,12.40988942422958],[76.4201064456219,12.40931806805757],[76.41765545772049,12.41734034223117],[76.40786069493679,12.42245744048031]]]},"properties":{"region_id":"village_618677","name":"CHOWKAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

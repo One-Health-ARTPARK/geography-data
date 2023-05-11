@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9472667161455,15.44173890327951],[74.93131550872974,15.4556848840705],[74.92144053006506,15.42748926848041],[74.9472667161455,15.44173890327951]]]},"properties":{"region_id":"village_602261","name":"KYARKOPPA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85477531861474,13.78648350113205],[76.85463939664048,13.8023971982622],[76.82647282911469,13.79252944563904],[76.83274295673704,13.78011629099821],[76.85477531861474,13.78648350113205]]]},"properties":{"region_id":"village_610342","name":"DEVARAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

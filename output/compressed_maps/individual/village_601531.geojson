@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36637622243006,15.78543928431383],[76.37817142228178,15.7795603014429],[76.38153241839554,15.79061347831828],[76.36637622243006,15.78543928431383]]]},"properties":{"region_id":"village_601531","name":"VITHALAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

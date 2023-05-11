@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.43401417887279,13.13264345337158],[78.42498823361834,13.14165676551735],[78.41182034272694,13.13790038902157],[78.42090925810231,13.12099095253982],[78.43401417887279,13.13264345337158]]]},"properties":{"region_id":"village_623034","name":"KAVATHANAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

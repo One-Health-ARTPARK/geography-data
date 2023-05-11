@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43353223617314,15.99087026565471],[77.40003141143967,16.00019777939669],[77.38788292980291,15.9804615520075],[77.42566943472146,15.95808685823632],[77.43353223617314,15.99087026565471]]]},"properties":{"region_id":"village_600871","name":"GANDHAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

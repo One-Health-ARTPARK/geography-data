@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47155149322123,16.41109656918919],[75.42606028814785,16.37195746944447],[75.47254828393932,16.35885103629549],[75.47155149322123,16.41109656918919]]]},"properties":{"region_id":"village_598480","name":"YADAHALLI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93864450694477,13.17635473411757],[75.9281067596956,13.1790584682672],[75.9248419724654,13.16779524959905],[75.93594234337192,13.16318262203927],[75.93864450694477,13.17635473411757]]]},"properties":{"region_id":"village_615322","name":"AJJENAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

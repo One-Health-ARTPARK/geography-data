@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42165625381841,14.36958177355983],[75.42294023940566,14.39793876646626],[75.40752992864527,14.40105059580515],[75.40821807927253,14.37137723240878],[75.42165625381841,14.36958177355983]]]},"properties":{"region_id":"village_604422","name":"BANNIHATTI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

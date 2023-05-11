@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94820447516565,12.82385596965395],[76.94567692394118,12.83522749355747],[76.9326166208951,12.8320927755161],[76.93537966277563,12.82367900505255],[76.94820447516565,12.82385596965395]]]},"properties":{"region_id":"village_612687","name":"HANCHIPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

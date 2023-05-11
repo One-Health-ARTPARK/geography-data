@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8534030205688,13.99754273656079],[75.83188295805896,13.99001555826306],[75.83330991239598,13.96654303070034],[75.8605243535234,13.97952876798423],[75.8534030205688,13.99754273656079]]]},"properties":{"region_id":"village_607045","name":"SARATHI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

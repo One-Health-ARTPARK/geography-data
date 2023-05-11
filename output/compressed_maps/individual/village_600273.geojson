@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17955845852006,17.84749162269345],[77.16038307423976,17.83279813862744],[77.16231965787084,17.80070233535688],[77.19512311016182,17.81211889589223],[77.17955845852006,17.84749162269345]]]},"properties":{"region_id":"village_600273","name":"JALASANGI","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

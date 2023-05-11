@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65265244246645,13.26753274991605],[77.64319704284297,13.27025593384638],[77.63706818565083,13.25800787668157],[77.66442340322311,13.2565392386364],[77.65265244246645,13.26753274991605]]]},"properties":{"region_id":"village_625306","name":"SOLUR","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

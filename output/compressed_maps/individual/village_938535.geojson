@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61200416139835,13.08598733443106],[77.60272390283167,13.085667079074],[77.60214858149398,13.06927289712606],[77.6133988619847,13.06822756234292],[77.61200416139835,13.08598733443106]]]},"properties":{"region_id":"village_938535","name":"JAKKURU","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

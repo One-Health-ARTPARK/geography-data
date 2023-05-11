@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02234454193389,16.68161518886353],[77.03962886376252,16.7233254094675],[77.02592390135412,16.71912146352793],[77.02234454193389,16.68161518886353]]]},"properties":{"region_id":"village_621149","name":"MANGINHAL","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

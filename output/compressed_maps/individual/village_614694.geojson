@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99848009405987,12.32945932133496],[76.98725532937276,12.33347406285928],[76.98717843206633,12.32094846913569],[76.99681950947173,12.31353412593686],[76.99848009405987,12.32945932133496]]]},"properties":{"region_id":"village_614694","name":"KEBBEPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

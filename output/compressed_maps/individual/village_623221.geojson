@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48622482725459,13.56353837836454],[77.47899151222279,13.55929751131829],[77.48190774143181,13.54231726879906],[77.48795924412099,13.5503786194101],[77.48622482725459,13.56353837836454]]]},"properties":{"region_id":"village_623221","name":"NARASIMHANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

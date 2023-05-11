@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9179750196609,12.51028319020108],[75.90850986146083,12.50555647904976],[75.91868468336247,12.49880612912225],[75.9179750196609,12.51028319020108]]]},"properties":{"region_id":"village_923992","name":"HUDUGURU","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

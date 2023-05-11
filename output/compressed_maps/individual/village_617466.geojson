@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08898424800438,13.12669870496977],[75.08543740926473,13.15089055083143],[75.06406169615508,13.14667573458372],[75.07443816455255,13.12841046795167],[75.08898424800438,13.12669870496977]]]},"properties":{"region_id":"village_617466","name":"PANAPILA","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94090574156795,13.64694783237797],[75.94311882099802,13.65735785271487],[75.93652521718208,13.65794332153794],[75.93391679296545,13.64366586417751],[75.94090574156795,13.64694783237797]]]},"properties":{"region_id":"village_609224","name":"PUNDANAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

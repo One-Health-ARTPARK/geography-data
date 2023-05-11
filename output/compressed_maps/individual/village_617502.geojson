@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86958361533901,12.9656506749022],[74.85170307202142,12.97228073197219],[74.84429747716979,12.9480219554316],[74.87468772841346,12.9517923934388],[74.86958361533901,12.9656506749022]]]},"properties":{"region_id":"village_617502","name":"KENJAR (CT)","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50817564497392,14.14798034726883],[75.49443436804886,14.16365367303054],[75.49225613780705,14.1346495828594],[75.50817564497392,14.14798034726883]]]},"properties":{"region_id":"village_606726","name":"YALLAPURA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

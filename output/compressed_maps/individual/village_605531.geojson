@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30064488859719,14.28124856912951],[76.26487818948208,14.28724244549613],[76.2631900293951,14.26753187889637],[76.28418646169861,14.26003191494732],[76.30064488859719,14.28124856912951]]]},"properties":{"region_id":"village_605531","name":"LAKSHMISAGARA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

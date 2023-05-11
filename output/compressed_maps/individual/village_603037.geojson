@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00885421692146,14.90363742412952],[75.00970426648395,14.92182380322398],[74.97072260017397,14.90997223268718],[74.97560852292844,14.89381334781108],[75.00885421692146,14.90363742412952]]]},"properties":{"region_id":"village_603037","name":"ANDALGI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

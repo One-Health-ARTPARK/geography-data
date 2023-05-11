@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59304092371272,16.14469918710871],[75.56897417981179,16.14646474931665],[75.56898848916002,16.11815724391801],[75.5866979522166,16.11725093097792],[75.59304092371272,16.14469918710871]]]},"properties":{"region_id":"village_598628","name":"KERAKALAMATTI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

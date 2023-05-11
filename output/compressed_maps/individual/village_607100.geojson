@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99885397159852,13.93025020906928],[75.99145688910897,13.96043455804344],[75.97212807305246,13.95571621037542],[75.97266305168792,13.93155396975827],[75.99885397159852,13.93025020906928]]]},"properties":{"region_id":"village_607100","name":"MARAVANJI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

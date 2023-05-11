@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73522901462287,13.33220448528387],[77.73886881696407,13.34319917958381],[77.72948699020456,13.3447932280447],[77.7296887570994,13.33413393587024],[77.73522901462287,13.33220448528387]]]},"properties":{"region_id":"village_625316","name":"IRIGENAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

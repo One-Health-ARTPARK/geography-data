@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02011535696286,12.21917889348903],[76.00198324539555,12.21039986741092],[75.99740109626786,12.18002998562254],[76.0171168662752,12.17709606488253],[76.02011535696286,12.21917889348903]]]},"properties":{"region_id":"village_939080","name":"NOKHYASIDDAPURA","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

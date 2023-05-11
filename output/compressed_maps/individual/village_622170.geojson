@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89562404597706,12.99284189980512],[77.89412015294553,13.00595864549411],[77.88092783382984,12.99146766621847],[77.89191495554564,12.98558907584231],[77.89562404597706,12.99284189980512]]]},"properties":{"region_id":"village_622170","name":"MADANAHATTI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

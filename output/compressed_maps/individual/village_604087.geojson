@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10105717596555,14.7990006133628],[75.09184985446714,14.81103549905847],[75.07395411877768,14.80824666106851],[75.08229469769336,14.79272549471802],[75.10105717596555,14.7990006133628]]]},"properties":{"region_id":"village_604087","name":"GAZIPUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

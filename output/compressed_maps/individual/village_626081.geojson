@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27111181807686,12.72738666722421],[77.26262937324917,12.7463395150628],[77.24720778822443,12.73108744623605],[77.27111181807686,12.72738666722421]]]},"properties":{"region_id":"village_626081","name":"BOLAPPANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

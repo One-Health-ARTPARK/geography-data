@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38970568145452,15.77465615375543],[75.35425837368645,15.7707739687673],[75.38371800112176,15.72295072809786],[75.38970568145452,15.77465615375543]]]},"properties":{"region_id":"village_601870","name":"PETH","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

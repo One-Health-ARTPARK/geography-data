@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68499682046668,12.73063897805681],[76.66939587876828,12.7282539074938],[76.66301234157454,12.70648450783948],[76.6852027412876,12.71680684601946],[76.68499682046668,12.73063897805681]]]},"properties":{"region_id":"village_614011","name":"ALPAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

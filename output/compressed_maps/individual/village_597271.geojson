@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05210060142213,16.78797538370005],[75.03385895397305,16.79442851696468],[75.02520275592482,16.7860588393055],[75.05190436403267,16.77900094905485],[75.05210060142213,16.78797538370005]]]},"properties":{"region_id":"village_597271","name":"ABBIHAL","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

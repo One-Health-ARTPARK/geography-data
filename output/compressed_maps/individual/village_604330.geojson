@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47325726001715,14.69226748104383],[75.45111769223237,14.70671694282799],[75.45256193064739,14.68066651591547],[75.47325726001715,14.69226748104383]]]},"properties":{"region_id":"village_604330","name":"TEREDHALLI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

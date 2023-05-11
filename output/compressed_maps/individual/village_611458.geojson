@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14277635511696,13.38434274672707],[77.13138905569731,13.3904220655839],[77.12116606451417,13.37421901332668],[77.13363374248476,13.37019368681695],[77.14277635511696,13.38434274672707]]]},"properties":{"region_id":"village_611458","name":"BEERANAKAL","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

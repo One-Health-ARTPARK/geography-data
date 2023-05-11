@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.16289685351367,14.88704258921434],[74.16489051957682,14.89883477580547],[74.15536738817214,14.90087657509047],[74.15026499623941,14.87953725461789],[74.16289685351367,14.88704258921434]]]},"properties":{"region_id":"village_602584","name":"SAWANTWADA","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

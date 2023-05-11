@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.668163653196,14.08314186801576],[76.62269056616385,14.08094096862],[76.62682550792314,14.03326781055384],[76.67036023631978,14.04336197890786],[76.668163653196,14.08314186801576]]]},"properties":{"region_id":"village_606074","name":"HARTHIKOTE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

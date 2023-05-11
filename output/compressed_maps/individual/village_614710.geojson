@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12242832760415,12.41730978656038],[77.10798414683448,12.42014790089894],[77.10985942248861,12.40387143622148],[77.12060379087553,12.40069105054524],[77.12242832760415,12.41730978656038]]]},"properties":{"region_id":"village_614710","name":"SAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

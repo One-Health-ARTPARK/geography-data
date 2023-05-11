@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07485772692529,14.33771330421625],[76.0560788778465,14.33835543985469],[76.0545340932441,14.32201455633922],[76.0766800552896,14.32211918185924],[76.07485772692529,14.33771330421625]]]},"properties":{"region_id":"village_606665","name":"ANNAPURA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

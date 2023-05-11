@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8952271281294,13.25022162817845],[75.88984775324032,13.25628824439967],[75.87100527239623,13.24645560375701],[75.88807554365238,13.24074138331664],[75.8952271281294,13.25022162817845]]]},"properties":{"region_id":"village_615213","name":"MALENAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

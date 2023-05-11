@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91114997307979,13.21673058379184],[77.89445953362876,13.2227225676872],[77.88811902054383,13.21479080169691],[77.90174647830074,13.21397021172536],[77.91114997307979,13.21673058379184]]]},"properties":{"region_id":"village_625548","name":"GEDDALAHALLIPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.08143321572177,13.47184554537198],[78.06781470685546,13.47225928607546],[78.07139312454814,13.46094593666218],[78.08118086541745,13.45985377078877],[78.08143321572177,13.47184554537198]]]},"properties":{"region_id":"village_624548","name":"GOPALAPURA","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

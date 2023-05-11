@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97318173803775,12.51815084860643],[76.95210195613465,12.51790028150297],[76.94804325309092,12.50587205352978],[76.96324988204724,12.50105461101219],[76.97318173803775,12.51815084860643]]]},"properties":{"region_id":"village_614492","name":"SUNAGAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13220008291772,17.19110266564536],[76.14940829286333,17.22462848594274],[76.12233272875477,17.24842858043192],[76.10604890579961,17.21874905440946],[76.13220008291772,17.19110266564536]]]},"properties":{"region_id":"village_599263","name":"KHEDGI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

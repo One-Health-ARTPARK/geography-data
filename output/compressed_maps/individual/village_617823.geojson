@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70695015734525,12.45843830853661],[75.67778839898341,12.45551490559857],[75.69675797173065,12.43650587041928],[75.70695015734525,12.45843830853661]]]},"properties":{"region_id":"village_617823","name":"MONNANGERI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

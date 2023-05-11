@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6004858384386,13.10750216307804],[77.61011643623432,13.11074338468362],[77.60821171889994,13.11857833604172],[77.59891267873361,13.11407599524565],[77.6004858384386,13.10750216307804]]]},"properties":{"region_id":"village_938527","name":"VENKATALA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

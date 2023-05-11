@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82609642129295,13.91969340980627],[77.82114153929889,13.93063229231697],[77.81340977520907,13.91812185305092],[77.82609642129295,13.91969340980627]]]},"properties":{"region_id":"village_623788","name":"THATHANNAGARIDINNE","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

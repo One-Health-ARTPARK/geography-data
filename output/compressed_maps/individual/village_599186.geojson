@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88184609878631,17.33781506049877],[75.8729464474151,17.3546422515568],[75.83645070519219,17.35239214996621],[75.84032969002106,17.3069092675369],[75.87941758150079,17.28646473398733],[75.88184609878631,17.33781506049877]]]},"properties":{"region_id":"village_599186","name":"HALASANGI","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

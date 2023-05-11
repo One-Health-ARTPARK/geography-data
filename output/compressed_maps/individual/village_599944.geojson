@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25179988654193,17.91177846017714],[77.23534592461841,17.91143233377147],[77.23175381641602,17.89800834797255],[77.24622807879373,17.89547641743608],[77.25179988654193,17.91177846017714]]]},"properties":{"region_id":"village_599944","name":"CHITTA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

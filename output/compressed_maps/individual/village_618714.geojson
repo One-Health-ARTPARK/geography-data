@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5744237890471,12.32232635319682],[76.56262051513734,12.32168671914455],[76.56136382013088,12.30578158422179],[76.58096933226001,12.30530036733922],[76.5744237890471,12.32232635319682]]]},"properties":{"region_id":"village_618714","name":"MADAGALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

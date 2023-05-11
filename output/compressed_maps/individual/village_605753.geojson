@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18908901357905,13.98340049290908],[76.18007105845322,13.98368859698439],[76.17384897831884,13.95673121121875],[76.18842792535894,13.96747669923369],[76.18908901357905,13.98340049290908]]]},"properties":{"region_id":"village_605753","name":"EDEHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

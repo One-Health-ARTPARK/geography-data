@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52180765574626,12.7316836613462],[77.50821813127412,12.71075107393633],[77.52370552037799,12.7088747797662],[77.53183523850828,12.71867206817776],[77.52180765574626,12.7316836613462]]]},"properties":{"region_id":"village_626350","name":"GOTTIGEHALLI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

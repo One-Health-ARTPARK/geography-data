@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06621505715378,14.71687217257262],[76.07805484892009,14.68907565224968],[76.11635766709965,14.71309050715548],[76.07061995776554,14.73607877614305],[76.06621505715378,14.71687217257262]]]},"properties":{"region_id":"village_606326","name":"KADABAGERI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

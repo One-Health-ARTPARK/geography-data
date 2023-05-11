@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09024781129241,17.05473168382251],[77.07705635200186,17.02605644175019],[77.1014270507339,17.02573662436113],[77.10490398235613,17.049979877643],[77.09024781129241,17.05473168382251]]]},"properties":{"region_id":"village_620676","name":"KARDAL","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

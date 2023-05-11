@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54445806250365,13.45336279000363],[77.561027603998,13.46663391261012],[77.54983413693581,13.47355475094218],[77.54445806250365,13.45336279000363]]]},"properties":{"region_id":"village_623422","name":"NERLAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

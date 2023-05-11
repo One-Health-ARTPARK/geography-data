@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85285405491256,12.46800890870126],[76.84711760041253,12.48993674444446],[76.83454803080625,12.48349154526722],[76.85285405491256,12.46800890870126]]]},"properties":{"region_id":"village_614469","name":"A.HULLUKERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

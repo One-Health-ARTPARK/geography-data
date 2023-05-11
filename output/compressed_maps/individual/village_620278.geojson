@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75844192928444,17.4513489633859],[76.72216770749684,17.4244555679807],[76.77592116590998,17.41233012062279],[76.75844192928444,17.4513489633859]]]},"properties":{"region_id":"village_620278","name":"BHIMANHALLI","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

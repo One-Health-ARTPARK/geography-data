@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25128352408207,12.50654114989332],[76.23325628763237,12.50681901914517],[76.2302173784361,12.49557394392785],[76.25318800565398,12.49362361979049],[76.25128352408207,12.50654114989332]]]},"properties":{"region_id":"village_618613","name":"MAYIGOWDANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34332253743534,13.50875773341712],[76.32270413311794,13.50617592885825],[76.31779675977057,13.49045180203589],[76.33662582750782,13.48471306050673],[76.34332253743534,13.50875773341712]]]},"properties":{"region_id":"village_615621","name":"DIBBUR","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

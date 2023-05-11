@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83571387915023,12.57285356087919],[76.82294527115127,12.57685484346063],[76.81893356153913,12.55537772252982],[76.83485192718334,12.55821651960093],[76.83571387915023,12.57285356087919]]]},"properties":{"region_id":"village_614425","name":"GANDALU","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

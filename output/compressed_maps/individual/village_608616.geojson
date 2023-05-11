@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6968789143746,13.91126429912039],[75.67471058919371,13.91162710906973],[75.68810967383378,13.89879475797401],[75.6968789143746,13.91126429912039]]]},"properties":{"region_id":"village_608616","name":"PADMENAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

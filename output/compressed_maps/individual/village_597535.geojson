@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99997540724085,16.14590724766892],[74.99456758002846,16.16533174341881],[74.95760932135504,16.15785010540484],[74.9646320319694,16.12572948868789],[74.99997540724085,16.14590724766892]]]},"properties":{"region_id":"village_597535","name":"BETAGERI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

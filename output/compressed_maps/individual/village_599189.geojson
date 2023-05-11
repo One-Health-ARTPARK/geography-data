@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81023090965529,17.30497607805183],[75.79284027835311,17.30469264283573],[75.77600481718356,17.28487699606428],[75.80655723030733,17.28171833475003],[75.81023090965529,17.30497607805183]]]},"properties":{"region_id":"village_599189","name":"GOTYAL","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

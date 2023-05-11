@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57141983960949,13.20746180683579],[77.56765973897639,13.20155505952747],[77.59050671765547,13.19490695244865],[77.5814895211475,13.2060992472301],[77.57141983960949,13.20746180683579]]]},"properties":{"region_id":"village_625292","name":"MARAGONDANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

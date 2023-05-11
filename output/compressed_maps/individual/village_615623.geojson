@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34034598642253,13.47293804824089],[76.32272365599418,13.47169566827767],[76.31853609591236,13.4535448428489],[76.33129781034444,13.45204583710032],[76.34034598642253,13.47293804824089]]]},"properties":{"region_id":"village_615623","name":"SOPPINAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4016217217594,12.35425645890154],[76.37588834319551,12.34226708250468],[76.39185962641861,12.31285482818963],[76.42340979693549,12.31501870348088],[76.4016217217594,12.35425645890154]]]},"properties":{"region_id":"village_618460","name":"KUPPEKOLAGATTA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

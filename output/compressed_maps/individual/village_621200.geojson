@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16478955309056,16.59606657826684],[77.13403339588778,16.5934813338143],[77.13226832904441,16.57264571414914],[77.16900028194704,16.56904464381272],[77.16478955309056,16.59606657826684]]]},"properties":{"region_id":"village_621200","name":"KANDHALLI","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

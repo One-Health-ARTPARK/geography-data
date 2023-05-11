@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04091477360471,14.52307443018046],[75.0604584622808,14.54474971590158],[75.04437321403192,14.54575915900283],[75.04091477360471,14.52307443018046]]]},"properties":{"region_id":"village_603317","name":"TIGANI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

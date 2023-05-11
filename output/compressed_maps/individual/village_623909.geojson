@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97243414361863,13.64091721406085],[77.95863842806196,13.65295027265984],[77.95286911274563,13.63964930145768],[77.96939720999228,13.62575076329829],[77.97243414361863,13.64091721406085]]]},"properties":{"region_id":"village_623909","name":"ACHAGANAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

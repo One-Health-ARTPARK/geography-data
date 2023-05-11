@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98186078835433,14.48069081403582],[75.98047453633632,14.49494297661569],[75.96724205923297,14.49501857420001],[75.96653447218847,14.48115806799168],[75.98186078835433,14.48069081403582]]]},"properties":{"region_id":"village_606560","name":"NAGARAKATTE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

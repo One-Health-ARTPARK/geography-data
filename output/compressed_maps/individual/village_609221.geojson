@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92871511423694,13.68099262704274],[75.91773678143814,13.67321090358676],[75.92936751398743,13.67102817214354],[75.92871511423694,13.68099262704274]]]},"properties":{"region_id":"village_609221","name":"KOTEBASAVANAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

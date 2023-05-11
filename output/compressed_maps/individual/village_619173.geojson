@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5256517765042,11.96357650400119],[76.51373050116834,11.96712037511517],[76.50750932192594,11.94343404834031],[76.51897678651324,11.9397202111174],[76.5256517765042,11.96357650400119]]]},"properties":{"region_id":"village_619173","name":"MADUVINAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

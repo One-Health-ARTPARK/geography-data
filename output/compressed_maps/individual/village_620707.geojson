@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92106495355947,16.87029840932746],[76.9161947646004,16.85767140218238],[76.97991541697559,16.84975566681795],[76.97475633741934,16.89907536150448],[76.92106495355947,16.87029840932746]]]},"properties":{"region_id":"village_620707","name":"KOLLUR","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

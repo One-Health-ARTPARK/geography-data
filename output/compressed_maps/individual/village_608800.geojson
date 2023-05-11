@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85879524579603,13.44147554685759],[74.84392429026522,13.42970945158032],[74.85407440549167,13.4061542309263],[74.8652348804589,13.42280046662111],[74.85879524579603,13.44147554685759]]]},"properties":{"region_id":"village_608800","name":"HALUVALLI","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

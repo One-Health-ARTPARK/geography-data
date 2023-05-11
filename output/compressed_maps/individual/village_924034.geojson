@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93524293128296,12.04141794496256],[75.91342109775765,12.04886269936054],[75.9065986503276,12.02701689201924],[75.93124031766067,12.0276120339749],[75.93524293128296,12.04141794496256]]]},"properties":{"region_id":"village_924034","name":"PORADU","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

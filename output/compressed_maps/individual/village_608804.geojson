@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89568700265578,13.50541827421531],[74.87912949208676,13.47704286992107],[74.90015637133553,13.45827267776077],[74.93020267889167,13.46450033659548],[74.91436230262023,13.49336153928703],[74.89568700265578,13.50541827421531]]]},"properties":{"region_id":"village_608804","name":"NALKUR","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

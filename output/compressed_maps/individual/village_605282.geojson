@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76406350220246,14.55066456324362],[76.74366048576408,14.56956278974462],[76.7044758349091,14.5550369145199],[76.75438361256681,14.53958827252103],[76.76406350220246,14.55066456324362]]]},"properties":{"region_id":"village_605282","name":"GOWRASAMUDRA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

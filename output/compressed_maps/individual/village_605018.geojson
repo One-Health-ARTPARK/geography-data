@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61262362207832,15.14950020750369],[76.58191351363436,15.15264777831026],[76.58333921049858,15.14365369179923],[76.61262362207832,15.14950020750369]]]},"properties":{"region_id":"village_605018","name":"SHRO.GANGALAPUR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

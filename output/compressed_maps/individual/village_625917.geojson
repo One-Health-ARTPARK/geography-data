@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30293495852384,12.99221191008064],[77.30039452454632,13.00672282433672],[77.28931311328651,12.99924084935242],[77.30293495852384,12.99221191008064]]]},"properties":{"region_id":"village_625917","name":"BOMMANAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81557777010218,14.27706076282753],[76.807039774937,14.29427076455355],[76.7804051073047,14.27991286251959],[76.78088577058301,14.26783098103831],[76.81557777010218,14.27706076282753]]]},"properties":{"region_id":"village_605392","name":"PURLAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

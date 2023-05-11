@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92513352433976,13.61891747951928],[77.90677528545838,13.62096721556106],[77.90492287809401,13.60028690462902],[77.92470979808323,13.59473645753912],[77.92513352433976,13.61891747951928]]]},"properties":{"region_id":"village_624032","name":"BANDAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

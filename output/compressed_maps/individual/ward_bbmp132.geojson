@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53475200034627,12.96436400000932],[77.52645099954212,12.96457199988759],[77.52951099980716,12.95082199994676],[77.5359009999507,12.95403599970231],[77.53475200034627,12.96436400000932]]]},"properties":{"region_id":"ward_bbmp132","name":"WARD NO.132 (ATTIGUPPE)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

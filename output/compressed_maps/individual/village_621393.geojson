@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.27806717898892,13.56591717736971],[78.27636641644843,13.58874922884314],[78.2601333841164,13.58466942631654],[78.25738184715873,13.57428302259478],[78.27806717898892,13.56591717736971]]]},"properties":{"region_id":"village_621393","name":"GUDIPALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

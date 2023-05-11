@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82517036370486,16.01402615613934],[76.80662330612716,16.01314994488594],[76.797995225255,15.99553583103472],[76.83274928823575,15.99136207933359],[76.82517036370486,16.01402615613934]]]},"properties":{"region_id":"village_600924","name":"SUNKNOOR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60772014422444,14.41720425884364],[76.58116857507719,14.41356065700664],[76.58861456173516,14.39346838200697],[76.6241533847993,14.40420902368347],[76.60772014422444,14.41720425884364]]]},"properties":{"region_id":"village_605271","name":"NERALAGUNTE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

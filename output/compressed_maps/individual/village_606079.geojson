@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5411526282393,14.03826504790263],[76.49464709454918,14.02332490148024],[76.49566710870428,14.00961230775313],[76.54318954445816,14.01730706635857],[76.5411526282393,14.03826504790263]]]},"properties":{"region_id":"village_606079","name":"HULITHOTLU","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

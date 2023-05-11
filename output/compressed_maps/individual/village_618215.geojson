@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15344124251726,12.36710162896921],[76.15345542532322,12.37572211257989],[76.1407360363945,12.37696865571276],[76.1428973443672,12.35827204979378],[76.15344124251726,12.36710162896921]]]},"properties":{"region_id":"village_618215","name":"CHIKKABYALALU","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

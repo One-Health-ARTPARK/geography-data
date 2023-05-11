@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32738492031972,12.82567095074479],[77.31152282501913,12.82918137262259],[77.2947416715569,12.80454388603542],[77.31623959609568,12.79754435575159],[77.32738492031972,12.82567095074479]]]},"properties":{"region_id":"village_626074","name":"BOMMACHANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

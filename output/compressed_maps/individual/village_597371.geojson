@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79238888380547,16.42364171214051],[74.79068510450426,16.45736515245438],[74.75368374216298,16.44871069540073],[74.79238888380547,16.42364171214051]]]},"properties":{"region_id":"village_597371","name":"HUBBARWADI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

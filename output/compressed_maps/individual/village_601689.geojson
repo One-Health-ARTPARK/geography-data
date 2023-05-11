@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70794974298526,15.55773570556923],[76.68575964433799,15.5848481643114],[76.6620414366452,15.58190635026727],[76.64614085162141,15.5505059161387],[76.66853947647228,15.53802131537824],[76.70794974298526,15.55773570556923]]]},"properties":{"region_id":"village_601689","name":"YERDONA","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

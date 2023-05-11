@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91685856760581,15.89475936968331],[76.90815558257462,15.89580318642006],[76.89615755907008,15.86577908398706],[76.9009035868327,15.85414134055356],[76.91284408210448,15.85172063740837],[76.91685856760581,15.89475936968331]]]},"properties":{"region_id":"village_601165","name":"RAGALPARVI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.29917808391826,14.72123607864634],[74.28032908407864,14.71260731413178],[74.2966651923159,14.70659763621121],[74.29917808391826,14.72123607864634]]]},"properties":{"region_id":"village_603327","name":"HATTIKERI","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

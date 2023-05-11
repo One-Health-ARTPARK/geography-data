@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.114103272468,14.508986655518],[75.10556414736566,14.51036963736035],[75.09588749047778,14.48987945883263],[75.1177358768524,14.4923046618518],[75.114103272468,14.508986655518]]]},"properties":{"region_id":"village_607468","name":"GENDLA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

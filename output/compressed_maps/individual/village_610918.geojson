@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36795215161379,13.7343876125568],[77.33726055696867,13.74062407806035],[77.32766374644787,13.73490203227192],[77.36098956246626,13.72566375477026],[77.36795215161379,13.7343876125568]]]},"properties":{"region_id":"village_610918","name":"HOSAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86977663452068,17.49448454363498],[76.86727076702809,17.51804275124161],[76.84176669824613,17.51132089771641],[76.84015987313012,17.48881471547173],[76.86977663452068,17.49448454363498]]]},"properties":{"region_id":"village_620221","name":"BABLAD (T.K.)","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

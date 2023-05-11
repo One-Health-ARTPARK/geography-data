@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0045595789573,16.83283808922662],[76.99308784126858,16.83299415555069],[76.99082817784439,16.81240354322037],[77.0068352068908,16.82035313223818],[77.0045595789573,16.83283808922662]]]},"properties":{"region_id":"village_621288","name":"TALAK","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

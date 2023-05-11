@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26601218298808,16.61644095853051],[77.23190337702924,16.61774622747501],[77.24206389299192,16.57922112348319],[77.26645394971378,16.57851558248673],[77.26601218298808,16.61644095853051]]]},"properties":{"region_id":"village_621366","name":"KUDLUR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

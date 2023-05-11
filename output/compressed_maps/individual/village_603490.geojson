@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42836092903698,14.37720769198567],[74.42107879355638,14.38427678110092],[74.41847348222258,14.37581280748568],[74.42836092903698,14.37720769198567]]]},"properties":{"region_id":"village_603490","name":"HARNIR","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

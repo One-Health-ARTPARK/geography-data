@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1105452736328,14.13277114744602],[77.08687205337478,14.12654552235606],[77.09631597297596,14.10907192506065],[77.11228884188147,14.11291110993487],[77.1105452736328,14.13277114744602]]]},"properties":{"region_id":"village_610606","name":"RANGAPPANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

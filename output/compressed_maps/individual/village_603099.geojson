@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75905863969268,14.78151064194869],[74.73227356179974,14.79385228367572],[74.71496339155192,14.76374214649676],[74.73769612021651,14.75440476413818],[74.75905863969268,14.78151064194869]]]},"properties":{"region_id":"village_603099","name":"KODNAGADDE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92636657517983,17.83785194611573],[76.88756282574569,17.81969678278722],[76.91203154406598,17.80083364082515],[76.93083905630124,17.81062610864375],[76.92636657517983,17.83785194611573]]]},"properties":{"region_id":"village_599781","name":"SASTAPUR","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

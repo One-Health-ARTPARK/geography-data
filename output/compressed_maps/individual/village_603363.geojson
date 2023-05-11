@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.30444570736009,14.66139539595216],[74.31618743601541,14.65777787505793],[74.3322995892666,14.67075758276614],[74.30747272367013,14.67413184987652],[74.30444570736009,14.66139539595216]]]},"properties":{"region_id":"village_603363","name":"SHETGERI","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

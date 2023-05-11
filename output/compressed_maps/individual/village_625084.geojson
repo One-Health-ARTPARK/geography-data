@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5728687345666,13.34281571041183],[77.55920996544779,13.34715902960516],[77.5599614386984,13.33756376396784],[77.5728687345666,13.34281571041183]]]},"properties":{"region_id":"village_625084","name":"THOGARIGHATTA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

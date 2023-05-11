@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00244450853337,12.47505156105783],[76.97690661160968,12.48123076411461],[76.97761597260948,12.46530594620884],[77.00244450853337,12.47505156105783]]]},"properties":{"region_id":"village_614635","name":"K. SETTIHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

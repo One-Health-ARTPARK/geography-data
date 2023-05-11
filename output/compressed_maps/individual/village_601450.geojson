@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07528807479267,15.82578824005349],[76.04988266006714,15.82502717680321],[76.0542072150021,15.8025673408871],[76.07377066596092,15.8057661948824],[76.07528807479267,15.82578824005349]]]},"properties":{"region_id":"village_601450","name":"ZHOOLKATTI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

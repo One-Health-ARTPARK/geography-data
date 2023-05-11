@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24927414743645,13.6845314579343],[75.22267128484893,13.67981487528223],[75.23576494253281,13.66191486816481],[75.24927414743645,13.6845314579343]]]},"properties":{"region_id":"village_608227","name":"MELINAKURUVALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

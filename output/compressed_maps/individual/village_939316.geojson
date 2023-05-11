@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77608394050502,16.74592431683962],[76.7626354092901,16.74630894386498],[76.76211552232834,16.73547743722056],[76.78741626151816,16.73522409035683],[76.77608394050502,16.74592431683962]]]},"properties":{"region_id":"village_939316","name":"KANCHANAKAVI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

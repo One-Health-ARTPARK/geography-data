@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29568241881061,13.70803592171371],[76.26976392910606,13.71488736492678],[76.26732821175469,13.68707302858018],[76.29315009569572,13.67768762268718],[76.29568241881061,13.70803592171371]]]},"properties":{"region_id":"village_605944","name":"BALLALASAMUDRA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

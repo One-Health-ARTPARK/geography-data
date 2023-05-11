@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03248932634227,13.18027828231567],[77.03131353853051,13.19329025967269],[77.02052282484118,13.19109384337676],[77.01416714764206,13.18484796838829],[77.03248932634227,13.18027828231567]]]},"properties":{"region_id":"village_611508","name":"KEMBALALU","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

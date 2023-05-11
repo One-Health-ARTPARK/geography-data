@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71746480741844,13.01403363090744],[76.70306705956057,13.01690921157489],[76.7074813512212,13.00483011475151],[76.71746480741844,13.01403363090744]]]},"properties":{"region_id":"village_613688","name":"ARNI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

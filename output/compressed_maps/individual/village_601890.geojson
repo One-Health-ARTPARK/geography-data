@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48693755171418,15.76951902152644],[75.4977035540147,15.75798469697886],[75.53293122684525,15.75511893235377],[75.53406469070978,15.76448286880771],[75.48693755171418,15.76951902152644]]]},"properties":{"region_id":"village_601890","name":"KHANAPUR","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

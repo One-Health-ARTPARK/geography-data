@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96215459302621,16.36537670023216],[76.96444593045521,16.37021697951836],[76.9578268572865,16.36791527228232],[76.96215459302621,16.36537670023216]]]},"properties":{"region_id":"village_600619","name":"MANSAGAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

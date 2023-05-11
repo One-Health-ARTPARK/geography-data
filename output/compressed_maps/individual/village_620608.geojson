@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14992364817836,17.30754339543587],[77.12579938112648,17.32079999768353],[77.12137414071819,17.29948773349903],[77.14992364817836,17.30754339543587]]]},"properties":{"region_id":"village_620608","name":"DONNUR","parent":"subdistrict_7087","parent_name":"KALAGI"}}
+]}

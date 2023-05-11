@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22428071610695,13.83492808208276],[75.20492766141382,13.82490321636228],[75.21636738289418,13.81284773389758],[75.22944524111522,13.81656171176493],[75.22428071610695,13.83492808208276]]]},"properties":{"region_id":"village_608072","name":"KARADIGA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

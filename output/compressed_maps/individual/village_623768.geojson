@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75309149156115,13.64627027532885],[77.7488927352004,13.65386441661175],[77.74345535542922,13.6478057757548],[77.75309149156115,13.64627027532885]]]},"properties":{"region_id":"village_623768","name":"APPIREDDIHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

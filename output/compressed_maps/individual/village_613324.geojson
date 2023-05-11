@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69369598299104,12.72779643578813],[77.69306501583301,12.73336856888164],[77.69068830575077,12.73270143048293],[77.6895931339948,12.72778409502507],[77.69369598299104,12.72779643578813]]]},"properties":{"region_id":"village_613324","name":"AMANI DODDAKERE","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

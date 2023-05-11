@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16910109657407,12.82699429863776],[77.1382587385768,12.81121682732748],[77.15105249465495,12.79374067872067],[77.16856328123045,12.80174679952162],[77.16910109657407,12.82699429863776]]]},"properties":{"region_id":"village_626048","name":"VIRUPASANDRA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

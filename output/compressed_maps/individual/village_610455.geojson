@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87242175270826,13.56512084079114],[76.87638801437411,13.57959421154988],[76.85915962039377,13.57741031851156],[76.86302432436739,13.5646615881147],[76.87242175270826,13.56512084079114]]]},"properties":{"region_id":"village_610455","name":"HALEBIJJANABELLA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

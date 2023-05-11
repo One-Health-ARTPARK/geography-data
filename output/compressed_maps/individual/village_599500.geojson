@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02580951771775,16.76022482651248],[76.00061181051409,16.7599392751119],[75.99507681208884,16.74033870904695],[76.02656737552238,16.7315193612888],[76.02580951771775,16.76022482651248]]]},"properties":{"region_id":"village_599500","name":"BOMMANAHALLI","parent":"subdistrict_5452","parent_name":"BASAVANA BAGEVADI"}}
+]}

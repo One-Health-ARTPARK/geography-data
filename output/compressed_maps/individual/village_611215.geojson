@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30913816071376,13.39579487771077],[77.30449186420587,13.39581839615034],[77.30542890827452,13.38866751602111],[77.30942950334843,13.3910855328263],[77.30913816071376,13.39579487771077]]]},"properties":{"region_id":"village_611215","name":"LAKKAIAHNAPALYA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

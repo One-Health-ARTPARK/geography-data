@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48624220298419,16.02937464054318],[75.45731085130691,15.99677324171936],[75.48719794386194,15.97205297392651],[75.48624220298419,16.02937464054318]]]},"properties":{"region_id":"village_598698","name":"HALIGERI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

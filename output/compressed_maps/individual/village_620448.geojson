@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30338027929106,17.36541694293998],[77.26435349270592,17.35700131148166],[77.26398800035014,17.31007143008949],[77.30696600045438,17.31960423658757],[77.30338027929106,17.36541694293998]]]},"properties":{"region_id":"village_620448","name":"GADIKESHWAR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

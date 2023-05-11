@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97358687284897,15.54140524271363],[74.95210532525836,15.54434518399995],[74.95443475645087,15.53466802008006],[74.97358687284897,15.54140524271363]]]},"properties":{"region_id":"village_602220","name":"MANGALAGATTI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46410844993756,13.46402804603957],[77.45489257350084,13.46856318612503],[77.4549159525068,13.43711743196116],[77.46178190120548,13.40280790550023],[77.46966957607854,13.40470431278264],[77.46410844993756,13.46402804603957]]]},"properties":{"region_id":"village_624961","name":"HOSAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

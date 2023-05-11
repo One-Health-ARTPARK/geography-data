@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21028689706445,15.23322359469323],[75.17455489563226,15.23617651134567],[75.17826634116705,15.21567876974008],[75.21079527939642,15.20853291033645],[75.21028689706445,15.23322359469323]]]},"properties":{"region_id":"village_602525","name":"BETADUR","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

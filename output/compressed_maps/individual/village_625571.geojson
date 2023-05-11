@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94201628435762,13.17420242085969],[77.92973471296683,13.17033515104478],[77.93918134704165,13.16301792260213],[77.94201628435762,13.17420242085969]]]},"properties":{"region_id":"village_625571","name":"BANDAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

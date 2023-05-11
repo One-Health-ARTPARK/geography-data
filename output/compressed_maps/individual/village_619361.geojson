@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95060873245906,12.27321847279092],[76.94168630371057,12.28254240808285],[76.93832351933979,12.27140013647],[76.95060873245906,12.27321847279092]]]},"properties":{"region_id":"village_619361","name":"KONAGALLI","parent":"subdistrict_5575","parent_name":"TIRUMAKUDAL - NARSIPUR"}}
+]}

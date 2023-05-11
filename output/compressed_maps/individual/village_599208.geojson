@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87934970841886,17.28647153272196],[75.86053234213135,17.28809060709013],[75.84485068119717,17.24576342322787],[75.88230371868424,17.23561036876293],[75.87934970841886,17.28647153272196]]]},"properties":{"region_id":"village_599208","name":"BHATAGUNAKI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

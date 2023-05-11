@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75462226796384,13.92782093439878],[75.7369852518751,13.93386767193757],[75.74133779582267,13.9171198677908],[75.75462226796384,13.92782093439878]]]},"properties":{"region_id":"village_608578","name":"KALPANAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

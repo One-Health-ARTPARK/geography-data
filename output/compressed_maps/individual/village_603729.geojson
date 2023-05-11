@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.47022997419505,14.38909406670847],[74.46050547986039,14.37516841784409],[74.4769026135818,14.37251472516406],[74.47022997419505,14.38909406670847]]]},"properties":{"region_id":"village_603729","name":"KEKKAR","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

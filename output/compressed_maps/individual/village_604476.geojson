@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6088005920298,14.76647314140445],[75.56644982539889,14.76405843258718],[75.58575225335777,14.73462947338636],[75.6088005920298,14.76647314140445]]]},"properties":{"region_id":"village_604476","name":"HANUMAPUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

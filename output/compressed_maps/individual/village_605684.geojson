@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15565182958214,13.96809362206054],[76.15340979931281,13.99912665472576],[76.1323473159821,13.99200772339754],[76.13233613010625,13.97006039883069],[76.15565182958214,13.96809362206054]]]},"properties":{"region_id":"village_605684","name":"HAROGUTTI KAVAL","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

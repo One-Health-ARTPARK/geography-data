@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28252314436857,12.59442583898945],[76.26694468513514,12.58861277127418],[76.27745663504176,12.57656037364536],[76.28252314436857,12.59442583898945]]]},"properties":{"region_id":"village_618544","name":"KATNALU","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2967833127566,14.34945952162888],[75.28831597055868,14.35429867280893],[75.27728988498757,14.35489257382587],[75.27611349853527,14.34851465973495],[75.2967833127566,14.34945952162888]]]},"properties":{"region_id":"village_607745","name":"DASANAPURA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20854866150957,15.9621439357334],[75.17249920485689,15.95180601737458],[75.17356432510249,15.92350387480339],[75.21606424069095,15.92522206538701],[75.20854866150957,15.9621439357334]]]},"properties":{"region_id":"village_598367","name":"KHANAPETH","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

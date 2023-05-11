@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24879862011478,15.64711958468147],[75.23618052233356,15.67915047667738],[75.22388549407819,15.67729596387375],[75.23125522899676,15.61440709733701],[75.2524743874776,15.61325327473946],[75.24879862011478,15.64711958468147]]]},"properties":{"region_id":"village_602321","name":"JAVOOR","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

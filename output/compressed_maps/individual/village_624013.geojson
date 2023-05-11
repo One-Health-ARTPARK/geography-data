@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.12059244590942,13.71496789707971],[78.10885044873835,13.73068828083225],[78.10021569214233,13.72201424708184],[78.12059244590942,13.71496789707971]]]},"properties":{"region_id":"village_624013","name":"NIMMAKAYILAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

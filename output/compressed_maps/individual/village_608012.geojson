@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30885643932287,13.93515837752395],[75.2924534229846,13.93066070360381],[75.29587533026627,13.90952433097744],[75.31946169072197,13.91234926579001],[75.30885643932287,13.93515837752395]]]},"properties":{"region_id":"village_608012","name":"KAGACHI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

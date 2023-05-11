@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43419621888434,15.92605634684917],[76.42832918157454,15.90831852804009],[76.43937606939825,15.90967281875239],[76.43419621888434,15.92605634684917]]]},"properties":{"region_id":"village_600390","name":"HEGGAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82897939853555,13.45883806490906],[77.81575606960871,13.45205796984324],[77.82365063796274,13.44316248158398],[77.82897939853555,13.45883806490906]]]},"properties":{"region_id":"village_623587","name":"ANGAREKANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

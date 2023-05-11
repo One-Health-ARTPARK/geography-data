@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36052338058654,16.06280327543956],[76.3367531686503,16.04610379283346],[76.38559321882917,16.03066431145193],[76.36052338058654,16.06280327543956]]]},"properties":{"region_id":"village_600363","name":"KILLAR HATTI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

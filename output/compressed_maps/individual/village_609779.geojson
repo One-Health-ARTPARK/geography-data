@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94525413720957,13.33928660564553],[75.91638841713713,13.32620800442797],[75.93584561492591,13.31332249489716],[75.94525413720957,13.33928660564553]]]},"properties":{"region_id":"village_609779","name":"DEVAGONDANAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

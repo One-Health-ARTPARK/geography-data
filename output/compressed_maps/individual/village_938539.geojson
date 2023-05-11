@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57359980798185,13.07529262509068],[77.56218758253925,13.07970096586162],[77.558052421418,13.0687875099927],[77.56582444749681,13.06567593840105],[77.57359980798185,13.07529262509068]]]},"properties":{"region_id":"village_938539","name":"TINDLU","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35222879790894,14.30847744963552],[75.31971394426742,14.33190831484615],[75.3052270276932,14.30468906342214],[75.35222879790894,14.30847744963552]]]},"properties":{"region_id":"village_607754","name":"SEELAVANTHANAKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86039950448423,12.23399100358283],[76.85545215563226,12.25247798607692],[76.84052098876938,12.25183735147108],[76.84080200463207,12.23326980298443],[76.86039950448423,12.23399100358283]]]},"properties":{"region_id":"village_619392","name":"HOSAKOTE","parent":"subdistrict_5575","parent_name":"TIRUMAKUDAL - NARSIPUR"}}
+]}

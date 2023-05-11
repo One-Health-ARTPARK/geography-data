@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79073308192396,13.04130819635165],[77.78173596971783,13.04481218517871],[77.78460079985553,13.02847582647727],[77.79208109777144,13.03695114939539],[77.79073308192396,13.04130819635165]]]},"properties":{"region_id":"village_625710","name":"DODDAGATTIGANABBE","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

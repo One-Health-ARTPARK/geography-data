@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72350287525367,12.74378325342946],[76.71351727890266,12.72550439298096],[76.72663166888192,12.72331697666848],[76.72350287525367,12.74378325342946]]]},"properties":{"region_id":"village_614028","name":"SAMAKAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79973114263865,14.66587842679112],[75.79592651030254,14.68316391402626],[75.77892358075106,14.67763595240841],[75.77871848291926,14.65918081292584],[75.79973114263865,14.66587842679112]]]},"properties":{"region_id":"village_604496","name":"KONANATAMBIGI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73873545826869,13.04004991226635],[77.74952771534119,13.04771337042146],[77.7429631121829,13.06151105963542],[77.73262802719896,13.04619162191165],[77.73873545826869,13.04004991226635]]]},"properties":{"region_id":"village_613100","name":"CHEEMASANDRA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

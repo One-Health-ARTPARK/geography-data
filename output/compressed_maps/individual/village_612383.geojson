@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74078069973747,13.08865311551507],[76.72661958255327,13.0883376056911],[76.72249645789537,13.0675301718283],[76.73353881262028,13.07162849734694],[76.74078069973747,13.08865311551507]]]},"properties":{"region_id":"village_612383","name":"ANADAGU","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23159145544538,12.39038788730163],[76.21513029099413,12.38950817066102],[76.21219232573978,12.37473874652183],[76.22741933807471,12.37153753024642],[76.23159145544538,12.39038788730163]]]},"properties":{"region_id":"village_618203","name":"MALAGANAKERE","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50097411253842,13.49883604306792],[76.49842973463007,13.51258868685954],[76.48995467126676,13.51655201380671],[76.48259484544843,13.50787409045838],[76.50097411253842,13.49883604306792]]]},"properties":{"region_id":"village_610053","name":"HARENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

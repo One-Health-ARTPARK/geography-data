@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45606546988542,12.60147490262733],[75.47513085754981,12.56895242592122],[75.49740394519573,12.57430108173547],[75.49319261599737,12.59648839532293],[75.45606546988542,12.60147490262733]]]},"properties":{"region_id":"village_617766","name":"NELLURKEMBRAJE","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

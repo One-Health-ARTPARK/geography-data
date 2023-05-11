@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73173735535688,13.44890042873393],[74.71729449951088,13.43999581752888],[74.72833318444857,13.4259103923829],[74.74527988347636,13.43496552743984],[74.73173735535688,13.44890042873393]]]},"properties":{"region_id":"village_608845","name":"VARAMBALLI (CT)","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

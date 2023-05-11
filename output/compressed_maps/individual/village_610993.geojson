@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06805919644341,13.55651140437352],[77.05542977882615,13.56788596487526],[77.04826129261684,13.55891259201959],[77.06805919644341,13.55651140437352]]]},"properties":{"region_id":"village_610993","name":"KABBIGERE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

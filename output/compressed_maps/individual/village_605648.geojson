@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13346426448096,14.15217374467395],[76.12208348569662,14.15895804722815],[76.11471264759125,14.14519509652969],[76.12741699640789,14.13744009647104],[76.13346426448096,14.15217374467395]]]},"properties":{"region_id":"village_605648","name":"SRINGERI-HANUMANAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

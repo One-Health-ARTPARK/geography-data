@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3182241943264,16.07792384112172],[77.31473564196489,16.03054799466781],[77.35086182673813,16.05147934796955],[77.3182241943264,16.07792384112172]]]},"properties":{"region_id":"village_600847","name":"PURTIPALI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

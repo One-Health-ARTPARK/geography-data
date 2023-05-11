@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40094390548822,13.22949251253501],[77.37264324486439,13.22914435471864],[77.387249054729,13.21488322598034],[77.40094390548822,13.22949251253501]]]},"properties":{"region_id":"village_625223","name":"HALENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

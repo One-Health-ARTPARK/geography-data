@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57613245498786,14.22744947161492],[75.56343840369483,14.24169905347598],[75.56262437076285,14.27129896683987],[75.55215707746997,14.27392045727532],[75.55612257273175,14.2330734665039],[75.57613245498786,14.22744947161492]]]},"properties":{"region_id":"village_606759","name":"MADENAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

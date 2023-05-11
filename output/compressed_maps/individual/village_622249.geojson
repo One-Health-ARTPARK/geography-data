@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93165017804468,12.92077513508918],[77.90934593408215,12.92511655529495],[77.91343761657343,12.9145673685712],[77.93165017804468,12.92077513508918]]]},"properties":{"region_id":"village_622249","name":"MINASANDRA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

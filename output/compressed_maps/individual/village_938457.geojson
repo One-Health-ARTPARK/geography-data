@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56423321074239,12.86277638366639],[77.55087685459813,12.86861262190783],[77.54487275662947,12.84759686965699],[77.55442485859852,12.84788902556231],[77.56423321074239,12.86277638366639]]]},"properties":{"region_id":"village_938457","name":"ANJANAPURA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

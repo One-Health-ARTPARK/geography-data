@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2799046039427,14.90116532421533],[76.25874301071669,14.91391726644612],[76.25572925117996,14.87208155028359],[76.27960775576801,14.86249817368328],[76.2799046039427,14.90116532421533]]]},"properties":{"region_id":"village_605054","name":"THIMMALAPURA","parent":"subdistrict_7108","parent_name":"KOTTURU"}}
+]}

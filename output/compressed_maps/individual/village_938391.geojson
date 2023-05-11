@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93777823982258,14.46499607683392],[75.9323423279168,14.46486433406626],[75.93524510584326,14.45122145779925],[75.94104087154275,14.45629463115525],[75.93777823982258,14.46499607683392]]]},"properties":{"region_id":"village_938391","name":"CHIKKANAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

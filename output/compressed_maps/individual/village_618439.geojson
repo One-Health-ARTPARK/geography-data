@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46786386656738,12.41110585554434],[76.44972853696056,12.4049547440476],[76.4660034207031,12.39437758356507],[76.46786386656738,12.41110585554434]]]},"properties":{"region_id":"village_618439","name":"HAROHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

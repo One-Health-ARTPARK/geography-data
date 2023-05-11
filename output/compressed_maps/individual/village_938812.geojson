@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05439230998745,13.0590182232598],[75.01617172694246,13.06009602924742],[75.0205015570183,13.04555633241645],[75.04882764682402,13.03289824846907],[75.05439230998745,13.0590182232598]]]},"properties":{"region_id":"village_938812","name":"KARINJE","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

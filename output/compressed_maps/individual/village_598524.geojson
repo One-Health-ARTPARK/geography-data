@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77515448593697,16.3583581550232],[75.76419202594775,16.34060564795554],[75.79288492813677,16.33003390765594],[75.77515448593697,16.3583581550232]]]},"properties":{"region_id":"village_598524","name":"BEERKABBI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

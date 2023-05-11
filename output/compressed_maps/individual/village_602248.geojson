@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8700637257768,15.45087726444259],[74.85228707569921,15.45142471881089],[74.85991918281911,15.43201933552923],[74.87962259039813,15.43572763400897],[74.8700637257768,15.45087726444259]]]},"properties":{"region_id":"village_602248","name":"ARAVATAGI","parent":"subdistrict_7081","parent_name":"ALNAVAR"}}
+]}

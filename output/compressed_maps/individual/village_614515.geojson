@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0040076389112,12.6861895719949],[77.00400983434685,12.69325736361095],[76.9916600201456,12.69637241213375],[76.98988444256132,12.6864233358744],[77.0040076389112,12.6861895719949]]]},"properties":{"region_id":"village_614515","name":"KUNTANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90810452164341,13.02514242179922],[77.89391488791397,13.03530287087492],[77.89271175083977,13.01464235702987],[77.90810452164341,13.02514242179922]]]},"properties":{"region_id":"village_622163","name":"YESWANTHAPURA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48919588770421,13.53667579165073],[75.48689235768107,13.57311487525849],[75.4637102098121,13.54865495845192],[75.48919588770421,13.53667579165073]]]},"properties":{"region_id":"village_609084","name":"ARALIKOPPA","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

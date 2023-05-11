@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.41876392592634,15.77952931749482],[74.39501061542096,15.78946911523196],[74.39740768804866,15.76960967776484],[74.41876392592634,15.77952931749482]]]},"properties":{"region_id":"village_597738","name":"KARLE","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

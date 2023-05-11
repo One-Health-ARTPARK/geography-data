@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16900028194704,16.56904464381272],[77.12021611103648,16.57584401880128],[77.12491728604468,16.53305779814003],[77.16333929387933,16.52732094786475],[77.16900028194704,16.56904464381272]]]},"properties":{"region_id":"village_621201","name":"BILHAR","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

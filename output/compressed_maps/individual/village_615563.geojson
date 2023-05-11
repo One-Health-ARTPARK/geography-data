@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28880282174941,13.14079851948399],[76.28042770327139,13.14146313845778],[76.27213340867168,13.12420133720615],[76.28962086969325,13.13609514744764],[76.28880282174941,13.14079851948399]]]},"properties":{"region_id":"village_615563","name":"CHANNAPURA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

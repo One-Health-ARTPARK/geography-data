@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25821114449649,16.65233069842895],[77.23260693326692,16.6696014595391],[77.22966838137275,16.61846052399866],[77.2452513908753,16.61692691301333],[77.25821114449649,16.65233069842895]]]},"properties":{"region_id":"village_621328","name":"GOUDGERA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

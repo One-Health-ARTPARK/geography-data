@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22287664822483,13.48393170724325],[76.2381487029016,13.49542738302329],[76.23355400197113,13.507017537505],[76.21746620814545,13.50993618107148],[76.22287664822483,13.48393170724325]]]},"properties":{"region_id":"village_609599","name":"SIDDARAMANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

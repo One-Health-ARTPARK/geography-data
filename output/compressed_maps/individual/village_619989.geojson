@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83159624741009,17.56833190341088],[76.82210582619224,17.58357547173403],[76.7999891745862,17.57588970382924],[76.82373765748099,17.54999125503888],[76.83159624741009,17.56833190341088]]]},"properties":{"region_id":"village_619989","name":"HODAL","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

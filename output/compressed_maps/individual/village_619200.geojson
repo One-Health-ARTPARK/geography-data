@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7933125135692,12.17125537246638],[76.78116675158958,12.17869056400672],[76.77551773477514,12.19715432607233],[76.76514545924873,12.19743356643028],[76.77709496404817,12.16796430545889],[76.7933125135692,12.17125537246638]]]},"properties":{"region_id":"village_619200","name":"ALATHUR","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

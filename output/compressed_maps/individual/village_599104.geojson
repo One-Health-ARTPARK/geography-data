@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82447915515313,16.76530207248394],[75.78652050632415,16.76208049428746],[75.77612937614346,16.74393803906621],[75.81948684246265,16.73587431064009],[75.82447915515313,16.76530207248394]]]},"properties":{"region_id":"village_599104","name":"KATAKANAHALLI","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97968056873921,13.10912453293731],[75.95494892087319,13.10818081565276],[75.96682190605176,13.08573709233871],[75.97968056873921,13.10912453293731]]]},"properties":{"region_id":"village_615344","name":"HULUGUNDI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

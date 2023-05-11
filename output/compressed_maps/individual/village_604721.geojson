@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38800841816021,15.30296914129675],[76.41625701152851,15.30239681065131],[76.39589549375005,15.31641672384747],[76.38800841816021,15.30296914129675]]]},"properties":{"region_id":"village_604721","name":"GUDIOBLAPURA","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57742367340417,12.95137323181239],[75.60255873726601,12.95758163066722],[75.60573387831778,12.98532681363124],[75.5796548927737,12.9674833759903],[75.57742367340417,12.95137323181239]]]},"properties":{"region_id":"village_610018","name":"BYRAPURA ESTATE","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

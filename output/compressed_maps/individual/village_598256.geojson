@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10872773429286,15.84730584340264],[75.09001766519332,15.84867765982742],[75.08308489195417,15.83264837429143],[75.1018144675694,15.8302543396347],[75.10872773429286,15.84730584340264]]]},"properties":{"region_id":"village_598256","name":"MANOLLI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

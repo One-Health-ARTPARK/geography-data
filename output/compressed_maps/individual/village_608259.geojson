@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32870118879552,13.64194130702271],[75.31213275449795,13.63778726218975],[75.31188579109201,13.62027948243836],[75.32576245874982,13.63009591659464],[75.32870118879552,13.64194130702271]]]},"properties":{"region_id":"village_608259","name":"HONNEKERE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

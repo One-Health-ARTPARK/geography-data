@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92625992088291,12.45400656484182],[75.9208092127299,12.44964853610265],[75.9287984061047,12.43926123327508],[75.93576719108337,12.44937639181628],[75.92625992088291,12.45400656484182]]]},"properties":{"region_id":"village_923974","name":"BELLURU","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

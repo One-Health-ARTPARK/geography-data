@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85457092626696,13.73123200401213],[75.84792373660189,13.71806962657978],[75.85954538904126,13.71063806826204],[75.86531196735639,13.72075851907941],[75.85457092626696,13.73123200401213]]]},"properties":{"region_id":"village_609198","name":"SAMATALA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

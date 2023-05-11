@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33436800799986,12.55899876101329],[76.32640336296724,12.56157393722002],[76.32114154340218,12.54820969640484],[76.32910132326363,12.54667884191672],[76.33436800799986,12.55899876101329]]]},"properties":{"region_id":"village_618553","name":"NARACHANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

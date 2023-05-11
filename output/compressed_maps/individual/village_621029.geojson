@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54516444058446,16.35742934097477],[76.52438816226923,16.37558619285556],[76.52104904048849,16.34863118126101],[76.54516444058446,16.35742934097477]]]},"properties":{"region_id":"village_621029","name":"SONNAPUR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17064908887765,17.10547085524077],[76.13864855194798,17.10659819391072],[76.13660837889948,17.09017320358225],[76.16440598151777,17.08390030050484],[76.17064908887765,17.10547085524077]]]},"properties":{"region_id":"village_599281","name":"MARASANAHALLI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

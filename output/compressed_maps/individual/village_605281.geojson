@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78894859886758,14.57012888044112],[76.77886463102777,14.5935667484193],[76.74762117484971,14.57598816554626],[76.75663503815609,14.552899057467],[76.78894859886758,14.57012888044112]]]},"properties":{"region_id":"village_605281","name":"BANDETHIMMALAPURA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

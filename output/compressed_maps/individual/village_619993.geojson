@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78541547781128,17.58991435168353],[76.77144233733819,17.56870277442549],[76.79396457025892,17.55953228426284],[76.80109577402334,17.57130359863132],[76.78541547781128,17.58991435168353]]]},"properties":{"region_id":"village_619993","name":"BETJEWARGI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

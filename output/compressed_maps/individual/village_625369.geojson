@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69421926812466,13.27575668734002],[77.68515486577199,13.28079569293714],[77.68472741950048,13.27394664488962],[77.69421926812466,13.27575668734002]]]},"properties":{"region_id":"village_625369","name":"ANIGHATTA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

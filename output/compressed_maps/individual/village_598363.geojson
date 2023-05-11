@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11006483738664,15.94398902494181],[75.09103546268061,15.94273139865482],[75.08855896386919,15.92906089909348],[75.11870392841955,15.93064573081211],[75.11006483738664,15.94398902494181]]]},"properties":{"region_id":"village_598363","name":"UJJINAKOPPA","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

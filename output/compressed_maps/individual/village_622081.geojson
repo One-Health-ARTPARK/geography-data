@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.26533779984045,13.10129483218032],[78.25604292539903,13.10275044029774],[78.24907895436816,13.09298866925395],[78.26428233578957,13.09310783909007],[78.26533779984045,13.10129483218032]]]},"properties":{"region_id":"village_622081","name":"SHAPUR","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

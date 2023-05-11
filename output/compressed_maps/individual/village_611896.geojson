@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93391521627669,13.19796426272993],[76.93492276506211,13.20645833891525],[76.92145943196108,13.2044458598545],[76.92069935037384,13.19750678388156],[76.93391521627669,13.19796426272993]]]},"properties":{"region_id":"village_611896","name":"LINGAMMANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

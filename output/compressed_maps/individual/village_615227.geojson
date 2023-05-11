@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89534637355973,13.19221588247443],[75.87427526882806,13.18618363757541],[75.87779468383789,13.1729018472769],[75.8936256683194,13.17834651966172],[75.89534637355973,13.19221588247443]]]},"properties":{"region_id":"village_615227","name":"BANTENAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

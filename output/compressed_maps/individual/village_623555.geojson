@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74214850913285,13.46063391285713],[77.73587503005155,13.46093550374894],[77.73322952120387,13.44693001721599],[77.73809077391863,13.44481230384773],[77.74214850913285,13.46063391285713]]]},"properties":{"region_id":"village_623555","name":"HONNENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

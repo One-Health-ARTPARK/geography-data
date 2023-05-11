@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6020939847002,16.21495256001956],[76.54130802633637,16.22435411584898],[76.54411032813883,16.18847905803944],[76.58966400739723,16.16709077194097],[76.6020939847002,16.21495256001956]]]},"properties":{"region_id":"village_600469","name":"HONNAHALLI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

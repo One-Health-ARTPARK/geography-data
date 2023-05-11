@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53920173806947,14.42714959313106],[75.55449852507806,14.37455928738707],[75.57129244559731,14.37425417892999],[75.57675514767132,14.41863062116474],[75.53920173806947,14.42714959313106]]]},"properties":{"region_id":"village_604451","name":"KADUR","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

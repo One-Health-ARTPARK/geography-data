@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95841176566411,14.50973030772074],[75.92532364245692,14.51953126795529],[75.93105313113654,14.48007811785747],[75.96265927710259,14.47388658471367],[75.95841176566411,14.50973030772074]]]},"properties":{"region_id":"village_606557","name":"BETHURU","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

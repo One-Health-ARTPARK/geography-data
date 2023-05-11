@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88455068517464,15.67193473948248],[75.89386324660697,15.68822046278665],[75.8876207164738,15.71746323147558],[75.870159676218,15.71500302871613],[75.87056679614014,15.67328189996061],[75.88455068517464,15.67193473948248]]]},"properties":{"region_id":"village_601230","name":"SANKANUR","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

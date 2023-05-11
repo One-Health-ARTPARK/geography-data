@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3433134910554,17.31366301660833],[76.3030861319584,17.31478120973705],[76.31409938587879,17.28304064867117],[76.34026664561466,17.28127983791451],[76.3433134910554,17.31366301660833]]]},"properties":{"region_id":"village_620093","name":"NANDERGA","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

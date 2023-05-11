@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.26917183099381,13.09321705480048],[78.24888397579527,13.09296207364704],[78.2508007565281,13.08065734947938],[78.26633138948446,13.08117617205859],[78.26917183099381,13.09321705480048]]]},"properties":{"region_id":"village_622083","name":"NANDAMBALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

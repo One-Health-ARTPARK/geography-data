@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18261198548328,13.41897725886724],[76.15987929746578,13.41681915272241],[76.16603422349345,13.39788046832455],[76.18144734903049,13.40462807803377],[76.18261198548328,13.41897725886724]]]},"properties":{"region_id":"village_615541","name":"BANAVARA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

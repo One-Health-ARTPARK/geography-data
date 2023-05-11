@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.62029516793828,15.79237107408246],[74.59689809719713,15.78544493040952],[74.60291170361154,15.77325774843884],[74.62751028458227,15.77553678071982],[74.62029516793828,15.79237107408246]]]},"properties":{"region_id":"village_939168","name":"SIDDANABAVI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

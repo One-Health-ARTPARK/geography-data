@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04025722140153,12.78582013430855],[76.02789763220065,12.78666889629045],[76.02447981688566,12.76885403131971],[76.04433878622767,12.76815297411648],[76.04025722140153,12.78582013430855]]]},"properties":{"region_id":"village_616563","name":"CHIKKARAKALAGUD","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

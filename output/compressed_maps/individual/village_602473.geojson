@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89670695747013,15.19874003431556],[74.86532657254403,15.18658800148646],[74.86146491725081,15.17161492382568],[74.88556957063156,15.1741646622905],[74.90709294946394,15.18635623956115],[74.89670695747013,15.19874003431556]]]},"properties":{"region_id":"village_602473","name":"SANGAMESHWAR","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

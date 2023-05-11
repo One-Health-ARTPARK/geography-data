@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57212102429847,13.31838652229379],[77.58177571707277,13.32185839717085],[77.58536335318838,13.33065017804521],[77.57540071207745,13.33310154593809],[77.57212102429847,13.31838652229379]]]},"properties":{"region_id":"village_625087","name":"RAJAGHATTA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

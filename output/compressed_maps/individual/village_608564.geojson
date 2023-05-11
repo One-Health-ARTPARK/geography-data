@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74284434547214,13.96016179389795],[75.73386953628918,13.95829157742081],[75.73209915121348,13.94863650144989],[75.74277560859541,13.94985922566359],[75.74284434547214,13.96016179389795]]]},"properties":{"region_id":"village_608564","name":"THIMMLAPURA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

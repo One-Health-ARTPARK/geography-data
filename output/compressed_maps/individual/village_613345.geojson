@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70751289338813,12.72955861127225],[77.69955671215811,12.72684254143118],[77.69797805364824,12.72219695754546],[77.70630214473255,12.7198116314688],[77.70751289338813,12.72955861127225]]]},"properties":{"region_id":"village_613345","name":"KAVAL HOSAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

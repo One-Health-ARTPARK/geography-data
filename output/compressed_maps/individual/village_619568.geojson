@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62650061839702,11.7542442182212],[76.61468533033845,11.7433135372691],[76.63704733840747,11.74169832179133],[76.62650061839702,11.7542442182212]]]},"properties":{"region_id":"village_619568","name":"DEVARAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

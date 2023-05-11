@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38528942875182,16.97895353320737],[76.38888483334514,17.00066373386095],[76.36051749799178,16.99504040841606],[76.36608776795981,16.97780661611997],[76.38528942875182,16.97895353320737]]]},"properties":{"region_id":"village_599333","name":"HANCHINAL","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

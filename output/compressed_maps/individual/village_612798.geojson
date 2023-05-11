@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3907715523799,13.02659316608646],[77.37852462645499,13.02732877383271],[77.37958305856478,12.99460555143381],[77.38463830115363,12.9948117043687],[77.39697786842666,13.01299339804093],[77.3907715523799,13.02659316608646]]]},"properties":{"region_id":"village_612798","name":"SONDEKOPPA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75385687795259,13.97875441506666],[75.75616949347267,13.99953742398013],[75.72813550506064,13.99653699612362],[75.72981576485287,13.97870971912507],[75.75385687795259,13.97875441506666]]]},"properties":{"region_id":"village_608543","name":"ARAHATHOLALU","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

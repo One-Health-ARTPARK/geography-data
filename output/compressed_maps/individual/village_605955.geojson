@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2956139554484,13.66771536790778],[76.28538688570607,13.65975651443733],[76.28539981506573,13.64740420651006],[76.30160096296528,13.6595400286044],[76.2956139554484,13.66771536790778]]]},"properties":{"region_id":"village_605955","name":"MALLENAHALLI (JODI)","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

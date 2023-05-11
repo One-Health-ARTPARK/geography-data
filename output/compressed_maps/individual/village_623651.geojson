@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78544035521632,13.41532749645868],[77.77023364786842,13.41911622908254],[77.75956148727178,13.40738506461881],[77.77543406552002,13.39853748627151],[77.78544035521632,13.41532749645868]]]},"properties":{"region_id":"village_623651","name":"AJJAVARA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

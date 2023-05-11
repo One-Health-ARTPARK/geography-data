@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55821857444157,17.12100828170994],[76.53259903299924,17.1275102490871],[76.52865196175445,17.10724186204009],[76.55821857444157,17.12100828170994]]]},"properties":{"region_id":"village_620175","name":"TAKLU","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

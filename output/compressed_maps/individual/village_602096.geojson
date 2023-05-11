@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61387439346603,15.21625711477772],[75.5951185652861,15.22142340693481],[75.59542352166457,15.20098465053216],[75.61330054398323,15.19356447868103],[75.61387439346603,15.21625711477772]]]},"properties":{"region_id":"village_602096","name":"VARAVI","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07770944225855,13.28555151228465],[77.06910870002125,13.28485239925901],[77.06854532799291,13.27764231281273],[77.07878821972172,13.27592574448849],[77.07770944225855,13.28555151228465]]]},"properties":{"region_id":"village_611557","name":"KONDAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

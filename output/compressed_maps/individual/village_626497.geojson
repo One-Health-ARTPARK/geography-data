@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34736102928257,12.54601434612853],[77.32561163805404,12.54666005568695],[77.32550258378858,12.5320647382191],[77.33934400476612,12.53047917913917],[77.34736102928257,12.54601434612853]]]},"properties":{"region_id":"village_626497","name":"CHOODAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06772744435851,15.28504407830314],[76.0224072104458,15.28852931630127],[76.02938303962998,15.26522707614974],[76.06772744435851,15.28504407830314]]]},"properties":{"region_id":"village_601723","name":"MAINAHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

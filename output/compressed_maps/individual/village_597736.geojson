@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.35185887288011,15.77060284384805],[74.34045413728097,15.76466381234126],[74.34394765162862,15.74400029440399],[74.36016309407793,15.75663021742572],[74.35185887288011,15.77060284384805]]]},"properties":{"region_id":"village_597736","name":"BAKNUR","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

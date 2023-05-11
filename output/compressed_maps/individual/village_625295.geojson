@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60376230754822,13.20261468092392],[77.58624037842044,13.21977639257574],[77.58093681676013,13.20637295171254],[77.60376230754822,13.20261468092392]]]},"properties":{"region_id":"village_625295","name":"BETTENAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

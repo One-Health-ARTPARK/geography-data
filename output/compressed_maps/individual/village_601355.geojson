@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01309658938995,15.41859250032643],[76.01205104454856,15.46465748232397],[75.99097182616013,15.46368647811084],[76.01309658938995,15.41859250032643]]]},"properties":{"region_id":"village_601355","name":"MASABHANCHINHAL","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

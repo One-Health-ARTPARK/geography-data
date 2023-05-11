@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72306922434855,13.97114113822481],[75.71403371303768,13.97861098615254],[75.7054082852408,13.97499931573586],[75.70834313263623,13.96567876759914],[75.72306922434855,13.97114113822481]]]},"properties":{"region_id":"village_608548","name":"YAMMEHATTI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24151034324996,14.07667851241468],[75.2224655585256,14.07652116225116],[75.2376415229342,14.05214215258752],[75.25492960914134,14.06494341704727],[75.24151034324996,14.07667851241468]]]},"properties":{"region_id":"village_607295","name":"ACHAPURA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

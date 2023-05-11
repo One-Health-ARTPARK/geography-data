@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44214346221855,12.22346394266667],[76.42269307604788,12.22470976878371],[76.42347404180671,12.2092536954347],[76.4383337300196,12.20906896059225],[76.44214346221855,12.22346394266667]]]},"properties":{"region_id":"village_618918","name":"THANDASIPURA","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

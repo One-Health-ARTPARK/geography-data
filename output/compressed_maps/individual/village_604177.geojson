@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22493530810871,14.6708938555731],[75.21379020531343,14.68542705637734],[75.2069314118584,14.67346461284726],[75.22493530810871,14.6708938555731]]]},"properties":{"region_id":"village_604177","name":"KANNESHWAR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04041709847299,13.85051615152835],[76.02230827050944,13.8530033086814],[76.01499086948648,13.84065237535681],[76.03447453488991,13.83476647605253],[76.04041709847299,13.85051615152835]]]},"properties":{"region_id":"village_609237","name":"DANDOOR","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

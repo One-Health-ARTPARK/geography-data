@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21361571584649,14.51155191467298],[76.19619898203196,14.50671536347926],[76.19944746192856,14.49408310176928],[76.21015069612591,14.49893664377651],[76.21361571584649,14.51155191467298]]]},"properties":{"region_id":"village_606467","name":"AJJABOMMANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

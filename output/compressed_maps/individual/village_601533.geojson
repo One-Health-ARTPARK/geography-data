@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32481872626154,15.74881597031281],[76.32040786549099,15.72137056957651],[76.34196825063871,15.71810729551417],[76.3484378486079,15.74364167112814],[76.32481872626154,15.74881597031281]]]},"properties":{"region_id":"village_601533","name":"HULIYAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

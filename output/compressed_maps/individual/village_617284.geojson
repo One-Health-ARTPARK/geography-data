@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49940193307512,13.0561038342406],[76.49595643520668,13.04642088577264],[76.50807493019883,13.04148763525086],[76.50772009409253,13.05313376520691],[76.49940193307512,13.0561038342406]]]},"properties":{"region_id":"village_617284","name":"NERALAKERE","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

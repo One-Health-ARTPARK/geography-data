@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43393835459798,15.59485509218634],[75.38862175773498,15.61505677263042],[75.38577687071569,15.58668545054985],[75.4118027927623,15.55149614948883],[75.43790850678407,15.56063309186792],[75.43393835459798,15.59485509218634]]]},"properties":{"region_id":"village_602348","name":"GUDISAGAR","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

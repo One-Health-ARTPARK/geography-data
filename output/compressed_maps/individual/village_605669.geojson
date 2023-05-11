@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1496354103735,14.10985444353922],[76.1324045015651,14.11000181224512],[76.13070650073067,14.09721669957128],[76.1515475497798,14.10021973596368],[76.1496354103735,14.10985444353922]]]},"properties":{"region_id":"village_605669","name":"BANAGERE","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

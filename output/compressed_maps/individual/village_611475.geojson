@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05081068093298,13.28044457931069],[77.02985048449769,13.27805798665924],[77.03662787005925,13.26732376655707],[77.05081068093298,13.28044457931069]]]},"properties":{"region_id":"village_611475","name":"GALIGENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

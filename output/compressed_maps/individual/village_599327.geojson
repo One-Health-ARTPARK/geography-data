@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31921737168962,16.98817173563866],[76.26864524129199,16.98135420488623],[76.2812879540479,16.95957719701385],[76.31921737168962,16.98817173563866]]]},"properties":{"region_id":"village_599327","name":"AHERI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68441971500715,12.72491221636605],[77.6729585212698,12.73334502222333],[77.66741799899906,12.72666928311224],[77.6819987411617,12.72095603649356],[77.68441971500715,12.72491221636605]]]},"properties":{"region_id":"village_613310","name":"HONNAKALASAPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66023521392667,15.10576695868444],[75.65350720792392,15.13721725298918],[75.63037587041032,15.14203725661484],[75.62936116273488,15.1042277102562],[75.66023521392667,15.10576695868444]]]},"properties":{"region_id":"village_602107","name":"RANATUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

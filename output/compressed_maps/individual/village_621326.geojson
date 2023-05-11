@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23260693326692,16.6696014595391],[77.20996095130079,16.66821041603413],[77.17737181792327,16.627393324915],[77.22170236264012,16.63604435063899],[77.23260693326692,16.6696014595391]]]},"properties":{"region_id":"village_621326","name":"MALHAR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

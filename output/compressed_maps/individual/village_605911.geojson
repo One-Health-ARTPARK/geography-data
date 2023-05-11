@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3405759438544,13.94346506563527],[76.32934365886477,13.96129093709156],[76.3000672045741,13.95633647158266],[76.30799782148296,13.93020426370745],[76.3405759438544,13.94346506563527]]]},"properties":{"region_id":"village_605911","name":"SEVANAGARA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

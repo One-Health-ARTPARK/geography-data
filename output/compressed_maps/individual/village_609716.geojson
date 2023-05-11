@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59937865453728,13.29521805389539],[75.58927153781083,13.28170249798088],[75.60362677340595,13.2638606283865],[75.61978582256924,13.27456807173203],[75.59937865453728,13.29521805389539]]]},"properties":{"region_id":"village_609716","name":"ARENOOR","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

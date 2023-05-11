@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45057893293486,14.45291488838702],[75.42771440187131,14.47915938184747],[75.42229453827889,14.46445407107201],[75.42701755344423,14.45361064770313],[75.45057893293486,14.45291488838702]]]},"properties":{"region_id":"village_604412","name":"TAWARAGI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

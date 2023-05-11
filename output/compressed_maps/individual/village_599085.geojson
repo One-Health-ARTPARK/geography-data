@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78352711696341,16.80904208988071],[75.78686063893073,16.83147569611167],[75.7579742826,16.84863216268097],[75.76030788883575,16.81844370239222],[75.78352711696341,16.80904208988071]]]},"properties":{"region_id":"village_599085","name":"AINAPUR","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

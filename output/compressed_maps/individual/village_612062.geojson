@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60219037496469,13.23971210009112],[76.5865802693768,13.24456120120712],[76.58620623396696,13.23247324981023],[76.60219037496469,13.23971210009112]]]},"properties":{"region_id":"village_612062","name":"AYARAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

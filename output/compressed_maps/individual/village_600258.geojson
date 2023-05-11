@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11115619556568,17.93064481837286],[77.09480820448742,17.94265504059058],[77.0797674182123,17.91835033221599],[77.10195268886908,17.91324430079088],[77.11115619556568,17.93064481837286]]]},"properties":{"region_id":"village_600258","name":"GHODWADI","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

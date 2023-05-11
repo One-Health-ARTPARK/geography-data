@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33868870286476,12.83080125548854],[76.32441170796878,12.83053940398671],[76.32189509610092,12.81760299059247],[76.34023669003747,12.81605588491414],[76.33868870286476,12.83080125548854]]]},"properties":{"region_id":"village_616938","name":"SINGAPURA","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

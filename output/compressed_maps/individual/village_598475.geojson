@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43278166120064,16.43875829221465],[75.4026324289786,16.46551991578513],[75.4005531305144,16.43509386753225],[75.43278166120064,16.43875829221465]]]},"properties":{"region_id":"village_598475","name":"RABKAVI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

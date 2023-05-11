@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39651927100293,16.33755874274323],[75.3877179654338,16.34088677209681],[75.37429191146674,16.30874523290754],[75.3861445346451,16.30539590055962],[75.39651927100293,16.33755874274323]]]},"properties":{"region_id":"village_598586","name":"MARIKATTI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

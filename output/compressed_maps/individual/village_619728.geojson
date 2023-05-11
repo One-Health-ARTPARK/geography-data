@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81698084861074,11.75746470722369],[76.79222021557709,11.7524497452543],[76.80642497419078,11.74035138106625],[76.81698084861074,11.75746470722369]]]},"properties":{"region_id":"village_619728","name":"MADALAVADI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

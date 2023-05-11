@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78563246447662,16.37588256550343],[76.76981698753598,16.35448198408234],[76.78174640437805,16.34910862546519],[76.80390229078783,16.35711407603611],[76.78563246447662,16.37588256550343]]]},"properties":{"region_id":"village_600549","name":"JALHALLI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

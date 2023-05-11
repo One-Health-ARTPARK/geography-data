@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96549975146219,12.64480494929244],[76.95954296959303,12.65352860511734],[76.94679413300523,12.64435640297199],[76.94988534919973,12.6353951285809],[76.96835896575782,12.63410119697228],[76.96549975146219,12.64480494929244]]]},"properties":{"region_id":"village_614369","name":"SHIVARA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

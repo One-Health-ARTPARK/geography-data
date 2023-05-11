@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58083641483422,12.3049237714935],[76.5665100472741,12.30514363492939],[76.57025078976329,12.29106541121494],[76.58873627676913,12.29241463817907],[76.58083641483422,12.3049237714935]]]},"properties":{"region_id":"village_618745","name":"MARATIKYATHANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

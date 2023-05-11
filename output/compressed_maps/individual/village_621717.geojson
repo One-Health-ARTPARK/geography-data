@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.30692608088137,13.30397134192158],[78.27984559044494,13.31315838113768],[78.28906535274344,13.29880281504197],[78.30692608088137,13.30397134192158]]]},"properties":{"region_id":"village_621717","name":"GOTTIKUNTE","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36844182345475,15.24991557344455],[75.35361383241911,15.27277642219844],[75.33117950408682,15.27114244113043],[75.33216764562167,15.24410261439671],[75.36844182345475,15.24991557344455]]]},"properties":{"region_id":"village_602560","name":"CHAKALABBI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

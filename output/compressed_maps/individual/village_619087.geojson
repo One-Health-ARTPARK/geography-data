@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42751052798772,11.96418692784715],[76.40588691672576,11.96276017767996],[76.40752386095954,11.94925037403093],[76.42505439407948,11.94140527234711],[76.42751052798772,11.96418692784715]]]},"properties":{"region_id":"village_619087","name":"HALEYURU","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

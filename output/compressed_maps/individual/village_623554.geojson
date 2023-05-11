@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73103749194644,13.45393625721127],[77.72591906413177,13.45970450775365],[77.71537499786442,13.44932029204298],[77.723540192513,13.43744346721238],[77.73103749194644,13.45393625721127]]]},"properties":{"region_id":"village_623554","name":"MUSTOOR","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34209911164767,13.01373933061501],[77.33181610380252,13.01356544562177],[77.32870424441698,13.0057125182342],[77.33944236789836,13.00182383257387],[77.34209911164767,13.01373933061501]]]},"properties":{"region_id":"village_624936","name":"KOTHANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

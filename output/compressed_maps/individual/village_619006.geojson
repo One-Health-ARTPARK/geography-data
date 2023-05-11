@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44425873707473,11.9303358893337],[76.45457583599203,11.90442250599596],[76.46915677842537,11.90872491930907],[76.44425873707473,11.9303358893337]]]},"properties":{"region_id":"village_619006","name":"SHAMBUGOWDANAHALLI","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

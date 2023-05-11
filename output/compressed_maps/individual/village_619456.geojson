@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64602379070617,11.94392538740218],[76.61296280552742,11.93544182624602],[76.58820778638638,11.93501016969453],[76.57198857132543,11.90812412175746],[76.64074851167602,11.92276453252157],[76.64602379070617,11.94392538740218]]]},"properties":{"region_id":"village_619456","name":"KOTEKERE","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

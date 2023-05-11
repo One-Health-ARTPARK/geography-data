@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74404823001878,12.45807955828607],[76.72109024322044,12.45846330090328],[76.7192014720865,12.44771453730392],[76.73877912316334,12.44266220838755],[76.74404823001878,12.45807955828607]]]},"properties":{"region_id":"village_614234","name":"M.SHETTIHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

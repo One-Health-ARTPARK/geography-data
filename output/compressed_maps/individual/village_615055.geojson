@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84844339254596,12.7077529472223],[75.82754556046307,12.71786032917433],[75.81737261201835,12.70874261001237],[75.82488176010166,12.69999351290172],[75.83226660575512,12.70541440059656],[75.84844339254596,12.7077529472223]]]},"properties":{"region_id":"village_615055","name":"NARUR","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

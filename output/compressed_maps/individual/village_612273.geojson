@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7280895890952,13.27060695499869],[76.71699383800349,13.27600872968457],[76.70951952868145,13.2725485284159],[76.70761460261434,13.26211347623889],[76.7280895890952,13.27060695499869]]]},"properties":{"region_id":"village_612273","name":"AMMASANDRA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

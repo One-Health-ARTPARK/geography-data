@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82471400392578,13.33923419924758],[74.80547885787172,13.32574574332215],[74.81195193802515,13.30876283701737],[74.8442442828442,13.31415047000122],[74.82681733888047,13.32971100787529],[74.82471400392578,13.33923419924758]]]},"properties":{"region_id":"village_608817","name":"HIREBETTU","parent":"subdistrict_5523","parent_name":"UDUPI"}}
+]}

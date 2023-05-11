@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82599604164032,14.03185256132397],[74.81703852951713,14.06230047097073],[74.80366814134078,14.0258956064825],[74.82599604164032,14.03185256132397]]]},"properties":{"region_id":"village_607346","name":"CHADARAVALLI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

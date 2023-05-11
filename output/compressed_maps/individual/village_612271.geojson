@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77184669164447,13.28095645655205],[76.77322400703547,13.25499277886812],[76.78476719501613,13.2548190106038],[76.78250822675008,13.26753080803967],[76.77184669164447,13.28095645655205]]]},"properties":{"region_id":"village_612271","name":"VEERASAGARA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

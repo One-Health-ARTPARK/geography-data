@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74544418871704,12.76931379865536],[77.74777354433905,12.78077443365546],[77.73517492094092,12.77902422120487],[77.73616422263197,12.76846089133887],[77.74544418871704,12.76931379865536]]]},"properties":{"region_id":"village_613275","name":"ITCHANGUR","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

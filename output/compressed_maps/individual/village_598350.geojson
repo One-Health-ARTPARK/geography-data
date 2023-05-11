@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24879507526309,16.0136288491898],[75.24095415280608,16.0277895999132],[75.21387070939197,16.02784288667637],[75.22311741719184,16.00323935523668],[75.24879507526309,16.0136288491898]]]},"properties":{"region_id":"village_598350","name":"NARASAPUR","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

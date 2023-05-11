@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44973302999507,14.40951349414279],[75.43006879138143,14.4218602625123],[75.42562142283592,14.39742677534524],[75.44530963800469,14.3924885192826],[75.44973302999507,14.40951349414279]]]},"properties":{"region_id":"village_604419","name":"GUNDAGATTI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

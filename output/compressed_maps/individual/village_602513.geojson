@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99302482032057,15.09101035389017],[75.01736078117256,15.09799997257447],[74.99919346697995,15.11280376914754],[74.99302482032057,15.09101035389017]]]},"properties":{"region_id":"village_602513","name":"ARALIHONDA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

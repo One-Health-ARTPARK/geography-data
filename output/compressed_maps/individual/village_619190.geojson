@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69717377809606,12.18421704104389],[76.68824058225132,12.17137644782561],[76.69638693686547,12.16096597438931],[76.70806813836954,12.16837852663835],[76.69717377809606,12.18421704104389]]]},"properties":{"region_id":"village_619190","name":"ADAKANAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

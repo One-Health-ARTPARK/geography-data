@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41646193326481,12.53224308957836],[77.38459167092196,12.53802609883767],[77.37449599492038,12.50521097691118],[77.39976775450701,12.50961076350565],[77.41646193326481,12.53224308957836]]]},"properties":{"region_id":"village_626466","name":"SHIVANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

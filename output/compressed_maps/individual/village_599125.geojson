@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59307107185595,16.62565313862716],[75.54262631694448,16.63278644152208],[75.56547171139763,16.5890620880497],[75.59307107185595,16.62565313862716]]]},"properties":{"region_id":"village_599125","name":"HALAGANI","parent":"subdistrict_7069","parent_name":"BABALESHWAR"}}
+]}

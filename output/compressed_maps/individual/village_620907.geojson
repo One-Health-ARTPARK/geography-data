@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60032917539343,16.61555401993143],[76.56975757196744,16.62253376233463],[76.56904062823706,16.59173589037057],[76.61556142915934,16.58592666847184],[76.60032917539343,16.61555401993143]]]},"properties":{"region_id":"village_620907","name":"KARDAKAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

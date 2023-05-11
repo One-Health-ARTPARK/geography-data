@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93918977825358,14.23979961376326],[76.91013872188239,14.22767279859277],[76.90968149019781,14.2017654698672],[76.96103298857689,14.20590640660243],[76.93918977825358,14.23979961376326]]]},"properties":{"region_id":"village_605251","name":"MAHADEVAPURA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

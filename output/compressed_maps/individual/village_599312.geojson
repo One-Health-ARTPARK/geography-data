@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24349154459703,17.04013459611042],[76.1934567755905,17.04144490039977],[76.19130612129726,17.01102956059039],[76.20803037939494,17.00488978139936],[76.24956851911534,17.00973408093778],[76.24349154459703,17.04013459611042]]]},"properties":{"region_id":"village_599312","name":"KORHALLI","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

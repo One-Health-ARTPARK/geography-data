@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74038361580067,13.61071857110699],[77.73125766100667,13.60205863502892],[77.74830492666354,13.5987368978929],[77.75071270212995,13.60652146191588],[77.74038361580067,13.61071857110699]]]},"properties":{"region_id":"village_623452","name":"HOSAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

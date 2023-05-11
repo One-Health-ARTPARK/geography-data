@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.44438218740683,13.11604146594913],[78.43048176757074,13.1202161016104],[78.42157603056238,13.11741193487647],[78.44503081184766,13.10457034887445],[78.44438218740683,13.11604146594913]]]},"properties":{"region_id":"village_622957","name":"SANGONDAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

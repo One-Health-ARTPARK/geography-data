@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22964591496819,15.11066001689486],[76.18252715911409,15.09178327833945],[76.17722902278183,15.05647852227257],[76.23485920363692,15.06086975434786],[76.22964591496819,15.11066001689486]]]},"properties":{"region_id":"village_604668","name":"RAMANAGARA","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

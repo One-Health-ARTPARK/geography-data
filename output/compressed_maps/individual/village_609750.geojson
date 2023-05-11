@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85005315412623,13.31081237835653],[75.82088031619121,13.33609363511797],[75.81044741657644,13.304656911851],[75.85005315412623,13.31081237835653]]]},"properties":{"region_id":"village_609750","name":"KURUVANGI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80274978729832,14.8333638120617],[74.76838762834426,14.83772638144755],[74.77383099704295,14.81602786089592],[74.80274978729832,14.8333638120617]]]},"properties":{"region_id":"village_602959","name":"TOLAGOD","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

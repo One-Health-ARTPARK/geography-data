@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33881764833706,18.06766224327712],[77.31962954677245,18.06334087984151],[77.31088012510602,18.03381606161665],[77.3372333507287,18.03207072511321],[77.33881764833706,18.06766224327712]]]},"properties":{"region_id":"village_599894","name":"KEROOR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

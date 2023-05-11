@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40681324615095,16.76161610254616],[75.36693667608564,16.76004055181787],[75.36241305572835,16.73010754356375],[75.36350646625677,16.71170267813632],[75.40250708042483,16.70686574669636],[75.40681324615095,16.76161610254616]]]},"properties":{"region_id":"village_598452","name":"KAJIBILGI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

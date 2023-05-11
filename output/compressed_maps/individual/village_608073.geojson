@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2510603121757,13.84017784106724],[75.24170246399201,13.84121603632728],[75.22452171795331,13.83614892712703],[75.23083209696921,13.82625942761464],[75.24991963851264,13.8307851838389],[75.2510603121757,13.84017784106724]]]},"properties":{"region_id":"village_608073","name":"HADIGALLU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

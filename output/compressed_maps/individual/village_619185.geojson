@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63685576261301,12.12718982293165],[76.63646088514741,12.14089331510947],[76.60675647082509,12.14756573273721],[76.61445610388118,12.11833221809146],[76.63685576261301,12.12718982293165]]]},"properties":{"region_id":"village_619185","name":"MARALURU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52362394052706,13.51727419059599],[77.51341944353946,13.51806841918015],[77.51095109683952,13.51205757837139],[77.5233804065929,13.50939586728788],[77.52362394052706,13.51727419059599]]]},"properties":{"region_id":"village_623376","name":"KAMALAPURA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

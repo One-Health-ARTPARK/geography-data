@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53249532044079,13.48459762370261],[77.52686109218844,13.47108918915437],[77.54732685159213,13.46715152818491],[77.54991652690703,13.473766641538],[77.53249532044079,13.48459762370261]]]},"properties":{"region_id":"village_623382","name":"MINDENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

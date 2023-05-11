@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56790700009094,12.98840300019411],[77.56448399991301,12.97586000025422],[77.57085499957513,12.97497999968301],[77.57264799955428,12.98344399969467],[77.56790700009094,12.98840300019411]]]},"properties":{"region_id":"ward_bbmp95","name":"WARD NO.95 (SUBHASH NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63217924057354,14.38533523648072],[75.63860408528838,14.4057532571126],[75.61021982650621,14.40287008111915],[75.60612281989663,14.38075577522751],[75.63217924057354,14.38533523648072]]]},"properties":{"region_id":"village_604453","name":"KIRAGERI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

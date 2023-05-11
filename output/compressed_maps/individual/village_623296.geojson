@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61656553901092,13.69284251902283],[77.60703228430987,13.69329875023238],[77.6067686110688,13.68498000533458],[77.61105803865529,13.6761767842768],[77.61656553901092,13.69284251902283]]]},"properties":{"region_id":"village_623296","name":"GOTLAKUNTE","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

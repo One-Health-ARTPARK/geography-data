@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.28713791914295,13.12336673298531],[78.28594962833257,13.13314414960528],[78.27884624633452,13.12883672434637],[78.28713791914295,13.12336673298531]]]},"properties":{"region_id":"village_622921","name":"DODDIGANAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

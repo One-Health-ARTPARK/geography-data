@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79772342393932,12.45663525475569],[75.7897504330824,12.46853114648869],[75.77525348872179,12.46363842327332],[75.77837290753885,12.45941576431872],[75.78773669132559,12.46090053359217],[75.79772342393932,12.45663525475569]]]},"properties":{"region_id":"village_939066","name":"KOPPATTURU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

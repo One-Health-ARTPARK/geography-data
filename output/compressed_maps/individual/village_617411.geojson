@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56384484803782,12.89901318776285],[76.55309749409281,12.90024681533647],[76.55369118642676,12.8912349766295],[76.56068120749133,12.88954620706467],[76.56384484803782,12.89901318776285]]]},"properties":{"region_id":"village_617411","name":"HOSURU","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41373286693148,13.34538655636461],[77.40475300335153,13.33805776021345],[77.41472200775891,13.33370596224522],[77.41373286693148,13.34538655636461]]]},"properties":{"region_id":"village_625145","name":"BUCHANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

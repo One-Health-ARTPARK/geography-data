@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91089348860835,12.99397913973116],[77.90232282184063,12.9962803789711],[77.90490220055187,12.98889438328973],[77.91089348860835,12.99397913973116]]]},"properties":{"region_id":"village_622169","name":"CHIKKAPURA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

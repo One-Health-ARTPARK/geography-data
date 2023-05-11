@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99664046047317,16.0206149656432],[75.98948632783366,16.00481156595569],[76.01658059588668,16.00201284674942],[76.02398290866867,16.01132542498239],[75.99664046047317,16.0206149656432]]]},"properties":{"region_id":"village_598935","name":"NAGUR","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

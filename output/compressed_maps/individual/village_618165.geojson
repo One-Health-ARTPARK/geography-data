@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20865316539444,12.47562043415049],[76.20267920446585,12.48180366059548],[76.18413433968541,12.47210951449601],[76.19307155993025,12.4584976826152],[76.2060389913616,12.45951647491537],[76.20865316539444,12.47562043415049]]]},"properties":{"region_id":"village_618165","name":"THAMMADAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

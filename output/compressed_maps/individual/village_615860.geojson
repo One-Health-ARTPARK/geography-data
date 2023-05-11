@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00898840623306,13.10486323842713],[75.99874044073856,13.10727275231812],[75.99514864260932,13.09056899271559],[76.01119697516876,13.0921774965837],[76.00898840623306,13.10486323842713]]]},"properties":{"region_id":"village_615860","name":"DODDAGADDUVALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

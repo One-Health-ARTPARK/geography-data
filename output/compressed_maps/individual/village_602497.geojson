@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09085158619077,15.17370576673428],[75.0681736140092,15.17463740870573],[75.06952536733786,15.15344451204998],[75.09161852861385,15.1649200128423],[75.09085158619077,15.17370576673428]]]},"properties":{"region_id":"village_602497","name":"SOLARGOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

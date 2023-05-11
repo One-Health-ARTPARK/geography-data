@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71370109736445,12.30309963644828],[75.71844474975981,12.2797148621938],[75.73579400275065,12.27554456160848],[75.74457878393126,12.28546103425819],[75.71370109736445,12.30309963644828]]]},"properties":{"region_id":"village_617854","name":"BALAMURI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

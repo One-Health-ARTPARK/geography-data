@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20058128900568,16.07285383894115],[76.17747599966506,16.07260739674725],[76.16950724720357,16.06063420747265],[76.20212020547997,16.0497086339775],[76.20058128900568,16.07285383894115]]]},"properties":{"region_id":"village_598981","name":"BUDIHAL (S.K.)","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22228821763031,12.52302408510127],[76.21331302766498,12.5236253730324],[76.20915566739438,12.50705562014297],[76.21598194538446,12.50573217038837],[76.22228821763031,12.52302408510127]]]},"properties":{"region_id":"village_618609","name":"DAMMANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

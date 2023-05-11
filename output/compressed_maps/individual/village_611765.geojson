@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8259667987597,13.38332941516147],[76.81274595669272,13.38403813782982],[76.81126730923025,13.35040806911021],[76.83197725113787,13.36147174674345],[76.81953068344005,13.36885726478422],[76.8259667987597,13.38332941516147]]]},"properties":{"region_id":"village_611765","name":"ADALAGERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92075982180602,16.26573023027755],[75.94514830156895,16.30449139926888],[75.93621107675192,16.3107494031254],[75.92278381708903,16.28954808601637],[75.92075982180602,16.26573023027755]]]},"properties":{"region_id":"village_598832","name":"NAGARAL","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

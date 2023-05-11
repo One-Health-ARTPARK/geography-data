@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98752034126451,15.43126324030996],[75.97520645786999,15.43042406869164],[75.97492113378215,15.40574496638175],[75.99154490397494,15.40750478312199],[75.98752034126451,15.43126324030996]]]},"properties":{"region_id":"village_601362","name":"NINGAPUR","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

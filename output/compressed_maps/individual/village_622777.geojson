@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.37728639414321,12.99325174704591],[78.3714002636939,12.98699916008464],[78.38139719932644,12.98052111466587],[78.38364871868508,12.99327323250872],[78.37728639414321,12.99325174704591]]]},"properties":{"region_id":"village_622777","name":"MAHADEVAPURA","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

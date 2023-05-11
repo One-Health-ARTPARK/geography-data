@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9135007312932,17.11058192875809],[76.87294823552985,17.10718693191167],[76.88994843942518,17.04124678184845],[76.93502031357032,17.06137277258556],[76.9135007312932,17.11058192875809]]]},"properties":{"region_id":"village_620658","name":"HONGUNTA","parent":"subdistrict_7088","parent_name":"SHAHABAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10722018998345,15.24185079767773],[75.0905694607327,15.25102673670397],[75.07894541665772,15.24156678284173],[75.09228338963119,15.23454922749635],[75.10722018998345,15.24185079767773]]]},"properties":{"region_id":"village_602423","name":"KARADIKOP","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

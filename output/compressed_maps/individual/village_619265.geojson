@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63016393046013,12.03416107301072],[76.64847377535868,12.02549748469224],[76.65148789131528,12.04881416742999],[76.63378275665366,12.05093493127251],[76.63016393046013,12.03416107301072]]]},"properties":{"region_id":"village_619265","name":"NAVILUR","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

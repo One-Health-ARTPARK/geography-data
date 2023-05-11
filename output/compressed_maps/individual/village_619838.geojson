@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07447267355646,12.15773388521926],[77.06276306222388,12.17089202053774],[77.04805607388278,12.16983158857346],[77.04353494190607,12.15292774672368],[77.07448585872709,12.14734343283939],[77.07447267355646,12.15773388521926]]]},"properties":{"region_id":"village_619838","name":"MULLUR","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

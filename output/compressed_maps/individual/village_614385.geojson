@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85010809834573,12.62490527883795],[76.86196972065918,12.60236877469322],[76.88214807268282,12.61469250052782],[76.85010809834573,12.62490527883795]]]},"properties":{"region_id":"village_614385","name":"B.HOSUR","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32235952302563,13.95606801663451],[75.31584903261616,13.97828060595848],[75.30220503275537,13.98414487305277],[75.28769922279984,13.97001112996631],[75.3012267047506,13.95669450796541],[75.32235952302563,13.95606801663451]]]},"properties":{"region_id":"village_607953","name":"THAMMADIKOPPA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

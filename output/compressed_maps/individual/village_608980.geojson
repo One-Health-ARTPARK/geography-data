@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28510612741432,13.50590434840731],[75.26789469845241,13.51105460987116],[75.27627910854126,13.48427273853686],[75.28617777835974,13.49203361567975],[75.28510612741432,13.50590434840731]]]},"properties":{"region_id":"village_608980","name":"MELBILRE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

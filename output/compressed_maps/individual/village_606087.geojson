@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69152374497872,14.0318230802224],[76.65413839120993,14.0326059106858],[76.64874291986601,13.99300778580224],[76.68993034140078,14.01100653405822],[76.69152374497872,14.0318230802224]]]},"properties":{"region_id":"village_606087","name":"HEMADALA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

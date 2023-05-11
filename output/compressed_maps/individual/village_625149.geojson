@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44215715119824,13.34437614692223],[77.43397544366456,13.34529880155516],[77.4274551570046,13.33871543813444],[77.43911800412478,13.33585919927382],[77.44215715119824,13.34437614692223]]]},"properties":{"region_id":"village_625149","name":"GALIBILIKOTE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

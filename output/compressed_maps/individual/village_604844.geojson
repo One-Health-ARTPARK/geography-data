@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89943695038218,15.47812254670988],[76.89383818897245,15.45894870587258],[76.91735722240004,15.44676003059919],[76.95148717426179,15.46656357270646],[76.89943695038218,15.47812254670988]]]},"properties":{"region_id":"village_604844","name":"GOSABALU","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

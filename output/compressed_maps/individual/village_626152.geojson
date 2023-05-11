@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31689675555502,12.69776052137515],[77.3155503327089,12.71172861424038],[77.30032091418796,12.69672533279283],[77.30810067724926,12.68859241776754],[77.31689675555502,12.69776052137515]]]},"properties":{"region_id":"village_626152","name":"HUNASANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

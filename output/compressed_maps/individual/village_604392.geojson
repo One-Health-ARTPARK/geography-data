@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44701214745479,14.53297777508105],[75.46188107133949,14.53192566162839],[75.46029754683425,14.54773019327596],[75.44701214745479,14.53297777508105]]]},"properties":{"region_id":"village_604392","name":"UJANIPUR","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

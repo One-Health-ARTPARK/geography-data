@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75636226764387,12.35246405911762],[76.76903657812132,12.35370762720407],[76.75980259938979,12.36330656221082],[76.75131104530618,12.36169874775294],[76.75636226764387,12.35246405911762]]]},"properties":{"region_id":"village_614301","name":"KEMMANNUPURA","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38998260507255,14.4471758963697],[75.38100156193251,14.45449651513476],[75.36593697990668,14.44013812828618],[75.3822530590577,14.4338108903197],[75.38998260507255,14.4471758963697]]]},"properties":{"region_id":"village_604416","name":"KALVIHALLI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

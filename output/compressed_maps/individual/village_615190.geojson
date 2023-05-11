@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80712387936262,13.14158663253377],[75.79557327887895,13.14521465982179],[75.79578826269976,13.13771413303821],[75.80712387936262,13.14158663253377]]]},"properties":{"region_id":"village_615190","name":"MELANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

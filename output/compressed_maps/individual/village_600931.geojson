@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89230208965789,16.20793178113373],[76.88378343243797,16.2048018516719],[76.88342232349346,16.19549566557312],[76.89435284800001,16.20222059406235],[76.89230208965789,16.20793178113373]]]},"properties":{"region_id":"village_600931","name":"BOMSANDODDI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

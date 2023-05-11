@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46395535910008,13.72482098585782],[77.43810794583527,13.72765097287808],[77.43729687093472,13.71730200459411],[77.45559236904563,13.71023025315998],[77.46395535910008,13.72482098585782]]]},"properties":{"region_id":"village_610927","name":"YAKARALAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

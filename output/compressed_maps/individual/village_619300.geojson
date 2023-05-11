@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80886007725466,12.04078543081271],[76.78464300417251,12.03682307064187],[76.79506390074053,12.01449993898734],[76.81111811116827,12.02182969319514],[76.80886007725466,12.04078543081271]]]},"properties":{"region_id":"village_619300","name":"DODDAKOWLANDE","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

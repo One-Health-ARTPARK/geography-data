@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99274491971494,14.47432825537094],[74.98469814913761,14.48787990611439],[74.96380581020522,14.47546199109457],[74.97358247648067,14.45994227415446],[74.99274491971494,14.47432825537094]]]},"properties":{"region_id":"village_607512","name":"BENNURU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

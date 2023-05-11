@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74983094214276,13.27597937259031],[75.7463974926823,13.28595284878985],[75.72735560627954,13.27449888670862],[75.72805589702784,13.26709751312401],[75.74983094214276,13.27597937259031]]]},"properties":{"region_id":"village_609741","name":"SIRAGUNDA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

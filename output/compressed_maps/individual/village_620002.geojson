@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84650375522347,17.54519466340485],[76.84747584916573,17.53052915112398],[76.86694224242073,17.53511768000831],[76.86428190054062,17.54419334221097],[76.84650375522347,17.54519466340485]]]},"properties":{"region_id":"village_620002","name":"APCHAND","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

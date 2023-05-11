@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8381022122515,14.33729730696514],[75.82351586368726,14.33616899079272],[75.82402423859682,14.31327483378205],[75.84910487626432,14.31710875549481],[75.8381022122515,14.33729730696514]]]},"properties":{"region_id":"village_606805","name":"MUKTHENAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

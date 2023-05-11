@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48850050634631,13.49432750925804],[77.47187319478836,13.49465963632585],[77.47287022992452,13.48578017319626],[77.48658632716418,13.48582202697892],[77.48850050634631,13.49432750925804]]]},"properties":{"region_id":"village_623356","name":"YERRAGUNTE","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

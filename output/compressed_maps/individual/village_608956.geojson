@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26479810692636,13.38374233551727],[75.2446180424276,13.39747706295096],[75.24620185922663,13.37748619600657],[75.26479810692636,13.38374233551727]]]},"properties":{"region_id":"village_608956","name":"KOCHAVALLI","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

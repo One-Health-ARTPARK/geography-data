@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3315466806429,16.11679344342534],[77.31019900931248,16.11611738403141],[77.30390516841273,16.08302202003013],[77.31614013445656,16.0827800936896],[77.3315466806429,16.11679344342534]]]},"properties":{"region_id":"village_600830","name":"KHANAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94238910270653,13.53994658803698],[76.94878999686962,13.56979375850219],[76.92138444834845,13.5535299797006],[76.94238910270653,13.53994658803698]]]},"properties":{"region_id":"village_610505","name":"THIPPANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

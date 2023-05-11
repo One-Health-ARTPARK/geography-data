@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13635687697106,14.74295721756792],[76.10144088547604,14.74782455631736],[76.09441415425384,14.72812907035289],[76.11660069978008,14.70448850380611],[76.13635687697106,14.74295721756792]]]},"properties":{"region_id":"village_606327","name":"SASVIHALLI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

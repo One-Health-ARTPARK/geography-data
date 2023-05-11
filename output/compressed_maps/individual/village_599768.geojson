@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0127009272008,17.76207899408219],[77.0174542427938,17.77982016638873],[76.99941357575129,17.77720729891281],[77.0127009272008,17.76207899408219]]]},"properties":{"region_id":"village_599768","name":"ISLAMPUR","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

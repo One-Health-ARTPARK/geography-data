@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39534603627712,13.25066344525997],[77.3744434435793,13.25371376226734],[77.37241161729709,13.23942654483859],[77.39477176877747,13.24088984426658],[77.39534603627712,13.25066344525997]]]},"properties":{"region_id":"village_625191","name":"AMBALAGERE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

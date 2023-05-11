@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.41823373451494,14.48797866838686],[74.41175571293054,14.48856740597624],[74.412995939515,14.48156347025643],[74.41876121700061,14.48248786497055],[74.41823373451494,14.48797866838686]]]},"properties":{"region_id":"village_603453","name":"CHATRAKURVE","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

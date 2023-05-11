@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69012925234736,12.33034256755061],[76.67306296609883,12.32892959972771],[76.67494285120486,12.30663142084536],[76.69228808052668,12.30623057909406],[76.69012925234736,12.33034256755061]]]},"properties":{"region_id":"village_939293","name":"KYATHAMARANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

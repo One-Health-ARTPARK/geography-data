@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32245050904284,16.59477169957385],[76.30611439964844,16.59902970464152],[76.306812805143,16.57497027151733],[76.33040898211212,16.57968290064527],[76.32245050904284,16.59477169957385]]]},"properties":{"region_id":"village_599688","name":"HOSAHALLI","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

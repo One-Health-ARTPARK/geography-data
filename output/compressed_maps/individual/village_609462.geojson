@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24001686395826,13.60346339092923],[76.22952776830115,13.62108638221147],[76.20567632696655,13.61205059612931],[76.22422768223115,13.59134402928368],[76.24001686395826,13.60346339092923]]]},"properties":{"region_id":"village_609462","name":"HONNENAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64340822136676,12.71951961755502],[77.6208276324012,12.71575301368853],[77.61716348634249,12.70728759766607],[77.6387553422374,12.70640853861021],[77.64340822136676,12.71951961755502]]]},"properties":{"region_id":"village_613304","name":"INDLAWADIPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

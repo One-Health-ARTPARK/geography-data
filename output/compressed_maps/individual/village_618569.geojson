@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23780604862289,12.47166772379019],[76.23567062500777,12.4792303216129],[76.22129342359541,12.48090903139287],[76.22704225138702,12.46524961727466],[76.23780604862289,12.47166772379019]]]},"properties":{"region_id":"village_618569","name":"SOMANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

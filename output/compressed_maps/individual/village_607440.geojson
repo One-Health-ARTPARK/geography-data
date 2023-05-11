@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20304627323604,14.53230314913372],[75.186766278161,14.52974454863759],[75.18851042645802,14.51722756616064],[75.1987743279107,14.51892043133783],[75.20304627323604,14.53230314913372]]]},"properties":{"region_id":"village_607440","name":"CHIKKADAGODU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

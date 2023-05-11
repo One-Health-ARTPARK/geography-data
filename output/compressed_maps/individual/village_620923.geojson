@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83723801296847,16.50806642881089],[76.84420345911742,16.51245784424491],[76.83556148783994,16.53314223916116],[76.82595106795023,16.51817235590981],[76.83723801296847,16.50806642881089]]]},"properties":{"region_id":"village_620923","name":"SHAKHAPUR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

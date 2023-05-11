@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71798963388399,15.52662346333001],[75.74164892392349,15.5356584275841],[75.70627543670082,15.57450330881009],[75.69769812443514,15.53336563760997],[75.71798963388399,15.52662346333001]]]},"properties":{"region_id":"village_601958","name":"YAREBELERI","parent":"subdistrict_5469","parent_name":"RON"}}
+]}

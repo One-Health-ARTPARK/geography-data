@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89496405933089,12.87834116400692],[77.86937008495384,12.88670971348972],[77.86741079989125,12.86838530191542],[77.89496405933089,12.87834116400692]]]},"properties":{"region_id":"village_622256","name":"SAMPANGERE","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

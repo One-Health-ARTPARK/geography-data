@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68441693441241,12.94331436872839],[76.69092188999778,12.94387471568413],[76.68830529943244,12.9504714322417],[76.68300498697009,12.94549952510873],[76.68441693441241,12.94331436872839]]]},"properties":{"region_id":"village_613781","name":"KUCHAHALLIKAVAL","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0618950631396,15.65350806918259],[76.04642992051319,15.65630646815339],[76.03792818463114,15.64161262673358],[76.05830369272049,15.63997617924208],[76.0618950631396,15.65350806918259]]]},"properties":{"region_id":"village_601256","name":"MARANHAL","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

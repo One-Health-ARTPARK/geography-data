@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28840825784074,13.54321815515406],[77.28323949384611,13.52990422321139],[77.28909432665102,13.51911745619738],[77.30014264838417,13.53020849643218],[77.28840825784074,13.54321815515406]]]},"properties":{"region_id":"village_611116","name":"HARAPAGONDANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

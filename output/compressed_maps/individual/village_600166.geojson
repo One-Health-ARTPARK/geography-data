@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61150219819984,17.9650678561219],[77.58963599141694,17.953452909399],[77.58787936341595,17.93377390329585],[77.60350574923476,17.93082487794382],[77.61150219819984,17.9650678561219]]]},"properties":{"region_id":"village_600166","name":"MALEGAON","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

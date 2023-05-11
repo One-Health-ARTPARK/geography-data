@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52118066761021,14.44444321901377],[74.53363744222786,14.47047891523077],[74.51590746579681,14.47925400552857],[74.50151198089462,14.46344955567408],[74.52118066761021,14.44444321901377]]]},"properties":{"region_id":"village_603479","name":"SHIRGUNJI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

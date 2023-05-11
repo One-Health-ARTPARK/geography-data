@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73777118891678,14.43463212346227],[74.72854213879599,14.43524058944071],[74.722311994413,14.41724732146112],[74.72936154285956,14.41144581005057],[74.7402194056982,14.42549355863857],[74.73777118891678,14.43463212346227]]]},"properties":{"region_id":"village_603550","name":"HEGGE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

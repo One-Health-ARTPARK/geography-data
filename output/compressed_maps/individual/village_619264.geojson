@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.688378687858,12.03799092854523],[76.67154126902494,12.04180387430401],[76.66424650560293,12.02369336187686],[76.6745836883304,12.01795999361461],[76.688378687858,12.03799092854523]]]},"properties":{"region_id":"village_619264","name":"SINDHUVALLIPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

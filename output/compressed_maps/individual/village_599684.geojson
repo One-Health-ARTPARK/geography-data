@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30225985306954,16.21164741698901],[76.28679816249185,16.21309050238681],[76.28428974726751,16.17813629470163],[76.29898204680983,16.18983323930381],[76.30225985306954,16.21164741698901]]]},"properties":{"region_id":"village_599684","name":"BIJJUR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

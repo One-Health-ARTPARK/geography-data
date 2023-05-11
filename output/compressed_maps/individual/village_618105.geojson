@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03991941083103,12.53109032316672],[76.02568193427796,12.52626469055249],[76.0284206139144,12.51158906873004],[76.03821873978912,12.50756387568228],[76.04312440854592,12.5175354196442],[76.03991941083103,12.53109032316672]]]},"properties":{"region_id":"village_618105","name":"ADAGOOR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88622329012054,12.91883810607454],[76.86791052180646,12.91857829066731],[76.86555185060037,12.90506976574464],[76.88533153440761,12.90317948790207],[76.88622329012054,12.91883810607454]]]},"properties":{"region_id":"village_612654","name":"BESINELE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

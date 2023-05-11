@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47089585953405,16.83909953657055],[76.42958094516916,16.83714884026697],[76.4122341059467,16.78294754720477],[76.45055460126058,16.77883849294057],[76.47704617913331,16.81403906215274],[76.47089585953405,16.83909953657055]]]},"properties":{"region_id":"village_620800","name":"MAGENGERA","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

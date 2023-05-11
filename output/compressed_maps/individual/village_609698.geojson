@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60097317006438,13.38344447319774],[75.6091748685144,13.36366296616071],[75.62158232079038,13.37515909070977],[75.60097317006438,13.38344447319774]]]},"properties":{"region_id":"village_609698","name":"MASAGALI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

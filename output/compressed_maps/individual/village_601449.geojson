@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05913353825771,15.84559296830306],[76.02633152204444,15.84804893963124],[76.02860766326567,15.83467055896655],[76.0593927252328,15.82665693930342],[76.05913353825771,15.84559296830306]]]},"properties":{"region_id":"village_601449","name":"MADIKERA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

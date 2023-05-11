@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71690850448856,12.50931700773357],[76.70273073312136,12.50983538906644],[76.704979980694,12.50088762248446],[76.71560446670618,12.49962601826007],[76.71690850448856,12.50931700773357]]]},"properties":{"region_id":"village_614179","name":"MADAKEPATTANA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

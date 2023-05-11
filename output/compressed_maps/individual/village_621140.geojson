@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01612353320118,16.7964098098715],[76.95699797322766,16.75607838755165],[76.95914337563865,16.73015385372117],[77.01833501075474,16.73823062019395],[77.00522418004026,16.76638131861947],[77.01612353320118,16.7964098098715]]]},"properties":{"region_id":"village_621140","name":"CHATTANHALLI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

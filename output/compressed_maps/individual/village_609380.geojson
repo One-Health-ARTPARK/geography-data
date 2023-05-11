@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9636029330231,13.55566391205415],[75.95129593308064,13.55447996059227],[75.95177537785982,13.54556879084316],[75.96261217240051,13.54453753473721],[75.9636029330231,13.55566391205415]]]},"properties":{"region_id":"village_609380","name":"GOLLARAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58563615539754,16.06162897594841],[75.55804318168454,16.06556495285725],[75.55188206724472,16.0491732451857],[75.57686773146504,16.0495792081758],[75.58563615539754,16.06162897594841]]]},"properties":{"region_id":"village_598647","name":"AGASARAKOPPA","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

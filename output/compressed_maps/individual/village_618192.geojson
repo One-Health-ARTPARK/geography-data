@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20600477607775,12.45951494415472],[76.19307155993025,12.4584976826152],[76.1918928510704,12.45021480140362],[76.20552061844992,12.4480652270448],[76.20600477607775,12.45951494415472]]]},"properties":{"region_id":"village_618192","name":"BHAVALALU","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

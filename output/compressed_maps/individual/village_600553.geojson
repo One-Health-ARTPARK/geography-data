@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75399339468646,16.36808625257974],[76.73633250643275,16.34303165499468],[76.76921414872412,16.34032489377319],[76.75399339468646,16.36808625257974]]]},"properties":{"region_id":"village_600553","name":"HOSUR SIDDAPUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

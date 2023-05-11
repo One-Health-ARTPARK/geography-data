@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3005407997052,13.64217856357646],[77.26951520528446,13.64806796340734],[77.26818476014562,13.63433529345343],[77.29613530405541,13.6325470833869],[77.3005407997052,13.64217856357646]]]},"properties":{"region_id":"village_610975","name":"G.AGRAHARA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

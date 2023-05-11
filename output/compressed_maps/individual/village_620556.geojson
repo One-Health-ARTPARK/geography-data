@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29692814361256,16.97962471423208],[77.27349073682038,16.98041491449502],[77.27408929263983,16.96383101754605],[77.2904737349137,16.96525149034453],[77.29692814361256,16.97962471423208]]]},"properties":{"region_id":"village_620556","name":"BILKAL","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

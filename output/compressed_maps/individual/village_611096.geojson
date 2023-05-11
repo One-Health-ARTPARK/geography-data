@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31280450325853,13.60314004004237],[77.29920635727015,13.60834160787621],[77.30198526977827,13.59425155236258],[77.31280450325853,13.60314004004237]]]},"properties":{"region_id":"village_611096","name":"KYASHAVARA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

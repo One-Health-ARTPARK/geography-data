@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.23242265395783,14.8774596608409],[74.23629337339618,14.89479614765706],[74.22088643869995,14.90151221762542],[74.21050499524061,14.88690230868085],[74.23242265395783,14.8774596608409]]]},"properties":{"region_id":"village_602593","name":"GHADASAI","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

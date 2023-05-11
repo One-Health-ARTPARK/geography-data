@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69120958558209,16.96998332733139],[75.64869774638738,16.95926720277637],[75.68881465573541,16.89514970385052],[75.74149184632782,16.91182291331618],[75.69120958558209,16.96998332733139]]]},"properties":{"region_id":"village_599039","name":"ARAKERI","parent":"subdistrict_7074","parent_name":"TIKOTA"}}
+]}

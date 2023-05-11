@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17440270878036,14.36245097672737],[76.15820921157766,14.37679127773602],[76.15120347845397,14.36471613649992],[76.17440270878036,14.36245097672737]]]},"properties":{"region_id":"village_605457","name":"YEMMEHATTI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

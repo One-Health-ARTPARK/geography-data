@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51601419656353,13.0963665902373],[76.49995701155588,13.09639588574714],[76.49615768357815,13.08608788660202],[76.50628162818545,13.07775967943558],[76.51601419656353,13.0963665902373]]]},"properties":{"region_id":"village_612187","name":"SANNENAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

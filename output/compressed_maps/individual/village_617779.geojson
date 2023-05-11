@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42257422053501,12.6788956127806],[75.42538570076958,12.64312895379453],[75.45095015797929,12.66009140417296],[75.42257422053501,12.6788956127806]]]},"properties":{"region_id":"village_617779","name":"KALMADKA","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

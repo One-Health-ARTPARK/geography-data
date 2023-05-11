@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50312506858337,13.73023701757854],[76.48630010104988,13.7316878031362],[76.48530799366348,13.71872354662092],[76.49994400191,13.71575748170574],[76.50312506858337,13.73023701757854]]]},"properties":{"region_id":"village_606039","name":"KITTADAL","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

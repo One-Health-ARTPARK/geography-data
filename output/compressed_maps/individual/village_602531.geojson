@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29497068537563,15.1779792414376],[75.26926823948521,15.17778319951515],[75.2800539215423,15.14404003346039],[75.31420826512577,15.15497708997312],[75.29497068537563,15.1779792414376]]]},"properties":{"region_id":"village_602531","name":"HIREHARAKUNI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

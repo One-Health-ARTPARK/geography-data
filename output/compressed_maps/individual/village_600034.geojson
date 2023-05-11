@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35607264391997,18.14800257507806],[77.34901936849653,18.13975931406829],[77.36799402483497,18.13247865008315],[77.37362906492848,18.14572907305707],[77.35607264391997,18.14800257507806]]]},"properties":{"region_id":"village_600034","name":"RAKSHIYAL(B)","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

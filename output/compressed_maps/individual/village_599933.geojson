@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1567405576607,17.97906860374418],[77.13714410669179,17.98344226421365],[77.13403885345384,17.96093668372928],[77.15634047108917,17.96619575462532],[77.1567405576607,17.97906860374418]]]},"properties":{"region_id":"village_599933","name":"MAVINHALLI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

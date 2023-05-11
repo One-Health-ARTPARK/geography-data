@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.176950068764,13.19204004996499],[75.12905232860888,13.18991988155505],[75.120308594335,13.14674452653346],[75.16952296550696,13.17477301969286],[75.176950068764,13.19204004996499]]]},"properties":{"region_id":"village_608909","name":"NOORALBETTU","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

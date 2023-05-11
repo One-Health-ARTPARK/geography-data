@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90308799763277,12.08728063002461],[75.91631850107603,12.09684115529597],[75.92697240477084,12.11764802246961],[75.91568401530131,12.12208987064766],[75.9041988796481,12.1171121297945],[75.90308799763277,12.08728063002461]]]},"properties":{"region_id":"village_939075","name":"CHEENIVADA","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

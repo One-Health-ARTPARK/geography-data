@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64928752277095,12.61268905917116],[76.64569616953602,12.60846210789238],[76.65428824156919,12.60352309282744],[76.65659048737822,12.61013089189327],[76.64928752277095,12.61268905917116]]]},"properties":{"region_id":"village_614101","name":"G.SHETTIHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

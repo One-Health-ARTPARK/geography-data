@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64883760296334,14.20457324552994],[75.65386524650671,14.21895758889056],[75.63271309211655,14.21833246002791],[75.63144256608847,14.20844656407157],[75.64883760296334,14.20457324552994]]]},"properties":{"region_id":"village_606822","name":"SUNKADAKATTE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

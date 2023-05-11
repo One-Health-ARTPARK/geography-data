@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75980252116612,12.9948468721905],[76.73898872508758,12.99408678902201],[76.74370748149008,12.98347319910952],[76.75980252116612,12.9948468721905]]]},"properties":{"region_id":"village_613709","name":"LAXMIPURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71451685817456,12.96053477835381],[77.69895148833712,12.95829558817777],[77.69688808035198,12.94992872720253],[77.71034750817537,12.94297806776745],[77.71451685817456,12.96053477835381]]]},"properties":{"region_id":"village_938275","name":"MUNNEKOLALU","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

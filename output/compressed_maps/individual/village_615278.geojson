@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9638921704072,13.14772825655621],[75.97609012678858,13.16522923820538],[75.96729299336444,13.17506451718023],[75.95098829146427,13.15651080854162],[75.9638921704072,13.14772825655621]]]},"properties":{"region_id":"village_615278","name":"YALAHANKA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06463328697518,14.12987128451813],[75.05588464588905,14.13085702052492],[75.04879083427748,14.10358528949758],[75.06275550364104,14.09882165103435],[75.07094347929507,14.12376092378049],[75.06463328697518,14.12987128451813]]]},"properties":{"region_id":"village_607234","name":"KEREKOPPA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

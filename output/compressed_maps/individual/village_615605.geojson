@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26228705433141,13.50550422137185],[76.23355400196648,13.50701753660097],[76.23767061089009,13.49659746233691],[76.26228705433141,13.50550422137185]]]},"properties":{"region_id":"village_615605","name":"BATTIHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

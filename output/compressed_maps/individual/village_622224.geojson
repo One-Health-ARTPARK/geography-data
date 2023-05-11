@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99401842532973,12.96550967822172],[77.99107047630739,12.97452925989612],[77.97693144304418,12.97075866523559],[77.98240741612855,12.9628739961887],[77.99401842532973,12.96550967822172]]]},"properties":{"region_id":"village_622224","name":"MEDAHATTI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

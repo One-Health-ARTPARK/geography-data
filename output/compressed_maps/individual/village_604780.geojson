@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86572738715653,15.48496294901755],[76.84880951697134,15.51908533001955],[76.81352871404258,15.51910966009311],[76.78258704320653,15.49341521038914],[76.79910575125501,15.47657448441021],[76.86572738715653,15.48496294901755]]]},"properties":{"region_id":"village_604780","name":"NADIVI","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

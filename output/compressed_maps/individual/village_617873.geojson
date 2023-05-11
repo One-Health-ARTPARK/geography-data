@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91812840186739,12.78433748832869],[75.91777361917197,12.78738200931724],[75.91062313623198,12.78634876414931],[75.91294183103362,12.7814086835219],[75.91812840186739,12.78433748832869]]]},"properties":{"region_id":"village_617873","name":"KEREKERI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

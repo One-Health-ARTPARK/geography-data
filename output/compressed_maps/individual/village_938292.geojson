@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9016926545568,15.08364311453424],[76.92264067481571,15.08526955304721],[76.91687070268304,15.11627410073381],[76.89555751919862,15.10312727590911],[76.9016926545568,15.08364311453424]]]},"properties":{"region_id":"village_938292","name":"MUNDARIGI","parent":"subdistrict_5500","parent_name":"BALLARI"}}
+]}

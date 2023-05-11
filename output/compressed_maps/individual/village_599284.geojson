@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11144384477676,17.04518640813849],[76.09199407567128,17.06422086195181],[76.07686743910294,17.04878047856565],[76.09487620628748,17.02134179480168],[76.11144384477676,17.04518640813849]]]},"properties":{"region_id":"village_599284","name":"SANGOGI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

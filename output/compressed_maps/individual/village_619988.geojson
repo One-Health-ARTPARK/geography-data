@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88287299892146,17.56412777759972],[76.8597853396385,17.59354347535714],[76.84652129592408,17.54494049440572],[76.88287299892146,17.56412777759972]]]},"properties":{"region_id":"village_619988","name":"MADKI","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

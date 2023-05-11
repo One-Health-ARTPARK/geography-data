@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70663821306273,17.32775499021488],[76.67608090358515,17.31402160405894],[76.7025011611728,17.30098506594641],[76.70663821306273,17.32775499021488]]]},"properties":{"region_id":"village_620292","name":"MELKUNDA (K)","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

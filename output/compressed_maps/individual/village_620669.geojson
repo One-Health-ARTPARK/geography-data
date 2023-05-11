@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13015033810098,17.15892340123471],[77.12606755173411,17.12769958297393],[77.15635031015718,17.12825768011006],[77.15155441309257,17.15148615210922],[77.13015033810098,17.15892340123471]]]},"properties":{"region_id":"village_620669","name":"MOGLA","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

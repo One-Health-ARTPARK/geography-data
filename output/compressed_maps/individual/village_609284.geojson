@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13491266422977,13.7818046465249],[76.12946412464531,13.81455902419705],[76.11051487200429,13.80419896920514],[76.13491266422977,13.7818046465249]]]},"properties":{"region_id":"village_609284","name":"BOOTHANAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

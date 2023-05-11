@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78896713887525,14.54099532099394],[75.7673194410373,14.53931486961567],[75.78495147183136,14.52287417864398],[75.78896713887525,14.54099532099394]]]},"properties":{"region_id":"village_604565","name":"NALAWAGAL","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08023284198885,16.19217881832276],[76.0673007989466,16.19059536865316],[76.07021041013897,16.17856744367171],[76.0812416983751,16.17414587942301],[76.08023284198885,16.19217881832276]]]},"properties":{"region_id":"village_598943","name":"KAMADATTA","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10417841021584,12.29148259822431],[76.09427450681797,12.29203368116741],[76.08650256787998,12.26830345470621],[76.10729468965272,12.27344917619017],[76.10417841021584,12.29148259822431]]]},"properties":{"region_id":"village_618281","name":"MALANGI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72204259511989,12.26568385986157],[76.70832836257263,12.26620868489307],[76.70864657126232,12.25451047898571],[76.72506387635656,12.25723772680716],[76.72204259511989,12.26568385986157]]]},"properties":{"region_id":"village_618791","name":"YANDAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42316705413518,14.44880055546871],[74.41343899111061,14.45614721575392],[74.40697815120207,14.44723822642887],[74.41553240555159,14.44092569791516],[74.42316705413518,14.44880055546871]]]},"properties":{"region_id":"village_603438","name":"HALKAR","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

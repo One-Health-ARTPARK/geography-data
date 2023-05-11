@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09933842187087,18.08866380528528],[77.08060063663046,18.08871274825087],[77.08198665997945,18.07081795527011],[77.09933842187087,18.08866380528528]]]},"properties":{"region_id":"village_599850","name":"WAGALGAON","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78672064105605,12.29769337169765],[75.77211506308296,12.30629594941605],[75.75961160482277,12.28686917465222],[75.7684051417701,12.27588072141183],[75.78672064105605,12.29769337169765]]]},"properties":{"region_id":"village_617838","name":"KIGGALU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

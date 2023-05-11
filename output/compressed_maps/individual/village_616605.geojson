@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11048600881001,12.79612334405634],[76.10429179814774,12.7962520282555],[76.10162815090389,12.7771834470197],[76.11156552700767,12.77778115697299],[76.11048600881001,12.79612334405634]]]},"properties":{"region_id":"village_616605","name":"KENCHENAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

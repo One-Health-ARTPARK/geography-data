@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31102329713805,13.78346417836398],[76.29987749883963,13.78477370507275],[76.30087384924228,13.76762009960292],[76.3183498196561,13.77095719134217],[76.31102329713805,13.78346417836398]]]},"properties":{"region_id":"village_605885","name":"GORAVIGONDANAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

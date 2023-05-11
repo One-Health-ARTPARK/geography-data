@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79120093003446,12.46994044389814],[75.77874754571695,12.44793173155023],[75.78750075774859,12.44099691128808],[75.80393100868153,12.44725163480462],[75.80476877280924,12.45705486545966],[75.79120093003446,12.46994044389814]]]},"properties":{"region_id":"village_923964","name":"HALERI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

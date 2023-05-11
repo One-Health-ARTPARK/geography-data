@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77703785674274,14.0810058490196],[75.75249603710675,14.08479041895675],[75.75248255959038,14.07048848748392],[75.77703785674274,14.0810058490196]]]},"properties":{"region_id":"village_608520","name":"ARISINAGHATTA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

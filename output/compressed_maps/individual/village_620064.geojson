@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59526359023789,17.49528731503286],[76.55729192447441,17.50247077383335],[76.57697093169367,17.46522674244125],[76.59526359023789,17.49528731503286]]]},"properties":{"region_id":"village_620064","name":"KORHALLI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

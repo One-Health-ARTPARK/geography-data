@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99626394880198,16.36430001487146],[75.97960445346816,16.36878879024547],[75.97137361989513,16.35528029650796],[75.99311326618138,16.35082911639222],[75.99626394880198,16.36430001487146]]]},"properties":{"region_id":"village_599567","name":"MUDDAPUR","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

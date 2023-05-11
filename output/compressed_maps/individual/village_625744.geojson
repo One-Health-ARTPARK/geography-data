@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82776824051733,12.96112297106983],[77.8232470542238,12.94929592077606],[77.84162718202539,12.94812654425867],[77.8367087353221,12.96076017817297],[77.82776824051733,12.96112297106983]]]},"properties":{"region_id":"village_625744","name":"MEDIMALLASANDRA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

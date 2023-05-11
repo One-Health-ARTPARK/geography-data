@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91376528881347,12.62301443386118],[75.91114030848068,12.62618204678026],[75.9049290561265,12.62329043094481],[75.91075176191315,12.6176664482513],[75.91376528881347,12.62301443386118]]]},"properties":{"region_id":"village_923958","name":"UNJIGANLLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

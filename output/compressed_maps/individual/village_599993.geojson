@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33185299415958,18.31870235461952],[77.31946808691295,18.31796298115517],[77.3124270720567,18.27790059359284],[77.33256998649814,18.27936292395691],[77.33185299415958,18.31870235461952]]]},"properties":{"region_id":"village_599993","name":"DANGARGAON","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06407038194351,14.17578200743896],[75.07469982733147,14.18117683516538],[75.07151673913582,14.19054374302041],[75.06266737920403,14.17924277378771],[75.06407038194351,14.17578200743896]]]},"properties":{"region_id":"village_607202","name":"BALAGODU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

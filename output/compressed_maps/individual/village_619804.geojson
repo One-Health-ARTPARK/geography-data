@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05129994268286,12.05159410589797],[77.04005343244033,12.051293647509],[77.04665873001703,12.04107692983365],[77.05129994268286,12.05159410589797]]]},"properties":{"region_id":"village_619804","name":"UPPINAMOLE","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

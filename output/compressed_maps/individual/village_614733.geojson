@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20012406763297,12.3902159913094],[77.17822679973919,12.38824049250712],[77.20427951394313,12.37274245227164],[77.20012406763297,12.3902159913094]]]},"properties":{"region_id":"village_614733","name":"KONNAPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

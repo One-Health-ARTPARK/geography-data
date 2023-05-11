@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43753869042533,16.32584412956508],[77.41805394929966,16.3702279513494],[77.38169020410179,16.35356818036265],[77.39921217629062,16.32667837774058],[77.43753869042533,16.32584412956508]]]},"properties":{"region_id":"village_600742","name":"GANJHALLI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

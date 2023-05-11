@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60339774765342,14.10109749107928],[76.57530099726057,14.09590288943696],[76.57649350949691,14.07373514151538],[76.60751897052879,14.07875373935655],[76.60339774765342,14.10109749107928]]]},"properties":{"region_id":"village_606071","name":"SALABOMMANAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

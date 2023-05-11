@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8919672359329,13.15499616452436],[77.89167469066408,13.17231685617018],[77.8777942212805,13.16341964525161],[77.8919672359329,13.15499616452436]]]},"properties":{"region_id":"village_625576","name":"KARAPANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

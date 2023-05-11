@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65701977670592,17.38195643628417],[76.6659665181434,17.39989069772571],[76.64258051581064,17.40332354937423],[76.63242959263168,17.3812952586187],[76.65701977670592,17.38195643628417]]]},"properties":{"region_id":"village_620073","name":"ALUR (B)","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

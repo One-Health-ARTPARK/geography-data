@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16817754101763,15.66558603333648],[76.15764891974094,15.63426645828504],[76.18443532644484,15.62639895555639],[76.18413273545481,15.65877773549847],[76.16817754101763,15.66558603333648]]]},"properties":{"region_id":"village_601288","name":"TARALKATTI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

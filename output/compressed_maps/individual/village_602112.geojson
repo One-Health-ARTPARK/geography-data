@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69249349813391,15.12223716148472],[75.70945502488468,15.11622088750372],[75.71560781368191,15.13442683732477],[75.7041267146427,15.14468182630634],[75.69249349813391,15.12223716148472]]]},"properties":{"region_id":"village_602112","name":"BHAVANUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

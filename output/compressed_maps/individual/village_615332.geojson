@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9350296136525,13.10228531234816],[75.93268610729083,13.10931747297872],[75.92372213363919,13.10432675445948],[75.93039427171583,13.09833110003418],[75.9350296136525,13.10228531234816]]]},"properties":{"region_id":"village_615332","name":"KONAIKANAHALLI JODI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

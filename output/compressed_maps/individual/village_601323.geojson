@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1229659825979,15.52409382215607],[76.1087762759271,15.52927878589251],[76.1035022209776,15.50650969845386],[76.1232341791963,15.51450657292285],[76.1229659825979,15.52409382215607]]]},"properties":{"region_id":"village_601323","name":"KAVALKERE","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

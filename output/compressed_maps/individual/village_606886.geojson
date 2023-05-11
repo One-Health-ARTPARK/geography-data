@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85518011995347,14.25997579805007],[75.82099846069235,14.26346971452935],[75.81934950211671,14.24709012565665],[75.85669277744924,14.2383000281624],[75.85518011995347,14.25997579805007]]]},"properties":{"region_id":"village_606886","name":"BELALAGERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

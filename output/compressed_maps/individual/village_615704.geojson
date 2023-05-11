@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25605454751168,13.24778203378411],[76.24501171509327,13.25416520225216],[76.2329305640707,13.23918256888159],[76.25415308561395,13.2375285876632],[76.25605454751168,13.24778203378411]]]},"properties":{"region_id":"village_615704","name":"GUTTINAKERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

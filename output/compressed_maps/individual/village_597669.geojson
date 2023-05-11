@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5270199786285,16.0447255060857],[74.49265260204066,16.05424270178932],[74.4939474769521,16.03533502907535],[74.5270199786285,16.0447255060857]]]},"properties":{"region_id":"village_597669","name":"SUTAGATTI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

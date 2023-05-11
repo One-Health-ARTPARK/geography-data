@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26200006482908,15.90666260959155],[76.23009289065236,15.92331203747994],[76.23747453026829,15.8804080467877],[76.26200006482908,15.90666260959155]]]},"properties":{"region_id":"village_601467","name":"SIRGUPPA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

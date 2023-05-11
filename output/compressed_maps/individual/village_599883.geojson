@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32607733036525,18.10194899852868],[77.32886440538084,18.12404541887828],[77.31429981674825,18.12145730898535],[77.31142356941987,18.10650907053595],[77.32607733036525,18.10194899852868]]]},"properties":{"region_id":"village_599883","name":"NAGRAL","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

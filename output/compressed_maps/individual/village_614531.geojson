@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00726343440446,12.64746713662424],[76.96549975146219,12.64480494929244],[76.96835896575782,12.63410119697228],[76.98998802062182,12.6295385185523],[77.00726343440446,12.64746713662424]]]},"properties":{"region_id":"village_614531","name":"BESAGARAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

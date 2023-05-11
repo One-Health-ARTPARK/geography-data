@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81546856736394,14.24490363829147],[75.79698336639177,14.22992373160894],[75.81906868795323,14.22865320087861],[75.81546856736394,14.24490363829147]]]},"properties":{"region_id":"village_606890","name":"MARABANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

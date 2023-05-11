@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79898623113863,14.03344867144333],[75.77697409731621,14.03195860330007],[75.77944944095682,14.01869513221523],[75.80712161507002,14.01630212365078],[75.79898623113863,14.03344867144333]]]},"properties":{"region_id":"village_608534","name":"THADASA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

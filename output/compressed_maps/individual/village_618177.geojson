@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0821151760221,12.45700419001331],[76.05930465085065,12.4587309096491],[76.06633876880657,12.44330875241387],[76.0802621244441,12.44113112844823],[76.0821151760221,12.45700419001331]]]},"properties":{"region_id":"village_618177","name":"JOGANAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

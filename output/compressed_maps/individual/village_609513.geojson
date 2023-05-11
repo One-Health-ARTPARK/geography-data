@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0319887537893,13.51587006625816],[76.01839411888506,13.53012113711622],[76.00365081872624,13.51151697593302],[76.03067090618207,13.49786703709204],[76.0319887537893,13.51587006625816]]]},"properties":{"region_id":"village_609513","name":"KADURHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

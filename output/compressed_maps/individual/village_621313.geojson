@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27040884819631,16.726645957899],[77.24376201882048,16.73317453925108],[77.24346329391649,16.70748185147426],[77.27040884819631,16.726645957899]]]},"properties":{"region_id":"village_621313","name":"RAISABAD HOSAHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

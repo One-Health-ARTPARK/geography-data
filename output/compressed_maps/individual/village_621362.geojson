@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46078334741422,16.61108783338892],[77.4312482097212,16.60824068273867],[77.43410348763436,16.59068182874087],[77.45987731073026,16.58520664106018],[77.46078334741422,16.61108783338892]]]},"properties":{"region_id":"village_621362","name":"CHALER","parent":"subdistrict_7094","parent_name":"GURUMITKAL"}}
+]}

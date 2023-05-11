@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13799093613638,16.09789419712542],[77.1199955683823,16.09249404307502],[77.12543687296537,16.07833302780377],[77.14183009186429,16.07985418004928],[77.13799093613638,16.09789419712542]]]},"properties":{"region_id":"village_600986","name":"BOMMANAHAL","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

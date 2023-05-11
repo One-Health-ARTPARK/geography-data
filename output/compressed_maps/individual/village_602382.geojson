@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06083668405668,15.33241828984188],[75.05093544366187,15.34879964019939],[75.02011582643516,15.33692407280252],[75.02626814533299,15.32760489618454],[75.06083668405668,15.33241828984188]]]},"properties":{"region_id":"village_602382","name":"REVADIHAL","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

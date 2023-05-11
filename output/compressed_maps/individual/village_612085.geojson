@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50126813270371,13.26759974796351],[76.4899168618522,13.26116043976669],[76.47432764139762,13.26217959150215],[76.47228983492728,13.24082395583541],[76.48561899223319,13.24449065088165],[76.50126813270371,13.26759974796351]]]},"properties":{"region_id":"village_612085","name":"TIPTUR [RURAL]","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

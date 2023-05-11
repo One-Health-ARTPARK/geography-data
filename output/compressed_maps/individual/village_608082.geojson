@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24103305377784,13.80567949411281],[75.23640336502824,13.81289029864535],[75.22955285556733,13.80697027706498],[75.23685603828228,13.80281112326125],[75.24103305377784,13.80567949411281]]]},"properties":{"region_id":"village_608082","name":"HORABAILU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

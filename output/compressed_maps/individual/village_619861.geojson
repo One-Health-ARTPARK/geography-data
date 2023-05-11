@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26989904288403,12.0928939852509],[77.26254205842385,12.07474621147594],[77.27940299464929,12.07003608879378],[77.29062309280563,12.09007175739587],[77.26989904288403,12.0928939852509]]]},"properties":{"region_id":"village_619861","name":"UDDANUR","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

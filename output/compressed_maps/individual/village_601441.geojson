@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18982199280379,15.91269190667286],[76.17190019804939,15.92477390419601],[76.14044081125441,15.89124488190011],[76.16694313047586,15.88083842472315],[76.18982199280379,15.91269190667286]]]},"properties":{"region_id":"village_601441","name":"KYADIGUPPA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

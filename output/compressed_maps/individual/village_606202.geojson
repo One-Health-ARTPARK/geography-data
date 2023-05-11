@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67314944315491,13.7181633761845],[76.68278484216496,13.76090791128781],[76.65118161921245,13.74738497584272],[76.6474760076794,13.71700930173277],[76.67314944315491,13.7181633761845]]]},"properties":{"region_id":"village_606202","name":"MAVINAMADU","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

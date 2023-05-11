@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69231934273374,12.76191975445546],[76.69339511340566,12.7708591285605],[76.68670023023141,12.77646662703879],[76.6872266733089,12.76490302714709],[76.69231934273374,12.76191975445546]]]},"properties":{"region_id":"village_613985","name":"KANTHAPURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

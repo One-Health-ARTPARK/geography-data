@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91697367398255,13.40530469085835],[77.90493157230729,13.40485095077891],[77.9083419165681,13.39660638061042],[77.91697367398255,13.40530469085835]]]},"properties":{"region_id":"village_624195","name":"BOMMANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

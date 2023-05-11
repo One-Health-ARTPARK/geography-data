@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8293103126195,15.13934352641867],[74.75270374958713,15.09983568528585],[74.76429914463206,15.04822413294408],[74.83459350695612,15.06248577922617],[74.8293103126195,15.13934352641867]]]},"properties":{"region_id":"village_602948","name":"KANCHANAHALLI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

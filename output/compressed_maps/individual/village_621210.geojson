@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17476591416818,16.55231679737271],[77.16428128238101,16.5410872701199],[77.16317143397306,16.52436841879858],[77.17377472340588,16.52345547486504],[77.17476591416818,16.55231679737271]]]},"properties":{"region_id":"village_621210","name":"BOODINHAL","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

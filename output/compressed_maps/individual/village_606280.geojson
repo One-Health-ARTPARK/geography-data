@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82128366093946,14.46243557282979],[75.81529672036928,14.47302357442826],[75.80388027105315,14.47101111518935],[75.80721083183619,14.45394668001044],[75.82128366093946,14.46243557282979]]]},"properties":{"region_id":"village_606280","name":"SHAMSHIPURA","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

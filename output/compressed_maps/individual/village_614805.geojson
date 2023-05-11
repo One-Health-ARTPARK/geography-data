@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18266877110274,12.33470644125694],[77.15580562201943,12.35161690080962],[77.15570380862574,12.31683670361286],[77.18266877110274,12.33470644125694]]]},"properties":{"region_id":"village_614805","name":"NETKAL","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

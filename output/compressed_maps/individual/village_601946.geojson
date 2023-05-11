@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69902845882471,15.67782696975137],[75.6997283423747,15.71960247510997],[75.6808693628271,15.71706507134491],[75.69902845882471,15.67782696975137]]]},"properties":{"region_id":"village_601946","name":"BHASALAPUR","parent":"subdistrict_5469","parent_name":"RON"}}
+]}

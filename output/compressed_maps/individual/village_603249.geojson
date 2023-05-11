@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8925513612835,14.57214499841109],[74.88146528199088,14.58606306633622],[74.87676865444085,14.57093401658641],[74.8925513612835,14.57214499841109]]]},"properties":{"region_id":"village_603249","name":"GADIHALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

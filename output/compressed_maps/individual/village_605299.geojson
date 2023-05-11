@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75678570442457,14.43022143434441],[76.75824591292726,14.45976107582297],[76.747096783089,14.45512191224752],[76.74424534961929,14.42517017716409],[76.75678570442457,14.43022143434441]]]},"properties":{"region_id":"village_605299","name":"CHENNAGANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

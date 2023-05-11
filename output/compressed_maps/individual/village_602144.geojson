@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80922961995766,15.35909710488259],[75.79763972792622,15.38560564858076],[75.78346066867388,15.36768210902054],[75.80922961995766,15.35909710488259]]]},"properties":{"region_id":"village_602144","name":"JANTLI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7950282765152,13.62878112837815],[76.79577911526461,13.60678621215921],[76.82879301192975,13.61150132753062],[76.83543167238226,13.62273892255391],[76.7950282765152,13.62878112837815]]]},"properties":{"region_id":"village_610443","name":"THUPPADAKONA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86958385667306,11.7977248017583],[76.85197435497535,11.7991477273986],[76.8539879862892,11.79235748933308],[76.86842594116013,11.79021344546432],[76.86958385667306,11.7977248017583]]]},"properties":{"region_id":"village_619725","name":"KUTHANAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44260871885253,12.67828219701848],[75.48891836610056,12.68107819995188],[75.48391898306377,12.70306153049166],[75.46313019866568,12.69832570577369],[75.44260871885253,12.67828219701848]]]},"properties":{"region_id":"village_617777","name":"AIVATHOKLU","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

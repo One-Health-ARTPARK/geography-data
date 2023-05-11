@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45654824480393,15.97306649246792],[77.44081792124108,15.95397153352903],[77.46402036159,15.93307501925443],[77.47188419270344,15.96727280988144],[77.45654824480393,15.97306649246792]]]},"properties":{"region_id":"village_600878","name":"NADDIGADDIMALKAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

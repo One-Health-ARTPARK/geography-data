@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60361580536907,14.15027566749977],[75.58638517955866,14.14514204115035],[75.59173585782365,14.12013454939812],[75.6029032852577,14.12522381800636],[75.60361580536907,14.15027566749977]]]},"properties":{"region_id":"village_606739","name":"DODDETHENAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

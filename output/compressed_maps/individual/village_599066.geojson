@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7656196683223,17.06964677146287],[75.73841172212379,17.01933420521742],[75.76702653784706,17.01409640921038],[75.7656196683223,17.06964677146287]]]},"properties":{"region_id":"village_599066","name":"DOMANAL","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42239382238711,12.83547818287158],[77.41191457767394,12.83860570693484],[77.41131683809932,12.82382486157009],[77.41837500628974,12.81935825018542],[77.42239382238711,12.83547818287158]]]},"properties":{"region_id":"village_626107","name":"MANCHANAYAKANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

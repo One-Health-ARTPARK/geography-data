@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9707743604749,12.9625582398646],[77.96338822841948,12.96484822257942],[77.96137624131823,12.95920757367162],[77.96771923224684,12.95826955431179],[77.9707743604749,12.9625582398646]]]},"properties":{"region_id":"village_622220","name":"NARIGANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

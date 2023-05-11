@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19146106823445,13.30859481234554],[76.20019274269572,13.28136040257013],[76.23232094410022,13.27982925543964],[76.23624562481368,13.30644283908818],[76.21565547746023,13.30001499446846],[76.19146106823445,13.30859481234554]]]},"properties":{"region_id":"village_615681","name":"MURUNDI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82520107228774,13.01897979762158],[77.81966759223205,13.01157015266375],[77.83389376766067,13.00700990245493],[77.83410625399202,13.01597345496575],[77.82520107228774,13.01897979762158]]]},"properties":{"region_id":"village_625669","name":"MAKANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

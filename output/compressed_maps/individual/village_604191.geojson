@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33487382061607,14.84505602150678],[75.31027315479152,14.84139249812471],[75.31542719618123,14.81658448694659],[75.33585225300583,14.82196581064015],[75.33487382061607,14.84505602150678]]]},"properties":{"region_id":"village_604191","name":"NAGANUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

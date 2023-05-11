@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8866896151226,12.79555500906579],[76.89414826364151,12.81707734250064],[76.88051075196877,12.8245160094118],[76.8793539939337,12.80944087625936],[76.8866896151226,12.79555500906579]]]},"properties":{"region_id":"village_613947","name":"THIBBANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

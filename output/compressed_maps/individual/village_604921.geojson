@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.796770139315,15.10796543033419],[76.83244080985658,15.09238991914213],[76.86953496898212,15.14617058175958],[76.82588643849624,15.16646673654046],[76.80817352997813,15.11159469626874],[76.796770139315,15.10796543033419]]]},"properties":{"region_id":"village_604921","name":"BELAGAL","parent":"subdistrict_5500","parent_name":"BALLARI"}}
+]}

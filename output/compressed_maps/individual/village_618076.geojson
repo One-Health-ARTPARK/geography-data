@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99955670331008,12.00172239647587],[75.96180008892006,11.98360763162231],[75.95750758843573,11.93978753559737],[75.98391452594497,11.94586642262174],[76.00129373646702,11.97927225779196],[75.99955670331008,12.00172239647587]]]},"properties":{"region_id":"village_618076","name":"KURCHI","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

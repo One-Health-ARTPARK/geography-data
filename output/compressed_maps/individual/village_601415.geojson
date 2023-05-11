@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01070989748192,15.80661196163393],[75.98733756877833,15.80788084245732],[75.99342299780459,15.7810945248819],[76.01298994739783,15.78541649174742],[76.01070989748192,15.80661196163393]]]},"properties":{"region_id":"village_601415","name":"MUGNOOR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

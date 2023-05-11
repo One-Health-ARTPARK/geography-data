@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6240585044947,13.32475612991464],[76.61517703392762,13.31593791879463],[76.62687392933248,13.31411685441705],[76.6240585044947,13.32475612991464]]]},"properties":{"region_id":"village_610247","name":"LAKMAGONDANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

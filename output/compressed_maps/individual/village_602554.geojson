@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37467086573038,15.29567428093764],[75.34694613023747,15.30349601683659],[75.34996445091755,15.27770475312623],[75.37467086573038,15.29567428093764]]]},"properties":{"region_id":"village_602554","name":"KONKANAKURATTI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

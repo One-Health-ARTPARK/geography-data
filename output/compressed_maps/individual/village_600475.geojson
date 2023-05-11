@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73828020978023,16.29546191354515],[76.72902432517198,16.24612041088946],[76.76466200833688,16.26335833305755],[76.73828020978023,16.29546191354515]]]},"properties":{"region_id":"village_600475","name":"YALAGHATTA","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

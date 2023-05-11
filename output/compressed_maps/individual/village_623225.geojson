@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42648455205506,13.51969562022505],[77.40983175199699,13.51633593427355],[77.42381707631004,13.50704956092135],[77.42648455205506,13.51969562022505]]]},"properties":{"region_id":"village_623225","name":"GODDAVALAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

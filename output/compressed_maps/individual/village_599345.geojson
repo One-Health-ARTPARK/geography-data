@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26864524129199,16.98135420488623],[76.23655923097297,16.982763575011],[76.234405610695,16.96360675062846],[76.26730506044814,16.96175657423957],[76.26864524129199,16.98135420488623]]]},"properties":{"region_id":"village_599345","name":"BENAKOTGI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

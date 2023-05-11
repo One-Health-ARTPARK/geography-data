@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73287367499572,15.34471176839201],[74.723281746454,15.33778304987252],[74.73769917740293,15.3350683507974],[74.73287367499572,15.34471176839201]]]},"properties":{"region_id":"village_602763","name":"YEDOGA","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

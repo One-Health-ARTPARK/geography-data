@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77434899952681,13.49781458702791],[76.76317459111704,13.49823466498202],[76.76400667442203,13.48966620324298],[76.7861770929495,13.49160310791849],[76.77434899952681,13.49781458702791]]]},"properties":{"region_id":"village_611644","name":"CHITTAPPANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

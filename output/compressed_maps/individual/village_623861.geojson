@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86228226359162,13.78151219120185],[77.85656229529451,13.79072143477607],[77.84735091638215,13.77637039389572],[77.86228226359162,13.78151219120185]]]},"properties":{"region_id":"village_623861","name":"MYNAGANAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

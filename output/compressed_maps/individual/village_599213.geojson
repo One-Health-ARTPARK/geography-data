@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0005624365679,17.30037010745873],[75.9595297634557,17.30439273620133],[75.94965733296979,17.27637164117222],[75.98258624430547,17.25499033250509],[76.0005624365679,17.30037010745873]]]},"properties":{"region_id":"village_599213","name":"LACHYAN","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

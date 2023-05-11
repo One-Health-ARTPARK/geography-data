@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40770992793267,14.37097684271198],[75.40752992864527,14.40105059580515],[75.3849790406055,14.40566579181031],[75.37695958531161,14.37022248697083],[75.40770992793267,14.37097684271198]]]},"properties":{"region_id":"village_604421","name":"NIDANEGILA","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

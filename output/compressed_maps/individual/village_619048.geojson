@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31948964656094,11.92667152096931],[76.30965916282037,11.91465217059931],[76.30912919394228,11.90211618888167],[76.32504847293981,11.90333600785243],[76.31948964656094,11.92667152096931]]]},"properties":{"region_id":"village_619048","name":"KENCHANAHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

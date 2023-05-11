@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14164092484965,17.02337652457856],[77.11159415954003,17.05666129890249],[77.1014270507339,17.02573662436113],[77.14164092484965,17.02337652457856]]]},"properties":{"region_id":"village_620677","name":"SATNOOR","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

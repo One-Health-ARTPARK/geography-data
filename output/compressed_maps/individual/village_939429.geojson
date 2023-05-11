@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64184808452188,12.96246091076978],[77.63129757641079,12.97011715257761],[77.63692317658365,12.9551375791074],[77.64184808452188,12.96246091076978]]]},"properties":{"region_id":"village_939429","name":"DOMMALURU","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84425500710914,15.19064677356863],[75.82588321255345,15.19996823893557],[75.82652582791124,15.18514795077509],[75.84425500710914,15.19064677356863]]]},"properties":{"region_id":"village_602167","name":"BASAPUR","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

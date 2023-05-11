@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89468975808951,12.91524083777598],[77.87623583810733,12.92120263874907],[77.88372441756391,12.90163802734332],[77.89468975808951,12.91524083777598]]]},"properties":{"region_id":"village_622251","name":"JAGADENAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

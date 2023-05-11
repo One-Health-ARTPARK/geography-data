@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6216629187072,13.57041249389879],[77.61075460151449,13.57166059957429],[77.6083767861499,13.56314005188773],[77.62164689572752,13.56351970995164],[77.6216629187072,13.57041249389879]]]},"properties":{"region_id":"village_623344","name":"GUTTENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77447687372373,13.23931287684407],[77.7556100220334,13.22723757642937],[77.77386129854773,13.22117203051492],[77.77447687372373,13.23931287684407]]]},"properties":{"region_id":"village_625423","name":"POLANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

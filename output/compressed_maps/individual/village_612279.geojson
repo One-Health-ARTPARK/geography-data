@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72697841758458,13.24674648275153],[76.72025801879356,13.24898088922846],[76.7156056969177,13.24298483059869],[76.72398709536904,13.24180941058833],[76.72697841758458,13.24674648275153]]]},"properties":{"region_id":"village_612279","name":"HARIGONDANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

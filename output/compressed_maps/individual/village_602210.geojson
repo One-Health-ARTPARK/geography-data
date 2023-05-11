@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85248222022256,15.57321934206278],[74.82432182683571,15.56754700708534],[74.82812865057637,15.55741803419251],[74.85770136661942,15.55671350750454],[74.85248222022256,15.57321934206278]]]},"properties":{"region_id":"village_602210","name":"HALE TEGUR","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

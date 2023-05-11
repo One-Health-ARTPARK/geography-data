@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13700616572072,12.90200530526823],[76.12492367968147,12.8992428445896],[76.12777991178203,12.88595378264425],[76.1390051923183,12.88480388393728],[76.13700616572072,12.90200530526823]]]},"properties":{"region_id":"village_616151","name":"AMMAGODANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

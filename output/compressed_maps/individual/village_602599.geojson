@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.30048855332393,14.98375114754943],[74.23789038855611,14.96595140749146],[74.27989830575505,14.93549821935075],[74.30048855332393,14.98375114754943]]]},"properties":{"region_id":"village_602599","name":"GOYAR","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

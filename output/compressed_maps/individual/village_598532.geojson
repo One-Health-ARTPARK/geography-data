@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73585300823073,16.27870866219282],[75.68356160986225,16.28451313063953],[75.67945523286163,16.25487016430162],[75.72219976097377,16.24670197291416],[75.73585300823073,16.27870866219282]]]},"properties":{"region_id":"village_598532","name":"HERKAL","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

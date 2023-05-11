@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3374425020665,12.14915681592817],[77.32613016965318,12.1244633642613],[77.3365347405033,12.12133043252005],[77.35321144856519,12.13597951936204],[77.3374425020665,12.14915681592817]]]},"properties":{"region_id":"village_619856","name":"MANAGALLI","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

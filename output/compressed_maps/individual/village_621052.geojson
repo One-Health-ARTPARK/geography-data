@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83104152970314,16.53266106441655],[76.80243159180996,16.56593102010439],[76.79503724504977,16.53853232628849],[76.83104152970314,16.53266106441655]]]},"properties":{"region_id":"village_621052","name":"ARKERA KHALSA","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

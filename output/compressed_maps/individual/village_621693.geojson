@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.2933577400655,13.34524571125506],[78.2713003303193,13.338593637596],[78.27091140943911,13.32073410284861],[78.30109250533944,13.33216117364483],[78.2933577400655,13.34524571125506]]]},"properties":{"region_id":"village_621693","name":"HOGALAGERE","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

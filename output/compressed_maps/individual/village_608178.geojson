@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14395285746667,13.73550132843931],[75.13298813468568,13.76173166213764],[75.11928280824053,13.74067822720988],[75.14395285746667,13.73550132843931]]]},"properties":{"region_id":"village_608178","name":"TENGINAKOPPA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

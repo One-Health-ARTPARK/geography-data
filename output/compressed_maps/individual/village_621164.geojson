@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01730607375015,16.6513672242818],[77.0111952354695,16.66743150059908],[76.99519159249499,16.67153264494905],[76.99155401973331,16.65154703609925],[77.01730607375015,16.6513672242818]]]},"properties":{"region_id":"village_621164","name":"KYATNAL","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

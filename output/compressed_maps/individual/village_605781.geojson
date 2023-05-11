@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29205185940489,14.04285654229453],[76.27213391978242,14.07149874553886],[76.25870716502673,14.04925445406897],[76.24242082772204,14.03527682499056],[76.29205185940489,14.04285654229453]]]},"properties":{"region_id":"village_605781","name":"MADDERU","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

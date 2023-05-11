@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14615592014239,12.99796949643327],[76.16568292053499,13.00958774990627],[76.16387751533584,13.02093742535455],[76.14298745716081,13.01780782231934],[76.14615592014239,12.99796949643327]]]},"properties":{"region_id":"village_616066","name":"BOOVANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

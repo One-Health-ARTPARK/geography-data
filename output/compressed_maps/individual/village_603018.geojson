@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03669080658366,14.99818712759404],[75.02433739718934,15.01449448064225],[74.99779595073113,15.00268541235212],[75.02712551954012,14.99307234130882],[75.03669080658366,14.99818712759404]]]},"properties":{"region_id":"village_603018","name":"KOPP (IND)","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

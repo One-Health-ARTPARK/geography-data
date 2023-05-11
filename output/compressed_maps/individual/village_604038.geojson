@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13557593289836,14.8802858100633],[75.13117518691712,14.89071983708627],[75.12392767040376,14.88516480775275],[75.13557593289836,14.8802858100633]]]},"properties":{"region_id":"village_604038","name":"HANAMASAGAR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

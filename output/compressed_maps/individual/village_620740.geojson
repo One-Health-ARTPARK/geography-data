@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4586942666638,17.10329364408804],[76.43134039948514,17.10343321685792],[76.43007446781463,17.07982539689363],[76.45636300915729,17.0786417451832],[76.4586942666638,17.10329364408804]]]},"properties":{"region_id":"village_620740","name":"NARAYANPUR","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

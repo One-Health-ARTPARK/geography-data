@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12810039528192,13.67679969631539],[76.1215675474353,13.6576477075147],[76.13475364398457,13.65666315126775],[76.12810039528192,13.67679969631539]]]},"properties":{"region_id":"village_609423","name":"GEDLEHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

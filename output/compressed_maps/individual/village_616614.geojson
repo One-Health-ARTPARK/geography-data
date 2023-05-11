@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13280689331232,12.77208494273636],[76.13134949347679,12.76071739452798],[76.13976646195496,12.76263475148806],[76.13280689331232,12.77208494273636]]]},"properties":{"region_id":"village_616614","name":"BYCHANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

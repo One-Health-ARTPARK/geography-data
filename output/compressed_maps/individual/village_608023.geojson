@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02788174903907,13.88474767501482],[75.01420168156955,13.89907527886769],[74.98757585755969,13.88903542673378],[74.98314624364153,13.860604322484],[75.02788174903907,13.88474767501482]]]},"properties":{"region_id":"village_608023","name":"ARAMANE KOPPA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

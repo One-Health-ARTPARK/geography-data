@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.23591957047609,15.74545852489775],[74.20819390843572,15.73102686054377],[74.17902522811019,15.68102175812715],[74.24493901582251,15.69783565423369],[74.23591957047609,15.74545852489775]]]},"properties":{"region_id":"village_597805","name":"KANAKUMBI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

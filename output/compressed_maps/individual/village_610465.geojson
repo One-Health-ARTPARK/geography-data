@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90835636967572,13.56425664285062],[76.90052219882882,13.57689158530754],[76.8927030099726,13.56770383287143],[76.90835636967572,13.56425664285062]]]},"properties":{"region_id":"village_610465","name":"KATAMALA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

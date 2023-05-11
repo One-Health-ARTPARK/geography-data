@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44725994810821,13.6061895957682],[75.40278394222014,13.61386597224987],[75.42110270935036,13.58593740450047],[75.44725994810821,13.6061895957682]]]},"properties":{"region_id":"village_609078","name":"KONODI","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

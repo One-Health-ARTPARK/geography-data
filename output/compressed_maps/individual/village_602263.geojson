@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93146179275783,15.40967866811344],[74.92671639986328,15.41491897895611],[74.91878533606906,15.40829187720806],[74.92436404938297,15.4011433980594],[74.93146179275783,15.40967866811344]]]},"properties":{"region_id":"village_602263","name":"NARAYANADEVARAKOPPA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

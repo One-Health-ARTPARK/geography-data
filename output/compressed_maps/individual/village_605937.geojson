@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39542323109517,13.87799646089885],[76.37227842220531,13.87462314581059],[76.38841369959633,13.8591597866746],[76.39542323109517,13.87799646089885]]]},"properties":{"region_id":"village_605937","name":"RAMAJJANAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

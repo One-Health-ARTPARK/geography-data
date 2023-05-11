@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79284027835311,17.30469264283573],[75.78552333744781,17.34245126876005],[75.75037317194236,17.3371278149848],[75.75889544016692,17.28211747264486],[75.79284027835311,17.30469264283573]]]},"properties":{"region_id":"village_599190","name":"LONI [B.K.]","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

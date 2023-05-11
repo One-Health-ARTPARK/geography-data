@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45353038792375,15.54693386481663],[74.42839631114252,15.55116056255123],[74.40510151391597,15.52925787327272],[74.44254940205278,15.51329050617041],[74.45353038792375,15.54693386481663]]]},"properties":{"region_id":"village_597927","name":"DONGARGAON","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

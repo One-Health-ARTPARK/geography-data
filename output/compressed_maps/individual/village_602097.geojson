@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61330054398323,15.19356447868103],[75.6404654791867,15.20064825162869],[75.6151487514811,15.21635712912522],[75.61330054398323,15.19356447868103]]]},"properties":{"region_id":"village_602097","name":"GUDDADAPUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

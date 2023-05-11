@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44151670551359,17.08685540410405],[77.41891860192435,17.09381853638912],[77.409547107836,17.08179677626473],[77.4425932409181,17.07945958063815],[77.44151670551359,17.08685540410405]]]},"properties":{"region_id":"village_620529","name":"LINGAMPALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

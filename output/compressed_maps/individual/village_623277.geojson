@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62433158614019,13.73574254053293],[77.61339355759303,13.75200575021442],[77.6032042817334,13.73581711171667],[77.62433158614019,13.73574254053293]]]},"properties":{"region_id":"village_623277","name":"SADARLAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

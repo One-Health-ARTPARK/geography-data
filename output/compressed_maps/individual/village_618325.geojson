@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38028254472631,12.38234877232467],[76.37445934397802,12.38350767521369],[76.36971034421283,12.37590208135089],[76.37985065020301,12.37207657665986],[76.38028254472631,12.38234877232467]]]},"properties":{"region_id":"village_618325","name":"HEJJODLU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

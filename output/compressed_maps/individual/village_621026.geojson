@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54516444058446,16.35742934097477],[76.5504178815542,16.3770455847475],[76.54492367288402,16.38372503556536],[76.53197130196388,16.36546667326391],[76.54516444058446,16.35742934097477]]]},"properties":{"region_id":"village_621026","name":"HANMANHAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

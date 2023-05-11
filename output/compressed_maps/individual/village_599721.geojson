@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91337647944243,17.99260953507229],[76.92988847148129,18.01851327018939],[76.91447165411807,18.03556410931499],[76.91337647944243,17.99260953507229]]]},"properties":{"region_id":"village_599721","name":"KOTMAL","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

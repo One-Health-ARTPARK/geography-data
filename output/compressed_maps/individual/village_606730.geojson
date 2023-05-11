@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51811831065837,14.109329593769],[75.52051276541953,14.13523101773733],[75.50806715030944,14.14805503501173],[75.49824091018434,14.11924122331655],[75.51811831065837,14.109329593769]]]},"properties":{"region_id":"village_606730","name":"MADAPURA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

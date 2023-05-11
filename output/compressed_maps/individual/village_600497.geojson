@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5785770864094,16.1037566880265],[76.545736761541,16.08495017700492],[76.54681877802274,16.03700458751758],[76.5737899178266,16.01964469833556],[76.56831757027444,16.06178200341957],[76.5785770864094,16.1037566880265]]]},"properties":{"region_id":"village_600497","name":"SANTE-KELLUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

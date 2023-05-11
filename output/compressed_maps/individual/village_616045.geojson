@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08426721714098,13.03619691892315],[76.09435884813631,13.04386647838818],[76.08828234073812,13.05250499911238],[76.08287778323879,13.04494330859342],[76.08426721714098,13.03619691892315]]]},"properties":{"region_id":"village_616045","name":"TEJUR","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

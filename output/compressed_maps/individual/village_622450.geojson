@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.07367267264212,12.93341707753956],[78.07960910320848,12.93357660686804],[78.0833810062041,12.93635937917609],[78.08076538978347,12.95024672656745],[78.07132668029489,12.9474415626986],[78.07367267264212,12.93341707753956]]]},"properties":{"region_id":"village_622450","name":"HARADAKOTHUR","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

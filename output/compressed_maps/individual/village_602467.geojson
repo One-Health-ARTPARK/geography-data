@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96234357471995,15.20909187014027],[74.96688569191089,15.21437045538635],[74.95965971348741,15.21620219073456],[74.96234357471995,15.20909187014027]]]},"properties":{"region_id":"village_602467","name":"RANGAPUR","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

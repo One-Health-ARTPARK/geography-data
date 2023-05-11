@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51068439050465,12.62091163125839],[77.49133805759955,12.62297327479719],[77.4847114305098,12.60752420756241],[77.50385907844091,12.6030251016582],[77.51068439050465,12.62091163125839]]]},"properties":{"region_id":"village_626389","name":"MALLIGEMETLU","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

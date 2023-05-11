@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84797433578672,13.20807556483292],[75.83773315124901,13.2161300660819],[75.83389221274187,13.20914920969408],[75.84745365922694,13.19883127038819],[75.84797433578672,13.20807556483292]]]},"properties":{"region_id":"village_615200","name":"KUDLUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

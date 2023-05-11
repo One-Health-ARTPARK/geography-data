@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13625124268296,16.87442239635106],[75.11753385922505,16.91352466007555],[75.09386368433879,16.87285944142328],[75.13625124268296,16.87442239635106]]]},"properties":{"region_id":"village_597250","name":"MALABAD","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

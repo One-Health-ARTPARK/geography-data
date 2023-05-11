@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20668420509784,16.73756959551955],[77.16892524139699,16.73726206400632],[77.1667779058455,16.71359627927508],[77.20668557485224,16.72363157947549],[77.20668420509784,16.73756959551955]]]},"properties":{"region_id":"village_621311","name":"KOILUR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

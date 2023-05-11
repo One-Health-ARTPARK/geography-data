@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37567569150865,13.56657291026883],[75.38253927648175,13.58485203413224],[75.35361507708089,13.59319991780717],[75.35140281576193,13.56691340109272],[75.37567569150865,13.56657291026883]]]},"properties":{"region_id":"village_608993","name":"GUNAVANTHE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

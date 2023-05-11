@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30539861442801,14.05746787909676],[76.29964706217564,14.06627846190543],[76.27959482116259,14.06180229274201],[76.29205185940489,14.04285654229453],[76.30539861442801,14.05746787909676]]]},"properties":{"region_id":"village_605780","name":"NELLIKATTE","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

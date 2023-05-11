@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06700091557586,12.25413193828132],[77.05557647613809,12.23806795622621],[77.06869210318105,12.23437596190377],[77.06700091557586,12.25413193828132]]]},"properties":{"region_id":"village_614837","name":"KODAGAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

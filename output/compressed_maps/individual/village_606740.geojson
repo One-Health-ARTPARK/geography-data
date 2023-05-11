@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59155718407196,14.11646606315597],[75.58896454414128,14.13439100820659],[75.58077039230768,14.13382727425047],[75.59155718407196,14.11646606315597]]]},"properties":{"region_id":"village_606740","name":"CHIKKETHINAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

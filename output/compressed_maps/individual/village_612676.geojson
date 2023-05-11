@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95453087062104,12.86526328758383],[76.94532694175912,12.86719323825525],[76.94622015771694,12.85312266136056],[76.95376717919595,12.85893180331283],[76.95453087062104,12.86526328758383]]]},"properties":{"region_id":"village_612676","name":"KUPPE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

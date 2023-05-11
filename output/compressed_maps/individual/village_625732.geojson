@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7990201764334,12.97035358129397],[77.78933307432443,12.97046785605142],[77.78999725803254,12.95909698712029],[77.79893560015584,12.95730352963633],[77.7990201764334,12.97035358129397]]]},"properties":{"region_id":"village_625732","name":"NAGANAYAKANAKOTE","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16871813955501,15.32467714935463],[76.17405813306767,15.30011890297892],[76.20320554757156,15.30524057080536],[76.20015471248087,15.32042300424421],[76.16871813955501,15.32467714935463]]]},"properties":{"region_id":"village_601773","name":"BAHADDURBANDI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

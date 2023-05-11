@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19544453272265,15.02605538207518],[75.18660052229042,15.03945623807158],[75.16922851267137,15.02240377525138],[75.1891140724927,15.01554639316719],[75.19544453272265,15.02605538207518]]]},"properties":{"region_id":"village_603898","name":"GOTAGODI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

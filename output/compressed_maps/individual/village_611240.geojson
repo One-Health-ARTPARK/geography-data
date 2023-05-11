@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33031075454434,13.33623570343416],[77.30658310235823,13.34025637730208],[77.3009434884936,13.3226381400392],[77.30932835709187,13.31903876067544],[77.33031075454434,13.33623570343416]]]},"properties":{"region_id":"village_611240","name":"YALACHAGERE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

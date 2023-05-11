@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99314162529133,14.46740797224608],[75.97717023512782,14.46631086053916],[75.97818951594037,14.45011297194895],[75.9921256490128,14.45311886425717],[75.99314162529133,14.46740797224608]]]},"properties":{"region_id":"village_606563","name":"LINGADAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

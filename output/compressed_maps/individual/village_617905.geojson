@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88548604390023,12.6465590610428],[75.87604639638198,12.64118943009245],[75.87965346335835,12.6359615192937],[75.88548604390023,12.6465590610428]]]},"properties":{"region_id":"village_617905","name":"CHANNAPURA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

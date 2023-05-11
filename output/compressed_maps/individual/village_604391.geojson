@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4740177108468,14.5308913390175],[75.43504308507744,14.53177019493916],[75.44540176691082,14.50423089943829],[75.47064576386552,14.51695733941319],[75.4740177108468,14.5308913390175]]]},"properties":{"region_id":"village_604391","name":"KOD","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

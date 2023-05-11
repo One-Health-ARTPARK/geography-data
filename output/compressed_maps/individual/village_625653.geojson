@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86967612219829,13.04058688407015],[77.86542687724334,13.04692198624618],[77.85409555529517,13.04360878420894],[77.85742767652935,13.03429758969664],[77.86967612219829,13.04058688407015]]]},"properties":{"region_id":"village_625653","name":"KARIBEERANAHOSAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

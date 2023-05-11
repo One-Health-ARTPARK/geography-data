@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55373209013673,12.41703299668869],[76.54620616609932,12.44054251980572],[76.52642247549322,12.443114363707],[76.52719075958697,12.40200031741443],[76.55373209013673,12.41703299668869]]]},"properties":{"region_id":"village_618690","name":"ANANDUR","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

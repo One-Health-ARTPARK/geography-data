@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61982772760268,14.46896253964298],[76.60226100411269,14.44108313863076],[76.64263207403647,14.4274885444986],[76.61982772760268,14.46896253964298]]]},"properties":{"region_id":"village_605284","name":"DEVARAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69930267032157,13.70041173825558],[75.68326270761717,13.7076174422442],[75.66728678543281,13.70320262007108],[75.6728977313908,13.69471580578627],[75.68905183759672,13.69490332624345],[75.69930267032157,13.70041173825558]]]},"properties":{"region_id":"village_609117","name":"HALASUR","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

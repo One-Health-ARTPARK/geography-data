@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5103498641741,15.43947997891319],[76.51819854423272,15.45706646386064],[76.50245970837808,15.45705717124474],[76.5103498641741,15.43947997891319]]]},"properties":{"region_id":"village_601708","name":"WADDARHATTI (OG)","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

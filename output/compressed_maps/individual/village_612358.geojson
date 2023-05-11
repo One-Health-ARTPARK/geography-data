@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66407713925149,13.08633018489778],[76.642887568354,13.08703476605697],[76.64030457826361,13.07366989221962],[76.66008689644559,13.07093863720886],[76.66407713925149,13.08633018489778]]]},"properties":{"region_id":"village_612358","name":"KADEHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

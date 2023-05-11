@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4014180877284,13.19440973295477],[77.39236163463961,13.18468690577044],[77.41740766849183,13.18255448087668],[77.4014180877284,13.19440973295477]]]},"properties":{"region_id":"village_625230","name":"KENJIGANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06407284097135,16.27352537799123],[77.05235500938991,16.28069995091224],[77.04837441101387,16.25425863339752],[77.06407284097135,16.27352537799123]]]},"properties":{"region_id":"village_600666","name":"KHARDIGUD","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

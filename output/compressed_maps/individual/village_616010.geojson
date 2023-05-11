@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06965101020319,13.01535443945466],[76.04893148981428,13.03057878456966],[76.03777343036823,13.01510479380012],[76.04585020073357,12.99799973514146],[76.06965101020319,13.01535443945466]]]},"properties":{"region_id":"village_616010","name":"HANDINAKERE","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

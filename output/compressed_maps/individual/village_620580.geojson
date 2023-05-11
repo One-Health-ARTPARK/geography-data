@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46599169462178,16.95893714222318],[77.44885084745168,16.96600389714934],[77.44217848353796,16.94621582686332],[77.46342958090109,16.9408868743983],[77.46599169462178,16.95893714222318]]]},"properties":{"region_id":"village_620580","name":"GANGARAWALPALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

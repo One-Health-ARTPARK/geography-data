@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91568558671428,12.80868514925241],[75.9199342125398,12.81171452261207],[75.9231346940274,12.82410608121912],[75.91133404778893,12.81559374325809],[75.91568558671428,12.80868514925241]]]},"properties":{"region_id":"village_939005","name":"MALUGANALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22906991375324,12.85444704025476],[75.20506627293989,12.87824746432951],[75.20003476466377,12.84675428451088],[75.22906991375324,12.85444704025476]]]},"properties":{"region_id":"village_617667","name":"BARYA","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

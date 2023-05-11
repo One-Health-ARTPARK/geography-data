@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96991313901952,13.65029058211267],[75.95905525127364,13.65307086658164],[75.93979090768697,13.64656721897679],[75.9447372543385,13.63779421624105],[75.96576681586363,13.64102153136507],[75.96991313901952,13.65029058211267]]]},"properties":{"region_id":"village_609317","name":"KORATIKERE","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

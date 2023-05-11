@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40203917247607,17.02219060904334],[77.38831011793194,17.03050697742511],[77.39248996022963,17.00421004184626],[77.4077964789499,17.00501448233958],[77.40203917247607,17.02219060904334]]]},"properties":{"region_id":"village_620567","name":"KADTAL","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

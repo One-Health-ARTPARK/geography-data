@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61188541154115,13.20728257087992],[76.59372726980992,13.20952084471571],[76.59042999563654,13.19506204173044],[76.60974942861777,13.19030232021857],[76.61188541154115,13.20728257087992]]]},"properties":{"region_id":"village_612140","name":"BURUDEGHATTA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

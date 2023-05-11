@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60168497897995,12.93705879017568],[77.58116863087479,12.93663998100304],[77.58805513797303,12.92283758998574],[77.60168497897995,12.93705879017568]]]},"properties":{"region_id":"village_924146","name":"BYRASANDRA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

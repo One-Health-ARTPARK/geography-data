@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28540377188851,13.4681104573574],[77.28751164528101,13.47877792596609],[77.26621175494013,13.47104822796565],[77.28540377188851,13.4681104573574]]]},"properties":{"region_id":"village_611093","name":"GORAVANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

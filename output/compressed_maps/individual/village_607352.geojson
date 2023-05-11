@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8531735501072,14.04035972909809],[74.83830692944807,14.04342893066721],[74.85465156122251,14.01319780952727],[74.86527269686283,14.02830190995612],[74.8531735501072,14.04035972909809]]]},"properties":{"region_id":"village_607352","name":"TUMARI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40041124660658,13.43089776254481],[75.36649085676304,13.41928044450901],[75.36864015215954,13.40109805291371],[75.40616557575707,13.40254857786223],[75.40041124660658,13.43089776254481]]]},"properties":{"region_id":"village_609024","name":"JAYAPURA","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

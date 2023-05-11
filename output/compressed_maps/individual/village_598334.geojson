@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38708784876039,15.99512249442769],[75.38657355465577,16.01361541877612],[75.36142102414455,16.00879838012643],[75.36304365886188,15.98966930656971],[75.38708784876039,15.99512249442769]]]},"properties":{"region_id":"village_598334","name":"KALAMAD","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

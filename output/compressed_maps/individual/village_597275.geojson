@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17554844352068,16.83022391239887],[75.14216362877637,16.82995891923485],[75.14725079506387,16.80941137160595],[75.17525408532504,16.81036855936295],[75.17554844352068,16.83022391239887]]]},"properties":{"region_id":"village_597275","name":"BEDARAHATTI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58128198750043,12.43077785655991],[77.532957189406,12.41907983639858],[77.5734554321347,12.38889728882058],[77.58128198750043,12.43077785655991]]]},"properties":{"region_id":"village_626615","name":"HOSADURGA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

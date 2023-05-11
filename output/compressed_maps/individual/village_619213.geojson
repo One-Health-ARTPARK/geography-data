@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78988203616706,12.15681166553443],[76.78467934535901,12.16759818320122],[76.77566717629107,12.16269600440051],[76.7892913150444,12.14558248196014],[76.78988203616706,12.15681166553443]]]},"properties":{"region_id":"village_619213","name":"KUPPARAVALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43697796114351,15.89360141249492],[75.44068192737836,15.91825398458808],[75.43245712694441,15.9200095217405],[75.42862502242684,15.89824432979848],[75.43697796114351,15.89360141249492]]]},"properties":{"region_id":"village_598345","name":"HIRETADASHI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

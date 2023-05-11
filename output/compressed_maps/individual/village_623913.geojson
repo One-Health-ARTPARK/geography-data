@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99839465008436,13.6454013917315],[77.99772447671332,13.65790323140215],[77.98749772645097,13.65268791983203],[77.99839465008436,13.6454013917315]]]},"properties":{"region_id":"village_623913","name":"KUNTLAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

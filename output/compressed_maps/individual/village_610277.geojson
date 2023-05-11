@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90783604056116,13.98790822347256],[76.89198366015603,13.99173503444125],[76.89528880122437,13.9720270179277],[76.90783604056116,13.98790822347256]]]},"properties":{"region_id":"village_610277","name":"MUSAKALOTI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

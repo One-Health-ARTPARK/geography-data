@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75286376549622,12.61440356835066],[75.74117583155677,12.61428470882969],[75.74549716831305,12.58841108985203],[75.76545666541342,12.59714242888162],[75.75286376549622,12.61440356835066]]]},"properties":{"region_id":"village_939069","name":"MANKYA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24339867155255,16.70744452340477],[77.19240392756363,16.70537780549686],[77.19791283634073,16.67456176068035],[77.23396436870308,16.68380092349099],[77.24339867155255,16.70744452340477]]]},"properties":{"region_id":"village_621316","name":"ZINKERA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21038872171145,18.09384683689855],[77.19808551274792,18.11050613816331],[77.18404207087318,18.09791520003324],[77.18511375381401,18.08405873309034],[77.21038872171145,18.09384683689855]]]},"properties":{"region_id":"village_599878","name":"JAIGAON","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

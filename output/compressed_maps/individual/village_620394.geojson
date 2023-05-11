@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39506102262243,17.41471451610961],[77.37663282515567,17.41787593375339],[77.38428287937734,17.40340169575418],[77.39506102262243,17.41471451610961]]]},"properties":{"region_id":"village_620394","name":"INDARPADHOSALI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

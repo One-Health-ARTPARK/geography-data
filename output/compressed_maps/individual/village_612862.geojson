@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63527196353945,13.01221963504599],[77.62368554716791,13.01240271710988],[77.62806624331532,13.00122678217378],[77.63587653372694,13.00374920030938],[77.63527196353945,13.01221963504599]]]},"properties":{"region_id":"village_612862","name":"LINGARAJAPURA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07406898532041,13.64622647151364],[75.06004092054432,13.63499808621454],[75.07324757203187,13.62650247078678],[75.08826085747744,13.64015284748263],[75.07406898532041,13.64622647151364]]]},"properties":{"region_id":"village_608050","name":"NIRATHOTLU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

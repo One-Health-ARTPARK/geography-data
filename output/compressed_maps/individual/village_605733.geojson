@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11818896842624,14.08098046967851],[76.10965527481466,14.06310128877559],[76.14930913520713,14.05898810738994],[76.15086569629942,14.0668402720651],[76.11818896842624,14.08098046967851]]]},"properties":{"region_id":"village_605733","name":"KUNUGALI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

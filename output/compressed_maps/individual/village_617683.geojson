@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46897979208258,12.86967395691104],[75.44614085993938,12.85086953184107],[75.46426206619094,12.81823875773084],[75.49532664686117,12.82945204275345],[75.46897979208258,12.86967395691104]]]},"properties":{"region_id":"village_617683","name":"REKHYA","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71253212487284,12.97926188232675],[76.71286484426119,12.98522307685826],[76.7022056010553,12.98191155619938],[76.70739573938529,12.97382530279011],[76.71253212487284,12.97926188232675]]]},"properties":{"region_id":"village_613711","name":"MANTANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

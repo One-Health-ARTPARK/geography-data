@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18294912092529,13.54499783304161],[77.15759017997546,13.53885527361845],[77.17717118051816,13.53045839777205],[77.18294912092529,13.54499783304161]]]},"properties":{"region_id":"village_611026","name":"HERAJENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

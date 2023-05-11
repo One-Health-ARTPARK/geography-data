@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87315289691506,16.91892114145887],[76.77535829427744,16.93088519897352],[76.7781346204546,16.88413056987887],[76.87072467148765,16.89313416369986],[76.87315289691506,16.91892114145887]]]},"properties":{"region_id":"village_620856","name":"GANWAR","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

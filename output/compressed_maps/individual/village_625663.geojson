@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82520107228774,13.01897979762158],[77.82591021328346,13.03008738189175],[77.80903269158212,13.02782069683431],[77.81528604565172,13.01867325391666],[77.82520107228774,13.01897979762158]]]},"properties":{"region_id":"village_625663","name":"DEVASETTIHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

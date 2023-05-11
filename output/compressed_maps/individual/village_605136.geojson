@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54587444548649,14.61183992919519],[76.52719874659012,14.6370807232374],[76.5090537929632,14.60642244199411],[76.52756804595991,14.59406781921559],[76.54587444548649,14.61183992919519]]]},"properties":{"region_id":"village_605136","name":"POOJARAHALLI","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

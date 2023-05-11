@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67050190387157,12.74403405805677],[77.66718014355371,12.75401951153877],[77.65362618237835,12.75305256305808],[77.6590790667548,12.74292345440524],[77.67050190387157,12.74403405805677]]]},"properties":{"region_id":"village_613296","name":"KUMBARANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

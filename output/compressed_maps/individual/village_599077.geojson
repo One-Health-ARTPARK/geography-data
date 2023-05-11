@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87702319814687,16.90988716466836],[75.84009083882371,16.90604211578429],[75.81961285529823,16.877497021143],[75.88305053424925,16.88721675334704],[75.87702319814687,16.90988716466836]]]},"properties":{"region_id":"village_599077","name":"DYABERI","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

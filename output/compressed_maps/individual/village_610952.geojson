@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30033516622152,13.6982025551452],[77.29907397493538,13.71154751649094],[77.28417800119627,13.71100417963941],[77.28670348622059,13.69752060421583],[77.30033516622152,13.6982025551452]]]},"properties":{"region_id":"village_610952","name":"DODDAGALIHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

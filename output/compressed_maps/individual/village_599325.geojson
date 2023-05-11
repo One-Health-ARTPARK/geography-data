@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32863391902869,17.01207433928704],[76.2924121381652,17.03841319808935],[76.26868621643568,16.99765511227603],[76.3217905267747,16.99771893537439],[76.32863391902869,17.01207433928704]]]},"properties":{"region_id":"village_599325","name":"MALAGHAN","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

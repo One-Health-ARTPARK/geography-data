@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81665716451226,12.15157633492234],[76.80447347645088,12.16468317145813],[76.80036313306665,12.14566686178511],[76.81665716451226,12.15157633492234]]]},"properties":{"region_id":"village_619224","name":"BILIGERE","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

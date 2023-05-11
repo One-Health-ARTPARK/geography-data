@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42214712697275,16.58471079476671],[74.3966898612043,16.58285818781907],[74.4018978960172,16.55440331746572],[74.42230117949427,16.54854299696014],[74.42214712697275,16.58471079476671]]]},"properties":{"region_id":"village_597157","name":"MANGUR","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

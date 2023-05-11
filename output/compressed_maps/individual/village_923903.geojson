@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71125644544918,12.24565978412157],[75.72047701965963,12.26497206844545],[75.71325277782245,12.27189761583273],[75.70379993444055,12.25627187778991],[75.71125644544918,12.24565978412157]]]},"properties":{"region_id":"village_923903","name":"BAVALI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

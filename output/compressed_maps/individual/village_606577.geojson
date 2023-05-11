@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86739520599333,14.36934090661352],[75.8521582347312,14.37215245538759],[75.85422433104308,14.35000188413568],[75.86615532119855,14.35277814758076],[75.86739520599333,14.36934090661352]]]},"properties":{"region_id":"village_606577","name":"KANAGONDANAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

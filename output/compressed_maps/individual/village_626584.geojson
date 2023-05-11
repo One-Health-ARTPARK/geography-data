@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52652771117288,12.48374619765157],[77.51695619017977,12.49094465499965],[77.50909820139557,12.48783843448754],[77.51891270534932,12.47709847038691],[77.52652771117288,12.48374619765157]]]},"properties":{"region_id":"village_626584","name":"HALASURU","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94098526056102,13.13132337818551],[77.93559804105895,13.14287692685563],[77.91955932743934,13.13904716415824],[77.92015506079537,13.12816434609383],[77.94098526056102,13.13132337818551]]]},"properties":{"region_id":"village_625593","name":"THAVAREKERE","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

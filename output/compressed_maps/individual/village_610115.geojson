@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57024491631837,13.44251188991946],[76.56250112574008,13.44177040633074],[76.55946008634686,13.43135652867979],[76.5719965513555,13.43535983345626],[76.57024491631837,13.44251188991946]]]},"properties":{"region_id":"village_610115","name":"KALLENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

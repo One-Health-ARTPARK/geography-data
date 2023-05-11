@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1956106834104,13.80557774783198],[75.18270316627859,13.8245742135189],[75.17217510307368,13.80847621721229],[75.1956106834104,13.80557774783198]]]},"properties":{"region_id":"village_608087","name":"SHIRAGARU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93152216691098,13.74431977794849],[77.9298448899223,13.76646396991003],[77.90403108433684,13.75869810729715],[77.9142668755179,13.73888983833467],[77.93152216691098,13.74431977794849]]]},"properties":{"region_id":"village_623948","name":"PATHAKOTE","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

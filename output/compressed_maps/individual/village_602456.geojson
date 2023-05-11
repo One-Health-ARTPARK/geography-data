@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98887892495225,15.25734964461909],[74.97214004456329,15.25804409455851],[74.97507230504108,15.24199788844508],[74.99099890449648,15.24521501860375],[74.98887892495225,15.25734964461909]]]},"properties":{"region_id":"village_602456","name":"DHULIKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

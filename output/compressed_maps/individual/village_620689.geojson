@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21835935603058,17.02021320848793],[77.18809623972723,17.00495862607886],[77.202661573554,16.984684456968],[77.2281238183049,16.99116333918385],[77.21835935603058,17.02021320848793]]]},"properties":{"region_id":"village_620689","name":"RAJOLA","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

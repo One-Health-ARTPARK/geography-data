@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51455273396904,13.24989694043973],[76.50764298984085,13.25144799918555],[76.4989342358211,13.23630868303666],[76.51231679660135,13.23818517985195],[76.51455273396904,13.24989694043973]]]},"properties":{"region_id":"village_612092","name":"HULLUKATTE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

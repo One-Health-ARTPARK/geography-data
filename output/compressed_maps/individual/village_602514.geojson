@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0269457633946,15.09524148640365],[75.0210590135259,15.09876121474446],[74.99303097672268,15.09104505946196],[74.99854458645223,15.06973783816889],[75.0322443472872,15.07460426598124],[75.0269457633946,15.09524148640365]]]},"properties":{"region_id":"village_602514","name":"NELLIHARVI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

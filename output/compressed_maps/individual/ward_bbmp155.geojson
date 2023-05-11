@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56165900009086,12.95335200000205],[77.5565769999453,12.94170899962744],[77.56430600002871,12.94176800009841],[77.56165900009086,12.95335200000205]]]},"properties":{"region_id":"ward_bbmp155","name":"WARD NO.155 (HANUMANTH NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

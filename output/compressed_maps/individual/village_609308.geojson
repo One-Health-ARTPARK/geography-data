@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01877465238981,13.70241342703009],[76.03281002542982,13.7008990649172],[76.03883678049418,13.72237847528246],[76.02350997494057,13.71986926492718],[76.01877465238981,13.70241342703009]]]},"properties":{"region_id":"village_609308","name":"MALENAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

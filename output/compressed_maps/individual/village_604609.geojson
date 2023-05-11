@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90947905253478,15.07337464942161],[75.90861575908593,15.03944336854734],[75.92788242796469,15.04190325661222],[75.92585147933018,15.0725056183662],[75.90947905253478,15.07337464942161]]]},"properties":{"region_id":"village_604609","name":"KOTANAKAL","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65925463697852,13.19218302586806],[76.63262483447636,13.19818779028976],[76.63082161010033,13.18404533888569],[76.65925463697852,13.19218302586806]]]},"properties":{"region_id":"village_612235","name":"TOREMAVINAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

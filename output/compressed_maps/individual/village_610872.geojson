@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37950550551527,13.84001256803664],[77.36301527784059,13.85399537828367],[77.34217411859116,13.82549936807686],[77.37950550551527,13.84001256803664]]]},"properties":{"region_id":"village_610872","name":"THONDOTI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

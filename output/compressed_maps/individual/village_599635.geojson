@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13254935113244,16.24631459556103],[76.1024622907043,16.19360242889653],[76.11952653107339,16.18871069821503],[76.13254935113244,16.24631459556103]]]},"properties":{"region_id":"village_599635","name":"AMARAGOL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

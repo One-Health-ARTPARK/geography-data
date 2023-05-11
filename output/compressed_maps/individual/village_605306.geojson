@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70036202305583,14.36621451831945],[76.7042956298436,14.39012923028417],[76.67742754530343,14.38492651307466],[76.68259616037842,14.37240653611715],[76.70036202305583,14.36621451831945]]]},"properties":{"region_id":"village_605306","name":"CHIKKAULLARTI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

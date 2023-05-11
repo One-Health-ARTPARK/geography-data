@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52471066970145,13.49277288342751],[76.50878744509608,13.50400367602875],[76.4971394520276,13.48545932053634],[76.51684212425783,13.48304345783207],[76.52471066970145,13.49277288342751]]]},"properties":{"region_id":"village_610064","name":"RANGENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

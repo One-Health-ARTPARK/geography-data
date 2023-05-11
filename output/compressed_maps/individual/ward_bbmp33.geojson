@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59981899982778,13.02729599993979],[77.60019399986069,13.03324500025368],[77.5956919999715,13.03217100034522],[77.59448599974775,13.02370900008108],[77.59981899982778,13.02729599993979]]]},"properties":{"region_id":"ward_bbmp33","name":"WARD NO. 33 (MANORAYANA PALYA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

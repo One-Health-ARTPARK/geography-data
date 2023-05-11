@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46115103972677,15.47215250714854],[76.44393150491845,15.47493344030604],[76.42025916229865,15.44619244883403],[76.46465245874427,15.45041788329312],[76.46115103972677,15.47215250714854]]]},"properties":{"region_id":"village_601606","name":"VENKATAGIRI","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

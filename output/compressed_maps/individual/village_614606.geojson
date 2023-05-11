@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05100076530051,12.5419004961503],[77.05929685245688,12.54602062171761],[77.05874850176481,12.55387305267287],[77.04915421254566,12.55250090566483],[77.05100076530051,12.5419004961503]]]},"properties":{"region_id":"village_614606","name":"SOMPURA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

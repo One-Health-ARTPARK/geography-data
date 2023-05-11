@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39385390608223,15.32101500021896],[76.42100294224913,15.30948090878702],[76.42834383807207,15.33615125247549],[76.39821258166597,15.32662946936043],[76.39385390608223,15.32101500021896]]]},"properties":{"region_id":"village_604726","name":"KALGHATTA","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

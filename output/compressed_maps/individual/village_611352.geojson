@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14898258273467,13.42651597531946],[77.14359519396626,13.42674676139457],[77.14893323306438,13.41501059864877],[77.15563610946529,13.42559769607111],[77.14898258273467,13.42651597531946]]]},"properties":{"region_id":"village_611352","name":"LINGAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

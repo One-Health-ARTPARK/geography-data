@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74802412595288,13.66144411442786],[76.72102679613326,13.63547384579081],[76.74519551368054,13.64255751004468],[76.75556925488787,13.6512123757804],[76.74802412595288,13.66144411442786]]]},"properties":{"region_id":"village_610429","name":"BUKKAPATNA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

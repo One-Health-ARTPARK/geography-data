@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81054701823282,15.84974099342521],[75.77650701630074,15.84769992713193],[75.77937000229932,15.81939151413501],[75.81054701823282,15.84974099342521]]]},"properties":{"region_id":"village_601928","name":"SARJAPUR","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78112884200519,13.75365580737158],[77.77340195820865,13.7588655893339],[77.76283578109064,13.75759480221604],[77.76421571658777,13.74900125218238],[77.78112884200519,13.75365580737158]]]},"properties":{"region_id":"village_623850","name":"POOLAVARIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

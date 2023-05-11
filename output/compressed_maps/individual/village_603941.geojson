@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20584119836057,14.96541146747718],[75.19396880269387,14.95176626857225],[75.20655946705098,14.94479742995611],[75.20584119836057,14.96541146747718]]]},"properties":{"region_id":"village_603941","name":"HUNSHIKATTI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

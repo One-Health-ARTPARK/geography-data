@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9634502527828,16.24798821345887],[74.92239609411479,16.27241551504368],[74.9241549050995,16.25300840063891],[74.95529892234968,16.23645156661813],[74.9634502527828,16.24798821345887]]]},"properties":{"region_id":"village_597454","name":"FULAGADDI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

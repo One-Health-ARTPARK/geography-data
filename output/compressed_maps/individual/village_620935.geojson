@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47802268848231,16.51526823763436],[76.44288817714288,16.51737828873441],[76.43066599088758,16.47389576883223],[76.47929639412361,16.47699789849619],[76.47802268848231,16.51526823763436]]]},"properties":{"region_id":"village_620935","name":"KOLIHAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

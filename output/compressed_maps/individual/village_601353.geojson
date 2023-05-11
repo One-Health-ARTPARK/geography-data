@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95207219775465,15.47401267404911],[75.90233201419198,15.47904042499959],[75.90342655988036,15.45054326069826],[75.92715725708757,15.44234438405585],[75.96794880930453,15.45354845421889],[75.95207219775465,15.47401267404911]]]},"properties":{"region_id":"village_601353","name":"MANDALGERI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

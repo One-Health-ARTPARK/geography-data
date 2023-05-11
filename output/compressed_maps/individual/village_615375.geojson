@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06053522096614,13.18390445761961],[76.05283533788001,13.18461274771781],[76.05397702124623,13.17800433447638],[76.06314636985044,13.17833583563858],[76.06053522096614,13.18390445761961]]]},"properties":{"region_id":"village_615375","name":"KASHIPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

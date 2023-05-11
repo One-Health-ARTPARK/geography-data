@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68883495072676,14.44358114086742],[74.66904602599664,14.40239564755875],[74.69381087147507,14.39920980621655],[74.68883495072676,14.44358114086742]]]},"properties":{"region_id":"village_603533","name":"HUKLI (NILKUND)","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43368786272433,13.44990486770511],[76.40924454471272,13.43655509808891],[76.42927082039677,13.41790060948779],[76.45238579943666,13.43492812428271],[76.43368786272433,13.44990486770511]]]},"properties":{"region_id":"village_610061","name":"KAMALAPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

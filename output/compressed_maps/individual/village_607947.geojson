@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31331373366994,14.03568165463455],[75.28783101946992,14.03286599849211],[75.29392152927049,14.01369246796877],[75.34214835789982,14.01783358293601],[75.31331373366994,14.03568165463455]]]},"properties":{"region_id":"village_607947","name":"MASARUR","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

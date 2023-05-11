@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35912607749242,13.65292408998685],[76.34476810348208,13.65193177985719],[76.34824162462237,13.63673559070664],[76.36055002884268,13.64152724209758],[76.35912607749242,13.65292408998685]]]},"properties":{"region_id":"village_605983","name":"YADAGATTA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46412070076576,14.28779865401654],[76.45067508963128,14.29961967616526],[76.43871413818896,14.28723397328801],[76.46412070076576,14.28779865401654]]]},"properties":{"region_id":"village_605520","name":"VEERAMADAKERIPURA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

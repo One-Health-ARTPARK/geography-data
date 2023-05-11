@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90305326112906,12.62871060516804],[76.90020863610955,12.64007023405712],[76.88308743300449,12.64279680501306],[76.89489549261538,12.62971029310952],[76.90305326112906,12.62871060516804]]]},"properties":{"region_id":"village_614366","name":"HANCHAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

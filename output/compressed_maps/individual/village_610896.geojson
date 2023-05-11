@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32091159412187,13.78588758123151],[77.2870998180941,13.79329841920535],[77.28144018302747,13.77385483780889],[77.29479184458086,13.77266963303922],[77.30019221596004,13.7838167324878],[77.32091159412187,13.78588758123151]]]},"properties":{"region_id":"village_610896","name":"DODDAYALKUR","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

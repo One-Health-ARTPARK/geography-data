@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39885065759205,14.60843655688922],[76.36979621954208,14.61505454299166],[76.36695481622893,14.60029003343914],[76.39885065759205,14.60843655688922]]]},"properties":{"region_id":"village_606487","name":"JYOTHIPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

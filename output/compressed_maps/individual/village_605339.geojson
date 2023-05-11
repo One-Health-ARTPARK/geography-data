@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68087652471452,14.2840157920645],[76.65583092786106,14.28468004659378],[76.65821289476904,14.26561266683642],[76.67675900241348,14.26627627031304],[76.68087652471452,14.2840157920645]]]},"properties":{"region_id":"village_605339","name":"SIDDAPURA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

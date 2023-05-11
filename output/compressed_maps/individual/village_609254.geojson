@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06622882291609,13.82383644971352],[76.05020278569458,13.82240945570081],[76.05233045176212,13.80996428713813],[76.06764800204061,13.81737309895144],[76.06622882291609,13.82383644971352]]]},"properties":{"region_id":"village_609254","name":"BANOOR","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

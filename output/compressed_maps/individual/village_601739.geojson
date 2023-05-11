@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00416583705093,15.21451483361386],[75.98797552629146,15.21655033826674],[75.98715212612461,15.19410626624164],[76.00637371284348,15.19911976539649],[76.00416583705093,15.21451483361386]]]},"properties":{"region_id":"village_601739","name":"BHAIRAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

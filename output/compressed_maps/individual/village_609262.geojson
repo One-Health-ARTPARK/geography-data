@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9956198025038,13.76539945846136],[75.99748198096017,13.77977212962594],[75.9755430816418,13.78406653829439],[75.95851160307126,13.77600866908899],[75.9956198025038,13.76539945846136]]]},"properties":{"region_id":"village_609262","name":"THIMMAPURA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

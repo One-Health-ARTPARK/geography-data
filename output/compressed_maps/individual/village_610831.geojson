@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21590046539659,13.6970792513107],[77.20721307635127,13.70885670620955],[77.20410436456736,13.69025856716297],[77.21590046539659,13.6970792513107]]]},"properties":{"region_id":"village_610831","name":"BANAVENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

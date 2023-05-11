@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55761412923461,12.9182805339744],[77.54772376764052,12.92035085908289],[77.54658758613006,12.9125447145728],[77.55191936061522,12.90706300269412],[77.55761412923461,12.9182805339744]]]},"properties":{"region_id":"village_938490","name":"CHIKKAKALLASANDRA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

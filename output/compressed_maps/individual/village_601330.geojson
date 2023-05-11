@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10040438795113,15.47954185750511],[76.0806608385535,15.45905007591404],[76.09984948565047,15.44528738719529],[76.12665399636565,15.44979232257282],[76.10040438795113,15.47954185750511]]]},"properties":{"region_id":"village_601330","name":"ARKERI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

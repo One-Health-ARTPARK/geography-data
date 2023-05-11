@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32845289592677,14.62713995636943],[76.32947515955249,14.64085134590493],[76.31109182066899,14.64411947241136],[76.31301149877542,14.6258057886384],[76.32845289592677,14.62713995636943]]]},"properties":{"region_id":"village_606403","name":"GOWRIPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

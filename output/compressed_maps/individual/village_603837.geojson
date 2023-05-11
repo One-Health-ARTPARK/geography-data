@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.58404841914847,13.98244792366058],[74.58448508153705,13.99414737984131],[74.5652852209616,13.99050613957401],[74.56841662264885,13.98508497065514],[74.58404841914847,13.98244792366058]]]},"properties":{"region_id":"village_603837","name":"MUTTALLI","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

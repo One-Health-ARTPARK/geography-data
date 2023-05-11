@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10337512698872,14.49164536447842],[76.07099537657942,14.51210146562229],[76.05131873226806,14.46844813635481],[76.09461818089387,14.46435034248432],[76.10337512698872,14.49164536447842]]]},"properties":{"region_id":"village_606598","name":"ANAJI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

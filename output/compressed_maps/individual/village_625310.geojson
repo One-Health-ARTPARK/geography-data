@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71704375242683,13.36223090956943],[77.69876629396218,13.35879361618804],[77.69914402140995,13.34733782607124],[77.71623241129338,13.34240097049883],[77.71704375242683,13.36223090956943]]]},"properties":{"region_id":"village_625310","name":"HURLAGURKI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

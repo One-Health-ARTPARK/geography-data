@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58256011124375,13.30464480289306],[75.56071388112446,13.30354439103351],[75.56137335458546,13.28467888609964],[75.58927153781083,13.28170249798088],[75.58256011124375,13.30464480289306]]]},"properties":{"region_id":"village_609709","name":"IYDAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

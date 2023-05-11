@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07936161794228,15.52106298192586],[76.05890223471148,15.52238180376396],[76.04592158356952,15.500449763124],[76.07305852822721,15.50359446397504],[76.07936161794228,15.52106298192586]]]},"properties":{"region_id":"village_601326","name":"YADIAPUR","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

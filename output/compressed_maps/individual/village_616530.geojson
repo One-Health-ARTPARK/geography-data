@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97025347164372,12.69797784103199],[75.96383881187424,12.69876067131744],[75.96304652881706,12.68660711460525],[75.97257001762108,12.68844590890745],[75.97025347164372,12.69797784103199]]]},"properties":{"region_id":"village_616530","name":"ITTAPATNA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

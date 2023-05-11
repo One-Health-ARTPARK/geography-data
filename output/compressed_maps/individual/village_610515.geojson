@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13027853872038,14.30638034288644],[77.11551834174884,14.29286608399367],[77.13052299023214,14.27766026126349],[77.13930216338566,14.30408222059357],[77.13027853872038,14.30638034288644]]]},"properties":{"region_id":"village_610515","name":"MARAMMANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82962755472109,12.49697077626342],[76.81626880009173,12.50027225499783],[76.81342412455172,12.48795277956843],[76.82613902467791,12.48414658202946],[76.82962755472109,12.49697077626342]]]},"properties":{"region_id":"village_614463","name":"KALENAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

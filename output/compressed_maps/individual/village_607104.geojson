@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96836413376644,13.90541137749407],[75.9574969524754,13.88648222905082],[75.97792087553756,13.88213754409212],[75.99219271664262,13.90342342400702],[75.96836413376644,13.90541137749407]]]},"properties":{"region_id":"village_607104","name":"KALKERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

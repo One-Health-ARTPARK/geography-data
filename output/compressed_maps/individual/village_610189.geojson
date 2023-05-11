@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6089846360476,13.45484061833701],[76.59638327741182,13.45287704696975],[76.60433515421818,13.44232425008871],[76.6089846360476,13.45484061833701]]]},"properties":{"region_id":"village_610189","name":"ALADAKATTE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

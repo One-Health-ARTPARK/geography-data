@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90370610499457,12.72051516238808],[75.89928502838931,12.72644067644898],[75.89592118644651,12.72226830576463],[75.90037185362434,12.71674357425208],[75.90370610499457,12.72051516238808]]]},"properties":{"region_id":"village_938983","name":"GUDUGALALE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

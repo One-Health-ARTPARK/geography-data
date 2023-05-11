@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02139695753552,17.8576183738066],[77.00047294999712,17.88894128006848],[76.96488420974468,17.8795458932967],[76.957677914618,17.82872237527892],[77.02139695753552,17.8576183738066]]]},"properties":{"region_id":"village_599755","name":"NARAYANAPUR","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

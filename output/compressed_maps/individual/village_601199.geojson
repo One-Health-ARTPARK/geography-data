@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81041733960944,15.79189231283106],[76.80408727159796,15.79154354365444],[76.78708503073861,15.76017983866992],[76.79228344172476,15.75410805311654],[76.81041733960944,15.79189231283106]]]},"properties":{"region_id":"village_601199","name":"JOLADARASI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

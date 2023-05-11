@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68007189061998,12.24913781738971],[76.67245268100994,12.26612356400193],[76.66275402621979,12.24979184149871],[76.68007189061998,12.24913781738971]]]},"properties":{"region_id":"village_618732","name":"HOSAHUNDI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

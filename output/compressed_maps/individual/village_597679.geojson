@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.47739169574332,16.00787471784421],[74.46930967940229,16.007767618961],[74.4572622520452,15.98913003589662],[74.47042591414264,15.97835891209851],[74.47739169574332,16.00787471784421]]]},"properties":{"region_id":"village_597679","name":"KATTANABHAVI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

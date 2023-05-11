@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17868830045035,17.86220296506292],[77.15359183940744,17.86280808032925],[77.15299722871163,17.8367707870986],[77.16537832040609,17.83372366108168],[77.17868830045035,17.86220296506292]]]},"properties":{"region_id":"village_600271","name":"WARWATTI (K)","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

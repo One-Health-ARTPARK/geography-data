@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03001481491616,15.92665901398962],[77.0169689928083,15.88108956185471],[77.04535092083117,15.86656385513682],[77.07600743880529,15.90648643218972],[77.03001481491616,15.92665901398962]]]},"properties":{"region_id":"village_601035","name":"CHIKALPARVI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

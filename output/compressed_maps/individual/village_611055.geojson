@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28818211554919,13.55829465836544],[77.30207244773929,13.57465493657412],[77.28346976582881,13.5910180363763],[77.27839329579471,13.57208773939135],[77.28818211554919,13.55829465836544]]]},"properties":{"region_id":"village_611055","name":"CHEELAGONDANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

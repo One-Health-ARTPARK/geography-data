@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0212422390214,13.02377943436275],[76.02064992564344,13.03183467400139],[76.01100708520146,13.03124882350577],[76.01048641101056,13.02273869974421],[76.0212422390214,13.02377943436275]]]},"properties":{"region_id":"village_616401","name":"KATIHALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6285919203648,13.78248869924613],[76.62808890648667,13.81206004467309],[76.60486730436475,13.79987355544732],[76.6285919203648,13.78248869924613]]]},"properties":{"region_id":"village_606191","name":"LAYARADASARAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93638074013718,13.15124639509328],[77.92729310995327,13.15140315607181],[77.92787992766637,13.14396852341354],[77.93561359625127,13.14287542050408],[77.93638074013718,13.15124639509328]]]},"properties":{"region_id":"village_625595","name":"LINGAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

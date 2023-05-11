@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18442683686054,16.03352562155847],[76.19402723944567,16.05188519768219],[76.16950724720357,16.06063420747265],[76.16288192825809,16.03839952740692],[76.18442683686054,16.03352562155847]]]},"properties":{"region_id":"village_598980","name":"TARIWAL","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

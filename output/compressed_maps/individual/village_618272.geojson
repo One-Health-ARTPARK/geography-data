@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11823954658679,12.33528451757257],[76.10394507545777,12.33179273005681],[76.10987272307085,12.31653288011905],[76.11777682359566,12.31723488230711],[76.11823954658679,12.33528451757257]]]},"properties":{"region_id":"village_618272","name":"ABBUR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

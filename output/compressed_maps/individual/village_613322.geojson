@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71826016130379,12.75088835560428],[77.70668705328856,12.75497554083573],[77.70440401528367,12.74674638688299],[77.71564699587186,12.74313435678629],[77.71826016130379,12.75088835560428]]]},"properties":{"region_id":"village_613322","name":"AVADADENAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98255007162318,15.82125109712301],[75.94275009327063,15.81346582000359],[75.94772380139494,15.80109870368388],[75.98255007162318,15.82125109712301]]]},"properties":{"region_id":"village_601409","name":"HIREGONNAGAR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

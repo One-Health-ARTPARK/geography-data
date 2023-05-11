@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63590003760227,17.39137531685596],[76.60977939742236,17.38491697399548],[76.61238094796282,17.3711539740923],[76.62949808871292,17.37329873066889],[76.63590003760227,17.39137531685596]]]},"properties":{"region_id":"village_620074","name":"BOMANHALLI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

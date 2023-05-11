@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51472384214543,13.5901393549692],[76.51574020840395,13.62521650464545],[76.50016238390936,13.61732614456949],[76.49293548404599,13.59229094747289],[76.51472384214543,13.5901393549692]]]},"properties":{"region_id":"village_610225","name":"THAMMADIHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4440183961783,17.64234624752251],[76.42780227746526,17.64661332275027],[76.42545349126866,17.62620858073481],[76.45077394391265,17.62499643553187],[76.4440183961783,17.64234624752251]]]},"properties":{"region_id":"village_620009","name":"CHINCHOLI (B)","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

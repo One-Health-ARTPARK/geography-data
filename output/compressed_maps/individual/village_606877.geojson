@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79337239554405,14.14711450113613],[75.78302493216337,14.15616895302671],[75.76387365725725,14.14181294723615],[75.77613804779263,14.13351100614886],[75.79337239554405,14.14711450113613]]]},"properties":{"region_id":"village_606877","name":"BYRANAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

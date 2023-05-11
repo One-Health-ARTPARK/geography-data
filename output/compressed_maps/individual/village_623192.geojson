@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59135637529725,13.54408607557614],[77.58581047851166,13.55840126558491],[77.56189581539147,13.5532715434162],[77.56536850126564,13.53885567371284],[77.59135637529725,13.54408607557614]]]},"properties":{"region_id":"village_623192","name":"JODIBISILAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

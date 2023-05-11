@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94593923476334,12.93021007093432],[76.9602848138136,12.93553900560913],[76.9638357097898,12.94776517196919],[76.9502604494455,12.94801035633606],[76.94593923476334,12.93021007093432]]]},"properties":{"region_id":"village_612648","name":"MALLAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

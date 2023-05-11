@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02527337531147,14.72574362531721],[75.02138292915743,14.73522664958749],[75.00445215397554,14.73219919374839],[75.0146812739919,14.72029172150809],[75.02527337531147,14.72574362531721]]]},"properties":{"region_id":"village_603089","name":"VEERAPUR","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

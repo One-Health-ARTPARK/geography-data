@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98129462969057,13.28425118626803],[75.98936387138747,13.27918384797334],[75.99255300172723,13.28753259835662],[75.98247741263613,13.29103978651281],[75.98129462969057,13.28425118626803]]]},"properties":{"region_id":"village_609793","name":"HOSAHALLY","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

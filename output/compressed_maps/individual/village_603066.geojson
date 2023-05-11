@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03837635466671,14.7904146127588],[75.04376411555981,14.79903585837271],[75.02483509341778,14.81041289723701],[75.02185684970289,14.79271821249216],[75.03837635466671,14.7904146127588]]]},"properties":{"region_id":"village_603066","name":"BHADRAPURA","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

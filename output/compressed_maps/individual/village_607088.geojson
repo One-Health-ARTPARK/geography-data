@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9782999759737,14.00981104101367],[75.97762068384628,14.02984774226034],[75.9625782471702,14.02613405700911],[75.96303238709652,14.0100657885581],[75.9782999759737,14.00981104101367]]]},"properties":{"region_id":"village_607088","name":"NARASHETTIHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

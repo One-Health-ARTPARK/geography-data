@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47248422006186,14.52757241617162],[76.45333926608915,14.52163522422529],[76.46956459329432,14.50659427334184],[76.47248422006186,14.52757241617162]]]},"properties":{"region_id":"village_606508","name":"HALEHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

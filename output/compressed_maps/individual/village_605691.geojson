@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1325176001476,13.9413918463958],[76.14305257162168,13.96668115823873],[76.11458032402979,13.96518996489547],[76.1325176001476,13.9413918463958]]]},"properties":{"region_id":"village_605691","name":"RAMAGIRI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

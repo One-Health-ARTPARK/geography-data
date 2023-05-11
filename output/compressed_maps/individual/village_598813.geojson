@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85559682945669,16.34725579728131],[75.84938968616328,16.34769456246165],[75.84661845691777,16.33323753692062],[75.85654130301596,16.31629820673059],[75.85429974813913,16.33834584775454],[75.85559682945669,16.34725579728131]]]},"properties":{"region_id":"village_598813","name":"CHIKKGULABAL","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

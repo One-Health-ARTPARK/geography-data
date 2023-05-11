@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.804198537093,16.46252302239199],[75.7780162536811,16.47060980377615],[75.77255433766643,16.44414743892297],[75.80085911542176,16.44381206569409],[75.804198537093,16.46252302239199]]]},"properties":{"region_id":"village_599467","name":"TADALGI","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

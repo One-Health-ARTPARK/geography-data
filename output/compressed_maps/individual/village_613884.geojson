@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76526595637152,12.86478815828045],[76.74490290028479,12.86342339354342],[76.7435142549846,12.85800350250622],[76.75761887895085,12.85357277749835],[76.76526595637152,12.86478815828045]]]},"properties":{"region_id":"village_613884","name":"TOLALI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02650304034883,12.54277793898992],[77.01486129116343,12.54024207378877],[77.01779951820843,12.53228546508671],[77.03030381794278,12.5357619424467],[77.02650304034883,12.54277793898992]]]},"properties":{"region_id":"village_614604","name":"BORAPURA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35977004757432,12.06042721613868],[76.34641503704682,12.06600127753246],[76.34811079487253,12.05242056078979],[76.35977004757432,12.06042721613868]]]},"properties":{"region_id":"village_618895","name":"YARAHALLIKAVAL","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

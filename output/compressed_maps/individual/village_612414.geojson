@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76339553469249,13.07419217001376],[76.74690038624061,13.0757124691704],[76.74821940763164,13.05494168827081],[76.7607890329028,13.05667554601473],[76.76339553469249,13.07419217001376]]]},"properties":{"region_id":"village_612414","name":"CHIKKASETTIKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

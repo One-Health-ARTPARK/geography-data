@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58095444882944,13.16774029807068],[75.58898415330093,13.18290375550454],[75.56078804941342,13.20315851770089],[75.54168791088105,13.16234601964362],[75.56842838950102,13.14672998207042],[75.58095444882944,13.16774029807068]]]},"properties":{"region_id":"village_609932","name":"B.HOSAHALLI","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

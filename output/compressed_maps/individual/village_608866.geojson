@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02035609937846,13.50638318370225],[74.98821085277343,13.50578115377313],[74.9685992779418,13.48983344907615],[74.99683738520558,13.47127498117463],[75.02035609937846,13.50638318370225]]]},"properties":{"region_id":"village_608866","name":"KUCHCHUR","parent":"subdistrict_7065","parent_name":"HEBRI"}}
+]}

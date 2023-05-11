@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24193838116966,13.83005332969844],[75.23083209696921,13.82625942761464],[75.24081026476013,13.81415033133549],[75.24962284029539,13.82359182578147],[75.24193838116966,13.83005332969844]]]},"properties":{"region_id":"village_608074","name":"HALAVANAHALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

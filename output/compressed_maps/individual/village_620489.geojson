@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25600855908748,17.20275128660515],[77.2585763676943,17.22248793713266],[77.2390554872514,17.21943139584683],[77.23344292335001,17.2013820325531],[77.25600855908748,17.20275128660515]]]},"properties":{"region_id":"village_620489","name":"AREBOMMANHALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

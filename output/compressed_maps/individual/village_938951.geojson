@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83259275699832,13.68441952374035],[75.82731629771362,13.70663104912794],[75.81443615700474,13.69597575762788],[75.83259275699832,13.68441952374035]]]},"properties":{"region_id":"village_938951","name":"GALIHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

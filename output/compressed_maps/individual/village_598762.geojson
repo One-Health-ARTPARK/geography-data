@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.688530917914,15.83040120180538],[75.6847130973941,15.86647609856871],[75.67150844621152,15.86616494741615],[75.67187839072633,15.83612545370133],[75.688530917914,15.83040120180538]]]},"properties":{"region_id":"village_598762","name":"KATHARAKI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

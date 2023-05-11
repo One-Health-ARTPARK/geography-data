@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02011389916161,12.59061359721025],[77.00913707042741,12.59200260829239],[77.0012740293811,12.58226488430156],[77.01404354081974,12.58071212584908],[77.02011389916161,12.59061359721025]]]},"properties":{"region_id":"village_614582","name":"HOSAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

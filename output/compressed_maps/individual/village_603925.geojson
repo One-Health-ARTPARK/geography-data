@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27122273041958,15.03855383904617],[75.27123729266651,15.05491988037025],[75.25148569040998,15.05167722439598],[75.25745982090709,15.04051759466638],[75.27122273041958,15.03855383904617]]]},"properties":{"region_id":"village_603925","name":"KENGAPUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

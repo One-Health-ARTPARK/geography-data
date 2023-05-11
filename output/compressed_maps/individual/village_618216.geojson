@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14144050851256,12.37317289618493],[76.12743860866901,12.35952058311855],[76.14255446833192,12.35989143773772],[76.14144050851256,12.37317289618493]]]},"properties":{"region_id":"village_618216","name":"SUNDAVALU","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

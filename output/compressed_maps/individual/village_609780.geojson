@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89421467774685,13.35010339907667],[75.87863485876929,13.35445394812264],[75.87982226491862,13.34186413928019],[75.89421467774685,13.35010339907667]]]},"properties":{"region_id":"village_609780","name":"GANADALU","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

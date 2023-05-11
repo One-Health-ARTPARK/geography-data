@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00172587617656,13.02978005914527],[76.98390299659587,13.0313527194026],[76.98710129507536,13.02291073348583],[77.00172587617656,13.02978005914527]]]},"properties":{"region_id":"village_612582","name":"MUTHUGADAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

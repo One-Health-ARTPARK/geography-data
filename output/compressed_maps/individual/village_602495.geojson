@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12466514552808,15.16649611935614],[75.10865585959749,15.1754876798607],[75.10490626003438,15.16455792098207],[75.12466514552808,15.16649611935614]]]},"properties":{"region_id":"village_602495","name":"DYAMAPUR","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

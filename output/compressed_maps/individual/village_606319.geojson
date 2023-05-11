@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09560929200596,14.79685736560079],[76.06670130187983,14.7967148957522],[76.0849168547046,14.76055142459032],[76.1043262454146,14.78383751506514],[76.09560929200596,14.79685736560079]]]},"properties":{"region_id":"village_606319","name":"PRUTHVESWARA","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

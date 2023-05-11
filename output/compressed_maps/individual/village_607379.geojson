@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07882138033818,14.5756648209299],[75.07655637075281,14.59640058171185],[75.05721436318164,14.59283020577069],[75.06169729211356,14.57447037637803],[75.07882138033818,14.5756648209299]]]},"properties":{"region_id":"village_607379","name":"THELAGUNDA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

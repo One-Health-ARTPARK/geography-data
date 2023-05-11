@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01408928990536,13.76074075270468],[75.99513879662544,13.74880592588138],[76.01288040516194,13.73845150733546],[76.01408928990536,13.76074075270468]]]},"properties":{"region_id":"village_609278","name":"HEBBUR","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

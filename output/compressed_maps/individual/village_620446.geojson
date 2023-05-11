@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35455475087528,17.36951305015851],[77.33825868292644,17.35202755316585],[77.3639353445318,17.34801415911658],[77.35455475087528,17.36951305015851]]]},"properties":{"region_id":"village_620446","name":"PENCHGANPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

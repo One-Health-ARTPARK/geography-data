@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22858467841426,13.98668456925056],[76.22665051461328,14.00554891382703],[76.19879535979103,13.99386626165743],[76.20666406743182,13.97670801047865],[76.22858467841426,13.98668456925056]]]},"properties":{"region_id":"village_605749","name":"LOKADOLALU","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

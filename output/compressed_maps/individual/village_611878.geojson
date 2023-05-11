@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87232194340908,13.26491431842119],[76.84998903672866,13.26833752945294],[76.85267718622904,13.25854145699157],[76.8655466590336,13.25392882325915],[76.87232194340908,13.26491431842119]]]},"properties":{"region_id":"village_611878","name":"ADAGONDANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

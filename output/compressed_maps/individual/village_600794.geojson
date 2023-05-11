@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3743787733936,16.16495929611807],[77.38957998385077,16.15048778758711],[77.39938089774807,16.1821683750696],[77.38419819866574,16.18417009052908],[77.3743787733936,16.16495929611807]]]},"properties":{"region_id":"village_600794","name":"SIDRAMPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

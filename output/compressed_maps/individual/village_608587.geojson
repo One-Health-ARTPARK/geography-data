@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75873514662834,13.87562894705121],[75.74375701667006,13.87116138869342],[75.75797643624333,13.85460589370167],[75.75873514662834,13.87562894705121]]]},"properties":{"region_id":"village_608587","name":"KOMARANAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

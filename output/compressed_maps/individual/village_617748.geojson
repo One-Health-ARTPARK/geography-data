@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22549581600634,12.67042320132549],[75.20773695496096,12.67195681271985],[75.19839144477984,12.63104928516636],[75.22272851209804,12.64491154484843],[75.22549581600634,12.67042320132549]]]},"properties":{"region_id":"village_617748","name":"NIDPALLI","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

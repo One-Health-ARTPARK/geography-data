@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81664103729075,12.23427978059683],[76.81997038373923,12.234676699153],[76.82155805369304,12.25550672318632],[76.81156471527714,12.25336402811467],[76.81023193084397,12.2412692530134],[76.81664103729075,12.23427978059683]]]},"properties":{"region_id":"village_618797","name":"KEELANAPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

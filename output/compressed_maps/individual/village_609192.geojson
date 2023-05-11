@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92622830089847,13.74284769378148],[75.93147118893552,13.75498059508486],[75.90974047619177,13.75593005098623],[75.91052137456961,13.74620010389496],[75.92622830089847,13.74284769378148]]]},"properties":{"region_id":"village_609192","name":"MUDUGUNDI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

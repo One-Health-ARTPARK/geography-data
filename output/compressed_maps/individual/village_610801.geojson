@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13701160070165,13.59583308874463],[77.12825447833653,13.61090609131151],[77.09725236881725,13.61671541148757],[77.104904825818,13.58909193705844],[77.13701160070165,13.59583308874463]]]},"properties":{"region_id":"village_610801","name":"CHICKATHIMMANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

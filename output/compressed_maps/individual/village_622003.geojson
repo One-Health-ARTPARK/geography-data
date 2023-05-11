@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.1911018952566,13.13826045252086],[78.17944294213295,13.13922695460017],[78.17924711898354,13.13068007167686],[78.18890345964101,13.13089878995132],[78.1911018952566,13.13826045252086]]]},"properties":{"region_id":"village_622003","name":"KUMBARAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

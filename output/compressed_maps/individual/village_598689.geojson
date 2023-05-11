@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84283607109488,16.03203597419419],[75.81738154308154,16.03367220787988],[75.80821794317009,16.00804699361289],[75.83123823844947,16.00895896722393],[75.84283607109488,16.03203597419419]]]},"properties":{"region_id":"village_598689","name":"KATAGINAHALLI","parent":"subdistrict_7061","parent_name":"GULEDGUDDA"}}
+]}

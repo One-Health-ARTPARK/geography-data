@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91866821901478,13.0474308622628],[77.90561567158825,13.04957516361758],[77.9010491238481,13.03761798175563],[77.9100708815646,13.03208629150303],[77.91866821901478,13.0474308622628]]]},"properties":{"region_id":"village_622136","name":"HEDAGINABELE","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

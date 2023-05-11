@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41257512407138,13.39293456450816],[75.37776658925513,13.39844540349627],[75.39322615253228,13.36692564623978],[75.41257512407138,13.39293456450816]]]},"properties":{"region_id":"village_609027","name":"YELEMADALU","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

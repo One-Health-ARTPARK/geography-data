@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74717649530393,13.51393955789354],[74.73817450211548,13.52179750573126],[74.73193441827121,13.51010945240162],[74.74219650254449,13.5075696835065],[74.74717649530393,13.51393955789354]]]},"properties":{"region_id":"village_608763","name":"VADDARSE","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

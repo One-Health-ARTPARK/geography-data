@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78353635260241,13.45255652168893],[75.75609912543898,13.45469707414774],[75.76032197297701,13.44398916616666],[75.78353635260241,13.45255652168893]]]},"properties":{"region_id":"village_609689","name":"MUTHINAPURA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

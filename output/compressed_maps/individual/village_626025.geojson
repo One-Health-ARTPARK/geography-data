@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23118884727589,12.86187565466725],[77.23234160103056,12.84487736023956],[77.24795635240586,12.85190376069407],[77.24852426317489,12.87009060442767],[77.23118884727589,12.86187565466725]]]},"properties":{"region_id":"village_626025","name":"GUDDALAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

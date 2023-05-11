@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86378119111363,17.74222024212827],[76.83744103544475,17.73789300799553],[76.83625981693727,17.71723479282029],[76.85678359608448,17.7102756146929],[76.86378119111363,17.74222024212827]]]},"properties":{"region_id":"village_599814","name":"YELADGUNDI","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

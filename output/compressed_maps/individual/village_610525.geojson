@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2376181007523,14.28386947921985],[77.23537321576201,14.30213299838438],[77.22283499785352,14.29147303447345],[77.2376181007523,14.28386947921985]]]},"properties":{"region_id":"village_610525","name":"KUNIHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

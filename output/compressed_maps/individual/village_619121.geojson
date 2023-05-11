@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45275709295333,12.10095662821085],[76.45318412055695,12.11630070866289],[76.43781648382856,12.11077674423028],[76.44139502467866,12.09153992418924],[76.45275709295333,12.10095662821085]]]},"properties":{"region_id":"village_619121","name":"IBJALA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

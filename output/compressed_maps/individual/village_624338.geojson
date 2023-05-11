@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97208455820304,13.56287909699754],[77.97019642949991,13.58350042609683],[77.9642484267325,13.58468797154542],[77.95920975093388,13.55760914072243],[77.97208455820304,13.56287909699754]]]},"properties":{"region_id":"village_624338","name":"DEVAGANAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

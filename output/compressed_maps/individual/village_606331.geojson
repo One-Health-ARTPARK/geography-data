@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88438622295934,14.7935808687516],[75.83791607377518,14.80681220279684],[75.85817908367645,14.78051838731162],[75.88438622295934,14.7935808687516]]]},"properties":{"region_id":"village_606331","name":"ARASANAHAL","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

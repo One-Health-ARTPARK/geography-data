@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0186996540904,13.82016284851956],[74.99532303535675,13.830333610929],[74.98943851562045,13.81259773313451],[75.0186996540904,13.82016284851956]]]},"properties":{"region_id":"village_608027","name":"BYSE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

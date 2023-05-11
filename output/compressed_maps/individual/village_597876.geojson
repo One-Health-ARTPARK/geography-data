@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.57540159164158,15.65202733419265],[74.56418056771462,15.64915931477352],[74.56284747211191,15.64096370812824],[74.57441401094087,15.64572018705304],[74.57540159164158,15.65202733419265]]]},"properties":{"region_id":"village_597876","name":"YADOGA","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

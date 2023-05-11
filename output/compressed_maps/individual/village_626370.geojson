@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43857110499201,12.67496793524497],[77.42090860257973,12.67240203406909],[77.41326332422305,12.65719185482828],[77.43286254189178,12.65808594380108],[77.43857110499201,12.67496793524497]]]},"properties":{"region_id":"village_626370","name":"BANNIKUPPE","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

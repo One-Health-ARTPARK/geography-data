@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23481928116401,14.3359867817034],[76.20806704319826,14.33680421448974],[76.20516865926632,14.32074936562384],[76.23182958047492,14.32761339837183],[76.23481928116401,14.3359867817034]]]},"properties":{"region_id":"village_605462","name":"JATLAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

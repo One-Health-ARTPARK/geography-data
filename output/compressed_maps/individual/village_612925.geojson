@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70974814888166,13.13793748469069],[77.6952626222472,13.1450287643245],[77.69030058608809,13.12698843491921],[77.70025220443495,13.12225178038591],[77.70974814888166,13.13793748469069]]]},"properties":{"region_id":"village_612925","name":"MAHADEVAKODIGEHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

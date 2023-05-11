@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09699330690803,12.77393658876642],[76.07774423884946,12.7735183229365],[76.07924116487497,12.75967059578524],[76.09661853836958,12.76102421153011],[76.09699330690803,12.77393658876642]]]},"properties":{"region_id":"village_616592","name":"HONNAVALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

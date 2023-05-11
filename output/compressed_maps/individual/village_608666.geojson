@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65406991670253,13.81479375259548],[74.64030587696223,13.81800459695618],[74.6225123555481,13.81639895506816],[74.63210609862116,13.80537693550973],[74.65406991670253,13.81479375259548]]]},"properties":{"region_id":"village_608666","name":"KERGAL","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

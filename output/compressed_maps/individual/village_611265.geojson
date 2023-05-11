@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98537873726654,13.44288653704173],[76.98523096215852,13.45337289851167],[76.97546284769469,13.45420796048193],[76.97942112807692,13.44125127067154],[76.98537873726654,13.44288653704173]]]},"properties":{"region_id":"village_611265","name":"DODDAVEERANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

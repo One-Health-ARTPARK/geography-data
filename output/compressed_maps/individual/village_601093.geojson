@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68095054515925,15.78568447840685],[76.65699478236138,15.78419175298666],[76.65457108363852,15.72670609669379],[76.71365850925608,15.74201744088598],[76.68095054515925,15.78568447840685]]]},"properties":{"region_id":"village_601093","name":"VIRAPAPUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75353742247414,14.68069256360331],[74.76599127282155,14.69999418186914],[74.75055079526581,14.70845767366807],[74.74682370166943,14.69317225423222],[74.75353742247414,14.68069256360331]]]},"properties":{"region_id":"village_603124","name":"HANCHARATA","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

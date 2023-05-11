@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7891967509461,17.03980582281722],[75.78363625915054,17.07294506114036],[75.76680313745867,17.07219130102899],[75.76580379956876,17.0253713552552],[75.7891967509461,17.03980582281722]]]},"properties":{"region_id":"village_599236","name":"AGASANAL","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

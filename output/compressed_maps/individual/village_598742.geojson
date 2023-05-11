@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80713765792885,15.97866877398547],[75.79260711348611,15.97746682990735],[75.8045745723286,15.94019591734572],[75.81803193190869,15.94866463296473],[75.80713765792885,15.97866877398547]]]},"properties":{"region_id":"village_598742","name":"PATTADAKALL","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

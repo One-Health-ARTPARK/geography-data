@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04099465627877,17.66764376406178],[77.00394914878552,17.67158979729645],[76.99889855043698,17.64382896083081],[77.03488910268572,17.62786420270496],[77.04099465627877,17.66764376406178]]]},"properties":{"region_id":"village_620183","name":"DONGERAGAON","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

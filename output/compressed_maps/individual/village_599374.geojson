@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26904527574148,16.79457982733694],[76.25027898578278,16.80092458258464],[76.24354504239275,16.78410343049107],[76.26014661688717,16.78162684912084],[76.26904527574148,16.79457982733694]]]},"properties":{"region_id":"village_599374","name":"SHAKAPUR (BECHARAK)","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

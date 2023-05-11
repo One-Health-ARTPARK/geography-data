@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37406487109097,12.21251779846291],[76.36390718480592,12.23769727220881],[76.35622622684507,12.22780913705438],[76.35734082122902,12.2101572650131],[76.37406487109097,12.21251779846291]]]},"properties":{"region_id":"village_618493","name":"HALLADAKOPPALU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

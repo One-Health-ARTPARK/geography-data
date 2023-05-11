@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78078111666736,13.95725123042156],[76.78479661476574,13.9662321895055],[76.77988446436352,13.97291067586258],[76.770267558462,13.96503011503921],[76.78078111666736,13.95725123042156]]]},"properties":{"region_id":"village_606124","name":"APPASAMUDRA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

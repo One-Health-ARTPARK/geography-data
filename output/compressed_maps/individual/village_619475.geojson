@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68866083659523,11.86816898901624],[76.69457756705307,11.88362704286047],[76.678729284454,11.88303075443395],[76.68866083659523,11.86816898901624]]]},"properties":{"region_id":"village_619475","name":"HEGGADAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

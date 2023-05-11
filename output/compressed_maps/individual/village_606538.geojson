@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41960597881177,14.47065744884538],[76.39675175101976,14.47309771066316],[76.39266284219217,14.46099127623858],[76.42318838230528,14.45511803648544],[76.41960597881177,14.47065744884538]]]},"properties":{"region_id":"village_606538","name":"BENNEHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

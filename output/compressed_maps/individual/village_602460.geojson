@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00038947821793,15.21695758873939],[74.9895605637878,15.24112740884727],[74.97474586994338,15.24189128256964],[74.9789469884046,15.22036767982277],[75.00038947821793,15.21695758873939]]]},"properties":{"region_id":"village_602460","name":"BISARALLI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

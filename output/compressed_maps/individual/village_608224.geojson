@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19991166446391,13.66419266122877],[75.19238169957289,13.66067285619637],[75.19935933710462,13.65432836060927],[75.19991166446391,13.66419266122877]]]},"properties":{"region_id":"village_608224","name":"GUDDEKOPPA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

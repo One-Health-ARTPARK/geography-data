@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6604698624436,12.25235020961002],[75.64461766395482,12.2549303845598],[75.61919195270637,12.2454750254016],[75.61513150671604,12.22484481733523],[75.66238626899377,12.21959354656677],[75.6604698624436,12.25235020961002]]]},"properties":{"region_id":"village_617847","name":"YEVAKAPADI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

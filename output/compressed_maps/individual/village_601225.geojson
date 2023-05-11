@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83360252850628,15.58364301137973],[76.83171485678119,15.59726514097711],[76.78494031033144,15.59207727634947],[76.79283652226216,15.58410548520364],[76.83360252850628,15.58364301137973]]]},"properties":{"region_id":"village_601225","name":"HUDA","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

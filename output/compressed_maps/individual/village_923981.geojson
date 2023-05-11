@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82429132828426,12.6306400834323],[75.82959600121254,12.62325333994525],[75.84116616050055,12.6351074777979],[75.826216053682,12.63752268276168],[75.82429132828426,12.6306400834323]]]},"properties":{"region_id":"village_923981","name":"HOSABEEDU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

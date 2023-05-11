@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59696479248265,13.3486835155111],[77.59855534638612,13.36208648955975],[77.58762783793577,13.35892568676157],[77.59696479248265,13.3486835155111]]]},"properties":{"region_id":"village_625063","name":"KURUVIGERE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

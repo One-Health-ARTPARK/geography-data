@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79354176360143,13.28245011252977],[74.76170154110892,13.28922615654708],[74.77249318839239,13.25791655073547],[74.79354176360143,13.28245011252977]]]},"properties":{"region_id":"village_608822","name":"KURKALU","parent":"subdistrict_7067","parent_name":"KAPU"}}
+]}

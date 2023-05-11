@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58158219120934,15.90992326891185],[75.56923354489624,15.91149554886633],[75.56523394366751,15.90490318166623],[75.59378656488897,15.90152544907589],[75.59517346618547,15.90745767036536],[75.58158219120934,15.90992326891185]]]},"properties":{"region_id":"village_598713","name":"ALADAKATTI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

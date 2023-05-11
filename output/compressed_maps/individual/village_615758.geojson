@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18368973730036,13.17462309914572],[76.15432466763848,13.1791667105228],[76.15699653033214,13.16397966712786],[76.17252337727507,13.16047220015947],[76.18368973730036,13.17462309914572]]]},"properties":{"region_id":"village_615758","name":"MOOTIKERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

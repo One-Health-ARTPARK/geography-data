@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15485767507957,13.12072345181729],[76.13648567761804,13.1226936202013],[76.1393207230047,13.10601424561581],[76.15037248954546,13.10423268391144],[76.15485767507957,13.12072345181729]]]},"properties":{"region_id":"village_615938","name":"MUTHATHI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

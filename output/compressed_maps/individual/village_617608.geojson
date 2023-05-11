@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22023665779642,13.15047929335126],[75.15546954512354,13.10202806710865],[75.2099609631619,13.10005253782181],[75.22023665779642,13.15047929335126]]]},"properties":{"region_id":"village_617608","name":"KUTHLURU","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

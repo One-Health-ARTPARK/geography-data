@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02406294480329,12.65355535916087],[76.01478107128732,12.63690306859145],[76.02879310719378,12.63264969357916],[76.0332498795901,12.64399897862131],[76.02406294480329,12.65355535916087]]]},"properties":{"region_id":"village_616705","name":"AKKALAVADI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

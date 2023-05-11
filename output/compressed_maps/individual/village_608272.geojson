@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0641090007336,13.6277041141347],[75.05557598480763,13.58790797655307],[75.07532209153626,13.57466014108158],[75.10063728593327,13.60680547771025],[75.07572363940878,13.60979821547717],[75.0641090007336,13.6277041141347]]]},"properties":{"region_id":"village_608272","name":"SHUNTIHAKLU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

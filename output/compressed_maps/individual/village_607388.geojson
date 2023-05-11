@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14337082502412,14.62042298525128],[75.14221569851111,14.63385638357914],[75.12631679451604,14.63075430675208],[75.12921769644781,14.61795664215858],[75.14337082502412,14.62042298525128]]]},"properties":{"region_id":"village_607388","name":"SABARA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

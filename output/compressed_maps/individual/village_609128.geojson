@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7192955560326,13.67161853902357],[75.70911468405427,13.6896484330274],[75.70099208576747,13.68077604496008],[75.7192955560326,13.67161853902357]]]},"properties":{"region_id":"village_609128","name":"BARGENAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

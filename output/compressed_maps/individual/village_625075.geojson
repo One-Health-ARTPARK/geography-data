@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65434788980058,13.34755345100456],[77.63641887325703,13.34886764730525],[77.6428477212946,13.33570953496779],[77.65434788980058,13.34755345100456]]]},"properties":{"region_id":"village_625075","name":"GULYANANDIGUNDA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

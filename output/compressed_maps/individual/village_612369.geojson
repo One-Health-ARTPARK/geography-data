@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65972132119435,13.02627705006746],[76.67071576382418,13.05529075485592],[76.65576880728658,13.05743059850375],[76.65972132119435,13.02627705006746]]]},"properties":{"region_id":"village_612369","name":"GURALAMATA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

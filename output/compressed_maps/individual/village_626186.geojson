@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39514741182711,12.79617172939037],[77.39809167616264,12.8027661525413],[77.3832120723026,12.8036617363888],[77.38765862878945,12.79098759232807],[77.39514741182711,12.79617172939037]]]},"properties":{"region_id":"village_626186","name":"BIDADI (CT)","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19188671258989,13.63902392023004],[77.17986809978498,13.64111367100294],[77.15538836367637,13.63190473486945],[77.17134104682088,13.62209664038232],[77.19188671258989,13.63902392023004]]]},"properties":{"region_id":"village_610846","name":"KUPPACHARIROPPA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

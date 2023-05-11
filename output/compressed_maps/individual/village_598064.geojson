@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73935127657548,15.78871015801131],[74.72494966455498,15.78303091379774],[74.72939964119907,15.75461698781154],[74.73995902805187,15.76844340211489],[74.73935127657548,15.78871015801131]]]},"properties":{"region_id":"village_598064","name":"KALLUR","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

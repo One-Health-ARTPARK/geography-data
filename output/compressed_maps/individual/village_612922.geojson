@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7266187326975,13.17608556228885],[77.71341476493049,13.17542410086549],[77.7086232274802,13.16281434011646],[77.7331688662205,13.15933994797569],[77.7266187326975,13.17608556228885]]]},"properties":{"region_id":"village_612922","name":"SINGAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

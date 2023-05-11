@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00206084266976,13.90895097769145],[75.98939529031277,13.92266774177089],[75.98565882850266,13.9043316738048],[76.00206084266976,13.90895097769145]]]},"properties":{"region_id":"village_607102","name":"BEEDUGONDANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

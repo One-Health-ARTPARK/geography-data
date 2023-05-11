@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7552834023702,12.40505344341008],[76.75231297383519,12.38626071985034],[76.79397290011387,12.37882948796073],[76.77771727613289,12.40405581709561],[76.7552834023702,12.40505344341008]]]},"properties":{"region_id":"village_614298","name":"MAHADEVAPURA","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

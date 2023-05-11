@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25369488239659,13.72521532198313],[76.24215569890295,13.75144593932768],[76.21045727372594,13.73855200818953],[76.2072438523195,13.71246956199858],[76.23528897949645,13.70713196115056],[76.25369488239659,13.72521532198313]]]},"properties":{"region_id":"village_605892","name":"KANGAVALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

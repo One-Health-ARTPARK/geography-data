@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21657363224054,15.42264764377176],[76.19423202707307,15.41116581550909],[76.20211504370282,15.39216490158037],[76.21805068397458,15.3903199415959],[76.21657363224054,15.42264764377176]]]},"properties":{"region_id":"village_601821","name":"LEBGERA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

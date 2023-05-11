@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.0571530908378,13.63553368211436],[78.06589886491405,13.62874836795124],[78.07341222333467,13.64134162730778],[78.05574480669718,13.64274048199803],[78.0571530908378,13.63553368211436]]]},"properties":{"region_id":"village_624311","name":"HOSAHUDYA","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

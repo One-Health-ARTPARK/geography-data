@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7272048067995,13.84039563893738],[75.73649956655564,13.83848283393882],[75.73985395139826,13.85464795994579],[75.72710307472872,13.85383813357455],[75.7272048067995,13.84039563893738]]]},"properties":{"region_id":"village_608590","name":"DEVARANARASIPURA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

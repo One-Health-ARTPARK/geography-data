@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02462113120697,12.63343665476427],[76.00571425918632,12.63419715363314],[76.01204555645327,12.6210413683779],[76.02462113120697,12.63343665476427]]]},"properties":{"region_id":"village_616706","name":"BISLAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

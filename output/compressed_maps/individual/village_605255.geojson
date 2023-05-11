@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63357159208695,14.51272587014805],[76.6163419580025,14.50535260215973],[76.61433545587786,14.48502374567333],[76.62002026513315,14.46905415826153],[76.63357159208695,14.51272587014805]]]},"properties":{"region_id":"village_605255","name":"GAJJAGANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

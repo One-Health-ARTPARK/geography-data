@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01930225039162,14.94999176581337],[75.01461654150734,14.95828687639187],[74.98758931412414,14.94924931591662],[74.99113554421925,14.94016310274585],[75.01930225039162,14.94999176581337]]]},"properties":{"region_id":"village_603032","name":"MALAVALLI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

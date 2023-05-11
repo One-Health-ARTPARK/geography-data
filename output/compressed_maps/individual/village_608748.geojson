@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84387246918496,13.60233524629553],[74.80385576885668,13.56359243125954],[74.84431253630233,13.56920659991132],[74.84387246918496,13.60233524629553]]]},"properties":{"region_id":"village_608748","name":"HARDALLY-MANDALLY","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

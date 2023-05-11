@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16158856140713,15.57486697172892],[76.12445440631174,15.56892018405531],[76.11917940188425,15.54923148000347],[76.15873679763573,15.54114770430795],[76.16158856140713,15.57486697172892]]]},"properties":{"region_id":"village_601317","name":"VANGERA","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

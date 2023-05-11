@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79845033004895,13.03383332669907],[75.78822692204082,13.03239739775803],[75.78702269510885,13.02130210946408],[75.79490652800314,13.01811200315984],[75.7941982223055,13.02701093925327],[75.79845033004895,13.03383332669907]]]},"properties":{"region_id":"village_615110","name":"VATEHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

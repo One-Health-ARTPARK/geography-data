@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31112721432943,17.44614414219747],[77.30043832777167,17.43813288447067],[77.30106298391381,17.4182921419576],[77.31471910954635,17.42072344440209],[77.31112721432943,17.44614414219747]]]},"properties":{"region_id":"village_620417","name":"KHAIRTAPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

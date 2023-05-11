@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86107093179444,12.00729207327184],[76.84868922896432,12.03210916654792],[76.83315123499327,12.00995708375193],[76.83704591064333,11.99970292566878],[76.86107093179444,12.00729207327184]]]},"properties":{"region_id":"village_619302","name":"KONANAPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

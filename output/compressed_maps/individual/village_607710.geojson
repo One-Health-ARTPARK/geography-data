@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21267335883496,14.41657557352903],[75.21799582355833,14.42320691617381],[75.21729251254877,14.44043475331447],[75.20858368980447,14.43971271226391],[75.2060950964345,14.42156089808095],[75.21267335883496,14.41657557352903]]]},"properties":{"region_id":"village_607710","name":"IDUKINAHOSAKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

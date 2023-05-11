@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.02085472300811,13.70045817579168],[78.00237252038688,13.70389993894884],[77.9980966630046,13.69651400062427],[78.01678061197808,13.69585791976768],[78.02085472300811,13.70045817579168]]]},"properties":{"region_id":"village_624001","name":"YARREGARAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87985941500209,12.0983887744869],[76.87670877033403,12.11537015228911],[76.86067970938034,12.11625222627398],[76.85735198912565,12.09726306645278],[76.87985941500209,12.0983887744869]]]},"properties":{"region_id":"village_619283","name":"KAREPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00708817166598,14.97507293161426],[75.00507627343171,14.98919549505062],[74.98993977906522,14.98954957786114],[74.99323436186222,14.97736119252594],[75.00708817166598,14.97507293161426]]]},"properties":{"region_id":"village_603023","name":"TEGINKOPPA","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

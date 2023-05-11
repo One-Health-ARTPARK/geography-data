@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9195732054402,14.95937335506889],[75.89795258406423,14.98430766068028],[75.88024384320191,14.97455765044096],[75.88022355228827,14.93920869915577],[75.9289163576008,14.93869439419905],[75.9195732054402,14.95937335506889]]]},"properties":{"region_id":"village_604623","name":"SHIVALINGANAHALLI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

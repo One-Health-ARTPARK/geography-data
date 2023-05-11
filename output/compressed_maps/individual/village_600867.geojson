@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34233922442418,16.01702120600518],[77.32352111251315,16.02847173263079],[77.32032846356165,15.99432132064794],[77.34065483001459,15.98783478510248],[77.34233922442418,16.01702120600518]]]},"properties":{"region_id":"village_600867","name":"TURKANDONA","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81403239944747,13.42203987724591],[77.79656829931486,13.41235873129015],[77.81159237210876,13.40434283175678],[77.81403239944747,13.42203987724591]]]},"properties":{"region_id":"village_623672","name":"JATHAVARA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

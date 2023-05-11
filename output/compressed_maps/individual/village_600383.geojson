@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40064791980376,15.90229467459616],[76.39231487651448,15.92431247649752],[76.37939035541984,15.92978538381785],[76.37513738263728,15.9022249958652],[76.40064791980376,15.90229467459616]]]},"properties":{"region_id":"village_600383","name":"TALEKAT","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

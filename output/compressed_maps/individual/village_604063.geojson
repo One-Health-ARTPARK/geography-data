@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22520260039964,14.85227552388279],[75.22427025744858,14.83900713672824],[75.22890712190234,14.82071788972152],[75.23608381208494,14.82339783719695],[75.23112675387345,14.84429813625633],[75.22520260039964,14.85227552388279]]]},"properties":{"region_id":"village_604063","name":"BHINGAPUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

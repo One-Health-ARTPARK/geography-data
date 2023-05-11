@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7536186059458,13.63640734122161],[77.74973230439691,13.63753905154762],[77.74386098190026,13.62651019580432],[77.75305150471686,13.62692173039626],[77.7536186059458,13.63640734122161]]]},"properties":{"region_id":"village_623446","name":"MUDDALAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

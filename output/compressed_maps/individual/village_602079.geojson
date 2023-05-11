@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45860183550106,15.07587188164052],[75.46279520894548,15.09754084006654],[75.4561910600823,15.09881978726251],[75.4464102212188,15.08324470634724],[75.45860183550106,15.07587188164052]]]},"properties":{"region_id":"village_602079","name":"WADEYAR MALLAPUR","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

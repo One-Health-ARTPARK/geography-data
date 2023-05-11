@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65265303613056,17.29276170000917],[75.62380694266096,17.29040497420052],[75.63144086929128,17.27346073677587],[75.65438413420492,17.27350546711672],[75.65265303613056,17.29276170000917]]]},"properties":{"region_id":"village_599172","name":"KONKANAGAON","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

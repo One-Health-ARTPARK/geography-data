@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.49357843565434,14.33172852492274],[74.50945604682259,14.34911332764096],[74.49084932960396,14.35448520183168],[74.47488081801148,14.33875201432107],[74.49357843565434,14.33172852492274]]]},"properties":{"region_id":"village_603741","name":"NILKOD","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

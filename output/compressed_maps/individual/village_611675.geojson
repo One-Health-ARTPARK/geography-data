@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91997249624602,13.55609569645327],[76.91043171724814,13.56538435782743],[76.89782942023946,13.56257307866676],[76.90152163739512,13.54777739251082],[76.91997249624602,13.55609569645327]]]},"properties":{"region_id":"village_611675","name":"THOGARIGUNTE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

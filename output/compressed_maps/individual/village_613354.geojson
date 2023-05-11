@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74361949080692,12.89123926191185],[77.733837394327,12.87087354744761],[77.75284630407549,12.86740183959537],[77.7570357284517,12.87700051395781],[77.74361949080692,12.89123926191185]]]},"properties":{"region_id":"village_613354","name":"DOMMASANDRA (CT)","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

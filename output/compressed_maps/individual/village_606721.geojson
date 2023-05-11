@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45966930764635,14.12890992629645],[75.4471686928811,14.13010683945316],[75.44354529160967,14.11703347249046],[75.44891448781647,14.11051194120125],[75.45966930764635,14.12890992629645]]]},"properties":{"region_id":"village_606721","name":"AREKATTE","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

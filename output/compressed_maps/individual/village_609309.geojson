@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82559538230784,13.74317525804707],[75.8304045634497,13.75294064867857],[75.81633836958054,13.76121637279854],[75.81601317035991,13.75282292093226],[75.82559538230784,13.74317525804707]]]},"properties":{"region_id":"village_609309","name":"MALLENAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

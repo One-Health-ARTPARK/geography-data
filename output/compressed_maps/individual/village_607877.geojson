@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0901840580872,13.9080723454378],[75.07310807534783,13.90632968714319],[75.07853857570119,13.89156047479536],[75.0901840580872,13.9080723454378]]]},"properties":{"region_id":"village_607877","name":"VARAKODU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

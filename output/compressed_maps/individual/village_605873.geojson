@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31491612829142,13.78266165134696],[76.30680838319714,13.79838337539482],[76.29975224836008,13.78478925682834],[76.31491612829142,13.78266165134696]]]},"properties":{"region_id":"village_605873","name":"BYRAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

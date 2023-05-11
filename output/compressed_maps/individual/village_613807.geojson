@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62001448709478,12.86865394596654],[76.61938481199782,12.89095606153896],[76.60819506631894,12.88518291221169],[76.62001448709478,12.86865394596654]]]},"properties":{"region_id":"village_613807","name":"B.MALLENAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

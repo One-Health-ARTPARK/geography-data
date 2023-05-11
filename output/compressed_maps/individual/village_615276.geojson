@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96338620524406,13.17206068916031],[75.96369668776933,13.18653479605114],[75.95331629898618,13.17885074091314],[75.96338620524406,13.17206068916031]]]},"properties":{"region_id":"village_615276","name":"KYATHALAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

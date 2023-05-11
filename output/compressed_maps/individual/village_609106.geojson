@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6946522321099,13.73168102677588],[75.67884206712397,13.72919921494178],[75.6867772529289,13.71811277681144],[75.6946522321099,13.73168102677588]]]},"properties":{"region_id":"village_609106","name":"GUNDENAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95265590623153,13.18171086059196],[77.94289108072553,13.1822332171993],[77.94209729041556,13.17483790090311],[77.9553892597117,13.17304408759958],[77.95265590623153,13.18171086059196]]]},"properties":{"region_id":"village_625568","name":"HEDAKANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

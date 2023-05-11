@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06252963434194,16.32726776562773],[75.07092973330857,16.27965949310468],[75.08574181375519,16.27412101319878],[75.08815751070902,16.32982013296486],[75.06252963434194,16.32726776562773]]]},"properties":{"region_id":"village_597508","name":"DHAVALESHWAR","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

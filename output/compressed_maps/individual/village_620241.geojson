@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8820283862729,17.35209740034236],[76.88916962305986,17.37023250533378],[76.87461207871274,17.38026650257262],[76.86913527915775,17.35082595051146],[76.8820283862729,17.35209740034236]]]},"properties":{"region_id":"village_620241","name":"MALGATHI","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

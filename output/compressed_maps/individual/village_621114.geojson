@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90201518241966,16.84429411080932],[76.85937432108317,16.84497834965374],[76.88132945155449,16.76344131161077],[76.9041040043097,16.76591450949812],[76.90201518241966,16.84429411080932]]]},"properties":{"region_id":"village_621114","name":"SIRWAL","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

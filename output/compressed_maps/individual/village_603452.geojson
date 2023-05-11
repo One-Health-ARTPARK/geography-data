@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.3939299742663,14.47742411848644],[74.40141601032951,14.45504081239271],[74.43377107064188,14.44816536263436],[74.43372064465734,14.47270723225313],[74.3939299742663,14.47742411848644]]]},"properties":{"region_id":"village_603452","name":"HEGDE(PART)","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

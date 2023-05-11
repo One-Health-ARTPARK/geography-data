@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2800539215423,15.14404003346039],[75.27183375967377,15.17062645754396],[75.25018301765759,15.16727173197319],[75.2587511218054,15.15152436499024],[75.2800539215423,15.14404003346039]]]},"properties":{"region_id":"village_602532","name":"BUJRUK TARLAGHATTA","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

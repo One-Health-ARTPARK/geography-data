@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65632089840341,13.33198409093497],[75.63580305517344,13.33285293746268],[75.63479429733562,13.30155610683898],[75.6532172341233,13.31468487248079],[75.65632089840341,13.33198409093497]]]},"properties":{"region_id":"village_609713","name":"KEREMAKKI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

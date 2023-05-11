@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96918160097027,15.63963370532346],[76.96635062617548,15.65060370939264],[76.93684375193145,15.64844875234501],[76.93722905449216,15.63701747640363],[76.96918160097027,15.63963370532346]]]},"properties":{"region_id":"village_604803","name":"CHANAKANUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

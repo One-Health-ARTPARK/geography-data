@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31980294330882,15.69845743601434],[76.31313900604684,15.72501175534386],[76.30082625818548,15.71979191690567],[76.29928120674046,15.70240242166595],[76.31980294330882,15.69845743601434]]]},"properties":{"region_id":"village_601275","name":"SIDLABHAVI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

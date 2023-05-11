@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.40325018897113,15.88265437907144],[74.39802210424428,15.86980321043619],[74.4114622526514,15.87126175131617],[74.40325018897113,15.88265437907144]]]},"properties":{"region_id":"village_597721","name":"BACHI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

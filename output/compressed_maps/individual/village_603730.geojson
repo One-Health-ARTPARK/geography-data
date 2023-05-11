@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4418467720464,14.3831799689289],[74.43755833467608,14.37345098352684],[74.4526968093346,14.37174430659068],[74.4418467720464,14.3831799689289]]]},"properties":{"region_id":"village_603730","name":"KADTOKA","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

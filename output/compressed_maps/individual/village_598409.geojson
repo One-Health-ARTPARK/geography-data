@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2022815886175,16.57199201542491],[75.15901666690485,16.56657454265225],[75.17243202195904,16.53702715848784],[75.21060052791888,16.53146547341775],[75.2137703445991,16.57109496604766],[75.2022815886175,16.57199201542491]]]},"properties":{"region_id":"village_598409","name":"HIPPARAGI","parent":"subdistrict_7063","parent_name":"RABAKAVI BANAHATTI"}}
+]}

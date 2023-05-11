@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35139610821918,12.59444306319592],[77.34763197478514,12.61143074176788],[77.33448368174226,12.60905646479612],[77.33872448513547,12.59259265747117],[77.35139610821918,12.59444306319592]]]},"properties":{"region_id":"village_626430","name":"BYALALU","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

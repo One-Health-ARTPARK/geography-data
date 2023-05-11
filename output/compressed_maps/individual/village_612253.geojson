@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69864446703592,13.13533345797854],[76.68738604601596,13.14503643865996],[76.6829837568671,13.12950376077994],[76.69590325183775,13.12586549116337],[76.69864446703592,13.13533345797854]]]},"properties":{"region_id":"village_612253","name":"SANGALAPURA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

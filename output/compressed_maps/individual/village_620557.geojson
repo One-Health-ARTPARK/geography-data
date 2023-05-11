@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.298511282889,16.98781501615722],[77.28840203258679,16.93798229915544],[77.31116079267524,16.92766345714254],[77.31013113501352,16.9679411130654],[77.298511282889,16.98781501615722]]]},"properties":{"region_id":"village_620557","name":"DUGNOOR","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3634505381684,14.20041512484813],[75.35826871969374,14.18639827181243],[75.37893924791335,14.17619089124815],[75.38941928963865,14.1931724737742],[75.3634505381684,14.20041512484813]]]},"properties":{"region_id":"village_607832","name":"CHURCHUGUNDI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

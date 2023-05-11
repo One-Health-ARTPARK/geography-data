@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44726525173017,13.08197812324936],[77.43018549545424,13.08339135552753],[77.42478148424371,13.06768807698742],[77.43717386836484,13.06220291242699],[77.44726525173017,13.08197812324936]]]},"properties":{"region_id":"village_612780","name":"DASANAPURA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

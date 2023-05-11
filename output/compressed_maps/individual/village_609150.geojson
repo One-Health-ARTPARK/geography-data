@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.787803575783,13.72715732383996],[75.77918060374014,13.73146440539999],[75.77043315591418,13.72416670860371],[75.75584747721726,13.72262137204507],[75.75411835454807,13.71749806866785],[75.787803575783,13.72715732383996]]]},"properties":{"region_id":"village_609150","name":"SEETHAPURA (KAVAL)","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

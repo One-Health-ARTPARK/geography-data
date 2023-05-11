@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70862638986178,13.06026665473735],[76.70234752118833,13.04106163095943],[76.72617605011992,13.03975301394441],[76.70862638986178,13.06026665473735]]]},"properties":{"region_id":"village_612343","name":"KARADIGERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

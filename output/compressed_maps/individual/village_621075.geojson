@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63068716373681,16.71475366076998],[76.61966147609417,16.71593199966097],[76.62227173115578,16.69583828914017],[76.63867155741836,16.70208245063152],[76.63068716373681,16.71475366076998]]]},"properties":{"region_id":"village_621075","name":"GUNDAPUR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

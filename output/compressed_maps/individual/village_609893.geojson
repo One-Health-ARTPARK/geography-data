@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31485608129334,13.25491611329403],[75.27699241059814,13.29228359018166],[75.24905146864614,13.27241674782889],[75.2873910506195,13.22513742906655],[75.31485608129334,13.25491611329403]]]},"properties":{"region_id":"village_609893","name":"KALAKODU","parent":"subdistrict_7194","parent_name":"KALASA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99635647880073,12.44053312773086],[75.98421577002648,12.43823806114674],[75.98950077332428,12.42389925541234],[76.00038066286031,12.43385822191319],[75.99635647880073,12.44053312773086]]]},"properties":{"region_id":"village_618132","name":"BYLAKUPPE","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

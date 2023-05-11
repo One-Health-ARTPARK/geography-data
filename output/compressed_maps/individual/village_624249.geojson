@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85467963386564,13.308719199117],[77.85190307505688,13.32474251039122],[77.84544122856948,13.32089441610354],[77.84873296062406,13.30888189370335],[77.85467963386564,13.308719199117]]]},"properties":{"region_id":"village_624249","name":"THOTLIGANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

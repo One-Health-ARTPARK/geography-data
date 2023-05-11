@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31489499517107,12.85542844000014],[77.30373536585226,12.85174714812466],[77.29467529521384,12.85579417358553],[77.29222913661756,12.84284861175392],[77.31341930738994,12.84274749304871],[77.31489499517107,12.85542844000014]]]},"properties":{"region_id":"village_626072","name":"CHIKKASULIKERE","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

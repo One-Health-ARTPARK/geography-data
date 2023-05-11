@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34533512472501,16.24964276887315],[76.34788795172187,16.27763121307496],[76.31299008887918,16.26566445792461],[76.32088411195126,16.24898057728614],[76.34533512472501,16.24964276887315]]]},"properties":{"region_id":"village_599678","name":"NAGABENAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

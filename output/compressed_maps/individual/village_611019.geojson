@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15382852025209,13.55261732542263],[77.12927828876731,13.55541693861258],[77.12510775411896,13.52945191929594],[77.15399733388652,13.52939179765187],[77.15382852025209,13.55261732542263]]]},"properties":{"region_id":"village_611019","name":"KURAMKOTE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

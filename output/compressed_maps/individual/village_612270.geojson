@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79240020226808,13.25715653549363],[76.77471701914178,13.25499397603068],[76.77861786255377,13.23843600024948],[76.79372440474398,13.2376406334755],[76.79240020226808,13.25715653549363]]]},"properties":{"region_id":"village_612270","name":"SAMPIGE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

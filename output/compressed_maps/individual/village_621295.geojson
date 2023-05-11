@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0907394545873,16.80747346898849],[77.08729414055493,16.76653167231618],[77.1112443002311,16.76594452841597],[77.11132680697702,16.80197926639798],[77.0907394545873,16.80747346898849]]]},"properties":{"region_id":"village_621295","name":"MUDNAL","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

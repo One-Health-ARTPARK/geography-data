@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98563066301212,16.49469588119215],[75.96333548728515,16.47643248608443],[75.97856812697118,16.4633704558594],[75.99433069414188,16.47596845125008],[75.98563066301212,16.49469588119215]]]},"properties":{"region_id":"village_599559","name":"HALIHAL","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

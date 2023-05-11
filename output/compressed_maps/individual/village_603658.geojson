@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78097742359455,14.28761373977453],[74.76496019532361,14.28126459995868],[74.77601875085773,14.26928994901856],[74.78097742359455,14.28761373977453]]]},"properties":{"region_id":"village_603658","name":"KUDAGUND","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

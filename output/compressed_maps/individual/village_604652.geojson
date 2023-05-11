@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13237365363015,15.2026680237675],[76.11525773261373,15.20068281979976],[76.10406254463928,15.17212512363614],[76.13446677991385,15.17017020529878],[76.13237365363015,15.2026680237675]]]},"properties":{"region_id":"village_604652","name":"BANNIGOLA","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

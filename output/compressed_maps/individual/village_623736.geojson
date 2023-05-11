@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81562383458406,13.71705630500174],[77.79890659475971,13.72831854411494],[77.78803855019406,13.71397809796187],[77.81533965462543,13.70873646024401],[77.81562383458406,13.71705630500174]]]},"properties":{"region_id":"village_623736","name":"BHOGENAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

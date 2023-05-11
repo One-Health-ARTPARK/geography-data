@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78754277753161,13.59517707867836],[74.76984737561487,13.59499202226194],[74.77900989856418,13.5760699187348],[74.78754277753161,13.59517707867836]]]},"properties":{"region_id":"village_608742","name":"HOMBADY-MANDADI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

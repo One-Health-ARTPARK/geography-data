@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67439579385496,13.69834939946615],[77.65580267622505,13.70074649630757],[77.66887634239967,13.68285755047815],[77.67910642612863,13.68180086007279],[77.68833016970893,13.69218782047594],[77.67439579385496,13.69834939946615]]]},"properties":{"region_id":"village_623307","name":"KRISHNARAJAPURA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20255912275462,14.59704718876985],[75.18123823155958,14.59787415596091],[75.18383616202246,14.58586208888016],[75.19782814112813,14.58251681365073],[75.20255912275462,14.59704718876985]]]},"properties":{"region_id":"village_604186","name":"HALLIBAIL","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

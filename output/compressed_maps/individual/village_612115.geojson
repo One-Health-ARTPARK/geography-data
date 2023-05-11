@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48307729590321,13.22697657739053],[76.47117499187274,13.22073351973138],[76.47157041194161,13.21364658720213],[76.48512462116419,13.21495846758835],[76.48307729590321,13.22697657739053]]]},"properties":{"region_id":"village_612115","name":"CHIKKARANGAPURA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

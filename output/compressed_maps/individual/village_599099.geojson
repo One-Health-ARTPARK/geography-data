@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82710418000937,16.78573530637026],[75.80062544169859,16.78737609319749],[75.79886636658752,16.77405767977982],[75.82679534358059,16.76500525984952],[75.82710418000937,16.78573530637026]]]},"properties":{"region_id":"village_599099","name":"UKUMANAL","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

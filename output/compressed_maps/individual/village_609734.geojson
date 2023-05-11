@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78435198682502,13.35925343111433],[75.77764886335571,13.36283847494955],[75.77421700960772,13.35153600347967],[75.7804109030706,13.35129778607747],[75.78435198682502,13.35925343111433]]]},"properties":{"region_id":"village_609734","name":"IYANAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

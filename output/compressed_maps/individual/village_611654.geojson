@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84013049837209,13.46012254010043],[76.83090107839642,13.45183240001588],[76.84783869281783,13.44920845929032],[76.84013049837209,13.46012254010043]]]},"properties":{"region_id":"village_611654","name":"VARTHIKATTE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

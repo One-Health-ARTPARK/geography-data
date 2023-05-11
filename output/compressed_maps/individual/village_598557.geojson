@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18214818495291,16.36434926948848],[75.1546475764259,16.36148469097408],[75.16067378495083,16.32128760222805],[75.1840741553878,16.32904263121378],[75.18214818495291,16.36434926948848]]]},"properties":{"region_id":"village_598557","name":"NAGARAL","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16089213086408,15.00947644448325],[75.14848414030614,15.0130454912915],[75.14805516352573,15.00267881529294],[75.15689545393013,15.00177760670859],[75.16089213086408,15.00947644448325]]]},"properties":{"region_id":"village_603903","name":"YATTINAHALLI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

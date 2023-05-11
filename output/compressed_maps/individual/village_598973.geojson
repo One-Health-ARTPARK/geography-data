@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11450397525866,16.11574949643989],[76.09792700745581,16.11663441790016],[76.11063811209274,16.07111917906622],[76.12047958376898,16.07429719423493],[76.11450397525866,16.11574949643989]]]},"properties":{"region_id":"village_598973","name":"HAGEDAL","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

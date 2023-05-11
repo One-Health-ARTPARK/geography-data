@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97247332391647,13.77382035107963],[77.9516293963231,13.77371733911755],[77.95951789599448,13.75661160148199],[77.97247332391647,13.77382035107963]]]},"properties":{"region_id":"village_623946","name":"NALLACHERUVU","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

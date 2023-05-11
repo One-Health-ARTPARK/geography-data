@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80886229073542,13.23500288674734],[77.80798149504717,13.21789662982195],[77.81351120060123,13.21400894779286],[77.8170031184655,13.23229873627706],[77.80886229073542,13.23500288674734]]]},"properties":{"region_id":"village_625431","name":"KONAGINABELE","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

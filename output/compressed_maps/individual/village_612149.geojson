@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57035371937265,13.20121631675848],[76.55924468754421,13.20640752937112],[76.55609119706057,13.19468197611658],[76.56923140683185,13.18980484656608],[76.57035371937265,13.20121631675848]]]},"properties":{"region_id":"village_612149","name":"MUGUTHIHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

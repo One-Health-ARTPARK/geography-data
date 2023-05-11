@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31853609591236,13.4535448428489],[76.3169365529512,13.46946468875579],[76.30151037549554,13.46443023000409],[76.30239380905128,13.45197747399703],[76.31853609591236,13.4535448428489]]]},"properties":{"region_id":"village_615624","name":"HIRISADARAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

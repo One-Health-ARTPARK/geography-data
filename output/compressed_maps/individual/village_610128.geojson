@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59553230854317,13.52289145603596],[76.57176658006249,13.52609317056256],[76.5674874743184,13.51275983023289],[76.59553230854317,13.52289145603596]]]},"properties":{"region_id":"village_610128","name":"AVALAGERE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60234276663999,15.38695417208238],[75.55761537764553,15.39388165744979],[75.56718668803306,15.36267426311607],[75.60234276663999,15.38695417208238]]]},"properties":{"region_id":"village_602027","name":"MALASAMUDRA","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

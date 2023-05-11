@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01992236230208,16.92747770108815],[76.96253295157585,16.94045846597463],[76.96004201458058,16.92154307058755],[76.99326543683148,16.9038785291389],[77.01992236230208,16.92747770108815]]]},"properties":{"region_id":"village_620704","name":"SUGUR (N)","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.40144346861149,15.37869287929261],[74.39313759854028,15.42334264970864],[74.37932773345823,15.39304747510748],[74.40144346861149,15.37869287929261]]]},"properties":{"region_id":"village_602642","name":"CHANDAWADI","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.340640960112,13.74783241848329],[76.32395355534629,13.74390882730171],[76.32287629210956,13.72344331447881],[76.34313341911397,13.72570235765139],[76.340640960112,13.74783241848329]]]},"properties":{"region_id":"village_606003","name":"HAGALAKERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

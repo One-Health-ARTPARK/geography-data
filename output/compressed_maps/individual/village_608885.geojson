@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05567008523273,13.26974036402799],[75.02863919814007,13.27378839495871],[75.03113884514809,13.26163361597541],[75.04739704313553,13.25438782883889],[75.05567008523273,13.26974036402799]]]},"properties":{"region_id":"village_608885","name":"JARKALA","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

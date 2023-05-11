@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8746946496163,16.42565118837494],[76.84440964455098,16.43206605912508],[76.85002808955242,16.40703477589446],[76.8746946496163,16.42565118837494]]]},"properties":{"region_id":"village_600612","name":"NILVANJI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

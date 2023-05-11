@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52248792678222,12.72412345328904],[76.53273463935803,12.72390917895978],[76.5349381955053,12.74074899727126],[76.51636620654946,12.74045670543417],[76.52248792678222,12.72412345328904]]]},"properties":{"region_id":"village_613468","name":"SARANGI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

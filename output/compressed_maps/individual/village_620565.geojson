@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48509406173751,17.00206933594947],[77.49757609342541,17.04387684407302],[77.44745161532157,17.02121283536936],[77.48509406173751,17.00206933594947]]]},"properties":{"region_id":"village_620565","name":"SILARKOT","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

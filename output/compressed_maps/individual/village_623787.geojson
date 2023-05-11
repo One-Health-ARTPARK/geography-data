@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82609642129295,13.91969340980627],[77.81592456521051,13.91755032161168],[77.81738172796786,13.90819925306649],[77.82806829045738,13.90982006135746],[77.82609642129295,13.91969340980627]]]},"properties":{"region_id":"village_623787","name":"MUMADIVARIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

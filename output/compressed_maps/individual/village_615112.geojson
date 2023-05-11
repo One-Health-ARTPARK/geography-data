@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7806007620505,13.02112607245027],[75.78822692204082,13.03239739775803],[75.7710043005589,13.04626403175172],[75.7698327116415,13.02364779379245],[75.7806007620505,13.02112607245027]]]},"properties":{"region_id":"village_615112","name":"UTHOLALU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

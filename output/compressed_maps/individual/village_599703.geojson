@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25850180846408,16.50671825472677],[76.24481413246916,16.47384375717433],[76.27811849617075,16.45657596582277],[76.28745255717615,16.50554226072794],[76.25850180846408,16.50671825472677]]]},"properties":{"region_id":"village_599703","name":"MINAJAGI","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

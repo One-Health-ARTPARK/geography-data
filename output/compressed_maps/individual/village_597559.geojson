@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.47534697161008,16.29988656802887],[74.44598084686362,16.2985949433989],[74.45483417490813,16.27985629293426],[74.47690641221753,16.27792298235108],[74.47534697161008,16.29988656802887]]]},"properties":{"region_id":"village_597559","name":"HARAGAPUR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

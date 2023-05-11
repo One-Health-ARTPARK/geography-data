@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70359656149415,13.49911791786647],[76.68249544989145,13.49777778850222],[76.69727864024486,13.47676089178571],[76.71062679292986,13.48561758184287],[76.70359656149415,13.49911791786647]]]},"properties":{"region_id":"village_610168","name":"HANUMANTHANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

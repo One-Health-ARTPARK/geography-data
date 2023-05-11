@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63749815662757,16.32964813187966],[75.66850864882622,16.33613314774054],[75.66774602289817,16.37532693312788],[75.65028168138988,16.37214647508898],[75.63749815662757,16.32964813187966]]]},"properties":{"region_id":"village_598502","name":"BADAGANDI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

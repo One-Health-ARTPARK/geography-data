@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52881371652975,15.75955077205531],[74.52076059841656,15.76184390107638],[74.52032277012673,15.75545864435819],[74.52520739583365,15.75067949560861],[74.52881371652975,15.75955077205531]]]},"properties":{"region_id":"village_597748","name":"RAJAHANSAGAD","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

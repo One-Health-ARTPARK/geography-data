@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70646956729247,15.8369890382579],[76.69616381041087,15.82356207120767],[76.69972769082058,15.8115162323029],[76.71201343719655,15.81024090901384],[76.70646956729247,15.8369890382579]]]},"properties":{"region_id":"village_601124","name":"MANGANHAL - (D)","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

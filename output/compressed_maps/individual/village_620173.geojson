@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64110291830727,17.17104483277834],[76.60482754855772,17.17441109355654],[76.60187195431035,17.16015421501241],[76.63754173685821,17.15284160830076],[76.64110291830727,17.17104483277834]]]},"properties":{"region_id":"village_620173","name":"HUVINHALLI","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28260280870602,15.88372626831811],[76.24579248607706,15.86628586211619],[76.26679576771019,15.84323563134984],[76.28260280870602,15.88372626831811]]]},"properties":{"region_id":"village_601473","name":"BALUTAGI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

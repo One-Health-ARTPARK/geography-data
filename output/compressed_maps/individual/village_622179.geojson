@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9225307568371,12.99837118699957],[77.90773142158088,12.98892054793307],[77.92749150458943,12.97843193244279],[77.9225307568371,12.99837118699957]]]},"properties":{"region_id":"village_622179","name":"NOSAGERE","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

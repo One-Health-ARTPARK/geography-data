@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41745861131083,13.8065511030415],[77.42263069948142,13.81960475808335],[77.40266033099824,13.82452202675972],[77.40100958565856,13.80656496027262],[77.41745861131083,13.8065511030415]]]},"properties":{"region_id":"village_610875","name":"CHIKKADALAVATTA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

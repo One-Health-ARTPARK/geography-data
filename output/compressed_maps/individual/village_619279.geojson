@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81377185071752,12.0704948954009],[76.80952799257177,12.08112429649459],[76.79773325305109,12.07960621713635],[76.79813397723623,12.0683282752199],[76.81377185071752,12.0704948954009]]]},"properties":{"region_id":"village_619279","name":"VARAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

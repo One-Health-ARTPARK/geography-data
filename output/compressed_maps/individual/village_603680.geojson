@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78814239880379,14.40856957515169],[74.79524176798913,14.38941570248825],[74.81431094907734,14.40169760053556],[74.80260223573326,14.41303373886728],[74.78814239880379,14.40856957515169]]]},"properties":{"region_id":"village_603680","name":"GODLABIL","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

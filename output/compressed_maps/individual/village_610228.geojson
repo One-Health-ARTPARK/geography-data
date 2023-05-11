@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54216948568157,13.43644250470612],[76.53600337517821,13.42172881643238],[76.54445404769619,13.42074574351734],[76.54216948568157,13.43644250470612]]]},"properties":{"region_id":"village_610228","name":"KURUBARAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

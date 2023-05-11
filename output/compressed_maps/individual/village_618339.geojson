@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16349046124513,12.31317673680075],[76.15764517876268,12.30726606395158],[76.16301387434716,12.29723146698471],[76.17297977889395,12.2971013458893],[76.16349046124513,12.31317673680075]]]},"properties":{"region_id":"village_618339","name":"VADLIMANUGANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

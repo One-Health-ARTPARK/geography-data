@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.42080965852858,13.05163099279109],[78.41612362933819,13.04358548896248],[78.42552903336787,13.04466131596258],[78.42080965852858,13.05163099279109]]]},"properties":{"region_id":"village_623173","name":"AGARA","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98406162438934,12.45030058365324],[75.97176697245011,12.44189760520696],[75.98414616985715,12.43822908972027],[75.98406162438934,12.45030058365324]]]},"properties":{"region_id":"village_618128","name":"KOPPA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

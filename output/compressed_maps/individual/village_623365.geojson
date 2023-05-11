@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49794676711177,13.47047375197836],[77.48666262725057,13.48031076245058],[77.47183725714446,13.46919252467543],[77.4941244922007,13.45946289187346],[77.49794676711177,13.47047375197836]]]},"properties":{"region_id":"village_623365","name":"DODDAMALLEKERE","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

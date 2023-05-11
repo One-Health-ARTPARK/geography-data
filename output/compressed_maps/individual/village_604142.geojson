@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26650542930916,14.77937690072467],[75.27402832335764,14.79649556220367],[75.26127001851974,14.7991948928408],[75.25746106645443,14.78387405571473],[75.26650542930916,14.77937690072467]]]},"properties":{"region_id":"village_604142","name":"KODIYELLAPUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

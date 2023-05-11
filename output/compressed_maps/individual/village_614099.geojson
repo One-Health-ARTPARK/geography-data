@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6486093914358,12.61296487681401],[76.64050557793657,12.61797170065416],[76.63758639999708,12.61269792925278],[76.64574529878986,12.60828147634208],[76.6486093914358,12.61296487681401]]]},"properties":{"region_id":"village_614099","name":"KUPPAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

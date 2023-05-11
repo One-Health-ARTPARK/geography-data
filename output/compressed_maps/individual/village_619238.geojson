@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66339228126462,12.12774525148306],[76.66804138602245,12.1527298156694],[76.65111181306695,12.14636689049438],[76.66339228126462,12.12774525148306]]]},"properties":{"region_id":"village_619238","name":"KALLAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

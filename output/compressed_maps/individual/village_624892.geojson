@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3542593748483,13.14144837653251],[77.34614629627148,13.1437319074214],[77.34358467796885,13.13041098612638],[77.3520636101943,13.13223081230069],[77.3542593748483,13.14144837653251]]]},"properties":{"region_id":"village_624892","name":"TONACHINAKUPPE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

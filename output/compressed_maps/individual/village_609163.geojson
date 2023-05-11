@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81904348127901,13.68315436690115],[75.8120285954965,13.6855796669808],[75.80370686088082,13.66824019508267],[75.81383285136205,13.66795240745146],[75.81904348127901,13.68315436690115]]]},"properties":{"region_id":"village_609163","name":"DYAMAPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

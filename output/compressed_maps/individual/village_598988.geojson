@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16583371241092,16.05223316737086],[76.17011503596888,16.06689499057844],[76.13761842161091,16.0712072433287],[76.13326365991,16.06253424256779],[76.16583371241092,16.05223316737086]]]},"properties":{"region_id":"village_598988","name":"NIDASANUR","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40793186883239,13.77559378140543],[77.42324612125435,13.77096454996644],[77.42483362248454,13.78304834862253],[77.410340481853,13.78411254026297],[77.40793186883239,13.77559378140543]]]},"properties":{"region_id":"village_610912","name":"ANNENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

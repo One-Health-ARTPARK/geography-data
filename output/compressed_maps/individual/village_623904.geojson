@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94085891943278,13.66735105606595],[77.94013804756622,13.67531303555018],[77.93140561246229,13.67441848935494],[77.94085891943278,13.66735105606595]]]},"properties":{"region_id":"village_623904","name":"NADIMPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

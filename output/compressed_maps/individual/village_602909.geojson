@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.59453145659542,14.92787105727823],[74.58245738422279,14.93076275581623],[74.586105379244,14.92179397938895],[74.59453145659542,14.92787105727823]]]},"properties":{"region_id":"village_602909","name":"BAGINKATTA","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

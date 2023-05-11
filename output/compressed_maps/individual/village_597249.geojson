@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09634433645718,16.91363183003072],[75.08992142113352,16.95186076523308],[75.04118787176195,16.94064881173289],[75.01934813474985,16.90685877217157],[75.06830492382247,16.87775447211616],[75.09634433645718,16.91363183003072]]]},"properties":{"region_id":"village_597249","name":"ANANTAPUR","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

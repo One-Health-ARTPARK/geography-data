@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52121099958438,13.69042226140244],[77.48992545185867,13.69493379601836],[77.50084260808403,13.66183604648674],[77.52121099958438,13.69042226140244]]]},"properties":{"region_id":"village_623235","name":"DODDAKURUGODU","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

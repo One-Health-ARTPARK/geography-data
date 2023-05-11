@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2790790510167,16.36124455854036],[76.28290482963925,16.40876822675027],[76.25852038938083,16.41592474085112],[76.25872095301403,16.36311692251828],[76.2790790510167,16.36124455854036]]]},"properties":{"region_id":"village_599604","name":"HAGARAGUND","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

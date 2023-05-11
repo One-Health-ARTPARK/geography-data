@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97844527778577,17.45289280048989],[76.9388760280899,17.44076895537057],[76.9426095479253,17.4109433582387],[77.00024187389322,17.40468806622686],[76.97844527778577,17.45289280048989]]]},"properties":{"region_id":"village_620245","name":"HARSOOR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

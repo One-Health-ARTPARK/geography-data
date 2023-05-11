@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50684623434546,16.55984748877976],[74.53195779336318,16.57169418354572],[74.51799869436833,16.58154045144861],[74.49697857746287,16.57459912985913],[74.50684623434546,16.55984748877976]]]},"properties":{"region_id":"village_597153","name":"JANWAD","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

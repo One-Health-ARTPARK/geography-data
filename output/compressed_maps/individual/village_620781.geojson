@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49546097325182,16.98021454258926],[76.47063236759097,17.00091579035849],[76.46169623889848,16.96556101643687],[76.49503420919346,16.9592841674622],[76.49546097325182,16.98021454258926]]]},"properties":{"region_id":"village_620781","name":"MURGANOOR","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

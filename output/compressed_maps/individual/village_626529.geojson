@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37435836237583,12.50430506172856],[77.34111408661325,12.46523989483326],[77.38401810167781,12.46091291556495],[77.37435836237583,12.50430506172856]]]},"properties":{"region_id":"village_626529","name":"ACHALU","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

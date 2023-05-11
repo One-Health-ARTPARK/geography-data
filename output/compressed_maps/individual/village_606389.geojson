@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29890155046883,14.63695271639882],[76.27968798053399,14.6375258163198],[76.28219660381777,14.62952132813002],[76.29890155046883,14.63695271639882]]]},"properties":{"region_id":"village_606389","name":"KRISHNAPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

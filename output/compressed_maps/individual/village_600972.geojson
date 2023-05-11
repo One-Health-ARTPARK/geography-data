@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0990446356662,16.16807712898091],[77.07772218806218,16.17912519695617],[77.06666212295866,16.13726229364558],[77.10183650044021,16.13169041831058],[77.0990446356662,16.16807712898091]]]},"properties":{"region_id":"village_600972","name":"GANADINNI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

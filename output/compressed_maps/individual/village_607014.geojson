@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94895730296297,14.06048755184531],[75.93906912073,14.07735882267707],[75.9194880258381,14.07046804984896],[75.92384463211965,14.05209554342556],[75.94895730296297,14.06048755184531]]]},"properties":{"region_id":"village_607014","name":"AGARABANNIHATTI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

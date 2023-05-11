@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24893856863022,13.84173482004275],[77.23981352203664,13.8454114368894],[77.23545033180865,13.83922588316933],[77.24363227928441,13.83678569368382],[77.24893856863022,13.84173482004275]]]},"properties":{"region_id":"village_610684","name":"NAGALAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

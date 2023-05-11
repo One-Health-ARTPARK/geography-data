@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04146196983328,13.04020038994395],[76.02470144981052,13.03950591479555],[76.02834092882438,13.02478902957369],[76.04371966776048,13.02544835778984],[76.04146196983328,13.04020038994395]]]},"properties":{"region_id":"village_616039","name":"MUGALUR","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

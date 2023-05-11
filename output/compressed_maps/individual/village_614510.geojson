@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94641372753354,12.72405911456005],[76.93480101074812,12.73053871073586],[76.92428356808801,12.71527093401127],[76.94761391559221,12.70791310203637],[76.94641372753354,12.72405911456005]]]},"properties":{"region_id":"village_614510","name":"ABALAVADI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

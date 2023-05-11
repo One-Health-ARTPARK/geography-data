@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60779848383896,13.31904996437895],[77.63006755953175,13.31659403878852],[77.62628500421555,13.33424911246149],[77.60761303068905,13.33380424823057],[77.60779848383896,13.31904996437895]]]},"properties":{"region_id":"village_625088","name":"LINGANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

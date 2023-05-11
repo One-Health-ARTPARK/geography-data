@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68168910092129,13.40227725215005],[76.67838265667335,13.41580871684649],[76.63755369865494,13.40936766315778],[76.65388202846971,13.39976061938336],[76.68168910092129,13.40227725215005]]]},"properties":{"region_id":"village_610224","name":"HONNEBAGI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

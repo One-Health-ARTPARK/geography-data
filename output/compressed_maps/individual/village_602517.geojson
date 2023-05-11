@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05265971774382,15.09780356885962],[75.0269457633946,15.09524148640365],[75.03195938977066,15.07714570879071],[75.05352926598944,15.08263517995348],[75.05265971774382,15.09780356885962]]]},"properties":{"region_id":"village_602517","name":"ASTAKATTI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

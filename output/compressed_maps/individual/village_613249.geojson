@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81164466505331,12.86927994508194],[77.80046475295075,12.86733658795159],[77.79994293532421,12.8517293631664],[77.80789879230421,12.84767996652287],[77.81164466505331,12.86927994508194]]]},"properties":{"region_id":"village_613249","name":"THINDLU","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

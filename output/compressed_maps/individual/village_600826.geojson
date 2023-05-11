@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32685900831044,16.14865330306349],[77.3340026455435,16.14810878596514],[77.33296111377014,16.16739675380756],[77.32682604397736,16.16731070059124],[77.32157657783847,16.1520206132826],[77.32685900831044,16.14865330306349]]]},"properties":{"region_id":"village_600826","name":"ARLIBENCHI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

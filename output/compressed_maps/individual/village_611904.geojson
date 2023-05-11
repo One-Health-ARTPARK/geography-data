@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83432021719999,13.2127593267635],[76.81383989123754,13.21613869454025],[76.81680331066728,13.20264887284154],[76.83432021719999,13.2127593267635]]]},"properties":{"region_id":"village_611904","name":"MATHIGHATTA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4352806736325,12.00051044407605],[76.40918252462022,11.97545022673003],[76.42949614777461,11.96468342460177],[76.4352806736325,12.00051044407605]]]},"properties":{"region_id":"village_618993","name":"KOTHEGALA","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

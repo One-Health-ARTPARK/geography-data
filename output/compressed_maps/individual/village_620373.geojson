@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61953585762251,17.52924292561146],[77.5922629251106,17.52535542212699],[77.60438375251893,17.50531066121597],[77.62847794772287,17.507359194936],[77.61953585762251,17.52924292561146]]]},"properties":{"region_id":"village_620373","name":"LINGANAGAR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

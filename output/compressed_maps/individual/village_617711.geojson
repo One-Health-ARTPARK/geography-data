@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49532664686117,12.82945204275345],[75.45945586242308,12.81592778841904],[75.48720953624142,12.79285177296835],[75.49532664686117,12.82945204275345]]]},"properties":{"region_id":"village_617711","name":"NOOJIBALTHILA","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

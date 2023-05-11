@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91057100050266,13.85660888446295],[76.91418557124648,13.9071182147567],[76.90210122662681,13.91161599237486],[76.90077929204413,13.87689221047604],[76.91057100050266,13.85660888446295]]]},"properties":{"region_id":"village_610333","name":"KAMAGONDANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

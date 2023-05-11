@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59459474242944,11.99242573399709],[76.57311136078995,11.9936212775161],[76.57927065954034,11.98756604109114],[76.59257138261063,11.98651935327105],[76.59459474242944,11.99242573399709]]]},"properties":{"region_id":"village_619269","name":"DEPEGOWDANAPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

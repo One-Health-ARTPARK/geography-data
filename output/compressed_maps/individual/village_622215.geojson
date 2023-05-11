@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97050847350398,12.94347238825089],[77.96254887985675,12.94948092021909],[77.95222762383129,12.94195854351519],[77.95585951309127,12.93297277424478],[77.97050847350398,12.94347238825089]]]},"properties":{"region_id":"village_622215","name":"KUDIYANUR","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

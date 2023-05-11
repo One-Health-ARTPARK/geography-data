@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84196076935962,13.32014300018387],[76.831084223611,13.3202466557203],[76.82862362986766,13.30669465233739],[76.84202357634402,13.30770811374819],[76.84196076935962,13.32014300018387]]]},"properties":{"region_id":"village_611797","name":"AMMANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

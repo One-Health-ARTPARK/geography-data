@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76637606207991,15.8373852633594],[74.74679503337035,15.83400639728959],[74.7499057844925,15.80854777968589],[74.76438504735417,15.81577780612847],[74.76637606207991,15.8373852633594]]]},"properties":{"region_id":"village_598048","name":"BHAVIHAL","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65951301799545,15.67676255678369],[74.64123380548779,15.6784568780427],[74.64650478388273,15.65317956142603],[74.65969740073002,15.65215815323853],[74.65951301799545,15.67676255678369]]]},"properties":{"region_id":"village_597885","name":"CHIKKAMANOLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

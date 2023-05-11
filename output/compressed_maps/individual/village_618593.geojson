@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39683526652895,12.46925567925999],[76.39109947236814,12.47767510577748],[76.39086743518638,12.46843556317775],[76.39683526652895,12.46925567925999]]]},"properties":{"region_id":"village_618593","name":"SANYASIPURA","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

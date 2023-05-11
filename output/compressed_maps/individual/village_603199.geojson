@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76238382286807,14.54576177312417],[74.75395081790842,14.53893839212724],[74.76742561933919,14.51867174897864],[74.77544447857589,14.51954013551447],[74.76238382286807,14.54576177312417]]]},"properties":{"region_id":"village_603199","name":"NERLAVALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

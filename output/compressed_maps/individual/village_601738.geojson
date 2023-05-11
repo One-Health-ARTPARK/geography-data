@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00875634479443,15.16974437094071],[76.01106348015821,15.17607658406344],[75.99176112761698,15.1824813970557],[75.99401441671183,15.17455182139133],[76.00875634479443,15.16974437094071]]]},"properties":{"region_id":"village_601738","name":"BOCHANHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12161683683345,15.55496769404649],[76.12571382204575,15.58980000726912],[76.10409857698028,15.57900964607303],[76.10074546258662,15.5591559788136],[76.12161683683345,15.55496769404649]]]},"properties":{"region_id":"village_601312","name":"LAKMANGULE","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

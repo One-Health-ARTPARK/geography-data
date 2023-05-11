@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99667893271057,14.34739726346418],[75.97051855669365,14.34973715673865],[75.97380477110275,14.33027064836182],[75.99667893271057,14.34739726346418]]]},"properties":{"region_id":"village_606657","name":"CHIKKATOGALERI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

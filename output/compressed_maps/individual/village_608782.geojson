@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86564918788733,13.55330302757532],[74.85021347534054,13.51792382886382],[74.8645014537074,13.50983973365353],[74.87640182221915,13.53590829756315],[74.86564918788733,13.55330302757532]]]},"properties":{"region_id":"village_608782","name":"AVARSE","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

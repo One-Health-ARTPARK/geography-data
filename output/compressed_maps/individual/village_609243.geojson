@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82559538230784,13.74317525804707],[75.81894371446434,13.73780253670344],[75.81843352435666,13.72805690798656],[75.82337208467234,13.73008582016143],[75.82653031417117,13.7371409068863],[75.82559538230784,13.74317525804707]]]},"properties":{"region_id":"village_609243","name":"LAKSHMISAGARA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

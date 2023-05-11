@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58689248762049,14.912476106717],[75.55658214409401,14.90392315172772],[75.58254186508947,14.87899843014282],[75.58689248762049,14.912476106717]]]},"properties":{"region_id":"village_604260","name":"AKKUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

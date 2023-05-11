@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83052299402212,13.28918493405222],[75.81390425283644,13.27519046098367],[75.83002489482283,13.25854064380751],[75.83052299402212,13.28918493405222]]]},"properties":{"region_id":"village_609866","name":"MUGULAVALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

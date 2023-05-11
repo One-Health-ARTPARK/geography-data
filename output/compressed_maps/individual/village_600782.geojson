@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.328565755833,16.20809766767308],[77.34233815815197,16.22070120115483],[77.33146710140147,16.23819544582192],[77.28752338880444,16.23509149177381],[77.27398531558015,16.21701473585379],[77.328565755833,16.20809766767308]]]},"properties":{"region_id":"village_600782","name":"EKLASPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

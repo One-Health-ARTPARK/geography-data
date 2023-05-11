@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85468584258145,12.82974170438142],[76.84018065181117,12.8110086685645],[76.86604298745397,12.81230457743709],[76.87763449177068,12.82798257991177],[76.85468584258145,12.82974170438142]]]},"properties":{"region_id":"village_613933","name":"DEVALAPURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

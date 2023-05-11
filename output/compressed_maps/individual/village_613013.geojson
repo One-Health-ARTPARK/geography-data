@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43140332440326,12.94821227069268],[77.42204536988932,12.92320414885984],[77.43677658264463,12.92159009349285],[77.43140332440326,12.94821227069268]]]},"properties":{"region_id":"village_613013","name":"MARAGONDANAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

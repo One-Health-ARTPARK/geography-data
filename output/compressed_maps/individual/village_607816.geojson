@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49299521792686,14.25802219425391],[75.47351056520432,14.25308733027499],[75.47393726231796,14.21368722091204],[75.49491090909876,14.21652191462655],[75.49299521792686,14.25802219425391]]]},"properties":{"region_id":"village_607816","name":"NALLINAKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

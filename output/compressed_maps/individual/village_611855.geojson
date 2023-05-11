@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95666900681337,13.23097679903702],[76.95539196958423,13.21082907621794],[76.96721519116724,13.21126176319309],[76.96948330758408,13.2238672473118],[76.95666900681337,13.23097679903702]]]},"properties":{"region_id":"village_611855","name":"MALAPANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

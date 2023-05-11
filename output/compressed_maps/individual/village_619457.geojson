@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64287527733373,11.92215067981272],[76.61838807892613,11.91812728532195],[76.62293818368143,11.90495633662981],[76.64996780692643,11.90874874333232],[76.64287527733373,11.92215067981272]]]},"properties":{"region_id":"village_619457","name":"BETTADAMADAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

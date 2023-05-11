@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12505614806946,15.11997250739571],[75.09515635375058,15.11024723721612],[75.12111914131381,15.09509901074078],[75.12505614806946,15.11997250739571]]]},"properties":{"region_id":"village_603879","name":"KAMALANAGAR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81533965462543,13.70873646024401],[77.78803855019406,13.71397809796187],[77.797497611277,13.70219820854091],[77.81364925378273,13.70088536672272],[77.81533965462543,13.70873646024401]]]},"properties":{"region_id":"village_623737","name":"DODDAKURUBARAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

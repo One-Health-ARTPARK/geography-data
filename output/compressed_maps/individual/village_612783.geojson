@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3940881728167,13.06925156305572],[77.38513413697233,13.0674344247992],[77.38221561774894,13.05583097151759],[77.39170632218239,13.05534904026416],[77.3940881728167,13.06925156305572]]]},"properties":{"region_id":"village_612783","name":"BYREGOWDANAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

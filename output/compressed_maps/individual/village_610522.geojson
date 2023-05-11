@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28290253816425,14.28719147508965],[77.23664680340626,14.29556094906832],[77.23304728705202,14.26128050525887],[77.25841254173137,14.26076386914552],[77.28290253816425,14.28719147508965]]]},"properties":{"region_id":"village_610522","name":"CHIKKAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

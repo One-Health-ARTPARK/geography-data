@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9616511618044,12.64370017137745],[75.95624751818559,12.62184476388598],[75.96977383400345,12.62537266565241],[75.9616511618044,12.64370017137745]]]},"properties":{"region_id":"village_616689","name":"KARAGALLU","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

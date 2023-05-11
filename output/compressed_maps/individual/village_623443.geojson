@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73569011834911,13.63815211240768],[77.74315204843599,13.64778468972285],[77.73208132040062,13.64750839663856],[77.73569011834911,13.63815211240768]]]},"properties":{"region_id":"village_623443","name":"KARAKAMAKALAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

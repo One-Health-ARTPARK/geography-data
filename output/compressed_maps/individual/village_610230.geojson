@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52653990064783,13.41568492559027],[76.52161160612917,13.40186972911725],[76.53464523836149,13.39955233938042],[76.53615947054648,13.41149095835794],[76.52653990064783,13.41568492559027]]]},"properties":{"region_id":"village_610230","name":"MANCHASANDRA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

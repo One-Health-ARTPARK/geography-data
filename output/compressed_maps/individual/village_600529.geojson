@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52884723938404,15.88922805017035],[76.4911085001403,15.90805610901768],[76.46832317477973,15.90184735511012],[76.48652999789344,15.87852028430456],[76.52884723938404,15.88922805017035]]]},"properties":{"region_id":"village_600529","name":"DESAI-BHOGAPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

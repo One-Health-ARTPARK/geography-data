@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33615782594008,15.38298002782266],[76.34132924015834,15.41140672862032],[76.32503733582631,15.40835048939378],[76.31857860619353,15.3897647571896],[76.33615782594008,15.38298002782266]]]},"properties":{"region_id":"village_601828","name":"BILEBHAVI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

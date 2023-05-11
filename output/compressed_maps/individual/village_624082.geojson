@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96810681791263,13.54580501262893],[77.96346300965432,13.51966773503006],[77.97615933911885,13.53242846168659],[77.96810681791263,13.54580501262893]]]},"properties":{"region_id":"village_624082","name":"POOLAKUNTAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

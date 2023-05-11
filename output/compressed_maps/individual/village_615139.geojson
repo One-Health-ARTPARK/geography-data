@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80078442361258,13.08945353947588],[75.78604668687923,13.08692300517605],[75.79009463276522,13.07329559065518],[75.8021575404641,13.07444294941047],[75.80078442361258,13.08945353947588]]]},"properties":{"region_id":"village_615139","name":"ANUGHATTA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16520089794892,15.84374761545555],[76.1422465792335,15.84813820108505],[76.13457248442057,15.82536768652307],[76.1556625672394,15.82406580139127],[76.16520089794892,15.84374761545555]]]},"properties":{"region_id":"village_601452","name":"TOPALKATTI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

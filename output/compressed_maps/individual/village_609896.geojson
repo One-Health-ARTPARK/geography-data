@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42476050011737,13.31221155010656],[75.39470694481275,13.30513892923084],[75.45762076323997,13.2599045446464],[75.4551308554923,13.29034355196531],[75.42476050011737,13.31221155010656]]]},"properties":{"region_id":"village_609896","name":"THANUDI","parent":"subdistrict_7194","parent_name":"KALASA"}}
+]}

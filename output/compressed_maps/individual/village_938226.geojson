@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65282652287212,13.0465266356988],[77.64748312929333,13.04774964460257],[77.64127490323516,13.04183965518078],[77.64340743676253,13.04003869783059],[77.65282652287212,13.0465266356988]]]},"properties":{"region_id":"village_938226","name":"AMANI BAIRATIKHANE","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

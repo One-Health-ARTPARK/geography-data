@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31270951730322,17.41597337690096],[77.30123184177572,17.40592644373053],[77.31248016233558,17.39590991610926],[77.32036479398353,17.40236940622178],[77.31270951730322,17.41597337690096]]]},"properties":{"region_id":"village_620418","name":"MORANHAL","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

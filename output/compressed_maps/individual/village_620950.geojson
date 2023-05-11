@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.546821927712,16.40354680781866],[76.55817825968279,16.41022629810008],[76.55354918855578,16.42246647361787],[76.5406110349985,16.4240953562328],[76.546821927712,16.40354680781866]]]},"properties":{"region_id":"village_620950","name":"MANJLAPUR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

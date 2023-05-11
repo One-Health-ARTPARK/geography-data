@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9028164397539,14.31528788557981],[75.87696858050398,14.30892422652571],[75.87567741953244,14.2967158371416],[75.90685090254865,14.29670920654037],[75.9028164397539,14.31528788557981]]]},"properties":{"region_id":"village_606690","name":"GONIVADA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

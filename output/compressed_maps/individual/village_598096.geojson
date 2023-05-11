@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83263215513716,15.671978197548],[74.81092323888885,15.66245468430086],[74.82350049532087,15.63381130602233],[74.83390829323311,15.64982795350195],[74.83263215513716,15.671978197548]]]},"properties":{"region_id":"village_598096","name":"HIRENANDIHALLI","parent":"subdistrict_7043","parent_name":"KITTUR"}}
+]}

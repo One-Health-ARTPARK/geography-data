@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24982677682455,17.77303152074164],[77.24457607124637,17.79198844396668],[77.22899896074134,17.78494627804731],[77.23879623592062,17.75389402364873],[77.24982677682455,17.77303152074164]]]},"properties":{"region_id":"village_600309","name":"WADANKERA","parent":"subdistrict_7084","parent_name":"CHITAGUPPA"}}
+]}

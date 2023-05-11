@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55335999994264,12.92387700034046],[77.54623499971098,12.92806699968445],[77.54194300004025,12.91824299994903],[77.54860299993746,12.91804199967296],[77.55335999994264,12.92387700034046]]]},"properties":{"region_id":"ward_bbmp183","name":"WARD NO.183 (CHIKKALA SANDRA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

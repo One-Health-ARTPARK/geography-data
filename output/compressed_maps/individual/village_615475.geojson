@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14165936108512,13.25509407160038],[76.13262612418283,13.26746779859579],[76.11728230657803,13.25616908035408],[76.12656934353058,13.24571988656592],[76.14165936108512,13.25509407160038]]]},"properties":{"region_id":"village_615475","name":"UNDIGANALU","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

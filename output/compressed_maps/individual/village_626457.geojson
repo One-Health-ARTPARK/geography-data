@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4537027592267,12.57416225787405],[77.44206374995115,12.57281295153204],[77.43900452699623,12.56283957173091],[77.45494257188238,12.56532828980167],[77.4537027592267,12.57416225787405]]]},"properties":{"region_id":"village_626457","name":"ARANAKUPPE","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

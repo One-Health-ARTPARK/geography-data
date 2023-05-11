@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27288230110679,15.64828030445314],[75.24879865546262,15.64711949604316],[75.2524743874776,15.61325327473946],[75.26919105326459,15.61433578106474],[75.27288230110679,15.64828030445314]]]},"properties":{"region_id":"village_602322","name":"HEBBAL","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

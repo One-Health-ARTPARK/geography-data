@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10413326160929,15.32604348996028],[76.09297332393304,15.34675454490653],[76.06507804277562,15.33506598609136],[76.09104604115457,15.30792646099666],[76.10413326160929,15.32604348996028]]]},"properties":{"region_id":"village_601715","name":"KATRAHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

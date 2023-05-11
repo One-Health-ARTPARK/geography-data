@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74887131925902,13.43939636417315],[76.75078165112461,13.45150237697847],[76.72677834242543,13.46057732387647],[76.7326341127736,13.44330628900245],[76.74887131925902,13.43939636417315]]]},"properties":{"region_id":"village_610176","name":"SINGADAHALII","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

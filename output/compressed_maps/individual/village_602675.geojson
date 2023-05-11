@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52703914547673,15.34062081180026],[74.52164428408592,15.35547986383381],[74.50316868025561,15.35049014836316],[74.51035811153919,15.33743707280164],[74.52703914547673,15.34062081180026]]]},"properties":{"region_id":"village_602675","name":"BAMANAWADI","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

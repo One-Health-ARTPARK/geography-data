@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95101156561712,16.64656630378726],[74.91121396830157,16.64673152382344],[74.93748979987372,16.61198716974688],[74.95101156561712,16.64656630378726]]]},"properties":{"region_id":"village_597295","name":"KRISHNA KITTUR","parent":"subdistrict_7100","parent_name":"KAGWAD"}}
+]}

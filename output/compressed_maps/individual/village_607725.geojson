@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29310797892417,14.39944662472045],[75.2714569483004,14.40813177048168],[75.27181564808278,14.39777506918532],[75.29310797892417,14.39944662472045]]]},"properties":{"region_id":"village_607725","name":"MUGALIKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

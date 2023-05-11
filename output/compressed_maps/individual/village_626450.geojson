@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45940026134474,12.57946377569077],[77.43528214017137,12.57874141436776],[77.44206374995115,12.57281295153204],[77.45420964524442,12.57428394610432],[77.45940026134474,12.57946377569077]]]},"properties":{"region_id":"village_626450","name":"ANMANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

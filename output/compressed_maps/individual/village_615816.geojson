@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36229284652661,13.09909946349589],[76.36048355215358,13.11582431501625],[76.35366262936847,13.11219423071524],[76.35607597130618,13.1006037196492],[76.36229284652661,13.09909946349589]]]},"properties":{"region_id":"village_615816","name":"HIRISAMUDRA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

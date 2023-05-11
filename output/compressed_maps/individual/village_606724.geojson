@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49085531975177,14.13445134179813],[75.46863520241301,14.13564467131439],[75.46679019275754,14.11387508378105],[75.49842220345197,14.11867889499682],[75.49085531975177,14.13445134179813]]]},"properties":{"region_id":"village_606724","name":"CHINNIKATTE","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73971814666218,14.54343160478104],[75.71677252029008,14.54300788453889],[75.71626364920509,14.52874023604003],[75.73210189069997,14.52027328009842],[75.73971814666218,14.54343160478104]]]},"properties":{"region_id":"village_604506","name":"YENNIHOSAHALLI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

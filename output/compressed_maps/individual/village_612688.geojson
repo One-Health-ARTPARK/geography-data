@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92746903008491,12.83057408160761],[76.91604556504315,12.8360467400957],[76.91019828399928,12.82645805763902],[76.92137848266934,12.81963591652955],[76.92746903008491,12.83057408160761]]]},"properties":{"region_id":"village_612688","name":"CHANDANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

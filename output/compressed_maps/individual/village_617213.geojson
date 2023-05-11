@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3974507531288,12.84746637277335],[76.40729772999023,12.84536187278525],[76.40732463824209,12.86255343438455],[76.40131282855674,12.86163891365788],[76.3974507531288,12.84746637277335]]]},"properties":{"region_id":"village_617213","name":"BISALAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

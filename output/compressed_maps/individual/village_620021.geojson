@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68718376919908,17.587089365254],[76.64234287540005,17.59798499496065],[76.65477454086542,17.55083669710421],[76.68718376919908,17.587089365254]]]},"properties":{"region_id":"village_620021","name":"MUNHALLI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

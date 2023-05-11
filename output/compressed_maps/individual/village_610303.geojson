@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00469726882176,13.91005950648021],[76.98407117938868,13.91026548693596],[76.98339584793672,13.88976974972149],[77.00613879866332,13.89001340356523],[77.00469726882176,13.91005950648021]]]},"properties":{"region_id":"village_610303","name":"HANDIKUNTE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

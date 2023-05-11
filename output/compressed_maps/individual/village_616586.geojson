@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05455521037071,12.73921895237805],[76.04072782218911,12.73633041004012],[76.03710106649194,12.72426934114372],[76.05637496126221,12.72656672995974],[76.05455521037071,12.73921895237805]]]},"properties":{"region_id":"village_616586","name":"TEJUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

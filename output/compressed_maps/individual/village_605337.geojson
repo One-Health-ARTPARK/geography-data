@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71947113625588,14.30912786851629],[76.68875705852689,14.30751832309232],[76.67675900241348,14.26627627031304],[76.72740495239533,14.27863238043617],[76.71947113625588,14.30912786851629]]]},"properties":{"region_id":"village_605337","name":"DODDERI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

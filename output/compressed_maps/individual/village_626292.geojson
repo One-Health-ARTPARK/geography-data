@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24024989639007,12.55633668450119],[77.2125013320109,12.55788298828467],[77.21119188428345,12.55200357994975],[77.22923102917471,12.54731306470547],[77.24024989639007,12.55633668450119]]]},"properties":{"region_id":"village_626292","name":"BALLAPATNA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

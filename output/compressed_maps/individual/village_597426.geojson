@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98058066492098,16.31266593592257],[74.95897331101476,16.31577640554744],[74.95356465052882,16.27689250259397],[74.9939730021768,16.28398169999137],[74.98058066492098,16.31266593592257]]]},"properties":{"region_id":"village_597426","name":"PATAGUNDI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

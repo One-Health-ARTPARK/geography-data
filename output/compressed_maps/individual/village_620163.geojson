@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58502441268385,17.24831244243776],[76.5428598323293,17.24368223730583],[76.55829863428211,17.21684817106042],[76.58502441268385,17.24831244243776]]]},"properties":{"region_id":"village_620163","name":"CHOWDAPUR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

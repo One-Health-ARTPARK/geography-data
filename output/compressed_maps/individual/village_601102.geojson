@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6989403012561,15.90500843705672],[76.67826291261946,15.89999720048046],[76.68402893728248,15.87777228187832],[76.69557868079376,15.87660416379442],[76.6989403012561,15.90500843705672]]]},"properties":{"region_id":"village_601102","name":"HASAMAKAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

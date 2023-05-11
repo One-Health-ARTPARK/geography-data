@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17859267808026,17.19164549270963],[76.14940829286333,17.22462848594274],[76.13355849500675,17.18183117444843],[76.17859267808026,17.19164549270963]]]},"properties":{"region_id":"village_599276","name":"RODAGI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

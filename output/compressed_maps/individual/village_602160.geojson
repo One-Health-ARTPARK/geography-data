@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79603709822966,15.25541750554725],[75.72596670476969,15.24617877256171],[75.75744241451679,15.18425051138321],[75.81649703667773,15.20240256698736],[75.79603709822966,15.25541750554725]]]},"properties":{"region_id":"village_602160","name":"HIREWADDATTI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

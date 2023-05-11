@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2663990020931,12.58989684616113],[76.24880513805726,12.59333702198895],[76.236052785109,12.58734635797158],[76.26902746682555,12.56978493358515],[76.2663990020931,12.58989684616113]]]},"properties":{"region_id":"village_618516","name":"KARPURAVALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

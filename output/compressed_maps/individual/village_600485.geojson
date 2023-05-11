@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67511708077714,16.14922894196656],[76.6718196964339,16.16760842377094],[76.63101515260638,16.16923046447387],[76.63469036189714,16.13883887276365],[76.67511708077714,16.14922894196656]]]},"properties":{"region_id":"village_600485","name":"NILOGAL","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

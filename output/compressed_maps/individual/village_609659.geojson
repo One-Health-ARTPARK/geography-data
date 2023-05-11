@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0920137439077,13.40718738358939],[76.07107905865747,13.40276365022763],[76.05826258016445,13.38062058264487],[76.08908551633095,13.37166579613365],[76.0920137439077,13.40718738358939]]]},"properties":{"region_id":"village_609659","name":"TANDREBOREKAVAL","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

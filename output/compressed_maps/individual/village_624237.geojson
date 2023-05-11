@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80181762726507,13.35682907597018],[77.79104856508032,13.34579207753523],[77.80972102511937,13.33629454063808],[77.8153247900492,13.35558870410313],[77.80181762726507,13.35682907597018]]]},"properties":{"region_id":"village_624237","name":"MUTHUR","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

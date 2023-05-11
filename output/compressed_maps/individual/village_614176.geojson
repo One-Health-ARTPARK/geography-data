@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73917558546573,12.50008105939668],[76.74643577726991,12.51642376078517],[76.72727750901873,12.51481582233168],[76.73917558546573,12.50008105939668]]]},"properties":{"region_id":"village_614176","name":"CHIKKABYADARAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

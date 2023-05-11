@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27653152917985,13.79680322614557],[76.24924196813761,13.79763407202662],[76.25047255985203,13.76957917427669],[76.27842245941592,13.78458289444338],[76.27653152917985,13.79680322614557]]]},"properties":{"region_id":"village_605865","name":"BOKIKERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

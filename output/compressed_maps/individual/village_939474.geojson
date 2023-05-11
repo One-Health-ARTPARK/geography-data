@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56538675185809,13.02913990728041],[77.56369880007938,13.02031020677953],[77.57204534127159,13.01485392086293],[77.56866465668672,13.02720441907049],[77.56538675185809,13.02913990728041]]]},"properties":{"region_id":"village_939474","name":"TATA RESEARCH INSTITUTE","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36412510484261,15.88679051688559],[75.35185591197438,15.8882577158144],[75.35109179584991,15.86284334663641],[75.36130550715802,15.86245245391238],[75.36412510484261,15.88679051688559]]]},"properties":{"region_id":"village_598389","name":"JALIKATTI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

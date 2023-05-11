@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30032609972343,12.6866354644465],[77.28483061991847,12.6959983230342],[77.28343249642849,12.67722510601269],[77.30032609972343,12.6866354644465]]]},"properties":{"region_id":"village_626167","name":"ACHALU FOREST","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

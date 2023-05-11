@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73210058703066,13.33834746293827],[76.70965215994802,13.33022842328053],[76.72086382344254,13.31295272960399],[76.73210058703066,13.33834746293827]]]},"properties":{"region_id":"village_611760","name":"HARENAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

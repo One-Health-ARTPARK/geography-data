@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58680872391247,11.7586721530705],[76.59063633264107,11.78457662559775],[76.55784916263732,11.76377256556441],[76.58680872391247,11.7586721530705]]]},"properties":{"region_id":"village_619561","name":"BERAMBADI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

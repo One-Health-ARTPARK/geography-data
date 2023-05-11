@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30228545702639,13.16496532086986],[77.29008170921301,13.16770833719136],[77.29505183605798,13.15328399676677],[77.30228545702639,13.16496532086986]]]},"properties":{"region_id":"village_624835","name":"SULKUNTE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40662797624995,13.36696877653564],[76.40136475531027,13.38478454636317],[76.38599901573576,13.36989951284143],[76.40662797624995,13.36696877653564]]]},"properties":{"region_id":"village_611960","name":"RATTENAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

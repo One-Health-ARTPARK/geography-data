@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14398819028644,15.54423506310165],[75.10824817112437,15.54134449752846],[75.10788684533071,15.50446358343413],[75.13396063884232,15.5103666603261],[75.14398819028644,15.54423506310165]]]},"properties":{"region_id":"village_602307","name":"TALWAI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

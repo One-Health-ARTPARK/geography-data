@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89217193478531,16.58661947680221],[74.86149353574875,16.58252861025191],[74.87593908720748,16.56307186447688],[74.90618557454505,16.56917737258253],[74.89217193478531,16.58661947680221]]]},"properties":{"region_id":"village_597396","name":"SUTTATTI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

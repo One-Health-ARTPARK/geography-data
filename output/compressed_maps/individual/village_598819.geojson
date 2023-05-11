@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8966914650193,16.29026188610732],[75.8950331795876,16.30961379755749],[75.87839611986803,16.30579519218267],[75.86944493607737,16.29429409488037],[75.8966914650193,16.29026188610732]]]},"properties":{"region_id":"village_598819","name":"RAMPUR","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

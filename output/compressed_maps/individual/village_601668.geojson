@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49596395352745,15.59431488210676],[76.51041566666954,15.62870846429513],[76.48287673729342,15.60963313906617],[76.49596395352745,15.59431488210676]]]},"properties":{"region_id":"village_601668","name":"HATTI","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

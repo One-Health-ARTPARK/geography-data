@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35434096029417,12.64540042514951],[77.34791123517981,12.64649968863709],[77.34440956587706,12.63640196617072],[77.35054034938057,12.63676739726176],[77.35434096029417,12.64540042514951]]]},"properties":{"region_id":"village_626185","name":"KOTAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

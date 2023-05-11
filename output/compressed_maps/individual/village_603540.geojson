@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74404543876935,14.49107687647676],[74.72435800426895,14.49612297792895],[74.71459102822455,14.48287345325136],[74.73167431253626,14.46972697738158],[74.74404543876935,14.49107687647676]]]},"properties":{"region_id":"village_603540","name":"NIRGAN","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

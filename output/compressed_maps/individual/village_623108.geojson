@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.57664004751759,13.17331115916197],[78.57585923423241,13.18655000172859],[78.56774555652974,13.18019017803025],[78.57664004751759,13.17331115916197]]]},"properties":{"region_id":"village_623108","name":"UGANI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

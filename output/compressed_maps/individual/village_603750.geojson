@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.48298533527718,14.25365994828866],[74.47421046700883,14.25199442898397],[74.47248907292467,14.23768032092662],[74.48715564493314,14.24356100885631],[74.48298533527718,14.25365994828866]]]},"properties":{"region_id":"village_603750","name":"MALKOD","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

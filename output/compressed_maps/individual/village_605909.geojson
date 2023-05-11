@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30498426183107,13.91128698972272],[76.30555084032989,13.94531566359981],[76.2901847073667,13.94151259676534],[76.28841616843192,13.91593353186258],[76.30498426183107,13.91128698972272]]]},"properties":{"region_id":"village_605909","name":"THANIGEKAL","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

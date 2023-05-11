@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11086399367053,12.61482993801099],[77.12226809089915,12.6190357271762],[77.11755597328485,12.62824877087264],[77.10549997363957,12.62777216581203],[77.11086399367053,12.61482993801099]]]},"properties":{"region_id":"village_614567","name":"MADAPURADADODDI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

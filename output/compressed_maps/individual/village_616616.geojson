@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1399919835754,12.76215431081499],[76.1317608657152,12.75882643401167],[76.13297426382248,12.74845941598052],[76.14419366775475,12.75612856039569],[76.1399919835754,12.76215431081499]]]},"properties":{"region_id":"village_616616","name":"MARAVALALU","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

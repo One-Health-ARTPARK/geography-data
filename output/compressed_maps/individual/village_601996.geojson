@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49482438765233,15.53145884203197],[75.4710391499199,15.49311339123588],[75.50164890183899,15.49070838497825],[75.49482438765233,15.53145884203197]]]},"properties":{"region_id":"village_601996","name":"MADAGANUR","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

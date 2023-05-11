@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.808658607438,14.70950978837621],[74.7930645455844,14.73327388211141],[74.77323510878688,14.70366082999489],[74.78616576903066,14.68674540131766],[74.808658607438,14.70950978837621]]]},"properties":{"region_id":"village_603125","name":"SONDA","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90412790790765,13.19163010906784],[77.87769776712459,13.18618513782695],[77.90585720587694,13.17900682547151],[77.90412790790765,13.19163010906784]]]},"properties":{"region_id":"village_625564","name":"CHOKKASANDRA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86089708759378,13.2408774531292],[75.86032389092452,13.25361295338326],[75.852333370672,13.25123988897],[75.86089708759378,13.2408774531292]]]},"properties":{"region_id":"village_615210","name":"CHANNAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

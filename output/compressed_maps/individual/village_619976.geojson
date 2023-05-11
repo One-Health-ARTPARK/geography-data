@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68391277686345,17.65754742817882],[76.65433378126039,17.66336026182558],[76.65100338276717,17.64843827619086],[76.68603942118469,17.63770057293684],[76.68391277686345,17.65754742817882]]]},"properties":{"region_id":"village_619976","name":"KANMAS","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

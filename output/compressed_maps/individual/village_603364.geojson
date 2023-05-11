@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.3087126794101,14.6398497114914],[74.30326186037217,14.63299057680011],[74.30913424878526,14.63244968502806],[74.3087126794101,14.6398497114914]]]},"properties":{"region_id":"village_603364","name":"BHASGOD","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03063143791597,14.6725124499901],[75.03221260994626,14.69490639097943],[75.01432500156098,14.6890798351154],[75.03063143791597,14.6725124499901]]]},"properties":{"region_id":"village_603266","name":"KALANGI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

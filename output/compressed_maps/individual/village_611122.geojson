@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30176203869371,13.49927009716981],[77.29587913711487,13.50144316457014],[77.28674697185417,13.49212238609337],[77.30173378053958,13.49388217536922],[77.30176203869371,13.49927009716981]]]},"properties":{"region_id":"village_611122","name":"CHIKKOVALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

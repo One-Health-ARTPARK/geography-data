@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2466896199299,14.14113111210852],[75.26977249249161,14.15570243567629],[75.25005465860694,14.17977288682222],[75.23115026425374,14.16196504324358],[75.2466896199299,14.14113111210852]]]},"properties":{"region_id":"village_607286","name":"BHYRAPURA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

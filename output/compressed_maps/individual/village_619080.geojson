@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38188426974205,11.93995680465027],[76.37119775677527,11.95058340179794],[76.35700289542166,11.93314559837888],[76.37930716347125,11.92640801735077],[76.38188426974205,11.93995680465027]]]},"properties":{"region_id":"village_619080","name":"HEGGANUR","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

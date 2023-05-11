@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97955299111693,13.46453242727794],[77.9654246385696,13.46388686977133],[77.95066792068536,13.43767987534183],[77.99271594844637,13.44815916582774],[77.97955299111693,13.46453242727794]]]},"properties":{"region_id":"village_624530","name":"BHAKTARAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

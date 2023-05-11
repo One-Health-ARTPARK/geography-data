@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56288574821026,16.13990506613942],[76.52715769699152,16.15275015843471],[76.50723388505273,16.14122820281113],[76.55649495343854,16.13617760308293],[76.56288574821026,16.13990506613942]]]},"properties":{"region_id":"village_600421","name":"HULIGUDDA","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

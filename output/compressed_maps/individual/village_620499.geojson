@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22265011008024,17.20162848374847],[77.2136948665506,17.18323809155992],[77.23093811113782,17.18202766303035],[77.22265011008024,17.20162848374847]]]},"properties":{"region_id":"village_620499","name":"NEELHALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

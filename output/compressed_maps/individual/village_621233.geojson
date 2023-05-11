@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23158775350623,16.93853760707447],[77.19403896173732,16.92849406697636],[77.1933035927466,16.88604896484935],[77.23052975953048,16.89101926546588],[77.23158775350623,16.93853760707447]]]},"properties":{"region_id":"village_621233","name":"MOTENHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

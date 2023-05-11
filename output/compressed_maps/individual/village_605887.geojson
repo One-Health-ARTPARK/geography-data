@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35434505477323,13.7677534383186],[76.35698447151177,13.77591557210734],[76.3665034348373,13.78759085736945],[76.34686269158772,13.78193266984073],[76.34830585480323,13.76947344907258],[76.35434505477323,13.7677534383186]]]},"properties":{"region_id":"village_605887","name":"JOGAMMANAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

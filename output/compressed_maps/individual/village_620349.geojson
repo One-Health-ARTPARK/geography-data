@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36729964939065,17.53629225408793],[77.34700422216274,17.5428457737738],[77.33627141396873,17.51045687076287],[77.36390225172491,17.50809663728387],[77.36729964939065,17.53629225408793]]]},"properties":{"region_id":"village_620349","name":"MARPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

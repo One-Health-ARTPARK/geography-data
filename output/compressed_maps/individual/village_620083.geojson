@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47915225432915,17.35970678235671],[76.4772116657513,17.42463825992834],[76.46232031990166,17.42737217525708],[76.44805842853982,17.36075190391358],[76.47915225432915,17.35970678235671]]]},"properties":{"region_id":"village_620083","name":"YELSANGI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

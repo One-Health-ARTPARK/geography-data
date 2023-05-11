@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43697456321273,12.35479230419347],[76.41645568525368,12.34315264558778],[76.4246396052901,12.32695879146825],[76.44529164978455,12.33803358851164],[76.43697456321273,12.35479230419347]]]},"properties":{"region_id":"village_618458","name":"MALLINATHAPURA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

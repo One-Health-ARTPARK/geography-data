@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18809827096247,17.00494855025216],[77.17192705821127,16.97344877785832],[77.21021118308734,16.96736728667532],[77.18809827096247,17.00494855025216]]]},"properties":{"region_id":"village_620688","name":"RAMTEERTH","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

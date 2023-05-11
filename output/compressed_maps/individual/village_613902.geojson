@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8538403756509,12.91664912911525],[76.84267261602376,12.90806755500338],[76.86555185060037,12.90506976574464],[76.86478225955757,12.91344814982973],[76.8538403756509,12.91664912911525]]]},"properties":{"region_id":"village_613902","name":"TOLASIKOMBRI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

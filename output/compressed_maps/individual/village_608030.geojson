@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02647004046419,13.80567446728115],[75.01331075040066,13.81103164620134],[75.00798342624253,13.80195646551173],[75.01979696606816,13.79482788424723],[75.02647004046419,13.80567446728115]]]},"properties":{"region_id":"village_608030","name":"KILANDUR","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

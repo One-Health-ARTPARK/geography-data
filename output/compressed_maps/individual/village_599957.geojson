@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34929248330707,17.97812301820605],[77.3184293557585,17.98024044128215],[77.31426230773926,17.95339861849471],[77.34345623077265,17.94509976697828],[77.34929248330707,17.97812301820605]]]},"properties":{"region_id":"village_599957","name":"DHANURA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

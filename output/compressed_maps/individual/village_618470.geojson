@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47535555271861,12.32028265367145],[76.47208873996637,12.29005649115631],[76.48617244622575,12.28338457386668],[76.49404692908575,12.30802106140621],[76.47535555271861,12.32028265367145]]]},"properties":{"region_id":"village_618470","name":"HANDANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

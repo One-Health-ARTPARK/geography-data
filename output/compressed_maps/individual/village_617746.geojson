@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29642654062282,12.64268958515989],[75.27440579886073,12.66612895679395],[75.26020057535897,12.6597741199271],[75.25492755853143,12.63628987823549],[75.29642654062282,12.64268958515989]]]},"properties":{"region_id":"village_617746","name":"MADNOORU","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

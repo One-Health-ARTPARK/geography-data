@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24640746085893,15.80667595059463],[75.20508182567343,15.81297586004183],[75.2168839854837,15.79462127845922],[75.25267819721287,15.79149244723455],[75.25397201789987,15.80569276571282],[75.24640746085893,15.80667595059463]]]},"properties":{"region_id":"village_598280","name":"MANIKATTI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

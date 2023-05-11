@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.116369117204,15.97175400586122],[76.08024462414113,15.98318714981153],[76.09584896281682,15.95024866895193],[76.12614275076898,15.95535962473249],[76.116369117204,15.97175400586122]]]},"properties":{"region_id":"village_599009","name":"ILKAL (RURAL)","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

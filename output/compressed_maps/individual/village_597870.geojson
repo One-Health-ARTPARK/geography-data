@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.53827350657953,15.61547585170668],[74.52217170386021,15.61386963562175],[74.52053673309506,15.60071663651466],[74.5392391826223,15.6053462189656],[74.53827350657953,15.61547585170668]]]},"properties":{"region_id":"village_597870","name":"KOUNDAL","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

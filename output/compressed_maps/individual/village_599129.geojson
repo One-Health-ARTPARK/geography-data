@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51159654152757,16.56872551960719],[75.51634600631833,16.58973755303626],[75.49091786126036,16.58390625845885],[75.51159654152757,16.56872551960719]]]},"properties":{"region_id":"village_599129","name":"NANDYAL","parent":"subdistrict_7069","parent_name":"BABALESHWAR"}}
+]}

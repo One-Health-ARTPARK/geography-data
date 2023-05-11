@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34059155750869,14.06026706940739],[77.3190489767701,14.06415050438268],[77.32704036408947,14.03853213955663],[77.34059155750869,14.06026706940739]]]},"properties":{"region_id":"village_610658","name":"J.RANGANATHAPURA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

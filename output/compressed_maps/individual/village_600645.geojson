@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17659065114908,16.39643511037732],[77.1533678113828,16.39536458318583],[77.12979811500884,16.37294262302951],[77.16897515580122,16.36370259411505],[77.17659065114908,16.39643511037732]]]},"properties":{"region_id":"village_600645","name":"KOLUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

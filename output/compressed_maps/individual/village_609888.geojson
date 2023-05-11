@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79481916119025,13.23393353760725],[75.78523731254168,13.23144916883647],[75.78990891153825,13.21436319957666],[75.79781021693974,13.21587977587239],[75.79481916119025,13.23393353760725]]]},"properties":{"region_id":"village_609888","name":"BANAVARA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

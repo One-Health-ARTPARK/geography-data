@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75572866267984,13.5265505832756],[77.74559166705582,13.52890256334946],[77.74580281728161,13.516844085551],[77.75647317541512,13.51928394624345],[77.75572866267984,13.5265505832756]]]},"properties":{"region_id":"village_623513","name":"YALAGERE","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

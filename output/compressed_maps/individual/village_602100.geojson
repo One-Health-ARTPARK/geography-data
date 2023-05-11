@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69290549343111,15.16489381440934],[75.66180723865084,15.1864281171199],[75.65855285379718,15.15494232048121],[75.69290549343111,15.16489381440934]]]},"properties":{"region_id":"village_602100","name":"KUSALAPUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

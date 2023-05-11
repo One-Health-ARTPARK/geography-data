@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98937162180592,12.91315743370697],[77.96568558207363,12.92400295759145],[77.96055841753484,12.91003558831019],[77.98937162180592,12.91315743370697]]]},"properties":{"region_id":"village_622265","name":"CHIKKA IGGALURU","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

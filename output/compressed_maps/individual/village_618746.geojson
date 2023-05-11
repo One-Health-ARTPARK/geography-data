@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59840903350903,12.28450888327691],[76.5746782341345,12.28615478475673],[76.57691085753349,12.26391518650253],[76.59729548095271,12.26206631367334],[76.59840903350903,12.28450888327691]]]},"properties":{"region_id":"village_618746","name":"KERGALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

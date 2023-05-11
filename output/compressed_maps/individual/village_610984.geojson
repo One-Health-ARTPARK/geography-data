@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3148900453709,13.61825912487635],[77.31803206124141,13.62923168564219],[77.31121084196549,13.62349048647679],[77.3148900453709,13.61825912487635]]]},"properties":{"region_id":"village_610984","name":"NANJAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

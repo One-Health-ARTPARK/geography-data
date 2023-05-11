@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95209311688826,13.85882344117824],[77.94949484877289,13.87133894973067],[77.94139451035069,13.86553445674381],[77.95209311688826,13.85882344117824]]]},"properties":{"region_id":"village_623804","name":"GUNTIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

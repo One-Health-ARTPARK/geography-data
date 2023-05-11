@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09633228916297,15.46955742166397],[75.08180295267114,15.46308628369074],[75.08809492652034,15.44575703088054],[75.10053996658647,15.44618240475177],[75.09633228916297,15.46955742166397]]]},"properties":{"region_id":"village_602314","name":"SOMAPUR (ALLAPUR)","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0541317974835,12.43156016314032],[76.02826583970926,12.43302413481391],[76.03336977580705,12.41863787084671],[76.05325109879023,12.41697895480096],[76.0541317974835,12.43156016314032]]]},"properties":{"region_id":"village_618136","name":"M. HOSAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

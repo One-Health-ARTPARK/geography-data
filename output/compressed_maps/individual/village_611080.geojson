@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27898992891936,13.49078873275274],[77.27213869320974,13.50209424807756],[77.26768981413001,13.49196033709921],[77.27898992891936,13.49078873275274]]]},"properties":{"region_id":"village_611080","name":"BAJJANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

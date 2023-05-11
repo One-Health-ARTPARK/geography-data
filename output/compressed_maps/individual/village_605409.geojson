@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76485302252509,14.19925364327784],[76.73770931407569,14.20799698396271],[76.7322202633951,14.17966200616597],[76.77410304620373,14.18180275300343],[76.76485302252509,14.19925364327784]]]},"properties":{"region_id":"village_605409","name":"YALAGATTA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

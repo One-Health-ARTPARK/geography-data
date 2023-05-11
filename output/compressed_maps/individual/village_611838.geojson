@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91260542215782,13.31793057421944],[76.91096643480208,13.30752231687332],[76.92183341489823,13.301629837847],[76.9238006941535,13.3171373230151],[76.91260542215782,13.31793057421944]]]},"properties":{"region_id":"village_611838","name":"HERUR","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

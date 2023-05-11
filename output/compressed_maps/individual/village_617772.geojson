@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5862756561264,12.59769030870025],[75.5153008360686,12.58175766056605],[75.54244559879905,12.54750268021646],[75.54711235836102,12.50804815332403],[75.60847487166241,12.55512417547093],[75.5862756561264,12.59769030870025]]]},"properties":{"region_id":"village_617772","name":"MADAPPADY","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

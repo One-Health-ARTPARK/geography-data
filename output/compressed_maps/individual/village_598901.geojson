@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96364653221674,15.9552691762766],[75.92839654018543,15.96009423881074],[75.92487581296768,15.93826441906396],[75.95654466712881,15.93175840219795],[75.96364653221674,15.9552691762766]]]},"properties":{"region_id":"village_598901","name":"VADAGERI","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8587517474769,12.58824985275081],[76.84130861417125,12.59720335215247],[76.84490380120712,12.57583640405472],[76.8587517474769,12.58824985275081]]]},"properties":{"region_id":"village_614415","name":"GORAVALE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

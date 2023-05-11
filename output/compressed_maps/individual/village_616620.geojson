@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02300958395617,12.79890627989108],[76.0173018822083,12.80013507441028],[76.01680397946933,12.79554296887975],[76.02444724050235,12.79293321239608],[76.02300958395617,12.79890627989108]]]},"properties":{"region_id":"village_616620","name":"GUNDIHOSAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

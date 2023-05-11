@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81861366866566,16.46468452227517],[76.80736076433796,16.44094259265244],[76.80995325404835,16.42258967792965],[76.8293541519583,16.42625003827169],[76.81861366866566,16.46468452227517]]]},"properties":{"region_id":"village_621072","name":"SUGUR","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

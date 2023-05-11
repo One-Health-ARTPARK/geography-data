@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6074824292115,12.95151692498223],[77.60220602812419,12.96244674006457],[77.59334457963561,12.95790271578583],[77.6074824292115,12.95151692498223]]]},"properties":{"region_id":"village_939407","name":"AKKITHIMMANAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

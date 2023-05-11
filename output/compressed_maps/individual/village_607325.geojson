@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01573917022897,14.10940300521938],[75.00697826868965,14.11850523669378],[74.99572259418177,14.11765952692276],[75.00462661098884,14.10667090307013],[75.01573917022897,14.10940300521938]]]},"properties":{"region_id":"village_607325","name":"UDRI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

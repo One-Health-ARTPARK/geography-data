@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79879550978316,17.82880492853974],[76.78142427014234,17.81462520673098],[76.79100102494046,17.79786138218472],[76.81126999613674,17.81262003266183],[76.79879550978316,17.82880492853974]]]},"properties":{"region_id":"village_599775","name":"MANHALLI","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

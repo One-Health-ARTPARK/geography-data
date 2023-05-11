@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64832729384513,13.25789960872624],[75.63843527930055,13.26506455716339],[75.63327553672445,13.26177047098672],[75.63991530192123,13.25139634305179],[75.64832729384513,13.25789960872624]]]},"properties":{"region_id":"village_609853","name":"BANNUR","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

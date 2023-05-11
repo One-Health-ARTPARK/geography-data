@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74493198144314,12.23156135450929],[76.73632832024627,12.22103875358532],[76.7604679690011,12.21137909819654],[76.76520871010779,12.22465084760715],[76.74493198144314,12.23156135450929]]]},"properties":{"region_id":"village_618819","name":"KIRALU","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

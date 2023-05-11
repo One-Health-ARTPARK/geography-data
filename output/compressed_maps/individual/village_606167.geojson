@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75209873274586,13.94375797305302],[76.75376929923688,13.96255519546894],[76.73914826964315,13.97436046914192],[76.73794291083175,13.94448318468872],[76.75209873274586,13.94375797305302]]]},"properties":{"region_id":"village_606167","name":"SAMUDRADAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

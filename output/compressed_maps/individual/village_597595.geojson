@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68403382157389,16.26807875537945],[74.65885035236482,16.26626037563355],[74.66927363098624,16.23597683260403],[74.69375634369926,16.23894558126856],[74.68403382157389,16.26807875537945]]]},"properties":{"region_id":"village_597595","name":"KOTABAGI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

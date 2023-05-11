@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57184590708827,14.31824064204678],[75.57052061486634,14.33495741379654],[75.54596241389304,14.33340507146922],[75.54808508477771,14.30074606886333],[75.57184590708827,14.31824064204678]]]},"properties":{"region_id":"village_604474","name":"ANAJI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

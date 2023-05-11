@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2568486194066,14.11519956279458],[76.23384009786571,14.116749563209],[76.23448981254506,14.1039571626141],[76.25592041045209,14.10629275838898],[76.2568486194066,14.11519956279458]]]},"properties":{"region_id":"village_605766","name":"ARALIKERE","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

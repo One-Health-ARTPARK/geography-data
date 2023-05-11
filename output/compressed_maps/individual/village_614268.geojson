@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81043164652522,12.43592164426786],[76.80283443689505,12.43127346502711],[76.80914675558907,12.41698380276489],[76.81471005640918,12.41951972070459],[76.81043164652522,12.43592164426786]]]},"properties":{"region_id":"village_614268","name":"PARAMANDAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23685603828228,13.80281112326125],[75.22676976608255,13.79548497943258],[75.24332852769629,13.7861868374068],[75.23685603828228,13.80281112326125]]]},"properties":{"region_id":"village_608083","name":"HULLUKODU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

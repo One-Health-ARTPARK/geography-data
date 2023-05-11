@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66127228976092,14.14168195883006],[76.64196127929003,14.14176058996563],[76.64069916736811,14.12784806256203],[76.65655302689315,14.12045197317029],[76.66127228976092,14.14168195883006]]]},"properties":{"region_id":"village_606055","name":"GOLLAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

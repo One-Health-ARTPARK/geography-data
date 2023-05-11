@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5968949446459,15.32227638258521],[74.57210573871008,15.31746987985387],[74.57197881323708,15.29522964785106],[74.60478662231161,15.29364890266521],[74.5968949446459,15.32227638258521]]]},"properties":{"region_id":"village_602750","name":"HAREGALI","parent":"subdistrict_7064","parent_name":"DANDELI"}}
+]}

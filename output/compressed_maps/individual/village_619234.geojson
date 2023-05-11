@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59469271648952,12.11528440880698],[76.5829563940403,12.11627488812779],[76.5799519764865,12.10455821259414],[76.59183699626593,12.10187741860282],[76.59469271648952,12.11528440880698]]]},"properties":{"region_id":"village_619234","name":"KONGAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

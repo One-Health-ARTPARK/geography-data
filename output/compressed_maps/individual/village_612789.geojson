@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45160467824635,13.06096353133354],[77.43717386836484,13.06220291242699],[77.43915507769624,13.04855140910068],[77.45284359188061,13.04959452769984],[77.45160467824635,13.06096353133354]]]},"properties":{"region_id":"village_612789","name":"HAROKYATHANAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

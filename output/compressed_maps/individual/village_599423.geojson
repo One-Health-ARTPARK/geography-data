@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3814766718242,16.7265625192096],[76.34302676813941,16.73095851237423],[76.34373211804686,16.68018812150202],[76.39649943248176,16.67293655091599],[76.3814766718242,16.7265625192096]]]},"properties":{"region_id":"village_599423","name":"ALGUR","parent":"subdistrict_7071","parent_name":"DEVARA HIPPARAGI"}}
+]}

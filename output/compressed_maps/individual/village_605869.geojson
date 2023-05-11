@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33677509843643,13.83519857145553],[76.31318775555687,13.83303131923812],[76.310464786435,13.80747841133298],[76.34067966153928,13.82111289531259],[76.33677509843643,13.83519857145553]]]},"properties":{"region_id":"village_605869","name":"HUNAVINADU","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

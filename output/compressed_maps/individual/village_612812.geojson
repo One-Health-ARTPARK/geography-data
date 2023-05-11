@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42205626473918,13.00082594094883],[77.41153587368467,13.00464471613887],[77.40624703833956,12.99560382353232],[77.42311905415136,12.98701147986264],[77.42205626473918,13.00082594094883]]]},"properties":{"region_id":"village_612812","name":"GIDDENAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

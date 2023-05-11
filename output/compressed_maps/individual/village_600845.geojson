@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36338023684982,16.08522135782445],[77.34112371205735,16.09321215560874],[77.33594535628325,16.05588601580473],[77.37278098681608,16.05414091293185],[77.36338023684982,16.08522135782445]]]},"properties":{"region_id":"village_600845","name":"GADHAR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

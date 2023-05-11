@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34191739021307,12.88993638685283],[76.33285213882436,12.88853915366713],[76.3356019519194,12.87475899207755],[76.34425943338832,12.87019823764965],[76.34191739021307,12.88993638685283]]]},"properties":{"region_id":"village_617093","name":"NORANAKKI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

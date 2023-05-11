@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61889542454507,13.16311415225786],[76.61295155011733,13.17012731047279],[76.60175729935428,13.16187228168419],[76.61236624452728,13.15329432185125],[76.61889542454507,13.16311415225786]]]},"properties":{"region_id":"village_612239","name":"DODDAGHATTA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

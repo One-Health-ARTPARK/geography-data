@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47944297072432,12.61076881561422],[76.4729784951842,12.61481017332343],[76.4581298048398,12.61212478445158],[76.46419786393052,12.60341924527596],[76.47944297072432,12.61076881561422]]]},"properties":{"region_id":"village_613574","name":"YADAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

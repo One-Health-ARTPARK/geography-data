@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0725594893182,12.51410552823798],[76.06116284403846,12.49617084167256],[76.06006110855388,12.48086559119003],[76.07797781983925,12.48131602969826],[76.0825526101755,12.50542025059738],[76.0725594893182,12.51410552823798]]]},"properties":{"region_id":"village_618110","name":"HASUVINAKAVAL","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

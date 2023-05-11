@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16137779264245,15.78043589937071],[75.14379827497645,15.78228507572136],[75.13814700409944,15.7618206477495],[75.1607490124916,15.76218213341699],[75.16137779264245,15.78043589937071]]]},"properties":{"region_id":"village_598270","name":"KURAVINAKOPPA","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

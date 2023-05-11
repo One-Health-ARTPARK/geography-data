@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18680589714994,14.62551384680076],[76.1782619217684,14.63620210740774],[76.167440627494,14.63109243294377],[76.17501384422478,14.6202366529972],[76.18680589714994,14.62551384680076]]]},"properties":{"region_id":"village_606380","name":"VARAVENAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

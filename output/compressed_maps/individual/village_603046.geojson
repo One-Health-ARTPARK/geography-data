@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00620446483286,14.89138949054818],[74.98584123850526,14.88727721737537],[75.01834771984294,14.85150567780711],[75.02548233490903,14.87606641517877],[75.00620446483286,14.89138949054818]]]},"properties":{"region_id":"village_603046","name":"NAGNOOR","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

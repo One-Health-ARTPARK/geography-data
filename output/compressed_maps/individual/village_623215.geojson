@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44539910681794,13.55889658781051],[77.42246118795376,13.56842719508277],[77.40793499969652,13.5511397966407],[77.42912146841527,13.54546919877314],[77.44539910681794,13.55889658781051]]]},"properties":{"region_id":"village_623215","name":"SONAGANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

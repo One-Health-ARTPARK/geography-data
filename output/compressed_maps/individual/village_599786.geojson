@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82640287102677,17.80555765207362],[76.84664329210258,17.81911300053917],[76.83085330382714,17.83124885065622],[76.82640287102677,17.80555765207362]]]},"properties":{"region_id":"village_599786","name":"KAMLEWADI","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

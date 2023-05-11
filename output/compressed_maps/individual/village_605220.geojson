@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63402708859138,14.57836051272358],[76.66891930887208,14.5979746342487],[76.65235872030601,14.63104185601715],[76.62713727914807,14.61509204707471],[76.63402708859138,14.57836051272358]]]},"properties":{"region_id":"village_605220","name":"MATHIGARAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

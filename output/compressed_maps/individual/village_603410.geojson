@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.31280028954865,14.59972670215462],[74.29445484379781,14.59310739961624],[74.29968952989714,14.57996395964236],[74.31694150015535,14.58874149940347],[74.31280028954865,14.59972670215462]]]},"properties":{"region_id":"village_603410","name":"NADUMASKERI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

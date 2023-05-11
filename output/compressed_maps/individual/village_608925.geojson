@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20365211360856,13.41896527491049],[75.15379739626452,13.39280642247657],[75.16960444576536,13.37136169168258],[75.2167180784788,13.38048605015363],[75.20365211360856,13.41896527491049]]]},"properties":{"region_id":"village_608925","name":"YEDADALLI","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

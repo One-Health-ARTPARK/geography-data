@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67476878231615,13.32107380455566],[77.65715980000051,13.32483400050888],[77.65573455007372,13.31674994063635],[77.66648497668169,13.31181424088201],[77.67476878231615,13.32107380455566]]]},"properties":{"region_id":"village_625250","name":"MEESAGANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

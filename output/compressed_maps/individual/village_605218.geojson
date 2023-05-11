@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6292958656642,14.63479561808659],[76.6062945222468,14.63821129739557],[76.60461262642812,14.62003172568189],[76.62713727914807,14.61509204707471],[76.6292958656642,14.63479561808659]]]},"properties":{"region_id":"village_605218","name":"SURAMMANHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

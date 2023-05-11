@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00976556648536,14.23309206275256],[74.99884932192242,14.24361898503389],[74.97161042221805,14.22391303471291],[74.98479950420166,14.21097310887245],[75.00976556648536,14.23309206275256]]]},"properties":{"region_id":"village_607184","name":"ADARANTHE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

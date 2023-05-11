@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49932308811903,14.99997047520488],[75.47773053579935,14.99743803705182],[75.48047261284847,14.96664497085529],[75.5076936474692,14.96738153707516],[75.49932308811903,14.99997047520488]]]},"properties":{"region_id":"village_604017","name":"KALIWAL","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

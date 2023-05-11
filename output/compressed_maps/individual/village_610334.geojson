@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94048003113518,13.90651358406598],[76.91477364176708,13.87922183551149],[76.93331700628889,13.84972881379709],[76.96722396733757,13.87593148472947],[76.94048003113518,13.90651358406598]]]},"properties":{"region_id":"village_610334","name":"NADUR","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

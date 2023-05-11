@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32968999424102,16.71714607074702],[75.2878873118685,16.71435846568748],[75.26501875114553,16.69276309086159],[75.26804760868599,16.64255174565697],[75.31033966524585,16.62848626599147],[75.32968999424102,16.71714607074702]]]},"properties":{"region_id":"village_598450","name":"TUNGAL","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

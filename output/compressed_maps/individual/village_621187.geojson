@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93374991837707,16.53054626362636],[76.92589646558554,16.51241572333115],[76.92768080411388,16.49365171135763],[76.9387765357138,16.49977750070178],[76.93374991837707,16.53054626362636]]]},"properties":{"region_id":"village_621187","name":"TONNUR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

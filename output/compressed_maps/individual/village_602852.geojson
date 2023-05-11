@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84552068512227,15.31866596357666],[74.82547669990835,15.31779595639757],[74.82776973705622,15.3065509816184],[74.84552068512227,15.31866596357666]]]},"properties":{"region_id":"village_602852","name":"AMMANKOP","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

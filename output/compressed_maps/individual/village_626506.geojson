@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32180284802088,12.49651766081672],[77.31167574822769,12.49210096348065],[77.30664841098945,12.48005750361425],[77.31816537350143,12.48101680058125],[77.31321963741188,12.49057858237273],[77.32180284802088,12.49651766081672]]]},"properties":{"region_id":"village_626506","name":"HOSAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90762290526095,12.95287804655094],[74.89452249539832,12.96040900361645],[74.88034088895775,12.94013998010949],[74.90467689338163,12.94099560899517],[74.90762290526095,12.95287804655094]]]},"properties":{"region_id":"village_617484","name":"ADYAPADY","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

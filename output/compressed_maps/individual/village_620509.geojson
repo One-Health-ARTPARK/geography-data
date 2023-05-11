@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30003100745928,17.10788500470461],[77.28669653946088,17.10906190632005],[77.26905293971318,17.10285592108476],[77.29380841766987,17.10012522678665],[77.30003100745928,17.10788500470461]]]},"properties":{"region_id":"village_620509","name":"TURKBOMMANHALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

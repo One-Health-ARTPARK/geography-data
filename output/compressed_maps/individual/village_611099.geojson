@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34525619472575,13.6063446933569],[77.33504242663236,13.5904022420491],[77.34117930405155,13.58141724631564],[77.36255737400131,13.60548469184448],[77.34525619472575,13.6063446933569]]]},"properties":{"region_id":"village_611099","name":"ARASAPURA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

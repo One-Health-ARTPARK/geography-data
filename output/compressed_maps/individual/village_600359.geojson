@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29923483283916,16.08416898611811],[76.25883489784438,16.09117191045939],[76.26035665308295,16.07395447720449],[76.29923483283916,16.08416898611811]]]},"properties":{"region_id":"village_600359","name":"KOMNUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

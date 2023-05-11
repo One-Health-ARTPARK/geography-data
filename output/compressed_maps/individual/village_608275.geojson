@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1489611421169,13.64373602363152],[75.13316831855649,13.64799071097179],[75.13520427998374,13.63826360050682],[75.14296439244677,13.63482531066763],[75.1489611421169,13.64373602363152]]]},"properties":{"region_id":"village_608275","name":"HANASA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

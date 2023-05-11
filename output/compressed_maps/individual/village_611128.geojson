@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37756210037806,13.53831714363389],[77.36059281070472,13.54509078243516],[77.35658311352775,13.53495036348174],[77.37756210037806,13.53831714363389]]]},"properties":{"region_id":"village_611128","name":"CHATTENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

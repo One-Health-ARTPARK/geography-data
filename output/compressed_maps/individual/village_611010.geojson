@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11839207407508,13.55423917558923],[77.1131164786581,13.56880876956144],[77.10617975365203,13.56351136297666],[77.11839207407508,13.55423917558923]]]},"properties":{"region_id":"village_611010","name":"GATTITHIMMANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

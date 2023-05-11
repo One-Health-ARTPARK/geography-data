@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29746953866837,15.54800825069049],[76.2837981202685,15.56078420517921],[76.26658360989887,15.5581567526213],[76.25907839728745,15.54835075135442],[76.29746953866837,15.54800825069049]]]},"properties":{"region_id":"village_601795","name":"CHIKSULIKERI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

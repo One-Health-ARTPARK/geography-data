@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86811267390286,14.09396561370171],[75.84844181096004,14.11571283890109],[75.84580663804755,14.09231147230077],[75.86811267390286,14.09396561370171]]]},"properties":{"region_id":"village_607004","name":"LINGADAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

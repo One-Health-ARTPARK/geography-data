@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78362062077821,12.86528456100043],[76.7725672220371,12.85629914227728],[76.79412903575091,12.85212427882785],[76.79870938982302,12.86459347024251],[76.78362062077821,12.86528456100043]]]},"properties":{"region_id":"village_613790","name":"BYADARAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

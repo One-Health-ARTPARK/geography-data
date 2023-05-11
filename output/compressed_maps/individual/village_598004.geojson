@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68841226196643,15.51048730945486],[74.67776568920283,15.5120059134537],[74.66002727731883,15.50658973499698],[74.67329427885079,15.49733539201964],[74.68841226196643,15.51048730945486]]]},"properties":{"region_id":"village_598004","name":"GASTOLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82674346926038,15.29476466646771],[74.80495675828081,15.29332196133277],[74.81111291190197,15.27307679233542],[74.82674346926038,15.29476466646771]]]},"properties":{"region_id":"village_602868","name":"GOLEHALLI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

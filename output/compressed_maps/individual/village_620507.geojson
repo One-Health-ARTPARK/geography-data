@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3206830690128,17.14892107176138],[77.30391639204825,17.12578907712407],[77.33156714282991,17.11933678602551],[77.3206830690128,17.14892107176138]]]},"properties":{"region_id":"village_620507","name":"BATGERA(K)","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

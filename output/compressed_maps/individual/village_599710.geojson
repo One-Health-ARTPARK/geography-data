@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41349914860285,16.47577149830837],[76.3738275389749,16.46984301363769],[76.36924405560245,16.45404660733324],[76.40309935352407,16.4327825065417],[76.41349914860285,16.47577149830837]]]},"properties":{"region_id":"village_599710","name":"SALAWADAGI","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

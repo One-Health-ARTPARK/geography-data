@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73546277443849,13.5152328594434],[77.72883568243793,13.50875519320509],[77.70631595633266,13.51521057188678],[77.70545194288022,13.50834240560029],[77.74421823522957,13.50423193390382],[77.73546277443849,13.5152328594434]]]},"properties":{"region_id":"village_623595","name":"GOLLAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

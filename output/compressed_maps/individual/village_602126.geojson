@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68022611655087,15.02280876686319],[75.65745044309074,15.03204436526201],[75.65457839366368,15.01069708036963],[75.67713992295447,15.00367036936014],[75.68022611655087,15.02280876686319]]]},"properties":{"region_id":"village_602126","name":"GOVANAKOPPA","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

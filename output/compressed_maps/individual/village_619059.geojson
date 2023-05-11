@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2224368344901,11.97770803868748],[76.11004093695236,11.97468390970089],[76.11493741088428,11.86683739647157],[76.19382972160513,11.86879273820216],[76.21974966782595,11.9202861589569],[76.2224368344901,11.97770803868748]]]},"properties":{"region_id":"village_619059","name":"KAKANAKOTE","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

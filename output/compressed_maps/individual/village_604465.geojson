@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45167749042248,14.37173418454385],[75.44340765383608,14.33752390512168],[75.45700229557578,14.3331334201828],[75.45167749042248,14.37173418454385]]]},"properties":{"region_id":"village_604465","name":"KODAMAGGI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41652649812872,14.83661996796405],[76.36235428889725,14.83498800393274],[76.35006920860845,14.81215546098264],[76.36387902304908,14.80439319576091],[76.40456189505599,14.79718382550692],[76.41652649812872,14.83661996796405]]]},"properties":{"region_id":"village_605115","name":"CHOWDAPURA","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72481447110741,17.47576120037568],[76.6915692541426,17.4489369008062],[76.7228501632888,17.42646643448356],[76.75852553468857,17.45134573161581],[76.72481447110741,17.47576120037568]]]},"properties":{"region_id":"village_620070","name":"GOLA (B)","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

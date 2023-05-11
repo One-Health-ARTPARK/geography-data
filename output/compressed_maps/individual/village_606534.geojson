@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38595826944324,14.47295381100883],[76.34994341730908,14.47575382378085],[76.35544232678767,14.45184753301502],[76.38595826944324,14.47295381100883]]]},"properties":{"region_id":"village_606534","name":"JAMMAPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

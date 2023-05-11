@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74717046985711,11.87041278379261],[76.73221243783988,11.86940748875015],[76.73060762655246,11.86113547098939],[76.71598524096449,11.85059130236499],[76.74601873506894,11.84714846782181],[76.74717046985711,11.87041278379261]]]},"properties":{"region_id":"village_619518","name":"PADAGUR","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

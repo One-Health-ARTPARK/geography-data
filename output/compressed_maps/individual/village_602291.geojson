@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00484934538711,15.63388900961264],[74.99051251653243,15.6377201955328],[74.99402481521656,15.62353290755277],[75.00484934538711,15.63388900961264]]]},"properties":{"region_id":"village_602291","name":"SAIBANKOPPA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

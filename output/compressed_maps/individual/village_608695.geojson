@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70202222805341,13.6637704731512],[74.69490490804951,13.69101626060429],[74.67416958558694,13.67043815554452],[74.70202222805341,13.6637704731512]]]},"properties":{"region_id":"village_608695","name":"HEMMADI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

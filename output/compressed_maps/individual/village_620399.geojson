@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44568212446262,17.39869060842529],[77.42076065824295,17.40841515835541],[77.4247733075818,17.38304489877552],[77.44568212446262,17.39869060842529]]]},"properties":{"region_id":"village_620399","name":"GANGANPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

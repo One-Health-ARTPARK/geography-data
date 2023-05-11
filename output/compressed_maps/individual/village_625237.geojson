@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41984040797628,13.16984525977334],[77.43304012289585,13.18562460010305],[77.42522857895142,13.19792775649168],[77.41984040797628,13.16984525977334]]]},"properties":{"region_id":"village_625237","name":"RAMADEVANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

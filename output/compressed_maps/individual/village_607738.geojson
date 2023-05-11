@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28365060738471,14.37269375596808],[75.25255292037096,14.37129812289237],[75.26228584775767,14.35384682102334],[75.28365060738471,14.37269375596808]]]},"properties":{"region_id":"village_607738","name":"NERALAGI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

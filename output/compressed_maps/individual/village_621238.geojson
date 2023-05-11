@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24714721250022,16.86624041125462],[77.21124213092442,16.85427061596969],[77.21148108473447,16.83371205349072],[77.25795502795818,16.84153901747085],[77.24714721250022,16.86624041125462]]]},"properties":{"region_id":"village_621238","name":"SUTARHOSALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

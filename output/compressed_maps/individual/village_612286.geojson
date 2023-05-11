@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72393545552649,13.20887274925382],[76.70902018790467,13.21568397826366],[76.7072811667272,13.20374480775858],[76.72393545552649,13.20887274925382]]]},"properties":{"region_id":"village_612286","name":"KOPPA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

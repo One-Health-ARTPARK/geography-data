@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31300841648786,15.72532504175312],[76.3116090760121,15.74940537294289],[76.29244763309835,15.7419146218411],[76.29384191223,15.72509117678394],[76.31300841648786,15.72532504175312]]]},"properties":{"region_id":"village_601512","name":"NEERLOTI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

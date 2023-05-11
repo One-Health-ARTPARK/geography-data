@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2746990493964,13.41929742954448],[76.24731429859506,13.41984351259877],[76.23674897075946,13.40499146223099],[76.27000436133736,13.40535318893719],[76.2746990493964,13.41929742954448]]]},"properties":{"region_id":"village_615590","name":"CHIKKAMMANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

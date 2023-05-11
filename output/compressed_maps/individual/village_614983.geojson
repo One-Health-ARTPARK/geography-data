@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79694248466346,12.85638088469139],[75.7809804887527,12.85683982328102],[75.77326138951949,12.84746361351745],[75.78110798054979,12.83473086939057],[75.79384394625272,12.84055694286934],[75.79694248466346,12.85638088469139]]]},"properties":{"region_id":"village_614983","name":"HADLAHALLI","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

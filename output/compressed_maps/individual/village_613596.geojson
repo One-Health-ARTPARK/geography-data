@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38251227912276,12.67706810029717],[76.36555479561892,12.67553127847624],[76.37632239437308,12.66454868612744],[76.38251227912276,12.67706810029717]]]},"properties":{"region_id":"village_613596","name":"MANCHIBEEDU","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

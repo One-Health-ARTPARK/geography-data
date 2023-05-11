@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70391453031617,13.62706231032634],[74.67557611368093,13.62593194280413],[74.6798563071916,13.61244239128629],[74.70807568683077,13.61215617494623],[74.70391453031617,13.62706231032634]]]},"properties":{"region_id":"village_938675","name":"VADERAHOBALI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

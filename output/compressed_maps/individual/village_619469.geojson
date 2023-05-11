@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66311475159517,11.88879775456963],[76.65126658672752,11.88946932039609],[76.65006829937401,11.8728765421649],[76.65835879482516,11.86865763503612],[76.6630343604441,11.87755556234856],[76.66311475159517,11.88879775456963]]]},"properties":{"region_id":"village_619469","name":"GARAGANAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

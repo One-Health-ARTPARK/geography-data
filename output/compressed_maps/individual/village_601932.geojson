@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88880893234848,15.81720076728715],[75.87139662264158,15.8293890838131],[75.86407808075347,15.80557190114024],[75.87994571311917,15.79155220365951],[75.88880893234848,15.81720076728715]]]},"properties":{"region_id":"village_601932","name":"KALLIGANUR","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

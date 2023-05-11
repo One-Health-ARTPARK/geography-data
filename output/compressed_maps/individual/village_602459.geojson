@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98629640499443,15.21052908865109],[74.97711874890419,15.22657311400291],[74.95558654821497,15.22475891998738],[74.96414074032224,15.20799424184137],[74.98629640499443,15.21052908865109]]]},"properties":{"region_id":"village_602459","name":"BEGUR","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

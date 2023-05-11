@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64813915842544,13.14067431284112],[76.63591318628157,13.15648708751296],[76.61795924157434,13.14006698951964],[76.64813915842544,13.14067431284112]]]},"properties":{"region_id":"village_612242","name":"KALKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5046651818932,15.05240819347088],[76.48480876580864,15.06105980223756],[76.47177814933775,15.05681335278288],[76.47931234705706,15.03884982762094],[76.5046651818932,15.05240819347088]]]},"properties":{"region_id":"village_604993","name":"YESWANTHANAGAR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

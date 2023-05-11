@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41225738255001,13.30511962445915],[77.40086068913448,13.3074304386095],[77.39733913891232,13.29458989180093],[77.41076756215733,13.2937437281975],[77.41225738255001,13.30511962445915]]]},"properties":{"region_id":"village_625172","name":"SONNENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

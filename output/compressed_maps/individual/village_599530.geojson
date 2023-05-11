@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08187076705133,16.69522324234647],[76.04865943350549,16.69577228803505],[76.03974214297298,16.66200919056938],[76.05138374456841,16.66441628435441],[76.08187076705133,16.69522324234647]]]},"properties":{"region_id":"village_599530","name":"UTNAL","parent":"subdistrict_5452","parent_name":"BASAVANA BAGEVADI"}}
+]}

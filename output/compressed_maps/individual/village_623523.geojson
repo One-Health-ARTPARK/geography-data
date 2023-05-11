@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76369827785328,13.51630241845261],[77.75048420197021,13.51803230135014],[77.74435981319034,13.5045170319099],[77.7574050661223,13.49890470927119],[77.76369827785328,13.51630241845261]]]},"properties":{"region_id":"village_623523","name":"GUVALAKANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

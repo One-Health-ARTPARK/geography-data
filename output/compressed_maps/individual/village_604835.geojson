@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11734218703423,15.66815000521808],[77.1080531317663,15.63835077824816],[77.12142878123598,15.63094739948877],[77.12833623884734,15.66587485016607],[77.11734218703423,15.66815000521808]]]},"properties":{"region_id":"village_604835","name":"ITTIGIHAL","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

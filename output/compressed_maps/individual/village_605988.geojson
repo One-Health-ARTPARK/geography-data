@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32933215203593,13.60960854108756],[76.31014630751108,13.61619990559899],[76.30455728562352,13.60359326715392],[76.32134630954474,13.59772323634642],[76.32933215203593,13.60960854108756]]]},"properties":{"region_id":"village_605988","name":"SINGENAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

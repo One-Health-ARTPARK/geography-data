@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98282435067789,11.98484106605787],[76.97459303556704,11.97013203607973],[76.98885476771268,11.97071737119395],[76.98282435067789,11.98484106605787]]]},"properties":{"region_id":"village_619752","name":"HOSAHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

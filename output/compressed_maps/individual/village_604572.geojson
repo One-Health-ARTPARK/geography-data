@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57109429464738,14.47729155507414],[75.56555069651226,14.45939714274695],[75.57349810305395,14.45371335886276],[75.58134458493478,14.4685403966407],[75.57109429464738,14.47729155507414]]]},"properties":{"region_id":"village_604572","name":"KOOLI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

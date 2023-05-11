@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64912440149165,16.6374831731891],[76.62817848060425,16.61283803503915],[76.65055148908795,16.58538536394041],[76.68862798810937,16.57896380967057],[76.68159162528336,16.63037784288073],[76.64912440149165,16.6374831731891]]]},"properties":{"region_id":"village_620911","name":"MALGATTI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

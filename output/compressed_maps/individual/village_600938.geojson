@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82055111777754,16.16648765228481],[76.78883073210704,16.14410255748422],[76.82083177288516,16.12604036781904],[76.82055111777754,16.16648765228481]]]},"properties":{"region_id":"village_600938","name":"HUSSAINPUR","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

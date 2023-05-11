@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36638924395454,16.11073758622401],[77.35951575613731,16.10745767423873],[77.35928949292928,16.10018469402001],[77.36633625706888,16.10272335648067],[77.36638924395454,16.11073758622401]]]},"properties":{"region_id":"village_600832","name":"KAMLAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

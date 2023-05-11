@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55477395613822,17.41711123337488],[76.51669387945367,17.4328977922431],[76.52814016964767,17.39929380007566],[76.55477395613822,17.41711123337488]]]},"properties":{"region_id":"village_620079","name":"JAWALI.D","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

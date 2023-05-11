@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79626161228592,12.87693345692837],[77.7784612386733,12.87517287020242],[77.78265373686605,12.84500459001802],[77.79679715978627,12.84496274941881],[77.80031484759812,12.85334635663668],[77.79626161228592,12.87693345692837]]]},"properties":{"region_id":"village_613358","name":"SARJAPURA (CT)","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

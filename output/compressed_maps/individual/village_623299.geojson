@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63253218808079,13.69660081471227],[77.62193382206486,13.70063337785786],[77.61607591888286,13.68881336365316],[77.63064566836586,13.68631499361179],[77.63253218808079,13.69660081471227]]]},"properties":{"region_id":"village_623299","name":"BODABANDAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

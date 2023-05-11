@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61029248754438,16.16947214841887],[76.60524863165958,16.18091968417554],[76.59311417114864,16.18088857077908],[76.59604633745357,16.17005281999953],[76.61029248754438,16.16947214841887]]]},"properties":{"region_id":"village_600470","name":"GUDADANHAL","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

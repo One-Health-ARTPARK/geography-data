@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08533646152257,16.85284363251238],[76.09480053442464,16.86484444034408],[76.0766168754392,16.87341273552234],[76.07062492351722,16.85982672132932],[76.08533646152257,16.85284363251238]]]},"properties":{"region_id":"village_599400","name":"INGALGI","parent":"subdistrict_7071","parent_name":"DEVARA HIPPARAGI"}}
+]}

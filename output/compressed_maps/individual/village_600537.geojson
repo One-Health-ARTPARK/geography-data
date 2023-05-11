@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7219988346034,16.36809663854438],[76.6810920753567,16.3774753522546],[76.69238141723672,16.34203465152114],[76.7219988346034,16.36809663854438]]]},"properties":{"region_id":"village_600537","name":"BUNKALDODDI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

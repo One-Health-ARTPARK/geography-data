@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43867198799659,15.5103916529779],[76.42821475694028,15.54013009169075],[76.40404436764202,15.51430785530913],[76.43867198799659,15.5103916529779]]]},"properties":{"region_id":"village_601592","name":"BANKAPUR","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

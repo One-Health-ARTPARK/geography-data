@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18170605790232,14.43106278322809],[76.16426514350596,14.44584477118533],[76.13606969317486,14.42697215455944],[76.142395679977,14.4130737066035],[76.18170605790232,14.43106278322809]]]},"properties":{"region_id":"village_605423","name":"BAHADURGHATTA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

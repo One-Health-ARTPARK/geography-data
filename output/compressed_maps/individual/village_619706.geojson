@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78414582373176,11.90132805898338],[76.7599017891898,11.90151033641451],[76.75858498099213,11.87795171301512],[76.77914110682644,11.87305551038672],[76.78414582373176,11.90132805898338]]]},"properties":{"region_id":"village_619706","name":"KENGAKI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

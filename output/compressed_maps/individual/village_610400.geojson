@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76462628725866,13.78226775800034],[76.73274443069418,13.784183101497],[76.73699352226953,13.74697505804231],[76.76267068263458,13.74930174189967],[76.76462628725866,13.78226775800034]]]},"properties":{"region_id":"village_610400","name":"GANADAHUNASE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

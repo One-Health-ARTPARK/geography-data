@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50162090863344,12.11495199343708],[76.50593013410503,12.1319172585607],[76.49167133005511,12.12806177139163],[76.50162090863344,12.11495199343708]]]},"properties":{"region_id":"village_618959","name":"PURA","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

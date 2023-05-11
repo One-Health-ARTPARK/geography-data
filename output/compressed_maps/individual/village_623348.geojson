@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53211259535614,13.54799829125119],[77.51760059949038,13.57359176655638],[77.5094808445417,13.56789147898128],[77.51763642422635,13.53760980088295],[77.52776737941879,13.53872185795837],[77.53211259535614,13.54799829125119]]]},"properties":{"region_id":"village_623348","name":"ALAKAPURA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

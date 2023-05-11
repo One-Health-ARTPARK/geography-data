@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71370308254113,15.74216859929811],[76.67799917420548,15.73739023063535],[76.6808587913756,15.71406645118309],[76.71467619148343,15.71966676916754],[76.71370308254113,15.74216859929811]]]},"properties":{"region_id":"village_601213","name":"HATTI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

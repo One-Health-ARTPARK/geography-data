@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.29900847434165,16.46234223034999],[74.29661843680233,16.49717887545978],[74.28821832136083,16.47660583389045],[74.29020274064152,16.46198020805397],[74.29900847434165,16.46234223034999]]]},"properties":{"region_id":"village_597117","name":"BHATNAGANUR","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

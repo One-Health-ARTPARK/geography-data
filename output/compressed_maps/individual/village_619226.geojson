@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80674796408432,12.13786113706322],[76.78295667576914,12.13464938133519],[76.79157491184294,12.11034913041997],[76.81774202416798,12.11327630014091],[76.80674796408432,12.13786113706322]]]},"properties":{"region_id":"village_619226","name":"KIRUGUNDA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

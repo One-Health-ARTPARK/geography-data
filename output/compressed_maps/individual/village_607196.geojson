@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04610558303759,14.17201462288694],[75.05196898043617,14.18342018723168],[75.04499798591928,14.18840698266928],[75.03808672480876,14.17859944777067],[75.04610558303759,14.17201462288694]]]},"properties":{"region_id":"village_607196","name":"MANKODU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43057122830544,17.2578560666111],[77.45400556260915,17.28852594845587],[77.4147832130003,17.28816373366626],[77.43057122830544,17.2578560666111]]]},"properties":{"region_id":"village_620470","name":"JETTUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18348045293713,12.37026977903186],[76.19629030317333,12.37621490355049],[76.17996893959912,12.39707103884044],[76.17308275668236,12.37129758027238],[76.18348045293713,12.37026977903186]]]},"properties":{"region_id":"village_618205","name":"KALKERE","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

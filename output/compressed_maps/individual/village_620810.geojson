@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64283640018384,16.93205744909455],[76.60557727554486,16.93836802439154],[76.60621933584812,16.91651810722907],[76.64283640018384,16.93205744909455]]]},"properties":{"region_id":"village_620810","name":"GOBBERWADGI","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

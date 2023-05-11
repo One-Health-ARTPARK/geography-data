@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73689106088432,12.40416277638285],[75.73212962041337,12.41265912841868],[75.69013959251656,12.44098821975168],[75.68537663499477,12.43058760830147],[75.72295079333536,12.39087489954394],[75.73689106088432,12.40416277638285]]]},"properties":{"region_id":"village_617812","name":"KATAKERI (RURAL)","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02864364661367,13.80496889233049],[76.01922473777314,13.80765226891124],[76.00609447582988,13.82636541313988],[76.00680156482491,13.80390114188467],[76.02864364661367,13.80496889233049]]]},"properties":{"region_id":"village_609248","name":"HARIYANAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

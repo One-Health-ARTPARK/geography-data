@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16017096682488,14.91025831547835],[75.14097293547664,14.91144850808903],[75.13851034542517,14.89342514442093],[75.15281128082341,14.8916135185368],[75.16017096682488,14.91025831547835]]]},"properties":{"region_id":"village_603955","name":"HANAKANAHALLI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

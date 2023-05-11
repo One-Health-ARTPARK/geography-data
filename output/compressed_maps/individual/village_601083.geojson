@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54077106272521,15.85798248047062],[76.50212685487017,15.86590356657867],[76.51856407201657,15.83812804697359],[76.54077106272521,15.85798248047062]]]},"properties":{"region_id":"village_601083","name":"HOKARANI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

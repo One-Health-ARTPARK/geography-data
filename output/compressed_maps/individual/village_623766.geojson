@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75308211252586,13.66963041473348],[77.74357396203564,13.6713195430973],[77.74269072864801,13.66569455360989],[77.74956109645436,13.66516464238816],[77.75308211252586,13.66963041473348]]]},"properties":{"region_id":"village_623766","name":"IRAGAREDDIHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06477562709948,12.89804181292553],[75.04807167009352,12.8981602764999],[75.0477918511752,12.86756244639011],[75.06945249099275,12.87042905793731],[75.06477562709948,12.89804181292553]]]},"properties":{"region_id":"village_617602","name":"NARIKOMBU (CT)","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95649339895968,12.35265754847294],[76.9407057003091,12.35470223426308],[76.9396843974551,12.34353271467743],[76.92899266691848,12.33326249263984],[76.95986169487361,12.32859749508482],[76.95649339895968,12.35265754847294]]]},"properties":{"region_id":"village_614684","name":"KALKUNI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

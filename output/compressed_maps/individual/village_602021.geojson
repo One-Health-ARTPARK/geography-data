@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57669977128324,15.3984119107861],[75.56405025920064,15.44294397018851],[75.5200051577468,15.44034670379082],[75.52214830276853,15.40857283596739],[75.57669977128324,15.3984119107861]]]},"properties":{"region_id":"village_602021","name":"HULKOTI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

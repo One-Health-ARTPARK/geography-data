@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00655384700717,13.52457920675102],[75.99212270153262,13.52425809625797],[75.98576975709157,13.48993368451627],[75.99374690795305,13.48793927382844],[76.00228077177385,13.50277268509518],[76.00655384700717,13.52457920675102]]]},"properties":{"region_id":"village_609527","name":"PATTANAGERE","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

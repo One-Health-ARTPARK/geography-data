@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98757314302446,15.79878637313923],[74.9732659383118,15.79499510452807],[74.97560375802713,15.78590752242168],[74.98297287674168,15.73104213101775],[74.99124243539423,15.73148711879916],[74.98757314302446,15.79878637313923]]]},"properties":{"region_id":"village_598220","name":"SUTAGATTI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

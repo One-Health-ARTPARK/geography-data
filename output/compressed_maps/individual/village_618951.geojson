@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39719448667061,12.11597215044428],[76.37795392788544,12.12432170855006],[76.39181317338226,12.09897387746042],[76.39719448667061,12.11597215044428]]]},"properties":{"region_id":"village_618951","name":"MADAPURA","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

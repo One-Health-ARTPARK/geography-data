@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00212837627747,17.04019111408816],[76.99087572170825,17.04647289753025],[76.95513645141939,17.03406818736008],[76.99263244982703,17.02429070557269],[77.00212837627747,17.04019111408816]]]},"properties":{"region_id":"village_938556","name":"BASAVESHWARANAGAR","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

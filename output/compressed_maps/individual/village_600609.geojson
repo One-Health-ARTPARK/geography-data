@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95712716166928,16.45683320007419],[76.92856468328225,16.46003663247109],[76.93635171702066,16.42954276752601],[76.95456513558756,16.43549684211382],[76.95712716166928,16.45683320007419]]]},"properties":{"region_id":"village_600609","name":"NAGARGUND","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

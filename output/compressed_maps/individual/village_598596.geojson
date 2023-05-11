@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35267492429541,16.2358350269265],[75.30699154074586,16.21931721358383],[75.28525748258117,16.20282036868441],[75.3088805305355,16.19140812949887],[75.31315831293205,16.20657648081302],[75.35267492429541,16.2358350269265]]]},"properties":{"region_id":"village_598596","name":"MUDDAPUR","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

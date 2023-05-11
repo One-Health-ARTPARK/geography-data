@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42361150705989,14.44930689801479],[76.36739476735225,14.44983013118069],[76.37478392384071,14.42718824178098],[76.39564282324234,14.43624888233726],[76.42404590405282,14.43811414000319],[76.42361150705989,14.44930689801479]]]},"properties":{"region_id":"village_606540","name":"KALLEDEVARAPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

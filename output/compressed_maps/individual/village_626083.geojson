@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27583657629215,12.74810929516467],[77.27049057106429,12.7315689668468],[77.28184067983565,12.73012258917031],[77.28446213733248,12.74161153132732],[77.27583657629215,12.74810929516467]]]},"properties":{"region_id":"village_626083","name":"JEEGANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

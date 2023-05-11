@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41504704744474,14.87796397475893],[75.40181930736357,14.87049024408165],[75.39833339827427,14.85148278689912],[75.42001625885271,14.85386740258203],[75.41504704744474,14.87796397475893]]]},"properties":{"region_id":"village_604217","name":"KOLUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

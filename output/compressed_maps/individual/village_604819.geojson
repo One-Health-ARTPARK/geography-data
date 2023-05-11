@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01984901528247,15.76648189985364],[77.01761470717967,15.752864505075],[77.04787618994433,15.74038562129258],[77.04781661920993,15.75623834871092],[77.01984901528247,15.76648189985364]]]},"properties":{"region_id":"village_604819","name":"BASARAHALLI","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

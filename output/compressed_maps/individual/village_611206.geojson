@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2504002910996,13.40431215649104],[77.24060685531373,13.3984676369729],[77.24756974912248,13.39056244227063],[77.25797978305043,13.39531241630703],[77.2504002910996,13.40431215649104]]]},"properties":{"region_id":"village_611206","name":"BYCHENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

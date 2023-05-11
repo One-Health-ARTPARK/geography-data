@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91911776573407,15.6083042796378],[76.87792669239998,15.62164912099893],[76.88148397253819,15.60164993496035],[76.91747552218987,15.5970615064117],[76.91911776573407,15.6083042796378]]]},"properties":{"region_id":"village_604773","name":"DEVALAPURA","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

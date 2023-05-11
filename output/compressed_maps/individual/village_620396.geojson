@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44764267548057,17.43824000487416],[77.420439102444,17.43289094437462],[77.42500824486268,17.40797717404541],[77.4538518098571,17.41873021223446],[77.44764267548057,17.43824000487416]]]},"properties":{"region_id":"village_620396","name":"POLAKPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

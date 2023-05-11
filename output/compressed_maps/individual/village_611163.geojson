@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27172527598559,13.46030114795396],[77.26358803659757,13.45987774491751],[77.25980019489882,13.4430037011827],[77.27521449239562,13.44853752233703],[77.27172527598559,13.46030114795396]]]},"properties":{"region_id":"village_611163","name":"MARAGONAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

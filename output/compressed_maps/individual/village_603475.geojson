@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50598042802105,14.49328211820944],[74.51152977788949,14.48065971637854],[74.52633984296072,14.49314964303665],[74.50598042802105,14.49328211820944]]]},"properties":{"region_id":"village_603475","name":"ANEGUNDI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

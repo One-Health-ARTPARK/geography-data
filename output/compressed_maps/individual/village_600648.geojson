@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11004756415657,16.40190994690018],[77.08454261384463,16.41753628935088],[77.06707583305557,16.41295337678543],[77.06793912576043,16.35496854620614],[77.10807680991272,16.38654931035626],[77.11004756415657,16.40190994690018]]]},"properties":{"region_id":"village_600648","name":"HIREBUDUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

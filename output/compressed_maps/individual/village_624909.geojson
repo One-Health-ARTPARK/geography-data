@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33567762271213,13.11306812660099],[77.32087478280648,13.11528341814597],[77.31272575044738,13.10084161777223],[77.33582054522117,13.09542371776743],[77.33567762271213,13.11306812660099]]]},"properties":{"region_id":"village_624909","name":"BYRASANDRA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

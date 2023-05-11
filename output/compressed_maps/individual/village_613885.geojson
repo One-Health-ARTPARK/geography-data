@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77603217236091,12.85524016565676],[76.76649361152825,12.86211324330553],[76.76536988175512,12.84779316501783],[76.75935963698335,12.84443120174331],[76.76627601222766,12.83354442168666],[76.77603217236091,12.85524016565676]]]},"properties":{"region_id":"village_613885","name":"UPPARAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04383332320407,14.86987310026404],[76.03360160106293,14.89435337433824],[75.99351048335465,14.88625431685505],[76.03439853965027,14.8551848286197],[76.04383332320407,14.86987310026404]]]},"properties":{"region_id":"village_606311","name":"KANVIHALLI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01068568017493,17.34606003804582],[77.00128454239584,17.31831119212041],[77.02446203816406,17.30683051134819],[77.02411298130912,17.32843168294633],[77.01068568017493,17.34606003804582]]]},"properties":{"region_id":"village_620256","name":"BOLEWAD","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

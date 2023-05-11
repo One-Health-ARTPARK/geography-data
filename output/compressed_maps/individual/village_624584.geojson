@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.05960058982053,13.42713112573702],[78.05358882988742,13.43579630774133],[78.05061733982743,13.42027850312237],[78.05834485957747,13.41962629968125],[78.05960058982053,13.42713112573702]]]},"properties":{"region_id":"village_624584","name":"MUNTHAKADIRENAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

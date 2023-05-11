@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61581178326004,13.4833019579239],[76.5944953811113,13.48090167604132],[76.6080969018141,13.46523358905397],[76.61581178326004,13.4833019579239]]]},"properties":{"region_id":"village_610160","name":"SALAKATTE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

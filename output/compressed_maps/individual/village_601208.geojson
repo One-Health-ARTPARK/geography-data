@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84033390233375,15.71779976852043],[76.81467459772922,15.72009373436334],[76.80632991090849,15.65272970322998],[76.86424997657988,15.66797113671992],[76.84033390233375,15.71779976852043]]]},"properties":{"region_id":"village_601208","name":"SALGUNDA","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

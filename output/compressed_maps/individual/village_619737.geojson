@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8677296464237,11.78961119525321],[76.8559998474823,11.79178352014695],[76.85465533651607,11.77371059738991],[76.87881138031794,11.77073479548916],[76.8677296464237,11.78961119525321]]]},"properties":{"region_id":"village_619737","name":"ARAKALAVADI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

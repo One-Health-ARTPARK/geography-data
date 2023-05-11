@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65147390475995,17.51269217349659],[76.65721070528447,17.54385148715531],[76.63463389556583,17.54573090641327],[76.63117847293086,17.51197241508245],[76.65147390475995,17.51269217349659]]]},"properties":{"region_id":"village_620034","name":"YELINAWADGI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

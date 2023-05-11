@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51522679848232,15.93939060352932],[75.49494967892785,15.95471778394794],[75.49180490030274,15.93554714068786],[75.51522679848232,15.93939060352932]]]},"properties":{"region_id":"village_598706","name":"KALLAPUR.S.K","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

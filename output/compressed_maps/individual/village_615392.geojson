@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7752926742034,13.06737568263706],[75.76288911763976,13.06869856748834],[75.7648390340817,13.06134248672939],[75.7752926742034,13.06737568263706]]]},"properties":{"region_id":"village_615392","name":"BAKRAVALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

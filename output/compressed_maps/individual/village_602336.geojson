@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35917244243441,15.53797113186057],[75.32689749241544,15.54878936102397],[75.32505915597065,15.52428464605378],[75.35917244243441,15.53797113186057]]]},"properties":{"region_id":"village_602336","name":"KUMARAGOPPA","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27103132810856,14.44421111905448],[75.25858702488436,14.44485276999113],[75.25630094296812,14.43060309938261],[75.26927892193906,14.42973755739171],[75.27103132810856,14.44421111905448]]]},"properties":{"region_id":"village_607700","name":"KANAHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

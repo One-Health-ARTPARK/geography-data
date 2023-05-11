@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.56586159457589,15.63794623417107],[74.54180230233631,15.61182052574502],[74.57537998178871,15.60708708999759],[74.56586159457589,15.63794623417107]]]},"properties":{"region_id":"village_597894","name":"KARALGA","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

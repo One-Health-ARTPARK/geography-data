@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71210235953802,13.27368096481772],[77.71719738669678,13.26699635615867],[77.72663063992204,13.26284982650844],[77.72832856051346,13.26631853010817],[77.72106330886795,13.27294750409181],[77.71210235953802,13.27368096481772]]]},"properties":{"region_id":"village_938720","name":"GUTTAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21774864833996,13.88960400866891],[75.19248974850841,13.86988842917716],[75.20818249414607,13.84445337333686],[75.22511300823773,13.86689758932751],[75.21774864833996,13.88960400866891]]]},"properties":{"region_id":"village_607997","name":"HUMCHA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81689635084498,16.87402537902798],[76.79431099839593,16.86818688057017],[76.79479041965122,16.84980872270438],[76.81361991442229,16.85880536138735],[76.81689635084498,16.87402537902798]]]},"properties":{"region_id":"village_620873","name":"VARCHANHALLI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

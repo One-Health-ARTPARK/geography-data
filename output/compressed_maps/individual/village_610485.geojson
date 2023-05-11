@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99754524679436,13.63508588632682],[76.99649106667844,13.626462063314],[77.01562148416727,13.6196032201402],[77.01642641145759,13.63111979104105],[76.99754524679436,13.63508588632682]]]},"properties":{"region_id":"village_610485","name":"CHANNENAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

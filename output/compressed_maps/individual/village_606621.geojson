@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0320259057346,14.40837595992577],[76.00817788414929,14.40950659117772],[76.0093594828585,14.39462438735819],[76.02618771054095,14.39255944369052],[76.0320259057346,14.40837595992577]]]},"properties":{"region_id":"village_606621","name":"KOGGANUR","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

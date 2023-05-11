@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53000275659534,13.08215070602132],[77.5191844318477,13.07934134807063],[77.51947011712407,13.07186674731754],[77.53083044737987,13.06990650505632],[77.53000275659534,13.08215070602132]]]},"properties":{"region_id":"village_938345","name":"ABBAGERE","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

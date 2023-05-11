@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22976996352287,12.25181604170263],[76.23364595039813,12.23209266565174],[76.24655207039088,12.25102556739594],[76.22976996352287,12.25181604170263]]]},"properties":{"region_id":"village_618373","name":"BEERANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

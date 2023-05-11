@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34796510517391,17.54243709333165],[77.32561347827169,17.56472089128967],[77.31580412704133,17.52791042826461],[77.34796510517391,17.54243709333165]]]},"properties":{"region_id":"village_620333","name":"HASARGUNDGI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

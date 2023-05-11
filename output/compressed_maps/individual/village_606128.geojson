@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79345282416108,13.94927230451143],[76.77258069048452,13.95434310227269],[76.77395186865827,13.92468797806147],[76.79472635900747,13.91946649050081],[76.79345282416108,13.94927230451143]]]},"properties":{"region_id":"village_606128","name":"IKKANUR","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

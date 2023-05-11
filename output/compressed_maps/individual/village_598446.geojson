@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33138544343585,16.45794937087664],[75.29731792111657,16.42469832997062],[75.30490474832433,16.41316934486699],[75.34461514344038,16.4053686978483],[75.33138544343585,16.45794937087664]]]},"properties":{"region_id":"village_598446","name":"MAREGUDDI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

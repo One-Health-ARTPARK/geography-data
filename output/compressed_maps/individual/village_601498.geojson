@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14777387645273,15.75854679361698],[76.15445850089012,15.76814874501232],[76.13449783114109,15.7762899213317],[76.13316172386021,15.76473609384817],[76.14777387645273,15.75854679361698]]]},"properties":{"region_id":"village_601498","name":"GORVARBENCHAMATTI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

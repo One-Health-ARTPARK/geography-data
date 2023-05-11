@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0829160684575,13.43486568060268],[77.07645049455432,13.43113644651311],[77.07553371325585,13.41637893269893],[77.08523992139705,13.41696910476891],[77.0829160684575,13.43486568060268]]]},"properties":{"region_id":"village_611342","name":"HANCHIHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

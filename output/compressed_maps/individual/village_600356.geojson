@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36470292746924,16.08207148350951],[76.34785098752508,16.08531763085973],[76.35351970824921,16.06453023629441],[76.36470292746924,16.08207148350951]]]},"properties":{"region_id":"village_600356","name":"BANDISUNKAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

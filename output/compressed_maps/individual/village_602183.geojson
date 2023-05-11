@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91548815155694,15.17536525924957],[75.89431798692952,15.17797539603563],[75.88992851019866,15.15411580231834],[75.9091095372356,15.13655672869575],[75.91548815155694,15.17536525924957]]]},"properties":{"region_id":"village_602183","name":"NAGARAHALLI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

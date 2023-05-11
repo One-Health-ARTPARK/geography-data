@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75568984039276,13.00747564963124],[75.74032377986795,13.01068947811386],[75.74475016497034,12.9973861785489],[75.75568984039276,13.00747564963124]]]},"properties":{"region_id":"village_615309","name":"C.HOSAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

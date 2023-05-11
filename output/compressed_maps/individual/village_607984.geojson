@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18394963238835,13.93446036545778],[75.17359994297523,13.93738860108719],[75.16018556446323,13.92621393677229],[75.17156989398403,13.91697095687883],[75.18394963238835,13.93446036545778]]]},"properties":{"region_id":"village_607984","name":"YALAGALLU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

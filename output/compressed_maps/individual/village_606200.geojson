@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6285919203648,13.78248869924613],[76.61070857855414,13.78244380791575],[76.61748938735917,13.75740930621877],[76.63584751343403,13.76902293281502],[76.6285919203648,13.78248869924613]]]},"properties":{"region_id":"village_606200","name":"VEERAVVANAGATHIHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

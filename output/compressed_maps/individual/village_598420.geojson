@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05971097922429,16.45584660657299],[75.0337929908507,16.46680705932569],[75.03060586460525,16.43326077424933],[75.06049387737812,16.43653960409194],[75.05971097922429,16.45584660657299]]]},"properties":{"region_id":"village_598420","name":"GOLBHAVI","parent":"subdistrict_7063","parent_name":"RABAKAVI BANAHATTI"}}
+]}

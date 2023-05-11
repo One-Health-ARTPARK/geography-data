@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81298573775857,13.23074135250486],[75.80565196057373,13.21572746536751],[75.82330079486526,13.20917235120924],[75.83170394659005,13.22515806467766],[75.81298573775857,13.23074135250486]]]},"properties":{"region_id":"village_615199","name":"YAMASANDI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

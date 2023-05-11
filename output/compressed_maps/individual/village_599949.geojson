@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39383531939887,18.02935543556606],[77.37170255534804,18.03098311618291],[77.37972143702625,18.01397227638178],[77.39383531939887,18.02935543556606]]]},"properties":{"region_id":"village_599949","name":"NAGOOR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

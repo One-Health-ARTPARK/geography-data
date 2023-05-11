@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6999589579269,13.5244909579069],[74.68417866729658,13.5245326494556],[74.68639101482408,13.50542642393119],[74.70745773161063,13.50632381665775],[74.6999589579269,13.5244909579069]]]},"properties":{"region_id":"village_608760","name":"KOTATHATTU","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

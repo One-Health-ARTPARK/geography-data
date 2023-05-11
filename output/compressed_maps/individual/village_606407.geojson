@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33906381073656,14.64711301154374],[76.34085780293776,14.66652888672384],[76.32310978648223,14.66334096368378],[76.3253466451827,14.64577064552126],[76.33906381073656,14.64711301154374]]]},"properties":{"region_id":"village_606407","name":"THUMBINAKATTE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

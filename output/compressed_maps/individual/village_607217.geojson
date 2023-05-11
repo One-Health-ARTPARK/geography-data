@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11966700304703,14.13362846182821],[75.10082851458661,14.14487621425769],[75.09499119362516,14.12496359925278],[75.11966700304703,14.13362846182821]]]},"properties":{"region_id":"village_607217","name":"ULLURU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

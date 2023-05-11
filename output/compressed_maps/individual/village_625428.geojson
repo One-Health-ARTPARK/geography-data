@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83348513368908,13.24284698510108],[77.81981056514933,13.25161887603812],[77.81425006841654,13.2389261458302],[77.83088368518635,13.23603309882048],[77.83348513368908,13.24284698510108]]]},"properties":{"region_id":"village_625428","name":"IBASAPURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

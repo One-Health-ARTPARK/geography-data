@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49299487428118,18.19676318740796],[77.49629491158962,18.22789491779899],[77.48115277661739,18.22573948988632],[77.47321804808983,18.20468870501687],[77.49299487428118,18.19676318740796]]]},"properties":{"region_id":"village_600084","name":"BARDAPUR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

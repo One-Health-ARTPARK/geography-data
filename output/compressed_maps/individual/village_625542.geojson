@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95579761311544,13.22662373748553],[77.9531933545034,13.23101894960346],[77.94295804660341,13.2346111055248],[77.94175546793409,13.23037639397854],[77.95075204802849,13.22311117429406],[77.95579761311544,13.22662373748553]]]},"properties":{"region_id":"village_625542","name":"AREHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.58031347048792,16.18756643037705],[74.55876151501846,16.18053427946084],[74.562513923979,16.16197789853711],[74.57930641262563,16.16143290838066],[74.58031347048792,16.18756643037705]]]},"properties":{"region_id":"village_597612","name":"BADKUNDRI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

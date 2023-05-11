@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46075030813796,13.75357880548447],[76.43814094489625,13.77896041431689],[76.42857549250117,13.7466646476005],[76.46075030813796,13.75357880548447]]]},"properties":{"region_id":"village_606026","name":"KAPPANAIKANAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

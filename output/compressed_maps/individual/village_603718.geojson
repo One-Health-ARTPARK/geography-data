@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9042072203597,14.33258048560137],[74.89528408662866,14.31028470982099],[74.90938869139025,14.29627393584717],[74.92602209416009,14.32406960583234],[74.9042072203597,14.33258048560137]]]},"properties":{"region_id":"village_603718","name":"MUGDUR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

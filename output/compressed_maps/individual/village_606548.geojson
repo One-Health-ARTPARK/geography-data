@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89113230994556,14.54200423767077],[75.86001029576117,14.54503794638931],[75.85557308915985,14.52447846197854],[75.89479453029851,14.52085067943011],[75.89113230994556,14.54200423767077]]]},"properties":{"region_id":"village_606548","name":"KAKKARAGOLLA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

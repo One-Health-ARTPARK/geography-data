@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02854055000337,13.89939577234234],[76.01719953990782,13.89823726477245],[76.0060123514347,13.86688294179105],[76.02991502757276,13.86746457700784],[76.03469640656155,13.89752402742604],[76.02854055000337,13.89939577234234]]]},"properties":{"region_id":"village_607128","name":"GONDHIHOSALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

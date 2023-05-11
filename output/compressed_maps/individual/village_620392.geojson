@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38827622782892,17.50467607302169],[77.37372982022993,17.50199889304706],[77.36462710337234,17.45644706823385],[77.39204303646879,17.47489174477204],[77.38827622782892,17.50467607302169]]]},"properties":{"region_id":"village_620392","name":"GOUDANHALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

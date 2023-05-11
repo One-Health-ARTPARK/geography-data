@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90600188711392,16.40835755913537],[74.86780563346267,16.42232419315229],[74.8761205339904,16.3715304064783],[74.915447366904,16.37854363323606],[74.90600188711392,16.40835755913537]]]},"properties":{"region_id":"village_597405","name":"SAVASUDDI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

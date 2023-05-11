@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96025334725715,12.97307064246032],[77.95421356832168,12.97632604149439],[77.94927799440832,12.96874994513099],[77.95902805934726,12.96734871110064],[77.96025334725715,12.97307064246032]]]},"properties":{"region_id":"village_622203","name":"YARAPASETTIHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

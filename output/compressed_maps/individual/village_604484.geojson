@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66438762438135,14.72136980370083],[75.6256320031307,14.72616022348281],[75.61954323594082,14.710848404733],[75.65134727993951,14.69987449545787],[75.66438762438135,14.72136980370083]]]},"properties":{"region_id":"village_604484","name":"GUDAGUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

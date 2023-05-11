@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23389618280505,16.55380849209438],[76.21328737406895,16.57979110355186],[76.19945541315744,16.53128612868085],[76.24417996517197,16.53496784465224],[76.23389618280505,16.55380849209438]]]},"properties":{"region_id":"village_599685","name":"CHOKAVI","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

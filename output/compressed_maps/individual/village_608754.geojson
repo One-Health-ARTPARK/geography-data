@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98435703080114,13.57989670990002],[74.95211597983388,13.57407758508566],[74.95376815467922,13.53816363156508],[74.98897332182356,13.53350752937982],[74.98435703080114,13.57989670990002]]]},"properties":{"region_id":"village_608754","name":"SHEDIMANE","parent":"subdistrict_7065","parent_name":"HEBRI"}}
+]}

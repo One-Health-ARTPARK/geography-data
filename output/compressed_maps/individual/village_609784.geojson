@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92543069547335,13.33237134678242],[75.91307154699794,13.33987036819892],[75.87671348702064,13.30885768397031],[75.89869914239033,13.30249064226529],[75.92543069547335,13.33237134678242]]]},"properties":{"region_id":"village_609784","name":"KANIVEHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

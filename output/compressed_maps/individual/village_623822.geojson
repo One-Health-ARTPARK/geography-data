@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85683408290993,13.79446083755902],[77.83768245111392,13.79741720248659],[77.83732422481545,13.78570050773363],[77.85140243806427,13.78278979556379],[77.85683408290993,13.79446083755902]]]},"properties":{"region_id":"village_623822","name":"SADLAVARIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

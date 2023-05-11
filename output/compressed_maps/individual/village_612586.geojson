@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04024012404187,13.04059921255758],[77.0183995884273,13.0249334820995],[77.04288138780394,13.01588639575274],[77.03850437649051,13.03212097811116],[77.04024012404187,13.04059921255758]]]},"properties":{"region_id":"village_612586","name":"KUNIGAL (RURAL)","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

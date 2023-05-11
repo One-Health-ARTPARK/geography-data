@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73101722177007,14.29501265994733],[75.70731173984804,14.28316873131048],[75.71927957419169,14.27210855322074],[75.73633997847669,14.27692955671749],[75.73101722177007,14.29501265994733]]]},"properties":{"region_id":"village_606792","name":"THARAGANAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

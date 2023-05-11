@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37958305856478,12.99460555143381],[77.38032958037948,13.01134173556876],[77.37034284473204,13.01148227682585],[77.37201746473163,12.99217173007026],[77.37958305856478,12.99460555143381]]]},"properties":{"region_id":"village_612799","name":"NAGASANDRA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

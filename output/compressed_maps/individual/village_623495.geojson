@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76596136039281,13.54469667434593],[77.75450574288452,13.56254066849524],[77.74246450237199,13.54065148972787],[77.76596136039281,13.54469667434593]]]},"properties":{"region_id":"village_623495","name":"SETTIGERE","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

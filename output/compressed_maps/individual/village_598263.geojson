@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1792521476359,15.88697104999819],[75.15959084958652,15.88684695949952],[75.1709510127606,15.84846697252746],[75.18113908838912,15.85219398824766],[75.1792521476359,15.88697104999819]]]},"properties":{"region_id":"village_598263","name":"BHANDARA HALLI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

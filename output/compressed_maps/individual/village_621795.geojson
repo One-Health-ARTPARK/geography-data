@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98264306961067,13.17240814669679],[77.96610198902314,13.17686509187279],[77.96085572113361,13.15983918700543],[77.98111223364567,13.16616297795472],[77.98264306961067,13.17240814669679]]]},"properties":{"region_id":"village_621795","name":"BELAMARNAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

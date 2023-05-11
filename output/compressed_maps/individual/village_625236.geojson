@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44209873559059,13.20657590033496],[77.42960453390614,13.19893605148794],[77.44445014292216,13.19106369796991],[77.44209873559059,13.20657590033496]]]},"properties":{"region_id":"village_625236","name":"MARASANDRA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

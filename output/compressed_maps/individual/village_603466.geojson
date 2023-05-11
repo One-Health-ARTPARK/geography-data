@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.48202829626884,14.48285664989677],[74.44800930760482,14.48356021420848],[74.43855529923859,14.47293953864285],[74.46379942983806,14.45357866823612],[74.48202829626884,14.48285664989677]]]},"properties":{"region_id":"village_603466","name":"ANTRAVALLI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

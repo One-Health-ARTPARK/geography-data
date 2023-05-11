@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15374298598904,16.47992693685858],[76.13056619932331,16.45167188406624],[76.14324094161553,16.44911023449412],[76.15374298598904,16.47992693685858]]]},"properties":{"region_id":"village_599587","name":"CHONDI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

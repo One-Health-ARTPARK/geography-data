@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6110750165466,14.06293323286986],[76.6253585279005,14.06801288392657],[76.62264530815705,14.0800577021587],[76.60715119285842,14.07862845014219],[76.6110750165466,14.06293323286986]]]},"properties":{"region_id":"village_606073","name":"GOLAGONDANAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

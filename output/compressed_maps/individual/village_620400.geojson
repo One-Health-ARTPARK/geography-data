@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49670916793384,17.39623469753109],[77.44775758210262,17.4010551448858],[77.44735611563823,17.37438817972035],[77.47927845073447,17.37046254165273],[77.49670916793384,17.39623469753109]]]},"properties":{"region_id":"village_620400","name":"KALLUR ROAD","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

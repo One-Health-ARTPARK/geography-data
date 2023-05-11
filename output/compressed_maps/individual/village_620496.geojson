@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17129193705502,17.15701887684378],[77.16805659402213,17.12571338598017],[77.19244454069958,17.12345116884229],[77.18907494374115,17.15134953896123],[77.17129193705502,17.15701887684378]]]},"properties":{"region_id":"village_620496","name":"NRUPATHANGA","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

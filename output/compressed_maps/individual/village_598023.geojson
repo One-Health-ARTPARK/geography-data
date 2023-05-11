@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74400546032838,15.89485700295772],[74.7411777901315,15.91692838049375],[74.71696569518711,15.96500830128707],[74.68421067869998,15.93445498398107],[74.68887597736261,15.90142166523733],[74.74400546032838,15.89485700295772]]]},"properties":{"region_id":"village_598023","name":"DESHANUR","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

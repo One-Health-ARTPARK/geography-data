@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49592812903731,12.74170568600346],[75.45347878380962,12.73096250590904],[75.47955181633999,12.70036029836912],[75.49592812903731,12.74170568600346]]]},"properties":{"region_id":"village_617728","name":"KODIMBALA","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07683422225631,15.03739239087517],[75.08166646182384,15.0743797154865],[75.04128968337594,15.05975767190642],[75.04203444612888,15.03472225766677],[75.07683422225631,15.03739239087517]]]},"properties":{"region_id":"village_603016","name":"WADAGATTA","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

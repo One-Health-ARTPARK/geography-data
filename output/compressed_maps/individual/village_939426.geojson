@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58491300435566,12.96361894991758],[77.57849556899178,12.96447486433249],[77.57832074582268,12.95609310760075],[77.58615235403127,12.95689378707736],[77.58491300435566,12.96361894991758]]]},"properties":{"region_id":"village_939426","name":"DODDABYLAKANE","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

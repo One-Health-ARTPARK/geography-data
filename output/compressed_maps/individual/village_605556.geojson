@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31406338392831,14.22034587715876],[76.30293415796773,14.23219543619868],[76.29257898361864,14.21059842829248],[76.31415950989664,14.2038945804513],[76.31406338392831,14.22034587715876]]]},"properties":{"region_id":"village_605556","name":"HALIYUR","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

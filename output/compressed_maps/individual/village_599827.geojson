@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84437819310416,17.70570741212391],[76.82899124510388,17.70930630906122],[76.82512497892041,17.68853139677861],[76.84645761960874,17.6946140722287],[76.84437819310416,17.70570741212391]]]},"properties":{"region_id":"village_599827","name":"SARJAWALGA","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

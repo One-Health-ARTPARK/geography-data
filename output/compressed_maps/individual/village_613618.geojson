@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39499382128709,12.57706506602952],[76.39837794180475,12.56669382561132],[76.41701680189804,12.5552283904029],[76.42121927195024,12.56517518095676],[76.39499382128709,12.57706506602952]]]},"properties":{"region_id":"village_613618","name":"ALAMBADI KAVAL","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

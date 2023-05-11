@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.30655793079755,16.50403892024595],[74.29113608185548,16.53390056901461],[74.27807867793105,16.50459074053185],[74.30655793079755,16.50403892024595]]]},"properties":{"region_id":"village_597116","name":"MATTIWADE","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07241533195818,12.74901663905901],[76.0569486737186,12.74850181009312],[76.05597942029165,12.72823479351361],[76.07332872463942,12.7387378848446],[76.07241533195818,12.74901663905901]]]},"properties":{"region_id":"village_616590","name":"MALALIKERE","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

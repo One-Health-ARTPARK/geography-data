@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8987333061661,12.68145293583845],[75.89914091939596,12.68832480745361],[75.89218168964125,12.68723020639758],[75.8987333061661,12.68145293583845]]]},"properties":{"region_id":"village_923969","name":"KURUDUVALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

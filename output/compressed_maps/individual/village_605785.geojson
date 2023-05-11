@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26404540256087,13.99563370745085],[76.2532263216905,14.0158262569417],[76.22306360407768,14.01221430260979],[76.22858467841426,13.98668456925056],[76.26404540256087,13.99563370745085]]]},"properties":{"region_id":"village_605785","name":"MALANINGANAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

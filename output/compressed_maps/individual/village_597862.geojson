@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.53006677419529,15.65966366728648],[74.51486753919434,15.66526337656853],[74.513237110076,15.65493670216244],[74.52185551604909,15.6532708073677],[74.53006677419529,15.65966366728648]]]},"properties":{"region_id":"village_597862","name":"DUKKARWADI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

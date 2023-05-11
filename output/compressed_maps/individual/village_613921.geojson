@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84564455311116,12.86327521093867],[76.847030362692,12.87035550990596],[76.83838238082434,12.8691167064296],[76.8362579677807,12.86425433918464],[76.84564455311116,12.86327521093867]]]},"properties":{"region_id":"village_613921","name":"HIDUVAKAVAL","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

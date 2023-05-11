@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75249922924569,13.31438014002279],[76.74264758449995,13.29325472925356],[76.76154544379196,13.29582484133591],[76.75249922924569,13.31438014002279]]]},"properties":{"region_id":"village_611790","name":"NERALEKERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

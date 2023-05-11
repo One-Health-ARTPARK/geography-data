@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92796756885402,12.47507524888511],[75.92807828133722,12.46253412339319],[75.94456154627743,12.45851252423762],[75.9475111497472,12.46589573374806],[75.92796756885402,12.47507524888511]]]},"properties":{"region_id":"village_924004","name":"GONDIBASAVANAHALLI","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

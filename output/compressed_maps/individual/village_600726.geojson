@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22580418747577,16.35345510260245],[77.19870923709594,16.35457193301652],[77.20833150812362,16.33344042563248],[77.22580418747577,16.35345510260245]]]},"properties":{"region_id":"village_600726","name":"TIMMAPUR. G","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

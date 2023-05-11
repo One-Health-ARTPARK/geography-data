@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71029285892418,17.4756277404023],[76.68434208423496,17.48651839087136],[76.68619740066781,17.46634668012171],[76.71029285892418,17.4756277404023]]]},"properties":{"region_id":"village_620069","name":"TELLUR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

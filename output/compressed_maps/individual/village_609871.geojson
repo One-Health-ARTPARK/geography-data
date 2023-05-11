@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84481062667086,13.27666548847543],[75.8321699497929,13.27715943882736],[75.83002489482283,13.25854064380751],[75.85167182664357,13.25855046045394],[75.84481062667086,13.27666548847543]]]},"properties":{"region_id":"village_609871","name":"MAGADI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

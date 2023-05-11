@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11128903740817,17.79597424812971],[77.10215935535574,17.76836755348945],[77.11566426298249,17.76862999561862],[77.11128903740817,17.79597424812971]]]},"properties":{"region_id":"village_600293","name":"MANIKNAGAR","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

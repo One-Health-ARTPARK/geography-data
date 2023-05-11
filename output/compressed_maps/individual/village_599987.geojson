@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24523982182038,18.34783779296126],[77.19875569531457,18.31455236936353],[77.24896840239248,18.29610719009229],[77.24523982182038,18.34783779296126]]]},"properties":{"region_id":"village_599987","name":"MURKI","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90208872673429,15.85367155647503],[76.86687915576569,15.86058485802634],[76.86499697057272,15.82114177968171],[76.89100546102605,15.81099512777851],[76.90208872673429,15.85367155647503]]]},"properties":{"region_id":"village_601164","name":"TIMMAPUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

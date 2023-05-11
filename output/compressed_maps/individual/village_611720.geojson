@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94693330584325,13.39334809618337],[76.91144672217531,13.39268242166107],[76.92418195761663,13.37313945334866],[76.94693330584325,13.39334809618337]]]},"properties":{"region_id":"village_611720","name":"GOWRIPURA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

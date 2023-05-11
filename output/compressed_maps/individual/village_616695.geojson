@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00508014768884,12.64771017418185],[75.98848469484004,12.64668458803848],[75.99339806165847,12.63320449011524],[76.00337980060914,12.63331230824264],[76.00508014768884,12.64771017418185]]]},"properties":{"region_id":"village_616695","name":"HANDRANGI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99393440318153,13.17830122754313],[77.9834283990637,13.16443068008866],[78.00044833285037,13.15540700295002],[77.99393440318153,13.17830122754313]]]},"properties":{"region_id":"village_621811","name":"DODDAVALLABI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

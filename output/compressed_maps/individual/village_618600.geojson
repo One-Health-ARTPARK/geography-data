@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17017097989023,12.55144377690805],[76.1439121081627,12.54507591710839],[76.15025224337086,12.53221238858051],[76.17475861551955,12.53297387886831],[76.17017097989023,12.55144377690805]]]},"properties":{"region_id":"village_618600","name":"HANASOGE","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52376921147113,13.09294198247265],[77.5155448337295,13.09367763971396],[77.51040266579568,13.08539547696096],[77.52362974704133,13.08246885106944],[77.52376921147113,13.09294198247265]]]},"properties":{"region_id":"village_612819","name":"SOMASHETTI HALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18675046971725,13.72564505488461],[76.17161803100362,13.71972944636518],[76.18755348738368,13.71472969418661],[76.18675046971725,13.72564505488461]]]},"properties":{"region_id":"village_605895","name":"VEERAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

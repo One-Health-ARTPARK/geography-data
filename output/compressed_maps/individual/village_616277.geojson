@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92740256722412,12.85527252570469],[75.92144761058941,12.86841310979959],[75.91194876143432,12.85874430210523],[75.92740256722412,12.85527252570469]]]},"properties":{"region_id":"village_616277","name":"KARAGODU","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

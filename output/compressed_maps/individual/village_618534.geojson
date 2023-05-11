@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25072982668286,12.54655832401951],[76.23706467733243,12.54580479671537],[76.22482646458124,12.52262794409235],[76.24873724738437,12.52237916872753],[76.25741795905584,12.52779989514739],[76.25072982668286,12.54655832401951]]]},"properties":{"region_id":"village_618534","name":"BALLUR","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

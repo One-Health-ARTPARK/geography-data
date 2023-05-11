@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60328726838125,13.75041555900811],[77.58682877410854,13.73380553160037],[77.59932602131666,13.72287801083687],[77.60328726838125,13.75041555900811]]]},"properties":{"region_id":"village_623276","name":"JEELAKUNTE","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

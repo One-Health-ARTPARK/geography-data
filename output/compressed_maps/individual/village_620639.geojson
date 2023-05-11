@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04426105042127,17.23885588200154],[77.01377156724858,17.23819660286135],[77.02276464119608,17.19830198500115],[77.0453843029296,17.21334696511292],[77.04426105042127,17.23885588200154]]]},"properties":{"region_id":"village_620639","name":"BELGUMPA","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

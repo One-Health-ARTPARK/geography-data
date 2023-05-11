@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64155096654972,17.49345640740435],[77.61153108714332,17.48421022200609],[77.63353180107404,17.47335914267286],[77.64155096654972,17.49345640740435]]]},"properties":{"region_id":"village_620378","name":"KONCHAWARAM","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

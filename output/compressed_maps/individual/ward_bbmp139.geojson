@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56521500004723,12.96259200029782],[77.57454200037556,12.95976199975866],[77.5780339999644,12.96672999967688],[77.5680459996642,12.96818599988742],[77.56521500004723,12.96259200029782]]]},"properties":{"region_id":"ward_bbmp139","name":"WARD NO.139 (KR MARKET)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

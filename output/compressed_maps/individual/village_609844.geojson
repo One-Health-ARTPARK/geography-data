@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71733758505832,13.21845902348923],[75.70704861433784,13.21376485639642],[75.71421221434154,13.20802067409813],[75.71733758505832,13.21845902348923]]]},"properties":{"region_id":"village_609844","name":"HACHADAMANE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

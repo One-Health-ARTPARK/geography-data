@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01278135241476,16.42568011937764],[76.00673246683455,16.44668650587467],[75.99606429887012,16.44477029844575],[75.99406947080442,16.42389297073163],[76.01278135241476,16.42568011937764]]]},"properties":{"region_id":"village_599562","name":"RAJANAL","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

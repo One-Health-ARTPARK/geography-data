@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24589338082157,13.19182836724961],[76.236301398743,13.19175224961572],[76.23783137768221,13.16949932939574],[76.2522503064536,13.17754470671701],[76.24589338082157,13.19182836724961]]]},"properties":{"region_id":"village_615772","name":"CHITTANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

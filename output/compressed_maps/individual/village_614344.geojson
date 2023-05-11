@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85463291096731,12.70761529810551],[76.84609591841617,12.70824005404131],[76.84195088882316,12.69626561133021],[76.84873679900566,12.69183276895484],[76.85463291096731,12.70761529810551]]]},"properties":{"region_id":"village_614344","name":"BIDARKATTE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

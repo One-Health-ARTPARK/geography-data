@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98326089319912,15.69002348359865],[75.97034270420909,15.69179699853151],[75.96724621018349,15.66469597960455],[75.98217187043377,15.66406239918517],[75.98326089319912,15.69002348359865]]]},"properties":{"region_id":"village_601987","name":"RAMPUR","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

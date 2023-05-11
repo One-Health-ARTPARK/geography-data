@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1996907846628,13.26481328829632],[77.19100942339908,13.24145562704058],[77.21844398601579,13.23922185796193],[77.22502990576662,13.2607930962121],[77.1996907846628,13.26481328829632]]]},"properties":{"region_id":"village_624728","name":"HALENIJAGAL","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

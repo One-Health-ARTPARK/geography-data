@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82888913384636,13.28797652945596],[74.81691327050764,13.26622936888515],[74.83378669157597,13.25484488284423],[74.84900031516102,13.27911830597252],[74.82888913384636,13.28797652945596]]]},"properties":{"region_id":"village_608824","name":"KATTINGERE","parent":"subdistrict_7067","parent_name":"KAPU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.415363922933,12.92435954593876],[76.4018714225149,12.92482562690985],[76.40203085624763,12.91485738379869],[76.41512410625782,12.91197544645611],[76.415363922933,12.92435954593876]]]},"properties":{"region_id":"village_617206","name":"BANDIHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

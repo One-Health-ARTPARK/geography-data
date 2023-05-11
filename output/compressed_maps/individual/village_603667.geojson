@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86374129025565,14.3164884553306],[74.88423227177914,14.31073550842386],[74.88249411316426,14.32646359909462],[74.86374129025565,14.3164884553306]]]},"properties":{"region_id":"village_603667","name":"PADAVANBAIL","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

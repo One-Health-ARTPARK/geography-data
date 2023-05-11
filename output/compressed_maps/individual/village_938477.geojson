@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55008768621316,12.95141009684909],[77.53710900246344,12.94553470537899],[77.54687387323388,12.93802564124135],[77.55008768621316,12.95141009684909]]]},"properties":{"region_id":"village_938477","name":"AVALAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

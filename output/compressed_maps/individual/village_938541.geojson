@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59886163154077,13.05523716727563],[77.60876635684664,13.06679010579589],[77.59705047483818,13.07251145460211],[77.59886163154077,13.05523716727563]]]},"properties":{"region_id":"village_938541","name":"AMRUTAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

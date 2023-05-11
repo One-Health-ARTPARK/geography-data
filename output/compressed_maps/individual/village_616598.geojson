@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10398657363328,12.79752075807465],[76.08926074907782,12.79549222760313],[76.09857232897826,12.78140891008778],[76.10398657363328,12.79752075807465]]]},"properties":{"region_id":"village_616598","name":"NARASINAKUPPE","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

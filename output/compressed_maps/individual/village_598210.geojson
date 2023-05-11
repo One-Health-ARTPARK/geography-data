@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91524274272163,15.85720118333898],[74.89346930705469,15.85678904578919],[74.89753831733515,15.84244242682844],[74.91492598061986,15.84406612937291],[74.91524274272163,15.85720118333898]]]},"properties":{"region_id":"village_598210","name":"HIREKOPPA K.M.","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

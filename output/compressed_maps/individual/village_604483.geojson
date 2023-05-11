@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71714956617676,14.77723143202949],[75.68027126511326,14.7602575450469],[75.70290890736497,14.73223518385377],[75.71714956617676,14.77723143202949]]]},"properties":{"region_id":"village_604483","name":"HARANAGIRI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17623900326055,13.00889702449519],[75.18026582635795,13.0302016419494],[75.15681735897272,13.03143868077715],[75.15087801463568,13.0103430132711],[75.17623900326055,13.00889702449519]]]},"properties":{"region_id":"village_617629","name":"NITTADE","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

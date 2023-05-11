@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25326976877975,15.4430675458757],[76.23984437459912,15.43880764332143],[76.2435243290108,15.42302783148647],[76.25514667387182,15.43006134854577],[76.25326976877975,15.4430675458757]]]},"properties":{"region_id":"village_601816","name":"KARDIGUDDA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

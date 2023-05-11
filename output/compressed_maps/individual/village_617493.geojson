@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93017150855982,12.92730550362242],[74.92256740590132,12.92427861725341],[74.94768391403899,12.90299748009286],[74.94969809883361,12.91713956059531],[74.93017150855982,12.92730550362242]]]},"properties":{"region_id":"village_617493","name":"ULAIBETTU","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

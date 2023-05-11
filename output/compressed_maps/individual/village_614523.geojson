@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02889781269639,12.68704421461482],[77.02068579767904,12.70377335317574],[77.00930061391664,12.6961162087399],[77.01017322458335,12.68251363988376],[77.02889781269639,12.68704421461482]]]},"properties":{"region_id":"village_614523","name":"N.KODIHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

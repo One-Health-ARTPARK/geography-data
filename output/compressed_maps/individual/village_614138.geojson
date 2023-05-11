@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52986771031843,12.48454735710683],[76.53180712927431,12.48586222896032],[76.53234645747513,12.48884948365396],[76.53084306941746,12.49038061093329],[76.52986771031843,12.48454735710683]]]},"properties":{"region_id":"village_614138","name":"MALLIGEREKAVAL","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

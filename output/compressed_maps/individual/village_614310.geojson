@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56949214229013,12.42593683287161],[76.56574248318914,12.39915917753302],[76.58655027552619,12.40186150500767],[76.59398557347028,12.42161525552211],[76.56949214229013,12.42593683287161]]]},"properties":{"region_id":"village_614310","name":"HONGALLI (CT)","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

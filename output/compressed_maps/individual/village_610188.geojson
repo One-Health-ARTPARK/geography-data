@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59200321503752,13.48385992007745],[76.5673394730898,13.4645736247749],[76.59497850343853,13.4423810405719],[76.59200321503752,13.48385992007745]]]},"properties":{"region_id":"village_610188","name":"MUDDENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94344504542264,14.0813241295406],[74.97857961790866,14.08054938328718],[74.99915913710447,14.10135366535336],[74.98205740470073,14.1122569376075],[74.95707272340208,14.10048056626102],[74.94344504542264,14.0813241295406]]]},"properties":{"region_id":"village_607314","name":"CHIKKAMATTUR","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

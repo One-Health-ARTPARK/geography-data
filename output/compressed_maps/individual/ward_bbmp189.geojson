@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63508200029312,12.90729500032301],[77.6242480003273,12.9030029999413],[77.61994299969797,12.88887799964469],[77.63615900024344,12.89524000033093],[77.63508200029312,12.90729500032301]]]},"properties":{"region_id":"ward_bbmp189","name":"WARD NO.189 (HONGA SANDRA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

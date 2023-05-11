@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.10474975159158,12.86653485074969],[78.11283534384273,12.88078324188602],[78.09822836206693,12.8734168207348],[78.10474975159158,12.86653485074969]]]},"properties":{"region_id":"village_622368","name":"CHIKKASANDRA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

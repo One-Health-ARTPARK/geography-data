@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00861200679074,16.28294064866106],[76.98256513406612,16.28094527639868],[76.97726081120612,16.25249137239305],[77.01480243274918,16.25570992503645],[77.00861200679074,16.28294064866106]]]},"properties":{"region_id":"village_600711","name":"NAGOLI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

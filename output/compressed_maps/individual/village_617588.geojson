@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07725349127853,12.74516098688448],[75.06713642412502,12.75216436787971],[75.03632850796141,12.73491205671285],[75.03386403484669,12.72320695820759],[75.06774651666787,12.72474788172457],[75.07725349127853,12.74516098688448]]]},"properties":{"region_id":"village_617588","name":"KANYANA","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

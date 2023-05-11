@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50384045379991,12.91762537002623],[76.50589476510531,12.93578195332489],[76.49401741569851,12.93570079656386],[76.49037588393355,12.9220458888617],[76.50384045379991,12.91762537002623]]]},"properties":{"region_id":"village_617293","name":"GULIHONNENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

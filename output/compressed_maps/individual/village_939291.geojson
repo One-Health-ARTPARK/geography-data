@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63355927116072,12.29955477006254],[76.63394282150087,12.30446228992456],[76.62300418930984,12.30807645103604],[76.62289425162176,12.29937804397658],[76.63355927116072,12.29955477006254]]]},"properties":{"region_id":"village_939291","name":"KUKKARAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

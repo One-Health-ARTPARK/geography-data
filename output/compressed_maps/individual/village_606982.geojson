@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9655888218032,14.16013334994435],[75.93806107543487,14.1636830354893],[75.94414774244837,14.13855917252448],[75.9655888218032,14.16013334994435]]]},"properties":{"region_id":"village_606982","name":"CHANNAPURA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

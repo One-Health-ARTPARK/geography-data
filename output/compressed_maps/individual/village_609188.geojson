@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85656965667187,13.75192932104991],[75.84682355805413,13.7481990032459],[75.84262990273275,13.73184788500247],[75.8540873189503,13.73026553612941],[75.85656965667187,13.75192932104991]]]},"properties":{"region_id":"village_609188","name":"AMRUTAPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

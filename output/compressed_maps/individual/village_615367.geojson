@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05630664134716,13.15739382557793],[76.04760112020321,13.15665042939562],[76.05015671752334,13.15070430114853],[76.05630664134716,13.15739382557793]]]},"properties":{"region_id":"village_615367","name":"ALADAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

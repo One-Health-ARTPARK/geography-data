@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15954148022234,12.97035844532254],[75.1432793305041,12.95465213072345],[75.15628721074752,12.93902100105625],[75.16869557449054,12.95174670962447],[75.15954148022234,12.97035844532254]]]},"properties":{"region_id":"village_617545","name":"PILATHABETTU","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

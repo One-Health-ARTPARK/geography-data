@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30886645911757,14.65187475398531],[76.30309519183821,14.62997973260724],[76.31178436409122,14.62945368194476],[76.30886645911757,14.65187475398531]]]},"properties":{"region_id":"village_606402","name":"VENKATAPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

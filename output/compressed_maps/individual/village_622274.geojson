@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93611763141313,12.86195890209094],[77.9271486055141,12.84836328984497],[77.94068142865389,12.84555801532804],[77.93611763141313,12.86195890209094]]]},"properties":{"region_id":"village_622274","name":"BENNAGATTA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

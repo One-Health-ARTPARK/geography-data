@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40469199882561,18.07232516655436],[77.385884233147,18.07555931580285],[77.39216336704463,18.05599980224147],[77.40469199882561,18.07232516655436]]]},"properties":{"region_id":"village_600040","name":"MANGANPUR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

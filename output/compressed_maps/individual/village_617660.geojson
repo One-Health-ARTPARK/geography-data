@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22659322909782,12.95858175254252],[75.20545175905981,12.95479297843673],[75.20832493146321,12.9130952712166],[75.24527572903185,12.92013139615525],[75.23684222447247,12.95139484240491],[75.22659322909782,12.95858175254252]]]},"properties":{"region_id":"village_617660","name":"MACHINA","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82973353469227,12.20743386857808],[75.80333709378195,12.2031034758658],[75.81326530630272,12.1948842841301],[75.83072099134955,12.18650197022631],[75.83944353919097,12.19577477442308],[75.82973353469227,12.20743386857808]]]},"properties":{"region_id":"village_618011","name":"MAGGULA","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

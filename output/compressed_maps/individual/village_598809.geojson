@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83751945526778,16.30839973005445],[75.82052565998609,16.33275549600107],[75.8070276678955,16.3315344057945],[75.81760784061058,16.30043849765596],[75.83751945526778,16.30839973005445]]]},"properties":{"region_id":"village_598809","name":"HIREMURAMATTI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

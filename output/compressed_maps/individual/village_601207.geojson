@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80632991090849,15.65272970322998],[76.81281811046678,15.70125351365543],[76.79142203669457,15.71553673493489],[76.79429484588903,15.68349005817347],[76.78899750808662,15.65282331477513],[76.80632991090849,15.65272970322998]]]},"properties":{"region_id":"village_601207","name":"SOMLAPUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94924696927222,12.8808379999943],[76.91974513512211,12.88139759235191],[76.9344938699931,12.86306039978781],[76.94770494833139,12.86718367708437],[76.94924696927222,12.8808379999943]]]},"properties":{"region_id":"village_612671","name":"JINNAGARA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

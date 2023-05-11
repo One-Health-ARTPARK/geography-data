@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81679026057154,12.6319862960325],[76.80542898180906,12.63237861343344],[76.80514843971845,12.61736122180972],[76.81300334440246,12.61678798537242],[76.81679026057154,12.6319862960325]]]},"properties":{"region_id":"village_614408","name":"SOWDENAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

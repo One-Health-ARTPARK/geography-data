@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77410405790668,13.09310525931619],[77.77216943723555,13.09802800886481],[77.76489310929284,13.09471381599607],[77.76715913173447,13.08895725655252],[77.77410405790668,13.09310525931619]]]},"properties":{"region_id":"village_625686","name":"CHIKKA AMANIKERE","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

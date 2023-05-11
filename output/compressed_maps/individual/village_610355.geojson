@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83702835556468,13.77993725357205],[76.81541194834661,13.78174870674012],[76.82605508236595,13.76052397610166],[76.83702835556468,13.77993725357205]]]},"properties":{"region_id":"village_610355","name":"DWARALU","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

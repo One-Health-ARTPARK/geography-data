@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18437700763918,14.33241889811063],[77.16721694206758,14.33165005021596],[77.16107410517935,14.30389538878149],[77.17784030782776,14.30520668695873],[77.18437700763918,14.33241889811063]]]},"properties":{"region_id":"village_610518","name":"GOWDATHIMMANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

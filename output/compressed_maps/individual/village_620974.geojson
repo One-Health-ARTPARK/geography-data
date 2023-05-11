@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48307206904059,16.36175812123243],[76.46761742126411,16.34894386325289],[76.48249290988288,16.33881062512955],[76.49836156322475,16.34248767197536],[76.48307206904059,16.36175812123243]]]},"properties":{"region_id":"village_620974","name":"BAMANGUD","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

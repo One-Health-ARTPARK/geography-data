@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05463259591606,13.79735309268065],[76.05197854262815,13.80953570689826],[76.03434563584737,13.8040646315086],[76.04334812185103,13.78462807680804],[76.05463259591606,13.79735309268065]]]},"properties":{"region_id":"village_609268","name":"TADAGA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

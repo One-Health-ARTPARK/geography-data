@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68171850804958,12.60591081482429],[76.6727329644922,12.6015934748748],[76.6764585125942,12.5965085175969],[76.68171850804958,12.60591081482429]]]},"properties":{"region_id":"village_614080","name":"SEERANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

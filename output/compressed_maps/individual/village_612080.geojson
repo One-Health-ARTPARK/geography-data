@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53386887284891,13.28874719765573],[76.53500469504432,13.30985165264415],[76.50873381454896,13.29540150577668],[76.52047472443388,13.28023556308288],[76.53386887284891,13.28874719765573]]]},"properties":{"region_id":"village_612080","name":"BENNAIKANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

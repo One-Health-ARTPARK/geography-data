@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38024735366652,15.32348702556321],[75.37307400426984,15.36041249477827],[75.3462526100306,15.35015200003049],[75.35438410875554,15.32306083565531],[75.38024735366652,15.32348702556321]]]},"properties":{"region_id":"village_602399","name":"UMACHIGI","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

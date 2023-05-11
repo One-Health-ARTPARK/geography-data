@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18325159401891,12.2012953396937],[76.17288741047514,12.19700173676359],[76.16579602866115,12.16278493557212],[76.18133532413931,12.16256734997955],[76.18325159401891,12.2012953396937]]]},"properties":{"region_id":"village_618394","name":"CHIKKAHEJJUR","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

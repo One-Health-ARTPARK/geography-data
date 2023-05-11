@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85295665939994,14.46575058951046],[75.84375847340121,14.48209347248973],[75.82610644698195,14.46062796900213],[75.84350051699424,14.44822893821055],[75.85295665939994,14.46575058951046]]]},"properties":{"region_id":"village_606544","name":"HALEBATHI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

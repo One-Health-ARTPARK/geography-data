@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03142861061636,12.88452868698809],[76.01985733855052,12.88733981523115],[76.00753142189397,12.87219861422972],[76.02533676550605,12.86531903205688],[76.03142861061636,12.88452868698809]]]},"properties":{"region_id":"village_616086","name":"SETTIHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

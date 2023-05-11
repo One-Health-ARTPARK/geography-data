@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23470508720027,16.87388611719495],[76.21220936556031,16.89212721952796],[76.20564259486635,16.86564731816248],[76.23470508720027,16.87388611719495]]]},"properties":{"region_id":"village_599363","name":"CHIKKA-SINDGI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

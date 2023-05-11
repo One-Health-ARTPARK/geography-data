@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87801977319204,13.16344903560575],[76.86412126280666,13.16898006382573],[76.86284454924113,13.15248493766127],[76.87801977319204,13.16344903560575]]]},"properties":{"region_id":"village_611941","name":"PADUGUDI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

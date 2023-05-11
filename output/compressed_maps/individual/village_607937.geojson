@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2647574624808,14.03069831437681],[75.24122034851771,14.03087626865614],[75.23315679883056,14.01178029776428],[75.2488101273111,14.00445561599618],[75.2647574624808,14.03069831437681]]]},"properties":{"region_id":"village_607937","name":"BALUR","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49817403112749,13.27410499081321],[76.48254846354082,13.27725611782036],[76.47474422696949,13.26764376594654],[76.4899168618522,13.26116043976669],[76.49817403112749,13.27410499081321]]]},"properties":{"region_id":"village_612075","name":"EDENAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

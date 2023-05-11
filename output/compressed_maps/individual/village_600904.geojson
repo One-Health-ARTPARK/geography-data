@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79720543879725,16.0625936756911],[76.79515340618157,16.08648757946115],[76.77455708559305,16.08413869590052],[76.77755740201007,16.06417325658017],[76.79720543879725,16.0625936756911]]]},"properties":{"region_id":"village_600904","name":"PARASAPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

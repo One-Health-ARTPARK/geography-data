@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50875908163869,17.71810387989109],[76.48627175678294,17.71577484438125],[76.48475213757756,17.69782912727439],[76.5033842171786,17.69475243288612],[76.50875908163869,17.71810387989109]]]},"properties":{"region_id":"village_619952","name":"JAMGA KHANDALA","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56735684263668,15.57853709884895],[76.55639907386222,15.58157569190213],[76.52804214055038,15.57241523101635],[76.56617738038503,15.56525427812992],[76.56735684263668,15.57853709884895]]]},"properties":{"region_id":"village_601673","name":"CHIKKA DANKANKAL","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50667802149376,12.11273250978097],[77.48385375732987,12.12383514885828],[77.4628463209059,12.11052033835602],[77.47971647600332,12.10253800243691],[77.50667802149376,12.11273250978097]]]},"properties":{"region_id":"village_619889","name":"SETTAHALLI","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46036627598457,13.2235451709257],[76.44791599263809,13.23057245166652],[76.43896980790659,13.20826755190311],[76.44837511009828,13.20315117076612],[76.46036627598457,13.2235451709257]]]},"properties":{"region_id":"village_612113","name":"KERAGODI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

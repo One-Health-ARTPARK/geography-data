@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8039091961708,13.70605583088884],[76.80366017486033,13.72225656265949],[76.78864668040768,13.71313089269219],[76.8039091961708,13.70605583088884]]]},"properties":{"region_id":"village_610405","name":"DODDAHALADAMADU","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

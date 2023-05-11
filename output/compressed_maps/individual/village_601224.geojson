@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78900585338158,15.65281245927211],[76.76638323766012,15.65380042800082],[76.7701678312655,15.63608041250921],[76.79591067214605,15.6317248812646],[76.78900585338158,15.65281245927211]]]},"properties":{"region_id":"village_601224","name":"GOBBERKAL","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

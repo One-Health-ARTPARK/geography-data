@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72946829819143,13.86022186924681],[74.7122722880982,13.90190300235964],[74.67057764489441,13.86876832873675],[74.69178789335568,13.83050756904059],[74.72946829819143,13.86022186924681]]]},"properties":{"region_id":"village_608680","name":"YELJITH","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

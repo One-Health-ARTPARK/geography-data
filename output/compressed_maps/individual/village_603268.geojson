@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01505802684267,14.66386584052952],[75.00145629462949,14.67600111212847],[74.9861060792421,14.67074848645936],[74.99225379972877,14.65184801445161],[75.01505802684267,14.66386584052952]]]},"properties":{"region_id":"village_603268","name":"KUPPAGADDE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

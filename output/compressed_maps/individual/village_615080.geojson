@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74033778011409,13.16997100332868],[75.73028733559408,13.17372351240834],[75.73002402818992,13.16803922646609],[75.74033778011409,13.16997100332868]]]},"properties":{"region_id":"village_615080","name":"MARUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

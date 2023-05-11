@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82802998609422,14.43527390474667],[76.8302762652948,14.4585721866037],[76.79454944288341,14.46250929100303],[76.80019018001549,14.43412371450148],[76.82802998609422,14.43527390474667]]]},"properties":{"region_id":"village_605296","name":"MYLANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

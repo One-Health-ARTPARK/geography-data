@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86305092474213,12.90506217818544],[74.83994716744509,12.91237204087705],[74.82958478639758,12.90174723499237],[74.8594226081353,12.89992003638266],[74.86305092474213,12.90506217818544]]]},"properties":{"region_id":"village_938782","name":"DEREBAILU","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

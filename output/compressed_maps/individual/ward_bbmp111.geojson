@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61435500013432,12.9753080004113],[77.59914199967714,12.97687800020588],[77.59501300024009,12.96238899986511],[77.61895200000004,12.96248799987564],[77.61435500013432,12.9753080004113]]]},"properties":{"region_id":"ward_bbmp111","name":"WARD NO.111 (SHANTALA NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

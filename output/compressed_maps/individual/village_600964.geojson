@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91998173805631,16.02927274368855],[76.91480018810964,16.04145171662224],[76.87110815252288,16.03023663063401],[76.9058067495403,16.00661968172913],[76.91998173805631,16.02927274368855]]]},"properties":{"region_id":"village_600964","name":"NAKKUNDA","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

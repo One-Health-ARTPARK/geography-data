@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35724713899936,12.99941846375449],[77.35708296986088,13.0161084135973],[77.34209911164767,13.01373933061501],[77.34134035330705,12.98831765177886],[77.35724713899936,12.99941846375449]]]},"properties":{"region_id":"village_624940","name":"SOLADEVANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

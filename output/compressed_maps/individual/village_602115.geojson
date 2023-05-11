@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62311896153216,15.09710822947727],[75.59589425904446,15.09763869579901],[75.60905999285774,15.07838850068284],[75.62311896153216,15.09710822947727]]]},"properties":{"region_id":"village_602115","name":"CHIKKASAVANUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

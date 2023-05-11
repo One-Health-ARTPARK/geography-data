@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91321239840745,15.91956459405112],[74.8857008086977,15.91388195699097],[74.88708043803015,15.90160077512584],[74.90877044062368,15.90031250506937],[74.91465526400238,15.91340063034792],[74.91321239840745,15.91956459405112]]]},"properties":{"region_id":"village_598200","name":"BASARGI [K.M.]","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74882718375761,12.85089131309512],[77.7402835152646,12.84310773200654],[77.74834901777771,12.83955166146102],[77.74882718375761,12.85089131309512]]]},"properties":{"region_id":"village_613205","name":"CHIKKATHIMMASANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

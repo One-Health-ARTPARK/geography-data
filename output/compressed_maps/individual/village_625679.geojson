@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88544936351946,13.00889104261472],[77.876514963054,13.0172534845964],[77.87140366158901,13.0040735813797],[77.88544936351946,13.00889104261472]]]},"properties":{"region_id":"village_625679","name":"BOMMANABANDE","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45795764409996,15.91307639526472],[76.43935751374174,15.91383644849534],[76.42649456177726,15.88332885159241],[76.4581388081225,15.88071470363571],[76.45795764409996,15.91307639526472]]]},"properties":{"region_id":"village_600391","name":"CHATTAR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

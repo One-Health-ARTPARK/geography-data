@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41719526903165,15.89572566539778],[76.40595078373495,15.9460028680841],[76.39231487651448,15.92431247649752],[76.40064791980376,15.90229467459616],[76.41719526903165,15.89572566539778]]]},"properties":{"region_id":"village_600384","name":"MARLI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

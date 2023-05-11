@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55767082435679,13.26623684907717],[76.55552010056141,13.27781001175102],[76.54046522718546,13.27745507612061],[76.54276609463523,13.26966273122084],[76.55767082435679,13.26623684907717]]]},"properties":{"region_id":"village_612050","name":"MALLIPATNA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

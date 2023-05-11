@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77193794880837,16.23919854455099],[75.74670032675549,16.24606236569325],[75.73116512041987,16.21722232713553],[75.77043901143145,16.21638878580384],[75.77193794880837,16.23919854455099]]]},"properties":{"region_id":"village_598825","name":"MUGALALLI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

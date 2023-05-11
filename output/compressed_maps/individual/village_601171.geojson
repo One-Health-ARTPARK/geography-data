@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02223773536501,15.83231897028002],[77.00926874656115,15.86296512484154],[76.99166295470081,15.84533487405365],[77.02223773536501,15.83231897028002]]]},"properties":{"region_id":"village_601171","name":"AYYANUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

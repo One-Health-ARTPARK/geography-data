@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71702607586256,13.22182150113139],[77.71180645995483,13.23272641227269],[77.70479036032998,13.22541312278945],[77.71702607586256,13.22182150113139]]]},"properties":{"region_id":"village_625406","name":"BYCHAPURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

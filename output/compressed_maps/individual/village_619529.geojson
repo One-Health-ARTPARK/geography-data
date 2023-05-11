@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76792627440737,11.83414580617332],[76.76048530701676,11.82438678635291],[76.76483181926619,11.81288161886556],[76.77517877153137,11.81874729798034],[76.76792627440737,11.83414580617332]]]},"properties":{"region_id":"village_619529","name":"BERATAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

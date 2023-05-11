@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72017085900829,16.066875503091],[74.74841954817076,16.07591727466558],[74.74742607406702,16.09181511395028],[74.72468574288199,16.08510429421857],[74.7175754991582,16.07800342326848],[74.72017085900829,16.066875503091]]]},"properties":{"region_id":"village_597464","name":"BENACHINAMARADI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

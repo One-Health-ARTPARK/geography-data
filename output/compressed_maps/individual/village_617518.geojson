@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8845218150726,12.78214296504094],[74.90003423993278,12.8040775917943],[74.87725679106829,12.80324762240552],[74.85665400520085,12.79521290843073],[74.86940702927282,12.7725868313628],[74.8845218150726,12.78214296504094]]]},"properties":{"region_id":"village_617518","name":"KOTEKARA (CT)","parent":"subdistrict_7197","parent_name":"ULLALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65299848266433,16.75469134735548],[76.62377885379226,16.76519276325388],[76.62281577329446,16.74246707180207],[76.65792491284142,16.72569415395605],[76.65299848266433,16.75469134735548]]]},"properties":{"region_id":"village_620838","name":"MALLBAD","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

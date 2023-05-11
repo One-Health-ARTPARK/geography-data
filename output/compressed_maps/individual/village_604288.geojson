@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3433403735226,14.66224761944493],[75.34224359460781,14.67002401633904],[75.35634732064524,14.677211424598],[75.35051645155887,14.6815602313818],[75.33683770149014,14.67152387475359],[75.3433403735226,14.66224761944493]]]},"properties":{"region_id":"village_604288","name":"DASANAKOPPA","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

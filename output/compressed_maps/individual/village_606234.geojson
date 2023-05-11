@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7981635645662,14.42157594308464],[75.78636711263734,14.39315486310841],[75.80131682822064,14.3804173375223],[75.82669095732474,14.39049831442977],[75.7981635645662,14.42157594308464]]]},"properties":{"region_id":"village_606234","name":"KUNIBELAKERE","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

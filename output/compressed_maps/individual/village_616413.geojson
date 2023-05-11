@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99761269497623,12.969056707825],[75.99252120840015,12.96946118220924],[75.98617803817017,12.9579076779643],[75.99954842708901,12.96211503995984],[75.99761269497623,12.969056707825]]]},"properties":{"region_id":"village_616413","name":"CHOWLAGERE","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

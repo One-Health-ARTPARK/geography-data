@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99583935953365,16.05995724548684],[75.97741640900551,16.04189473804206],[75.99445786243086,16.03876352434467],[75.99583935953365,16.05995724548684]]]},"properties":{"region_id":"village_598932","name":"HIREYARANAKERI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

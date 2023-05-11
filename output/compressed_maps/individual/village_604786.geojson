@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81763682251672,15.42594037804931],[76.80500293877648,15.42524787218854],[76.79628079164965,15.41433917757877],[76.81985868238749,15.41420595505331],[76.81763682251672,15.42594037804931]]]},"properties":{"region_id":"village_604786","name":"GUNDIGANUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

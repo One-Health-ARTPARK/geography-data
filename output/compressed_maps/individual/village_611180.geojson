@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2663447413034,13.43139970169434],[77.25964200910958,13.43629640819835],[77.25581308618719,13.42808395252229],[77.26540005434549,13.42372559288033],[77.2663447413034,13.43139970169434]]]},"properties":{"region_id":"village_611180","name":"KARIDUGGANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

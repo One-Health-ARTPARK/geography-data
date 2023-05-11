@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3543978438171,16.55480172456144],[77.33738131552846,16.56835954308593],[77.33193255018367,16.5405682335571],[77.3543978438171,16.55480172456144]]]},"properties":{"region_id":"village_621370","name":"SOURASHTRAHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

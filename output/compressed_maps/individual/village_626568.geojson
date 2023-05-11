@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43610920007127,12.37379240231712],[77.42750045271418,12.36335216101697],[77.43490296216825,12.34922465720557],[77.44899714645501,12.35011448568322],[77.43424668263995,12.36431270793329],[77.43610920007127,12.37379240231712]]]},"properties":{"region_id":"village_626568","name":"PURUSHAGONDANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

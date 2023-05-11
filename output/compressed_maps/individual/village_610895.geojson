@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30430695760782,13.76945776416437],[77.28786405455301,13.77508795616656],[77.28047693411024,13.76669140282473],[77.30307152825766,13.76309661674162],[77.30430695760782,13.76945776416437]]]},"properties":{"region_id":"village_610895","name":"HUVINAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93369436920328,14.33754894657313],[74.92592557866551,14.34336168554918],[74.92091491723505,14.33203705299594],[74.93369436920328,14.33754894657313]]]},"properties":{"region_id":"village_603715","name":"SHIRALGI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

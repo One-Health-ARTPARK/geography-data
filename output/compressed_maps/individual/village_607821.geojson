@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36916458094325,14.24493149513121],[75.34716703514373,14.23878374058313],[75.36536579407058,14.22542293506973],[75.36916458094325,14.24493149513121]]]},"properties":{"region_id":"village_607821","name":"BHADRAPURA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

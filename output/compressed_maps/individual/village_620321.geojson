@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84478084404427,17.3172853357772],[76.85694297180235,17.30253678039204],[76.85840089501056,17.31895996130199],[76.84478084404427,17.3172853357772]]]},"properties":{"region_id":"village_620321","name":"RAJAPURA","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

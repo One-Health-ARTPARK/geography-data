@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11867890928478,14.51914881512031],[75.10370941093653,14.51513783377349],[75.11197948807381,14.5082989472154],[75.11867890928478,14.51914881512031]]]},"properties":{"region_id":"village_607467","name":"KATHURU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

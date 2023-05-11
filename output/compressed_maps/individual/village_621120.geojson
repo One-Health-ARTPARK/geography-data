@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87298368506103,16.67520418962557],[76.8795127110537,16.69537459058406],[76.85712546672707,16.69484061628194],[76.85710014815118,16.67962217019561],[76.87298368506103,16.67520418962557]]]},"properties":{"region_id":"village_621120","name":"BENKANHALLI JAGIR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

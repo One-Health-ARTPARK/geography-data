@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89708938770752,16.28826622850267],[74.8499350176436,16.28086435939255],[74.84269129361292,16.25439942889119],[74.85068630631874,16.23651174101911],[74.90359465240105,16.25638233554643],[74.89708938770752,16.28826622850267]]]},"properties":{"region_id":"village_597429","name":"KALLOLLI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

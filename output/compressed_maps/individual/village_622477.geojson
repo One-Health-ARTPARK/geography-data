@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.15016606679615,13.02877544447113],[78.15420553273808,13.04730230407645],[78.14528778050057,13.0522675428781],[78.13965876935323,13.03201873336802],[78.15016606679615,13.02877544447113]]]},"properties":{"region_id":"village_622477","name":"SIDDANAHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69033497498548,13.1269428826895],[77.67007714252732,13.10941408287247],[77.67979335886776,13.10025433639804],[77.69033497498548,13.1269428826895]]]},"properties":{"region_id":"village_612929","name":"MARENAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

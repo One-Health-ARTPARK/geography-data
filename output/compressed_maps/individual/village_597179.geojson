@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.67218630627386,16.61053242747629],[74.64006046022843,16.61246112008183],[74.63136425219786,16.5919454886396],[74.67590282664665,16.59205270082755],[74.67218630627386,16.61053242747629]]]},"properties":{"region_id":"village_597179","name":"CHANDUR","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

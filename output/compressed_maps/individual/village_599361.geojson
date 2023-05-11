@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31566539119727,16.83792091797068],[76.30380888552064,16.86889419803418],[76.27780860211463,16.86376320397878],[76.27085386454605,16.83702122734575],[76.31566539119727,16.83792091797068]]]},"properties":{"region_id":"village_599361","name":"MADABAL","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

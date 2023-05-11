@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43212382198398,12.58821088038588],[77.42248833905546,12.58849155254964],[77.42116896187963,12.58013572932726],[77.43541470476465,12.57991828111394],[77.43212382198398,12.58821088038588]]]},"properties":{"region_id":"village_626451","name":"AGRAHARA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

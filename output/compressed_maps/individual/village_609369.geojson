@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90474114830107,13.56215689436722],[75.88954569612528,13.58436112645223],[75.8583975335566,13.54914156933912],[75.89418404886717,13.53947286755666],[75.90474114830107,13.56215689436722]]]},"properties":{"region_id":"village_609369","name":"HOGREHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

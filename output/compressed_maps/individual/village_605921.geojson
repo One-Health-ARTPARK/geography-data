@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35929178128684,13.90506901336884],[76.34532799674582,13.90605044267227],[76.34315500965181,13.88924987148704],[76.36632320433812,13.89591230035009],[76.35929178128684,13.90506901336884]]]},"properties":{"region_id":"village_605921","name":"VEERAVVANAGATHIHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

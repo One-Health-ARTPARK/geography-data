@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08696106208525,12.62501530248515],[77.10066252627452,12.64016851000508],[77.06360151459468,12.64407019049904],[77.06823480540791,12.62394972707878],[77.08696106208525,12.62501530248515]]]},"properties":{"region_id":"village_614562","name":"KADALUR","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22690141361099,14.16635897520514],[77.21432588332844,14.16953763986464],[77.21039987551764,14.15850717858754],[77.22462345702046,14.15696088011297],[77.22690141361099,14.16635897520514]]]},"properties":{"region_id":"village_610557","name":"KOMARLAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

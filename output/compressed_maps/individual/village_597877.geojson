@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.59373499202754,15.65845420935278],[74.5742345856753,15.65685495118449],[74.58303525587182,15.64835468374057],[74.59373499202754,15.65845420935278]]]},"properties":{"region_id":"village_597877","name":"LAKKEBAIL","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

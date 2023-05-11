@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43640176344535,16.95903513465847],[77.42536816886748,16.96231575262316],[77.41880166463623,16.94819541502574],[77.43189267954457,16.94493253226985],[77.43640176344535,16.95903513465847]]]},"properties":{"region_id":"village_620579","name":"TOLMAMADI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60509823401075,13.59639718672141],[77.58998883941082,13.61376967029611],[77.58199589220793,13.59912363383035],[77.60509823401075,13.59639718672141]]]},"properties":{"region_id":"village_623331","name":"SARAGONDLU","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59732230576962,16.64279542592563],[76.56564972050342,16.64838509355093],[76.56001848695917,16.62422686437072],[76.5942248010107,16.62525175820353],[76.59732230576962,16.64279542592563]]]},"properties":{"region_id":"village_620888","name":"PARSANHALLI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

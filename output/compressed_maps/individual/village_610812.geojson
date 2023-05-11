@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27295224176771,13.73307668495987],[77.26533866713098,13.71359258304243],[77.28106406887987,13.7122286915842],[77.27295224176771,13.73307668495987]]]},"properties":{"region_id":"village_610812","name":"MUDDENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

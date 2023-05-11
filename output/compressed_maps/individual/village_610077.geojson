@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4921291913969,13.45112505671532],[76.47301109337144,13.4348185110893],[76.47351161997271,13.41839196488144],[76.4875524919487,13.41398637137852],[76.4921291913969,13.45112505671532]]]},"properties":{"region_id":"village_610077","name":"MATHIGHATTA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

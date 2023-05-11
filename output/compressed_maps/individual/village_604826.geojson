@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07868646823816,15.69510089273863],[77.08010413631095,15.72747383591572],[77.03949525929386,15.73012912194621],[77.05240028172541,15.69058858175012],[77.07868646823816,15.69510089273863]]]},"properties":{"region_id":"village_604826","name":"RAVIHAL","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

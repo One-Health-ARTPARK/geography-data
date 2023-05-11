@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8362579677807,12.86425433918464],[76.8331179529068,12.8528059648506],[76.84225998072047,12.84882399867202],[76.8445808137783,12.86197256009081],[76.8362579677807,12.86425433918464]]]},"properties":{"region_id":"village_613922","name":"DANDEBALA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

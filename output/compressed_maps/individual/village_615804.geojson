@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33971645596642,13.20838654544827],[76.33079289119044,13.20650164801976],[76.32472567404741,13.18564385755207],[76.34327018998115,13.18806225888473],[76.33971645596642,13.20838654544827]]]},"properties":{"region_id":"village_615804","name":"JEEKANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

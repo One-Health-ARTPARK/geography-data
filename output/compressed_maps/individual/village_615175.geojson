@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79750494612252,13.16266815043248],[75.79633558246994,13.16897031871646],[75.78625143910283,13.1684649489378],[75.78751273973165,13.15944113675708],[75.79750494612252,13.16266815043248]]]},"properties":{"region_id":"village_615175","name":"SINGAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34721880949854,12.96514885398808],[76.33989696218651,12.97521040028361],[76.32720942197935,12.9679458467194],[76.33510887029715,12.96138210801096],[76.34721880949854,12.96514885398808]]]},"properties":{"region_id":"village_617073","name":"UPPINAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

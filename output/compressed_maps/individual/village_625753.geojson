@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83845580419819,12.9080570766654],[77.82188986275732,12.90330946879508],[77.82990087215431,12.88956874161423],[77.83845580419819,12.9080570766654]]]},"properties":{"region_id":"village_625753","name":"THIRUVARANGA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

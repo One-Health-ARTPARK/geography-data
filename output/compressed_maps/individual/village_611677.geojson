@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91215257688577,13.54830151076686],[76.90261135733935,13.53155172660089],[76.91723340824424,13.5244764341508],[76.91215257688577,13.54830151076686]]]},"properties":{"region_id":"village_611677","name":"REVANALU","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

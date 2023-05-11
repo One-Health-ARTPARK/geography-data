@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38933933100685,18.07967412427193],[77.3734855770155,18.08083938567157],[77.37200772173466,18.06381572197587],[77.38374336670208,18.06733551346576],[77.38933933100685,18.07967412427193]]]},"properties":{"region_id":"village_599887","name":"GORNAL","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

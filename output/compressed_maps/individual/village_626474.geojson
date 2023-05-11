@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38105764757498,12.52833912147715],[77.36136746364475,12.53424620255615],[77.35802666390495,12.51703585275996],[77.3671120195252,12.50384149147738],[77.38105764757498,12.52833912147715]]]},"properties":{"region_id":"village_626474","name":"HANUMANAHALLI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

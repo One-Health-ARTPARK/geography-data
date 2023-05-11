@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02884152252223,12.46778062154527],[77.03011187932746,12.4839197912748],[77.02178620694593,12.48418920370628],[77.02153745782338,12.46754264541027],[77.02884152252223,12.46778062154527]]]},"properties":{"region_id":"village_614633","name":"GUDIGERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

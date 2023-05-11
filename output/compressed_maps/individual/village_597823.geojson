@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42124614970315,15.7114759482993],[74.41958116176448,15.74198885201576],[74.39736474909989,15.74833228047735],[74.40002483299973,15.71672839171173],[74.42124614970315,15.7114759482993]]]},"properties":{"region_id":"village_597823","name":"UCHAWADE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

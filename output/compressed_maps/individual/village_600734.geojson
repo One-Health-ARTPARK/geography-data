@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31960772816899,16.37952828292802],[77.33780658253639,16.39763124427267],[77.31433033483198,16.40155484297532],[77.31960772816899,16.37952828292802]]]},"properties":{"region_id":"village_600734","name":"KAREKAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

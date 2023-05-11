@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9630120371936,13.82948601521525],[75.94783894289316,13.83069119686166],[75.95815179164582,13.81557084137001],[75.9630120371936,13.82948601521525]]]},"properties":{"region_id":"village_609228","name":"BILLAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.58465744555386,15.64892860208922],[74.59775181654166,15.64108827311848],[74.59835627852563,15.65412716215688],[74.58465744555386,15.64892860208922]]]},"properties":{"region_id":"village_597890","name":"VADDEBAIL","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

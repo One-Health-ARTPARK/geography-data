@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3748691208959,12.64471525209805],[77.36207423931202,12.66160743701828],[77.3590213224936,12.64432084891144],[77.3748691208959,12.64471525209805]]]},"properties":{"region_id":"village_626361","name":"SINGASANDRA","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

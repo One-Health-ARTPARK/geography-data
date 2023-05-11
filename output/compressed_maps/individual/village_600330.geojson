@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32330085785473,17.62173643472485],[77.2935717853611,17.64147011390962],[77.28290447984392,17.62524210624336],[77.30030226596332,17.59795167535756],[77.32330085785473,17.62173643472485]]]},"properties":{"region_id":"village_600330","name":"MADARGI","parent":"subdistrict_7084","parent_name":"CHITAGUPPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89916158397769,16.22824265304581],[76.8757622098838,16.25209304207064],[76.8635446815549,16.22541815630273],[76.89916158397769,16.22824265304581]]]},"properties":{"region_id":"village_600703","name":"ANWAR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

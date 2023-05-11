@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74185602495048,13.93510852160574],[75.72910999005998,13.93563201592545],[75.73081908362057,13.9227845206342],[75.73686402608998,13.9189198452432],[75.74185602495048,13.93510852160574]]]},"properties":{"region_id":"village_608577","name":"HOSAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94635191218765,12.76583275053801],[75.93484096187808,12.76763455170164],[75.9350367037093,12.75916693332962],[75.94487860291585,12.75588368312656],[75.94635191218765,12.76583275053801]]]},"properties":{"region_id":"village_616493","name":"MADALAPURA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

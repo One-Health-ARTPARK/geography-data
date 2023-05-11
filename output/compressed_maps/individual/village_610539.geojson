@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06143241565918,14.22914288337582],[77.0305764982947,14.24409628654072],[77.03616393116292,14.21046563422676],[77.06143241565918,14.22914288337582]]]},"properties":{"region_id":"village_610539","name":"SASALUKUNTE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

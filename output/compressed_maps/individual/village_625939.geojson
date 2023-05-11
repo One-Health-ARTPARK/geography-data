@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17246175763484,12.9897311794095],[77.16607630237608,12.99492543083146],[77.15922915763844,12.98472252165349],[77.17042770331872,12.98078295130681],[77.17246175763484,12.9897311794095]]]},"properties":{"region_id":"village_625939","name":"BASAVAPATNA","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

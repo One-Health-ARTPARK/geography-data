@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99245246726862,12.12105070112818],[75.97961405959713,12.12473377691218],[75.97552254168377,12.10914302201753],[75.98484288548181,12.10623810043199],[75.99245246726862,12.12105070112818]]]},"properties":{"region_id":"village_924071","name":"KOTTHURU","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

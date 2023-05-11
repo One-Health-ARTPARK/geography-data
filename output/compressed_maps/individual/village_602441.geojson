@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93807726273089,15.31604261024298],[74.91692343131565,15.32572687104079],[74.89954049800438,15.31445364682105],[74.9010268393252,15.29235687506413],[74.93807726273089,15.31604261024298]]]},"properties":{"region_id":"village_602441","name":"GALAGI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

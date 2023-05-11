@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.48115809258147,14.4840311976567],[74.49390506347383,14.4760926277134],[74.49776805908338,14.49870639111513],[74.48075928581068,14.50220906864875],[74.48115809258147,14.4840311976567]]]},"properties":{"region_id":"village_603468","name":"ALKOD","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

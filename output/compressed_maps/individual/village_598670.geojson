@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85979149557642,16.07730379687268],[75.830428263305,16.09148241897458],[75.8265657649019,16.07662373965651],[75.85979149557642,16.07730379687268]]]},"properties":{"region_id":"village_598670","name":"INJANAWARI","parent":"subdistrict_7061","parent_name":"GULEDGUDDA"}}
+]}

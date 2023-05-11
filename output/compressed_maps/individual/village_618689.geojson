@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52485650575282,12.4469574439213],[76.51447721112741,12.45308295394982],[76.51027485847355,12.44036739942828],[76.51799223543384,12.43973481774308],[76.52485650575282,12.4469574439213]]]},"properties":{"region_id":"village_618689","name":"KALLINATHAPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

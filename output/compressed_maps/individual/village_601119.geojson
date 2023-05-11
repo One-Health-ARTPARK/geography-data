@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70137310622954,15.83974338967964],[76.71411524247387,15.88102580475858],[76.70205618586803,15.88040283148136],[76.70137310622954,15.83974338967964]]]},"properties":{"region_id":"village_601119","name":"YELEKUDALGI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12151960317368,15.60148059436312],[76.07856906911277,15.59950000288457],[76.07428262837739,15.55010843105594],[76.09756744502569,15.55190633644866],[76.12151960317368,15.60148059436312]]]},"properties":{"region_id":"village_601313","name":"CHIKMYAGERI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

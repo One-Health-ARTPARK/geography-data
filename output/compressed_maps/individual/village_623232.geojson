@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48442133686277,13.68653797182501],[77.46625843817151,13.68435017578069],[77.4697364615269,13.66894069046515],[77.49014530193594,13.66606845074563],[77.48442133686277,13.68653797182501]]]},"properties":{"region_id":"village_623232","name":"HALAGANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

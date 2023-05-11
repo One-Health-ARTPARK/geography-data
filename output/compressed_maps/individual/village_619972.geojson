@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54954732617722,17.62762048596908],[76.52813542169349,17.62380295596392],[76.51885837316033,17.60549037542112],[76.5594623252016,17.61056025680832],[76.54954732617722,17.62762048596908]]]},"properties":{"region_id":"village_619972","name":"TEERTH","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22420429988445,12.36969138455618],[77.19718954118055,12.33811320113589],[77.22552902617744,12.32750894582735],[77.22420429988445,12.36969138455618]]]},"properties":{"region_id":"village_614784","name":"GANALU","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

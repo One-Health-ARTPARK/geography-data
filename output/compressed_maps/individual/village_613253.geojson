@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8316989635367,12.8769581871483],[77.82201572036851,12.87471787923182],[77.82129183220927,12.85609278668912],[77.83673652131421,12.87040034584144],[77.8316989635367,12.8769581871483]]]},"properties":{"region_id":"village_613253","name":"MATTANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

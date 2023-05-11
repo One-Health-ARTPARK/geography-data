@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64746800028165,12.97042800030528],[77.64505200023582,12.98576599982891],[77.62985200029725,12.98145900018713],[77.64746800028165,12.97042800030528]]]},"properties":{"region_id":"ward_bbmp80","name":"WARD NO.80 (HOYSALA NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

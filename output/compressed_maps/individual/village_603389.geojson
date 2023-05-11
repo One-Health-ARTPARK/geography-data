@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.40887728869319,14.61398720524298],[74.39466189162493,14.60901487140293],[74.40268116994501,14.59096727464562],[74.41180932369342,14.59683526134895],[74.40887728869319,14.61398720524298]]]},"properties":{"region_id":"village_603389","name":"MOGTA","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

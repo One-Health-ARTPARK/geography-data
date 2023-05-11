@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69584082535481,15.82349543991927],[74.68984032815402,15.83683060601151],[74.6810701139119,15.83361573183355],[74.68485328799586,15.81921447267531],[74.69584082535481,15.82349543991927]]]},"properties":{"region_id":"village_598056","name":"PULARKOPPA","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

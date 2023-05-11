@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70221856131568,13.25221213597681],[77.69371531284462,13.25354847355451],[77.68632758744724,13.24702695026668],[77.7037067370888,13.24277886253213],[77.70221856131568,13.25221213597681]]]},"properties":{"region_id":"village_625388","name":"AKKUPET","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

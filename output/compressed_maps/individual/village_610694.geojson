@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23583580384187,13.86385658495603],[77.21312267411365,13.86679505874482],[77.22386312733671,13.84059286846643],[77.24902345972319,13.85390887048297],[77.23583580384187,13.86385658495603]]]},"properties":{"region_id":"village_610694","name":"BEDATTUR","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

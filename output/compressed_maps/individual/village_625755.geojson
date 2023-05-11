@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84130429877271,12.88188532410949],[77.83680690225083,12.87048655106396],[77.84766247549544,12.86911534501056],[77.84130429877271,12.88188532410949]]]},"properties":{"region_id":"village_625755","name":"GUNDUR","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

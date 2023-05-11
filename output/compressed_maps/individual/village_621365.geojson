@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24206230814193,16.5792047256242],[77.24023846656662,16.59252426724471],[77.22148445219932,16.59002595111751],[77.2178540570799,16.58218153945275],[77.24206230814193,16.5792047256242]]]},"properties":{"region_id":"village_621365","name":"HEGGANGERA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

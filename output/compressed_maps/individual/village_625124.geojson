@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52134466029148,13.25078744798964],[77.51830498503679,13.2613497631568],[77.50251153805338,13.25046753250357],[77.50916710021137,13.246684004286],[77.52134466029148,13.25078744798964]]]},"properties":{"region_id":"village_625124","name":"EKASIPURA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

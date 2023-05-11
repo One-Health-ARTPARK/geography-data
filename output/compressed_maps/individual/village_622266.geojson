@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9662323795142,12.92915834977301],[77.94730984077468,12.93040616655355],[77.94357371770967,12.91956036579022],[77.96086893236716,12.91057964631241],[77.9662323795142,12.92915834977301]]]},"properties":{"region_id":"village_622266","name":"NAGONDAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

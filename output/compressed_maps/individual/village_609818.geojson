@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68802230006123,13.32052607061221],[75.67795820661553,13.32129732587794],[75.6532172341233,13.31468487248079],[75.66989199379618,13.30779920716503],[75.68600943145996,13.30995178155484],[75.68802230006123,13.32052607061221]]]},"properties":{"region_id":"village_609818","name":"BASAGODU","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

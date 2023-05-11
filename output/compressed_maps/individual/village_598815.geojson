@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86773236170124,16.30175109752189],[75.88678745687308,16.32133917624313],[75.86101022403439,16.3470650592129],[75.86773236170124,16.30175109752189]]]},"properties":{"region_id":"village_598815","name":"ALUR","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

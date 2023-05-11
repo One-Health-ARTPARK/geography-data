@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65091726727915,16.15749324816079],[74.62115149793219,16.16166581888179],[74.62381457328786,16.14246250213666],[74.65091726727915,16.15749324816079]]]},"properties":{"region_id":"village_597617","name":"HIDKAL","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66312043578445,13.75411917443123],[75.64475460704895,13.7591413016206],[75.63841741249492,13.75052369839005],[75.66133540791648,13.74901349747123],[75.66312043578445,13.75411917443123]]]},"properties":{"region_id":"village_608649","name":"GONEEBEEDU","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

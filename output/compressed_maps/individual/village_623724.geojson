@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71519597322106,13.6599468374888],[77.7064514380498,13.65964108146653],[77.70250900151406,13.65422028530953],[77.7108155395798,13.65518656766257],[77.71519597322106,13.6599468374888]]]},"properties":{"region_id":"village_623724","name":"NICHANABANDAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

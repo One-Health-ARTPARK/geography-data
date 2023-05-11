@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92675874354687,14.20718105848983],[75.9148597844952,14.18354039122037],[75.92594992168875,14.17923013940033],[75.93665440365915,14.19497037697484],[75.92675874354687,14.20718105848983]]]},"properties":{"region_id":"village_606978","name":"ALUR","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

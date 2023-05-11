@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74117879574626,13.66648625499668],[76.74331150662903,13.69007839054277],[76.72318595433032,13.68440429931821],[76.74117879574626,13.66648625499668]]]},"properties":{"region_id":"village_610423","name":"PURA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

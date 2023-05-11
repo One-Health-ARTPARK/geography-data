@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90602911983088,11.92545099656096],[76.89275896807271,11.91185360057568],[76.88960152297189,11.88988535158461],[76.9036348660214,11.89063480201814],[76.90602911983088,11.92545099656096]]]},"properties":{"region_id":"village_619667","name":"YADAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

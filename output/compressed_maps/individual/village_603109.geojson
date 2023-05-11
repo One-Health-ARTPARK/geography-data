@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73607688895427,14.74852363800231],[74.75124727383405,14.73301380302853],[74.77376429638036,14.72807516968765],[74.77761933550939,14.74053243901398],[74.73607688895427,14.74852363800231]]]},"properties":{"region_id":"village_603109","name":"AUDALA","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

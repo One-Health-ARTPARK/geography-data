@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.56288780438906,14.87118612351738],[74.57534247660367,14.82079034097862],[74.56300685114877,14.77552581157309],[74.60446090441337,14.79590957033047],[74.6043623822398,14.82113675862099],[74.56288780438906,14.87118612351738]]]},"properties":{"region_id":"village_603353","name":"KODLAGADDE","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

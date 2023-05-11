@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62609383001916,13.63677172500476],[77.60599395292637,13.61442492625786],[77.62038251496762,13.60564904586215],[77.61992122896625,13.62357172234116],[77.62609383001916,13.63677172500476]]]},"properties":{"region_id":"village_623333","name":"B.BOMMASANDRA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

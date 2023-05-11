@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87779468383789,13.1729018472769],[75.87427526882806,13.18618363757541],[75.86394952713742,13.18264839424353],[75.86676906727108,13.17487273111237],[75.87779468383789,13.1729018472769]]]},"properties":{"region_id":"village_615225","name":"CHIKKABYADIGERE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

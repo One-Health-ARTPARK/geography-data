@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46585237191216,14.41840312087291],[75.44915915035192,14.43133381532778],[75.44973302999507,14.40951349414279],[75.46585237191216,14.41840312087291]]]},"properties":{"region_id":"village_604441","name":"SATAGIHALLI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48300314421215,14.9180612146214],[75.45335171563408,14.9196479216452],[75.45947365579894,14.90306676756778],[75.48300314421215,14.9180612146214]]]},"properties":{"region_id":"village_604027","name":"DOMBARAMATTUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

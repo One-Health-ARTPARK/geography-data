@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43662493630976,15.61285653690613],[76.41875027635272,15.62592315714996],[76.40751717940951,15.60522494919909],[76.42883425218922,15.60163972795618],[76.43662493630976,15.61285653690613]]]},"properties":{"region_id":"village_601557","name":"HANMANHAL","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

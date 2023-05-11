@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80865630371869,13.10297308077637],[76.7903171503871,13.09999285806797],[76.79931220497018,13.09076238588977],[76.81276445908672,13.09239017887689],[76.80865630371869,13.10297308077637]]]},"properties":{"region_id":"village_612388","name":"K.DODDERI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79377285282935,13.48745794688237],[77.79572989306638,13.49816707426162],[77.78245532900476,13.49270952479952],[77.79377285282935,13.48745794688237]]]},"properties":{"region_id":"village_623575","name":"RAYAPPANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

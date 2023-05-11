@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76023534653494,14.07063316344953],[75.74102111824342,14.06842967893908],[75.74199031841026,14.04869465351322],[75.76292360608487,14.04925022336109],[75.76023534653494,14.07063316344953]]]},"properties":{"region_id":"village_608522","name":"ANAVERI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

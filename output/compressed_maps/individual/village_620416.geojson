@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3481174328876,17.44089361939703],[77.31112721432943,17.44614414219747],[77.31474196504875,17.42069116745596],[77.3481174328876,17.44089361939703]]]},"properties":{"region_id":"village_620416","name":"YELAKPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

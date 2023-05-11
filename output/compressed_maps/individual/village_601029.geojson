@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00901062789247,15.97955106651112],[76.9941631507186,15.9776886911763],[76.98956201798347,15.94920942455144],[77.00446866012368,15.94669719773561],[77.00901062789247,15.97955106651112]]]},"properties":{"region_id":"village_601029","name":"RAJALDINNI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8648192533693,13.71068677305698],[77.84788511997492,13.70834930898053],[77.85187853607782,13.70189339245412],[77.86817858331666,13.7004404122347],[77.8648192533693,13.71068677305698]]]},"properties":{"region_id":"village_623886","name":"MUTHINAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

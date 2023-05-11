@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48024076645171,18.05420998498763],[77.48378808523243,18.07353371333539],[77.4667021765164,18.0735464344039],[77.46744425281659,18.05494223400408],[77.48024076645171,18.05420998498763]]]},"properties":{"region_id":"village_600113","name":"PASHAPUR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

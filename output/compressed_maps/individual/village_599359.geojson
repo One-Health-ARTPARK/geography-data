@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30876497718576,16.89118052990452],[76.29009633287062,16.89369191131149],[76.28580442562136,16.88087464626315],[76.30377669107433,16.87568217742264],[76.30876497718576,16.89118052990452]]]},"properties":{"region_id":"village_599359","name":"MANNAPUR","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

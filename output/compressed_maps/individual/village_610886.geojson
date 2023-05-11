@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27316522928318,13.80998569324106],[77.24681821051665,13.81325048493834],[77.24192079748349,13.77773663111325],[77.27705298794224,13.7795258713418],[77.27316522928318,13.80998569324106]]]},"properties":{"region_id":"village_610886","name":"GARANI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

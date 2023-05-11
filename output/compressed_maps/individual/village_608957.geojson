@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2786609807117,13.38652716167107],[75.26729588468189,13.40010570724155],[75.25209535615622,13.40292296766251],[75.25806928051705,13.38362312629383],[75.2786609807117,13.38652716167107]]]},"properties":{"region_id":"village_608957","name":"BETTAGERE","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

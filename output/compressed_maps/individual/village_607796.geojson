@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44582476201599,14.28617077150995],[75.46991247429996,14.28983126058566],[75.47767453540598,14.31755898667411],[75.45585454655414,14.327832651551],[75.44582476201599,14.28617077150995]]]},"properties":{"region_id":"village_607796","name":"MARAVALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

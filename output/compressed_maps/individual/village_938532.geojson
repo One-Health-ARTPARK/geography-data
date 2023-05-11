@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59705047483818,13.07251145460211],[77.58521386361086,13.07296765070426],[77.58500318624597,13.05903265206449],[77.59271163281267,13.05755850398407],[77.59705047483818,13.07251145460211]]]},"properties":{"region_id":"village_938532","name":"BYATARAYAPURA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

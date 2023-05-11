@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17447966752158,14.51735785663142],[76.13854564371961,14.50872494523442],[76.13449247419314,14.48545491617938],[76.16078197198773,14.4641634994791],[76.17499731204425,14.49366077321616],[76.17447966752158,14.51735785663142]]]},"properties":{"region_id":"village_606469","name":"BILICHODU","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

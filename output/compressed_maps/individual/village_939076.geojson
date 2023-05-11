@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95957000938746,12.11261506075619],[75.94328961489651,12.11405229037047],[75.94466201830026,12.09975588020902],[75.95241953423363,12.09952850603545],[75.95957000938746,12.11261506075619]]]},"properties":{"region_id":"village_939076","name":"NADIKERI","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

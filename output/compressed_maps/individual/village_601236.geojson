@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00957242411648,15.66242584800672],[75.9817567472662,15.66409199926686],[75.9773256887287,15.6498049868049],[76.00736955699972,15.65147107799207],[76.00957242411648,15.66242584800672]]]},"properties":{"region_id":"village_601236","name":"CHIKOPPA","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

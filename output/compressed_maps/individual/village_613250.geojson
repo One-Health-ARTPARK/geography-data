@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81451075636193,12.8742176186816],[77.80685404470452,12.87692368539648],[77.79701839848134,12.87131215060302],[77.79984251316965,12.86549332309412],[77.81451075636193,12.8742176186816]]]},"properties":{"region_id":"village_613250","name":"MAHAL CHOWDADENAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

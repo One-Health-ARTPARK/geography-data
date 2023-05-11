@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76027410655644,12.50490707248422],[75.73564579738814,12.52376995255404],[75.72884621537906,12.51302781161466],[75.74503166628287,12.49192161533368],[75.76027410655644,12.50490707248422]]]},"properties":{"region_id":"village_617821","name":"MUKKODLU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

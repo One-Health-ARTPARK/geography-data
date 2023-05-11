@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0432780123126,12.80501321496542],[76.03669052790033,12.81279107174027],[76.02289100474931,12.80959867754212],[76.03577980644074,12.79624678870978],[76.0432780123126,12.80501321496542]]]},"properties":{"region_id":"village_616561","name":"ULIVALA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

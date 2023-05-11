@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22506524079002,13.88847006640872],[76.20916004621091,13.88181639759545],[76.21885487639396,13.87132993329219],[76.22506524079002,13.88847006640872]]]},"properties":{"region_id":"village_605831","name":"KUMBARAGATTE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

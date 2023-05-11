@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.43044206746224,14.36793942248054],[74.42846519975042,14.36923225459296],[74.42677389545194,14.36712270825893],[74.42891347070173,14.36492579600201],[74.43044206746224,14.36793942248054]]]},"properties":{"region_id":"village_603732","name":"KAKURVE","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

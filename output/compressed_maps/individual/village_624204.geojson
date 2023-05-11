@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91116055380414,13.35868027825882],[77.90924399734827,13.37871287260317],[77.89484272373033,13.36851447038644],[77.91116055380414,13.35868027825882]]]},"properties":{"region_id":"village_624204","name":"THIPPENAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

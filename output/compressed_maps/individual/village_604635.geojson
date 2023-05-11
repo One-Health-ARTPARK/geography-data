@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02904669075266,14.95445875336783],[76.06125186510045,14.95466934319779],[76.06646031460251,14.98042159588282],[76.05683710290057,15.01779012090003],[76.01398725753351,15.00440231202707],[76.02904669075266,14.95445875336783]]]},"properties":{"region_id":"village_604635","name":"UTTANGI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

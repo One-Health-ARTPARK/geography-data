@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01377156724858,17.23819660286135],[76.97409791302633,17.2404752251407],[76.97317059694402,17.20421564952886],[77.02279286705438,17.19821714056915],[77.01377156724858,17.23819660286135]]]},"properties":{"region_id":"village_620638","name":"PETHSIRUR","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

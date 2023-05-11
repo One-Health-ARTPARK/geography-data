@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02250826722782,12.6169145203576],[75.99610284935457,12.61162059424379],[76.01097182520273,12.6022848167449],[76.02250826722782,12.6169145203576]]]},"properties":{"region_id":"village_616719","name":"SIDDAPURA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

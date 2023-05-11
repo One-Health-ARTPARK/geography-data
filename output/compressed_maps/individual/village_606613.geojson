@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95113648747632,14.39832244029625],[75.95763024301509,14.42416681610073],[75.93673149615417,14.41524790029548],[75.95113648747632,14.39832244029625]]]},"properties":{"region_id":"village_606613","name":"PAMENAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

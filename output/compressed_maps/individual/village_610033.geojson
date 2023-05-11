@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41268375207198,13.57841679534519],[76.4048013059666,13.59091953995087],[76.39231734928157,13.59065605494567],[76.38255331319786,13.57042069498256],[76.41268375207198,13.57841679534519]]]},"properties":{"region_id":"village_610033","name":"BANNIKERE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

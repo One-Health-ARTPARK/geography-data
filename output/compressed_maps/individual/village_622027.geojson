@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.15591690639846,13.11783771978614],[78.14845668177777,13.12073036053781],[78.14257283679395,13.10894335106853],[78.1533336006525,13.10926817588986],[78.15591690639846,13.11783771978614]]]},"properties":{"region_id":"village_622027","name":"BASAVANATHA","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96507370954384,13.36670941945083],[77.97085496953625,13.37473018193502],[77.96452244366688,13.37956062865246],[77.96014041442213,13.3721400977827],[77.96507370954384,13.36670941945083]]]},"properties":{"region_id":"village_624562","name":"BOORAGAMAKALAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

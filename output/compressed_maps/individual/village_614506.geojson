@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98396641083255,12.74758761728875],[76.9662145920573,12.7496636750816],[76.97010575367798,12.733406109416],[76.98473030728132,12.73337789320743],[76.98396641083255,12.74758761728875]]]},"properties":{"region_id":"village_614506","name":"MUDYA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

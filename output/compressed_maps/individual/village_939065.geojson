@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7905199736124,12.54661121981858],[75.79405094907206,12.53501623815057],[75.81058248802684,12.52230685497307],[75.80946252154358,12.54693867699454],[75.79234852501381,12.55533329732228],[75.7905199736124,12.54661121981858]]]},"properties":{"region_id":"village_939065","name":"KIRUDALE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40024882800712,13.80640718347631],[77.40266033099824,13.82452202675972],[77.38401376181228,13.82189498441251],[77.37662635245123,13.80651139808157],[77.40024882800712,13.80640718347631]]]},"properties":{"region_id":"village_610877","name":"OBALAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

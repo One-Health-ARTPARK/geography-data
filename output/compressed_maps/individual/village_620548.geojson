@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32420386072953,17.01997996620966],[77.31163117108963,17.00975730215178],[77.33070139223405,16.99543794822512],[77.33119377187991,17.01452480623111],[77.32420386072953,17.01997996620966]]]},"properties":{"region_id":"village_620548","name":"RAGHAPUR","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

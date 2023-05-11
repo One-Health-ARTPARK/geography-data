@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4911864383251,16.39655151821125],[75.48702862356963,16.41803727256157],[75.47020007731487,16.39977033466319],[75.4911864383251,16.39655151821125]]]},"properties":{"region_id":"village_598481","name":"GULBAL","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

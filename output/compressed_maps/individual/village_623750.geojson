@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84809850688684,13.67884130915297],[77.82943422633996,13.6808519407057],[77.82994605411227,13.66961791058707],[77.84487486530897,13.66759835550085],[77.84809850688684,13.67884130915297]]]},"properties":{"region_id":"village_623750","name":"KATENAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

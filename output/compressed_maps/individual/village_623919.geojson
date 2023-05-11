@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97372294676441,13.77868456908279],[77.95381944712675,13.78709269968448],[77.94661257676054,13.80537242182458],[77.92652191879071,13.78602259713008],[77.93648285441667,13.77424379348279],[77.97372294676441,13.77868456908279]]]},"properties":{"region_id":"village_623919","name":"THOLLAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

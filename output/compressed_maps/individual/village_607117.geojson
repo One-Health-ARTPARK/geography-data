@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92655081842634,13.81367270845238],[75.92840244318322,13.8386956574041],[75.90529634171243,13.83724273589434],[75.90196367872895,13.8090706247733],[75.92655081842634,13.81367270845238]]]},"properties":{"region_id":"village_607117","name":"BASAVAPURA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

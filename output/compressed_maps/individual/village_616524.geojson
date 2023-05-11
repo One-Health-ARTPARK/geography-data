@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96614910617305,12.73114930536219],[75.9576296846259,12.73006902653893],[75.9602500943763,12.72134316745174],[75.96768512559227,12.72362756280964],[75.96614910617305,12.73114930536219]]]},"properties":{"region_id":"village_616524","name":"MATHRA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

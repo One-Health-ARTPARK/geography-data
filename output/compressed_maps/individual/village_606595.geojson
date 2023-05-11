@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.052728815183,14.50546885742207],[76.03708450769192,14.52118675903247],[75.99520653826754,14.51775061470297],[76.01264734502352,14.4776251895288],[76.052728815183,14.50546885742207]]]},"properties":{"region_id":"village_606595","name":"ALUR","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

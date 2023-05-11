@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95633060084275,12.88846591840208],[76.94669054811018,12.88980294329437],[76.94734641748875,12.88131800864243],[76.95633060084275,12.88846591840208]]]},"properties":{"region_id":"village_612672","name":"SHETTIPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

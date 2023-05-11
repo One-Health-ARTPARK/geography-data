@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01580013310836,13.97009123092392],[76.00271149664913,13.97018894496281],[75.99145688910897,13.96043455804344],[76.02547981999274,13.96022097748299],[76.01580013310836,13.97009123092392]]]},"properties":{"region_id":"village_607098","name":"GOPPENAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

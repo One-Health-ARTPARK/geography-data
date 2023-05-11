@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48798675169458,15.9375830025148],[76.47732350013129,15.93283011625052],[76.49389412236171,15.91991846625599],[76.49809562148259,15.92725393646494],[76.48798675169458,15.9375830025148]]]},"properties":{"region_id":"village_600527","name":"SOMPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

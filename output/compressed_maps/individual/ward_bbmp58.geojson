@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64800299955259,12.98693600024774],[77.64775299956175,12.96891999990772],[77.66648499985858,12.97188100027282],[77.66881200038196,12.98230899987266],[77.64800299955259,12.98693600024774]]]},"properties":{"region_id":"ward_bbmp58","name":"WARD NO.58 (NEW TIPPA SANDRA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

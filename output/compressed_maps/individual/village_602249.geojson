@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82326357370134,15.42651246558586],[74.81687255683688,15.442138947132],[74.80008442457328,15.44284915775866],[74.81226331224242,15.42494000997126],[74.82326357370134,15.42651246558586]]]},"properties":{"region_id":"village_602249","name":"AMBOLI","parent":"subdistrict_7081","parent_name":"ALNAVAR"}}
+]}

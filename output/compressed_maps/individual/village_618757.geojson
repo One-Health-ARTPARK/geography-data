@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58276322269973,12.22775909815168],[76.5708344566829,12.236192579938],[76.55556196294357,12.23155237896525],[76.57279666302085,12.21043825674838],[76.58276322269973,12.22775909815168]]]},"properties":{"region_id":"village_618757","name":"DANAGALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

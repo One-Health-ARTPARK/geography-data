@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70087857449147,12.7604553707287],[76.68630370058821,12.75960100694123],[76.68559052706875,12.74647629553023],[76.70153242431634,12.74900949105718],[76.70087857449147,12.7604553707287]]]},"properties":{"region_id":"village_614006","name":"KUPPAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

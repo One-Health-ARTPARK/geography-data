@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36640973704837,17.21667320407883],[77.3404671660594,17.21252228229621],[77.34411526282065,17.18046180614065],[77.36466857450698,17.1797800526028],[77.36640973704837,17.21667320407883]]]},"properties":{"region_id":"village_620588","name":"KURGUNTA (CT)","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

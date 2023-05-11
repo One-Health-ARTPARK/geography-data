@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32111491568305,14.72056219681992],[75.33312235880057,14.7506455531738],[75.3247557838904,14.75146210838656],[75.31297983425918,14.73530118060208],[75.32111491568305,14.72056219681992]]]},"properties":{"region_id":"village_604204","name":"NAJIKALAKAMAPUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

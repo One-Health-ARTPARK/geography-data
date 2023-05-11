@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79398249786414,12.66542528416674],[76.75569932716112,12.67022831220254],[76.75513760949133,12.65296389343693],[76.77753025826519,12.64985848909051],[76.79398249786414,12.66542528416674]]]},"properties":{"region_id":"village_614354","name":"HUNUGANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

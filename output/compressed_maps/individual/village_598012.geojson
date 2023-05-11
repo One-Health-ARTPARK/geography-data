@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.7011931492843,15.47398569016581],[74.69584846593396,15.48383379056703],[74.68454787503389,15.4764725314287],[74.68893292779094,15.46727349348195],[74.7011931492843,15.47398569016581]]]},"properties":{"region_id":"village_598012","name":"KARIKATTI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

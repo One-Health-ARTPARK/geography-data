@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04548666426724,13.91111403376068],[77.03999391259117,13.93384368365032],[77.02385263146039,13.94031632964471],[77.03019332084322,13.91265752767207],[77.04548666426724,13.91111403376068]]]},"properties":{"region_id":"village_610300","name":"HAROGERE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

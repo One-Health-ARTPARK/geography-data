@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40776223806834,17.23967897755972],[77.38261131747373,17.24961422673305],[77.38515146526075,17.2240264842324],[77.40776223806834,17.23967897755972]]]},"properties":{"region_id":"village_620468","name":"HALKODA","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

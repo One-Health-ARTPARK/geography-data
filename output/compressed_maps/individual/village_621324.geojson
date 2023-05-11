@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29473618459437,16.67942824623686],[77.23837708929555,16.69630515828616],[77.2314695820534,16.67025578631154],[77.28000664254863,16.65176376151193],[77.29473618459437,16.67942824623686]]]},"properties":{"region_id":"village_621324","name":"BALICHAKKAR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

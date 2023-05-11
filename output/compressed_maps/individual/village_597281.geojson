@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80555960071368,16.60498760391411],[74.77105493751915,16.60532890205543],[74.79372681186747,16.5770556111354],[74.80555960071368,16.60498760391411]]]},"properties":{"region_id":"village_597281","name":"MOLWAD","parent":"subdistrict_7100","parent_name":"KAGWAD"}}
+]}

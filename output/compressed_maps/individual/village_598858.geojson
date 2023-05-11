@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79790499817393,16.16892767711287],[75.77642477186923,16.1738772031633],[75.77863644997895,16.15859035649331],[75.79790499817393,16.16892767711287]]]},"properties":{"region_id":"village_598858","name":"MANNIKATTI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

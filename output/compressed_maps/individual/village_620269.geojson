@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80155389959495,17.25253518467894],[76.76436439918554,17.25912394641581],[76.75208621725405,17.23544484378679],[76.77807988544919,17.22222911686299],[76.80155389959495,17.25253518467894]]]},"properties":{"region_id":"village_620269","name":"PANEGAON","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

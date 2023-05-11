@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2140895488152,13.55289025555586],[77.21285652277138,13.5654805094755],[77.19973875054674,13.56539866292203],[77.19788544125673,13.54652221063655],[77.2140895488152,13.55289025555586]]]},"properties":{"region_id":"village_611036","name":"GOWRIKALLU","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

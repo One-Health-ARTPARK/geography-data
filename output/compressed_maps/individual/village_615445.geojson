@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9434898800681,13.08043246192743],[75.92851543728496,13.07813018095549],[75.93016191833875,13.06931156838884],[75.94602665561395,13.06817350665478],[75.9434898800681,13.08043246192743]]]},"properties":{"region_id":"village_615445","name":"PADUVALALU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10001399090712,12.51725262984673],[76.07551663338288,12.51911517360807],[76.07271195544888,12.51246402771104],[76.09296766326699,12.50468094579035],[76.10001399090712,12.51725262984673]]]},"properties":{"region_id":"village_618151","name":"SURAGAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

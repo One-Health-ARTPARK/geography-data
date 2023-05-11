@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01386834802067,14.71705944797968],[75.00181016578368,14.68771100766056],[75.03221260994626,14.69490639097943],[75.01386834802067,14.71705944797968]]]},"properties":{"region_id":"village_603265","name":"BADANAGOD","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

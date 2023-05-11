@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53474826854493,18.15969883876651],[77.52047059198044,18.1508571590536],[77.5085044941304,18.11290266811585],[77.54669254574017,18.11836140019023],[77.53474826854493,18.15969883876651]]]},"properties":{"region_id":"village_600102","name":"WADGAON DESHMUKH","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

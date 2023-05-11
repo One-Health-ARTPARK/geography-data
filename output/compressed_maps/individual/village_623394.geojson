@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59148459258725,13.52259923022323],[77.58957939118939,13.5375917929118],[77.5762232402152,13.53602833925022],[77.5751665963873,13.51318209235262],[77.59148459258725,13.52259923022323]]]},"properties":{"region_id":"village_623394","name":"PURA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

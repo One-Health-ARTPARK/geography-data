@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4380016470011,13.18210291275817],[77.43507326590633,13.17740679333827],[77.44298976915866,13.16688994134978],[77.44676898113092,13.17845657516177],[77.4380016470011,13.18210291275817]]]},"properties":{"region_id":"village_625240","name":"KUKKANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

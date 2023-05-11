@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37079065226746,13.01633567269588],[77.37692760772428,13.01665454120218],[77.3768907089939,13.02965105658741],[77.37117257576405,13.02928840620526],[77.37079065226746,13.01633567269588]]]},"properties":{"region_id":"village_624944","name":"IREGENAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

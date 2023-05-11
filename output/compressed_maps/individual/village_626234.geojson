@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19480888589723,12.59332347427737],[77.18437908067358,12.61013352296986],[77.16687365177076,12.60245532439772],[77.16915962906525,12.587568040324],[77.19480888589723,12.59332347427737]]]},"properties":{"region_id":"village_626234","name":"MALURPATNA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

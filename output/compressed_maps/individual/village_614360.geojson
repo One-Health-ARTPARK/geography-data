@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8389221144637,12.67553095878667],[76.84091606331268,12.66188342163899],[76.85923579208739,12.65588549506577],[76.85768441713847,12.67255288695418],[76.8389221144637,12.67553095878667]]]},"properties":{"region_id":"village_614360","name":"DODDAGARUDANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

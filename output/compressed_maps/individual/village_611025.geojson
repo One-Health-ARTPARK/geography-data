@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15000795695951,13.51626153832712],[77.15993484912308,13.51524074048464],[77.16106646215944,13.5214866067109],[77.15091359047564,13.52463275754406],[77.15000795695951,13.51626153832712]]]},"properties":{"region_id":"village_611025","name":"VENKANNANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

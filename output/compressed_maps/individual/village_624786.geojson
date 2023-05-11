@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34622309362946,13.3112200591859],[77.33829987252493,13.29700808838392],[77.35040673636877,13.29142174849016],[77.34622309362946,13.3112200591859]]]},"properties":{"region_id":"village_624786","name":"MAVINAKUNTE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

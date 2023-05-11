@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62132123429022,13.42921895441396],[76.61156355957647,13.4301710143653],[76.61468744934588,13.42348214159346],[76.62132123429022,13.42921895441396]]]},"properties":{"region_id":"village_610205","name":"DASIHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

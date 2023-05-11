@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10419915112625,13.6509332196623],[77.09262485521712,13.65130808425103],[77.09245846743086,13.64407888240653],[77.10357448913902,13.64051437398937],[77.10419915112625,13.6509332196623]]]},"properties":{"region_id":"village_610779","name":"OBALIHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

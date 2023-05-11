@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34613554744233,13.56030466530303],[75.34231010604734,13.57796522641638],[75.32977866750198,13.56390570311505],[75.34613554744233,13.56030466530303]]]},"properties":{"region_id":"village_608994","name":"KUMBARKOPPA","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

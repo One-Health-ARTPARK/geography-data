@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31636242037393,13.54062663612417],[76.29475095461325,13.54750367020425],[76.2954962078258,13.52749072160605],[76.31636242037393,13.54062663612417]]]},"properties":{"region_id":"village_609583","name":"BITTENAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

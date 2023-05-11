@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15703781773595,12.49032302989469],[77.13198026977832,12.50488242318866],[77.12488556403221,12.489193193623],[77.14036555655554,12.46418059578162],[77.15703781773595,12.49032302989469]]]},"properties":{"region_id":"village_626307","name":"IGGALURU","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

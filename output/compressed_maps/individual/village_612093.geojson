@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49919684834386,13.25493521947777],[76.4891343693731,13.25632647264358],[76.48993815318372,13.24077500929256],[76.5014016274639,13.24400884228788],[76.49919684834386,13.25493521947777]]]},"properties":{"region_id":"village_612093","name":"GORAGONDANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

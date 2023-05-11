@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.33445758908766,14.6075080170266],[74.32584971141792,14.60188617670229],[74.33413905847551,14.5961493795358],[74.34089149083981,14.60049492266154],[74.33445758908766,14.6075080170266]]]},"properties":{"region_id":"village_603382","name":"JOOG","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

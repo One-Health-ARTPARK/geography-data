@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0979138942939,13.01329950847569],[76.09566612157647,13.01745930734556],[76.08838335907033,13.01533112596561],[76.08943356519805,13.00997633081702],[76.0979138942939,13.01329950847569]]]},"properties":{"region_id":"village_616098","name":"JAVENAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

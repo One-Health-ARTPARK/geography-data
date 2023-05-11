@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93628224911443,12.517552251632],[75.92396248967496,12.51637717726125],[75.92602479009277,12.50799858349343],[75.93761823516432,12.50725360923891],[75.93628224911443,12.517552251632]]]},"properties":{"region_id":"village_923990","name":"BYADAGOTTA","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

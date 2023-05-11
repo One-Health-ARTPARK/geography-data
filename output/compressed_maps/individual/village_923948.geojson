@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86734530522048,12.61579491926807],[75.85680492286629,12.61565032669622],[75.85220145327875,12.60936159622348],[75.8561809459193,12.59619691939464],[75.87219061453364,12.6106534065248],[75.86734530522048,12.61579491926807]]]},"properties":{"region_id":"village_923948","name":"KIBBETTA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

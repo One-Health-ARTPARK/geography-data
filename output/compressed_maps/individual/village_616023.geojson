@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10923508955975,12.93940209849259],[76.09246164646166,12.93332902136558],[76.10728825698162,12.92232072097415],[76.10923508955975,12.93940209849259]]]},"properties":{"region_id":"village_616023","name":"AGILE","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95844002181008,12.93479448551383],[75.96021486315,12.93925821105141],[75.9528901337571,12.94293236874901],[75.95132067859966,12.93318723346775],[75.95844002181008,12.93479448551383]]]},"properties":{"region_id":"village_616361","name":"KOTTIGANAHALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

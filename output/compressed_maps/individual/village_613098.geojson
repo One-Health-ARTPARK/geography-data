@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76616833012355,13.06573937410899],[77.75384530116962,13.06486174325678],[77.76204567837048,13.05380608911336],[77.76616833012355,13.06573937410899]]]},"properties":{"region_id":"village_613098","name":"HUSKUR","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

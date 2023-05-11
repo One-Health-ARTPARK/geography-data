@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61900169822162,13.48704402165174],[77.61538370853737,13.49077699881113],[77.60583861943248,13.48583747619066],[77.6084578759718,13.48147208715362],[77.6187235440395,13.48109442689999],[77.61900169822162,13.48704402165174]]]},"properties":{"region_id":"village_623417","name":"KANAGANAKOPPA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

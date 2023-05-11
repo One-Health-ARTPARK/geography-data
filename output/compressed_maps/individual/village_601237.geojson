@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05555824503762,15.67331283398735],[76.01654502522399,15.67831744318433],[76.00965623791743,15.65556564951454],[76.03276916391526,15.63927311620894],[76.05555824503762,15.67331283398735]]]},"properties":{"region_id":"village_601237","name":"TUMURGUDDI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

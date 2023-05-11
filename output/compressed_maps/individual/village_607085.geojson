@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97426693239119,13.96000615195236],[75.95753408329668,13.96767266080445],[75.93954878313923,13.95738694251064],[75.97072712280236,13.94489938644414],[75.97426693239119,13.96000615195236]]]},"properties":{"region_id":"village_607085","name":"HALAKANHALU","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

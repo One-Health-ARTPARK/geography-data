@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58568499983357,12.91048399995061],[77.57294700015485,12.9114679995881],[77.57519399996343,12.90544400032834],[77.59343599968231,12.90528400018327],[77.58568499983357,12.91048399995061]]]},"properties":{"region_id":"ward_bbmp178","name":"WARD NO.178 (SARAKKI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

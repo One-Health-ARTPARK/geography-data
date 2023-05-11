@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02749010476059,17.47185716795091],[77.01397475115176,17.44750143410344],[77.03303913982377,17.44463610389409],[77.02749010476059,17.47185716795091]]]},"properties":{"region_id":"village_620590","name":"HERUR (K)","parent":"subdistrict_7087","parent_name":"KALAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.09931781563836,13.72430558926863],[78.09082768616175,13.73396707784734],[78.08716007209047,13.71409298974823],[78.0992315480145,13.71577469071664],[78.09931781563836,13.72430558926863]]]},"properties":{"region_id":"village_624011","name":"SHEERKHANKOTE","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38342667910752,13.79376395362556],[77.34516186945105,13.79430652913878],[77.34387937132813,13.77337782915778],[77.38420127401697,13.7751085119663],[77.38342667910752,13.79376395362556]]]},"properties":{"region_id":"village_610901","name":"SUDDEKUNTE","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43541144128898,14.12899392432541],[76.39021267975205,14.10575301654991],[76.40658529491765,14.07874352525401],[76.44345647273751,14.09167151828789],[76.43541144128898,14.12899392432541]]]},"properties":{"region_id":"village_605616","name":"KENNE HADLU","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

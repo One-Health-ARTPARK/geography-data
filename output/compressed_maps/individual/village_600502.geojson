@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6097848392355,16.02265595536668],[76.59187106344272,16.02254651389248],[76.58878837267541,16.00237803786201],[76.61327780811474,16.00159706950243],[76.6097848392355,16.02265595536668]]]},"properties":{"region_id":"village_600502","name":"KATAGAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44205758942066,14.30015852325845],[75.42325344563737,14.32028015873754],[75.42350548418854,14.3005261993587],[75.44205758942066,14.30015852325845]]]},"properties":{"region_id":"village_607797","name":"SANKLAPURA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27964950308856,17.0549207521899],[76.2578680183716,17.06235621807819],[76.24539923846788,17.05334486448615],[76.26875930234586,17.03630749734682],[76.27964950308856,17.0549207521899]]]},"properties":{"region_id":"village_599315","name":"ALAHALLI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

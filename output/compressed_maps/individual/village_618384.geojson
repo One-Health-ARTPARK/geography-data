@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18733001704153,12.22811720598657],[76.17781871226083,12.223724084191],[76.1788074768521,12.21170070991095],[76.18714932188469,12.21541833649318],[76.18733001704153,12.22811720598657]]]},"properties":{"region_id":"village_618384","name":"ABBURU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

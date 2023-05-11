@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2086330070434,14.1643874061075],[77.16097532490234,14.17091432574528],[77.16188849947325,14.13298710744883],[77.22100325933943,14.13217394428195],[77.2086330070434,14.1643874061075]]]},"properties":{"region_id":"village_610601","name":"KOTAGUDDA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

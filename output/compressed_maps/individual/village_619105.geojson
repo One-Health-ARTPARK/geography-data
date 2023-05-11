@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35921646267278,11.85608556225749],[76.36984115005052,11.85802846249992],[76.3654012706123,11.8690818138544],[76.35921646267278,11.85608556225749]]]},"properties":{"region_id":"village_619105","name":"MOLEYURUKAVAL","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77277266167103,13.78679309933872],[74.79725823701682,13.83676676121788],[74.72946829819143,13.86022186924681],[74.72302964650856,13.81419982776609],[74.77277266167103,13.78679309933872]]]},"properties":{"region_id":"village_608682","name":"GOLIHOLE","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

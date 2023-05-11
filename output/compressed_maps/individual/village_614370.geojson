@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83939716590085,12.67455048469197],[76.81629180018267,12.66381062228749],[76.83799347941819,12.65344379826027],[76.83939716590085,12.67455048469197]]]},"properties":{"region_id":"village_614370","name":"HODAGHATTA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

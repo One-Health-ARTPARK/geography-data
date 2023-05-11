@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66982125328352,11.72640088498908],[76.65940684944142,11.72865292405234],[76.6596598364145,11.72136427649651],[76.66988691196896,11.72081420213346],[76.66982125328352,11.72640088498908]]]},"properties":{"region_id":"village_619586","name":"PASSAIAHNAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40283595512672,16.52764605150897],[75.42500071386833,16.52934701972043],[75.43664649795001,16.57710309887814],[75.41850792396271,16.57963826128313],[75.40283595512672,16.52764605150897]]]},"properties":{"region_id":"village_598470","name":"KAVATAGI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

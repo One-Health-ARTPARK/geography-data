@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1600562094125,13.43468948335459],[77.14921989391442,13.43970215717132],[77.14898258273467,13.42651597531946],[77.15708352983395,13.42547307215254],[77.1600562094125,13.43468948335459]]]},"properties":{"region_id":"village_611363","name":"OBALAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

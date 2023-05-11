@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78390367100349,12.96910552215211],[76.77066394981571,12.9713518880172],[76.77266625720966,12.9599035486812],[76.78390367100349,12.96910552215211]]]},"properties":{"region_id":"village_613736","name":"KANCHINAKOTE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

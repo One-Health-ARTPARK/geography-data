@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.39320395320867,15.81858193605724],[74.3958568067871,15.83345195601679],[74.38998475277282,15.84877064368373],[74.38315572299382,15.84941033551016],[74.38495836927565,15.82602218620888],[74.39320395320867,15.81858193605724]]]},"properties":{"region_id":"village_597723","name":"SONOLI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34466163040557,18.26503098657979],[77.3124270720567,18.27790059359284],[77.31771054345799,18.25219560600761],[77.34466163040557,18.26503098657979]]]},"properties":{"region_id":"village_599992","name":"KARKHIYAL","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

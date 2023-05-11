@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51497399739694,13.09491162694149],[77.50490264189797,13.09904561111474],[77.5030245243537,13.08962678996112],[77.51040266579568,13.08539547696096],[77.51497399739694,13.09491162694149]]]},"properties":{"region_id":"village_612818","name":"GANIGARAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

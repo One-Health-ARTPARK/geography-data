@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72769184576805,14.17069768034306],[75.70722497696433,14.17080550859102],[75.70849132021965,14.14827386252274],[75.72060482378663,14.14869445141138],[75.72769184576805,14.17069768034306]]]},"properties":{"region_id":"village_606861","name":"SASAVEHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

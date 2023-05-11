@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84926339862407,12.45029157835093],[75.83971650981373,12.43936386560771],[75.8478650089672,12.42238018034233],[75.86390773721334,12.43463600728963],[75.84926339862407,12.45029157835093]]]},"properties":{"region_id":"village_923987","name":"KODAGARAHALLI","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

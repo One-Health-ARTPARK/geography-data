@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89286498439213,13.78797218996152],[76.89362358476829,13.81051256592665],[76.8730887693119,13.80690633226211],[76.89286498439213,13.78797218996152]]]},"properties":{"region_id":"village_610347","name":"CHIKKANAKOTE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

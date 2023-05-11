@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8574619405721,12.74218648466074],[76.83475524249792,12.7379589578832],[76.84959045909838,12.72400023080806],[76.8574619405721,12.74218648466074]]]},"properties":{"region_id":"village_614324","name":"KAMBADAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

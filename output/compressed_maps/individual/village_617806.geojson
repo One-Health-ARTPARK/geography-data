@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70713515299717,12.3524928381687],[75.7058656947246,12.36378524558619],[75.68955792032132,12.36957937784378],[75.68208093537757,12.3518149252837],[75.70713515299717,12.3524928381687]]]},"properties":{"region_id":"village_617806","name":"BETTAGERI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

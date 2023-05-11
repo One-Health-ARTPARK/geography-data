@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12099199502207,13.97913756307755],[76.11881549962102,13.99845158342026],[76.09598597950185,13.99735857862462],[76.09873307550582,13.98078542081908],[76.12099199502207,13.97913756307755]]]},"properties":{"region_id":"village_605683","name":"RANGAPURA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94733941638474,13.11266879128372],[75.93937795398459,13.12226366716678],[75.92693001456351,13.11915774708202],[75.9350296136525,13.10228531234816],[75.94733941638474,13.11266879128372]]]},"properties":{"region_id":"village_615333","name":"GORUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

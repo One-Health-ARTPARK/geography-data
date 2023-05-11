@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18401401914788,16.27562346963624],[75.1840741553878,16.32904263121378],[75.16578442122764,16.32477665421117],[75.16413002910622,16.27995714749672],[75.18401401914788,16.27562346963624]]]},"properties":{"region_id":"village_598565","name":"VANTIGODI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32708031195418,13.72993833087308],[75.3177944530058,13.72948915590573],[75.31595329525311,13.72089107643117],[75.327829216734,13.71998106990541],[75.32708031195418,13.72993833087308]]]},"properties":{"region_id":"village_608163","name":"KASAGARU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

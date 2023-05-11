@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9895656078425,12.6704034862394],[75.98228605538972,12.66338201815095],[75.99127271452356,12.65956812707992],[75.9895656078425,12.6704034862394]]]},"properties":{"region_id":"village_616533","name":"MARAGOWDANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

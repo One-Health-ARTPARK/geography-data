@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75321072308081,13.64192779744594],[77.74769698327535,13.63774142002697],[77.75576446279887,13.63580244396471],[77.75321072308081,13.64192779744594]]]},"properties":{"region_id":"village_623773","name":"BOMMANAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81250482241005,16.31222108726084],[76.7986500585468,16.2848239154857],[76.82109596423031,16.27988710651436],[76.83040140859595,16.31143881230184],[76.81250482241005,16.31222108726084]]]},"properties":{"region_id":"village_600568","name":"HULIGUD","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

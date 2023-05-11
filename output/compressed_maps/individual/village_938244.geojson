@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77208585164682,12.96593168268156],[77.75523962977017,12.97669595344164],[77.7497642977568,12.95629056206837],[77.77208585164682,12.96593168268156]]]},"properties":{"region_id":"village_938244","name":"HAGADURU","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

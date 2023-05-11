@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49897499992748,12.92597100037524],[77.48913799976485,12.92332700027921],[77.47341400030956,12.92654799961398],[77.46659199962332,12.9068459997832],[77.48185300001805,12.91020899996684],[77.49897499992748,12.92597100037524]]]},"properties":{"region_id":"ward_bbmp159","name":"WARD NO.159 (KENGERI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

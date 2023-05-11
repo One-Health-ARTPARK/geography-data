@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.02324441762886,13.23380653622229],[78.01077346679186,13.23692008725251],[78.0112855611938,13.2290400828586],[78.01930175207428,13.22625410965582],[78.02324441762886,13.23380653622229]]]},"properties":{"region_id":"village_621777","name":"CHANJIMALE","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

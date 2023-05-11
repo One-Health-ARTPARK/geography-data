@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13056683709235,16.18415281595968],[76.14219186880568,16.18043564153955],[76.15318802305615,16.22718828136907],[76.14364359315638,16.22838208052753],[76.13056683709235,16.18415281595968]]]},"properties":{"region_id":"village_599637","name":"BAILKUR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55763424881667,13.22610303808572],[77.55170751598301,13.23467619136284],[77.5433178592548,13.23308493598075],[77.54582472157927,13.22106214206808],[77.55763424881667,13.22610303808572]]]},"properties":{"region_id":"village_612831","name":"KADATHANAMALE","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

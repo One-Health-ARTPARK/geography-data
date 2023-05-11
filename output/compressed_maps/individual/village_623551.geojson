@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70003701554396,13.43038592678112],[77.65575793129513,13.43283443889391],[77.6661950375708,13.41760913367147],[77.70200188035405,13.4171680408335],[77.70003701554396,13.43038592678112]]]},"properties":{"region_id":"village_623551","name":"KALAVARA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

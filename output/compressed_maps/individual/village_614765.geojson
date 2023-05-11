@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.270195767842,12.43379591315123],[77.2694273332905,12.46476046765734],[77.25455573667988,12.45355913525568],[77.25450755126279,12.43462401437649],[77.270195767842,12.43379591315123]]]},"properties":{"region_id":"village_614765","name":"BALEHONNIGA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

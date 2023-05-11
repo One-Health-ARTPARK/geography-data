@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24520172320972,13.88193875997362],[77.22866066009017,13.88837574110621],[77.22650049162075,13.88259448569365],[77.24143955811816,13.87524266342936],[77.24520172320972,13.88193875997362]]]},"properties":{"region_id":"village_610678","name":"KYATHAGONDANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

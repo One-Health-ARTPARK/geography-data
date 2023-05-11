@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76474433852974,12.76243296242121],[76.74939219164163,12.76236116127695],[76.74783728625862,12.75139067078993],[76.75881593962131,12.75055471219776],[76.76474433852974,12.76243296242121]]]},"properties":{"region_id":"village_614001","name":"AREALPAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

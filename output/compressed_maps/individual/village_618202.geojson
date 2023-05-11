@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2395464523043,12.39925694941746],[76.2154352278339,12.41166550386093],[76.20174340909605,12.40792957675759],[76.20017065150762,12.38903957546447],[76.2395464523043,12.39925694941746]]]},"properties":{"region_id":"village_618202","name":"MAKODU","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

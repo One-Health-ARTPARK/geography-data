@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13445103040138,12.89232614931788],[75.10260185774393,12.89135360588493],[75.09380866911545,12.88086022465192],[75.1148809242769,12.86615419779246],[75.13445103040138,12.89232614931788]]]},"properties":{"region_id":"village_617548","name":"SARAPADY","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

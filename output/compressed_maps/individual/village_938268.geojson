@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69637766482089,12.94915776390743],[77.69924518756832,12.95934918777108],[77.69040256501292,12.95973001756422],[77.69637766482089,12.94915776390743]]]},"properties":{"region_id":"village_938268","name":"MARATAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

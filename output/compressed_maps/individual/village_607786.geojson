@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38438289594234,14.29941585223589],[75.38537582975621,14.31550777203391],[75.35781859253483,14.31414279516029],[75.35609199061692,14.30067651625617],[75.38438289594234,14.29941585223589]]]},"properties":{"region_id":"village_607786","name":"GODDANAKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

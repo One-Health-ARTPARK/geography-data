@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6781768693003,13.27714740745564],[76.66488522745279,13.28222809992542],[76.6669814822875,13.26167433588198],[76.67900021497267,13.2663285641012],[76.6781768693003,13.27714740745564]]]},"properties":{"region_id":"village_612197","name":"HULISANDRA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

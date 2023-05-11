@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54526905864601,13.65494889607054],[77.53965629963798,13.67483643675269],[77.52132007568513,13.67005491427141],[77.52364057026884,13.65610210488938],[77.54526905864601,13.65494889607054]]]},"properties":{"region_id":"village_623245","name":"RAMACHANDRAPURA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

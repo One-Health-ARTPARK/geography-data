@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24738051639477,14.48075603220949],[75.23035194931528,14.46686216825095],[75.24788398462658,14.45356344441395],[75.25849615456595,14.46542565454083],[75.24738051639477,14.48075603220949]]]},"properties":{"region_id":"village_607690","name":"KANAS0GI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

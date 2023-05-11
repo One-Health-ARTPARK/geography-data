@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25806634443887,13.02116025579132],[76.24748023514533,13.03203143741543],[76.23814656088034,13.01589897429907],[76.25479722292275,13.01005443614354],[76.25806634443887,13.02116025579132]]]},"properties":{"region_id":"village_615985","name":"HARANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

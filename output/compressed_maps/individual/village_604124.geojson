@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05163568264395,14.6662383390419],[75.05259450634931,14.68703663534345],[75.03400689554202,14.68316276449363],[75.0353340917479,14.65797220616424],[75.05163568264395,14.6662383390419]]]},"properties":{"region_id":"village_604124","name":"NERALGI (INAM)","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

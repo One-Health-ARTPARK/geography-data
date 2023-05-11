@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10904728441234,13.95298303997489],[76.11053938779442,13.9365739986711],[76.12375974640346,13.94092883267075],[76.10904728441234,13.95298303997489]]]},"properties":{"region_id":"village_605690","name":"AMBLIHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

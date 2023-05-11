@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04852378574238,15.56573884498175],[76.02511824083767,15.52388363499198],[76.0633575006914,15.52156605983685],[76.06672350458193,15.55373077005552],[76.04852378574238,15.56573884498175]]]},"properties":{"region_id":"village_601327","name":"BALGERA","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

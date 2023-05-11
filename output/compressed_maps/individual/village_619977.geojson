@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69894165818694,17.64199904421919],[76.7070863422217,17.6628239271412],[76.68440394602862,17.65978212293687],[76.6859920529588,17.64113015249713],[76.69894165818694,17.64199904421919]]]},"properties":{"region_id":"village_619977","name":"BHARKED","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27168031647267,15.63435324957507],[76.25804990073752,15.63548157946057],[76.26159985840938,15.60984561460091],[76.27346632408114,15.61366804895485],[76.27168031647267,15.63435324957507]]]},"properties":{"region_id":"village_601298","name":"TIPPANHAL","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

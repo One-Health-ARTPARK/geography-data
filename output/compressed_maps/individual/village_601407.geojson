@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98426823488242,15.85256234295477],[75.97617377421733,15.85103843741101],[75.97984576968288,15.82689606335615],[75.9904821582396,15.83356345994808],[75.98426823488242,15.85256234295477]]]},"properties":{"region_id":"village_601407","name":"GORBIHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00756755184317,16.85789728826754],[76.98170869024759,16.86111491904109],[76.9828771969734,16.84447628718406],[77.00756755184317,16.85789728826754]]]},"properties":{"region_id":"village_621226","name":"SIDDARTHNAGAR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

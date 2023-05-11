@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50327726606685,13.09388012165313],[77.49400801925609,13.09452879775518],[77.4929737806133,13.07352586761424],[77.50629717448594,13.07985347696228],[77.50327726606685,13.09388012165313]]]},"properties":{"region_id":"village_612950","name":"CHIKKABANAVARA (CT)","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

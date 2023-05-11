@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03837635466671,14.7904146127588],[75.02185684970289,14.79271821249216],[75.0200886405642,14.77463022107584],[75.04993159153061,14.77349127489833],[75.03837635466671,14.7904146127588]]]},"properties":{"region_id":"village_603069","name":"KALKOPPA","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

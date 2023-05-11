@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55812918078362,16.17860327287966],[74.53937618992305,16.17384636883863],[74.53986614180624,16.15516799162374],[74.55963065784067,16.15588211075218],[74.55812918078362,16.17860327287966]]]},"properties":{"region_id":"village_597581","name":"KURNIWADI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

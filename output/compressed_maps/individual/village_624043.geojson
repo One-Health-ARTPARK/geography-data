@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89781416582925,13.61008261821987],[77.87417002593787,13.61849179056397],[77.87952798600062,13.60118136559158],[77.89781416582925,13.61008261821987]]]},"properties":{"region_id":"village_624043","name":"S.GOLLAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

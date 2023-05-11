@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51707770607558,12.31015300721166],[76.49611730871568,12.3138955477475],[76.50871627988069,12.29858019877186],[76.51707770607558,12.31015300721166]]]},"properties":{"region_id":"village_618711","name":"KAMARAVALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

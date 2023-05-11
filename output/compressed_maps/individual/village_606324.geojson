@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06741349128482,14.70867428411904],[76.05570473729122,14.70977379263113],[76.0538886070105,14.69178211048717],[76.07163635566754,14.69310788089106],[76.06741349128482,14.70867428411904]]]},"properties":{"region_id":"village_606324","name":"HIKKIMGERI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

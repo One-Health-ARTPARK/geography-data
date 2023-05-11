@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9282492342776,12.74547107451141],[75.93794758429735,12.75023301324523],[75.93373183579502,12.7589095410076],[75.92687173772357,12.75200345714795],[75.9282492342776,12.74547107451141]]]},"properties":{"region_id":"village_617888","name":"KITTURU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

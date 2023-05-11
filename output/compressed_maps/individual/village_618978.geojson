@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43225872448191,12.0206052650145],[76.42525554168667,12.03224865592039],[76.41112436477002,12.03125902794796],[76.41379036420585,12.01527448991559],[76.43225872448191,12.0206052650145]]]},"properties":{"region_id":"village_618978","name":"KALLASARAGUR","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

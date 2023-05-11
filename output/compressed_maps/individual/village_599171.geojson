@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69408837647539,17.31595665389048],[75.66973594341805,17.33794703251694],[75.61282949460036,17.33097771906893],[75.62380694266096,17.29040497420052],[75.69408837647539,17.31595665389048]]]},"properties":{"region_id":"village_599171","name":"CHADCHAN","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

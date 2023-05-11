@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72999820974525,15.85493545417465],[75.71926644256543,15.84105798583788],[75.72299055303601,15.81826352531375],[75.73607460549495,15.81655189084236],[75.72999820974525,15.85493545417465]]]},"properties":{"region_id":"village_598765","name":"DHANAKASHIRUR","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

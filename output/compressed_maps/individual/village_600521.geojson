@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6243480177332,15.93965355565993],[76.60804623203975,15.92535316832729],[76.60217568806367,15.90382435302901],[76.62929388043538,15.9028466836526],[76.63842291043524,15.91810381058405],[76.6243480177332,15.93965355565993]]]},"properties":{"region_id":"village_600521","name":"NARAGA BENCHI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

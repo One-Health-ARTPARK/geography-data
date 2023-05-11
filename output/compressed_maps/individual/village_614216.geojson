@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6721688179381,12.44799797094075],[76.68156789885921,12.44952050525335],[76.6748988724218,12.46306937059526],[76.66665763199207,12.4585677480046],[76.6721688179381,12.44799797094075]]]},"properties":{"region_id":"village_614216","name":"MAKANAKOPPALU","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

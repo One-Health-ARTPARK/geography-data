@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36877620300663,14.0209644363782],[76.35683900894294,14.01963045637523],[76.35512764845849,14.00756931706517],[76.36846114280857,14.00864192883658],[76.36877620300663,14.0209644363782]]]},"properties":{"region_id":"village_605801","name":"GOLLARAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

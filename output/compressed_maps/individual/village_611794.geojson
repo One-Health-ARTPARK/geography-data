@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80055268175919,13.33666520390288],[76.77991989838917,13.33934040861484],[76.77957943069181,13.32061209301133],[76.81254021727297,13.32148781908823],[76.80055268175919,13.33666520390288]]]},"properties":{"region_id":"village_611794","name":"BIDAREHALLA KAVAL","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74777256264998,13.58281884222805],[76.70454539291427,13.58195533909365],[76.7120900822674,13.54999093279277],[76.74777256264998,13.58281884222805]]]},"properties":{"region_id":"village_611614","name":"SIDDAPURA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

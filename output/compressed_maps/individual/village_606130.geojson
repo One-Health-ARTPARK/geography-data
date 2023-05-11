@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5094899473058,13.95042876057964],[76.46656256685687,13.94724626106454],[76.47996378081056,13.90974567794935],[76.51645110320071,13.91584488813474],[76.5094899473058,13.95042876057964]]]},"properties":{"region_id":"village_606130","name":"BHARAMAGIRI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

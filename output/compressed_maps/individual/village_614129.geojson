@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60748399238551,12.52514722814099],[76.59765568854161,12.51816672759236],[76.61341290010569,12.50736421129815],[76.61948436198493,12.51528349508377],[76.60748399238551,12.52514722814099]]]},"properties":{"region_id":"village_614129","name":"KANIVEKOPPALU","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

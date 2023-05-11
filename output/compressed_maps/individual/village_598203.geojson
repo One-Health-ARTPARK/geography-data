@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95933289559659,15.91327284290057],[74.92742131923528,15.91397397054836],[74.92588852972683,15.90165144248802],[74.95142189215726,15.9012144619797],[74.95933289559659,15.91327284290057]]]},"properties":{"region_id":"village_598203","name":"JANGAMABUDAGATTI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

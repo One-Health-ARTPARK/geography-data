@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48515306229785,15.34240105992086],[75.47975431220165,15.36655952190066],[75.4545477013355,15.36030009585199],[75.45743103199136,15.34180930540588],[75.48515306229785,15.34240105992086]]]},"properties":{"region_id":"village_602030","name":"BENTUR","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

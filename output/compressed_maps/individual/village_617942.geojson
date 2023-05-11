@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87916952655023,12.59217140499921],[75.86797244305518,12.60532976752186],[75.86094191700063,12.58990603045986],[75.87916952655023,12.59217140499921]]]},"properties":{"region_id":"village_617942","name":"MASAGODU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

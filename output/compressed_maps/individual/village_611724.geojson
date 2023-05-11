@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95792566375987,13.38515971906106],[76.94377599895114,13.39103726064391],[76.94104645090162,13.37386978729654],[76.96344579125584,13.37250000423677],[76.95792566375987,13.38515971906106]]]},"properties":{"region_id":"village_611724","name":"KONANAKALLU","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

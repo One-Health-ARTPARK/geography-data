@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82164184259862,14.58354642450104],[74.80843887085129,14.58247146533407],[74.81589379757658,14.57257559232459],[74.82164184259862,14.58354642450104]]]},"properties":{"region_id":"village_603234","name":"KARSULLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

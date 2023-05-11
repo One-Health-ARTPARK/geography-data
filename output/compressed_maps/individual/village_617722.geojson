@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32739699237057,12.715926210038],[75.31811960383908,12.71001130556628],[75.31028551116133,12.66393811412735],[75.33296508265273,12.687099289322],[75.32739699237057,12.715926210038]]]},"properties":{"region_id":"village_617722","name":"PALTHADI","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

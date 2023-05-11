@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20362012084206,14.40470358573188],[76.18496583710592,14.40733324157783],[76.19284224070418,14.39477158727455],[76.20362012084206,14.40470358573188]]]},"properties":{"region_id":"village_605440","name":"DYAPANAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

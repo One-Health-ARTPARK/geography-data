@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65713293638281,13.69557183783457],[77.6315623584293,13.6962448081722],[77.64348306296617,13.6831085776389],[77.65713293638281,13.69557183783457]]]},"properties":{"region_id":"village_623309","name":"THOKALAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

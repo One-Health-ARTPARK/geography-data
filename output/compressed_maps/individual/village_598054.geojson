@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65886928340943,15.82116273579986],[74.64100795598789,15.8242088350912],[74.63123117786257,15.81348789822944],[74.63911559578071,15.8056407382251],[74.65891964081445,15.80423308290309],[74.65886928340943,15.82116273579986]]]},"properties":{"region_id":"village_598054","name":"GANIKOPPA","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

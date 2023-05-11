@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51765923999197,15.9656302209192],[76.47294899369679,15.96828999217338],[76.50203926900092,15.92712821401605],[76.51765923999197,15.9656302209192]]]},"properties":{"region_id":"village_600512","name":"TIMMAPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

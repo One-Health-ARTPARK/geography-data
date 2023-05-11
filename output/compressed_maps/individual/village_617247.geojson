@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43511644743595,12.98604094927989],[76.41756677692571,12.98943306892143],[76.410208415356,12.96878684059356],[76.41616767887881,12.95772380853198],[76.43511644743595,12.98604094927989]]]},"properties":{"region_id":"village_617247","name":"KALKERE","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

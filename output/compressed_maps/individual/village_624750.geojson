@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23449197655705,13.22198582570301],[77.21230170991,13.21031401697827],[77.2162117119881,13.19248448755452],[77.23262970415361,13.20186802339279],[77.23449197655705,13.22198582570301]]]},"properties":{"region_id":"village_624750","name":"KENGAL","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

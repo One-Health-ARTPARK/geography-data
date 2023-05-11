@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06702928743847,12.04733540258158],[77.06268366861252,12.04707881014715],[77.06120179334812,12.03381266758412],[77.0705294736261,12.03553831186064],[77.06702928743847,12.04733540258158]]]},"properties":{"region_id":"village_619809","name":"KOMARANAPURA","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

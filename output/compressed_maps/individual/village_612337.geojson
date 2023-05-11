@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67053218301938,13.12285594810629],[76.64337909942546,13.1197445511235],[76.64278828009688,13.10769259634571],[76.66758702984433,13.0992961415821],[76.67053218301938,13.12285594810629]]]},"properties":{"region_id":"village_612337","name":"GONI TUMKUR","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

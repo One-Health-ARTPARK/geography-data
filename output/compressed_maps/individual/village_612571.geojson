@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11673026950423,12.96350516168834],[77.10363381842187,12.95765755579077],[77.1084621568105,12.94351760408328],[77.12181755106236,12.94815470796841],[77.11673026950423,12.96350516168834]]]},"properties":{"region_id":"village_612571","name":"HUTHRIDURGA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

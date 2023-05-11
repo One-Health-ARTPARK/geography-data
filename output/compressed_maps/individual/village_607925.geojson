@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16918143825599,13.99407488437522],[75.16271824957367,13.97901613526703],[75.1746851787017,13.97891976431288],[75.16918143825599,13.99407488437522]]]},"properties":{"region_id":"village_607925","name":"MUTHALA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

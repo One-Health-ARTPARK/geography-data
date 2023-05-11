@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86203570464582,13.58450483679216],[74.85097158526185,13.58516128147312],[74.84039594316675,13.56752089839745],[74.85644638192842,13.56893420367632],[74.86203570464582,13.58450483679216]]]},"properties":{"region_id":"village_608749","name":"HARADY (28)","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

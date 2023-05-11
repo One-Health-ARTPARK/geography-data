@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7294016900329,12.99647549891366],[76.7175640512671,12.98752919815356],[76.72362255473735,12.9842965425264],[76.72967367997494,12.98788593872514],[76.7294016900329,12.99647549891366]]]},"properties":{"region_id":"village_613700","name":"NAGALAPURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

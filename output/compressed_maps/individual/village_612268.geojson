@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80107614470055,13.26909315003993],[76.78583685517292,13.27014941362401],[76.78440790336934,13.25888356326393],[76.80329463588023,13.25781887893644],[76.80107614470055,13.26909315003993]]]},"properties":{"region_id":"village_612268","name":"SINGASANDRA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

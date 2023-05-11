@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34658329728666,13.31463239256073],[77.3512606296423,13.30667575831417],[77.35514018436115,13.31341118862708],[77.34658329728666,13.31463239256073]]]},"properties":{"region_id":"village_625166","name":"KADATHIPPENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

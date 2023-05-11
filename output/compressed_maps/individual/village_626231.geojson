@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.157022236257,12.60220788060481],[77.15543896904947,12.61357971387799],[77.13684037930555,12.61248573669213],[77.13748475956767,12.59753110396883],[77.157022236257,12.60220788060481]]]},"properties":{"region_id":"village_626231","name":"KOORNAGERE","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

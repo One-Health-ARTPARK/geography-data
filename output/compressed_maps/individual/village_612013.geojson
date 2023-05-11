@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45722917093508,13.32125675687062],[76.42885301102065,13.31607067259615],[76.459622175165,13.30050171136797],[76.45722917093508,13.32125675687062]]]},"properties":{"region_id":"village_612013","name":"ALUR","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25202641800426,13.93742028736458],[76.2555568645639,13.90539399127437],[76.29354837060073,13.90280854999805],[76.28881833968975,13.93111632300668],[76.25202641800426,13.93742028736458]]]},"properties":{"region_id":"village_605905","name":"DODDAGATTA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

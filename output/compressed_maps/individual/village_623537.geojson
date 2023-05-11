@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77640707017807,13.50640105646543],[77.75979867832817,13.50748895443289],[77.76733430020826,13.4904199652598],[77.77640707017807,13.50640105646543]]]},"properties":{"region_id":"village_623537","name":"DEVASTHANADAHOSAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

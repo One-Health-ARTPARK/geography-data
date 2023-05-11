@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59267900023185,13.01502699996033],[77.59253400012491,13.02231299979206],[77.58390799981157,13.0202380000224],[77.58403999992689,13.01451100002808],[77.59267900023185,13.01502699996033]]]},"properties":{"region_id":"ward_bbmp34","name":"WARD NO. 34 (GANGENAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

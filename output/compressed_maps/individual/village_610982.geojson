@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37469376284227,13.64193134320974],[77.34831074061051,13.64666884240198],[77.33287651367995,13.63460026417908],[77.3619822927554,13.6287634521488],[77.37469376284227,13.64193134320974]]]},"properties":{"region_id":"village_610982","name":"HUNASAVADI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

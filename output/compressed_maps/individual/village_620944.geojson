@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4761980548374,16.4463319555094],[76.48737874380797,16.4499664931763],[76.4882522451205,16.45825632398197],[76.47652282564803,16.4560690267987],[76.4761980548374,16.4463319555094]]]},"properties":{"region_id":"village_620944","name":"KHOJAPUR (D)","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

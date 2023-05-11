@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21544227626343,13.51235609109953],[77.2072532313877,13.51291473097769],[77.20723006115163,13.50527482733184],[77.2192915707434,13.50342424586895],[77.21544227626343,13.51235609109953]]]},"properties":{"region_id":"village_611044","name":"JAMPENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

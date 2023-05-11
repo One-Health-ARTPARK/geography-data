@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49346446983256,11.97060074219752],[76.47957526158667,11.97207942529198],[76.47443966643037,11.94740761724649],[76.48659990652337,11.94750336822439],[76.49346446983256,11.97060074219752]]]},"properties":{"region_id":"village_618997","name":"CHANGOWDANAHALLI","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

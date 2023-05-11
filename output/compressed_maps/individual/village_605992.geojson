@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39251145981163,13.60193783432996],[76.38465326471831,13.60718933255821],[76.37849054089591,13.59198951681695],[76.38225942895755,13.5904313705453],[76.39251145981163,13.60193783432996]]]},"properties":{"region_id":"village_605992","name":"MALLIHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

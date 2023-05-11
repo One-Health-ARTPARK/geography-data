@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6388264164975,16.51873692997409],[76.60943966204486,16.51288051003735],[76.61851344052484,16.49144648773077],[76.64623391304696,16.49362474113302],[76.6388264164975,16.51873692997409]]]},"properties":{"region_id":"village_620996","name":"CHIKANHALLI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

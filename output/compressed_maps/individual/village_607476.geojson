@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09338288776696,14.45496572842501],[75.05842232750122,14.46146176266299],[75.06483230153042,14.43361214292577],[75.09338288776696,14.45496572842501]]]},"properties":{"region_id":"village_607476","name":"THAVANANDI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

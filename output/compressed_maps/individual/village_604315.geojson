@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40958123118283,14.62899396102745],[75.39527511898926,14.63129026824495],[75.38583624174494,14.60645088344851],[75.41312201083039,14.60933753047621],[75.40958123118283,14.62899396102745]]]},"properties":{"region_id":"village_604315","name":"TADAS","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

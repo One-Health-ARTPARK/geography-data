@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26775816647886,13.62401000831642],[77.24572289438377,13.60563519427193],[77.27984746171953,13.59525286296317],[77.26775816647886,13.62401000831642]]]},"properties":{"region_id":"village_611051","name":"KALKERE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

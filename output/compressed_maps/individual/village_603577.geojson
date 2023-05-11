@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82014338570438,14.51907111652122],[74.83008881511267,14.51120463834167],[74.8278303567177,14.52758990073858],[74.82014338570438,14.51907111652122]]]},"properties":{"region_id":"village_603577","name":"MALENHALLI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

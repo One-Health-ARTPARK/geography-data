@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80938434551612,15.8088176473373],[74.80965137103685,15.83102225646607],[74.79479872269336,15.82639675613743],[74.7860977156609,15.81329119822696],[74.78616913511158,15.80574964724951],[74.80938434551612,15.8088176473373]]]},"properties":{"region_id":"village_598120","name":"CHIVATAGUNDI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

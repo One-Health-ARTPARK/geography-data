@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86140767365718,17.0591429559965],[75.81946825088224,17.05659961257615],[75.82762856927204,17.03960132211527],[75.8589693539732,17.04165367401292],[75.86140767365718,17.0591429559965]]]},"properties":{"region_id":"village_599238","name":"KYATANAKERI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

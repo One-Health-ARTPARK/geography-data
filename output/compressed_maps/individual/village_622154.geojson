@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98207494228261,13.02540073482571],[77.97770468446474,13.02588121590992],[77.97745677984094,13.01533295741682],[77.9881540631565,13.0203759630826],[77.98207494228261,13.02540073482571]]]},"properties":{"region_id":"village_622154","name":"CHIKKASHIVARA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

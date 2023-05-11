@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98990371739566,15.87376292632018],[76.99846803846503,15.9044196605588],[76.98867181165105,15.90935349865271],[76.96713935078489,15.88279524584962],[76.98990371739566,15.87376292632018]]]},"properties":{"region_id":"village_601033","name":"NALGAMDINNI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09588749047778,14.48987945883263],[75.07955263275326,14.49592203085153],[75.07182350943606,14.47430385472147],[75.09156809586472,14.48162217441729],[75.09588749047778,14.48987945883263]]]},"properties":{"region_id":"village_607470","name":"BOMMANAHALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

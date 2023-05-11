@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92295349542837,14.21104610913352],[75.90051402575436,14.21080683214911],[75.89318774324909,14.1934029710582],[75.91815523805023,14.19418464614368],[75.92295349542837,14.21104610913352]]]},"properties":{"region_id":"village_606977","name":"KAREKATTE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

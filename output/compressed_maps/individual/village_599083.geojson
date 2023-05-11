@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67589900749472,16.74476195469547],[75.68232810386027,16.74812682571207],[75.67690715375461,16.77013165841507],[75.66735774566665,16.76112880174109],[75.67589900749472,16.74476195469547]]]},"properties":{"region_id":"village_599083","name":"KHATIJAPUR","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

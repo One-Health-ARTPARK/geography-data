@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41149282570204,15.14506295045355],[75.41043974963824,15.11642988867172],[75.42881340573514,15.12658501324686],[75.41149282570204,15.14506295045355]]]},"properties":{"region_id":"village_602570","name":"HARALAPUR","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62199300918448,11.87884475039477],[76.61596552426907,11.91860564739716],[76.5724218708147,11.90822350076184],[76.62199300918448,11.87884475039477]]]},"properties":{"region_id":"village_619466","name":"MANCHAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

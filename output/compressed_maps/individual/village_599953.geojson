@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34441390194216,18.00583875772991],[77.31073588635991,17.99997436080474],[77.31649715627728,17.9789649288322],[77.33786140385862,17.98230767980493],[77.34441390194216,18.00583875772991]]]},"properties":{"region_id":"village_599953","name":"HALBARGA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

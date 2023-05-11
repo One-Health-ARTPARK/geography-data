@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77793142208668,15.87751103120108],[76.77714827226967,15.8919409312987],[76.7704092667526,15.89355205714049],[76.76562442001395,15.87952946443245],[76.77793142208668,15.87751103120108]]]},"properties":{"region_id":"village_601143","name":"BENDLHATTI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

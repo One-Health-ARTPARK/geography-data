@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7169703191822,12.50481409722559],[76.71212210565996,12.48088528147107],[76.72162000703543,12.47924719669179],[76.7169703191822,12.50481409722559]]]},"properties":{"region_id":"village_614184","name":"PATTASOMANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

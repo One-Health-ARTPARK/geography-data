@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27970691201416,15.33564848855118],[75.2632912192019,15.34159036797823],[75.2466410407435,15.32546228733808],[75.27767164849581,15.32377531863145],[75.27970691201416,15.33564848855118]]]},"properties":{"region_id":"village_602397","name":"NAGARHALLI","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

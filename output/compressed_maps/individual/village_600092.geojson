@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56339599188905,18.19987789334396],[77.54136671548657,18.19177176818851],[77.53846267736584,18.16828144380341],[77.56053725688798,18.17703714605934],[77.56339599188905,18.19987789334396]]]},"properties":{"region_id":"village_600092","name":"UJANI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01788087270019,12.66102995983013],[77.02799809917806,12.64869456447179],[77.04070576962334,12.64708601619611],[77.04095521693536,12.66241522631583],[77.01788087270019,12.66102995983013]]]},"properties":{"region_id":"village_614532","name":"MARASINGANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

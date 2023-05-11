@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31288854079781,12.45321969598437],[76.28615358143061,12.45390185454597],[76.28875151346362,12.44505166416336],[76.30588573212938,12.44360797377947],[76.31288854079781,12.45321969598437]]]},"properties":{"region_id":"village_618628","name":"MALALI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04746333773323,13.81646509872914],[76.03828279614295,13.81587122300354],[76.03851833385977,13.80817864255433],[76.05197854262815,13.80953570689826],[76.04746333773323,13.81646509872914]]]},"properties":{"region_id":"village_609255","name":"VEERAPURA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

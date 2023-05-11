@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06325953300589,13.46196847730415],[76.04906262613915,13.46266581236266],[76.0556279035191,13.44574099736242],[76.07269888130665,13.44935879567325],[76.06325953300589,13.46196847730415]]]},"properties":{"region_id":"village_609611","name":"GUNDASAGARA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

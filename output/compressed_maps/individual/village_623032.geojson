@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.44351550246569,13.15129793991525],[78.43432183767662,13.14831771711767],[78.43797663837027,13.14239062509225],[78.44475379884923,13.14477840525853],[78.44351550246569,13.15129793991525]]]},"properties":{"region_id":"village_623032","name":"G.VODDIHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

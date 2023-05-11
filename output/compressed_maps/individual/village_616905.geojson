@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23685288510232,12.75654251490363],[76.23414332742414,12.73808963113976],[76.24315674356801,12.73606879105586],[76.24413568506291,12.75422288675334],[76.23685288510232,12.75654251490363]]]},"properties":{"region_id":"village_616905","name":"GADENAHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

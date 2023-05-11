@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07642278475198,14.36938791673577],[76.05464015390898,14.36877970766638],[76.05507818573004,14.34974291000052],[76.0737229676681,14.35009741669009],[76.07642278475198,14.36938791673577]]]},"properties":{"region_id":"village_606633","name":"GANGANAKATTE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

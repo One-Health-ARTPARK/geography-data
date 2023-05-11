@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45875725859075,14.61290413035934],[75.46011203497683,14.58413801628152],[75.47651343054807,14.58301105204349],[75.47564005516602,14.60472615239583],[75.45875725859075,14.61290413035934]]]},"properties":{"region_id":"village_604344","name":"ANUR","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

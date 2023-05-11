@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21722827545204,16.35448443741526],[77.2520382898973,16.40591419902755],[77.22434080539097,16.42147224742179],[77.20920017265767,16.37426446255359],[77.21722827545204,16.35448443741526]]]},"properties":{"region_id":"village_600724","name":"ARSHANAGI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

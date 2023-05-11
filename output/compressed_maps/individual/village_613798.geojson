@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67167984633348,12.88606402660566],[76.66817836979257,12.88361588735746],[76.65298499413727,12.88712371411157],[76.65445625979383,12.88130161001643],[76.66962683586709,12.88054125202084],[76.67167984633348,12.88606402660566]]]},"properties":{"region_id":"village_613798","name":"ADDIHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

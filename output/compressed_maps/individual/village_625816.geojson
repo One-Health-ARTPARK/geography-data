@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18162924145919,13.16692917982291],[77.16927423725087,13.16730631800117],[77.16817051821334,13.15606945160679],[77.17679927813752,13.15751486580403],[77.18162924145919,13.16692917982291]]]},"properties":{"region_id":"village_625816","name":"MALLAPPANAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

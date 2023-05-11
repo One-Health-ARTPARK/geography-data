@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44544675270538,14.9693448449453],[75.40260208176154,14.98423660069487],[75.40186062806417,14.90395125276147],[75.4282185096053,14.90962812915499],[75.45632053718622,14.95184385714748],[75.44544675270538,14.9693448449453]]]},"properties":{"region_id":"village_604021","name":"HATTIMATTUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

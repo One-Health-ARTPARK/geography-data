@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75256245933535,13.02551856635551],[77.74402369098979,13.02865802137887],[77.738091664469,13.02002610290565],[77.74585075928215,13.01763889197267],[77.75256245933535,13.02551856635551]]]},"properties":{"region_id":"village_613105","name":"DODDABANAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

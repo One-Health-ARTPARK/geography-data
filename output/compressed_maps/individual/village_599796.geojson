@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75476973443982,17.72797871049543],[76.75686188490359,17.74569523559782],[76.72418476152447,17.75010599582801],[76.72795629263909,17.72882739328016],[76.75476973443982,17.72797871049543]]]},"properties":{"region_id":"village_599796","name":"EKAMBA","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

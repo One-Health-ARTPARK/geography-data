@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77218512143038,14.63535356832862],[74.7482879793196,14.6293779107497],[74.75471251888219,14.61393654495837],[74.77425263132376,14.6162108735514],[74.77218512143038,14.63535356832862]]]},"properties":{"region_id":"village_603187","name":"KALVE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

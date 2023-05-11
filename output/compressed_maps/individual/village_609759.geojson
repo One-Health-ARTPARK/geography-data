@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87844126855194,13.40995428293421],[75.86861175501797,13.41083275802878],[75.86202435813071,13.40075875842384],[75.87662022975168,13.40442025859905],[75.87844126855194,13.40995428293421]]]},"properties":{"region_id":"village_609759","name":"SARAPANAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

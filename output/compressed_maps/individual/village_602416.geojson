@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1099414716379,15.25591425369464],[75.09827108305821,15.26915865901275],[75.08923759366252,15.25604851632434],[75.09913166512685,15.24308969362151],[75.1099414716379,15.25591425369464]]]},"properties":{"region_id":"village_602416","name":"INAM-VEERAPUR","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

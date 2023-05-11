@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00065305303748,16.37474278937924],[75.98926454979613,16.37761522629764],[75.96366537576353,16.37482250082536],[75.99626394880198,16.36430001487146],[76.00065305303748,16.37474278937924]]]},"properties":{"region_id":"village_599566","name":"JEERALABHAVI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

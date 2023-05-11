@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38950167818764,17.60226933127321],[76.33304661210506,17.56537564652942],[76.39103321870988,17.54215507873433],[76.38950167818764,17.60226933127321]]]},"properties":{"region_id":"village_620036","name":"HIROLI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

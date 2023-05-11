@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25422599630745,13.66259555261061],[76.26812871661096,13.68164740825887],[76.25918914983524,13.70482131412499],[76.2312962219374,13.6812769406808],[76.25422599630745,13.66259555261061]]]},"properties":{"region_id":"village_605943","name":"ALAGATTA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

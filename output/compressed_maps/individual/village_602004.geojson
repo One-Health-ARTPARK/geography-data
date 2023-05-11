@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69622636483807,15.48451809848115],[75.71534498288769,15.51340233419617],[75.68494143540491,15.51425638708634],[75.69622636483807,15.48451809848115]]]},"properties":{"region_id":"village_602004","name":"BENAKANAKOPPA","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

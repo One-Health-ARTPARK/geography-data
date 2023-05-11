@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67442208060494,13.32693285388479],[77.67714286085751,13.31341887476793],[77.68860734429916,13.31588565619265],[77.68238849003356,13.3270278079226],[77.67442208060494,13.32693285388479]]]},"properties":{"region_id":"village_625251","name":"THYLAGERE","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77305483161015,17.66560873956294],[76.77131992413636,17.64821888195836],[76.78515348495792,17.63694420226281],[76.79200595717407,17.65275391846175],[76.77305483161015,17.66560873956294]]]},"properties":{"region_id":"village_599812","name":"ATTUR","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

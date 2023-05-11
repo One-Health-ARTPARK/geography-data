@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69532289957945,13.83743305871367],[75.68473181914935,13.84437114407029],[75.6737159701009,13.83191573781846],[75.68859977477344,13.82923885824935],[75.69532289957945,13.83743305871367]]]},"properties":{"region_id":"village_938571","name":"JANNAPURA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

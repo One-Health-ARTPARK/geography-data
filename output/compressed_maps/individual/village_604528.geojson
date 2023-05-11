@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59091379897504,14.60738555917547],[75.5660696418245,14.60653239103656],[75.57622726931835,14.58897039883988],[75.59091379897504,14.60738555917547]]]},"properties":{"region_id":"village_604528","name":"YEREKUPPI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

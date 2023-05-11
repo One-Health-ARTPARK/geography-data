@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36541497592147,12.10174469150874],[76.35634978822777,12.10920921852078],[76.34444641260843,12.099659029277],[76.35429390407765,12.09129210471254],[76.36541497592147,12.10174469150874]]]},"properties":{"region_id":"village_618876","name":"BELAGANAHALLIKAVAL","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60063746589424,13.85130275594091],[76.54319689019994,13.84140952909298],[76.55285277545977,13.81658132164281],[76.60063746589424,13.85130275594091]]]},"properties":{"region_id":"village_606151","name":"HINDASAKATTE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

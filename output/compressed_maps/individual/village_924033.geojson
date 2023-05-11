@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98854011868698,12.10638183796937],[75.96965244623264,12.10630457019105],[75.9680223616219,12.08325833575252],[75.97998080893379,12.09076609905594],[75.98854011868698,12.10638183796937]]]},"properties":{"region_id":"village_924033","name":"THOOCHAMKERI","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

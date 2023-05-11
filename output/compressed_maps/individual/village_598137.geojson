@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89929637998814,15.75601100562784],[74.88479502293538,15.75601024296966],[74.88642644187088,15.7419741369523],[74.90170812496598,15.74245271175423],[74.89929637998814,15.75601100562784]]]},"properties":{"region_id":"village_598137","name":"ARAWALLI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7092679489504,15.29071543070945],[76.68448012543395,15.29248080515381],[76.68453091020255,15.28404992094231],[76.70546705207701,15.28296815466782],[76.7092679489504,15.29071543070945]]]},"properties":{"region_id":"village_604768","name":"SANKALAPURAM","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

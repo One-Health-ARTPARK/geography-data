@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43706844018487,12.93786303805359],[77.43140332440326,12.94821227069268],[77.42969540694865,12.93380102992366],[77.43706844018487,12.93786303805359]]]},"properties":{"region_id":"village_613009","name":"M.KRISHNASAGARA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

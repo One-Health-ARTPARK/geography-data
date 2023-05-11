@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38220450373471,15.98770006314214],[75.36020149111663,15.95256338861985],[75.38731332060142,15.95013531819721],[75.38220450373471,15.98770006314214]]]},"properties":{"region_id":"village_598337","name":"MUDAKAVI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

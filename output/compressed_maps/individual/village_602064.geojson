@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55857109865786,15.19004949564694],[75.54161921813069,15.19143954637068],[75.53602102848146,15.17253783293664],[75.55013224206155,15.15665053325574],[75.55857109865786,15.19004949564694]]]},"properties":{"region_id":"village_602064","name":"SHETTIKERI","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

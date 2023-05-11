@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97256967557573,12.54148695004343],[75.96510149151904,12.54520634324273],[75.96813829712863,12.53489753907515],[75.97497781749249,12.53482252983191],[75.97256967557573,12.54148695004343]]]},"properties":{"region_id":"village_939030","name":"KASALUGODU","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

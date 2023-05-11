@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39853511399099,15.20080248247009],[75.36785299527311,15.24958398484739],[75.34627165208462,15.22320983264031],[75.35902363467525,15.18899861210344],[75.40020221563952,15.17337889665343],[75.39853511399099,15.20080248247009]]]},"properties":{"region_id":"village_602565","name":"YARIBUDIHAL","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

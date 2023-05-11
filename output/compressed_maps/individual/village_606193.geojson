@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60954462075301,13.82860585637549],[76.51330274642471,13.79902611793606],[76.5160189518388,13.75745709535336],[76.59234092905707,13.76757023643682],[76.60954462075301,13.82860585637549]]]},"properties":{"region_id":"village_606193","name":"YELLADAKERE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

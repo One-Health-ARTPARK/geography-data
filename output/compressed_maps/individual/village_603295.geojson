@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93936342300702,14.5622212643531],[74.94220497297837,14.57378403260761],[74.93686264883048,14.58661451963543],[74.9301262184963,14.58364876452163],[74.93936342300702,14.5622212643531]]]},"properties":{"region_id":"village_603295","name":"VADDINAKOPPA","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

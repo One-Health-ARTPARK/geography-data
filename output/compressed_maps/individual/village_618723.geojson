@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66324867250076,12.38702946506755],[76.64121075337472,12.38566690365757],[76.64480271536236,12.37401075376763],[76.64184707354475,12.36079331377626],[76.66169917388008,12.36784579911652],[76.66324867250076,12.38702946506755]]]},"properties":{"region_id":"village_618723","name":"NAGANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

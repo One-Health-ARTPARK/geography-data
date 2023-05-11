@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94085891943278,13.66735105606595],[77.93141485931109,13.67437710973761],[77.92591589761501,13.66520982796303],[77.93403626616586,13.65969071627063],[77.94085891943278,13.66735105606595]]]},"properties":{"region_id":"village_623905","name":"BODIKADIREPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

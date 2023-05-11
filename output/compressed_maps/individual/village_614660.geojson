@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9729697800137,12.43952468004077],[76.95967166152309,12.44558473297093],[76.95770070822743,12.43177971491757],[76.96717118117525,12.42057547812925],[76.9729697800137,12.43952468004077]]]},"properties":{"region_id":"village_614660","name":"BHEEMANAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

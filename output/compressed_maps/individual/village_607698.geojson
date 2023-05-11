@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27453000509668,14.41943507383001],[75.28418136647645,14.42170363892847],[75.2958847258803,14.42962374680426],[75.27763500217638,14.42815281781826],[75.27453000509668,14.41943507383001]]]},"properties":{"region_id":"village_607698","name":"DONANAGUDDE","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

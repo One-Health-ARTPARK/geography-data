@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29247498014699,14.26365585035893],[75.28404492989633,14.24472253979927],[75.29898359456934,14.24521257422415],[75.29247498014699,14.26365585035893]]]},"properties":{"region_id":"village_607769","name":"KOTIPURA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

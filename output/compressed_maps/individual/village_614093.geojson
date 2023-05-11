@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61419475125592,12.658537621119],[76.60493464411972,12.63031530293362],[76.62587727450357,12.62913619620699],[76.61419475125592,12.658537621119]]]},"properties":{"region_id":"village_614093","name":"G.SINGAPURA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

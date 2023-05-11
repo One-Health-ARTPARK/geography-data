@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43083372792381,13.16521563370673],[77.40942188755281,13.14862635469236],[77.41898570848534,13.14011433051864],[77.43083372792381,13.16521563370673]]]},"properties":{"region_id":"village_624867","name":"GOLLAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

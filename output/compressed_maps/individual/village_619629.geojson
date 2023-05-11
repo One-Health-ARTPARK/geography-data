@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05595679435692,12.00197410814666],[77.04981279794444,11.99238810237466],[77.05656182457204,11.98389746850648],[77.06514552005336,11.99482170401674],[77.05595679435692,12.00197410814666]]]},"properties":{"region_id":"village_619629","name":"KALLIPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

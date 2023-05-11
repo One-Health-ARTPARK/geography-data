@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83548872206993,12.66439925712061],[75.84873159706432,12.64547388232704],[75.85686577948513,12.64560908514217],[75.84932473161693,12.67142959601187],[75.83548872206993,12.66439925712061]]]},"properties":{"region_id":"village_617925","name":"CHIKKA THOLUR","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

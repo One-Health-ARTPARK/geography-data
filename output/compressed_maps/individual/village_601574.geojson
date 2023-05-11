@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35133674480083,15.52351500679109],[76.32687743608474,15.5120229355137],[76.33037876106434,15.48889773948437],[76.35796451741247,15.50155900421261],[76.35133674480083,15.52351500679109]]]},"properties":{"region_id":"village_601574","name":"RAMDURG","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

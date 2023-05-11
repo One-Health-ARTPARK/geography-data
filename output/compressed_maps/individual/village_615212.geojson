@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87619306439976,13.21532020778906],[75.86341356369249,13.22251404552798],[75.84749151013476,13.21014494001557],[75.85393110632572,13.20016134365915],[75.87619306439976,13.21532020778906]]]},"properties":{"region_id":"village_615212","name":"SHETTIGERE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

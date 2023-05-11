@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61878135105182,13.71004471877884],[75.60781676087623,13.76067035743053],[75.57121212140665,13.75604985912448],[75.58602915343063,13.6922075624914],[75.61878135105182,13.71004471877884]]]},"properties":{"region_id":"village_609048","name":"BYRAPURA","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

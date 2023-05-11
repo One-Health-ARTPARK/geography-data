@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61339534273112,15.98852541651631],[74.62270079975131,16.01951906995965],[74.59422900317296,16.01686880927214],[74.61339534273112,15.98852541651631]]]},"properties":{"region_id":"village_597698","name":"PANAGUTTI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45144119830942,13.12135939101793],[77.43963619096418,13.12006271654594],[77.43669177364279,13.11193491561554],[77.44861450840222,13.11097028260334],[77.45144119830942,13.12135939101793]]]},"properties":{"region_id":"village_612761","name":"HONNASANDRA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

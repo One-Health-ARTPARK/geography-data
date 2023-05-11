@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36058103640318,12.61195322178126],[76.35520607056309,12.61683932800144],[76.34559250810022,12.61392322984597],[76.35472894779106,12.6028052674025],[76.36058103640318,12.61195322178126]]]},"properties":{"region_id":"village_618566","name":"CHIKKABHERYA","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

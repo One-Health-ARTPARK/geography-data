@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91375875174239,13.5632503979466],[77.91443449792555,13.56757936305674],[77.90281679057817,13.56811482076444],[77.90074107567604,13.56455441583032],[77.91375875174239,13.5632503979466]]]},"properties":{"region_id":"village_624075","name":"BACHANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

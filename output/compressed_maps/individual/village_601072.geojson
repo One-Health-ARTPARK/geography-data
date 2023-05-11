@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51216251022338,15.7413085516229],[76.48267131675557,15.72069846758989],[76.49170652481963,15.70811969403973],[76.51017371279316,15.71814108632809],[76.51216251022338,15.7413085516229]]]},"properties":{"region_id":"village_601072","name":"BUKANHATTI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

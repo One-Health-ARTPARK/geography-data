@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56455148208889,14.47784030568719],[75.53916449972948,14.47268542911239],[75.55331758365877,14.46175400939646],[75.56455148208889,14.47784030568719]]]},"properties":{"region_id":"village_604434","name":"BADASANGAPUR","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4829328904601,12.79799417704986],[77.47862011620593,12.78105420762019],[77.49565273304256,12.77866078552033],[77.49702877497059,12.78989272372052],[77.4829328904601,12.79799417704986]]]},"properties":{"region_id":"village_613046","name":"K. CHUDAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

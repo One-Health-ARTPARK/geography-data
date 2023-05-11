@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07366748320128,13.288056462021],[76.05864310122799,13.29378449526133],[76.06195661185855,13.27851313913225],[76.07366748320128,13.288056462021]]]},"properties":{"region_id":"village_615469","name":"BOMMAGONDANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

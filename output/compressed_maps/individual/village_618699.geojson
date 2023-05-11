@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49089261446773,12.40639438735471],[76.46746113007575,12.40169591857575],[76.46739764987096,12.38740240548598],[76.48319484047339,12.38857914473173],[76.49089261446773,12.40639438735471]]]},"properties":{"region_id":"village_618699","name":"YACHEGOWDANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

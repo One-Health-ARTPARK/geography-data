@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86207519120352,13.75270945637797],[77.85258932273183,13.74912374500334],[77.86377066783704,13.74218191597687],[77.86207519120352,13.75270945637797]]]},"properties":{"region_id":"village_623873","name":"SHANKAVARAMPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

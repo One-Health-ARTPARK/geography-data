@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51281270658994,15.54951207105949],[76.48036633372034,15.55247089595818],[76.47739670246247,15.53687281501512],[76.50729267740064,15.53033160437861],[76.51281270658994,15.54951207105949]]]},"properties":{"region_id":"village_601601","name":"BATTARNARSAPUR","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

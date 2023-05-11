@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3954393436092,13.75201046891427],[77.39064259050515,13.7525161967683],[77.38015690226446,13.74403290026076],[77.39488311631685,13.74222986977912],[77.3954393436092,13.75201046891427]]]},"properties":{"region_id":"village_610920","name":"GUTTE","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

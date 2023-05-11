@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42720978275871,17.0535114065653],[76.42969245639999,17.09888374037637],[76.40204215643281,17.07114185733536],[76.42720978275871,17.0535114065653]]]},"properties":{"region_id":"village_599320","name":"BAGALUR","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

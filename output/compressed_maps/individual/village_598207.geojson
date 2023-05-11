@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96463369936487,15.8746314164281],[74.92005753242773,15.87345914489767],[74.91663692392231,15.85856652415334],[74.93891923658356,15.85901391768599],[74.96463369936487,15.8746314164281]]]},"properties":{"region_id":"village_598207","name":"RUDRAPUR","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

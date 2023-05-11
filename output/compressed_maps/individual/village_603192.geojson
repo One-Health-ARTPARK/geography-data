@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72353832662874,14.56018752452029],[74.73211070239651,14.56397492746828],[74.72490357079303,14.57847092145576],[74.71626598788224,14.57616857572238],[74.72353832662874,14.56018752452029]]]},"properties":{"region_id":"village_603192","name":"HOSTOTA","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

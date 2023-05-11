@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04381005544583,12.28432046449593],[77.03555794283187,12.28959327695913],[77.03357980350418,12.28112220553038],[77.04268067879097,12.27781775361584],[77.04381005544583,12.28432046449593]]]},"properties":{"region_id":"village_614823","name":"KANIKALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

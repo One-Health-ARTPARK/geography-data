@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26106171814155,13.76125760933009],[75.25003587629267,13.76103408236068],[75.25484967681994,13.75175137414904],[75.26106171814155,13.76125760933009]]]},"properties":{"region_id":"village_608102","name":"HODALAKUTRA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

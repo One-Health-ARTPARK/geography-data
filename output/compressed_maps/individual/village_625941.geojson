@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17042770331872,12.98078295130681],[77.15922915763844,12.98472252165349],[77.15835547722261,12.96960658210331],[77.16886873647474,12.96915056389935],[77.17042770331872,12.98078295130681]]]},"properties":{"region_id":"village_625941","name":"UPPARTHI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

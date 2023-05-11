@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99595077803718,15.5662605263022],[76.9673772178542,15.55373890717039],[76.96081881189562,15.5343800100459],[76.99071599227634,15.54123327725813],[76.99595077803718,15.5662605263022]]]},"properties":{"region_id":"village_604838","name":"MUDENUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

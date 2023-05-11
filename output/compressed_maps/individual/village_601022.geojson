@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09030605978711,15.95442482656945],[77.06100239101397,15.93940984777803],[77.07600743880529,15.90648643218972],[77.10777125857325,15.92583495224021],[77.09030605978711,15.95442482656945]]]},"properties":{"region_id":"village_601022","name":"MADLAPUR","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

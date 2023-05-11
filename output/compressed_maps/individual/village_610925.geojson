@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44034923282928,13.75078642193906],[77.43485195336848,13.75017837587515],[77.43212484373468,13.73772960326998],[77.4419169677576,13.74369517446613],[77.44034923282928,13.75078642193906]]]},"properties":{"region_id":"village_610925","name":"YARAGUNTE","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

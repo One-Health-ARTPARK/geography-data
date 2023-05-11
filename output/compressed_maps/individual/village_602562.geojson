@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41468597549343,15.24286665509333],[75.4118561813224,15.2641041552646],[75.39683367744266,15.2579258207076],[75.40008020208107,15.24755961471353],[75.41468597549343,15.24286665509333]]]},"properties":{"region_id":"village_602562","name":"BAGAWAD","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

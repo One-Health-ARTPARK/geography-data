@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42073101655643,14.24939146507127],[76.39935167115367,14.24713227498223],[76.39761520965345,14.23975173091225],[76.42073850839705,14.23715407172302],[76.42073101655643,14.24939146507127]]]},"properties":{"region_id":"village_605582","name":"PILLEKERENAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

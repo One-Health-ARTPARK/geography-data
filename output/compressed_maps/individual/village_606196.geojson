@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5897642152872,13.73969427465116],[76.58058671138056,13.76547943599229],[76.5705000702496,13.76291650913982],[76.57632722315711,13.73567934501221],[76.5897642152872,13.73969427465116]]]},"properties":{"region_id":"village_606196","name":"HALUMADENAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

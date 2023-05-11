@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5900469998553,13.07614999970449],[77.58050200034606,13.09013700009272],[77.56273500030342,13.09760199992157],[77.55145799972885,13.07155099971986],[77.56167899986315,13.05923400032671],[77.5900469998553,13.07614999970449]]]},"properties":{"region_id":"ward_bbmp9","name":"WARD NO.9 (VIDYARANYAPURA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

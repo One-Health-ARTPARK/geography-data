@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67327652923578,13.39257082866632],[77.65796361592471,13.39170089809644],[77.66635018575477,13.35078956694645],[77.68004794297403,13.35073808944193],[77.69733893605199,13.37513222260532],[77.67327652923578,13.39257082866632]]]},"properties":{"region_id":"village_623621","name":"NANDI BETTA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

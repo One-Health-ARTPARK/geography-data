@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5556206224043,13.59668032575791],[75.5422015845196,13.61147014154808],[75.539486814235,13.5816145119186],[75.5556206224043,13.59668032575791]]]},"properties":{"region_id":"village_609067","name":"HANDUR","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

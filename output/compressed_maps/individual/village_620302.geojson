@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83708018015756,17.20688412526022],[76.83904615385491,17.23102215200242],[76.81376177338863,17.24440912060268],[76.81288408303408,17.21468712359097],[76.83708018015756,17.20688412526022]]]},"properties":{"region_id":"village_620302","name":"ITGA KHANDAL","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

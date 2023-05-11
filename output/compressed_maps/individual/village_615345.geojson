@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98982563864807,13.0877982093827],[75.97419497157236,13.09484177219353],[75.97436558193803,13.08093424558638],[75.98982563864807,13.0877982093827]]]},"properties":{"region_id":"village_615345","name":"HALTHORE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

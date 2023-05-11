@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05400442249426,18.09896938044303],[77.07356806492386,18.1229241854377],[77.03891299966381,18.11986196649273],[77.05400442249426,18.09896938044303]]]},"properties":{"region_id":"village_599843","name":"BOLEGAON","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

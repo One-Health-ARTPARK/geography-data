@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87864927068996,13.44148392321237],[77.86244786185996,13.44276456020251],[77.86161803815925,13.43210936245438],[77.87145440018894,13.43010152419275],[77.87864927068996,13.44148392321237]]]},"properties":{"region_id":"village_624162","name":"CHYAGE","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

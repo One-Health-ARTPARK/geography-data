@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30818426791306,14.94179572713006],[75.29240208845953,14.94618017402116],[75.29397251285579,14.93311971233098],[75.30666742994924,14.92975892638943],[75.30818426791306,14.94179572713006]]]},"properties":{"region_id":"village_603988","name":"FAKIR NANDIHALLI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

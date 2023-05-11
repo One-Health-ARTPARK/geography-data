@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75905397204613,14.31270177462714],[75.75068423698828,14.32385110768508],[75.74626833053011,14.31155257323548],[75.75905397204613,14.31270177462714]]]},"properties":{"region_id":"village_606241","name":"CHIKKATHAMMANAHALLI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

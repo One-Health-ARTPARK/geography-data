@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77813762983965,13.62700686895555],[76.76064392519595,13.63484798344555],[76.7562465404274,13.61605820224104],[76.77574658628262,13.60658276115027],[76.77813762983965,13.62700686895555]]]},"properties":{"region_id":"village_610444","name":"RAMALINGAPURA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

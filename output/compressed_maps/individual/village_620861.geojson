@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90242823445045,16.89344698616031],[76.90201852132887,16.87855467656194],[76.92043210241397,16.87996420144796],[76.91631411827738,16.89191232874288],[76.90242823445045,16.89344698616031]]]},"properties":{"region_id":"village_620861","name":"RAMPUR","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

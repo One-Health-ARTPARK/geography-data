@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27596608132504,17.94383263581717],[77.23818004067924,17.94193157296086],[77.25526527810496,17.92823956602056],[77.27316194028785,17.92920289521663],[77.27596608132504,17.94383263581717]]]},"properties":{"region_id":"village_599964","name":"GODIHIPPERGA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

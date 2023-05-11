@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08123389695523,16.31310035633406],[77.06089881266726,16.31267852553386],[77.0592366625184,16.2940291918875],[77.07700572862065,16.29566135597249],[77.08123389695523,16.31310035633406]]]},"properties":{"region_id":"village_600661","name":"JAVGUD","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00989778475339,12.90694776000434],[75.99779167384344,12.9137569827392],[75.9847033305007,12.90162376958138],[76.0051922868055,12.89907302444797],[76.00989778475339,12.90694776000434]]]},"properties":{"region_id":"village_616463","name":"KADABAGALA","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

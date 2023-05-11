@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.19746774822175,14.82523918704548],[74.15894593965203,14.81373276635889],[74.1592700054227,14.78878530712122],[74.21199145312357,14.79697188878793],[74.2096026199545,14.82553078461263],[74.19746774822175,14.82523918704548]]]},"properties":{"region_id":"village_602613","name":"SHIRWAD","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34670068034188,12.81480967101457],[75.33074067332745,12.80970556080148],[75.33790662706815,12.79453783516205],[75.36013667362491,12.79891579839624],[75.34670068034188,12.81480967101457]]]},"properties":{"region_id":"village_617707","name":"HALENERANKI","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

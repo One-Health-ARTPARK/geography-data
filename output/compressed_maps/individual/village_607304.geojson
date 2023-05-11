@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92007774074423,14.10783564150476],[74.94521586326948,14.10882243412605],[74.94660865850658,14.12593835701757],[74.92007774074423,14.10783564150476]]]},"properties":{"region_id":"village_607304","name":"NADAMALLA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57908455433774,15.26847599919209],[75.53770358120022,15.2670723878424],[75.54508805679491,15.24997158184147],[75.57908455433774,15.26847599919209]]]},"properties":{"region_id":"village_602049","name":"BASAPUR","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

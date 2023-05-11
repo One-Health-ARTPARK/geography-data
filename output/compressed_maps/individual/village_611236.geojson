@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30658310235823,13.34025637730208],[77.29683002433602,13.34264913184912],[77.29568758141613,13.32554565117077],[77.30110726804196,13.32520192061313],[77.30658310235823,13.34025637730208]]]},"properties":{"region_id":"village_611236","name":"MALAGONAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

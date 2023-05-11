@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97796882390396,16.48029950412115],[76.95519196671457,16.50124329416983],[76.95712716166928,16.45683320007419],[76.97976312563137,16.46064503793151],[76.97796882390396,16.48029950412115]]]},"properties":{"region_id":"village_600591","name":"DONDAMBLI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60945866464368,12.88209379947056],[77.59242909605923,12.89155077369391],[77.59072917581054,12.88135716308978],[77.60945866464368,12.88209379947056]]]},"properties":{"region_id":"village_938427","name":"ARAKERE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

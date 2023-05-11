@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98862378176428,16.34868797637311],[76.97189453508459,16.34992171295365],[76.96726646833746,16.32905837550359],[76.98929261946789,16.32341361530558],[76.98862378176428,16.34868797637311]]]},"properties":{"region_id":"village_600691","name":"HONKATMALLI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93883085193195,13.08270546771801],[76.929192845751,13.06272303068128],[76.93951622820417,13.06148464229285],[76.93883085193195,13.08270546771801]]]},"properties":{"region_id":"village_612438","name":"HEDDIGERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

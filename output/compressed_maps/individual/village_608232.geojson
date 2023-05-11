@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34409554529353,13.69288660273474],[75.32507563937683,13.69341559319733],[75.32770470706792,13.68338696661466],[75.34110475840515,13.67752408522827],[75.34409554529353,13.69288660273474]]]},"properties":{"region_id":"village_608232","name":"MAHISHI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

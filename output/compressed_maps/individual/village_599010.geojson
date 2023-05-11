@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15887168178485,15.97289255737221],[76.1246367468925,15.98160728373086],[76.11563181464459,15.96943558233051],[76.1477843266355,15.96076628579545],[76.15887168178485,15.97289255737221]]]},"properties":{"region_id":"village_599010","name":"GORBAL","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

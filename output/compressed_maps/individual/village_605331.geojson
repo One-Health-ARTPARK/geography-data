@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76357877796954,14.33529281444259],[76.74641629880023,14.36533133622567],[76.73135548105017,14.3623598205025],[76.73774780951787,14.32673168550383],[76.76357877796954,14.33529281444259]]]},"properties":{"region_id":"village_605331","name":"RANGAVVANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

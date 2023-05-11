@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14620032663322,12.99613371451329],[75.12042791813353,13.00324835565657],[75.12774225471206,12.97339822037543],[75.14620032663322,12.99613371451329]]]},"properties":{"region_id":"village_617630","name":"BAJIRE","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

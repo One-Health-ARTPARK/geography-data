@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85034765962179,13.01000212852978],[76.83896166819335,13.01223645907569],[76.8361267713589,13.00453067078849],[76.8541556514091,13.00007013937828],[76.85034765962179,13.01000212852978]]]},"properties":{"region_id":"village_612470","name":"GOTTIKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

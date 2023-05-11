@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70663005153145,12.52428426423679],[76.70861952837127,12.53350339730102],[76.69743102835591,12.53651396019743],[76.69753935127575,12.52565549462344],[76.70663005153145,12.52428426423679]]]},"properties":{"region_id":"village_614169","name":"GANADAHOSUR","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

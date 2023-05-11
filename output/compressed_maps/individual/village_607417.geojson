@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11556775263624,14.57362930802852],[75.11072637957687,14.59415454775707],[75.0952683541424,14.59609047996534],[75.09290886239874,14.57707075118095],[75.11556775263624,14.57362930802852]]]},"properties":{"region_id":"village_607417","name":"LAKKAVALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

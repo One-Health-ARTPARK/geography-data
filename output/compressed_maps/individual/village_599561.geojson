@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03217563177108,16.43641584711113],[76.01381731675286,16.45361569559704],[76.00566952781874,16.4324957842544],[76.02127163306211,16.42029034512038],[76.03217563177108,16.43641584711113]]]},"properties":{"region_id":"village_599561","name":"BYALYAL","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

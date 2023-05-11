@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9191899121448,13.38290649297381],[75.91863722138507,13.39813456263169],[75.90409840248448,13.4023905518533],[75.90120915241295,13.37611985643308],[75.9191899121448,13.38290649297381]]]},"properties":{"region_id":"village_609768","name":"KUNNALU","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21267795952521,12.78691934865371],[76.20189386534287,12.78733056329641],[76.20450179960355,12.77452425826936],[76.21525921765354,12.77886587705303],[76.21267795952521,12.78691934865371]]]},"properties":{"region_id":"village_616892","name":"SANKANAHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

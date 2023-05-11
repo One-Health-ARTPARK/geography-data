@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54572499994964,12.99340200044948],[77.54515699955188,12.98502300019406],[77.55410500042089,12.98437900011729],[77.5543589995462,12.98996200039458],[77.54572499994964,12.99340200044948]]]},"properties":{"region_id":"ward_bbmp107","name":"WARD NO.107 (SHIVA NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

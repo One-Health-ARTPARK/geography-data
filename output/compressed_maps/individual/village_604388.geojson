@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42771440187131,14.47915938184747],[75.40829342245938,14.46679457815446],[75.4222488380235,14.45793364743038],[75.42771440187131,14.47915938184747]]]},"properties":{"region_id":"village_604388","name":"BASARIHALLI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

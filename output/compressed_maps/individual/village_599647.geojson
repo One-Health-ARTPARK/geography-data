@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30453205940907,16.37887379669064],[76.29629411507355,16.3533613861252],[76.31415976256604,16.35374760365044],[76.30453205940907,16.37887379669064]]]},"properties":{"region_id":"village_599647","name":"DONKAMADU","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02885691343378,12.74037847350444],[77.04634224543538,12.73857599854668],[77.04267683520783,12.75087960718071],[77.02885691343378,12.74037847350444]]]},"properties":{"region_id":"village_614544","name":"KUNDANAKUPPE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

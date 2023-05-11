@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98207139965955,11.98426716263599],[76.99518649598157,11.97937552190879],[76.99484562707102,11.99258687852227],[76.97767632681632,11.99721055374247],[76.98207139965955,11.98426716263599]]]},"properties":{"region_id":"village_619623","name":"KANNEGALA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

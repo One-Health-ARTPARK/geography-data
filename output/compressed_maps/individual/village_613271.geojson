@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75743807669944,12.81245289258419],[77.7436502895646,12.811615360444],[77.74920928140304,12.8022536260129],[77.75743807669944,12.81245289258419]]]},"properties":{"region_id":"village_613271","name":"ADIGONDANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82576761687397,12.46759705230978],[76.82973107397936,12.48274281602435],[76.81984541386916,12.48132246765592],[76.82576761687397,12.46759705230978]]]},"properties":{"region_id":"village_614253","name":"CHOTTAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38229573231463,15.10102160212102],[76.36616235484921,15.08604839797448],[76.39393600198744,15.06515591693393],[76.38229573231463,15.10102160212102]]]},"properties":{"region_id":"village_604709","name":"BASAVANADURGA","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

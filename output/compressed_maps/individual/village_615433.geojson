@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91534024236427,13.06599900584051],[75.9023471196673,13.06668900703017],[75.90550489050203,13.05950208513048],[75.91534024236427,13.06599900584051]]]},"properties":{"region_id":"village_615433","name":"RAJANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

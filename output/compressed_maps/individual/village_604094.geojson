@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18954769334502,14.77654501645268],[75.17970197662501,14.77702645942021],[75.17530866991392,14.76344868780509],[75.19198069130337,14.76195677954638],[75.18954769334502,14.77654501645268]]]},"properties":{"region_id":"village_604094","name":"HOTANHALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

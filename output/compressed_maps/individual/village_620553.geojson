@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25636433022134,17.00872672005242],[77.23775097790336,17.00796383188516],[77.22832180298855,16.994303628234],[77.25159802196777,16.99357742969883],[77.25636433022134,17.00872672005242]]]},"properties":{"region_id":"village_620553","name":"HULGOAL","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

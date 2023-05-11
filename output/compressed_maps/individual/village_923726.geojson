@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6073176101114,16.15739828283683],[74.57768783598388,16.16149201566094],[74.58949810015255,16.14018551207678],[74.6073176101114,16.15739828283683]]]},"properties":{"region_id":"village_923726","name":"MAJATI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

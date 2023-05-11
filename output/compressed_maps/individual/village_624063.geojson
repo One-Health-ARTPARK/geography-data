@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96746596250814,13.54655984000564],[77.95733866190297,13.5472711043526],[77.95298696691738,13.53156029150846],[77.96612256983475,13.53242107416809],[77.96746596250814,13.54655984000564]]]},"properties":{"region_id":"village_624063","name":"MADENAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

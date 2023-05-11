@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79558250935293,15.34243801230289],[75.74970002311967,15.34499757361521],[75.73589113554733,15.27123868165227],[75.78944731564494,15.25371653461902],[75.81035772807249,15.27745758942897],[75.79558250935293,15.34243801230289]]]},"properties":{"region_id":"village_602154","name":"DAMBAL","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

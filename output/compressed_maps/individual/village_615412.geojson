@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86287383171958,13.0465966445435],[75.85356081232065,13.04600253056512],[75.8419393013153,13.03738430552259],[75.85854841281763,13.03137123887297],[75.86287383171958,13.0465966445435]]]},"properties":{"region_id":"village_615412","name":"LAKKUNDA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

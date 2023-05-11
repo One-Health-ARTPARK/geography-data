@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04095051286984,12.80572485045206],[77.04218394456612,12.81392682786321],[77.03396720695284,12.81754425383133],[77.03499123414358,12.80843870105729],[77.04095051286984,12.80572485045206]]]},"properties":{"region_id":"village_612724","name":"LAKKASHETTYPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

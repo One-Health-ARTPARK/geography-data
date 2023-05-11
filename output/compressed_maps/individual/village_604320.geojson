@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55303636254348,14.73782897727885],[75.54817762221793,14.75826721912119],[75.52416870459642,14.761676245312],[75.52355178570826,14.74405043955031],[75.55303636254348,14.73782897727885]]]},"properties":{"region_id":"village_604320","name":"SEVANAGAR","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

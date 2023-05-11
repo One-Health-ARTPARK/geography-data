@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21522150542876,13.86754070937491],[77.21684604952306,13.88407037028847],[77.20999628164019,13.88423618392333],[77.20655194201979,13.87105145291617],[77.21522150542876,13.86754070937491]]]},"properties":{"region_id":"village_610677","name":"NARAPPANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

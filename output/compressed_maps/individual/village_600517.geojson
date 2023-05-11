@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60492936338719,15.99782439070729],[76.59236038270116,16.00005083005322],[76.59243677178694,15.99072082588058],[76.60182023525103,15.99030003096371],[76.60492936338719,15.99782439070729]]]},"properties":{"region_id":"village_600517","name":"BENKANHAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1452209639636,14.20837749642609],[76.10011855772642,14.1963736461293],[76.11439416254906,14.17810708559928],[76.1452209639636,14.20837749642609]]]},"properties":{"region_id":"village_605638","name":"SASALU","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

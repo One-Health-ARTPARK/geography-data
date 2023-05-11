@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02375385483549,18.15854468148587],[77.00198893770728,18.16139893802889],[76.99884822862718,18.12729692243232],[77.0294122447821,18.12719451918588],[77.02375385483549,18.15854468148587]]]},"properties":{"region_id":"village_599840","name":"ATTERGA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

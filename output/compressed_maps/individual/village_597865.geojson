@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.51819439625048,15.65237696841054],[74.51474402373576,15.66276481011896],[74.4986507160913,15.65677289726318],[74.50250379725726,15.64761019254729],[74.51819439625048,15.65237696841054]]]},"properties":{"region_id":"village_597865","name":"HALAKARNI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

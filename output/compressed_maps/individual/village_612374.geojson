@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80541313128838,13.16140764766751],[76.79458068570752,13.13962139060073],[76.80912971888097,13.13717577056319],[76.80541313128838,13.16140764766751]]]},"properties":{"region_id":"village_612374","name":"BYALAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

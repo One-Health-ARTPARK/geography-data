@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72166394681841,13.59187247164976],[77.72201889691857,13.59943673162057],[77.71739284285309,13.60221422212062],[77.71535641890634,13.59410704570873],[77.72166394681841,13.59187247164976]]]},"properties":{"region_id":"village_623483","name":"YARRAPAPANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

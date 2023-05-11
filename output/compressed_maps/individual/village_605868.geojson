@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30837750813657,13.8203832817381],[76.31318787355227,13.83303569758374],[76.28859287494066,13.8296282756607],[76.28910774453026,13.82075794737228],[76.30837750813657,13.8203832817381]]]},"properties":{"region_id":"village_605868","name":"HOSAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

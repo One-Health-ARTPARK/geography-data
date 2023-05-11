@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21632177024806,13.50950093840365],[76.20109816513475,13.51159326954198],[76.20662967606516,13.5049040624188],[76.21632177024806,13.50950093840365]]]},"properties":{"region_id":"village_609586","name":"PATTADEVARAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

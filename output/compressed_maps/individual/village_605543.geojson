@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33469523356683,14.25744744523076],[76.315027945764,14.25918328568934],[76.31206216241158,14.23965795259236],[76.33257794770827,14.23587501220519],[76.33469523356683,14.25744744523076]]]},"properties":{"region_id":"village_605543","name":"CHIKKAPURA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

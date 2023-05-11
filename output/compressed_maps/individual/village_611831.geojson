@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98738460420061,13.32493840345967],[76.9714894898674,13.30882509866694],[76.99732429625301,13.30268003524148],[76.98738460420061,13.32493840345967]]]},"properties":{"region_id":"village_611831","name":"ADAGOOR","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

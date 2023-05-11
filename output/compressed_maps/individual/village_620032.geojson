@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52513894465947,17.49478234297586],[76.56130227998007,17.50544488477189],[76.53250644721629,17.52433261589468],[76.52513894465947,17.49478234297586]]]},"properties":{"region_id":"village_620032","name":"SANGOLGI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

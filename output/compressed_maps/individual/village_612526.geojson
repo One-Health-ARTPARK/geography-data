@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01986576497485,13.07532210758329],[77.00136549466502,13.07231561177042],[77.0155833477626,13.05608200703333],[77.01986576497485,13.07532210758329]]]},"properties":{"region_id":"village_612526","name":"KODIHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

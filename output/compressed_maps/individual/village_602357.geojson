@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4842608914568,15.53644534263889],[75.4406871278463,15.53716513783863],[75.44481456666053,15.51648333731273],[75.4842608914568,15.53644534263889]]]},"properties":{"region_id":"village_602357","name":"KITTUR","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

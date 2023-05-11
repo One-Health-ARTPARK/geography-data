@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77942423560677,13.3344126512072],[75.79318844322673,13.32872984782915],[75.79027826797767,13.34530579364549],[75.77942423560677,13.3344126512072]]]},"properties":{"region_id":"village_609737","name":"BEEKANAHALLI (RURAL)","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

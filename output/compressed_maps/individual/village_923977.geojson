@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92779275376753,12.4382143921257],[75.9208092127299,12.44964853610265],[75.91715297063237,12.44790429151661],[75.92358291118369,12.43918410288764],[75.92779275376753,12.4382143921257]]]},"properties":{"region_id":"village_923977","name":"GUDDEHOSURU","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

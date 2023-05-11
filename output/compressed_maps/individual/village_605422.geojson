@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00243791100942,14.198477682101],[76.96006143231378,14.20156785732799],[76.95853626154923,14.18384144244586],[76.9812999826682,14.17870604487983],[77.00243791100942,14.198477682101]]]},"properties":{"region_id":"village_605422","name":"KYADIGUNTE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

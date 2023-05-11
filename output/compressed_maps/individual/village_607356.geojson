@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87758828057629,14.03469369293825],[74.86411375493967,14.04782463880046],[74.85880307886721,14.03742770474087],[74.86753074571642,14.02702938959715],[74.87758828057629,14.03469369293825]]]},"properties":{"region_id":"village_607356","name":"ARABALLI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

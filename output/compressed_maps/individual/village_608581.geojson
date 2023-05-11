@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71758908181421,13.8925964028703],[75.70749661982626,13.88891342018791],[75.71093589886748,13.88003524339926],[75.7182565702508,13.88500030561134],[75.71758908181421,13.8925964028703]]]},"properties":{"region_id":"village_608581","name":"BABALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

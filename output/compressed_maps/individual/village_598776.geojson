@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53081915280143,16.21156628515664],[75.5322696752211,16.2216101551536],[75.52618729919153,16.24183144746215],[75.52060044287012,16.22757750790312],[75.53081915280143,16.21156628515664]]]},"properties":{"region_id":"village_598776","name":"HIRE-SANSI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

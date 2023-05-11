@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42060265213338,18.06353756471626],[77.40442930835992,18.0714385461586],[77.404638858186,18.0515122886927],[77.42060265213338,18.06353756471626]]]},"properties":{"region_id":"village_600041","name":"BABLI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

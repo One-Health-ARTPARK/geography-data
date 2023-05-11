@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39413866450629,12.98154890265624],[76.37059131005697,12.98271566827221],[76.37595059133368,12.97038950591288],[76.39393301479775,12.96897739970687],[76.39413866450629,12.98154890265624]]]},"properties":{"region_id":"village_617198","name":"BYALADAKERE","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

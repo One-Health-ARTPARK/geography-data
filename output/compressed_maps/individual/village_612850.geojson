@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53664817966626,13.16467326996867],[77.52431516211207,13.17220995568798],[77.52380974747899,13.15906676771893],[77.53664817966626,13.16467326996867]]]},"properties":{"region_id":"village_612850","name":"DIBBURU","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55181060938165,12.49968376198491],[76.53783284157102,12.50167079952503],[76.53731626573632,12.47796684921968],[76.55418925657514,12.47532650574557],[76.55181060938165,12.49968376198491]]]},"properties":{"region_id":"village_614136","name":"BINDAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

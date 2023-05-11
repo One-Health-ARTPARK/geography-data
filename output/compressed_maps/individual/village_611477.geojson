@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04429572872067,13.25618001220857],[77.01837118166944,13.25735657224949],[77.0195610379508,13.25095190450184],[77.03730504851428,13.24788660801819],[77.04429572872067,13.25618001220857]]]},"properties":{"region_id":"village_611477","name":"MENASANDRA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

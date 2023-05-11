@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38652387954775,11.97597823323479],[76.37097272789855,11.97566151964713],[76.35355054271062,11.93466262901699],[76.3860442402877,11.95874622160034],[76.38652387954775,11.97597823323479]]]},"properties":{"region_id":"village_619076","name":"SAGARE","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

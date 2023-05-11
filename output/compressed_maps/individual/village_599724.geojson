@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01766899942572,18.06309560520509],[76.9918885263092,18.06440538857559],[76.98508842962805,18.00835968781481],[77.04529734806822,18.0097310531054],[77.01766899942572,18.06309560520509]]]},"properties":{"region_id":"village_599724","name":"HULSOOR","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

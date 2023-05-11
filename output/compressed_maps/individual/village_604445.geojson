@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5053394014049,14.41070252463083],[75.49600975214204,14.40913620221057],[75.50180992606235,14.3798695814309],[75.50912127431543,14.38907242680534],[75.5053394014049,14.41070252463083]]]},"properties":{"region_id":"village_604445","name":"YALIWAL","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

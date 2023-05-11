@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.616835393797,12.85751106771681],[77.62061721214003,12.87018194226138],[77.60591198406667,12.86086526707514],[77.616835393797,12.85751106771681]]]},"properties":{"region_id":"village_938433","name":"ELENAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

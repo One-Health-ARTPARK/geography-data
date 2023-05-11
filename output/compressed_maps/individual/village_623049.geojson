@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.51972611782998,13.27827357534114],[78.50671183678485,13.27903928499483],[78.50713874659812,13.27040306293385],[78.51625314332037,13.27165642455188],[78.51972611782998,13.27827357534114]]]},"properties":{"region_id":"village_623049","name":"KIRUMANI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

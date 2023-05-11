@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32774366572963,16.07787510047656],[76.29923483283916,16.08416898611811],[76.30320008879649,16.06738928878575],[76.32338365310473,16.06338494702696],[76.32774366572963,16.07787510047656]]]},"properties":{"region_id":"village_600358","name":"SAJJALAGUDDA","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

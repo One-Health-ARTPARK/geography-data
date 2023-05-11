@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58706641024061,16.15861276043776],[76.58872666408394,16.12662227877647],[76.60670739740411,16.12601965489292],[76.61015463725867,16.14631821399626],[76.58706641024061,16.15861276043776]]]},"properties":{"region_id":"village_600436","name":"SARJAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

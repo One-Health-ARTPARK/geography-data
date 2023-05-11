@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97802688354518,12.87072854434906],[75.97932455809494,12.873593573651],[75.97505671470645,12.87870393192417],[75.97273692080176,12.87207810286537],[75.97802688354518,12.87072854434906]]]},"properties":{"region_id":"village_616436","name":"THIPPANAHALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

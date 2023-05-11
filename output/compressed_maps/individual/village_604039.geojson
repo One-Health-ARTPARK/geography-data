@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15053784159369,14.88393331933537],[75.13692082643536,14.88062148603556],[75.1353934869836,14.86749081143827],[75.15599819999865,14.87106568369257],[75.15053784159369,14.88393331933537]]]},"properties":{"region_id":"village_604039","name":"NELLIKOPPA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

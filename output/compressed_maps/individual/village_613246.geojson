@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80891289697578,12.91910571545372],[77.79662343603239,12.91844936879294],[77.79792118626494,12.90060297987345],[77.80891289697578,12.91910571545372]]]},"properties":{"region_id":"village_613246","name":"KAMANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

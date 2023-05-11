@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21284412656027,12.52629515582129],[76.19348747396485,12.53062756793217],[76.18972791115206,12.5232094044273],[76.2117602543412,12.51599531106241],[76.21284412656027,12.52629515582129]]]},"properties":{"region_id":"village_618605","name":"KOLUR","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

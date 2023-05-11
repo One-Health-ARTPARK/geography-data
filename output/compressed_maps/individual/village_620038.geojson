@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4322906615461,17.56073567496363],[76.39292545183076,17.56731908277398],[76.39127096818606,17.55140308155483],[76.4322906615461,17.56073567496363]]]},"properties":{"region_id":"village_620038","name":"NAGELAGAON","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

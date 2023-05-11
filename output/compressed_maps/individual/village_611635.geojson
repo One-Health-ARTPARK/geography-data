@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7808735604606,13.52413672302167],[76.76023220081217,13.52360773589054],[76.76837570726124,13.51504497166748],[76.7808735604606,13.52413672302167]]]},"properties":{"region_id":"village_611635","name":"MAYAPPANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

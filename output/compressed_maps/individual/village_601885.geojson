@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52073059079939,15.8441020830237],[75.51909982606412,15.85839786130971],[75.50760403419027,15.86034042442954],[75.50386593414134,15.850050639473],[75.52073059079939,15.8441020830237]]]},"properties":{"region_id":"village_601885","name":"BUDIHAL","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

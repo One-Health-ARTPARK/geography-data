@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57583913614069,12.91709984852081],[77.5733737888722,12.90611748330454],[77.58617787906901,12.90682007510324],[77.58406535447605,12.91408392543648],[77.57583913614069,12.91709984852081]]]},"properties":{"region_id":"village_938468","name":"SARAKKI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

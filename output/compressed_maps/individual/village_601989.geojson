@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56528101136898,15.62088724865037],[75.53252619277367,15.57981932519747],[75.56996694823226,15.57657147641623],[75.56528101136898,15.62088724865037]]]},"properties":{"region_id":"village_601989","name":"LINGADHAL","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

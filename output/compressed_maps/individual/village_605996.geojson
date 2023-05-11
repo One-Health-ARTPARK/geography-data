@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42559969856849,13.58283508063634],[76.41882769013834,13.60571336962092],[76.39966189460783,13.59393952466118],[76.4094024881726,13.5800888437131],[76.42559969856849,13.58283508063634]]]},"properties":{"region_id":"village_605996","name":"GAVIRANGAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

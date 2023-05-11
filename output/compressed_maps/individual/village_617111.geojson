@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33984712933906,13.08556157367713],[76.3227024385104,13.09199350613395],[76.31573357108732,13.08524765224342],[76.33562911653753,13.07100022217278],[76.33984712933906,13.08556157367713]]]},"properties":{"region_id":"village_617111","name":"KURIKAVAL","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

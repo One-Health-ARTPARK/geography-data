@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52733190865074,15.63462167450209],[74.5267348224836,15.65409979290555],[74.50076378639947,15.64686373001554],[74.49847549441334,15.63164818035982],[74.52733190865074,15.63462167450209]]]},"properties":{"region_id":"village_597873","name":"KHANAPUR (RURAL)","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

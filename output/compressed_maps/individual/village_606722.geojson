@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46237152525251,14.12083813380259],[75.4558259073142,14.12176476459662],[75.43849288425771,14.09849861034798],[75.4662207452882,14.1047717375953],[75.46237152525251,14.12083813380259]]]},"properties":{"region_id":"village_606722","name":"SURAGONDANAKOPPA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

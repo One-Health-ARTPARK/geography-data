@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75785155654938,12.93552244936991],[76.74687662500826,12.94084696024795],[76.74819342213104,12.92993320215882],[76.75785155654938,12.93552244936991]]]},"properties":{"region_id":"village_613839","name":"CHOLASANDRA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

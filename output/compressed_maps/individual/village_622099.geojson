@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92588804128864,13.11019499248814],[77.92352090187867,13.1167574434635],[77.915124030916,13.1174428611298],[77.91348495960013,13.10988689114584],[77.92588804128864,13.11019499248814]]]},"properties":{"region_id":"village_622099","name":"SONNANAIKANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

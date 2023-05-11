@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5062801624825,12.98699989042472],[76.48969489801044,12.99494824179053],[76.48650777758371,12.97956202513281],[76.50053439998337,12.9753540851579],[76.5062801624825,12.98699989042472]]]},"properties":{"region_id":"village_617265","name":"HEBBALALU","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

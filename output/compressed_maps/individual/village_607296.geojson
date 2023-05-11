@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23874881565754,14.07737176789346],[75.24944693743751,14.08344242292067],[75.24092635264725,14.09815254030497],[75.23554082227635,14.09655978375899],[75.23874881565754,14.07737176789346]]]},"properties":{"region_id":"village_607296","name":"KHYRA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

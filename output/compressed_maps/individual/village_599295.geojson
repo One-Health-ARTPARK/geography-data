@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25169166651396,17.14948736598664],[76.23515382626388,17.15295027641816],[76.2307612894076,17.13515592002532],[76.24280577418716,17.13262408085242],[76.25169166651396,17.14948736598664]]]},"properties":{"region_id":"village_599295","name":"TARAPUR (OLD)","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7157781098178,12.45407268194743],[76.70556523726806,12.46091568521184],[76.69813318125621,12.45618497270542],[76.70293222856782,12.44044727092896],[76.71340908386289,12.44478295738565],[76.7157781098178,12.45407268194743]]]},"properties":{"region_id":"village_614237","name":"KUDALAKUPPE","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

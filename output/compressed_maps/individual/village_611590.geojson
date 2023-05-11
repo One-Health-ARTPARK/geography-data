@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17189129111294,13.25742801867975],[77.16199991212117,13.26209995904155],[77.15220384246021,13.24604155312192],[77.16875772343344,13.24210954390198],[77.17189129111294,13.25742801867975]]]},"properties":{"region_id":"village_611590","name":"HARALUR","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

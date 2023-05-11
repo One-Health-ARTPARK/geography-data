@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30287759817932,14.40880561747447],[76.28143041981623,14.40365867615698],[76.28288510339735,14.39079101704308],[76.30244881658889,14.38959652551488],[76.30287759817932,14.40880561747447]]]},"properties":{"region_id":"village_605445","name":"HULLEHAL","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

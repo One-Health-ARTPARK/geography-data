@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73255973500834,14.39897010992011],[74.7030527011759,14.38507675202485],[74.7264993230891,14.37764290516039],[74.73255973500834,14.39897010992011]]]},"properties":{"region_id":"village_603618","name":"NAIGAR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

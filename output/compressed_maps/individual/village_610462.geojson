@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91743101669151,13.59529908295705],[76.90668117996515,13.59522882457375],[76.89664027911886,13.58306654126532],[76.90538450821784,13.57827261187378],[76.91743101669151,13.59529908295705]]]},"properties":{"region_id":"village_610462","name":"GOPALADEVARAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

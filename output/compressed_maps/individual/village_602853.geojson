@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82603626394629,15.31883419922911],[74.80576617171886,15.31937317049115],[74.80912655558774,15.30363735356669],[74.825312836452,15.30369134154501],[74.82603626394629,15.31883419922911]]]},"properties":{"region_id":"village_602853","name":"JOGANKOP","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

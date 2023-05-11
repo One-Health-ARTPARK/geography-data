@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4739531697124,12.77060894760197],[76.46655129592038,12.79230676255895],[76.4568617745602,12.77668546826465],[76.4739531697124,12.77060894760197]]]},"properties":{"region_id":"village_617391","name":"DINKA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

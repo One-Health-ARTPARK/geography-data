@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70075788693468,15.29928970058293],[74.6690266464677,15.31596620879125],[74.65726175397482,15.26862142849113],[74.68614739254994,15.26620990345919],[74.70075788693468,15.29928970058293]]]},"properties":{"region_id":"village_602773","name":"ALUR","parent":"subdistrict_7064","parent_name":"DANDELI"}}
+]}

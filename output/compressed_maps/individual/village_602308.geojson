@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17845176260064,15.5218098196621],[75.14398819028644,15.54423506310165],[75.13558173778866,15.51481240796582],[75.17845176260064,15.5218098196621]]]},"properties":{"region_id":"village_602308","name":"VANAHALLI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

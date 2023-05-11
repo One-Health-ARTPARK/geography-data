@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19632477398265,16.34179391021535],[76.15472913528983,16.34371901771167],[76.15972006033549,16.32098751656603],[76.1972368857596,16.32005513888118],[76.19632477398265,16.34179391021535]]]},"properties":{"region_id":"village_599623","name":"KAVADIMATTI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46689627944943,14.62969125002157],[75.43236295036172,14.64542218671511],[75.41581849075179,14.60833095787048],[75.45336112469818,14.60432452179436],[75.46689627944943,14.62969125002157]]]},"properties":{"region_id":"village_604336","name":"SHIDENUR","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

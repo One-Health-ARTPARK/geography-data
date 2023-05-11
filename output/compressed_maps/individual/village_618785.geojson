@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75649425387736,12.30416119657593],[76.74416849384582,12.30968664830807],[76.72931309563366,12.30532953228881],[76.73361578834674,12.28208811584536],[76.75294134615473,12.28167892870406],[76.75649425387736,12.30416119657593]]]},"properties":{"region_id":"village_618785","name":"VAJAMANGALA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

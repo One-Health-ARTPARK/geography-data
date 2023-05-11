@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83437016284947,15.61880074771358],[75.83332374983553,15.64504889721883],[75.79804991389716,15.66420936803487],[75.79650183975644,15.62198254445702],[75.83437016284947,15.61880074771358]]]},"properties":{"region_id":"village_601963","name":"MARANABASARI","parent":"subdistrict_5469","parent_name":"RON"}}
+]}

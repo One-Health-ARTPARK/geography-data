@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.58060971012677,13.98291264511465],[74.5737749769871,13.98472952671311],[74.57448247023052,13.98099973351482],[74.58060971012677,13.98291264511465]]]},"properties":{"region_id":"village_603836","name":"MOODABHATKAL","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

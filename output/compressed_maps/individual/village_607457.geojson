@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05432816342211,14.50429304750884],[75.04078329788092,14.50297329093153],[75.0420002442741,14.49704484815841],[75.05492536981099,14.49845056556446],[75.05432816342211,14.50429304750884]]]},"properties":{"region_id":"village_607457","name":"HUNSEKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

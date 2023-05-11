@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36816991732353,14.50765627102062],[76.33621880841235,14.50467088309319],[76.34078075432467,14.49061183595991],[76.37105934292155,14.49046430198243],[76.36816991732353,14.50765627102062]]]},"properties":{"region_id":"village_606518","name":"MARENAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

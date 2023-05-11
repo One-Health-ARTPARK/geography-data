@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1187034263498,12.24164981316254],[77.11559738149136,12.25673086860551],[77.10094730747,12.25870115049667],[77.09949141426272,12.24595190683643],[77.1187034263498,12.24164981316254]]]},"properties":{"region_id":"village_614808","name":"KIRAGASUR","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

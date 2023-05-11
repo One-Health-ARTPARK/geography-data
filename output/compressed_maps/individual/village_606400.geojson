@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33291106400914,14.61443043956433],[76.31301149877542,14.6258057886384],[76.31191818429478,14.59586595712619],[76.33261775684,14.59565626915139],[76.33291106400914,14.61443043956433]]]},"properties":{"region_id":"village_606400","name":"GOWDAGONDANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

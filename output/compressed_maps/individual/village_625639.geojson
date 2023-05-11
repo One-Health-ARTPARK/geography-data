@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87748038341091,13.06743485166772],[77.86882124115462,13.06362806959908],[77.87225896105222,13.05329962031503],[77.8798041369159,13.0548956653907],[77.87748038341091,13.06743485166772]]]},"properties":{"region_id":"village_625639","name":"OROHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

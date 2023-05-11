@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21657760362376,14.74453537020902],[75.17991678447049,14.75053686843294],[75.18102471687442,14.71953600314952],[75.21070282382976,14.71653621380907],[75.21657760362376,14.74453537020902]]]},"properties":{"region_id":"village_604148","name":"HAVANAGI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53532959129248,13.55767461336714],[77.52775286455761,13.56570715597353],[77.52324378902856,13.56344858206916],[77.53024156891072,13.55333532069702],[77.53532959129248,13.55767461336714]]]},"properties":{"region_id":"village_623349","name":"NANDIGANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

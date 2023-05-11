@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75593151225063,13.2469813750826],[77.75608529587495,13.25442702391152],[77.74795697658513,13.25449591862392],[77.75025959131726,13.24373012278639],[77.75593151225063,13.2469813750826]]]},"properties":{"region_id":"village_625409","name":"THAMMENAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

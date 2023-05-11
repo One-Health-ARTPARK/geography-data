@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73430008362811,14.98540102331569],[76.69582147460865,14.99476829985876],[76.68960852057396,14.97815528426684],[76.71859495600269,14.97181387023709],[76.73430008362811,14.98540102331569]]]},"properties":{"region_id":"village_605140","name":"SANTHEGUDDA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

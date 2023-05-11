@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37280131275661,12.64643715215039],[76.35215760957475,12.65040422705274],[76.36109526101701,12.63093522391606],[76.37280131275661,12.64643715215039]]]},"properties":{"region_id":"village_613604","name":"GUBBAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

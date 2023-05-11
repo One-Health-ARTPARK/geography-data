@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69032349262253,14.91562633450002],[74.6758091192798,14.91123783958837],[74.68562767959631,14.89450409130934],[74.69508722969204,14.904381073056],[74.69032349262253,14.91562633450002]]]},"properties":{"region_id":"village_602930","name":"BALEKANI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

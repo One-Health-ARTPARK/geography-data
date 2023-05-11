@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51620994620464,13.15775965016143],[77.52357980061036,13.1583871841675],[77.52355191617757,13.16944562587102],[77.51599866995474,13.16843193954506],[77.51620994620464,13.15775965016143]]]},"properties":{"region_id":"village_612851","name":"KOLUVARAYANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

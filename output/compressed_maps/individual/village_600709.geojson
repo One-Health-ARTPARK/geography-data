@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97623546028295,16.2648686333202],[76.95727323682199,16.26623690209706],[76.94580606003528,16.25410900007068],[76.96477099731408,16.24677802848154],[76.97623546028295,16.2648686333202]]]},"properties":{"region_id":"village_600709","name":"BANDEGUD","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

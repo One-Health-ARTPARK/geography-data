@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91660917208452,12.97927049798041],[74.89264052227094,12.98119050499161],[74.88744658398676,12.96534177229307],[74.90762290526095,12.95287804655094],[74.91660917208452,12.97927049798041]]]},"properties":{"region_id":"village_617503","name":"KOLAMBE (CT)","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

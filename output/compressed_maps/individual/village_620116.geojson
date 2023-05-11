@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41133596264991,17.378366226905],[76.41205724353067,17.35091082707813],[76.43819523766457,17.33996643496301],[76.44788956845551,17.36885995376089],[76.41133596264991,17.378366226905]]]},"properties":{"region_id":"village_620116","name":"ARJUNGI","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

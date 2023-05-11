@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03573479712118,13.07594561421075],[75.02079823920101,13.07725181450648],[75.02872605726067,13.05856825305086],[75.04217185721352,13.06199581407179],[75.03573479712118,13.07594561421075]]]},"properties":{"region_id":"village_938811","name":"KALLABETTU","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

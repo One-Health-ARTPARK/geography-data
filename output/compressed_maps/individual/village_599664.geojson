@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26145663020901,16.29514896056371],[76.2366872337157,16.2979197531071],[76.23391012761478,16.26947738062644],[76.25216419040468,16.26709405975081],[76.26145663020901,16.29514896056371]]]},"properties":{"region_id":"village_599664","name":"NAGARABETTA","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

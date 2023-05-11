@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08228255077792,16.65751199019299],[75.01696030581425,16.66036291111594],[75.02249179500652,16.6381930744857],[75.08228255077792,16.65751199019299]]]},"properties":{"region_id":"village_597310","name":"HALYAL","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

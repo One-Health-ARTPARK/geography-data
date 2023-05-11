@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59065236546763,12.61511742383483],[77.55211938474933,12.60645981586937],[77.5845704950699,12.58037993479108],[77.59065236546763,12.61511742383483]]]},"properties":{"region_id":"village_626423","name":"YALACHAVADI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

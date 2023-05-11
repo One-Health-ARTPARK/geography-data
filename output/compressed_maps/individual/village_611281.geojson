@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04596889948608,13.368331624237],[77.0570426050375,13.3743160706395],[77.05987464374915,13.38530317741471],[77.04959723474629,13.3889433941363],[77.04284314472096,13.37904524087322],[77.04596889948608,13.368331624237]]]},"properties":{"region_id":"village_611281","name":"BUGUDANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

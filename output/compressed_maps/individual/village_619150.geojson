@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51760588393049,12.03352121497944],[76.51008091527954,12.02105993392149],[76.51847242428609,12.01650845488176],[76.52761067773939,12.02400043504206],[76.51760588393049,12.03352121497944]]]},"properties":{"region_id":"village_619150","name":"UGANIYA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

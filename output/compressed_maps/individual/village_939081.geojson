@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05033124098306,11.98608525413769],[76.02623178561794,11.99268936583251],[76.01399483558679,11.98032441977623],[76.04667887658924,11.9689699305704],[76.05033124098306,11.98608525413769]]]},"properties":{"region_id":"village_939081","name":"TAILA","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48640743570141,15.90328931181242],[75.48143657774285,15.9062109344172],[75.46628814969549,15.87742044524964],[75.4759361606686,15.8797717818858],[75.48640743570141,15.90328931181242]]]},"properties":{"region_id":"village_598725","name":"TALAKAWAD","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

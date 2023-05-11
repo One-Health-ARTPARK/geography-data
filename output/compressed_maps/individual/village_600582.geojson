@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82152197748273,16.2542202685584],[76.79401697645595,16.2645101882423],[76.77870419260692,16.24568804596033],[76.7936878963613,16.23264220617557],[76.82152197748273,16.2542202685584]]]},"properties":{"region_id":"village_600582","name":"MUDALAGUND","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

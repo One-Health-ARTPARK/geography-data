@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83544312834238,11.75251142868385],[76.85084384882977,11.73220261708705],[76.8414249923639,11.71018054699909],[76.85802564313336,11.70055827835703],[76.85201289646943,11.73602631462122],[76.83544312834238,11.75251142868385]]]},"properties":{"region_id":"village_619729","name":"YARAGANHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

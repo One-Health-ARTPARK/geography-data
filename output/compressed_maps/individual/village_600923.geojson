@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83274928823575,15.99136207933359],[76.79362727122383,15.9951079242708],[76.79226770568717,15.97879557583139],[76.83274928823575,15.99136207933359]]]},"properties":{"region_id":"village_600923","name":"MARKAMDINNI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

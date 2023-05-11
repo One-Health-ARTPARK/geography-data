@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12139306373017,14.33562106416056],[76.09165837696088,14.3412325461786],[76.08884994458782,14.33197507867546],[76.12139306373017,14.33562106416056]]]},"properties":{"region_id":"village_606650","name":"HONNAIKANAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

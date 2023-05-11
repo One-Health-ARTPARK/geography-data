@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18278094040049,12.26404777618762],[76.16450116556159,12.26249786232907],[76.16936822946815,12.24916537511861],[76.18834201580509,12.24715048177653],[76.18278094040049,12.26404777618762]]]},"properties":{"region_id":"village_618363","name":"GOWDIKERE","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

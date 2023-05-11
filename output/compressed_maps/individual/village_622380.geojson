@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.06837549129985,13.04706890097686],[78.06041601932695,13.03536035727543],[78.06940873956677,13.03137877630028],[78.06837549129985,13.04706890097686]]]},"properties":{"region_id":"village_622380","name":"KUNTANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

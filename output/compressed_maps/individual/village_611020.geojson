@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17211723459644,13.56878566516218],[77.15509420499679,13.57029689126967],[77.1506598331547,13.55654542542276],[77.16736929778038,13.55949813065995],[77.17211723459644,13.56878566516218]]]},"properties":{"region_id":"village_611020","name":"BENDONI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

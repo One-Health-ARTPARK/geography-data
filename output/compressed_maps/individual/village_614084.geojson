@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70144485475755,12.58237073870109],[76.7036532567668,12.60337241165153],[76.67804812200437,12.591319411831],[76.68607081280899,12.57343673091975],[76.70144485475755,12.58237073870109]]]},"properties":{"region_id":"village_614084","name":"HALEBEEDU","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

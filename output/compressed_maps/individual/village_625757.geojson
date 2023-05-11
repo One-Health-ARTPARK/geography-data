@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85790998222787,12.86900708174406],[77.86759769104097,12.86770194002067],[77.8664609957516,12.87579842962725],[77.85714625321116,12.87645270770725],[77.85790998222787,12.86900708174406]]]},"properties":{"region_id":"village_625757","name":"SHIVANAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

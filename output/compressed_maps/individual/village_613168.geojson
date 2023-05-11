@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6659807283764,12.76872274534948],[77.64491972889972,12.76475307345804],[77.65280021419127,12.75433891023539],[77.66718014355371,12.75401951153877],[77.6659807283764,12.76872274534948]]]},"properties":{"region_id":"village_613168","name":"HARAGADDE","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

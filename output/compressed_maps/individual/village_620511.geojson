@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37816117290001,17.14013519091096],[77.34578421066942,17.09365248716596],[77.38829369413934,17.09120470424185],[77.37816117290001,17.14013519091096]]]},"properties":{"region_id":"village_620511","name":"ADKI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

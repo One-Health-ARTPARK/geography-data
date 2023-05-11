@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24243853790954,16.32591895319313],[75.22022842306576,16.32364520758499],[75.20761732190884,16.27168657781634],[75.2226932577251,16.26416627515619],[75.24243853790954,16.32591895319313]]]},"properties":{"region_id":"village_598568","name":"UTTUR","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

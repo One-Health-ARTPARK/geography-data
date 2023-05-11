@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94729799341492,13.90769740820935],[76.94875178227146,13.9271531991192],[76.92987623389773,13.927997649179],[76.92944825581424,13.9101686709599],[76.94729799341492,13.90769740820935]]]},"properties":{"region_id":"village_610292","name":"HOSAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

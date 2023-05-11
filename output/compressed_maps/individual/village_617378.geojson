@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5133110683204,12.88033175756363],[76.50520175433698,12.89094926397559],[76.49037694574204,12.89149535227681],[76.49034047726886,12.87671875979951],[76.5133110683204,12.88033175756363]]]},"properties":{"region_id":"village_617378","name":"PARAMA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

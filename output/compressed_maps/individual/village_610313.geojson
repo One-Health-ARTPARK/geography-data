@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82481384396453,13.90487446351456],[76.81529083472057,13.91624651463797],[76.80102982891742,13.90882829498166],[76.81165179908623,13.90210632419924],[76.82481384396453,13.90487446351456]]]},"properties":{"region_id":"village_610313","name":"SANKAPURA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

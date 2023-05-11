@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45953089739031,15.91764483040047],[75.46885022157356,15.95147069916988],[75.43988014871582,15.96590195997855],[75.42482880196006,15.92182321301322],[75.45953089739031,15.91764483040047]]]},"properties":{"region_id":"village_598708","name":"KAKANUR","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

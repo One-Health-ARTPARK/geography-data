@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24412762427006,15.96176500398244],[75.25451318387692,15.95558874720755],[75.25890051825854,15.96509229096778],[75.24878004502074,15.97222576535864],[75.24412762427006,15.96176500398244]]]},"properties":{"region_id":"village_598373","name":"HALOLLI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

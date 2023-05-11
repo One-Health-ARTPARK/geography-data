@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.995591164638,13.65326744758778],[75.9691249227601,13.65756111403839],[75.97004527164195,13.64929127248602],[75.995591164638,13.65326744758778]]]},"properties":{"region_id":"village_609318","name":"SOMENAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

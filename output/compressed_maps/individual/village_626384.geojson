@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47538805798281,12.62030525316442],[77.45554203975338,12.60540113282316],[77.47277290836936,12.59139921112675],[77.47538805798281,12.62030525316442]]]},"properties":{"region_id":"village_626384","name":"PADUVANAGERE","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90956786203242,13.73404086813287],[76.89808355761139,13.73040912339684],[76.89697368219107,13.7181291469961],[76.90330465637636,13.71676272819052],[76.90956786203242,13.73404086813287]]]},"properties":{"region_id":"village_610389","name":"MALLIKAPURA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

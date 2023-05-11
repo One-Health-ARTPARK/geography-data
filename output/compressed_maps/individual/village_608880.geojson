@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94948911469427,13.32068526392906],[74.92342669956965,13.32493060896653],[74.93796720991433,13.2731688966919],[74.96794172589405,13.31188140811161],[74.94948911469427,13.32068526392906]]]},"properties":{"region_id":"village_608880","name":"YERLAPADY","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

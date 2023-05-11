@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71704375242683,13.36223090956943],[77.71263521327002,13.35390097660868],[77.71772972707151,13.3528559155786],[77.71704375242683,13.36223090956943]]]},"properties":{"region_id":"village_625311","name":"BINGIPURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

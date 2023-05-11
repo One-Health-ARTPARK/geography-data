@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25485145111486,13.2899738323839],[77.24511294466355,13.2918131197822],[77.23869228069469,13.28418283059027],[77.25309279798073,13.27795222315878],[77.25485145111486,13.2899738323839]]]},"properties":{"region_id":"village_624724","name":"BUGADIHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91046607255157,13.35683526672814],[77.90071260258269,13.35614673015768],[77.89949042994833,13.34280982292676],[77.90935612267283,13.34105470898679],[77.91046607255157,13.35683526672814]]]},"properties":{"region_id":"village_624227","name":"SORAKAYALAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

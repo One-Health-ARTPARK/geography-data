@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43845229749573,12.94908508534002],[77.43713751742591,12.92821483448641],[77.44912655615279,12.93037867104213],[77.45644292392319,12.94663080975057],[77.43845229749573,12.94908508534002]]]},"properties":{"region_id":"village_613012","name":"SULIKERE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

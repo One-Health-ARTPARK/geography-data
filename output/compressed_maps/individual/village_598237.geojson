@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03779360158327,15.78881974941231],[74.99973025940534,15.78943972067821],[74.99856874253959,15.77643325572511],[75.04106401158823,15.7757657259535],[75.03779360158327,15.78881974941231]]]},"properties":{"region_id":"village_598237","name":"MUGALI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53001319335955,13.28036340621262],[77.51656051951426,13.28292701775349],[77.51922089855564,13.26539562888729],[77.5278521773367,13.27022685590428],[77.53001319335955,13.28036340621262]]]},"properties":{"region_id":"village_625118","name":"ALAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

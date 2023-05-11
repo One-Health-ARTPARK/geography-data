@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56764010651321,13.3861757307629],[76.57963985740189,13.38892209358712],[76.57795692344395,13.40336471871963],[76.5621668215375,13.3927234446985],[76.56764010651321,13.3861757307629]]]},"properties":{"region_id":"village_610235","name":"BALENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96875537847525,16.58293780830804],[74.95287359899649,16.61273005869176],[74.93880332578463,16.61342793783991],[74.95305372093347,16.5813856372844],[74.96875537847525,16.58293780830804]]]},"properties":{"region_id":"village_597389","name":"SIDDAPUR","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

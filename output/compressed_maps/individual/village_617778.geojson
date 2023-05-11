@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46384409946495,12.67374958755665],[75.4481908104574,12.67140909509509],[75.46031071255814,12.64125794394245],[75.47912579576031,12.66293566660083],[75.46384409946495,12.67374958755665]]]},"properties":{"region_id":"village_617778","name":"PAMBETHADY","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

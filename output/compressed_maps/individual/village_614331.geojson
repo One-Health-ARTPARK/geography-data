@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91895193396324,12.70077333435145],[76.91590384707415,12.71466603338182],[76.90812152363036,12.70789980657668],[76.9068048349233,12.69766163901031],[76.91895193396324,12.70077333435145]]]},"properties":{"region_id":"village_614331","name":"CHANDAGALU","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

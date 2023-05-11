@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95250978488379,12.57182721418375],[76.9486243844444,12.5864501759883],[76.93265048516854,12.58171528939588],[76.93842739701103,12.55841724692601],[76.95250978488379,12.57182721418375]]]},"properties":{"region_id":"village_614450","name":"BELLUNDAGERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

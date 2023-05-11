@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1625442467104,13.23591351073763],[76.15810608340807,13.23602173466501],[76.1544088176711,13.22748240533561],[76.16364410113323,13.2292183164852],[76.1625442467104,13.23591351073763]]]},"properties":{"region_id":"village_615478","name":"VRUNDAVANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

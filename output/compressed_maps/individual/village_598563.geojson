@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1382084349649,16.32512479832799],[75.12960329352745,16.28696299590134],[75.14431515477862,16.29474803320002],[75.14872787736476,16.31253016109072],[75.1382084349649,16.32512479832799]]]},"properties":{"region_id":"village_598563","name":"MALLAPUR(P.J)","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

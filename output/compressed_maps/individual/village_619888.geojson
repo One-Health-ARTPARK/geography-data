@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50667802149376,12.11273250978097],[77.49120996273648,12.11001091474683],[77.49952592346658,12.08767277199168],[77.51391829426194,12.09839401481899],[77.50667802149376,12.11273250978097]]]},"properties":{"region_id":"village_619888","name":"KURAHATTI HOSUR","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

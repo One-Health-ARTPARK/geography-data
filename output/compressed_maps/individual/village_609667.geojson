@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5544594678712,13.36768182547137],[75.57130665767663,13.39168983555179],[75.56159187669576,13.40102308608168],[75.5408184778172,13.37043848018819],[75.5544594678712,13.36768182547137]]]},"properties":{"region_id":"village_609667","name":"BASAPURA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

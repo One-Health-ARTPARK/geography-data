@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33599179209271,14.03574516844595],[76.33573596982646,14.05209922867881],[76.31284925395637,14.03831193530044],[76.3128151120665,14.02784444165707],[76.33599179209271,14.03574516844595]]]},"properties":{"region_id":"village_605788","name":"HORAKEREDEVARAPURA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

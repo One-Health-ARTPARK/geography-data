@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13464131257948,15.18924186660675],[75.12547773368647,15.19757628870604],[75.11467643765502,15.18230361212541],[75.1267923954495,15.1748002676185],[75.13464131257948,15.18924186660675]]]},"properties":{"region_id":"village_602429","name":"PALIKOP","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

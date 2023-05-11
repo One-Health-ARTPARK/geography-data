@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7137945303465,12.53253226181529],[75.69185859404755,12.56007260718409],[75.63232152414287,12.52506796358427],[75.69008732243798,12.50780946392484],[75.7137945303465,12.53253226181529]]]},"properties":{"region_id":"village_617819","name":"KALOORU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

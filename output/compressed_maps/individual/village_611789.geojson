@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74006266711564,13.32016943895788],[76.73065032274269,13.33400129309375],[76.7202726974934,13.3076837801297],[76.73613455834541,13.30647213342968],[76.74006266711564,13.32016943895788]]]},"properties":{"region_id":"village_611789","name":"BONEHALLADA KAVAL","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

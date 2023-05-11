@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9757610095977,13.14618096558976],[76.96284390873063,13.12926402354707],[76.97993184312075,13.12372609481976],[76.9757610095977,13.14618096558976]]]},"properties":{"region_id":"village_611932","name":"MANIKUPPE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

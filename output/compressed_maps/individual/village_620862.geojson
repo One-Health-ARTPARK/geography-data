@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85670625143023,16.89210355460188],[76.82250033684029,16.89379044227397],[76.79013766992811,16.87754162792553],[76.84106300205426,16.86690189477869],[76.85670625143023,16.89210355460188]]]},"properties":{"region_id":"village_620862","name":"MARADGI S.ANDOLA","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

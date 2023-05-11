@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84657479546325,13.5611789662185],[77.84949663358424,13.55193122834527],[77.85910177375251,13.54905475719346],[77.85557202765338,13.56255602219526],[77.84657479546325,13.5611789662185]]]},"properties":{"region_id":"village_624070","name":"ANUR THIMMANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

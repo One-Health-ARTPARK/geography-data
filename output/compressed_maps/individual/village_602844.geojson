@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74676393694763,15.34762220308854],[74.74194240476022,15.35451746742899],[74.73285420335084,15.34480684596376],[74.74477049718111,15.33743675703423],[74.74676393694763,15.34762220308854]]]},"properties":{"region_id":"village_602844","name":"KALASAPUR","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

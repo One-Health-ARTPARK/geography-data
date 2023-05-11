@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8815188547215,16.20449235404552],[74.86441611200082,16.19781264045987],[74.87274802943175,16.18807581983216],[74.88298568135144,16.19666497507766],[74.8815188547215,16.20449235404552]]]},"properties":{"region_id":"village_597532","name":"CHIGADOLLI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24920829501886,14.40488272020397],[75.2528595560139,14.4140337115822],[75.24592026089815,14.41551265952171],[75.23961098890214,14.40849336135817],[75.24920829501886,14.40488272020397]]]},"properties":{"region_id":"village_607715","name":"MALAGONDANAKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

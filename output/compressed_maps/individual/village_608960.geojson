@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29825018481074,13.38690608985294],[75.29439039215382,13.39423523827288],[75.28271363072315,13.39206165126137],[75.27755758331344,13.38419371232737],[75.29825018481074,13.38690608985294]]]},"properties":{"region_id":"village_608960","name":"HERURU","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

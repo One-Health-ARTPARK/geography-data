@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05105162616364,13.9790323788959],[76.03116049886178,13.98693114473161],[76.02892343414177,13.9625500781212],[76.04959077550116,13.95967849233802],[76.05105162616364,13.9790323788959]]]},"properties":{"region_id":"village_607094","name":"KANCHIGANAHALU","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

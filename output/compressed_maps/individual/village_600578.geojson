@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76295989588384,16.25815091544483],[76.72902432517198,16.24612041088946],[76.72132769546695,16.21618671115013],[76.75499689408694,16.21350272561534],[76.76295989588384,16.25815091544483]]]},"properties":{"region_id":"village_600578","name":"WANDLI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

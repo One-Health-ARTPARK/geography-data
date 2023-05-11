@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11828399556217,12.82214351689536],[75.09454327107078,12.81307786198848],[75.11427774462793,12.79610042050156],[75.11828399556217,12.82214351689536]]]},"properties":{"region_id":"village_617578","name":"ANANTHADI","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

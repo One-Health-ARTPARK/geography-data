@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95991685113079,12.4871232097259],[75.96160428527033,12.49516857788528],[75.9519477389589,12.49240198793914],[75.94314075986806,12.48633350326123],[75.94236836994561,12.48224533676997],[75.95991685113079,12.4871232097259]]]},"properties":{"region_id":"village_617981","name":"KUDUMANGALORE","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

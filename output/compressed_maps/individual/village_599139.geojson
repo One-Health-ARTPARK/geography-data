@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51465316978803,16.52538487137424],[75.51225158686042,16.55667709851342],[75.48851620366828,16.55249273345676],[75.49086763143575,16.52393231272037],[75.51465316978803,16.52538487137424]]]},"properties":{"region_id":"village_599139","name":"GUNADAL","parent":"subdistrict_7069","parent_name":"BABALESHWAR"}}
+]}

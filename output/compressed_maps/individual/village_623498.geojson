@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8051427850158,13.54610833185062],[77.7891360063633,13.55361993987155],[77.78262615994898,13.53174150050187],[77.8051427850158,13.54610833185062]]]},"properties":{"region_id":"village_623498","name":"CHIKKAPAYALAGURKI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

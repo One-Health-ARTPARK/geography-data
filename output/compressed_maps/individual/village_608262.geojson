@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28892418998475,13.63034874817616],[75.28659310745856,13.60384715570787],[75.30396041325434,13.60690037754691],[75.28892418998475,13.63034874817616]]]},"properties":{"region_id":"village_608262","name":"VATAGARU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

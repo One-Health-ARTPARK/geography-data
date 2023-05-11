@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4213248689414,16.1681377664421],[76.39090354634855,16.18456450263162],[76.36029489777509,16.13144241797223],[76.41756948390433,16.12831185553158],[76.4213248689414,16.1681377664421]]]},"properties":{"region_id":"village_600413","name":"ANAHOSUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

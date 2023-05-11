@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65819120985833,13.76762255490539],[77.64199543175181,13.77696054265017],[77.6184627859258,13.75502577611079],[77.65681867240765,13.74948047302555],[77.65819120985833,13.76762255490539]]]},"properties":{"region_id":"village_623280","name":"NAGARAGERE","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

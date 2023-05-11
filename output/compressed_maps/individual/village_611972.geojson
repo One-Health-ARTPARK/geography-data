@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51739998944387,13.33477919006966],[76.49695707923631,13.33444800205018],[76.50226354324845,13.30572718886524],[76.5191079834167,13.31481672293604],[76.51739998944387,13.33477919006966]]]},"properties":{"region_id":"village_611972","name":"ADINAYAKANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

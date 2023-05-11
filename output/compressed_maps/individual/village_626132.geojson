@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4331495567276,12.80476206321863],[77.41502102152609,12.80972023172485],[77.4131439187281,12.78242328755145],[77.43442404900196,12.78158618660993],[77.4331495567276,12.80476206321863]]]},"properties":{"region_id":"village_626132","name":"SHANUMANGALA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

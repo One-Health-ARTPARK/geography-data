@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4629887245754,17.09988842091996],[77.44404865029583,17.10188774739043],[77.44333039815577,17.0938546833186],[77.46143904713085,17.09144963688696],[77.4629887245754,17.09988842091996]]]},"properties":{"region_id":"village_620516","name":"BOMDEPALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

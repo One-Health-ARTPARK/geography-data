@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76098857506413,14.06702819972922],[76.76322215060516,14.04703466849191],[76.77799226046774,14.04865666577329],[76.76098857506413,14.06702819972922]]]},"properties":{"region_id":"village_606098","name":"YELAGONDANAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

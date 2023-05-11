@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05050093838672,17.93471423759241],[77.02935002010858,17.9288517659202],[77.04286362705288,17.90591626505311],[77.05370877192988,17.91712625414046],[77.05050093838672,17.93471423759241]]]},"properties":{"region_id":"village_599734","name":"KADEPUR","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

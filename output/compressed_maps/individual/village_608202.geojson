@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24271199682222,13.72548873438417],[75.23140596184116,13.72673870464749],[75.23228356475526,13.71747112673279],[75.23991469148382,13.7088302206452],[75.24271199682222,13.72548873438417]]]},"properties":{"region_id":"village_608202","name":"SHIRUPATHI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

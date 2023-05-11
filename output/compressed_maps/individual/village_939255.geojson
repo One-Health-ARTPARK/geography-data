@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79693699296314,16.35096980291886],[76.78429258982865,16.34926621827515],[76.78610031289602,16.33522005371657],[76.79928376984999,16.3394308477087],[76.79693699296314,16.35096980291886]]]},"properties":{"region_id":"village_939255","name":"THIMMAPURA","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

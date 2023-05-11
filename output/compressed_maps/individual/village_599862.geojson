@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14030498546963,18.1864566187241],[77.09697308586452,18.19407046924676],[77.10950822756357,18.15593724883783],[77.14935266401316,18.15457630734979],[77.14030498546963,18.1864566187241]]]},"properties":{"region_id":"village_599862","name":"LAKHANGAON","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

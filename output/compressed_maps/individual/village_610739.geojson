@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07678548664049,13.72563178702942],[77.06234122359402,13.73552248422605],[77.02911396453743,13.72422544378487],[77.05044598190024,13.71307742435274],[77.07678548664049,13.72563178702942]]]},"properties":{"region_id":"village_610739","name":"SHIVANAGERE","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

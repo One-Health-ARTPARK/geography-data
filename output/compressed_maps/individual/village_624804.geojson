@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30300250584644,13.23791417685141],[77.286935933974,13.23713074045111],[77.28704417826309,13.22947593518472],[77.30748133178376,13.22858771406151],[77.30300250584644,13.23791417685141]]]},"properties":{"region_id":"village_624804","name":"TAVAREKERE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

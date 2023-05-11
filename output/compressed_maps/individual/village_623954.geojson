@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99467591268069,13.74524587151416],[77.99909009506304,13.7565679030034],[77.98736887072943,13.75400059625549],[77.99467591268069,13.74524587151416]]]},"properties":{"region_id":"village_623954","name":"CHEEMANAGARIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

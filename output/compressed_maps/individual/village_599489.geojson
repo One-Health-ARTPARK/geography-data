@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9010319084585,16.35822179449923],[75.89016225556591,16.36494578591677],[75.88741035625716,16.3538170558566],[75.9010319084585,16.35822179449923]]]},"properties":{"region_id":"village_599489","name":"ALMATTI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

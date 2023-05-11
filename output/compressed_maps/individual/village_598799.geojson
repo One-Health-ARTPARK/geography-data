@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47019148036449,16.15316523488698],[75.45518380102975,16.18873597893782],[75.43507288963698,16.15620382318754],[75.47019148036449,16.15316523488698]]]},"properties":{"region_id":"village_598799","name":"KHAJJIDONI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

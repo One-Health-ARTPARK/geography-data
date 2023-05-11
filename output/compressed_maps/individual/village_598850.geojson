@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87204282154578,16.22054136787388],[75.81255968441113,16.21806331493218],[75.81459350343854,16.16682064770593],[75.84264649087115,16.16093196702982],[75.87204282154578,16.22054136787388]]]},"properties":{"region_id":"village_598850","name":"HALLUR","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

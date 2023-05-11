@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25759725824126,13.71226651231294],[75.23504804577587,13.71199811350504],[75.23029168573035,13.69523041456347],[75.25466178356798,13.70084447951774],[75.25759725824126,13.71226651231294]]]},"properties":{"region_id":"village_608211","name":"YADEHALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69441542228037,12.66695460685152],[76.68117615487945,12.66799994162955],[76.6779735662509,12.65614681004019],[76.6946450892918,12.65367014869737],[76.69441542228037,12.66695460685152]]]},"properties":{"region_id":"village_614062","name":"JAKKANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

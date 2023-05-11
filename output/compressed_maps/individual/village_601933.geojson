@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84252689429874,15.81630307055234],[75.84172914986934,15.78519470527019],[75.85949533141626,15.78720489269479],[75.86469041123043,15.81241971417209],[75.84252689429874,15.81630307055234]]]},"properties":{"region_id":"village_601933","name":"MUSHIGERI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

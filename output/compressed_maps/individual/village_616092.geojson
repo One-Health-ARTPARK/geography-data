@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05611388328803,12.89681587076424],[76.05320594492213,12.91212658690965],[76.0433487937803,12.90211945292595],[76.04807883996666,12.89103395868348],[76.05611388328803,12.89681587076424]]]},"properties":{"region_id":"village_616092","name":"DORNAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

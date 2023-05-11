@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39062962321269,12.99292148332655],[77.37747456253152,12.99344755896596],[77.38165329024632,12.97663158004545],[77.39715834215248,12.9761604595203],[77.39062962321269,12.99292148332655]]]},"properties":{"region_id":"village_612962","name":"GANGENAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75569932716112,12.67022831220254],[76.74439007007895,12.6707320207257],[76.74167954854359,12.6639788183605],[76.75267862852846,12.65783213914383],[76.75569932716112,12.67022831220254]]]},"properties":{"region_id":"village_614391","name":"MARALEKERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

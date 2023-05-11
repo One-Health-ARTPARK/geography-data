@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81506916262065,12.97887664948812],[74.80839448414562,12.98598092950442],[74.7991284241551,12.97966955855104],[74.80892221149699,12.97086175827605],[74.81506916262065,12.97887664948812]]]},"properties":{"region_id":"village_938800","name":"51 HOSABETTU","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

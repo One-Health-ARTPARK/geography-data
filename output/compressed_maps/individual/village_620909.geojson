@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63003428063027,16.60456704419396],[76.61389150758663,16.60421676566581],[76.61745409796174,16.57892048691823],[76.63291567763602,16.58616931804804],[76.63003428063027,16.60456704419396]]]},"properties":{"region_id":"village_620909","name":"GODRIHAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

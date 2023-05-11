@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58027775355082,13.26838974735236],[77.57510762082539,13.27044575060255],[77.5748670755647,13.2596110707676],[77.5787868834064,13.25618520887361],[77.58027775355082,13.26838974735236]]]},"properties":{"region_id":"village_625280","name":"SUNNAGATTA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

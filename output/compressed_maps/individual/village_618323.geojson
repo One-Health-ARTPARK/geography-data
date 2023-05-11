@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35933682728141,12.38481439521808],[76.34831195046186,12.38776536504542],[76.34127850273387,12.38053364607809],[76.3488892542022,12.3720899190959],[76.35933682728141,12.38481439521808]]]},"properties":{"region_id":"village_618323","name":"HULYALA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

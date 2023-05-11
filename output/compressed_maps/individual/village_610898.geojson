@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31557587168435,13.74593630726205],[77.32172824299593,13.75868615433025],[77.31882636125721,13.78049539807572],[77.30276947880645,13.76691545308552],[77.31557587168435,13.74593630726205]]]},"properties":{"region_id":"village_610898","name":"DADAGONDANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

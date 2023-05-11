@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34292902485966,13.13231754360006],[77.33570884125392,13.13667221865209],[77.32903113240438,13.12891301211405],[77.34292902485966,13.13231754360006]]]},"properties":{"region_id":"village_624894","name":"AGASARAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

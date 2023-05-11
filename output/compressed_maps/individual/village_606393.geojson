@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28850233317226,14.60689760072132],[76.26969338894983,14.60620311844023],[76.27074541578568,14.59337929174479],[76.28940690807377,14.59724179049796],[76.28850233317226,14.60689760072132]]]},"properties":{"region_id":"village_606393","name":"CHIKKABANNIHATTI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89362816269833,16.1212395133136],[75.88527204126373,16.14804692152578],[75.87004122375181,16.14405800403586],[75.89362816269833,16.1212395133136]]]},"properties":{"region_id":"village_598869","name":"YERANAIKANAL","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

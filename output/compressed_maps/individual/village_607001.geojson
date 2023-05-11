@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0499527327404,14.05499520025185],[76.05358641093414,14.08169184556177],[76.0350996741144,14.08365995764836],[76.03378611496996,14.0563392907504],[76.0499527327404,14.05499520025185]]]},"properties":{"region_id":"village_607001","name":"KORTIKERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

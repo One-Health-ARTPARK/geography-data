@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91485079729891,16.2682745680973],[75.93621107675192,16.3107494031254],[75.9254014360014,16.31547879321855],[75.91485079729891,16.2682745680973]]]},"properties":{"region_id":"village_598831","name":"NAGASAMPAGI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

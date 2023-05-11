@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73270242180338,13.78418093445516],[76.71960317642412,13.79773990608293],[76.70740302771276,13.78057776617318],[76.71167647069777,13.76759388473053],[76.73090724442353,13.77319702624536],[76.73270242180338,13.78418093445516]]]},"properties":{"region_id":"village_610399","name":"RAMANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

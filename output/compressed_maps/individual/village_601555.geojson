@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47284103318809,15.63540158575798],[76.46805489461474,15.65978843289786],[76.4518304892121,15.66351518859193],[76.45589997145474,15.63602952078289],[76.47284103318809,15.63540158575798]]]},"properties":{"region_id":"village_601555","name":"GUDDADUR","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

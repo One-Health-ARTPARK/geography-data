@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20901952658119,16.49806735411947],[77.19685512032073,16.48882772621246],[77.21418451983962,16.46056313878625],[77.23442070267377,16.48940431350638],[77.20901952658119,16.49806735411947]]]},"properties":{"region_id":"village_621215","name":"JOLDHADGI","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

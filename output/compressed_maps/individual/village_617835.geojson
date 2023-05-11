@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70536257167556,12.33229946963537],[75.69816143858469,12.31956772979318],[75.70937146797851,12.3111141095601],[75.7162301731858,12.33174525242194],[75.70536257167556,12.33229946963537]]]},"properties":{"region_id":"village_617835","name":"HODAVADA","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

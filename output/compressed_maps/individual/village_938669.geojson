@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71965690925872,13.51608138124035],[74.7065323349048,13.51468069403261],[74.7102668877605,13.49678650353621],[74.7215845427731,13.50655282769182],[74.71965690925872,13.51608138124035]]]},"properties":{"region_id":"village_938669","name":"CHITRAPADI","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

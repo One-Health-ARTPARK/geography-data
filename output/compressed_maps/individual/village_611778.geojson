@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84358245384146,13.34914276113136],[76.83085582265191,13.34842634172546],[76.82750152101653,13.33199021749787],[76.8435871578317,13.33801373766857],[76.84358245384146,13.34914276113136]]]},"properties":{"region_id":"village_611778","name":"ANKAPURA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

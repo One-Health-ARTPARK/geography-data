@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72919888719716,12.97685663833167],[77.73026519191743,12.9637852756403],[77.74182003860373,12.96920049404346],[77.72919888719716,12.97685663833167]]]},"properties":{"region_id":"village_938248","name":"NALLURAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

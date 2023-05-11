@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88600988081286,15.63385943860749],[75.86992011770356,15.63173872705153],[75.86642811910936,15.59552814522659],[75.8948961502067,15.60223993670365],[75.88600988081286,15.63385943860749]]]},"properties":{"region_id":"village_601966","name":"HALAKERI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

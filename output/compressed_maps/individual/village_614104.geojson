@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63198788597732,12.59686587720522],[76.61601817244483,12.59914109043225],[76.61777991301693,12.58260687927818],[76.64151525762068,12.58081696490846],[76.63198788597732,12.59686587720522]]]},"properties":{"region_id":"village_614104","name":"KAMANAYAKANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

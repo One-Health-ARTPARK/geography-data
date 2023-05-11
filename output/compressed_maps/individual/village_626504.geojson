@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31081424580012,12.50804663365186],[77.2904047559381,12.50985086613792],[77.30664841098945,12.48005750361425],[77.31081424580012,12.50804663365186]]]},"properties":{"region_id":"village_626504","name":"KABBAL","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

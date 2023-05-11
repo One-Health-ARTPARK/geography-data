@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44682354877553,13.29479695047109],[76.4467066855987,13.30579526390699],[76.44246102458344,13.3056655872011],[76.44146269719398,13.29606832769712],[76.44682354877553,13.29479695047109]]]},"properties":{"region_id":"village_612012","name":"VASUDEVARAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

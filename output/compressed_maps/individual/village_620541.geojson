@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3420875409309,17.06244116588973],[77.34352367800193,17.03538824516943],[77.36217094301283,17.0359527787691],[77.35626682585504,17.05533534767257],[77.3420875409309,17.06244116588973]]]},"properties":{"region_id":"village_620541","name":"MUNKANPALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

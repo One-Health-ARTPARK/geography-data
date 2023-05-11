@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5974245675259,18.12211764356549],[77.5596102885601,18.12750868714312],[77.54813255755974,18.10170588045584],[77.57675259699617,18.09134311127604],[77.5974245675259,18.12211764356549]]]},"properties":{"region_id":"village_600104","name":"JAMBGI(B)","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

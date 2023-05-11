@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60558788338561,12.79060405992351],[76.6149364301689,12.77470947193007],[76.62649209826439,12.78557772739244],[76.60558788338561,12.79060405992351]]]},"properties":{"region_id":"village_613832","name":"GIDAVINAHOSAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

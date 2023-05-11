@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38295229797347,12.88464357697429],[75.34449377582888,12.87080058903461],[75.38881248623386,12.84278523918774],[75.4102459413206,12.84385104682993],[75.41235611296942,12.85949821020971],[75.38295229797347,12.88464357697429]]]},"properties":{"region_id":"village_617681","name":"KOKKADA","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

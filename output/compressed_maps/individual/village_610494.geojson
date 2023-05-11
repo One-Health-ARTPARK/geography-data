@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96054267432149,13.60775106490228],[76.94368751456295,13.6101384801022],[76.95111535928322,13.59290179262597],[76.96054267432149,13.60775106490228]]]},"properties":{"region_id":"village_610494","name":"KATAVEERANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

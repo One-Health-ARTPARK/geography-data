@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63659823504942,12.48903321176849],[76.6245899986196,12.48461212456185],[76.6339407694896,12.4752266634718],[76.63659823504942,12.48903321176849]]]},"properties":{"region_id":"village_614204","name":"MANDIBETTAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

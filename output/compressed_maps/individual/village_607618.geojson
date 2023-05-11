@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0994457796002,14.33600132204992],[75.10274217638143,14.31437811279919],[75.1197305746605,14.3239348482252],[75.0994457796002,14.33600132204992]]]},"properties":{"region_id":"village_607618","name":"KUPPE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

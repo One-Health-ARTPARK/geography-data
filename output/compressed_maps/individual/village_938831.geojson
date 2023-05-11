@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.14935291062783,14.80328116435762],[74.11983332485462,14.79784062787272],[74.12266388860584,14.78058210658824],[74.15863236989208,14.7899944356544],[74.14935291062783,14.80328116435762]]]},"properties":{"region_id":"village_938831","name":"BINAGA","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

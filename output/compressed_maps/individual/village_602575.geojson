@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39602973518956,15.05820163001764],[75.38035688212511,15.0883793764158],[75.35628283314243,15.07247746996787],[75.36696559354569,15.05041112639126],[75.39602973518956,15.05820163001764]]]},"properties":{"region_id":"village_602575","name":"GOUDGERI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

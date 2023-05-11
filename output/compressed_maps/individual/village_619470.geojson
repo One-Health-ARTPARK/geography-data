@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66302173590871,11.88823344400855],[76.65897632884288,11.87078564103818],[76.67670922566798,11.86969333999545],[76.67786226310876,11.88715240754279],[76.66302173590871,11.88823344400855]]]},"properties":{"region_id":"village_619470","name":"AGATHAGOWDANAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

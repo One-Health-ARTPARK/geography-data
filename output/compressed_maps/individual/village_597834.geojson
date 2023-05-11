@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.41702393128958,15.6667868299698],[74.40399139844817,15.65967237087898],[74.4124840279717,15.64832351448446],[74.4245512030644,15.66318920523637],[74.41702393128958,15.6667868299698]]]},"properties":{"region_id":"village_597834","name":"NILAWADE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

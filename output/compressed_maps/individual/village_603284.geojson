@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01570350751437,14.6222128407335],[75.00159983713463,14.63322915935131],[74.99833993270863,14.6166636384876],[75.01570350751437,14.6222128407335]]]},"properties":{"region_id":"village_603284","name":"KYADGIKOPPA","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

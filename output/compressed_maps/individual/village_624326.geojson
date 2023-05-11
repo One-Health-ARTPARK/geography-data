@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.11566239570588,13.64164088359036],[78.1047952223879,13.61505960985161],[78.12810918005316,13.62126961605001],[78.11566239570588,13.64164088359036]]]},"properties":{"region_id":"village_624326","name":"BOMMEPALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84382942255708,13.05025651324236],[75.84072362194351,13.05736495841317],[75.83587452300625,13.05685959637843],[75.83528317000518,13.05014151159591],[75.84382942255708,13.05025651324236]]]},"properties":{"region_id":"village_615404","name":"VENKTIPETE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

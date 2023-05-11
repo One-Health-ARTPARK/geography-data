@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15637602606375,14.73909292210628],[75.16204856761368,14.71453466086384],[75.17788340791238,14.71475715730829],[75.17732705726105,14.74018566879413],[75.15637602606375,14.73909292210628]]]},"properties":{"region_id":"village_604152","name":"AKKI ALUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

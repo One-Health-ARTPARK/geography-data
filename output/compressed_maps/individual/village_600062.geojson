@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43740818762421,18.19223173309385],[77.4377538735689,18.21047342552965],[77.42394982313466,18.22850343731453],[77.43055035822866,18.19310392068208],[77.43740818762421,18.19223173309385]]]},"properties":{"region_id":"village_600062","name":"TULJAPUR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

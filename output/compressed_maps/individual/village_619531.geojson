@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78284189217874,11.78269211799044],[76.7818693924722,11.81198262376368],[76.753497112777,11.80535005497045],[76.75526208449016,11.77266603304995],[76.78284189217874,11.78269211799044]]]},"properties":{"region_id":"village_619531","name":"TRIYAMBAKAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

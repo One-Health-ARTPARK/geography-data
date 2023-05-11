@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5507066536985,15.60995743636471],[76.52387195396675,15.61561582686255],[76.5242993055463,15.59692239235422],[76.5507066536985,15.60995743636471]]]},"properties":{"region_id":"village_601672","name":"CHIRCHANAGUDDA","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

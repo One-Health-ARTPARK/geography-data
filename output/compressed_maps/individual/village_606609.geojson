@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04589233276462,14.44198497959292],[76.04411225034436,14.46060308871131],[76.02452318705905,14.45987440469947],[76.02312613699804,14.4439792282882],[76.04589233276462,14.44198497959292]]]},"properties":{"region_id":"village_606609","name":"THUMBIGERE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

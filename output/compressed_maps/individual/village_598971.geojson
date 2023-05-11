@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13873319988193,16.09153535192358],[76.1363585756297,16.11504760677882],[76.12808271020688,16.11442945917361],[76.12979732307646,16.09043252680874],[76.13873319988193,16.09153535192358]]]},"properties":{"region_id":"village_598971","name":"REVADIHAL","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

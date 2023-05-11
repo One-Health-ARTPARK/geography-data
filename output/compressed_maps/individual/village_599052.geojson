@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50828737613269,16.77679151605398],[75.47924817163974,16.79778958110096],[75.44656329528303,16.75536373743962],[75.51047905453862,16.74692553699305],[75.50828737613269,16.77679151605398]]]},"properties":{"region_id":"village_599052","name":"KOTYAL","parent":"subdistrict_7074","parent_name":"TIKOTA"}}
+]}

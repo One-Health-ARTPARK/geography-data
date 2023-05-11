@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23115026425374,14.16196504324358],[75.25035390849298,14.18089903993268],[75.24515065093101,14.20046604348843],[75.21383242392731,14.1858332428176],[75.23115026425374,14.16196504324358]]]},"properties":{"region_id":"village_607285","name":"NADAVALLI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

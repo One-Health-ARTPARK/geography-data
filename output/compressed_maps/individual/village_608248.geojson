@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34316387332089,13.65631905945965],[75.32465217837284,13.66473219715727],[75.31518493442388,13.64645407896251],[75.33596219460182,13.63979797539561],[75.34316387332089,13.65631905945965]]]},"properties":{"region_id":"village_608248","name":"SALGADI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

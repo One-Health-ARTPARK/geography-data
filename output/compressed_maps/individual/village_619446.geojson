@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6535840786028,11.96493506605492],[76.67166892402655,11.95411885729072],[76.67372785230953,11.96372225157785],[76.6611420543827,11.97756953451308],[76.6535840786028,11.96493506605492]]]},"properties":{"region_id":"village_619446","name":"AREPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

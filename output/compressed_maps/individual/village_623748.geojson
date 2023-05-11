@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.821399678793,13.68564702746353],[77.80444558824328,13.67477768071676],[77.8270333703176,13.67759793005651],[77.821399678793,13.68564702746353]]]},"properties":{"region_id":"village_623748","name":"DINNAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

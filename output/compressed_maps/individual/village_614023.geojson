@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75785159301988,12.70931866699575],[76.73552063707137,12.71303456973867],[76.73003866786007,12.70475120330062],[76.7544982810859,12.69853674248515],[76.75785159301988,12.70931866699575]]]},"properties":{"region_id":"village_614023","name":"T.CHANNAPURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

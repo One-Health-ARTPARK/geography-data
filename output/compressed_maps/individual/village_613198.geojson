@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71498131123195,12.84895420159727],[77.70706036765999,12.84422116900429],[77.71466304711745,12.8403355566387],[77.71498131123195,12.84895420159727]]]},"properties":{"region_id":"village_613198","name":"GOTTAMARANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

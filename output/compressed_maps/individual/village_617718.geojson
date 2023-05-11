@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34848044307927,12.74786233769285],[75.32461914565285,12.7465897237921],[75.3376973472342,12.72732075868196],[75.34848044307927,12.74786233769285]]]},"properties":{"region_id":"village_617718","name":"KUDMARU","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

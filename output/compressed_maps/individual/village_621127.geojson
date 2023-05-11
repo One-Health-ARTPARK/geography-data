@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74113671336832,16.63428941543766],[76.7530701558925,16.65665014039202],[76.73069330386339,16.65401587704049],[76.74113671336832,16.63428941543766]]]},"properties":{"region_id":"village_621127","name":"GANGNAL","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

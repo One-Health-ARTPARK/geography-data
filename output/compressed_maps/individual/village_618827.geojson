@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59556163632588,12.34028899617388],[76.59011058864672,12.35775278764218],[76.57670390342999,12.34949263256505],[76.58234878333343,12.33316670054256],[76.59556163632588,12.34028899617388]]]},"properties":{"region_id":"village_618827","name":"HUTAGALLI (CT)","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

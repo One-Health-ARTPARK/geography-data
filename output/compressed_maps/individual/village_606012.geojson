@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42160435206858,13.77569378894876],[76.41205306529415,13.80876478512641],[76.39649643227125,13.79186886025686],[76.39670008251436,13.75859177592046],[76.42857549250117,13.7466646476005],[76.42160435206858,13.77569378894876]]]},"properties":{"region_id":"village_606012","name":"MATHODU","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

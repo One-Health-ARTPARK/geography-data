@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22368538122832,12.90814490301605],[76.21103940136497,12.90455735950341],[76.21096485084074,12.89578990917954],[76.22409747049089,12.9026016477531],[76.22368538122832,12.90814490301605]]]},"properties":{"region_id":"village_616823","name":"SABBANAHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

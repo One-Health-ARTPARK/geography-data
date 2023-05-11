@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21535421875662,18.23971201982314],[77.21292641411438,18.18393766209371],[77.22655718658058,18.19082108422947],[77.2433927763626,18.21631471190006],[77.21535421875662,18.23971201982314]]]},"properties":{"region_id":"village_600009","name":"HOLESAMUDRA","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36803846139986,15.1007406560977],[75.33904773240113,15.09109014938701],[75.35628283314243,15.07247746996787],[75.36803846139986,15.1007406560977]]]},"properties":{"region_id":"village_602574","name":"RATTIGERI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

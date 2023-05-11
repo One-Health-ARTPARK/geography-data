@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77453807661628,13.40676478426943],[76.75232766798862,13.41476406628412],[76.75148753480633,13.38613407502713],[76.77770186436808,13.38155919842052],[76.77453807661628,13.40676478426943]]]},"properties":{"region_id":"village_611730","name":"KARADIKALLU","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

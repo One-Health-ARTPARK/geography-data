@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9994207580161,13.23259416635883],[75.99994421416879,13.23908721380854],[75.9950257362168,13.23997745559036],[75.9994207580161,13.23259416635883]]]},"properties":{"region_id":"village_615269","name":"SOMAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

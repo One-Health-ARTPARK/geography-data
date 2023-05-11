@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12038784153334,12.56533593759623],[76.10737988743709,12.56512769836368],[76.1052235755223,12.54369964972932],[76.11623015112743,12.54354140146319],[76.12038784153334,12.56533593759623]]]},"properties":{"region_id":"village_616763","name":"SOMPURA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

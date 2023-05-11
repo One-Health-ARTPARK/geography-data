@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.650917283718,13.05795224905888],[76.63172985201712,13.06730106658684],[76.62618578935614,13.05147230810253],[76.650917283718,13.05795224905888]]]},"properties":{"region_id":"village_612362","name":"HALLADAHOSAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

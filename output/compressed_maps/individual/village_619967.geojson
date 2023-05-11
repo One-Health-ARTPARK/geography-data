@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5940988346225,17.67449092531126],[76.59301496690237,17.68998401419698],[76.57747833781185,17.68906061107895],[76.57602487056717,17.67701630312823],[76.5940988346225,17.67449092531126]]]},"properties":{"region_id":"village_619967","name":"BABLESHWAR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

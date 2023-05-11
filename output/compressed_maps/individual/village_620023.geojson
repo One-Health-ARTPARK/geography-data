@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62037015342096,17.57952704137774],[76.60652608779709,17.58069079755603],[76.60651398523729,17.55775018234138],[76.62278410803819,17.55509038493593],[76.62037015342096,17.57952704137774]]]},"properties":{"region_id":"village_620023","name":"MAMDAPUR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

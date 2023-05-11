@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12124595374725,14.17127602069143],[77.1186853018702,14.15279892786633],[77.10076861264848,14.13385772320011],[77.13518628814788,14.13584324989877],[77.1358863797535,14.16282985660122],[77.12124595374725,14.17127602069143]]]},"properties":{"region_id":"village_610596","name":"BELLIBATLU","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

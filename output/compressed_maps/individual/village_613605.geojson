@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39334101303098,12.64150109478786],[76.37369716350021,12.64644644126103],[76.37267087990281,12.63983845414347],[76.39334101303098,12.64150109478786]]]},"properties":{"region_id":"village_613605","name":"HOSAGADDE","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

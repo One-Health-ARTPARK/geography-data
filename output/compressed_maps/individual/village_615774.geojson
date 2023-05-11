@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2522503064536,13.17754470671701],[76.25500007057133,13.18025130337402],[76.25230955588086,13.18666580237036],[76.24829134548168,13.18248761115362],[76.2522503064536,13.17754470671701]]]},"properties":{"region_id":"village_615774","name":"KANNENAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

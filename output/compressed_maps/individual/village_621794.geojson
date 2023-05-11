@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97915253239958,13.18432392086367],[77.97218426830182,13.18708104894044],[77.96461538480848,13.18172494077688],[77.97135845009542,13.17688315309548],[77.97915253239958,13.18432392086367]]]},"properties":{"region_id":"village_621794","name":"BHUVANAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

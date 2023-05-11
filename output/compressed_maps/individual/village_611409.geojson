@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25540303328357,13.31726624797593],[77.23489834400533,13.32697375091339],[77.23336762872616,13.3172263321782],[77.25540303328357,13.31726624797593]]]},"properties":{"region_id":"village_611409","name":"HIKKAL","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

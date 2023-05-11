@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23346969760239,13.47460763957235],[76.22941045239935,13.48481781475554],[76.21997678809942,13.48240896818567],[76.22341784918162,13.47281588717414],[76.23346969760239,13.47460763957235]]]},"properties":{"region_id":"village_609604","name":"M.MALLENAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

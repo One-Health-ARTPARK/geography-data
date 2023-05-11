@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38334446844894,15.93764707473897],[75.36917591082465,15.93806587122981],[75.3635724478071,15.92927103025323],[75.37685554358345,15.92726143540004],[75.38334446844894,15.93764707473897]]]},"properties":{"region_id":"village_598339","name":"LINGADAL","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

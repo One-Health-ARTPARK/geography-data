@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75953746607443,12.7504003352906],[77.75397206130246,12.74353794578497],[77.76294557792123,12.73635761366142],[77.76846635990351,12.74591797064284],[77.75953746607443,12.7504003352906]]]},"properties":{"region_id":"village_613281","name":"KODLIPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

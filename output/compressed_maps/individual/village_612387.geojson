@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7903171503871,13.09999285806797],[76.78311423995238,13.11021709745665],[76.77543194566353,13.096885514037],[76.7903171503871,13.09999285806797]]]},"properties":{"region_id":"village_612387","name":"SORAVANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

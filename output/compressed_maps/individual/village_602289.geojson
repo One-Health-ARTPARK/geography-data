@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99961010223181,15.38039991533555],[75.00518925968028,15.35945341774154],[75.02066241829003,15.3687005739606],[75.01839160475025,15.38092917568439],[74.99961010223181,15.38039991533555]]]},"properties":{"region_id":"village_602289","name":"KANAVIHONNAPURA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45673273413172,15.99029150896035],[74.44461721161544,15.98730619691397],[74.44628861465706,15.97420287240245],[74.46068770367715,15.97931251507353],[74.45673273413172,15.99029150896035]]]},"properties":{"region_id":"village_597680","name":"BODAKYANHATTI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

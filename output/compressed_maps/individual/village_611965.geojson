@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43712765648732,13.41495218471334],[76.41709483369256,13.42840902781926],[76.42438444432209,13.40332157708032],[76.43712765648732,13.41495218471334]]]},"properties":{"region_id":"village_611965","name":"SURAGONDANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

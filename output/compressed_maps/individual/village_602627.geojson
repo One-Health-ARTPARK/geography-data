@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.26272589778574,14.77776667322916],[74.24310395063345,14.79012490689459],[74.20122462542852,14.75438986593037],[74.24777485745979,14.7415537446351],[74.26272589778574,14.77776667322916]]]},"properties":{"region_id":"village_602627","name":"AMADALLI","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2795739433661,14.62440633790377],[76.27895387464108,14.64537100840047],[76.26017495200668,14.63777379394045],[76.2795739433661,14.62440633790377]]]},"properties":{"region_id":"village_606388","name":"KATENAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

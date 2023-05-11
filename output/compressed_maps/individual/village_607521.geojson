@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9592618853454,14.45150735010668],[74.95137299693079,14.44504432416424],[74.96469239134223,14.4361948995841],[74.96832232123414,14.44845406605347],[74.9592618853454,14.45150735010668]]]},"properties":{"region_id":"village_607521","name":"KAMALAPURA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

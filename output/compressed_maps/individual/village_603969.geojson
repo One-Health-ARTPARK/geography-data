@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28262790791274,14.90039003580834],[75.25138978130447,14.90290029607062],[75.25712601442467,14.88708556698349],[75.28497635650902,14.87967295927919],[75.28262790791274,14.90039003580834]]]},"properties":{"region_id":"village_603969","name":"KUNDUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

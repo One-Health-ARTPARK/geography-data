@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64899327724889,16.04179964146956],[76.62542240306654,16.05796652871689],[76.6219146502066,16.03395394549183],[76.64899327724889,16.04179964146956]]]},"properties":{"region_id":"village_600441","name":"HOOVINABHAVI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

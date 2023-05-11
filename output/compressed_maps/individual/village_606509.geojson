@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46051523191757,14.54013358916997],[76.43141845186398,14.54792692660277],[76.4364940214965,14.51160025703649],[76.46384689984451,14.52448096474103],[76.46051523191757,14.54013358916997]]]},"properties":{"region_id":"village_606509","name":"HIREMALLANAHOLE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

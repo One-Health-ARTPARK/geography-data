@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02215261138693,15.4297770997217],[75.00667591658394,15.42079364336909],[75.01793592678506,15.41068368470599],[75.02215261138693,15.4297770997217]]]},"properties":{"region_id":"village_602275","name":"LAKAMANAHALLI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63374710444371,12.61256821293512],[76.61814429773388,12.60726487397518],[76.62992649314162,12.59619710553549],[76.63374710444371,12.61256821293512]]]},"properties":{"region_id":"village_614105","name":"NARAYANAPURA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82351074571056,17.48456168989383],[76.77405108414462,17.48466283670565],[76.77684988130815,17.46864250814388],[76.81683915665981,17.45651261253608],[76.82351074571056,17.48456168989383]]]},"properties":{"region_id":"village_620232","name":"KALHANGERGA","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

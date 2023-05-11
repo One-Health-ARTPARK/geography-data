@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88939937149378,14.84468564954224],[75.86087402221284,14.85264194703348],[75.86584063175769,14.83168272214967],[75.88939937149378,14.84468564954224]]]},"properties":{"region_id":"village_606295","name":"KANNAYAKANAHALLI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

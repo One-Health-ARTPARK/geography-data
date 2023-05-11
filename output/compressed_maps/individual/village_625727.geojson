@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85219590292516,12.96688802993105],[77.84863474390404,12.97194812554728],[77.83908275500721,12.96893205141483],[77.83940215190073,12.96584768000405],[77.85219590292516,12.96688802993105]]]},"properties":{"region_id":"village_625727","name":"MEDIHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

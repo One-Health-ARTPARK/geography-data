@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18055120098968,13.90852406637094],[76.1616456822804,13.9299853689101],[76.15825631872032,13.90460803412876],[76.18055120098968,13.90852406637094]]]},"properties":{"region_id":"village_605696","name":"GOWDIHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

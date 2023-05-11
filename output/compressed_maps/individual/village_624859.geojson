@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36220727214446,13.16203914937776],[77.34990760050567,13.1544363005689],[77.35888171827347,13.14875616577235],[77.36220727214446,13.16203914937776]]]},"properties":{"region_id":"village_624859","name":"YERAMANCHANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

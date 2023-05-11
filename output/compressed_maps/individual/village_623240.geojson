@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55522232020421,13.69376098040836],[77.55318202139533,13.6986304116477],[77.5424182105056,13.69507424409115],[77.5401030430911,13.68686782573115],[77.55522232020421,13.69376098040836]]]},"properties":{"region_id":"village_623240","name":"KONAPURA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

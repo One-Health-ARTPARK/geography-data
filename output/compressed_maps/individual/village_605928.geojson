@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29302975491126,13.89390675982307],[76.26437683290294,13.8875584909283],[76.2844282915739,13.87413805474543],[76.29302975491126,13.89390675982307]]]},"properties":{"region_id":"village_605928","name":"KARADIKATTE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

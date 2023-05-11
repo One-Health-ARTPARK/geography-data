@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81376700126692,15.54879523511615],[76.85691476860815,15.52733832252777],[76.8587516721894,15.5555317973661],[76.82894524798616,15.56854921536125],[76.81376700126692,15.54879523511615]]]},"properties":{"region_id":"village_604778","name":"NITTUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

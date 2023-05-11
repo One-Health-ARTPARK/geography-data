@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17637147309932,16.93439220092414],[76.1596089771287,16.93335355949296],[76.15440105981847,16.91630973898777],[76.17484671690788,16.91518698767782],[76.17637147309932,16.93439220092414]]]},"properties":{"region_id":"village_599366","name":"SOMAPUR","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

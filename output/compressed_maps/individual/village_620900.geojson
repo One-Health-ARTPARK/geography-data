@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45224886543247,16.59708133894927],[76.41591619092912,16.59977433750927],[76.41875482398294,16.58358777315565],[76.45224886543247,16.59708133894927]]]},"properties":{"region_id":"village_620900","name":"HUVINHALLI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

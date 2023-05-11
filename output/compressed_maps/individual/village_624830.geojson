@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32426464001428,13.18090157233258],[77.30392709187284,13.18659114417429],[77.30276773180853,13.18131929844448],[77.32426464001428,13.18090157233258]]]},"properties":{"region_id":"village_624830","name":"ALUNAIKANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

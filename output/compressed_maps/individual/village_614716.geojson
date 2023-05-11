@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13118977162333,12.46071368147484],[77.125172231561,12.45193600915723],[77.12589094623267,12.44309745741131],[77.13549939178331,12.44280088898578],[77.13118977162333,12.46071368147484]]]},"properties":{"region_id":"village_614716","name":"BANAGAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

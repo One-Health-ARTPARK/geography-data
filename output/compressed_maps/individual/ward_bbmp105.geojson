@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53680500006445,12.9806689999217],[77.54402599966886,12.97822100028391],[77.54174600019877,12.9859319999808],[77.53680500006445,12.9806689999217]]]},"properties":{"region_id":"ward_bbmp105","name":"WARD NO.105 (AGRAHARA DASARAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

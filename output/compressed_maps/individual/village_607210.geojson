@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11574300983139,14.17037649271013],[75.09614796316356,14.16698316670868],[75.1049996292677,14.15453078406611],[75.11574300983139,14.17037649271013]]]},"properties":{"region_id":"village_607210","name":"NADAMANCHALE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

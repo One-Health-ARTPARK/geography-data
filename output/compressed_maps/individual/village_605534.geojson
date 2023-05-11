@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24943783044775,14.29736715210359],[76.22058407083344,14.29574208847382],[76.22314659769893,14.28195337122481],[76.24943783044775,14.29736715210359]]]},"properties":{"region_id":"village_605534","name":"OBAVVANAGATHIHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

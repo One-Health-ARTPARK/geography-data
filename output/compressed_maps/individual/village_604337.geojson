@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4827822353408,14.62657808564588],[75.4813080198109,14.64792617146511],[75.47060920860139,14.6491097591798],[75.46648835609614,14.62747278768357],[75.4827822353408,14.62657808564588]]]},"properties":{"region_id":"village_604337","name":"RAMGONDANAHALLI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

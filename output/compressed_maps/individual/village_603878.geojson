@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52835065696844,13.99885855197668],[74.51264619497185,13.99809590065829],[74.52278615772858,13.98421030499037],[74.52835065696844,13.99885855197668]]]},"properties":{"region_id":"village_603878","name":"JALI (CT)","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

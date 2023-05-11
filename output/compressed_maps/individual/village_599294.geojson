@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22898543552631,17.14600218237001],[76.23653011378566,17.16278501169474],[76.21957407430322,17.17675526231669],[76.21204136877877,17.14561670694365],[76.22898543552631,17.14600218237001]]]},"properties":{"region_id":"village_599294","name":"TAVARKHED (OLD)","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

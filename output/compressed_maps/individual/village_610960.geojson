@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32886575751552,13.67016820965347],[77.34352592593568,13.67140466300899],[77.34393776994219,13.68309974954164],[77.33323738980953,13.68398157685211],[77.32886575751552,13.67016820965347]]]},"properties":{"region_id":"village_610960","name":"ARALIMARADAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

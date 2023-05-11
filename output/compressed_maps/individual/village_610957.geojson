@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31473936119146,13.693735250608],[77.30263482913097,13.6979664277272],[77.30091623613035,13.68206477994477],[77.31145703128959,13.67903217053014],[77.31473936119146,13.693735250608]]]},"properties":{"region_id":"village_610957","name":"PURUVARA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

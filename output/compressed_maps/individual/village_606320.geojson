@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10110965192261,14.75755055462508],[76.05663341267112,14.77093029241752],[76.05345949035159,14.74755527239816],[76.06714408003697,14.73553791729473],[76.10110965192261,14.75755055462508]]]},"properties":{"region_id":"village_606320","name":"MUTTIGI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

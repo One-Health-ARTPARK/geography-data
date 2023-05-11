@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14660972446208,16.2932598678617],[76.11935218886121,16.25310306245269],[76.18026775757046,16.2468170217923],[76.18270574957813,16.27978152796319],[76.14660972446208,16.2932598678617]]]},"properties":{"region_id":"village_599627","name":"KOLUR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

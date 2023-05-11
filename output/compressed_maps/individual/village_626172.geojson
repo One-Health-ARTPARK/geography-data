@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28614621950493,12.64174845877541],[77.28590397478057,12.65710602007056],[77.27484377052514,12.65717296376509],[77.26883405686561,12.64592061478436],[77.28614621950493,12.64174845877541]]]},"properties":{"region_id":"village_626172","name":"SHIVANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17360565830367,15.1568648069105],[75.15809321874852,15.14664801875227],[75.16303622236299,15.13208217886447],[75.1881697270525,15.13862928140584],[75.17360565830367,15.1568648069105]]]},"properties":{"region_id":"village_602538","name":"MALALI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

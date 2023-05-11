@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11081990729032,12.681557837177],[77.09760357989396,12.68342044444521],[77.1000704824239,12.67001608790497],[77.1104925249508,12.67177273570922],[77.11081990729032,12.681557837177]]]},"properties":{"region_id":"village_626208","name":"THENKANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

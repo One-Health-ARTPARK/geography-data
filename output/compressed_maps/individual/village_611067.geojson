@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26481062100407,13.54088362704929],[77.26577863206651,13.54958901083917],[77.25650073203543,13.55363101284438],[77.25978151972902,13.54078579798502],[77.26481062100407,13.54088362704929]]]},"properties":{"region_id":"village_611067","name":"OBALADEVARAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

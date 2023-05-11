@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07636680729182,13.12689975102318],[76.06149047109548,13.13078192301572],[76.06027986465233,13.11514529020086],[76.07717225056328,13.11336645930841],[76.07636680729182,13.12689975102318]]]},"properties":{"region_id":"village_615871","name":"KONDAJJI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

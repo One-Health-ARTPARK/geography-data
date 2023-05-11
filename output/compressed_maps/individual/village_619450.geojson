@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74027477450544,11.98903829433673],[76.73202016972249,11.99457795705493],[76.72161892838221,11.97488325199383],[76.74195333660823,11.97767402568049],[76.74027477450544,11.98903829433673]]]},"properties":{"region_id":"village_619450","name":"THORAVALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

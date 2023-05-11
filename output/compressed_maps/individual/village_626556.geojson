@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4347714278478,12.43128280642321],[77.41093142611217,12.41434848953095],[77.41239595548716,12.38061979937097],[77.43603879155215,12.3748654454144],[77.4347714278478,12.43128280642321]]]},"properties":{"region_id":"village_626556","name":"NALLAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

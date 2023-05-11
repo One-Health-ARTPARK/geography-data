@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81955673944002,14.22713189774767],[75.79698336639177,14.22992373160894],[75.79481791060985,14.2209436909866],[75.81314126199383,14.22086009191293],[75.81955673944002,14.22713189774767]]]},"properties":{"region_id":"village_606891","name":"KOTEHALU","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

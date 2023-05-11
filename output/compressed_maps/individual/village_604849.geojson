@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9600020720284,15.42214646581848],[76.95339743188275,15.42985215654867],[76.9219111122629,15.41851830148698],[76.92786019511381,15.40616200775203],[76.95689226417069,15.40980282394245],[76.9600020720284,15.42214646581848]]]},"properties":{"region_id":"village_604849","name":"DARUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

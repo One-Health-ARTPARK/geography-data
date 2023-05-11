@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95354686600903,16.27881992355544],[74.93460826375038,16.26395619929279],[74.9634502527828,16.24798821345887],[74.95354686600903,16.27881992355544]]]},"properties":{"region_id":"village_597455","name":"MASAGUPPI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

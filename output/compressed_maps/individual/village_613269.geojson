@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73201985649564,12.81492714081774],[77.72679978962665,12.81822580161481],[77.71316786304665,12.81003075819726],[77.7288190740726,12.80582822898729],[77.73201985649564,12.81492714081774]]]},"properties":{"region_id":"village_613269","name":"LAXMI SAGARA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

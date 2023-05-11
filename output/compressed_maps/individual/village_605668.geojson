@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1368718103894,14.09706591346729],[76.1297373932715,14.10716758515202],[76.10449341940397,14.10397000034063],[76.10436686648863,14.09219713524591],[76.1368718103894,14.09706591346729]]]},"properties":{"region_id":"village_605668","name":"HOSAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69490966117739,14.37599339001868],[74.71080883766926,14.36865615746395],[74.71514683980668,14.38086926377662],[74.696119519584,14.38605256369553],[74.69490966117739,14.37599339001868]]]},"properties":{"region_id":"village_603617","name":"KADAVADI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

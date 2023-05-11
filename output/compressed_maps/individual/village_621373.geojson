@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2959416323918,16.55443139455452],[77.27355164720687,16.56111968463925],[77.27329413696398,16.53545409314797],[77.2959416323918,16.55443139455452]]]},"properties":{"region_id":"village_621373","name":"RACHANHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39920622318009,12.44567908356164],[76.37903062008687,12.44843548293426],[76.37990033124196,12.434263431328],[76.39349571024023,12.43437038790682],[76.39920622318009,12.44567908356164]]]},"properties":{"region_id":"village_618678","name":"KANTENAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

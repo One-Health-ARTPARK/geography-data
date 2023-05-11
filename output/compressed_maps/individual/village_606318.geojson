@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11178435148197,14.75861768577949],[76.1112590326459,14.78878224313431],[76.10439486330178,14.7884011028877],[76.1011092922043,14.75753463516722],[76.11178435148197,14.75861768577949]]]},"properties":{"region_id":"village_606318","name":"NILUVANJI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

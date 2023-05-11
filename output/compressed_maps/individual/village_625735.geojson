@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77420434341745,12.95501310254975],[77.77358633313567,12.96609979723901],[77.7672036492069,12.95952680032973],[77.77420434341745,12.95501310254975]]]},"properties":{"region_id":"village_625735","name":"AJJAGONDAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

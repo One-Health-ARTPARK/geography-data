@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71118632324591,14.54411029736492],[74.7006410629348,14.54009318970803],[74.70208878934841,14.5297921160826],[74.71330150292687,14.53348379863278],[74.71118632324591,14.54411029736492]]]},"properties":{"region_id":"village_603179","name":"KUGTEMANE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

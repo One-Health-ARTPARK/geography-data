@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39633835262894,17.41484902091132],[76.36311304536125,17.37740564241558],[76.4090857682158,17.37066630606179],[76.39633835262894,17.41484902091132]]]},"properties":{"region_id":"village_620056","name":"NIMBAL","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

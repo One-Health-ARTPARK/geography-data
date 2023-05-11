@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68701418369966,16.35821527896792],[76.66341366800023,16.35681229237793],[76.66905081148786,16.33472322214655],[76.69216335832607,16.34240995794259],[76.68701418369966,16.35821527896792]]]},"properties":{"region_id":"village_600457","name":"PAI DODDI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

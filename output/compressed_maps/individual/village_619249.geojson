@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77009542945187,12.07467923875288],[76.74132138156337,12.09025044423262],[76.73430647039332,12.06732065048865],[76.77049841871826,12.06233426504273],[76.77009542945187,12.07467923875288]]]},"properties":{"region_id":"village_619249","name":"BADANAVALU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24358309588983,13.2470401993252],[77.23057605390851,13.24274897817289],[77.23656331286406,13.23370846976964],[77.24816459839595,13.23385280874339],[77.24358309588983,13.2470401993252]]]},"properties":{"region_id":"village_624743","name":"LAKKURU","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

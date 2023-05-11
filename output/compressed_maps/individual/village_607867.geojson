@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05249614143567,13.96248969736543],[75.0230388274786,13.96708273414302],[75.0280611812528,13.94756057195522],[75.0508307947365,13.93901917501916],[75.05249614143567,13.96248969736543]]]},"properties":{"region_id":"village_607867","name":"DUMMA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

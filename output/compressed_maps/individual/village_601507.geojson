@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29716361763182,15.79450350272475],[76.26428815162024,15.80237820899633],[76.26928997682545,15.74110208312828],[76.29848284397978,15.76614147979026],[76.29716361763182,15.79450350272475]]]},"properties":{"region_id":"village_601507","name":"HIREMANNAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

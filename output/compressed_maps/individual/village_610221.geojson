@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6218993886719,13.41122822548337],[76.60529946691575,13.39273129216222],[76.6064727971012,13.38472108685045],[76.62605599303946,13.3790350634975],[76.6218993886719,13.41122822548337]]]},"properties":{"region_id":"village_610221","name":"DABBEGHATTA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

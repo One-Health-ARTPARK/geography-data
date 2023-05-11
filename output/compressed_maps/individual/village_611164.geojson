@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28540377188851,13.4681104573574],[77.27346812886456,13.46893005787129],[77.27145247175213,13.46058550986147],[77.27853855761185,13.45381154952861],[77.28540377188851,13.4681104573574]]]},"properties":{"region_id":"village_611164","name":"KENGANAPALYA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

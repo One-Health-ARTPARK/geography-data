@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75912084508775,12.28282397162987],[75.74534183157537,12.28366319076923],[75.738396364116,12.27217997200174],[75.75108450850563,12.24846737087275],[75.769445577796,12.25635452583555],[75.75912084508775,12.28282397162987]]]},"properties":{"region_id":"village_617996","name":"NALKERI","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3228483689576,12.44375295071884],[76.30768030310664,12.44625050173343],[76.30686687542908,12.43418299178231],[76.31715836313288,12.43278176659888],[76.3228483689576,12.44375295071884]]]},"properties":{"region_id":"village_618648","name":"GOWDENAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

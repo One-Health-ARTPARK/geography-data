@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2020350512519,18.2526862782636],[77.1647244327282,18.25775235760182],[77.17212187517524,18.21957153540402],[77.19487888959581,18.22074053188309],[77.2020350512519,18.2526862782636]]]},"properties":{"region_id":"village_600120","name":"KAMALNAGAR (CT)","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

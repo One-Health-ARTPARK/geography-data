@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96709715583188,13.0329440128301],[74.9334169994403,13.03523080298081],[74.9316934968723,13.02278504720808],[74.96502313677463,13.01455791981262],[74.96709715583188,13.0329440128301]]]},"properties":{"region_id":"village_617455","name":"TENKAMIJAR","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

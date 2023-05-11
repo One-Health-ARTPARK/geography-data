@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4856188576905,14.88775080977647],[75.48729232756082,14.9049751141127],[75.4664716520965,14.90390775588556],[75.46404522532067,14.88641808491001],[75.4856188576905,14.88775080977647]]]},"properties":{"region_id":"village_604033","name":"NEERALAGI-MAHAL-KARADGI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

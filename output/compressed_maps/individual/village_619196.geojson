@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72976600286134,12.14943910803076],[76.73851342131074,12.15741506945322],[76.72877665169781,12.18139771108656],[76.71384586202302,12.17079410318616],[76.72976600286134,12.14943910803076]]]},"properties":{"region_id":"village_619196","name":"HULIMAVU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

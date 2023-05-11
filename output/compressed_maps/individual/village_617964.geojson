@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84200041742483,12.44454974021786],[75.82194653587902,12.42847991010278],[75.83222311294952,12.40724638035281],[75.8478650089672,12.42238018034233],[75.84200041742483,12.44454974021786]]]},"properties":{"region_id":"village_617964","name":"ATTUR NALLUR","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

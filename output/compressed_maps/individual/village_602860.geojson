@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82474062490135,15.30362169718219],[74.80912655558774,15.30363735356669],[74.80492242556878,15.29522822792968],[74.82241645717407,15.29102246729965],[74.82474062490135,15.30362169718219]]]},"properties":{"region_id":"village_602860","name":"NAGSHETIKOP","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

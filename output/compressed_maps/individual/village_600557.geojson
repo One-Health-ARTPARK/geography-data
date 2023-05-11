@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82192570257035,16.35017973731182],[76.7976610928239,16.34367429132319],[76.82080301182557,16.32675787273479],[76.82192570257035,16.35017973731182]]]},"properties":{"region_id":"village_600557","name":"PARAPUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

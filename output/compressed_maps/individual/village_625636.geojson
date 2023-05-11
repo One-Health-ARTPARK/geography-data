@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84971851748533,13.07976125375592],[77.83985734111789,13.08122435881475],[77.83656622515421,13.06707966686209],[77.85419433418504,13.0657895252061],[77.84971851748533,13.07976125375592]]]},"properties":{"region_id":"village_625636","name":"SOLUR","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

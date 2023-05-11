@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05062200035024,12.87231054660976],[76.03645023279084,12.8601832786865],[76.05085655693657,12.85169230493357],[76.05062200035024,12.87231054660976]]]},"properties":{"region_id":"village_616088","name":"CHANGARAVALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

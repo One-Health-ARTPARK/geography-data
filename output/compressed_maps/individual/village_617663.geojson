@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28325010203473,12.91961976560505],[75.24566507294494,12.91706739318078],[75.26356757079634,12.88526740077462],[75.2969750637815,12.90274282123001],[75.28325010203473,12.91961976560505]]]},"properties":{"region_id":"village_617663","name":"KANIYOORU","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

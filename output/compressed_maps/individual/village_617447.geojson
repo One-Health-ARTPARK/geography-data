@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84337518624677,13.04424397324406],[74.83643576656256,13.04481306535239],[74.83688786260788,13.03231803278006],[74.84170254193235,13.02825195334822],[74.84337518624677,13.04424397324406]]]},"properties":{"region_id":"village_617447","name":"KILENJUR","parent":"subdistrict_7198","parent_name":"MULKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17149635952434,14.03678072047832],[77.1318725227901,14.04208827897266],[77.1366530470659,14.02154724080142],[77.17029731904687,14.01620524262483],[77.17149635952434,14.03678072047832]]]},"properties":{"region_id":"village_610630","name":"KOTHUR","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5991571270015,12.31274220670038],[76.58089105958943,12.30992435264331],[76.58950828664403,12.29217055868644],[76.61002283883556,12.29039623921734],[76.61979249799613,12.307304021195],[76.5991571270015,12.31274220670038]]]},"properties":{"region_id":"village_618830","name":"BHOGADI (CT)","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

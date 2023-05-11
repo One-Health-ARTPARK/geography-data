@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75419211161231,14.46347488590628],[74.75225394802526,14.48012259809006],[74.72803841067787,14.4663324035309],[74.73750963655661,14.46212436039121],[74.75419211161231,14.46347488590628]]]},"properties":{"region_id":"village_603539","name":"HULLUNDE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

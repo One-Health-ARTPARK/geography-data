@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04749670964294,15.76863511539888],[76.03992776532537,15.75440759565019],[76.04403052513308,15.74206683444119],[76.05741352337823,15.74454032530117],[76.04749670964294,15.76863511539888]]]},"properties":{"region_id":"village_601457","name":"DONNEGUDDA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

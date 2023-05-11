@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0889857238752,16.85373267625602],[75.0930861872771,16.89154388920867],[75.06815910267137,16.87746624707095],[75.0889857238752,16.85373267625602]]]},"properties":{"region_id":"village_597251","name":"BEVANOOR","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

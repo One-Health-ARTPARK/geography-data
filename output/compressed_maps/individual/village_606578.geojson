@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86619856169274,14.35282237277751],[75.85418017607975,14.34621010189552],[75.86346480507567,14.33071024277735],[75.87654486441271,14.3430465727261],[75.86619856169274,14.35282237277751]]]},"properties":{"region_id":"village_606578","name":"KOLENAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

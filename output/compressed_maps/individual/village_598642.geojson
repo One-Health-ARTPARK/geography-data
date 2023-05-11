@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4632693203208,16.04425501160976],[75.43625387135307,16.03987467206625],[75.44459055612344,16.02052100964189],[75.46271213520065,16.02745887225461],[75.4632693203208,16.04425501160976]]]},"properties":{"region_id":"village_598642","name":"HAWALAKHOD","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

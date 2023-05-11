@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5739541066885,13.24871302636657],[77.57050429038888,13.24407907522217],[77.57318160272833,13.23263719844285],[77.58167794400154,13.23500009992827],[77.58193691099335,13.2423207719288],[77.5739541066885,13.24871302636657]]]},"properties":{"region_id":"village_625290","name":"JUTTANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

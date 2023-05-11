@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22520291252438,14.918572317924],[75.22211363881556,14.92642768531536],[75.20088473661305,14.92289323574112],[75.19859651305653,14.912660900521],[75.2177198118547,14.91180856138694],[75.22520291252438,14.918572317924]]]},"properties":{"region_id":"village_603959","name":"MUKABASARIKATTI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

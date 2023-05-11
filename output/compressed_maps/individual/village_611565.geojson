@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09379995596063,13.27663506504254],[77.08468871641577,13.27405901406021],[77.0873468832653,13.26448426306908],[77.09419902871018,13.26197526379827],[77.09379995596063,13.27663506504254]]]},"properties":{"region_id":"village_611565","name":"HOSUR","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

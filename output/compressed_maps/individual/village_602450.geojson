@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.026965486122,15.27890338824657],[74.99952427261903,15.28861983855279],[74.9904751908889,15.27217217975334],[75.01498921314943,15.26383723655232],[75.026965486122,15.27890338824657]]]},"properties":{"region_id":"village_602450","name":"BANGITTIGUDIHAL","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

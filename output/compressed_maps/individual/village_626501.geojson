@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32303828350041,12.53158750778464],[77.32807783904396,12.50747157769352],[77.3439257309778,12.50512672794715],[77.344555612945,12.52691472292179],[77.32303828350041,12.53158750778464]]]},"properties":{"region_id":"village_626501","name":"HONNAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

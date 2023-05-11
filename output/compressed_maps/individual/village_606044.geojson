@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50913804273831,13.71555668045803],[76.50016377062207,13.6689658888518],[76.53505852751509,13.67046352750314],[76.53596750405391,13.69830214653994],[76.50913804273831,13.71555668045803]]]},"properties":{"region_id":"village_606044","name":"DODDABYLADAKERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

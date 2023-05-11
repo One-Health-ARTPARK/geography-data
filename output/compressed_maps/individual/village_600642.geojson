@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20635161290568,16.37478806772711],[77.22152320138417,16.41795937850587],[77.20686780021144,16.42634702889998],[77.20494299467492,16.39379380126805],[77.20635161290568,16.37478806772711]]]},"properties":{"region_id":"village_600642","name":"BASWANTPUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

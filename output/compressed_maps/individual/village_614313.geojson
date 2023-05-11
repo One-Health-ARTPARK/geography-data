@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78982933827264,12.69935538944585],[76.78826671327703,12.71012941241326],[76.77248839846341,12.70954145484793],[76.7721781696205,12.70037156194006],[76.78982933827264,12.69935538944585]]]},"properties":{"region_id":"village_614313","name":"KODAGAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

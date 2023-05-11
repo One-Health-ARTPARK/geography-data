@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99149296370153,13.38770401722265],[77.99793111687944,13.39053353317085],[77.99612009605448,13.39957043023654],[77.98494285958755,13.39519056881839],[77.99149296370153,13.38770401722265]]]},"properties":{"region_id":"village_624567","name":"GUTTAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

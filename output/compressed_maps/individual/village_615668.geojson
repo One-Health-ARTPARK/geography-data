@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19295590392866,13.3250637788095],[76.19631030440034,13.30609908838972],[76.22785282936704,13.30955770043972],[76.22671685272898,13.32316519492367],[76.19295590392866,13.3250637788095]]]},"properties":{"region_id":"village_615668","name":"SANKODANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

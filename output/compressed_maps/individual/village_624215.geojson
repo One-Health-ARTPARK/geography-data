@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82326857726056,13.37065167421057],[77.81317755935994,13.37426428933374],[77.80598868907305,13.35777441203617],[77.8153247900492,13.35558870410313],[77.82326857726056,13.37065167421057]]]},"properties":{"region_id":"village_624215","name":"APPEGOWDANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

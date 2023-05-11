@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71695190799177,13.79048580252118],[75.6911655789235,13.79120744841659],[75.69773368533252,13.76686640295986],[75.71221381029805,13.76792742608138],[75.71695190799177,13.79048580252118]]]},"properties":{"region_id":"village_608659","name":"BALEMARANAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

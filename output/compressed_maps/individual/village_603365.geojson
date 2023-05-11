@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.30777507330876,14.63059700038653],[74.30304669520335,14.63092564474312],[74.3067016479831,14.62561531229929],[74.3102617636355,14.62570886295039],[74.30777507330876,14.63059700038653]]]},"properties":{"region_id":"village_603365","name":"KOGRE","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43311838457977,16.18191804888911],[77.41139985848595,16.19733225282149],[77.39677942522441,16.18208900764954],[77.41958307535758,16.17725703464088],[77.43311838457977,16.18191804888911]]]},"properties":{"region_id":"village_600793","name":"BOLMANDODDI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

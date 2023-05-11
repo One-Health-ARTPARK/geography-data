@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10074074944215,15.68321047490993],[75.08073386236426,15.68561631395521],[75.0791146820433,15.66374099655147],[75.10473707366747,15.66137597302255],[75.10074074944215,15.68321047490993]]]},"properties":{"region_id":"village_598245","name":"HIREULLIGERI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

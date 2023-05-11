@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73421311465766,12.78960167102498],[76.73547821089014,12.77900344723399],[76.73895845444837,12.78154738103183],[76.73421311465766,12.78960167102498]]]},"properties":{"region_id":"village_613990","name":"HONNABETTADAHOSUR","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

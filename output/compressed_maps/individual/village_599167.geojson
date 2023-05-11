@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71616017436654,17.41084900168372],[75.69403123411097,17.41067214832022],[75.68782686684871,17.39003505277249],[75.71728949660063,17.38853203423062],[75.71616017436654,17.41084900168372]]]},"properties":{"region_id":"village_599167","name":"SANKHA (OLD)","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

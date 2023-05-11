@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93109025631749,13.28450094574167],[74.91838457310504,13.31210469953428],[74.89047039793388,13.30670332366888],[74.90148060399017,13.28329918327379],[74.93109025631749,13.28450094574167]]]},"properties":{"region_id":"village_608889","name":"NEERE","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

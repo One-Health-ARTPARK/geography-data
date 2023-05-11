@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48207030982977,12.44767731079564],[76.4597438504273,12.44163743016586],[76.47150855996087,12.42673322325718],[76.48207030982977,12.44767731079564]]]},"properties":{"region_id":"village_618685","name":"RAMANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

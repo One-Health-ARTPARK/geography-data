@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62502920545396,14.0331682677251],[76.62029741690135,14.05472084464277],[76.58511276581173,14.05071494892811],[76.59254736618439,14.02890066102371],[76.62502920545396,14.0331682677251]]]},"properties":{"region_id":"village_606075","name":"KARIOBENAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16297652003021,12.45932963764735],[77.15116092537893,12.46225490475751],[77.1527547498262,12.45221831259896],[77.16297652003021,12.45932963764735]]]},"properties":{"region_id":"village_614720","name":"KALADEVANAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

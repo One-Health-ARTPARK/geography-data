@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04875564841453,16.24195540802296],[77.05144076573502,16.27245407060885],[77.01544950261933,16.26541934992882],[77.04875564841453,16.24195540802296]]]},"properties":{"region_id":"village_600714","name":"JAGATKAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

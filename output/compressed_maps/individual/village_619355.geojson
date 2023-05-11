@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94599003871637,12.28805047874008],[76.96038519102994,12.29261540439173],[76.95427578720967,12.30735998874287],[76.93507998740981,12.30400886851631],[76.94599003871637,12.28805047874008]]]},"properties":{"region_id":"village_619355","name":"CHIDRAVALLI","parent":"subdistrict_5575","parent_name":"TIRUMAKUDAL - NARSIPUR"}}
+]}

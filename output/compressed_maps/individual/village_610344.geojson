@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84559676312014,13.82875267179711],[76.88291143467231,13.84674628433553],[76.85753188872141,13.8550945862048],[76.83992133223217,13.84654538205911],[76.84559676312014,13.82875267179711]]]},"properties":{"region_id":"village_610344","name":"GOWDAGERE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

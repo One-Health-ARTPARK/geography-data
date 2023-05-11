@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59794460718626,13.86680281321479],[76.56392547243125,13.86411643388738],[76.54319689019994,13.84140952909298],[76.58018824205658,13.85146842208931],[76.60055531263495,13.85140577578218],[76.59794460718626,13.86680281321479]]]},"properties":{"region_id":"village_606180","name":"IDDALANAGENAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

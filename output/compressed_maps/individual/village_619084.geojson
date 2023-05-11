@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39519396251808,11.9327785266133],[76.37903456936638,11.92567744595275],[76.38277050351758,11.90978944906104],[76.39805186634376,11.92032992649716],[76.39519396251808,11.9327785266133]]]},"properties":{"region_id":"village_619084","name":"DEVALAPURA","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.35362662196765,13.1563606026124],[78.3420077436847,13.15903046879013],[78.3338923626581,13.14587123387926],[78.34942605141771,13.14384075321319],[78.35362662196765,13.1563606026124]]]},"properties":{"region_id":"village_622913","name":"JAMMANAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96066935973028,13.0409581282089],[76.94062115503353,13.04390263231497],[76.94840605891382,13.03026581794433],[76.96066935973028,13.0409581282089]]]},"properties":{"region_id":"village_612462","name":"HADONAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

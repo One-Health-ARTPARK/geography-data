@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61233023426647,13.15330633705163],[76.59493706503524,13.15317176138653],[76.59520791186225,13.14558356958182],[76.6117922189123,13.14526504743041],[76.61233023426647,13.15330633705163]]]},"properties":{"region_id":"village_612319","name":"MARAPPANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

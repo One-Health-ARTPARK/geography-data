@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10391833378898,16.63938833984798],[75.10577562164877,16.67351207590737],[75.08172464237315,16.66940641055879],[75.07890797082517,16.64363333566947],[75.10391833378898,16.63938833984798]]]},"properties":{"region_id":"village_597350","name":"GHATANATTI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

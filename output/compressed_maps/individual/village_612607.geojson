@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01534966464278,12.99293716727033],[77.00272755625977,12.97966751971806],[77.02438745381161,12.9783862967169],[77.01534966464278,12.99293716727033]]]},"properties":{"region_id":"village_612607","name":"ARAKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

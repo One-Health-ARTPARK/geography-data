@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90299820363384,16.21025390292222],[74.88888564664865,16.24767406780862],[74.87213828055083,16.24127634945166],[74.88335698349498,16.20582307572803],[74.90299820363384,16.21025390292222]]]},"properties":{"region_id":"village_597451","name":"BEERANGADDI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

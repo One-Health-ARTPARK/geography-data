@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64892195291326,13.84485828957643],[75.63183440315534,13.85052439656703],[75.62746146762643,13.82886362498615],[75.64892195291326,13.84485828957643]]]},"properties":{"region_id":"village_608636","name":"KALLAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

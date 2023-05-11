@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66788813617413,13.31715625378744],[76.66130857648942,13.30749063975565],[76.66956125080613,13.30524726968085],[76.6745148781469,13.31107387316883],[76.66788813617413,13.31715625378744]]]},"properties":{"region_id":"village_612087","name":"HINDISKERE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

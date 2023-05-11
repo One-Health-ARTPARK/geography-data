@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08072356839628,15.30317909357258],[75.05921020689733,15.30674335600876],[75.06770555861226,15.28032548157514],[75.08006503481211,15.28102738680327],[75.08072356839628,15.30317909357258]]]},"properties":{"region_id":"village_602406","name":"ANCHATGERI","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

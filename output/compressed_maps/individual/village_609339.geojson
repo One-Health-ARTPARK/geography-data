@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75421642999913,13.58971320366743],[75.74596516509334,13.59255938118162],[75.73257729516074,13.56043739852072],[75.74329706490016,13.54933145876998],[75.75516210309293,13.57205735901144],[75.75421642999913,13.58971320366743]]]},"properties":{"region_id":"village_609339","name":"MANCHETHEVARU","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

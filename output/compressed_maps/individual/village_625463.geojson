@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77167950108928,13.15444199808613],[77.74999894350145,13.16504717142169],[77.7472795511469,13.15355402614186],[77.7640853484365,13.1445690552537],[77.77167950108928,13.15444199808613]]]},"properties":{"region_id":"village_625463","name":"GANGAVARA CHOWDAPPANA HALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

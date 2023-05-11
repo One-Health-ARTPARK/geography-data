@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49923027195291,16.20791319390139],[77.4824506154569,16.22126743240399],[77.4457440771594,16.21642312699621],[77.46364944903966,16.1881911312063],[77.49923027195291,16.20791319390139]]]},"properties":{"region_id":"village_600777","name":"SINGNODI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

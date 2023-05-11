@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93223338582385,12.63252544869244],[75.92969842545077,12.63725914644864],[75.92322720449104,12.6396665266674],[75.92107106735094,12.63528004229544],[75.92566231259313,12.63204806770441],[75.93223338582385,12.63252544869244]]]},"properties":{"region_id":"village_923938","name":"SIDDAPURA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

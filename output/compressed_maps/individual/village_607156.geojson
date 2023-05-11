@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87906450472948,14.21416723392575],[74.87587620315185,14.22603542112772],[74.86021369832918,14.2175464848903],[74.85599207873072,14.20873630915669],[74.87906450472948,14.21416723392575]]]},"properties":{"region_id":"village_607156","name":"TALAVATA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

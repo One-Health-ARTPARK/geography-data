@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50400963871249,16.39496162475151],[76.48331593051066,16.37353914421729],[76.51585317300304,16.36819156233841],[76.50400963871249,16.39496162475151]]]},"properties":{"region_id":"village_620948","name":"BALSHATTIHAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

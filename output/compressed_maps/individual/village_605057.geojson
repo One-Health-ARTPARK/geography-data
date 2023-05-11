@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31960521109114,14.82373517955695],[76.29952502169729,14.79946807544616],[76.33641938499909,14.7963783577277],[76.31960521109114,14.82373517955695]]]},"properties":{"region_id":"village_605057","name":"CHIRIBI","parent":"subdistrict_7108","parent_name":"KOTTURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65412897075902,11.85432451488157],[76.61899656802106,11.85314447588545],[76.62512933246633,11.837153597241],[76.65040624607734,11.83396963021854],[76.65412897075902,11.85432451488157]]]},"properties":{"region_id":"village_619494","name":"NENEKATTE","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

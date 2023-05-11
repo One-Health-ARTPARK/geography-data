@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9214154467329,15.427467355365],[74.92556841345538,15.44741452843329],[74.89845963385906,15.44980429022606],[74.89630878795471,15.42349784713156],[74.9214154467329,15.427467355365]]]},"properties":{"region_id":"village_602256","name":"MUGAD","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

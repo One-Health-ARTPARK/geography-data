@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83339739128633,16.35308254928777],[76.83794424363391,16.36080520485127],[76.8286935787402,16.37160857693623],[76.81965795570339,16.35719426954601],[76.83339739128633,16.35308254928777]]]},"properties":{"region_id":"village_600562","name":"GAJALDINNI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

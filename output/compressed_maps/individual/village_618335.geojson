@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20405488179195,12.34229222080802],[76.20261563479619,12.31796999832002],[76.22177637453437,12.32787899433491],[76.20405488179195,12.34229222080802]]]},"properties":{"region_id":"village_618335","name":"ATTHIKUPPE","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5771151677171,16.2378931763074],[75.57108888655898,16.25062429357084],[75.56270057505492,16.24071210439243],[75.5771151677171,16.2378931763074]]]},"properties":{"region_id":"village_598538","name":"BAVALATTI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

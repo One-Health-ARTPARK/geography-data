@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56524901483125,12.99666813153672],[76.54744483390192,12.9948478112689],[76.54592656491904,12.98017556838615],[76.56745653920224,12.97959578394327],[76.56524901483125,12.99666813153672]]]},"properties":{"region_id":"village_617328","name":"THOTI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

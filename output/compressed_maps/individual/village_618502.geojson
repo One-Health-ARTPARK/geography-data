@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3994369975653,12.19246398858652],[76.39391316003797,12.1944930937767],[76.38991142276947,12.18490769926173],[76.39592293524106,12.1829158540619],[76.3994369975653,12.19246398858652]]]},"properties":{"region_id":"village_618502","name":"DEVAGALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

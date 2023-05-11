@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99501864206488,12.8370824608783],[77.98073527339052,12.83436531744221],[77.98783615830715,12.82227605252548],[78.00176462724913,12.82522278229859],[77.99501864206488,12.8370824608783]]]},"properties":{"region_id":"village_622347","name":"SUGGONDAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

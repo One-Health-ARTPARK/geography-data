@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.27513226610914,15.71530614552177],[74.24250779983721,15.71239745060942],[74.24801227704154,15.67353861345355],[74.28097922101686,15.68110414788832],[74.27513226610914,15.71530614552177]]]},"properties":{"region_id":"village_597809","name":"BETNE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

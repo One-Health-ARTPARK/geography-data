@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2644788328175,16.3060670809684],[76.24188038900523,16.30556298914625],[76.23692870807356,16.29791988750937],[76.26019312017955,16.29651538141322],[76.2644788328175,16.3060670809684]]]},"properties":{"region_id":"village_599658","name":"BUDIHAL (P.NALTAWAD)","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

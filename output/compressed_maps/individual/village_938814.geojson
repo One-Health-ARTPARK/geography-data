@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05846362014853,13.06278893149856],[75.04882764682402,13.03289824846907],[75.06704143384123,13.03420073898006],[75.07969985414388,13.05373035793485],[75.05846362014853,13.06278893149856]]]},"properties":{"region_id":"village_938814","name":"MARURU","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

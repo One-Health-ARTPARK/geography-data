@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90314382860628,13.75918817957406],[77.87808572799901,13.75891990168411],[77.87531345456219,13.74865669119855],[77.88147823127984,13.74696527403398],[77.91159570376593,13.75031931337317],[77.90314382860628,13.75918817957406]]]},"properties":{"region_id":"village_623877","name":"NEERAGANTIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1316339429818,16.9064649013137],[76.1221357333359,16.94753719280032],[76.0995371425421,16.93968265704578],[76.09542778335889,16.90194072412163],[76.1316339429818,16.9064649013137]]]},"properties":{"region_id":"village_599339","name":"HACHYAL","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

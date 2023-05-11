@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71998968081363,12.46520446661254],[76.71110570433677,12.46907364921769],[76.70784752610562,12.45987281279533],[76.71970201795993,12.45958606284758],[76.71998968081363,12.46520446661254]]]},"properties":{"region_id":"village_614236","name":"BALLENAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

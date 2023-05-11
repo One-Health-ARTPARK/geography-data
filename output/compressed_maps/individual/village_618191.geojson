@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19304530424246,12.45797039170801],[76.17379823758394,12.46250524041284],[76.17396955538551,12.44789972330988],[76.19304530424246,12.45797039170801]]]},"properties":{"region_id":"village_618191","name":"HONNENAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1090689574002,12.77856453541367],[77.11181179453807,12.79462660093125],[77.09865309014643,12.79200109992718],[77.09598202538878,12.77960676595328],[77.1090689574002,12.77856453541367]]]},"properties":{"region_id":"village_612741","name":"DEVASANDRA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

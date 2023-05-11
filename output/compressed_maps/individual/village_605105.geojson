@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65050337922277,14.77176170871758],[76.63230533022868,14.77734861856073],[76.63190755918444,14.75443724454937],[76.64949474055913,14.73855059559067],[76.65050337922277,14.77176170871758]]]},"properties":{"region_id":"village_605105","name":"HARUDIHALLI","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

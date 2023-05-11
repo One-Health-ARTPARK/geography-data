@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39567476672,13.1670572270854],[77.37720327090156,13.16583272627683],[77.37507586911677,13.15831750780553],[77.39006392282,13.15637383434461],[77.39567476672,13.1670572270854]]]},"properties":{"region_id":"village_624863","name":"BETTAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

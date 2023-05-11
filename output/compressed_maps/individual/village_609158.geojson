@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85516043690687,13.71117720919324],[75.84266123401096,13.71005048684782],[75.85017207554915,13.69235629491176],[75.85516043690687,13.71117720919324]]]},"properties":{"region_id":"village_609158","name":"CHAKONAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

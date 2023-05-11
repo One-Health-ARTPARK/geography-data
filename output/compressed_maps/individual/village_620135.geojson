@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49945276634585,17.17437493317424],[76.47706307047704,17.17409970368165],[76.48121962367937,17.15908846528655],[76.49749490523183,17.16221221344522],[76.49945276634585,17.17437493317424]]]},"properties":{"region_id":"village_620135","name":"KARKANAHALLI","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

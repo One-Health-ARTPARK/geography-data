@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34743586782115,12.43751063098727],[77.3559013328244,12.45372825505719],[77.34859960715168,12.46086715051418],[77.33078476645977,12.43742905829886],[77.34743586782115,12.43751063098727]]]},"properties":{"region_id":"village_626531","name":"NAGARASANAKOTE","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

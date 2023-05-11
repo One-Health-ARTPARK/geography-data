@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10649314631522,12.85817311896207],[77.08970515136454,12.84990098382221],[77.10403205222129,12.83337588288327],[77.10649314631522,12.85817311896207]]]},"properties":{"region_id":"village_612732","name":"HULIKATTE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

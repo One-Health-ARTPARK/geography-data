@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8703478410026,17.41985294024046],[76.84318767005142,17.41852246596176],[76.85718249399088,17.39489716909891],[76.8703478410026,17.41985294024046]]]},"properties":{"region_id":"village_620240","name":"BELURA (J)","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

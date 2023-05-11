@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40174264668882,13.11661621255261],[77.41242864928562,13.10396682034793],[77.4229276763317,13.12330172059606],[77.41271992323159,13.12626465683588],[77.40174264668882,13.11661621255261]]]},"properties":{"region_id":"village_612755","name":"BETHANAGERE","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

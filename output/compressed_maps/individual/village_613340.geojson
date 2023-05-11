@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72569129520566,12.67082451318036],[77.74100161254546,12.67373349548139],[77.74099129563733,12.68543507063452],[77.73052485195828,12.69202069645332],[77.72569129520566,12.67082451318036]]]},"properties":{"region_id":"village_613340","name":"GERATIGANABELE","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

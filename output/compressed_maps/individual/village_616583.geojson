@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07595384029197,12.75791976554653],[76.06160338105491,12.75906002347251],[76.0596793500228,12.74965459733056],[76.07592210741412,12.74967394252547],[76.07595384029197,12.75791976554653]]]},"properties":{"region_id":"village_616583","name":"MACHAGODANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

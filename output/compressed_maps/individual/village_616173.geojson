@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14809061138897,12.91132399340288],[76.13930621750457,12.90579217773133],[76.13436038444554,12.89348660672657],[76.15013909808111,12.89507838214729],[76.14809061138897,12.91132399340288]]]},"properties":{"region_id":"village_616173","name":"MOSALE","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

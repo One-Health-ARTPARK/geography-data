@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.22843113856773,13.52560392289124],[78.21769429979405,13.52054935984076],[78.22533946738974,13.50120676359385],[78.23818201340818,13.51061002430884],[78.22843113856773,13.52560392289124]]]},"properties":{"region_id":"village_621445","name":"GOWNIPALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

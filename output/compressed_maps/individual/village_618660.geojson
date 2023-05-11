@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44733420012064,12.4602085155312],[76.44404584158252,12.47371659242077],[76.42856966775868,12.47036972581509],[76.43015654810597,12.45607001621912],[76.44733420012064,12.4602085155312]]]},"properties":{"region_id":"village_618660","name":"KAMENAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

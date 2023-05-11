@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68069999961554,13.01103200040229],[77.66225599959441,13.01314000010892],[77.66356300011,12.99833600042532],[77.6772199995809,13.00083000038539],[77.68069999961554,13.01103200040229]]]},"properties":{"region_id":"ward_bbmp51","name":"WARD NO.51(VIJNANAPURA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

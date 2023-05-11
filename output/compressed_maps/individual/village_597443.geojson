@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80607935726529,16.20426045551999],[74.78781266385788,16.24176359151767],[74.77350701321762,16.23417619140392],[74.78329844248663,16.1947408687482],[74.80607935726529,16.20426045551999]]]},"properties":{"region_id":"village_597443","name":"SHINDIKURBET","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

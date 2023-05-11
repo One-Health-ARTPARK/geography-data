@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08275203875598,12.60809765471994],[76.07396996690146,12.61104670959783],[76.07258880426261,12.59978424570422],[76.08104814498134,12.59988907096297],[76.08275203875598,12.60809765471994]]]},"properties":{"region_id":"village_616745","name":"MALLINATHAPURA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

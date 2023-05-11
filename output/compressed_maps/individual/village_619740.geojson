@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90282049398688,11.81429459960882],[76.88266679345244,11.82515580906958],[76.87495198609287,11.80644846133002],[76.9056589854665,11.79218638796721],[76.90282049398688,11.81429459960882]]]},"properties":{"region_id":"village_619740","name":"VADDAGALAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

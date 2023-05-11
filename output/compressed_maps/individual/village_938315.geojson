@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61554506951235,13.01021590115434],[77.61174694367503,13.01625861737054],[77.60401178298095,13.0144143736818],[77.60396475139625,13.00965379279436],[77.61554506951235,13.01021590115434]]]},"properties":{"region_id":"village_938315","name":"DEVARA JEEVANAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60875799974039,12.9989969999428],[77.60555700042283,12.9942389996972],[77.61728100023075,12.98855999956991],[77.61684699968367,13.00187700019617],[77.60875799974039,12.9989969999428]]]},"properties":{"region_id":"ward_bbmp78","name":"WARD NO.78 (PULAKESHI NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

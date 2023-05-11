@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25830354275199,14.52617528793377],[76.2475834224412,14.54230265298786],[76.22836871131399,14.54080625593351],[76.23095215459493,14.52048225811305],[76.25830354275199,14.52617528793377]]]},"properties":{"region_id":"village_606453","name":"MUSTIGARAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

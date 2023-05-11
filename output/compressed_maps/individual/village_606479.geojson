@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25447250835016,14.48409095493376],[76.2303503198904,14.48552132478456],[76.22637513699604,14.46586840231501],[76.24949508388507,14.47168971150425],[76.25447250835016,14.48409095493376]]]},"properties":{"region_id":"village_606479","name":"HALAVADANDI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11040630237086,12.45032014404062],[76.10103564894119,12.46224812763737],[76.08483220102923,12.45763058034612],[76.09908400277739,12.44405399806273],[76.11040630237086,12.45032014404062]]]},"properties":{"region_id":"village_618172","name":"KURGALLU","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

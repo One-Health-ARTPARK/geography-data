@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98169582824463,12.66811596105553],[75.97370332282668,12.66811674268957],[75.97303578465987,12.66190655803044],[75.98360139107228,12.66013949609277],[75.98169582824463,12.66811596105553]]]},"properties":{"region_id":"village_616685","name":"HINDLAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08613716755193,12.46245156870254],[77.07048611314191,12.47205899472559],[77.07571301719634,12.4411238060316],[77.08510896998592,12.4412096204288],[77.08613716755193,12.46245156870254]]]},"properties":{"region_id":"village_614646","name":"BOPPASAMUDRA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

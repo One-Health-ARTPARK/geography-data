@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42305375740393,16.54746357937659],[74.38787525130118,16.56096056201102],[74.38729303014524,16.53595894147495],[74.41798260981392,16.51746208934075],[74.42305375740393,16.54746357937659]]]},"properties":{"region_id":"village_597158","name":"KUNNUR","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

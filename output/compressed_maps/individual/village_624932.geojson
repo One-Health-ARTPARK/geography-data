@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3649954119602,13.03204087273118],[77.35129585880965,13.04148835643208],[77.34852923941817,13.02555250360407],[77.3649954119602,13.03204087273118]]]},"properties":{"region_id":"village_624932","name":"MANCHENAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

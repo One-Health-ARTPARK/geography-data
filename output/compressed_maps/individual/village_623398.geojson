@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36036840617749,13.61307156973166],[77.3794838957515,13.62837934734674],[77.36958073141135,13.63375853206855],[77.36036840617749,13.61307156973166]]]},"properties":{"region_id":"village_623398","name":"GOLLAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

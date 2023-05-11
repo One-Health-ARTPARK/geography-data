@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03555922696567,11.98476455278415],[77.0255664194989,11.9872664286229],[77.02097636288072,11.9706520865974],[77.03600134842605,11.96780772627057],[77.03555922696567,11.98476455278415]]]},"properties":{"region_id":"village_619634","name":"RECHAMBALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

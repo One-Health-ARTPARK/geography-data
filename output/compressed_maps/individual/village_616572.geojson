@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04227496855675,12.75185358777669],[76.02759750730915,12.75085471650356],[76.0323409354142,12.73885325795495],[76.04203325550455,12.73665846335732],[76.04227496855675,12.75185358777669]]]},"properties":{"region_id":"village_616572","name":"KATTIMALLENAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79608773463038,13.81799679308211],[77.78725424471403,13.82049727436166],[77.78750331218437,13.80892914444808],[77.79414297445999,13.79960622011908],[77.79608773463038,13.81799679308211]]]},"properties":{"region_id":"village_623838","name":"GAWNIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

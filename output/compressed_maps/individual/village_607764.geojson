@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30455493615521,14.27933278589042],[75.29396056818211,14.28155627385881],[75.29469570178682,14.26902879842262],[75.30605211636946,14.27004590657906],[75.30455493615521,14.27933278589042]]]},"properties":{"region_id":"village_607764","name":"SHETTIHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

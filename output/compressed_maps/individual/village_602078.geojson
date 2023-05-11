@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49817580010136,15.09486497049119],[75.48429394797691,15.09683956513844],[75.48136777111529,15.07751196010142],[75.50117857301639,15.07891981099563],[75.49817580010136,15.09486497049119]]]},"properties":{"region_id":"village_602078","name":"ULLATTI","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

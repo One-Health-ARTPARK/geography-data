@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14110299427337,14.19987462870832],[75.11499698889396,14.22929229054661],[75.10756442457222,14.1987046734444],[75.14110299427337,14.19987462870832]]]},"properties":{"region_id":"village_607221","name":"BILISIRI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

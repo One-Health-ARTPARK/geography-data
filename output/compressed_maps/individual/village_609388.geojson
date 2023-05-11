@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96597643363016,13.564496235019],[75.96261217240051,13.54453753473721],[75.97249563674485,13.53389953045531],[75.98808361250758,13.55406704235961],[75.96597643363016,13.564496235019]]]},"properties":{"region_id":"village_609388","name":"CHIKKANGALA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

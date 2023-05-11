@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16400135296954,14.60962242401025],[76.1405678957524,14.61131877038254],[76.1314698374809,14.58804694228759],[76.15874159345408,14.59113585262137],[76.16400135296954,14.60962242401025]]]},"properties":{"region_id":"village_606422","name":"HUCHANGIPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

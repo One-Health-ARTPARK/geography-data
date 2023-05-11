@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5999252479083,14.95571987702156],[75.57176314497832,14.94615617336856],[75.57965845993212,14.92941476215072],[75.60051926941134,14.92104801385296],[75.60384917648126,14.9315489535979],[75.5999252479083,14.95571987702156]]]},"properties":{"region_id":"village_604256","name":"MARADUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

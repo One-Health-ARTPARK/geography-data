@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5799217976231,12.1576449747552],[76.55852219381234,12.16017246201575],[76.56889456032566,12.14303914386801],[76.5799217976231,12.1576449747552]]]},"properties":{"region_id":"village_618777","name":"NANAGALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

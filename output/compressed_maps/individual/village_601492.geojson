@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24877704792442,15.78453267361542],[76.26551921104844,15.80564894563205],[76.24208478341828,15.81648559883618],[76.24877704792442,15.78453267361542]]]},"properties":{"region_id":"village_601492","name":"TENGUNTI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02717448161454,13.01707086398521],[77.01865681228422,13.01653848358733],[77.01559544811626,13.00710760383626],[77.02713169337063,13.00911441438557],[77.02717448161454,13.01707086398521]]]},"properties":{"region_id":"village_612596","name":"HERUR KANCHAGALAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

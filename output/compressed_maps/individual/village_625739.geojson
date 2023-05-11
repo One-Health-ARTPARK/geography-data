@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78262822925963,12.9288544658967],[77.79838132823394,12.9256247580759],[77.8032429353397,12.93941000574824],[77.78262822925963,12.9288544658967]]]},"properties":{"region_id":"village_625739","name":"BELLIKERE","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

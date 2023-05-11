@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48515306229785,15.34240105992086],[75.45373890834155,15.34169082737128],[75.45032811737047,15.29991498017535],[75.4971597188247,15.29935766207316],[75.48515306229785,15.34240105992086]]]},"properties":{"region_id":"village_602038","name":"NEELAGUND","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

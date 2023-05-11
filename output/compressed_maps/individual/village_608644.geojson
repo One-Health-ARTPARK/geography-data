@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68468577365935,13.80536070078107],[75.65719175386559,13.80755062949618],[75.66392170933555,13.79065209500065],[75.68468577365935,13.80536070078107]]]},"properties":{"region_id":"village_608644","name":"HIRIYUR","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

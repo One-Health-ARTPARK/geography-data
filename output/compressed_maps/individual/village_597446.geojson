@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84350260480613,16.18458611755812],[74.85110608550313,16.18174971458379],[74.85896647796643,16.18767909083142],[74.85378655313181,16.21026185982221],[74.843939651967,16.20877714783286],[74.84350260480613,16.18458611755812]]]},"properties":{"region_id":"village_597446","name":"BASALIGUNDI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

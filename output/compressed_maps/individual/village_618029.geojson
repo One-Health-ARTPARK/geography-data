@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8851040088733,12.25026842639398],[75.87729955858643,12.25459454615581],[75.85717103589167,12.24130371192154],[75.87041846936502,12.23643398668511],[75.8851040088733,12.25026842639398]]]},"properties":{"region_id":"village_618029","name":"AMMATHI","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

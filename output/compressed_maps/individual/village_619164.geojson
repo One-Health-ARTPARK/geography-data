@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51960472384556,11.97128920870506],[76.5171824228918,11.98437213777468],[76.49940052498629,11.98380298257242],[76.50440682689351,11.96254813977503],[76.51960472384556,11.97128920870506]]]},"properties":{"region_id":"village_619164","name":"KANDEGALA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

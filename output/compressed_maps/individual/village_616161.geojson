@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12150210505705,12.98792199674241],[76.12206833739236,12.96996676022134],[76.13342055577006,12.97004459770881],[76.13301784740251,12.98672680201678],[76.12150210505705,12.98792199674241]]]},"properties":{"region_id":"village_616161","name":"DODDABASAVANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

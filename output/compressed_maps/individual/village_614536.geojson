@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99497351619453,12.61378078156333],[76.98869313160029,12.62129445291741],[76.98611603665319,12.61107008738555],[76.99497351619453,12.61378078156333]]]},"properties":{"region_id":"village_614536","name":"RAMPURA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

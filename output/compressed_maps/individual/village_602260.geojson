@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90087488694262,15.40800807746834],[74.86725140384266,15.39811816781907],[74.88477645968064,15.3789887087648],[74.90087488694262,15.40800807746834]]]},"properties":{"region_id":"village_602260","name":"DEVAGIRI-M-KYARKOPPA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

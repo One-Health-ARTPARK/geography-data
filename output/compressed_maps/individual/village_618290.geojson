@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10729468965272,12.27344917619017],[76.0873093773299,12.25688298126817],[76.10156724322529,12.24006580471747],[76.10985218124938,12.25380313139229],[76.10729468965272,12.27344917619017]]]},"properties":{"region_id":"village_618290","name":"ALALUR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

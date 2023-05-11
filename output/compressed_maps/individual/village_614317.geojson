@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79223798655691,12.71053790830169],[76.79153240514663,12.72689052368624],[76.77999337663834,12.72587539400052],[76.77757816408501,12.71146699016752],[76.79223798655691,12.71053790830169]]]},"properties":{"region_id":"village_614317","name":"BENNATTI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

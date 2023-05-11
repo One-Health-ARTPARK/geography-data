@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47632750043816,17.16860274320172],[76.45191781170797,17.17220662590135],[76.45408298959235,17.14852716155536],[76.47541447955362,17.14361325751487],[76.47632750043816,17.16860274320172]]]},"properties":{"region_id":"village_620137","name":"GUOLNUR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

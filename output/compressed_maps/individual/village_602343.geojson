@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4415476713633,15.67189706016586],[75.42345399855733,15.66835650973433],[75.43218839203155,15.62694236021739],[75.4530295186936,15.63007776908685],[75.4415476713633,15.67189706016586]]]},"properties":{"region_id":"village_602343","name":"ARAHATTI","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80170409037707,16.39812208770602],[76.79035799360153,16.40007209440642],[76.78580907611662,16.37537492406105],[76.80370154594554,16.38110439058674],[76.80170409037707,16.39812208770602]]]},"properties":{"region_id":"village_600548","name":"HAMPERGUNDI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

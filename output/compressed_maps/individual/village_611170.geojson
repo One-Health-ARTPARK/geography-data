@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30481525381096,13.45072775992018],[77.28833404862006,13.45298809714567],[77.28756178421153,13.4349506408178],[77.30779322122898,13.43128051202022],[77.30481525381096,13.45072775992018]]]},"properties":{"region_id":"village_611170","name":"PUTTASANDRA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

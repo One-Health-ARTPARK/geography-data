@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9167747169996,13.48992385449002],[77.89263906781412,13.46262054232808],[77.91664112662819,13.45015361915357],[77.9167747169996,13.48992385449002]]]},"properties":{"region_id":"village_624148","name":"PALICHERLU","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69166948093242,14.48293622949211],[74.65357088064336,14.48077781540086],[74.64714305150648,14.43328170025923],[74.68930654082487,14.46292258756807],[74.69166948093242,14.48293622949211]]]},"properties":{"region_id":"village_603526","name":"MORSE","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

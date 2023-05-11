@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86807852869474,12.76860698972276],[75.85787599852631,12.77021447778923],[75.85756021316112,12.76203740249344],[75.86476472053545,12.76215508189531],[75.86807852869474,12.76860698972276]]]},"properties":{"region_id":"village_938979","name":"CHENNAPURA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

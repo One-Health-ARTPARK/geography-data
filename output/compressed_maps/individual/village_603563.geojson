@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80465452169808,14.46165973420733],[74.80934252291115,14.46991505253422],[74.79353509663792,14.48223483161379],[74.78630590522624,14.47106138690875],[74.80465452169808,14.46165973420733]]]},"properties":{"region_id":"village_603563","name":"BALESAR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

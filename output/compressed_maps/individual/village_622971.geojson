@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.35859015649669,13.08581021103823],[78.34053356348296,13.08362759462921],[78.34913998102972,13.06924232543864],[78.35859015649669,13.08581021103823]]]},"properties":{"region_id":"village_622971","name":"BANDAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

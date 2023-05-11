@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7898588672752,12.88191956768818],[76.77587591000302,12.89720491888624],[76.76659956823318,12.88376818956721],[76.7898588672752,12.88191956768818]]]},"properties":{"region_id":"village_613863","name":"VEERASANDRA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

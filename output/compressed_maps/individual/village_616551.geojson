@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03142945984983,12.69072419922662],[76.01556577244632,12.68468748458845],[76.02948557686747,12.67142254605564],[76.03142945984983,12.69072419922662]]]},"properties":{"region_id":"village_616551","name":"HEGGADIHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

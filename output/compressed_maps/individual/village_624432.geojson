@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.1867900363552,13.51370369005729],[78.17948586094401,13.52324544424732],[78.17295932434078,13.51233650654493],[78.1867900363552,13.51370369005729]]]},"properties":{"region_id":"village_624432","name":"NAGARAJAPALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

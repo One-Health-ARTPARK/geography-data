@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0213354230909,12.07838853882018],[76.98534966525655,12.08058670683694],[76.98500471552458,12.06357519845796],[77.00735041557029,12.05621919960694],[77.0213354230909,12.07838853882018]]]},"properties":{"region_id":"village_619799","name":"HONNUR","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

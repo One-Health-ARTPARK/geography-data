@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70440120897301,12.74672850168799],[77.69478489645655,12.74659812830219],[77.69270018555241,12.73807222645619],[77.71177116520668,12.74100387391447],[77.70440120897301,12.74672850168799]]]},"properties":{"region_id":"village_613323","name":"KAMMASANDRA AGRAHARA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

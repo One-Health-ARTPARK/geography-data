@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52679220312226,18.08733592580554],[77.50724703643213,18.07755030683386],[77.51243255855971,18.05755273927734],[77.5300492596246,18.06193065733265],[77.52679220312226,18.08733592580554]]]},"properties":{"region_id":"village_600111","name":"KHANAPUR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

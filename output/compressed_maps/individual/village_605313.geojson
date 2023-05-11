@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8620514965216,14.43659062764416],[76.85571709468972,14.46119858778069],[76.8302762652948,14.4585721866037],[76.82802998609422,14.43527390474667],[76.8620514965216,14.43659062764416]]]},"properties":{"region_id":"village_605313","name":"KASAVIGONDANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

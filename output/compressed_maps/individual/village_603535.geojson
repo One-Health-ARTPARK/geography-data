@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70112323570031,14.44467429717037],[74.68825394067703,14.44349002734316],[74.69561669132035,14.42247806231184],[74.7099586263317,14.42975365272241],[74.70112323570031,14.44467429717037]]]},"properties":{"region_id":"village_603535","name":"HUTGAR (NILKUND)","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76366637579231,13.28595270677944],[76.7618826431723,13.29582907454098],[76.74264758449995,13.29325472925356],[76.75448429657764,13.28300332885658],[76.76366637579231,13.28595270677944]]]},"properties":{"region_id":"village_612259","name":"GIRIYANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

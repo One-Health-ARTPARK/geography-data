@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82149569653873,16.49151963305739],[76.80316732566729,16.49997999102638],[76.79362763074138,16.4823962840514],[76.8156783556164,16.48156004023155],[76.82149569653873,16.49151963305739]]]},"properties":{"region_id":"village_621063","name":"KUPGAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23451600675219,13.4614489016302],[76.21250283573707,13.46794649046912],[76.21667806367026,13.44733864596075],[76.23451600675219,13.4614489016302]]]},"properties":{"region_id":"village_615569","name":"AREHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

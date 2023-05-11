@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92392673057287,16.01183997595313],[76.90556979135754,16.00664000229958],[76.89849089198616,15.9719622001322],[76.93709623573858,15.99843961805188],[76.92392673057287,16.01183997595313]]]},"properties":{"region_id":"village_601046","name":"KAREGUDDA","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

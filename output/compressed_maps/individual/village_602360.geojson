@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35529933464805,15.45154364482684],[75.3700273190329,15.48520600927537],[75.33212148266439,15.48373476509042],[75.35529933464805,15.45154364482684]]]},"properties":{"region_id":"village_602360","name":"NAGARAHALLI","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

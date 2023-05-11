@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21275467779934,14.66033993897205],[75.19617370670498,14.65513695657921],[75.20291644482447,14.64472978041305],[75.2108169065908,14.64723919496534],[75.21275467779934,14.66033993897205]]]},"properties":{"region_id":"village_604179","name":"SHESHAGIRI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

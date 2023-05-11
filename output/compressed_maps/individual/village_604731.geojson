@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45416993691948,15.32954418081574],[76.44785066775297,15.33923766937479],[76.43475344252603,15.33726070328512],[76.43934432270142,15.32616752403996],[76.45416993691948,15.32954418081574]]]},"properties":{"region_id":"village_604731","name":"HAMPI","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

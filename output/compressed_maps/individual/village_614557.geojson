@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05854811066196,12.66932084953072],[77.0446648444649,12.67400695567028],[77.04017840161741,12.66389054288294],[77.05301414733795,12.66010010566719],[77.05854811066196,12.66932084953072]]]},"properties":{"region_id":"village_614557","name":"THORE SETTIHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

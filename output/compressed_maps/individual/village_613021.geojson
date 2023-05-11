@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45767919132376,12.86730779650858],[77.44883289070701,12.87300483283144],[77.44102880440235,12.85535370169688],[77.45249027637931,12.85575706413337],[77.45767919132376,12.86730779650858]]]},"properties":{"region_id":"village_613021","name":"THAGACHAGUPPE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

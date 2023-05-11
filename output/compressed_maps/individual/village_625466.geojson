@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84854274978913,13.22051161807166],[77.85011233093789,13.24132243700289],[77.83401318329986,13.2449823406592],[77.82514025747855,13.22297691198001],[77.84854274978913,13.22051161807166]]]},"properties":{"region_id":"village_625466","name":"THENEYUR","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06545899998498,16.45865938569651],[77.03412146694518,16.45195049966519],[77.02633875839248,16.41497300121869],[77.05985082117398,16.41320185072446],[77.06545899998498,16.45865938569651]]]},"properties":{"region_id":"village_600604","name":"CHICKBUDUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

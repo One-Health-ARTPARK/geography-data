@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48770478148509,17.84024482961726],[77.52656637115876,17.8259557206373],[77.52735180537314,17.86292782562997],[77.4874488838879,17.87492707153752],[77.48770478148509,17.84024482961726]]]},"properties":{"region_id":"village_600187","name":"CHITTA","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

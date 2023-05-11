@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65230506084247,12.99018346052091],[76.66102234828885,13.004957046465],[76.64804902934087,13.00702154545492],[76.65230506084247,12.99018346052091]]]},"properties":{"region_id":"village_613679","name":"TONDAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

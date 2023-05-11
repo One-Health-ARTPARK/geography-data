@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62189573329069,13.20914593681161],[76.61403382979478,13.22064588298679],[76.60698771558175,13.21038473848614],[76.62189573329069,13.20914593681161]]]},"properties":{"region_id":"village_612211","name":"KOLAGHATTA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

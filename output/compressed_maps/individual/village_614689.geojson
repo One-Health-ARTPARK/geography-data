@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03317674280409,12.34909077377339],[77.02542257862913,12.37065834563111],[77.01687759281123,12.3547642498582],[77.03317674280409,12.34909077377339]]]},"properties":{"region_id":"village_614689","name":"YAMADURU","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

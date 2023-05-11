@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35974276862612,13.06494573923413],[77.34146861237774,13.06537723946701],[77.34147809359604,13.05242038970495],[77.35509197889188,13.05203038446443],[77.35974276862612,13.06494573923413]]]},"properties":{"region_id":"village_624926","name":"YENTIGANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

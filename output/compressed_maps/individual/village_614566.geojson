@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08731134611291,12.62535302338313],[77.08607162398691,12.61205828074554],[77.09479966001025,12.60803619434756],[77.10112924990904,12.62914957160691],[77.08731134611291,12.62535302338313]]]},"properties":{"region_id":"village_614566","name":"NIDAGHATTA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

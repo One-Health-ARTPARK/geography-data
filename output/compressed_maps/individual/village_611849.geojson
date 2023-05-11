@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99635543816314,13.25288644911297],[76.9942025315237,13.26830018506763],[76.98315705310544,13.26656276733225],[76.98138132073716,13.25615457671576],[76.99635543816314,13.25288644911297]]]},"properties":{"region_id":"village_611849","name":"BILIGERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

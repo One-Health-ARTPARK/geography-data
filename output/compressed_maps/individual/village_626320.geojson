@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23340604955557,12.5315632625495],[77.22666076666191,12.51993609546999],[77.23893577267003,12.51590782449612],[77.23340604955557,12.5315632625495]]]},"properties":{"region_id":"village_626320","name":"HONNIGANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

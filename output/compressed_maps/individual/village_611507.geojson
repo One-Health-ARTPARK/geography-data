@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03766565601408,13.19456871495103],[77.03131353853051,13.19329025967269],[77.03248932634227,13.18027828231567],[77.039638470308,13.18159596397691],[77.03766565601408,13.19456871495103]]]},"properties":{"region_id":"village_611507","name":"CHOLAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

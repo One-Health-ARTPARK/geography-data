@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77255886810946,13.95442002622104],[76.76835411993507,13.96435709129868],[76.75376929923688,13.96255519546894],[76.75706669546868,13.94845449128665],[76.77255886810946,13.95442002622104]]]},"properties":{"region_id":"village_606125","name":"MYADANAHOLE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

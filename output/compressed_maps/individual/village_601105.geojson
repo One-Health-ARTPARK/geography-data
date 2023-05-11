@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64472050396898,15.90537730071425],[76.6298573063086,15.90730461486901],[76.6220297579511,15.88217935158834],[76.64449260464465,15.87530047665891],[76.64766737050049,15.89930873493237],[76.64472050396898,15.90537730071425]]]},"properties":{"region_id":"village_601105","name":"MERINAHAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

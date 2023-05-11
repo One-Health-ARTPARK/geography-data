@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64612778339992,12.79891719207606],[77.64702678637089,12.80829491967818],[77.63427287938389,12.81038632913117],[77.63774245328459,12.79440165206011],[77.64612778339992,12.79891719207606]]]},"properties":{"region_id":"village_613165","name":"NANJAPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6461480179327,13.7344444330506],[75.64023639361304,13.73321704279478],[75.63916219579654,13.72361128500969],[75.64983727744385,13.72771161768293],[75.6461480179327,13.7344444330506]]]},"properties":{"region_id":"village_608651","name":"THAVARAGHATTA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

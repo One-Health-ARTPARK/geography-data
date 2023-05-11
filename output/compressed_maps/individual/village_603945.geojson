@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27223207909914,14.98173761931611],[75.27363082187041,14.98926572312027],[75.24926165184885,14.98727822451463],[75.2481833558741,14.982729664693],[75.27223207909914,14.98173761931611]]]},"properties":{"region_id":"village_603945","name":"HANUMARAHALLI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

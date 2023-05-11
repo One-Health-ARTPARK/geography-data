@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53204473540151,14.35124262276899],[76.47788812416219,14.35777270221297],[76.48118121916008,14.28976646230574],[76.51839638552059,14.29937669426192],[76.53204473540151,14.35124262276899]]]},"properties":{"region_id":"village_605506","name":"HAIKAL","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

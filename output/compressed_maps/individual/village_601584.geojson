@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4671430540381,15.61604160941748],[76.4367420883894,15.60775783754864],[76.4574873427482,15.59348861930609],[76.4671430540381,15.61604160941748]]]},"properties":{"region_id":"village_601584","name":"MALLIGWAD","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52856999994788,12.97274500012158],[77.51816600004439,12.97533399990771],[77.51777099966112,12.96367499987181],[77.52314100027478,12.96224700041123],[77.52856999994788,12.97274500012158]]]},"properties":{"region_id":"ward_bbmp127","name":"WARD NO.127 (MUDALAPALYA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

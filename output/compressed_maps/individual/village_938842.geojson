@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21231059943803,12.66069073440674],[77.20133867442613,12.65764442629597],[77.21073953087402,12.653508310763],[77.21231059943803,12.66069073440674]]]},"properties":{"region_id":"village_938842","name":"SHUKRAVARAPETE","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

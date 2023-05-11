@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36574915980778,12.42854265163695],[77.35256103249732,12.40970322545467],[77.37120506331333,12.40798714312558],[77.36574915980778,12.42854265163695]]]},"properties":{"region_id":"village_626546","name":"NAYAKANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

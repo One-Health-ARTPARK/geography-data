@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20374504095983,12.70504684802989],[77.20211343337219,12.68609617135182],[77.20895971203579,12.6790398615627],[77.21585192138193,12.69995239091028],[77.20374504095983,12.70504684802989]]]},"properties":{"region_id":"village_626247","name":"DEVARAHOSAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

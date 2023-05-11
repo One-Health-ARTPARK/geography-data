@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81703852951713,14.06230047097073],[74.82630750538411,14.07581205716905],[74.78787849669415,14.08414278310729],[74.79395947171854,14.04856174188137],[74.81703852951713,14.06230047097073]]]},"properties":{"region_id":"village_607344","name":"KALURU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

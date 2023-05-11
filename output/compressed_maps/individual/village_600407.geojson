@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41434898582835,16.19262698980073],[76.40074932816084,16.17810960958873],[76.4245489681062,16.16680804532515],[76.42750882040868,16.18438538198937],[76.41434898582835,16.19262698980073]]]},"properties":{"region_id":"village_600407","name":"TORAL BENCHI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

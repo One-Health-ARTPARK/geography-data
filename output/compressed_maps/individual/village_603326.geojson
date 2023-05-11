@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.30262160535543,14.77017437719467],[74.27420607319094,14.76736098400142],[74.27442783032053,14.73366396530194],[74.31348898842798,14.74926669158734],[74.30262160535543,14.77017437719467]]]},"properties":{"region_id":"village_603326","name":"SAKALBENA","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

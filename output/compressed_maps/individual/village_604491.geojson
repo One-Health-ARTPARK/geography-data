@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68364794426732,14.67821809870362],[75.65135290632314,14.69987370575326],[75.640421737452,14.68605194064861],[75.68364794426732,14.67821809870362]]]},"properties":{"region_id":"village_604491","name":"BEVINAHALLI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

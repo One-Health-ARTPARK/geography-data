@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30585492497865,16.05966970831736],[76.27746841300421,16.06051925454451],[76.27899016986997,16.04133589173389],[76.3032357291696,16.03909789635337],[76.30585492497865,16.05966970831736]]]},"properties":{"region_id":"village_598983","name":"CHAMALAPUR","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

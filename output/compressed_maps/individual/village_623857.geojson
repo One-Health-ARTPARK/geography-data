@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80249510613032,13.76230623611691],[77.80561816973166,13.74706511102258],[77.82013585107326,13.75458770956176],[77.80249510613032,13.76230623611691]]]},"properties":{"region_id":"village_623857","name":"KARKUR","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

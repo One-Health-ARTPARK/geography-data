@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08485675960152,13.28987229603203],[77.07760667551437,13.29208207620243],[77.07879031904407,13.27588675096352],[77.08326263160643,13.27736595100328],[77.08485675960152,13.28987229603203]]]},"properties":{"region_id":"village_611556","name":"KALLUMATA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68666193798435,16.05858624471251],[76.68994200416,16.07426529249994],[76.67807505994605,16.07841593723587],[76.66917542867316,16.06889899483198],[76.68666193798435,16.05858624471251]]]},"properties":{"region_id":"village_600894","name":"TOGALGAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

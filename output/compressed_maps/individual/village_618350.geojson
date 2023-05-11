@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26805926797108,12.28043838593458],[76.25647934399473,12.28940154084762],[76.25301220479385,12.27757513943568],[76.26805926797108,12.28043838593458]]]},"properties":{"region_id":"village_618350","name":"CHENNASOGE","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

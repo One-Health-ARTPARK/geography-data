@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71314013436374,15.31108689313974],[74.70629399628139,15.31962291386274],[74.69150713612947,15.31597728685307],[74.70075788693468,15.29928970058293],[74.71314013436374,15.31108689313974]]]},"properties":{"region_id":"village_602772","name":"DOMAGERA","parent":"subdistrict_7064","parent_name":"DANDELI"}}
+]}

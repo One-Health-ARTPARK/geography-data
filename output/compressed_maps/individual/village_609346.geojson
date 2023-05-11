@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82147840797167,13.56498071438654],[75.79672937286963,13.56557207797565],[75.82024242859391,13.54397382875384],[75.82147840797167,13.56498071438654]]]},"properties":{"region_id":"village_609346","name":"GANGUR","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

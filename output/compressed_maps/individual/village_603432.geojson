@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.38145549907388,14.50925244334796],[74.3588684645773,14.51190081022965],[74.37095122664728,14.4886693705218],[74.3826635361143,14.48713067892565],[74.38145549907388,14.50925244334796]]]},"properties":{"region_id":"village_603432","name":"KAGAL","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

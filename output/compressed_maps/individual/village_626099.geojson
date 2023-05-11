@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36885283677104,12.84110652491992],[77.3661456593704,12.87024612971501],[77.35853607827559,12.87008450814119],[77.36163453179418,12.8469443512866],[77.36885283677104,12.84110652491992]]]},"properties":{"region_id":"village_626099","name":"BETHIMGERE","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

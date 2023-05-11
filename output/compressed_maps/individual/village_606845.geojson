@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69141826913443,14.09201299473146],[75.68061817281377,14.08848433054015],[75.67180956463828,14.07164061204191],[75.68565563344349,14.07785756104399],[75.69141826913443,14.09201299473146]]]},"properties":{"region_id":"village_606845","name":"AKKATHANGERAKATTE","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

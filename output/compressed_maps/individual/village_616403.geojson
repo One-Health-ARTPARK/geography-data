@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00852286200302,13.01009979638011],[76.00269482718551,13.00996867670803],[76.00110779103466,13.00354708427601],[76.00553905092005,13.00180271777481],[76.0059179844247,13.00731388179949],[76.00852286200302,13.01009979638011]]]},"properties":{"region_id":"village_616403","name":"BASAVANAPURA","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

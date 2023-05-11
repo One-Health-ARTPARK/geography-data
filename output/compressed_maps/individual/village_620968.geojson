@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3638216406476,16.32217801605019],[76.3306292498715,16.32392288944166],[76.33884743778144,16.30316425650101],[76.3544453797054,16.2998331278624],[76.3638216406476,16.32217801605019]]]},"properties":{"region_id":"village_620968","name":"MARNAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80978742283784,13.09149374548398],[77.81062867508668,13.098204335064],[77.80272863340839,13.10240365179205],[77.79970037372922,13.09346110843778],[77.80978742283784,13.09149374548398]]]},"properties":{"region_id":"village_625690","name":"SOMPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

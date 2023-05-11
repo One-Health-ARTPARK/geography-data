@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5799519764865,12.10455821259414],[76.56260759442067,12.08212306945306],[76.57359063894553,12.07635745452673],[76.58417765643766,12.08942372606319],[76.5799519764865,12.10455821259414]]]},"properties":{"region_id":"village_619127","name":"SHIRAMALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

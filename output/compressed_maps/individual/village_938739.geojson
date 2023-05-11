@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11632405007147,12.14003726174882],[77.11066162010978,12.14876939494547],[77.10034723551115,12.14837836748037],[77.10381626307712,12.13631673150218],[77.11632405007147,12.14003726174882]]]},"properties":{"region_id":"village_938739","name":"BASTEEPURA","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

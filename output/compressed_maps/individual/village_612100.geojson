@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40593626188841,13.25600705530482],[76.41324871654311,13.2772424481153],[76.39050155391972,13.27536612392223],[76.39112728262066,13.25653138359495],[76.40593626188841,13.25600705530482]]]},"properties":{"region_id":"village_612100","name":"MATHIHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

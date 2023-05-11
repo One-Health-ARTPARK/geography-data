@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.28100568527347,12.93376003153695],[78.28537566970628,12.9473124908301],[78.27141820177914,12.94715591719887],[78.27295304115485,12.9382243265461],[78.28100568527347,12.93376003153695]]]},"properties":{"region_id":"village_938870","name":"MASHIKAM","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

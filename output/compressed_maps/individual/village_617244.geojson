@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46716712058537,12.97969679556218],[76.45599158303033,12.97955589343788],[76.44983129309239,12.97381516184991],[76.46768242995394,12.97197928344448],[76.46716712058537,12.97969679556218]]]},"properties":{"region_id":"village_617244","name":"TENKANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

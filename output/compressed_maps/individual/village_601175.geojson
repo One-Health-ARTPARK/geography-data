@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97469915323059,15.83657965589903],[76.9267714333607,15.81427757807171],[76.9669810449023,15.78044276021233],[76.97469915323059,15.83657965589903]]]},"properties":{"region_id":"village_601175","name":"HEDGINHAL","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

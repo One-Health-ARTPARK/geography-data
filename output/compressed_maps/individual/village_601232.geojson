@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91002371642165,15.73421218932424],[75.89089983354724,15.70201487274266],[75.91492418060793,15.69805544844132],[75.91002371642165,15.73421218932424]]]},"properties":{"region_id":"village_601232","name":"SIRGUMPI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

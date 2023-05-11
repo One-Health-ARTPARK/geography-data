@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74665802454007,12.86628323989748],[77.733837394327,12.87087354744761],[77.73024410880804,12.85623373240324],[77.74877963110286,12.85101597880182],[77.74665802454007,12.86628323989748]]]},"properties":{"region_id":"village_613207","name":"KOMMASANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

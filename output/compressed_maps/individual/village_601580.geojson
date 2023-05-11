@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40751930862828,15.60522414198876],[76.38638135239901,15.53842325817929],[76.42825804901483,15.54012559493684],[76.4570885401949,15.58210877605],[76.40751930862828,15.60522414198876]]]},"properties":{"region_id":"village_601580","name":"KANAKGIRI","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.5162940721816,13.27188918132748],[78.50708166486753,13.2640013772421],[78.52764004713968,13.26227089039385],[78.52996154858418,13.26760622421444],[78.5162940721816,13.27188918132748]]]},"properties":{"region_id":"village_623051","name":"S.ANANTHAPURA","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

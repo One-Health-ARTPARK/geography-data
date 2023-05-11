@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07004181961607,13.31714668696759],[77.04774875143701,13.31263097012912],[77.05809936573239,13.29376120922905],[77.07004181961607,13.31714668696759]]]},"properties":{"region_id":"village_611552","name":"KAMBATHANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

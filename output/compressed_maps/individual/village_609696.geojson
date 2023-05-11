@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7989846366927,13.44190978749844],[75.78694698396922,13.44233425495371],[75.78871253978183,13.43306347612109],[75.7989846366927,13.44190978749844]]]},"properties":{"region_id":"village_609696","name":"SURUGUPPE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

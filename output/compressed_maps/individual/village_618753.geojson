@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54625316712558,12.23057781653948],[76.54529221106267,12.24784169803688],[76.51832094447533,12.23487827075028],[76.5272219291256,12.2265943989206],[76.54625316712558,12.23057781653948]]]},"properties":{"region_id":"village_618753","name":"GOPALAPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

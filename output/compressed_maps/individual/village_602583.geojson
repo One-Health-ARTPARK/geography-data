@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.15544219091015,14.90139859683834],[74.13648450045707,14.89866391467233],[74.13413675758207,14.88247708325503],[74.1518335944463,14.88879383190263],[74.15544219091015,14.90139859683834]]]},"properties":{"region_id":"village_602583","name":"ARAV","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

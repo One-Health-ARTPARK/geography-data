@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09012087414,13.89524037432723],[75.08144714819898,13.87286992491536],[75.11334911891849,13.87197536018916],[75.09012087414,13.89524037432723]]]},"properties":{"region_id":"village_607971","name":"GORAGODU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

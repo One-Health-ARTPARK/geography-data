@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14359519396626,13.42674676139457],[77.1311909982688,13.4266466743089],[77.13202109716215,13.41748984173422],[77.14561576954952,13.41729095312323],[77.14359519396626,13.42674676139457]]]},"properties":{"region_id":"village_611350","name":"GERAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

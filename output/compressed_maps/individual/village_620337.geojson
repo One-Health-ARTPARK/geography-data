@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23630476840239,17.57611227651078],[77.21438306260144,17.52913793901742],[77.23652825943064,17.52563929753458],[77.23630476840239,17.57611227651078]]]},"properties":{"region_id":"village_620337","name":"CHANNUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

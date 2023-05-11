@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72334818912606,14.54886749170982],[74.71187272465107,14.56040915209589],[74.69935233557416,14.55854082118436],[74.71120054539757,14.53444289680671],[74.72334818912606,14.54886749170982]]]},"properties":{"region_id":"village_603178","name":"SAMPAKHANDA","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

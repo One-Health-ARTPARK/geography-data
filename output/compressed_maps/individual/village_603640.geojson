@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74378711277035,14.32441638203579],[74.73711456424587,14.32711388804501],[74.7147528622516,14.30819424246371],[74.73313970836732,14.30491345497589],[74.74378711277035,14.32441638203579]]]},"properties":{"region_id":"village_603640","name":"WAJGOD","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

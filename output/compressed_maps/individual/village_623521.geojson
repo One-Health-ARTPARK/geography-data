@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74618222006102,13.49959109016396],[77.7439465454049,13.50418280598993],[77.73853603208987,13.50327395134889],[77.74064963566461,13.49472012904718],[77.74618222006102,13.49959109016396]]]},"properties":{"region_id":"village_623521","name":"NADUVANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

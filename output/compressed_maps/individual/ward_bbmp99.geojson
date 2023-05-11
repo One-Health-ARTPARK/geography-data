@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54030100003885,12.99689900006727],[77.55064400037031,12.99016399987957],[77.55302699958244,12.9982159995534],[77.54030100003885,12.99689900006727]]]},"properties":{"region_id":"ward_bbmp99","name":"WARD NO.99 (RAJAJI NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

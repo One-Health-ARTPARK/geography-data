@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05539390274042,16.03248717405359],[76.03380252524146,16.04072055627817],[76.0281545757979,16.03437831125033],[76.05013411276585,16.02596452219225],[76.05539390274042,16.03248717405359]]]},"properties":{"region_id":"village_598939","name":"VIRAPUR","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

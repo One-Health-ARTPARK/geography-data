@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.7795886293985,14.40187201991957],[74.77059133355534,14.38836662349891],[74.78409753827098,14.38714000349753],[74.7795886293985,14.40187201991957]]]},"properties":{"region_id":"village_603629","name":"SOVINKOPPA","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

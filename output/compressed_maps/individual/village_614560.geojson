@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0932071243733,12.64907860650083],[77.09691971816122,12.65950581249189],[77.08382072306433,12.65865397634692],[77.08386096864278,12.64910282157452],[77.0932071243733,12.64907860650083]]]},"properties":{"region_id":"village_614560","name":"MARADEVANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

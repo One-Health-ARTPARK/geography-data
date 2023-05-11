@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67796733396236,13.9141014831168],[76.63777921098891,13.91744515651678],[76.64593804517138,13.88859716741482],[76.67796733396236,13.9141014831168]]]},"properties":{"region_id":"village_606177","name":"ADIVALA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

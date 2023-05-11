@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71291856668324,13.53769032565881],[77.6866020405799,13.54906992954204],[77.6597341415162,13.52485132484911],[77.68179532283925,13.50459014341007],[77.70153424188132,13.51456008140611],[77.71291856668324,13.53769032565881]]]},"properties":{"region_id":"village_623492","name":"KETHENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

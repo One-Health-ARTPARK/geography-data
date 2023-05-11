@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51443377335289,13.35624136991207],[77.50124466593682,13.36114145732038],[77.49999891550678,13.34841410316859],[77.51155468934574,13.34735436866249],[77.51443377335289,13.35624136991207]]]},"properties":{"region_id":"village_625038","name":"ANTHARAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

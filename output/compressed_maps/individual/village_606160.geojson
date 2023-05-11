@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71207588630242,13.95587407757697],[76.68542231073269,13.95680103210228],[76.68905545441564,13.94623521301664],[76.7017188713865,13.94678655736178],[76.71207588630242,13.95587407757697]]]},"properties":{"region_id":"village_606160","name":"KASAVANAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

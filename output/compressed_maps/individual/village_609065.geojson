@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51510784753896,13.59210335375548],[75.50645185617023,13.58496385842016],[75.51201027152717,13.57424524481296],[75.52908199284897,13.5825151123801],[75.51510784753896,13.59210335375548]]]},"properties":{"region_id":"village_609065","name":"SHIRAGALALE","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61449711705066,13.75140634059817],[76.58059652972368,13.76536794891048],[76.5897642152872,13.73969427465116],[76.61449711705066,13.75140634059817]]]},"properties":{"region_id":"village_606197","name":"BYARAMADU","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76269577719015,12.31537577334765],[76.76325994357462,12.33217656287505],[76.75004090549982,12.33615315122991],[76.74580636046561,12.32261170455315],[76.76269577719015,12.31537577334765]]]},"properties":{"region_id":"village_614308","name":"SUGGANAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

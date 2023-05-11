@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21544315687531,14.00382756900872],[76.20812876419573,14.01630817660089],[76.18816572509279,14.00448894030164],[76.19879535979103,13.99386626165743],[76.21544315687531,14.00382756900872]]]},"properties":{"region_id":"village_605748","name":"BOMMANAKATTE","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

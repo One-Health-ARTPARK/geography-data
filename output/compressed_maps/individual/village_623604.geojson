@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6368212719554,13.39482885727727],[77.62135218422404,13.40213873601275],[77.61240882729653,13.38590340980251],[77.63279722734661,13.3755259871134],[77.6368212719554,13.39482885727727]]]},"properties":{"region_id":"village_623604","name":"KORLAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

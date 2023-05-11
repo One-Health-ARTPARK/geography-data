@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5543689995999,12.92356399972411],[77.56873000014812,12.91811500033113],[77.57110799969678,12.9297830001604],[77.56200099968487,12.93056099966529],[77.5543689995999,12.92356399972411]]]},"properties":{"region_id":"ward_bbmp165","name":"WARD NO.165 (GANESH MANDIR WARD)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

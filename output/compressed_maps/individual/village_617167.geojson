@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39837505994699,13.01101698566339],[76.39036838424639,13.00526265173756],[76.39303164941816,12.99870182520508],[76.40316975972343,13.00117617612219],[76.39837505994699,13.01101698566339]]]},"properties":{"region_id":"village_617167","name":"DYAVANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

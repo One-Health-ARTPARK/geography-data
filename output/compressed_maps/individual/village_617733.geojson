@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.244266954362,12.73139234903823],[75.22771572451317,12.72162192875701],[75.24793422921455,12.7057842902887],[75.25742718188218,12.7210658815357],[75.244266954362,12.73139234903823]]]},"properties":{"region_id":"village_617733","name":"KURIYA","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

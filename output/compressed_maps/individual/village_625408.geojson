@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73371964364071,13.21161067433215],[77.73712539879381,13.22379535762479],[77.71802171496951,13.2314537807806],[77.71836702266728,13.2187457718932],[77.73371964364071,13.21161067433215]]]},"properties":{"region_id":"village_625408","name":"RAYASANDRA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

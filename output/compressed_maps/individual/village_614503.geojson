@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93868765110163,12.74341478491939],[76.91197707509224,12.74796077648744],[76.89584336710779,12.73019243832064],[76.92421294043174,12.71518692983499],[76.93868765110163,12.74341478491939]]]},"properties":{"region_id":"village_614503","name":"HOSAGAVI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

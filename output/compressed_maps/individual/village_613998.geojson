@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8172690348551,12.73949516300032],[76.807240653143,12.74202607409709],[76.80444775030864,12.73195381994212],[76.81187568878063,12.73312909750092],[76.8172690348551,12.73949516300032]]]},"properties":{"region_id":"village_613998","name":"LINGAMMANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

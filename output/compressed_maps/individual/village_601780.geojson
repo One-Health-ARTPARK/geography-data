@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11444490459544,15.27314450148599],[76.09243423925803,15.27855326545798],[76.0911188286374,15.26345255573067],[76.11444490459544,15.27314450148599]]]},"properties":{"region_id":"village_601780","name":"BUDIHAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

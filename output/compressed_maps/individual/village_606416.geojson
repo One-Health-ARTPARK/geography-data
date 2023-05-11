@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35347534596104,14.59290856228208],[76.33261775684,14.59565626915139],[76.33612448456054,14.57149701894017],[76.35804878012047,14.5733133931882],[76.35347534596104,14.59290856228208]]]},"properties":{"region_id":"village_606416","name":"TAMALIHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

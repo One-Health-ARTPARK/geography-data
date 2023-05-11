@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.67854523064817,14.94176136892578],[74.64873029980984,14.95570182772417],[74.64872763179693,14.93203705665395],[74.67854523064817,14.94176136892578]]]},"properties":{"region_id":"village_602913","name":"DONAGAR","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

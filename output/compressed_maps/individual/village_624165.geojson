@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84903597723682,13.4335488213905],[77.83903902996613,13.43974046473097],[77.83648949617555,13.43104560268421],[77.84903597723682,13.4335488213905]]]},"properties":{"region_id":"village_624165","name":"GUDIHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

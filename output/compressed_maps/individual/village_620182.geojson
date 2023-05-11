@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01813451839124,17.67939023337061],[76.98609997701946,17.69868415468085],[76.97749750664309,17.66555314385229],[77.01813451839124,17.67939023337061]]]},"properties":{"region_id":"village_620182","name":"KALMANDERGI","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

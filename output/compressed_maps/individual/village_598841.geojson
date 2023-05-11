@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96415830791437,16.26466951600939],[75.96346055556481,16.28072045180979],[75.94290994991496,16.28068777666539],[75.94106499020207,16.26239322104482],[75.96415830791437,16.26466951600939]]]},"properties":{"region_id":"village_598841","name":"MUDAVINKOPP","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

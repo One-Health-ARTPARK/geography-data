@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46145100334908,15.98333647148832],[75.43078087184807,15.9709622312989],[75.47647421349173,15.95146042347949],[75.48437372145364,15.96961996749492],[75.46145100334908,15.98333647148832]]]},"properties":{"region_id":"village_598696","name":"NEERALAKERI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

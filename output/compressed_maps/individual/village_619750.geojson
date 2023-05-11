@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97820481593257,11.82183261995375],[76.95648467291447,11.79037773072961],[76.96657771513418,11.77802857088926],[76.98494199907056,11.80268957706484],[76.97820481593257,11.82183261995375]]]},"properties":{"region_id":"village_619750","name":"BANDIGOWDANAHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

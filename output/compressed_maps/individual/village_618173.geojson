@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.081038882303,12.46499172147016],[76.06267459008832,12.46562356569422],[76.05930465085065,12.4587309096491],[76.0821151760221,12.45700419001331],[76.081038882303,12.46499172147016]]]},"properties":{"region_id":"village_618173","name":"DEPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

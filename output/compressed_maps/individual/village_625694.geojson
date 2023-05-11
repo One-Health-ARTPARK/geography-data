@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80979348319984,13.11508801996302],[77.80519452445583,13.10693862410194],[77.81314907135122,13.10428335248524],[77.82013099019022,13.11059130990792],[77.80979348319984,13.11508801996302]]]},"properties":{"region_id":"village_625694","name":"CHIKKAHULLUR","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

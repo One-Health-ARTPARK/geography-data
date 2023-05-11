@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71096480570296,17.08284669842623],[75.68824356599666,17.1050318071554],[75.67518362063329,17.08800881445822],[75.67923384409116,17.06981006032213],[75.71096480570296,17.08284669842623]]]},"properties":{"region_id":"village_599196","name":"MAHAVEERNAGAR","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

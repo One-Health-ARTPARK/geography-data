@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9351151818676,14.24635687938568],[74.93438070892176,14.26284769094003],[74.92016239643102,14.26668407269183],[74.9087805573002,14.24998310289728],[74.9351151818676,14.24635687938568]]]},"properties":{"region_id":"village_603724","name":"NEJJUR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

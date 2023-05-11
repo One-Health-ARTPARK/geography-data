@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77212294433672,12.59721556128855],[75.7879021091236,12.61151339432821],[75.7697869885888,12.63383851828296],[75.75286376549622,12.61440356835066],[75.77212294433672,12.59721556128855]]]},"properties":{"region_id":"village_617921","name":"HARAGA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

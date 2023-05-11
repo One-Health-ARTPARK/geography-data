@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05961679240333,16.31583832568765],[76.06525907113742,16.33601973404575],[76.05034381222809,16.3380612302805],[76.044033208645,16.31913399010177],[76.05961679240333,16.31583832568765]]]},"properties":{"region_id":"village_599613","name":"CHIRCHANKAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

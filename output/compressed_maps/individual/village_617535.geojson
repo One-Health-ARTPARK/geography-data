@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09718108385714,12.96596942846247],[75.08799687054139,12.98109662392744],[75.06588322439968,12.95913667990744],[75.09172573367579,12.95925284904949],[75.09718108385714,12.96596942846247]]]},"properties":{"region_id":"village_617535","name":"CHENNAITHODI","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

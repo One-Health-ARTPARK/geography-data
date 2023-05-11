@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79999310563954,13.38594451325248],[76.77208038564875,13.37997427181722],[76.77538541834313,13.36840109780269],[76.81338805542434,13.36699782051475],[76.79999310563954,13.38594451325248]]]},"properties":{"region_id":"village_611752","name":"BOMMARASANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

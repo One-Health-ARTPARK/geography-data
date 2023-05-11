@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06499897760467,14.60403520628877],[76.05827211440375,14.62776784495142],[76.01012069366736,14.61973233912413],[76.03876573784686,14.58593642588547],[76.06499897760467,14.60403520628877]]]},"properties":{"region_id":"village_606361","name":"PUNABAGATTA","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

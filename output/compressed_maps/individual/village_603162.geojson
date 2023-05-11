@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66018431967188,14.56935492871726],[74.63824579848267,14.58329950010678],[74.62745592499473,14.57244048478633],[74.6491468341652,14.54796513947728],[74.66018431967188,14.56935492871726]]]},"properties":{"region_id":"village_603162","name":"TEPPAR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

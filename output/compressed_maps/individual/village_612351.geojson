@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62679163238484,13.09853282028612],[76.61021779179157,13.10000347721395],[76.60823206946365,13.08517474780529],[76.62412716657109,13.08318268942586],[76.62679163238484,13.09853282028612]]]},"properties":{"region_id":"village_612351","name":"AREMALLENAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

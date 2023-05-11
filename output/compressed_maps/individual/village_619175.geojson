@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50856806652294,11.95432861991132],[76.48895834532219,11.95447895571844],[76.48954557342874,11.92440102189604],[76.51516393523698,11.92480036292331],[76.50856806652294,11.95432861991132]]]},"properties":{"region_id":"village_619175","name":"HEDIYALA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

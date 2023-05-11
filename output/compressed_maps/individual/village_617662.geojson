@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28049816438843,12.93111365764756],[75.26005217409774,12.93924294845852],[75.26680111927332,12.92309747835225],[75.28049816438843,12.93111365764756]]]},"properties":{"region_id":"village_617662","name":"NYAYATARPU","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

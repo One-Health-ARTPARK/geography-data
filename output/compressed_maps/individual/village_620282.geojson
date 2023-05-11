@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79140108738468,17.35835005607842],[76.76016640585436,17.37495190179004],[76.75549292046394,17.34296519124369],[76.78758904937747,17.33349988424118],[76.79140108738468,17.35835005607842]]]},"properties":{"region_id":"village_620282","name":"SINDAGI","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

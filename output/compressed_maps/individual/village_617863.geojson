@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93167679550825,12.80738645948498],[75.9265523922566,12.81096809025903],[75.92444460135087,12.8068685774469],[75.92840737304773,12.80390904033198],[75.93167679550825,12.80738645948498]]]},"properties":{"region_id":"village_617863","name":"JANARDANAHALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

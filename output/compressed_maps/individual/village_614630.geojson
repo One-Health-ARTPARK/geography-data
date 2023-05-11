@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08854463935151,12.49086551054341],[77.06975272810006,12.48568912787076],[77.06915146844536,12.47333533009971],[77.08486871440178,12.47376696321256],[77.08854463935151,12.49086551054341]]]},"properties":{"region_id":"village_614630","name":"MADENAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

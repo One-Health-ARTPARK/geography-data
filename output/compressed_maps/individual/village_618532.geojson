@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23676803934433,12.545514128512],[76.22490484968942,12.55247367794282],[76.22117142561041,12.53601675749493],[76.2297207221799,12.5322742702815],[76.23676803934433,12.545514128512]]]},"properties":{"region_id":"village_618532","name":"KEDAGA","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

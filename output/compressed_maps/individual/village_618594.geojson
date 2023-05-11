@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16028320432244,12.57490197798485],[76.15131022851845,12.57658570043264],[76.14769390372952,12.56579990738273],[76.15848081340502,12.56403346766721],[76.16028320432244,12.57490197798485]]]},"properties":{"region_id":"village_618594","name":"ABBURU","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

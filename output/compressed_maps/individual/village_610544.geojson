@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08021534379809,14.21319752817029],[77.03839797200658,14.20490802080162],[77.06739848944804,14.16607788782559],[77.08021534379809,14.21319752817029]]]},"properties":{"region_id":"village_610544","name":"VADANAKAL","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

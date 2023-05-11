@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.988711731722,12.55598928788127],[76.98835983591344,12.56548587704038],[76.97991365591652,12.56436569205117],[76.97654769801541,12.55613672130121],[76.988711731722,12.55598928788127]]]},"properties":{"region_id":"village_614456","name":"HALASAGERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79631648351263,12.87784972434381],[76.7898588672752,12.88191956768818],[76.7838428589279,12.86526610574082],[76.79870938982302,12.86459347024251],[76.79631648351263,12.87784972434381]]]},"properties":{"region_id":"village_613861","name":"KENDANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

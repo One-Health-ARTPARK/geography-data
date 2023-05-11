@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01583171000637,15.74855433339227],[76.99503804284029,15.75307982624231],[76.99663979662606,15.73634984032613],[77.01583171000637,15.74855433339227]]]},"properties":{"region_id":"village_604821","name":"HALUMURAVANI","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12575197787065,12.865903176614],[76.1229921441416,12.87332276374588],[76.11284615713312,12.87192919471916],[76.11493039642916,12.86035319124257],[76.12575197787065,12.865903176614]]]},"properties":{"region_id":"village_616140","name":"ANKAPURA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

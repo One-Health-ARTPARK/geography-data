@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01159153659815,12.04532441005814],[77.00784101835664,12.03975676266546],[77.01476797081813,12.0383170991734],[77.01633716507416,12.04315802843283],[77.01159153659815,12.04532441005814]]]},"properties":{"region_id":"village_619805","name":"AVALKANDALLI","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

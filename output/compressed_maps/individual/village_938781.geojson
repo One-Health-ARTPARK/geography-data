@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84031519398154,12.92133640727891],[74.82438481282927,12.92183118784025],[74.82515188212207,12.91515170737327],[74.84031519398154,12.92133640727891]]]},"properties":{"region_id":"village_938781","name":"BANGRAKULURU","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05422007016885,17.64174704583161],[77.03544768067677,17.63737490536095],[77.04476529143852,17.60701715598007],[77.07228708285103,17.62415798789388],[77.05422007016885,17.64174704583161]]]},"properties":{"region_id":"village_620192","name":"MARGUTHI","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

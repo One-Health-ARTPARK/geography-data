@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52229737994726,13.45376371634556],[77.50597670320649,13.45479628204335],[77.50439776915832,13.44509832509191],[77.51560575652672,13.44377435518284],[77.52229737994726,13.45376371634556]]]},"properties":{"region_id":"village_623370","name":"THIPPAGANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05503003962065,13.01544862162631],[77.04893080080305,13.0271060058929],[77.04473977157203,13.01772553024694],[77.05503003962065,13.01544862162631]]]},"properties":{"region_id":"village_612587","name":"MALLAGATTA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

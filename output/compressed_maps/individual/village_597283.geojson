@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79352255951936,16.67288454234893],[74.77158425354433,16.66302333999344],[74.7514129414703,16.60881238765487],[74.77071204622233,16.60589751306651],[74.80736990909992,16.63365668798432],[74.79352255951936,16.67288454234893]]]},"properties":{"region_id":"village_597283","name":"UGAR BUDRUK","parent":"subdistrict_7100","parent_name":"KAGWAD"}}
+]}

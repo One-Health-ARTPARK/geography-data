@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8291585008678,13.82563826074027],[75.82488564821631,13.85223161878909],[75.81466893954752,13.83374201729242],[75.8291585008678,13.82563826074027]]]},"properties":{"region_id":"village_608607","name":"YAMMEDODDI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

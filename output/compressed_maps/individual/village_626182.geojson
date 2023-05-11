@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34405821057352,12.63633754504069],[77.33013707374592,12.61183064686102],[77.33926463706257,12.6102745800422],[77.34405821057352,12.63633754504069]]]},"properties":{"region_id":"village_626182","name":"K.G.HOSAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

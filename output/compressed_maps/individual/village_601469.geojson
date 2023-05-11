@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29025210794951,15.89266489488247],[76.27594806686285,15.90373642217161],[76.27852375542656,15.88386139264156],[76.29025210794951,15.89266489488247]]]},"properties":{"region_id":"village_601469","name":"BANHATTI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

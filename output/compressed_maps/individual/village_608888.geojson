@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89623343176046,13.3084498467245],[74.8639154921309,13.2790259495196],[74.89383117035527,13.26944478502893],[74.89623343176046,13.3084498467245]]]},"properties":{"region_id":"village_608888","name":"KANAJARU","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

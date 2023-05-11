@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45099032185793,17.4471302826257],[77.42110990063485,17.44853139388887],[77.42040594915835,17.43299890639514],[77.45099032185793,17.4471302826257]]]},"properties":{"region_id":"village_938552","name":"CHANDAPURA","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

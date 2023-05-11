@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52533766781823,13.102533603121],[77.51497874208876,13.09474945329398],[77.53439410152906,13.09213701750875],[77.52533766781823,13.102533603121]]]},"properties":{"region_id":"village_612883","name":"GUNIAGRAHARA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

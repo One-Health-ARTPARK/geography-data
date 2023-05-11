@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39702663901595,15.48700525510342],[76.36871706039304,15.49783504531946],[76.36366952959219,15.45174954857875],[76.39213523010879,15.44949521207693],[76.39702663901595,15.48700525510342]]]},"properties":{"region_id":"village_601596","name":"AGOLI","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

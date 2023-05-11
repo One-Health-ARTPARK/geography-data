@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65882967061668,12.84073531973026],[76.65350784612015,12.85492117664696],[76.6481310144918,12.85221950001366],[76.65061271819893,12.83833708922343],[76.65882967061668,12.84073531973026]]]},"properties":{"region_id":"village_613875","name":"PADAVALACHITTANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

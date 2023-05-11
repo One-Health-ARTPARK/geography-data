@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45615032706658,16.50570344015552],[75.42557241759981,16.53009542486802],[75.4150803875878,16.49726702512582],[75.45615032706658,16.50570344015552]]]},"properties":{"region_id":"village_598479","name":"MUNDAGANUR","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

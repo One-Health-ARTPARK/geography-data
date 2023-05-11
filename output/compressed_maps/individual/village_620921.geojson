@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61371905503033,16.58569901048465],[76.57792260301359,16.57893509287098],[76.59423898862433,16.53218603235651],[76.62784396733902,16.53751810078024],[76.61371905503033,16.58569901048465]]]},"properties":{"region_id":"village_620921","name":"KANHALLI","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

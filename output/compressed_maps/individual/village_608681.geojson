@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87006308339606,13.8567625990947],[74.83779308852553,13.89857977131565],[74.77103200176659,13.91264451741073],[74.72951993068203,13.86054215001939],[74.81871457860166,13.84584893453194],[74.87006308339606,13.8567625990947]]]},"properties":{"region_id":"village_608681","name":"KOLLUR","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

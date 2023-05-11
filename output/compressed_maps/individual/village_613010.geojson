@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46124212980355,12.95560702602794],[77.43831458582241,12.95992223150863],[77.43845229749573,12.94908508534002],[77.45743564753936,12.94663097524707],[77.46124212980355,12.95560702602794]]]},"properties":{"region_id":"village_613010","name":"KENCHANAPURA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

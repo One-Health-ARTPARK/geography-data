@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0699721801946,15.43650812156497],[76.03110444758423,15.46164211191947],[76.03399886204738,15.41680498090001],[76.06329816441976,15.41166716975441],[76.0699721801946,15.43650812156497]]]},"properties":{"region_id":"village_601358","name":"BENAKAL","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

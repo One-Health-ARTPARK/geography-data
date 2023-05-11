@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31433033483198,16.40155484297532],[77.27034912338401,16.40263605683198],[77.29440206547399,16.35169183911207],[77.31433033483198,16.40155484297532]]]},"properties":{"region_id":"village_600733","name":"KADLUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

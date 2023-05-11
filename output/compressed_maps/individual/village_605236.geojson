@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62711955508226,14.53670583217825],[76.575446728802,14.55266655781556],[76.59201291394086,14.50206130486334],[76.62711955508226,14.53670583217825]]]},"properties":{"region_id":"village_605236","name":"MALLURAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

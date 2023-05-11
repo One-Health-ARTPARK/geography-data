@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24870762176978,13.22241551337738],[77.23552138534153,13.22101460255317],[77.23629034547133,13.21645033237991],[77.24792077008668,13.215357223267],[77.24870762176978,13.22241551337738]]]},"properties":{"region_id":"village_624749","name":"CHANDANAHOSAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

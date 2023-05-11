@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69539719317581,13.33568145577854],[77.69244670058565,13.34083882993904],[77.67765946570407,13.34188329045054],[77.67720046086039,13.3390350355646],[77.69539719317581,13.33568145577854]]]},"properties":{"region_id":"village_625254","name":"MOODIGANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

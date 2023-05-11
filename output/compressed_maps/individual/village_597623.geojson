@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68333560496104,16.15667604306655],[74.66852740605262,16.15248588244252],[74.67781749642377,16.13661594354908],[74.68744409431153,16.14100547713175],[74.68333560496104,16.15667604306655]]]},"properties":{"region_id":"village_597623","name":"NADIGUDIKETRA","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

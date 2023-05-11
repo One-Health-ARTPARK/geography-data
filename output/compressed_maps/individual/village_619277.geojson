@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77041194804191,12.06222695599955],[76.7450221783766,12.05969270369284],[76.74623394982295,12.0500708492898],[76.77843258473847,12.04497926831492],[76.77041194804191,12.06222695599955]]]},"properties":{"region_id":"village_619277","name":"BASAVATTIGE","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

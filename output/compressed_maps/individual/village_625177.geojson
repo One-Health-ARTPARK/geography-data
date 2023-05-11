@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46127312778347,13.31352571172293],[77.45193147176059,13.32443870733681],[77.44649426639462,13.30639706988489],[77.46127312778347,13.31352571172293]]]},"properties":{"region_id":"village_625177","name":"SHRAVANUR","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

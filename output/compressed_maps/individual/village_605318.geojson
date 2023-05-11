@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85326643705842,14.19241345555566],[76.84776403347237,14.21829335486516],[76.82613343968421,14.20814141179229],[76.83631704996021,14.18931404956197],[76.85326643705842,14.19241345555566]]]},"properties":{"region_id":"village_605318","name":"OBALAPURA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

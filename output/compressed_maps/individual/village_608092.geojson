@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15324667395335,13.79731651281673],[75.12674150929384,13.79422029873028],[75.1180040085761,13.77975161596535],[75.15905465146741,13.77405171509757],[75.15324667395335,13.79731651281673]]]},"properties":{"region_id":"village_608092","name":"YAMARAVALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19853591097788,15.10045980183561],[75.22510456671455,15.10020897057676],[75.22376717049906,15.12575332587774],[75.19853591097788,15.10045980183561]]]},"properties":{"region_id":"village_602547","name":"MATTIGATTI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

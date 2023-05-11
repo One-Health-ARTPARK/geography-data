@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28331984593218,15.16023688622555],[76.24405568203707,15.15739126820619],[76.2493734860971,15.11270402461654],[76.28726525522765,15.12892201659833],[76.28331984593218,15.16023688622555]]]},"properties":{"region_id":"village_604663","name":"MARABBIHAL","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

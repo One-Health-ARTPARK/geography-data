@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40293624507393,18.30268185953353],[77.38157339318067,18.28360006746011],[77.40305411584777,18.27342859652689],[77.40293624507393,18.30268185953353]]]},"properties":{"region_id":"village_600047","name":"DUDUKNAL","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

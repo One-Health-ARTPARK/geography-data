@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53013166978576,12.64010405303091],[76.50579577423699,12.63958418830947],[76.51171853865922,12.61999208991786],[76.52583579413276,12.6221074829008],[76.53013166978576,12.64010405303091]]]},"properties":{"region_id":"village_613504","name":"KASHIMURUKANAHALLY","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

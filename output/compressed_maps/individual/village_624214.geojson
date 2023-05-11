@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84150296285051,13.37073001580195],[77.83063945017109,13.34947715943402],[77.84049028433186,13.34567036955393],[77.84925456296263,13.36973659466882],[77.84150296285051,13.37073001580195]]]},"properties":{"region_id":"village_624214","name":"CHOWDASANDRA","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

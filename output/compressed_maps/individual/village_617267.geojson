@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48595274349823,12.99716392319355],[76.47818128859055,12.99800437860922],[76.47556054966442,12.98986476140843],[76.48832020287573,12.98655247378579],[76.48595274349823,12.99716392319355]]]},"properties":{"region_id":"village_617267","name":"MUDDANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

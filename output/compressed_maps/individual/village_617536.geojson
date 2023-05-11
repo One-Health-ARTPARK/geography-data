@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09959622493938,12.99612143340007],[75.09780135170433,12.9627067710593],[75.11822965016894,12.95898641561454],[75.12362600872116,12.98103889509982],[75.09959622493938,12.99612143340007]]]},"properties":{"region_id":"village_617536","name":"AJJIBETTU","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

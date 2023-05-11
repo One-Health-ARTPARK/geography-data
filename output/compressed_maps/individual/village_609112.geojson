@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68029550127476,13.71467870367181],[75.68389534823483,13.7235385947669],[75.66677219035923,13.71950107142135],[75.66933753234852,13.71406458495612],[75.68029550127476,13.71467870367181]]]},"properties":{"region_id":"village_609112","name":"SOMPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

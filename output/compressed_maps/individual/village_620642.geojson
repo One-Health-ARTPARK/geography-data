@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11933182391581,17.21715140068884],[77.10165904995648,17.2394144331396],[77.0766749061875,17.1717838536422],[77.12897570365016,17.18291708248537],[77.11933182391581,17.21715140068884]]]},"properties":{"region_id":"village_620642","name":"DANDOTHI","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

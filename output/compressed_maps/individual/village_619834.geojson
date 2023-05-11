@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99293229373744,12.11834889649282],[76.98740307994962,12.10407477426158],[76.98512553823933,12.08057456329886],[76.99474690173668,12.08148935009325],[76.99293229373744,12.11834889649282]]]},"properties":{"region_id":"village_619834","name":"ALAHALLI","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

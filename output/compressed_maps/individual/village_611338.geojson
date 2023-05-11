@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0713161410553,13.42704999394553],[77.06886263881236,13.43739164538676],[77.06041379104079,13.44318667542269],[77.0556152282152,13.43282748861248],[77.0713161410553,13.42704999394553]]]},"properties":{"region_id":"village_611338","name":"KORA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

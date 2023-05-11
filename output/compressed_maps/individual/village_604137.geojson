@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15465033398884,14.65846299583165],[75.1253787313804,14.65771899441817],[75.14216485361148,14.63389371890667],[75.15465033398884,14.65846299583165]]]},"properties":{"region_id":"village_604137","name":"HIREKOUNSHI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

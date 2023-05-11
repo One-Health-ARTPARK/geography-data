@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40848148343073,14.22533325038372],[76.4050417712135,14.20663030789483],[76.42280335177992,14.20483794263132],[76.40848148343073,14.22533325038372]]]},"properties":{"region_id":"village_938938","name":"KELAGOTE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

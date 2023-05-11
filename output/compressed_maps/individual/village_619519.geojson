@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75715882978781,11.87044331244702],[76.74717046985711,11.87041278379261],[76.74799148942192,11.85840574848902],[76.75437252437271,11.8563521088429],[76.75715882978781,11.87044331244702]]]},"properties":{"region_id":"village_619519","name":"PARAMAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

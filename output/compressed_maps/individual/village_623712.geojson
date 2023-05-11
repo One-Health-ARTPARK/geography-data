@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70017813204636,13.69867961434642],[77.68067408944945,13.68668825664761],[77.70405053143409,13.66191112111433],[77.71944594765806,13.67141484697958],[77.70017813204636,13.69867961434642]]]},"properties":{"region_id":"village_623712","name":"GUDIBANDA [R]","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

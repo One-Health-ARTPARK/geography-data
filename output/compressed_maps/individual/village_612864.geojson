@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5045911440342,13.13291442475165],[77.49300223333097,13.15166057255317],[77.48515739663804,13.13104833283164],[77.5045911440342,13.13291442475165]]]},"properties":{"region_id":"village_612864","name":"IVAR KANDAPURA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

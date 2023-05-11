@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23511570191944,16.52088605311113],[75.21339912368546,16.55059152008032],[75.20439508893382,16.52048440825723],[75.23511570191944,16.52088605311113]]]},"properties":{"region_id":"village_598438","name":"HUNNUR","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

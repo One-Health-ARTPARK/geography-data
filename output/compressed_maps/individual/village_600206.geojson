@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48528690178296,17.85983304364381],[77.47021195038883,17.85464653496451],[77.4621793237662,17.84163366074582],[77.48310430049396,17.84176755590316],[77.48528690178296,17.85983304364381]]]},"properties":{"region_id":"village_600206","name":"YADLAPUR","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

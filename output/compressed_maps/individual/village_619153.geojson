@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54673395744936,12.0231237088132],[76.53343196840612,12.02835646391377],[76.53277633922585,12.01812366186787],[76.54673395744936,12.0231237088132]]]},"properties":{"region_id":"village_619153","name":"YEDAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

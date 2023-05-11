@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21664851052276,12.78923233390326],[77.20133208707033,12.79994144922818],[77.18386972332277,12.79064189307394],[77.20668702093131,12.77012173327029],[77.21664851052276,12.78923233390326]]]},"properties":{"region_id":"village_626062","name":"DODDAGANGAWADI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

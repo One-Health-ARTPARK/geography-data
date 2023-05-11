@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8561928110867,15.86673728424303],[76.84484006480898,15.84655020640061],[76.79542216888487,15.85772784844789],[76.77195827675263,15.84356475023681],[76.85610263370731,15.82491964059132],[76.8561928110867,15.86673728424303]]]},"properties":{"region_id":"village_601154","name":"SULTANPUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

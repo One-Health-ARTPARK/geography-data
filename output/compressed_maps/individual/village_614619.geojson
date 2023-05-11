@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97702679955125,12.50322056184254],[76.96494991756349,12.49858079058267],[76.96715026023621,12.48930999263266],[76.98063988306343,12.49126970159403],[76.97702679955125,12.50322056184254]]]},"properties":{"region_id":"village_614619","name":"SHINGATAGERI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15579360484621,12.58461607649061],[77.1526827408711,12.59379627993895],[77.13823420400401,12.5885761698694],[77.14367351960476,12.58170085260831],[77.15579360484621,12.58461607649061]]]},"properties":{"region_id":"village_626232","name":"THUBINAKERE","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

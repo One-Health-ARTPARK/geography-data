@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01371324155537,16.39226896436951],[75.96688085954472,16.41207527285943],[75.96553539335527,16.37499435923857],[76.01371324155537,16.39226896436951]]]},"properties":{"region_id":"village_599565","name":"ITAGI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

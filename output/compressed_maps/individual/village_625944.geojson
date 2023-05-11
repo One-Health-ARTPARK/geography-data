@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19967388864745,12.95726277909799],[77.18496856684474,12.96334436193815],[77.1774899405227,12.95393503323102],[77.18770820944387,12.94367916942394],[77.19967388864745,12.95726277909799]]]},"properties":{"region_id":"village_625944","name":"JUTTANAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

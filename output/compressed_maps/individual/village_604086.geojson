@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07395411877768,14.80824666106851],[75.07164743691902,14.78088285828637],[75.09042591974905,14.77791725080507],[75.09170714805936,14.79151298578833],[75.07395411877768,14.80824666106851]]]},"properties":{"region_id":"village_604086","name":"KOPPARSIKOPPA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

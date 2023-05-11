@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87220741672458,12.2164558244081],[75.85703255536819,12.21262185875466],[75.85864334865641,12.19507809463875],[75.87130904311513,12.20116759426602],[75.87220741672458,12.2164558244081]]]},"properties":{"region_id":"village_618034","name":"HOSAKOTE","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

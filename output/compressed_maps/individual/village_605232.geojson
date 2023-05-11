@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59414866778154,14.59103806199283],[76.57338901055921,14.59766205841359],[76.56774174243127,14.58672284171836],[76.59401079818196,14.58235719316823],[76.59414866778154,14.59103806199283]]]},"properties":{"region_id":"village_605232","name":"MALEBORANAHATTI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

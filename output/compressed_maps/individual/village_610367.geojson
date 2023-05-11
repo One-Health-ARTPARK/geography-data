@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90792047791058,13.76726759457724],[76.91927789958564,13.76239066521409],[76.91842399582877,13.78021867308824],[76.89567177031822,13.77613938421943],[76.90792047791058,13.76726759457724]]]},"properties":{"region_id":"village_610367","name":"VOJUKUNTE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

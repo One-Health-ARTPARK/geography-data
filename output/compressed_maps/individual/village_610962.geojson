@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30033516622152,13.6982025551452],[77.29294317227026,13.68409443848959],[77.30091623613035,13.68206477994477],[77.30033516622152,13.6982025551452]]]},"properties":{"region_id":"village_610962","name":"SIDDANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

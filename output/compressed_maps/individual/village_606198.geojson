@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62047277331783,13.73408762131528],[76.61449711705066,13.75140634059817],[76.57632722315711,13.73567934501221],[76.57691710999367,13.71466961983187],[76.62047277331783,13.73408762131528]]]},"properties":{"region_id":"village_606198","name":"SHESHAPPANAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

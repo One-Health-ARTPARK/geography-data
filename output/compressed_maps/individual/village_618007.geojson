@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78132703904953,12.22509159409802],[75.76692684730142,12.21502456836556],[75.76951727474142,12.20391154243378],[75.78925352633534,12.20297478153743],[75.78132703904953,12.22509159409802]]]},"properties":{"region_id":"village_618007","name":"KADANUR","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

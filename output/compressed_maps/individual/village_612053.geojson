@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57560395255705,13.26895148929062],[76.56273762142494,13.26841770152175],[76.56528456946671,13.25870253474148],[76.5757589537219,13.25949535226189],[76.57560395255705,13.26895148929062]]]},"properties":{"region_id":"village_612053","name":"KUPPALU","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

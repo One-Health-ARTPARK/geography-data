@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97330719544291,14.41001901460865],[75.9576185169791,14.42423520582436],[75.95158795004052,14.39554245116804],[75.97622986904996,14.39768479968529],[75.97330719544291,14.41001901460865]]]},"properties":{"region_id":"village_606614","name":"THOLAHUNSE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

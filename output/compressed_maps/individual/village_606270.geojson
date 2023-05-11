@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84752340612916,14.58367657036708],[75.85866912890518,14.59568609428895],[75.84146874323862,14.59828754646651],[75.84752340612916,14.58367657036708]]]},"properties":{"region_id":"village_606270","name":"KURUBARAHALLI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

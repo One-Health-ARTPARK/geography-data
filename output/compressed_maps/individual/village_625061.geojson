@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63164288951114,13.34882710218234],[77.63440424538743,13.36041693173191],[77.61540689853032,13.35341396448321],[77.6182550759587,13.3463868431101],[77.63164288951114,13.34882710218234]]]},"properties":{"region_id":"village_625061","name":"CHOWGONDANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

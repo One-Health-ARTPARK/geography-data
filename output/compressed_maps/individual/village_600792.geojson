@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44550792802558,16.17348691768658],[77.44840769191273,16.18515888725804],[77.43723534833914,16.18665771701286],[77.43599898430105,16.17628446659308],[77.44550792802558,16.17348691768658]]]},"properties":{"region_id":"village_600792","name":"GHOUSENAGAR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13038915303271,12.77601324289466],[76.12068182496412,12.77638758748106],[76.11882058449669,12.77042065354688],[76.12611454524921,12.7680505826124],[76.13038915303271,12.77601324289466]]]},"properties":{"region_id":"village_616603","name":"CHIKKANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

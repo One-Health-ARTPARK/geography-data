@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28157403915908,13.34355023623042],[77.26780073807275,13.34742540949219],[77.2711910350757,13.33789372282288],[77.28157403915908,13.34355023623042]]]},"properties":{"region_id":"village_611419","name":"OJENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

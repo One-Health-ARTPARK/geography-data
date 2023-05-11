@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9620161393167,12.51945926293569],[75.95731903173898,12.51441036516099],[75.9620213659493,12.50738900144968],[75.96629919074591,12.51032040457709],[75.9620161393167,12.51945926293569]]]},"properties":{"region_id":"village_939032","name":"RAMPURA","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

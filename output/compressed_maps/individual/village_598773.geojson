@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46403882299764,16.19765980046886],[75.47767981841301,16.19618872369411],[75.49074875519439,16.22688425191759],[75.47562372540717,16.22455680492683],[75.46403882299764,16.19765980046886]]]},"properties":{"region_id":"village_598773","name":"ANKALAGI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

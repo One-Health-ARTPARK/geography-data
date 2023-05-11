@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98948016612104,12.42048670886071],[75.98715182258053,12.43042957169856],[75.9742195925428,12.42635327800582],[75.98199780815398,12.41635398241624],[75.98948016612104,12.42048670886071]]]},"properties":{"region_id":"village_618278","name":"LAXMIPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

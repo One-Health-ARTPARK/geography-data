@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93099222891892,16.93259157622385],[75.88626093955696,16.93463436064453],[75.88034691546484,16.89285826078499],[75.94810077294392,16.89065179973023],[75.93099222891892,16.93259157622385]]]},"properties":{"region_id":"village_599080","name":"JAMBAGI(A)","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

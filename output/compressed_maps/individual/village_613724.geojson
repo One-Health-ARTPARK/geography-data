@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7628520455879,12.99441894158777],[76.75594225155919,12.98127474941737],[76.76584741233633,12.97140189452186],[76.76706356506669,12.99103567194634],[76.7628520455879,12.99441894158777]]]},"properties":{"region_id":"village_613724","name":"KARIJEERANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

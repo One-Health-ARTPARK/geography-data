@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00790529823487,15.80382643932836],[74.99677183160345,15.80340829508288],[74.99973085788108,15.78945043467986],[75.00899195128603,15.78932644170687],[75.00790529823487,15.80382643932836]]]},"properties":{"region_id":"village_598222","name":"GOVANAKOPPA K.Y.","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

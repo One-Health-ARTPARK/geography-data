@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08540352542398,13.92926245335195],[75.07948760113402,13.91874014923933],[75.09329259485072,13.91520709827065],[75.09349331923336,13.92077368278975],[75.08563387553407,13.92193972339217],[75.08540352542398,13.92926245335195]]]},"properties":{"region_id":"village_607878","name":"MAVINAKOPPA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

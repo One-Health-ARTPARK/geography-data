@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83475882432325,14.35340003487575],[75.82979732872865,14.34416246328144],[75.8381022122515,14.33729730696514],[75.84385553391301,14.34719779854662],[75.83475882432325,14.35340003487575]]]},"properties":{"region_id":"village_606576","name":"JADAGANAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

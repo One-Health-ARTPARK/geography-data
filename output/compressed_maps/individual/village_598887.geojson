@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99583935953365,16.05995724548684],[75.99826598512831,16.07645525876584],[75.96323295829066,16.06261454213611],[75.97653506990923,16.04770457183438],[75.99583935953365,16.05995724548684]]]},"properties":{"region_id":"village_598887","name":"RAKKASAGI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

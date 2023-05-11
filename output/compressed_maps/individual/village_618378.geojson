@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26146876620247,12.23194690903938],[76.25657450013122,12.24082459391905],[76.24515576668622,12.24300642268618],[76.24549399395312,12.23061074323625],[76.26146876620247,12.23194690903938]]]},"properties":{"region_id":"village_618378","name":"PENJAHALLIKAVAL","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

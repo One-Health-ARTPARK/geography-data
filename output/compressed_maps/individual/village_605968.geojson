@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41926143923585,13.68961702108755],[76.40196112115389,13.69078409699756],[76.40022741374311,13.68205169208214],[76.4156517560578,13.68277781302599],[76.41926143923585,13.68961702108755]]]},"properties":{"region_id":"village_605968","name":"BACHAVARA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

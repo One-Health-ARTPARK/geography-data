@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.3306680793073,14.67097666339234],[74.32278466442585,14.68270916961167],[74.3161546554656,14.67342292985662],[74.3306680793073,14.67097666339234]]]},"properties":{"region_id":"village_603331","name":"BALEGULI","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

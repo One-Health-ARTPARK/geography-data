@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01772213026007,15.74322072399546],[76.0070376500504,15.74387426021898],[76.0047611175084,15.71574122108664],[76.02119654712979,15.71682531380853],[76.01772213026007,15.74322072399546]]]},"properties":{"region_id":"village_601981","name":"GOGERI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

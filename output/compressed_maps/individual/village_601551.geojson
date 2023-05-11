@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37527020989327,15.66743378506963],[76.35662121139842,15.66321425340409],[76.35658008073914,15.63800053390708],[76.37749451199343,15.6417726160032],[76.37527020989327,15.66743378506963]]]},"properties":{"region_id":"village_601551","name":"LAYADHUNSI","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

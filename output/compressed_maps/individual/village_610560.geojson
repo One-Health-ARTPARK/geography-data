@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26457504472056,14.16359071790091],[77.24435179459492,14.15747083664748],[77.25712357201724,14.13936905507701],[77.26457504472056,14.16359071790091]]]},"properties":{"region_id":"village_610560","name":"KANIKALABANDE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

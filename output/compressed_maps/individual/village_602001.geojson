@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6379238838456,15.48651864082648],[75.61677153510855,15.50542470450167],[75.60895923160318,15.48269006804381],[75.6379238838456,15.48651864082648]]]},"properties":{"region_id":"village_602001","name":"CHIKKOPPA","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

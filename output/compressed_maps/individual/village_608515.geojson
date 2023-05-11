@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75249603710675,14.08479041895675],[75.73455318123142,14.0870403848403],[75.73007169753063,14.07316671678762],[75.75196662179721,14.07566011949006],[75.75249603710675,14.08479041895675]]]},"properties":{"region_id":"village_608515","name":"NIMBEGONDI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

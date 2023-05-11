@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0101844162486,12.13862284363383],[76.00440648176979,12.15386014138973],[75.98619617382695,12.14475442085655],[75.9933622564502,12.12763483703018],[76.0101844162486,12.13862284363383]]]},"properties":{"region_id":"village_618083","name":"NALLOOR","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

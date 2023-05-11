@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86478980074716,13.04043887431968],[76.85569714848296,13.0357245625619],[76.85539485108869,13.0258529736363],[76.8649127447497,13.03179317290424],[76.86478980074716,13.04043887431968]]]},"properties":{"region_id":"village_612451","name":"KODIPALYA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

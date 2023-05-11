@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69776534738243,12.85573227122254],[76.68681693988508,12.83861135596192],[76.70265824788257,12.83478238407915],[76.69776534738243,12.85573227122254]]]},"properties":{"region_id":"village_613757","name":"SHIVANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

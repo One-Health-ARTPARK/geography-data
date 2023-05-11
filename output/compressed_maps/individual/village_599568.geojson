@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07851283969794,16.45417554150889],[76.08023127129746,16.47668210426594],[76.04991729604184,16.46968261055145],[76.04366643178963,16.43367335157259],[76.07851283969794,16.45417554150889]]]},"properties":{"region_id":"village_599568","name":"ALKOPPA","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

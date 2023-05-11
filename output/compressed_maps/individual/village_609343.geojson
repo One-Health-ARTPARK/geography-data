@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83927170839523,13.58588709000799],[75.82438757401246,13.5951976850586],[75.82045052493343,13.57140102381228],[75.83609075705047,13.57552204286091],[75.83927170839523,13.58588709000799]]]},"properties":{"region_id":"village_609343","name":"GANGURU","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

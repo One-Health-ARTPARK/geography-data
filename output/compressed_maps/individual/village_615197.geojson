@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84681983863125,13.17863756896723],[75.82948578383414,13.18203862496014],[75.83708772882949,13.16884118203492],[75.84681983863125,13.17863756896723]]]},"properties":{"region_id":"village_615197","name":"DODDAMEDUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

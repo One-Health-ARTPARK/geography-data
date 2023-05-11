@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.3276478366539,15.73299917954469],[74.3150980158317,15.7331403920503],[74.31229712365176,15.70945147339082],[74.32778697875416,15.70669696891114],[74.3276478366539,15.73299917954469]]]},"properties":{"region_id":"village_597813","name":"TORALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

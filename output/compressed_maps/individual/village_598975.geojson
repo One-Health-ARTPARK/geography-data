@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09672328307121,16.01981630178001],[76.09433233775715,16.06712085010789],[76.07589478685233,16.06429985851995],[76.07496596666101,16.00958602754822],[76.09672328307121,16.01981630178001]]]},"properties":{"region_id":"village_598975","name":"AMARAWATI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

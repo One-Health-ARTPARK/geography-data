@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57304785225794,12.68891559487742],[76.57338407895435,12.66822968929772],[76.5868136691984,12.66677446663342],[76.58358384703696,12.67904547491925],[76.57304785225794,12.68891559487742]]]},"properties":{"region_id":"village_613485","name":"MYLANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

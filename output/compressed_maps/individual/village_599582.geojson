@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04366643178963,16.43367335157259],[76.02946758956007,16.40110727043588],[76.04863503664542,16.3953686590251],[76.04366643178963,16.43367335157259]]]},"properties":{"region_id":"village_599582","name":"GUNDAKARJAGI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

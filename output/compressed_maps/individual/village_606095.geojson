@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69762730875611,14.05608041181797],[76.66954373460389,14.05307573108029],[76.67479340921435,14.02867441016731],[76.70520047949141,14.03698323758308],[76.69762730875611,14.05608041181797]]]},"properties":{"region_id":"village_606095","name":"AMBALAGERE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

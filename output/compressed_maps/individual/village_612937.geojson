@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5750765750197,13.15421524076956],[77.55495732837855,13.15486160430724],[77.55051433417557,13.14723586602076],[77.57028105880083,13.14105619775751],[77.5750765750197,13.15421524076956]]]},"properties":{"region_id":"village_612937","name":"SINGANAYAKANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

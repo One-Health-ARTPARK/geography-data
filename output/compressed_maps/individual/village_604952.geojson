@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95366862708754,15.06597930385532],[76.94287247726966,15.04283129243466],[76.95142468830421,15.03586649864781],[76.96412763309,15.06305195759134],[76.95366862708754,15.06597930385532]]]},"properties":{"region_id":"village_604952","name":"BURRANAYAKANAHALLI","parent":"subdistrict_5500","parent_name":"BALLARI"}}
+]}

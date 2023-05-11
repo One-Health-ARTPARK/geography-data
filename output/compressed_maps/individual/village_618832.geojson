@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66964634400851,12.18064279884723],[76.68131025026562,12.19959678925147],[76.66150208611901,12.20864241107596],[76.6549450416701,12.1823489458818],[76.66964634400851,12.18064279884723]]]},"properties":{"region_id":"village_618832","name":"KADAKOLA (CT)","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02465577522376,12.79301808596867],[76.01361853418085,12.79242090791877],[76.01423841653668,12.78129641641208],[76.02236533417329,12.78221374681749],[76.02465577522376,12.79301808596867]]]},"properties":{"region_id":"village_616516","name":"BEEJAGHATTA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53529457736595,18.28545548360851],[77.52303957327331,18.28284145957853],[77.5114773811389,18.26444453432074],[77.53067996164914,18.24704472397718],[77.53529457736595,18.28545548360851]]]},"properties":{"region_id":"village_600072","name":"NAGMARPALLI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

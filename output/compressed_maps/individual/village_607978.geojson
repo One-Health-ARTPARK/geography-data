@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15445669618238,13.85418687685615],[75.1198058045056,13.85960353810436],[75.11421717055637,13.84047253644184],[75.12328534075898,13.82858008432386],[75.15445669618238,13.85418687685615]]]},"properties":{"region_id":"village_607978","name":"SONALE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

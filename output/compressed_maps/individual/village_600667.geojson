@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09121152654595,16.28228172258104],[77.07491763803627,16.28650367203051],[77.06491666143037,16.27354408688404],[77.04775258951318,16.23581675431997],[77.07503296064957,16.22732065263676],[77.09121152654595,16.28228172258104]]]},"properties":{"region_id":"village_600667","name":"RAMDURG","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

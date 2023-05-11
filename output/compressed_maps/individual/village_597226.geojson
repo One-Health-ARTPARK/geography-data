@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50804507768184,16.36863840345589],[74.48295108171364,16.36949484135898],[74.47159957431543,16.34038661131655],[74.50863409908413,16.33698688439608],[74.50804507768184,16.36863840345589]]]},"properties":{"region_id":"village_597226","name":"HATTARWAT","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82067459451962,12.94336387946832],[77.80469202141947,12.94354894179047],[77.81304950715416,12.93074540644113],[77.82067459451962,12.94336387946832]]]},"properties":{"region_id":"village_625740","name":"BYLAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

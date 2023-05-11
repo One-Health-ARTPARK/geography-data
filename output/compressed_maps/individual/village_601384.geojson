@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92919713943998,15.87937448322823],[75.92058666093979,15.88151462321355],[75.89330251408856,15.88035822838968],[75.89942957950235,15.87361417620778],[75.92919713943998,15.87937448322823]]]},"properties":{"region_id":"village_601384","name":"NIRLAKOPPA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9638921704072,13.14772825655621],[75.95229540641476,13.15336912301365],[75.95295897147474,13.14392921914484],[75.9638921704072,13.14772825655621]]]},"properties":{"region_id":"village_615337","name":"VEERAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

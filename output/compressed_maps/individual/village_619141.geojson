@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51764651111085,12.06526167108663],[76.503301627234,12.05501858237901],[76.51720602253664,12.04761152529004],[76.51764651111085,12.06526167108663]]]},"properties":{"region_id":"village_619141","name":"MANGALORE","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

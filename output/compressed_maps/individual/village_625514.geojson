@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80208716153543,13.13631350483063],[77.80329738101388,13.14956733014034],[77.7863549261338,13.14698488351443],[77.80208716153543,13.13631350483063]]]},"properties":{"region_id":"village_625514","name":"M.SATHYAWARA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.40000989807211,15.7160467685046],[74.39415856240564,15.73406403024732],[74.3778315203439,15.72767406418115],[74.37825747020628,15.71272939266466],[74.40000989807211,15.7160467685046]]]},"properties":{"region_id":"village_597824","name":"KUSAMALLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45715059832867,13.78718422327018],[75.45536473760066,13.8064359681932],[75.42333435928163,13.78580773224554],[75.44894253527893,13.77514517028198],[75.45715059832867,13.78718422327018]]]},"properties":{"region_id":"village_608133","name":"KULUNDE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

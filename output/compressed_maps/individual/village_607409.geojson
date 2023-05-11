@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1748157818155,14.59774516446516],[75.18141573686837,14.62592031921892],[75.1694172788688,14.6346062956429],[75.16057927655909,14.60497457024696],[75.1748157818155,14.59774516446516]]]},"properties":{"region_id":"village_607409","name":"THORAVANDA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

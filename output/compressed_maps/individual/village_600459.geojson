@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7278887113399,16.33516128270714],[76.69216335832607,16.34240995794259],[76.68083633426933,16.31506023732005],[76.73202825468826,16.30889891963816],[76.7278887113399,16.33516128270714]]]},"properties":{"region_id":"village_600459","name":"YARJANTI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73628885410348,13.3369504317577],[74.72958462583557,13.34825482983933],[74.72026494343922,13.34545225642329],[74.72723297000502,13.33622955073852],[74.73628885410348,13.3369504317577]]]},"properties":{"region_id":"village_608861","name":"AMBALPADY (OG)","parent":"subdistrict_5523","parent_name":"UDUPI"}}
+]}

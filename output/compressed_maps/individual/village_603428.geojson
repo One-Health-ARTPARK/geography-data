@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.37770484551612,14.54958326667801],[74.36180125996647,14.55197539197988],[74.35934978609107,14.54247237584686],[74.37461543364653,14.54082076778091],[74.37770484551612,14.54958326667801]]]},"properties":{"region_id":"village_603428","name":"MIDLAGAZANI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

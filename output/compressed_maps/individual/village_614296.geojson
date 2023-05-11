@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7195877067242,12.39923850508683],[76.7028046139774,12.39930775205984],[76.69050375207625,12.39292620742756],[76.70986474096873,12.37787005698316],[76.71041298012551,12.3870169697183],[76.7195877067242,12.39923850508683]]]},"properties":{"region_id":"village_614296","name":"CHANDAGALU","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

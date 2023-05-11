@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46865361562922,12.62759686273782],[76.45018926083344,12.63232289742876],[76.4581298048398,12.61212478445158],[76.46865361562922,12.62759686273782]]]},"properties":{"region_id":"village_613573","name":"KOMMENAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23844224144214,14.93855912756362],[75.23128286954541,14.9365647014373],[75.23267376107961,14.91640628875664],[75.24674464285789,14.92904137575526],[75.23844224144214,14.93855912756362]]]},"properties":{"region_id":"village_603960","name":"NARAYANAPURA","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03274188838326,16.35714544854186],[74.98136622345054,16.358177349291],[74.98386584201855,16.33177994059014],[75.00254416982821,16.33576544549096],[75.03274188838326,16.35714544854186]]]},"properties":{"region_id":"village_597420","name":"SHIVAPUR","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

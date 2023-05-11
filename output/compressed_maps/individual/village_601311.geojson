@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12571382204575,15.58980000726912],[76.12623318734596,15.56858108434206],[76.16158856140713,15.57486697172892],[76.15587801441484,15.58741348235823],[76.12571382204575,15.58980000726912]]]},"properties":{"region_id":"village_601311","name":"GUTTUR","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

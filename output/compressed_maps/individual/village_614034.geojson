@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70316710258548,12.70486040795511],[76.68297735981474,12.7093688329385],[76.6832249796848,12.69906836684551],[76.70316710258548,12.70486040795511]]]},"properties":{"region_id":"village_614034","name":"CHINYA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

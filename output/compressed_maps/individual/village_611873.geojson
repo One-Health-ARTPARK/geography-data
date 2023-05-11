@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83366138535848,13.28773482592991],[76.82425851955513,13.28681091185531],[76.83096773417859,13.27113675096078],[76.83797133556124,13.27872829453455],[76.83366138535848,13.28773482592991]]]},"properties":{"region_id":"village_611873","name":"B.KODIHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

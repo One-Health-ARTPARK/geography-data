@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58958757167443,11.80925078570725],[76.553614329057,11.81564478340107],[76.55241553479468,11.79812366649584],[76.57324431382813,11.79288412940844],[76.58958757167443,11.80925078570725]]]},"properties":{"region_id":"village_619496","name":"HONGAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53263280178463,17.52434336671005],[76.51964115723015,17.54324438352785],[76.51381534215786,17.52434537748872],[76.53263280178463,17.52434336671005]]]},"properties":{"region_id":"village_620030","name":"GULHALLI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

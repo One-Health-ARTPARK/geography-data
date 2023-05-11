@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73522901462287,13.33220448528387],[77.72565099648543,13.33682491503941],[77.72439725041747,13.32257438553189],[77.73369012941981,13.32347180872861],[77.73522901462287,13.33220448528387]]]},"properties":{"region_id":"village_625315","name":"VENKATAGIRIKOTE","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

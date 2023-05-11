@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76470432712567,15.81149555710596],[76.76412738428832,15.84626818657947],[76.74446049839742,15.80335419918152],[76.76470432712567,15.81149555710596]]]},"properties":{"region_id":"village_601131","name":"BUTALDINNI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

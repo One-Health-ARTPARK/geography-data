@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97844487981868,13.3759225071368],[76.96315581117511,13.37471595778086],[76.96502695259332,13.36624099327539],[76.98130630841084,13.36768728831219],[76.97844487981868,13.3759225071368]]]},"properties":{"region_id":"village_611815","name":"CHOWKENAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

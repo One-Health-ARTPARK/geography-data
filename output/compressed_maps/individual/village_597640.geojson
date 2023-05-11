@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42991459682784,16.11162028208321],[74.41703508330772,16.10663406247527],[74.42218611639173,16.07852249954886],[74.42951713916472,16.08409683058597],[74.42991459682784,16.11162028208321]]]},"properties":{"region_id":"village_597640","name":"KOT","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42417808072425,16.40012087460944],[75.39019677830804,16.40131812561761],[75.39649294766832,16.38208032725444],[75.42606028814785,16.37195746944447],[75.42417808072425,16.40012087460944]]]},"properties":{"region_id":"village_598473","name":"AMALZARI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

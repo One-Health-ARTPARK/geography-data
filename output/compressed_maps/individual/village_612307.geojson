@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76585820770225,13.20438429802573],[76.75336141078736,13.19437577623807],[76.76555827588938,13.18115393137675],[76.76585820770225,13.20438429802573]]]},"properties":{"region_id":"village_612307","name":"DOMBARANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

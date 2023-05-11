@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70549482362567,14.85123063124446],[74.65983698748437,14.85342655160474],[74.66695032882893,14.82954685958929],[74.70549482362567,14.85123063124446]]]},"properties":{"region_id":"village_602928","name":"KELASHI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

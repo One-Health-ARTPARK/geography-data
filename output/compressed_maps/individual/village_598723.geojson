@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45893336526603,15.88728867853875],[75.46376127185097,15.91531860484796],[75.4549717519114,15.91995290328352],[75.44453487341559,15.89372472940457],[75.45893336526603,15.88728867853875]]]},"properties":{"region_id":"village_598723","name":"HAGANUR","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

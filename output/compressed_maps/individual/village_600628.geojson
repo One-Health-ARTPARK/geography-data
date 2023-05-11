@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01697861560324,16.41302632984042],[76.99432195048595,16.4192686089107],[76.98794815997934,16.40485503651107],[77.01140657193618,16.40345930372802],[77.01697861560324,16.41302632984042]]]},"properties":{"region_id":"village_600628","name":"YERMASAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

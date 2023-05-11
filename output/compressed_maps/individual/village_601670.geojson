@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56497072733693,15.62786686071191],[76.54948274186135,15.64027468617977],[76.5374826081024,15.62623355569404],[76.56146858388206,15.62161674514962],[76.56497072733693,15.62786686071191]]]},"properties":{"region_id":"village_601670","name":"ADAPURA","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

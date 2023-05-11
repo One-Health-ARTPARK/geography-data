@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56106096609747,13.29516463609014],[75.51792136189104,13.22310969771695],[75.57646482860466,13.25133725510416],[75.56106096609747,13.29516463609014]]]},"properties":{"region_id":"village_609673","name":"SARAGODU","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

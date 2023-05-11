@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81755495799531,12.92197936303779],[77.82965620965442,12.91965315626447],[77.8318426477236,12.92562206916229],[77.8223225197887,12.92871802603005],[77.81755495799531,12.92197936303779]]]},"properties":{"region_id":"village_613242","name":"DESHAPANDE GUTTAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

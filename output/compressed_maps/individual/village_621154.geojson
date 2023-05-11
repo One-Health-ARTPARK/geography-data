@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11309938263891,16.68753167060329],[77.09269655649942,16.66716192257815],[77.10320250929914,16.65076064785127],[77.13141744920999,16.66067647811228],[77.11309938263891,16.68753167060329]]]},"properties":{"region_id":"village_621154","name":"GADDESUGUR","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75062351300372,12.92126661124371],[76.74835032075278,12.92996276780209],[76.73386443709109,12.92464051842987],[76.75062351300372,12.92126661124371]]]},"properties":{"region_id":"village_613840","name":"VADERAPURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

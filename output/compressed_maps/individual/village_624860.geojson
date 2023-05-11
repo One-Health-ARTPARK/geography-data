@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37720327090156,13.16583272627683],[77.36792386167495,13.16872713451817],[77.36221017344357,13.1626293299193],[77.37507571763557,13.15831709718396],[77.37720327090156,13.16583272627683]]]},"properties":{"region_id":"village_624860","name":"MANDIGERE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

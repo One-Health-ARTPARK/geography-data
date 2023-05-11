@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90688740679691,13.188657723374],[76.8956382144055,13.1908587457956],[76.89351996255608,13.18178460802214],[76.9085602625083,13.18249155259628],[76.90688740679691,13.188657723374]]]},"properties":{"region_id":"village_611915","name":"KENCHAVIRANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

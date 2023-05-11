@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31521494653144,14.11175332946296],[76.29652300906167,14.12178543982251],[76.2823469120808,14.09689112821875],[76.31417780520493,14.09615658046949],[76.31521494653144,14.11175332946296]]]},"properties":{"region_id":"village_605770","name":"BANJAGONDANAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35530832788781,13.29278605514949],[77.33555540247822,13.27499398053227],[77.34244931919704,13.25942967394727],[77.36710653324627,13.26397326034716],[77.35530832788781,13.29278605514949]]]},"properties":{"region_id":"village_625008","name":"HULIKUNTE STATE FOREST","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

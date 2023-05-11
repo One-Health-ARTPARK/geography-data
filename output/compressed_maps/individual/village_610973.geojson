@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31867540789464,13.66086997980182],[77.31754271285389,13.64820335885375],[77.33296129070801,13.6485826824477],[77.33054187095391,13.66065341664714],[77.31867540789464,13.66086997980182]]]},"properties":{"region_id":"village_610973","name":"HANDRALU","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

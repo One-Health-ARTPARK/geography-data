@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89999358420408,14.5301754822401],[74.88173847820302,14.52415464464781],[74.89309567961722,14.50759281623189],[74.90237525740163,14.51551533123847],[74.89999358420408,14.5301754822401]]]},"properties":{"region_id":"village_603599","name":"SHIGEHALLI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

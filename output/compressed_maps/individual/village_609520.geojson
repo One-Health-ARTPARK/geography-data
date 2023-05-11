@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07682214136601,13.53909091458532],[76.06694393551531,13.54439737594222],[76.06141265411146,13.53636747266927],[76.07387254283276,13.53249825684012],[76.07682214136601,13.53909091458532]]]},"properties":{"region_id":"village_609520","name":"CHIKKATANGLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

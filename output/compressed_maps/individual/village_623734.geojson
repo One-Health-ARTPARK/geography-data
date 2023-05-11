@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7757838413524,13.72320699682177],[77.76640638809005,13.72151537884987],[77.76459910095778,13.70815332784215],[77.77841370767871,13.70660924697172],[77.78804527700618,13.71570362104236],[77.7757838413524,13.72320699682177]]]},"properties":{"region_id":"village_623734","name":"CHENDUR","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

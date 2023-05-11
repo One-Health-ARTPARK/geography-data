@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80936296441813,13.1064199806453],[76.78627642087984,13.1080682447784],[76.78933356873311,13.10006360605333],[76.80936296441813,13.1064199806453]]]},"properties":{"region_id":"village_612389","name":"CHIKKAMALLIGERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

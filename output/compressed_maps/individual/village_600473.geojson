@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6961380288966,16.26631802618625],[76.67393913885414,16.28260787081825],[76.65968472559358,16.25531823111368],[76.69702824254571,16.24041460983219],[76.6961380288966,16.26631802618625]]]},"properties":{"region_id":"village_600473","name":"GOUDUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

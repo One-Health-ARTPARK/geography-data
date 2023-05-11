@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74582652610184,15.30262830401809],[74.75148906274818,15.31598670774615],[74.73876677950179,15.31778938479092],[74.73817975427255,15.30688040268008],[74.74582652610184,15.30262830401809]]]},"properties":{"region_id":"village_602810","name":"HALSI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

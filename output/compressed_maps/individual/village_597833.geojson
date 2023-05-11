@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.43585649182586,15.66199453861649],[74.4190370237604,15.65014688020084],[74.41785580584992,15.63242120127882],[74.43950092128209,15.63475644064561],[74.43585649182586,15.66199453861649]]]},"properties":{"region_id":"village_597833","name":"AMBOLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

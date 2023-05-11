@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51278743502763,14.47521345166662],[75.49777702677885,14.44501288268038],[75.51986093807916,14.43950931987787],[75.51278743502763,14.47521345166662]]]},"properties":{"region_id":"village_604431","name":"MAKARI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

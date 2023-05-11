@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57666539697482,14.60603785308248],[76.54175168432941,14.60864433990031],[76.550447759277,14.57841288572157],[76.57666539697482,14.60603785308248]]]},"properties":{"region_id":"village_605137","name":"THIPPEHALLI","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

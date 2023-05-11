@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66997396177351,17.15277477687211],[76.63591892647702,17.08900112663003],[76.70055570295587,17.08795530533479],[76.68419361759872,17.13964154233074],[76.66997396177351,17.15277477687211]]]},"properties":{"region_id":"village_620308","name":"HERUR (B)","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

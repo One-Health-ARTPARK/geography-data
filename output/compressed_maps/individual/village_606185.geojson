@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70971547660038,13.85450526172106],[76.66777837654733,13.83811950120384],[76.70392097992945,13.81178642521797],[76.70971547660038,13.85450526172106]]]},"properties":{"region_id":"village_606185","name":"KATANAYAKANAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

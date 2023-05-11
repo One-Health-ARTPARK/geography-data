@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24829810254923,18.12247984820239],[77.26174248916824,18.15432326650642],[77.23615204304298,18.15679762665878],[77.24829810254923,18.12247984820239]]]},"properties":{"region_id":"village_599871","name":"ALANDI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

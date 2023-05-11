@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86771152309589,15.86496952406922],[76.87223509083766,15.88603764353424],[76.8853083512981,15.92239879999594],[76.86739977538174,15.921417766273],[76.85444430480824,15.87448416153382],[76.86771152309589,15.86496952406922]]]},"properties":{"region_id":"village_601161","name":"BANNIGANUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

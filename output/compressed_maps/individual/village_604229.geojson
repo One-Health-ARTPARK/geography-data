@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54163778506475,14.82815475308025],[75.51210673555913,14.85249509163976],[75.51201149689345,14.82417427564758],[75.54163778506475,14.82815475308025]]]},"properties":{"region_id":"village_604229","name":"BASAVANAKATTI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

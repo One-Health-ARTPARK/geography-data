@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21903199233716,13.81143943830305],[76.18197458447347,13.80210404979578],[76.17652614604438,13.78277708261338],[76.21933093105989,13.79659588776488],[76.21903199233716,13.81143943830305]]]},"properties":{"region_id":"village_605861","name":"NEERAGUNDA KAVAL","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

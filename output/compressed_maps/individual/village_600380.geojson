@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34506658749766,15.90077058224711],[76.33774474430061,15.87155071787575],[76.35546818566948,15.86540385336343],[76.35692568303905,15.89735176769505],[76.34506658749766,15.90077058224711]]]},"properties":{"region_id":"village_600380","name":"ARYA-BHOGAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

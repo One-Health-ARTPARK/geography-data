@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5139214134252,12.47384206199913],[77.50017998294544,12.48635548712744],[77.49322011884024,12.47261714990577],[77.50840142072131,12.46448297268519],[77.5139214134252,12.47384206199913]]]},"properties":{"region_id":"village_626583","name":"DODDAGULI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

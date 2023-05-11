@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79566137777124,13.03455561492112],[77.78885791000414,13.03398474206626],[77.7898418858666,13.02450999714355],[77.80325283604651,13.02772479965515],[77.79566137777124,13.03455561492112]]]},"properties":{"region_id":"village_625716","name":"POOJENA AGRAHARA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

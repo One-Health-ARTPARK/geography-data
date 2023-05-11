@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1765589897524,14.93475411353346],[75.16263230190137,14.93597996940174],[75.16219577473743,14.92990153877938],[75.17411448519022,14.92887242245111],[75.1765589897524,14.93475411353346]]]},"properties":{"region_id":"village_603939","name":"MANCHINKOP","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4867057560723,15.72358417921992],[74.4850777761519,15.73649771717408],[74.47042965813436,15.72977716934959],[74.47252471305285,15.72343289813871],[74.4867057560723,15.72358417921992]]]},"properties":{"region_id":"village_939171","name":"SUSAGONDANAHALLI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

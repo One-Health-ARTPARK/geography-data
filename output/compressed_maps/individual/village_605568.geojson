@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28048774943309,14.18641976863933],[76.26233752028577,14.18422919704254],[76.26465857154194,14.17097045828142],[76.28191606452809,14.17969255648666],[76.28048774943309,14.18641976863933]]]},"properties":{"region_id":"village_605568","name":"BETTADANAGENAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

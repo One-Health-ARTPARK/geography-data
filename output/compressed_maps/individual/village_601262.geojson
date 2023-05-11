@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03365412173876,15.64219324734908],[75.97420251703792,15.6354566577444],[75.96590659114658,15.61569848423457],[75.97816215328974,15.59179855390359],[76.02945206559437,15.58061862808376],[76.03365412173876,15.64219324734908]]]},"properties":{"region_id":"village_601262","name":"YELBURGA","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

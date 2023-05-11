@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04926113399085,13.08507123323031],[77.03780313734148,13.08939582501873],[77.02940592827778,13.08561988789651],[77.0364198789626,13.07659298062251],[77.04926113399085,13.08507123323031]]]},"properties":{"region_id":"village_612511","name":"KURUDIHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

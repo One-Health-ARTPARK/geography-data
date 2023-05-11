@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.40656361769503,16.31281933589822],[74.38509737345092,16.27747285907734],[74.41355041754399,16.28357947027449],[74.40656361769503,16.31281933589822]]]},"properties":{"region_id":"village_597554","name":"KONANKERI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

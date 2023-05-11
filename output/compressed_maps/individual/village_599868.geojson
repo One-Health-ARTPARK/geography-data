@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11604992103592,18.11723847993303],[77.10671519886496,18.1164280581058],[77.09017270709853,18.1012820145943],[77.10758753867145,18.08810892485149],[77.11604992103592,18.11723847993303]]]},"properties":{"region_id":"village_599868","name":"THAMGYAL WADI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

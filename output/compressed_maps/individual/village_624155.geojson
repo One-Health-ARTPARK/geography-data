@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95387870424865,13.436508431794],[77.95225481521005,13.44341404049471],[77.94832583972298,13.44492914998614],[77.94656838488527,13.43530309272812],[77.95387870424865,13.436508431794]]]},"properties":{"region_id":"village_624155","name":"DONAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

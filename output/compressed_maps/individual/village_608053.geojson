@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15810610079592,13.69610665574334],[75.12543926894986,13.67793042972925],[75.09893750451315,13.65137399348571],[75.1354036410468,13.64720441733929],[75.1394895797919,13.67910363981888],[75.15810610079592,13.69610665574334]]]},"properties":{"region_id":"village_608053","name":"KATTEKOPPA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

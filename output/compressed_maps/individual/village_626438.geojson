@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32900487135855,12.5728526456351],[77.32197684274999,12.57937825075726],[77.31291718100965,12.57686686728024],[77.31745044131831,12.56912631586895],[77.32900487135855,12.5728526456351]]]},"properties":{"region_id":"village_626438","name":"BASAVANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

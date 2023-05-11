@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60099705630168,16.83479213847254],[76.5784212324049,16.83828758645378],[76.57285316157711,16.80418313531956],[76.59603997767326,16.80404228851991],[76.60099705630168,16.83479213847254]]]},"properties":{"region_id":"village_620792","name":"HANGERGA (K)","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

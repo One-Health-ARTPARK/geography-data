@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21159794849824,14.32284032823939],[75.18027215094374,14.30176609025454],[75.18893848623246,14.28205837601573],[75.21131383706263,14.30312731885145],[75.21159794849824,14.32284032823939]]]},"properties":{"region_id":"village_607666","name":"INDUVALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

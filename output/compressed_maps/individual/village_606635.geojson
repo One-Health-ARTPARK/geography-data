@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11003667175997,14.4005138914072],[76.10042898907525,14.41111610138857],[76.09199930877266,14.40386176874764],[76.09587035920806,14.39356840892565],[76.11003667175997,14.4005138914072]]]},"properties":{"region_id":"village_606635","name":"HOSAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

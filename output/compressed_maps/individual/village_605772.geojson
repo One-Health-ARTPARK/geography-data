@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27068789388028,14.07560043200723],[76.3010975011689,14.0804644895553],[76.29570415722746,14.09328524863719],[76.26771285027876,14.09051670250655],[76.27068789388028,14.07560043200723]]]},"properties":{"region_id":"village_605772","name":"ECHAGHATTA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

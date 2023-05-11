@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12963793174255,13.13796446676598],[77.11807265095457,13.14101814572567],[77.11601248944615,13.13138541330256],[77.13293470083156,13.12774461251684],[77.12963793174255,13.13796446676598]]]},"properties":{"region_id":"village_625763","name":"VIRUPAPURA","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

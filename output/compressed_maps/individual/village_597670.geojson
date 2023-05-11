@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.485646383102,16.0434286802756],[74.46326535812683,16.04158023164826],[74.44726372625999,16.00576894048467],[74.47739169574332,16.00787471784421],[74.485646383102,16.0434286802756]]]},"properties":{"region_id":"village_597670","name":"NINGENHATTI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95126575688504,16.00634179100479],[75.97348009438963,15.99274121853766],[75.97228510446156,16.01635171169644],[75.95126575688504,16.00634179100479]]]},"properties":{"region_id":"village_598889","name":"GORJNAL","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

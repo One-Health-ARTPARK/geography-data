@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71141305771603,11.89567153758585],[76.69083876604124,11.8897648822566],[76.70715340895075,11.87524965366298],[76.71141305771603,11.89567153758585]]]},"properties":{"region_id":"village_619474","name":"HAKKALAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

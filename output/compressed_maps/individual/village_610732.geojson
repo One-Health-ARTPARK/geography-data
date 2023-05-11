@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13608609474348,13.75139868436461],[77.13693797517412,13.75847669904704],[77.12732245727393,13.75985939680445],[77.12609004118463,13.7519991091056],[77.13608609474348,13.75139868436461]]]},"properties":{"region_id":"village_610732","name":"MANDATHIMMANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

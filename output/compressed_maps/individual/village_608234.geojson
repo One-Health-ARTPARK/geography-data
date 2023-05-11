@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38739907200309,13.70037748083113],[75.37818435141097,13.71093270650539],[75.35778620630242,13.70458782046422],[75.36734588783075,13.68883125189684],[75.38739907200309,13.70037748083113]]]},"properties":{"region_id":"village_608234","name":"MUNDUVALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

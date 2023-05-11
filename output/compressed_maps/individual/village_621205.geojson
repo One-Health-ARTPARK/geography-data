@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11557416583352,16.55917567516945],[77.05311220518205,16.5283916061505],[77.09693391088747,16.49369733960986],[77.11557416583352,16.55917567516945]]]},"properties":{"region_id":"village_621205","name":"TUMKUR","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

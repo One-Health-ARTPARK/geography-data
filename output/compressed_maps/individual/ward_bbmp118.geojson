@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57730499983626,12.95626100028058],[77.58527500019602,12.95401500038384],[77.59020899975185,12.96272000004556],[77.58681300037298,12.96554400040134],[77.58213599968843,12.95775999959187],[77.57730499983626,12.95626100028058]]]},"properties":{"region_id":"ward_bbmp118","name":"WARD NO.118 (SUDHAM NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24935324744206,12.40603177952036],[76.24950846008728,12.40351299133081],[76.25284121073754,12.40103317818891],[76.25361316850956,12.40333870830622],[76.25204397497207,12.40588359257724],[76.24935324744206,12.40603177952036]]]},"properties":{"region_id":"village_618309","name":"MARURKAVAL","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

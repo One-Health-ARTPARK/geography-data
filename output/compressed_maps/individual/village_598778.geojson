@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54857542720184,16.22956754995358],[75.5369353432345,16.20565228378645],[75.56409566125257,16.19872955128587],[75.54857542720184,16.22956754995358]]]},"properties":{"region_id":"village_598778","name":"DEVANAL","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

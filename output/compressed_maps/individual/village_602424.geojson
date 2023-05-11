@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07894541665772,15.24156678284173],[75.06300961963775,15.2305753926712],[75.0759631777213,15.20958821063494],[75.10024952251054,15.22104104544979],[75.07894541665772,15.24156678284173]]]},"properties":{"region_id":"village_602424","name":"KURDIKERI","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

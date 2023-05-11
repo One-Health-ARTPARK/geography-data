@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47664784978102,13.40521218352612],[77.48818718091448,13.40990234904741],[77.48851387637774,13.42438920237624],[77.4750416700625,13.41376318161202],[77.47664784978102,13.40521218352612]]]},"properties":{"region_id":"village_625148","name":"BOMMANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

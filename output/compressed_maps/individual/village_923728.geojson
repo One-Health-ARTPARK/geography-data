@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.57735392299385,16.15619493422323],[74.56452518783657,16.16087556574847],[74.5658754885853,16.14521699921738],[74.57735392299385,16.15619493422323]]]},"properties":{"region_id":"village_923728","name":"WADISHIDLIHAL","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

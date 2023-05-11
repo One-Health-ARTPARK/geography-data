@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30369615059622,12.62174016792577],[76.29249057039523,12.62678011380932],[76.28989778779213,12.6094037041229],[76.29759218158917,12.61009863093738],[76.30369615059622,12.62174016792577]]]},"properties":{"region_id":"village_618539","name":"KUPPAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

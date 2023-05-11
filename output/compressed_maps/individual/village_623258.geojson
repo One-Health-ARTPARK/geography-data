@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51848885770792,13.60448866999974],[77.50172474322552,13.6081886019514],[77.50250825042448,13.58771378698704],[77.51577344466665,13.58960919650062],[77.51848885770792,13.60448866999974]]]},"properties":{"region_id":"village_623258","name":"MADANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

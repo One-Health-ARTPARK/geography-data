@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80497235279468,14.62793455386312],[74.79699309483068,14.62350473901186],[74.81981291340652,14.60188956501567],[74.82486143105764,14.61977748432467],[74.80497235279468,14.62793455386312]]]},"properties":{"region_id":"village_603222","name":"MANAJAVALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

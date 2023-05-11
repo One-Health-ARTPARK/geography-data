@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36509478827205,13.42655630612585],[77.35964124721151,13.43839514207957],[77.35250343695796,13.4368020216605],[77.35380184031916,13.42643491819604],[77.36509478827205,13.42655630612585]]]},"properties":{"region_id":"village_611192","name":"UPASAPURA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

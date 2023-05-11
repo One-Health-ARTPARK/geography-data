@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19547582753665,15.75181427744066],[75.19446546998054,15.76314780960919],[75.16859994953046,15.76750626463156],[75.16720317232331,15.76086377502253],[75.19547582753665,15.75181427744066]]]},"properties":{"region_id":"village_598250","name":"HARLAPUR","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

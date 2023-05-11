@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89405214348008,13.0235496088922],[75.87864128160852,13.02534782036019],[75.88722230056804,13.01156424499024],[75.89405214348008,13.0235496088922]]]},"properties":{"region_id":"village_615418","name":"HIRIVATE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

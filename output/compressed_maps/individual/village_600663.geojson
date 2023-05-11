@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1043298883991,16.30095535270624],[77.08199167145146,16.30189669060926],[77.09180326817469,16.29059077295182],[77.1043298883991,16.30095535270624]]]},"properties":{"region_id":"village_600663","name":"ANDANKHED","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

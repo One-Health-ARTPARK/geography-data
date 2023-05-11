@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74707229433885,11.87035017118102],[76.74728841205258,11.88119501068285],[76.7330928858399,11.88602008323442],[76.73215181986562,11.86940769469749],[76.74707229433885,11.87035017118102]]]},"properties":{"region_id":"village_619479","name":"SAMPIGEPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

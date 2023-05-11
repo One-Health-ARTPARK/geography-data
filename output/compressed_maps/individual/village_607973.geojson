@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1176529546576,13.85797799707902],[75.08807695674948,13.86773230790979],[75.08261902767954,13.8551049698374],[75.11419149800416,13.84046484453463],[75.1176529546576,13.85797799707902]]]},"properties":{"region_id":"village_607973","name":"THRINIVE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

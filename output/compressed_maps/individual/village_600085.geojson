@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49299487428118,18.19676318740796],[77.46823010414438,18.19683082596863],[77.46917879001847,18.18049374379957],[77.49076680329827,18.176429877564],[77.49299487428118,18.19676318740796]]]},"properties":{"region_id":"village_600085","name":"LINGADHALLI(KARAMUNGI)","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

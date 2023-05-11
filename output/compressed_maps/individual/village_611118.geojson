@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28372496814069,13.53452576504075],[77.27507058621497,13.52213509210398],[77.28935479195152,13.51851329944372],[77.28372496814069,13.53452576504075]]]},"properties":{"region_id":"village_611118","name":"BIDALOTI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

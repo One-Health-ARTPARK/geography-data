@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98678810638515,13.36725895750319],[77.97623508333896,13.36979376938184],[77.97958258665001,13.35900118817531],[77.98678810638515,13.36725895750319]]]},"properties":{"region_id":"village_624589","name":"BODAGURU","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

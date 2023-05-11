@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67851976120357,13.01310193033904],[76.66966606108744,13.01348923626297],[76.66764062262074,13.0008379002745],[76.67163928098468,12.99955417382816],[76.67851976120357,13.01310193033904]]]},"properties":{"region_id":"village_613692","name":"MAILANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

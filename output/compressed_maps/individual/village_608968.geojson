@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23367276170231,13.53632999346594],[75.23239769536258,13.54636768661521],[75.22475452594405,13.54663604378033],[75.22160039875061,13.5386229288043],[75.23367276170231,13.53632999346594]]]},"properties":{"region_id":"village_608968","name":"HONAGARU","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53283770508543,12.59805190620792],[76.5232796079845,12.59764145188667],[76.5236640376865,12.58340360956399],[76.5298989035353,12.58281561298093],[76.53283770508543,12.59805190620792]]]},"properties":{"region_id":"village_613638","name":"BANNANAKERE","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02335044305163,14.32820913728195],[76.00290529972436,14.32556334141333],[76.00271500724801,14.31679786274697],[76.01866810489538,14.31875342772429],[76.02335044305163,14.32820913728195]]]},"properties":{"region_id":"village_606680","name":"MADAKERIPURA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

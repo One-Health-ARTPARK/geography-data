@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08724083838352,13.09097781121566],[76.07517617024676,13.08736142197362],[76.07666639851585,13.07109284694162],[76.09162432409623,13.07860948383701],[76.08724083838352,13.09097781121566]]]},"properties":{"region_id":"village_615892","name":"SALAGAME","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

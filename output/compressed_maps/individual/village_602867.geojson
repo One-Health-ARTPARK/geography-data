@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84498872974366,15.29160741742386],[74.81824786644536,15.27847436114388],[74.82424111959077,15.26776189898862],[74.85254486179144,15.27389439943645],[74.84498872974366,15.29160741742386]]]},"properties":{"region_id":"village_602867","name":"MURKWAD","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

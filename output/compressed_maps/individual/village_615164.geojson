@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75189640323359,13.18266924470973],[75.73999111575812,13.18176127863903],[75.74033778011409,13.16997100332868],[75.75043273229113,13.17555988428658],[75.75189640323359,13.18266924470973]]]},"properties":{"region_id":"village_615164","name":"MAGEHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

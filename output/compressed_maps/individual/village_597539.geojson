@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03837551713819,16.15943407210004],[75.03198133376438,16.18098024672137],[74.99461220434789,16.16509683939315],[74.99997540724085,16.14590724766892],[75.03837551713819,16.15943407210004]]]},"properties":{"region_id":"village_597539","name":"GOSABAL","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

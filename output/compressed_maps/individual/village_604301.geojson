@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4107005954625,14.64693658285949],[75.39327075168693,14.65885596526221],[75.3726116826996,14.64364354475435],[75.38723506803761,14.62812637183704],[75.4107005954625,14.64693658285949]]]},"properties":{"region_id":"village_604301","name":"CHINNIKATTI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

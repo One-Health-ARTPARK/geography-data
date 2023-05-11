@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31301254119214,13.48476406768036],[77.33193925566381,13.48579823280699],[77.32924500129285,13.51076218265579],[77.31130477929251,13.50628911125286],[77.31301254119214,13.48476406768036]]]},"properties":{"region_id":"village_611135","name":"BUDAMARANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16170711004854,12.78309266793116],[76.14863857762083,12.7832831250197],[76.14746551692704,12.77260197116927],[76.1619604327658,12.77212967421622],[76.16170711004854,12.78309266793116]]]},"properties":{"region_id":"village_616624","name":"MUDDANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50683803730257,16.39879617449652],[75.50230801304225,16.41581099719253],[75.4877195569864,16.41834517408632],[75.4911864383251,16.39655151821125],[75.50683803730257,16.39879617449652]]]},"properties":{"region_id":"village_598482","name":"BUDIHAL(S.G.)","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

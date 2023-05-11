@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99467591268069,13.74524587151416],[78.01829869879971,13.76446557884676],[78.00498259791058,13.77589245490203],[77.97836734987519,13.76617670063176],[77.99467591268069,13.74524587151416]]]},"properties":{"region_id":"village_623953","name":"SOMANATHAPURA","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

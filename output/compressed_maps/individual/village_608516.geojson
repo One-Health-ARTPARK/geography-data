@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76603230962805,14.09282240142653],[75.75274010293444,14.10200648246901],[75.73856261951858,14.10147129722247],[75.73814541416093,14.08727392202968],[75.7596504175591,14.08536700404991],[75.76603230962805,14.09282240142653]]]},"properties":{"region_id":"village_608516","name":"KURUBARAVITTALAPURA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

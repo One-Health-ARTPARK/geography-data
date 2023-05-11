@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16594460529898,13.35071321811166],[77.15969862902402,13.36454650969748],[77.1288654514963,13.3546496965549],[77.14500997294468,13.34481508244486],[77.16594460529898,13.35071321811166]]]},"properties":{"region_id":"village_611462","name":"BELAGUMBA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

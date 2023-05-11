@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00840576678777,13.26039435082276],[75.99237827079014,13.26040446469071],[75.99708924421832,13.24398298976655],[76.00933311656496,13.24371159592981],[76.00840576678777,13.26039435082276]]]},"properties":{"region_id":"village_615267","name":"KARIKATTEHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

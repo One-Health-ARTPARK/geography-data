@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45714303908719,12.60068577003314],[75.465812359858,12.62433985828616],[75.42840520142798,12.64251499604331],[75.41919788634694,12.5959252976505],[75.45714303908719,12.60068577003314]]]},"properties":{"region_id":"village_617765","name":"AMARAMUDNUR","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6378670397683,12.79436365179556],[77.62389627312183,12.78447625140353],[77.64491972889972,12.76475307345804],[77.65611215165843,12.78563534243241],[77.6378670397683,12.79436365179556]]]},"properties":{"region_id":"village_613360","name":"JIGANI (CT)","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

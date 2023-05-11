@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98733756877833,15.80788084245732],[75.96982712276865,15.80791974619499],[75.96782295473884,15.79424084291809],[75.98733756877833,15.80788084245732]]]},"properties":{"region_id":"village_601411","name":"CHICKGONNAGAR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

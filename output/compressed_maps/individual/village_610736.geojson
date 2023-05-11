@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1378388980378,13.72562828278625],[77.12658057743941,13.73487802645113],[77.12771782709412,13.7278090804642],[77.1378388980378,13.72562828278625]]]},"properties":{"region_id":"village_610736","name":"BORAMUTHANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

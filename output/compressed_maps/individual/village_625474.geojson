@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87068719620387,13.21816802963673],[77.8778476009012,13.23295205904774],[77.87171702691505,13.23496226531924],[77.86272022079525,13.21973295538679],[77.87068719620387,13.21816802963673]]]},"properties":{"region_id":"village_625474","name":"ESTHUR","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

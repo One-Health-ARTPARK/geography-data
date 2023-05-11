@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06390439196761,12.31100060245746],[76.04690323493259,12.31015902881874],[76.04869317168657,12.29189377712045],[76.0584906166099,12.29227438221609],[76.06390439196761,12.31100060245746]]]},"properties":{"region_id":"village_618268","name":"CHOWTHI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

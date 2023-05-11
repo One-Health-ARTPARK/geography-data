@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63181456140889,16.32078470950454],[75.57725957134795,16.33150976131842],[75.5917141182354,16.2715825706641],[75.63175407736018,16.27392579767312],[75.63181456140889,16.32078470950454]]]},"properties":{"region_id":"village_598518","name":"SUNAGA","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

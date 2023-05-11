@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3851678795841,16.55823791445053],[75.34523061456541,16.54280609853938],[75.3476158342888,16.49947210852382],[75.37487504715017,16.50247456253988],[75.3851678795841,16.55823791445053]]]},"properties":{"region_id":"village_598434","name":"KUNCHANUR","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

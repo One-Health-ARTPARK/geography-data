@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.1757188467432,13.48798390177924],[78.16843317487388,13.49316645675978],[78.16622028606709,13.48291244228151],[78.1751293592377,13.4803249271153],[78.1757188467432,13.48798390177924]]]},"properties":{"region_id":"village_624457","name":"MANIGANAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

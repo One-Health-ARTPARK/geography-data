@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18024118445939,12.43410906265471],[77.17160365337885,12.43631445011169],[77.17018839823349,12.4153211207894],[77.1776145890242,12.41626409067965],[77.18024118445939,12.43410906265471]]]},"properties":{"region_id":"village_614729","name":"DADAMAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

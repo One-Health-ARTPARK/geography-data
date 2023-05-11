@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61195040749541,14.68642241706484],[75.59738117102447,14.69871077472728],[75.586869277815,14.68454743248468],[75.60195365005099,14.66716385518338],[75.61195040749541,14.68642241706484]]]},"properties":{"region_id":"village_604513","name":"SHIDAGANAHAL","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17312288832441,13.60745175200007],[75.16198618814666,13.61352050431049],[75.15280727691699,13.59964583203864],[75.16615804123985,13.59725177080966],[75.17312288832441,13.60745175200007]]]},"properties":{"region_id":"village_608281","name":"BAGGODIGE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

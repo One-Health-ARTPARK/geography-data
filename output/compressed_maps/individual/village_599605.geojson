@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93739520194904,16.33903048925339],[75.9148897315634,16.3400728920978],[75.91266499419815,16.32193649270264],[75.9325313129878,16.31253289380953],[75.93739520194904,16.33903048925339]]]},"properties":{"region_id":"village_599605","name":"YALGUR","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

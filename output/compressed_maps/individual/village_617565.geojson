@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95865334694926,12.7849402581625],[74.99240009807609,12.78795119011629],[74.97170371470388,12.80808447831867],[74.95865334694926,12.7849402581625]]]},"properties":{"region_id":"village_617565","name":"BALEPUNI","parent":"subdistrict_7197","parent_name":"ULLALA"}}
+]}

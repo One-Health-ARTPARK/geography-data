@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57164894281314,11.93608641091451],[76.56289993815146,11.9359182375934],[76.56057506943384,11.89917719817265],[76.57140134461608,11.89988836564572],[76.57698848982432,11.92268828900867],[76.57164894281314,11.93608641091451]]]},"properties":{"region_id":"village_619181","name":"KOTHANAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

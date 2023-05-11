@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44824044948552,13.29266091559188],[77.44647218936692,13.30637092535754],[77.43327149929634,13.30607618486574],[77.4319664734381,13.28449087840248],[77.44824044948552,13.29266091559188]]]},"properties":{"region_id":"village_625179","name":"NARANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

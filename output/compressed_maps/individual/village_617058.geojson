@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44063710887856,12.94820363082749],[76.43528389646185,12.95414635330367],[76.41733019208775,12.95383441577733],[76.41760703083371,12.94673897257124],[76.43247264148688,12.94230352489536],[76.44063710887856,12.94820363082749]]]},"properties":{"region_id":"village_617058","name":"SATHENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

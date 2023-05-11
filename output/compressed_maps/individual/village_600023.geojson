@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31055885194874,18.19534421191892],[77.29179167011716,18.16752138539868],[77.3250443521548,18.16705556976499],[77.31055885194874,18.19534421191892]]]},"properties":{"region_id":"village_600023","name":"BEDKUNDA","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

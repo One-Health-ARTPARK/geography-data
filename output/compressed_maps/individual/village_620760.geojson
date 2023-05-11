@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80622017565152,17.0535183087505],[76.78745904139498,17.0765879058286],[76.76841560751018,17.04303287136629],[76.79801342065674,17.03460002749779],[76.80622017565152,17.0535183087505]]]},"properties":{"region_id":"village_620760","name":"RADDEWADGI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

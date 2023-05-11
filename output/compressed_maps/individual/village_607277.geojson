@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16951827200769,14.04213789329508],[75.143530945282,14.04379719220339],[75.14930642458516,14.0281559336358],[75.16951827200769,14.04213789329508]]]},"properties":{"region_id":"village_607277","name":"GANTINAKOPPA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

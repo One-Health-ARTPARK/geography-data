@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61630505058706,13.97422010437636],[74.5663326287048,13.95201031363787],[74.60678336812873,13.94077371927026],[74.61630505058706,13.97422010437636]]]},"properties":{"region_id":"village_603856","name":"BELKE","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

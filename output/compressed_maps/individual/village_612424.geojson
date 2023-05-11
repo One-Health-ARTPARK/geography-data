@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80496400788364,13.07878652100275],[76.78725696746055,13.07952373406994],[76.7956733718408,13.06960212571865],[76.80496400788364,13.07878652100275]]]},"properties":{"region_id":"village_612424","name":"KOMMARADEVANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

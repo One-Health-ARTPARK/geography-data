@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38106081079009,12.93960450248812],[77.38796242866037,12.94144599483985],[77.3847296841753,12.95629870619062],[77.37757442555802,12.94095850384937],[77.38106081079009,12.93960450248812]]]},"properties":{"region_id":"village_612978","name":"PEDDANAPALYA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

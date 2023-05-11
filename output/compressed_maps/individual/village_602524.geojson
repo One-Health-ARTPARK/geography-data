@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23459270702158,15.22886405456054],[75.21028689706445,15.23322359469323],[75.20947756259103,15.20127192261877],[75.22801095904481,15.20197695964162],[75.24388915823431,15.2147029231709],[75.23459270702158,15.22886405456054]]]},"properties":{"region_id":"village_602524","name":"DEVANUR","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

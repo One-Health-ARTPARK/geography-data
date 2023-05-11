@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78798195395966,16.99105697321736],[76.7484908352283,16.99448069232612],[76.74018539029315,16.95602722930834],[76.7721276019269,16.95855937357591],[76.78798195395966,16.99105697321736]]]},"properties":{"region_id":"village_620775","name":"AURAD","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

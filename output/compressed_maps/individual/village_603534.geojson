@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72547746473968,14.42880685416496],[74.69384049214645,14.4145725733429],[74.71458888151056,14.39243004253954],[74.72547746473968,14.42880685416496]]]},"properties":{"region_id":"village_603534","name":"SHIVALMANE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

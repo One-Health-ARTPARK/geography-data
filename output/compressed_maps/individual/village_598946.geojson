@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09576072615327,16.14678375559715],[76.10567597684188,16.18751001813244],[76.08189311220157,16.17379562078521],[76.09576072615327,16.14678375559715]]]},"properties":{"region_id":"village_598946","name":"DHANNUR","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

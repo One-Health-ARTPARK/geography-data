@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64101492002197,14.39965574466448],[76.55702657142794,14.40530822638012],[76.53204473540151,14.35124262276899],[76.63146440407434,14.36663431357159],[76.64101492002197,14.39965574466448]]]},"properties":{"region_id":"village_605269","name":"VARAVOO KAVAL","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

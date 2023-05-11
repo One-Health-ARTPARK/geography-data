@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68876470327623,16.00832988851364],[74.69183424823169,15.99811474738715],[74.71271483796956,15.99007070791704],[74.70416366701443,16.01025792817921],[74.68876470327623,16.00832988851364]]]},"properties":{"region_id":"village_597496","name":"YADDALGUDD","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

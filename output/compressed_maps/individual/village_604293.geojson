@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36677977344227,14.67578927382545],[75.34224359460781,14.67002401633904],[75.35813837549092,14.64036193882458],[75.37512074231819,14.66178016506487],[75.36677977344227,14.67578927382545]]]},"properties":{"region_id":"village_604293","name":"KUMMUR","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

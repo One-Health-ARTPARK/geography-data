@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43166473658245,13.62152542034212],[75.43161886896823,13.60716863194666],[75.44725994810821,13.6061895957682],[75.44897051243892,13.62310326456514],[75.43166473658245,13.62152542034212]]]},"properties":{"region_id":"village_609077","name":"BELLUR","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

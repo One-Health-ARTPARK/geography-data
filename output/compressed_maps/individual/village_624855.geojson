@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32613357088238,13.1674936943507],[77.32123526243949,13.14213666799269],[77.34179342522631,13.13718453586516],[77.3439567631616,13.14705908341846],[77.3319073774716,13.15279291735378],[77.32613357088238,13.1674936943507]]]},"properties":{"region_id":"village_624855","name":"T.BEGUR","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09134183958868,13.50263830631633],[77.07455211480472,13.49451907414691],[77.07702361572379,13.47842783413596],[77.0962431816438,13.48027950110624],[77.09134183958868,13.50263830631633]]]},"properties":{"region_id":"village_611319","name":"MAVUKERE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7956733718408,13.06960212571865],[76.78603588269156,13.06072399079767],[76.80630881530915,13.06169581419002],[76.7956733718408,13.06960212571865]]]},"properties":{"region_id":"village_612423","name":"AMBALADEVANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

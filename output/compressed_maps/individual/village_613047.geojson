@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54384911608643,12.77583572285143],[77.53995461074022,12.79528438638035],[77.52117003680792,12.78453084953809],[77.54384911608643,12.77583572285143]]]},"properties":{"region_id":"village_613047","name":"THARALU","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

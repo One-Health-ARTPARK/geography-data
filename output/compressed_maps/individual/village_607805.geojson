@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42603702803817,14.23395992043158],[75.39699810518545,14.23435814687599],[75.40860691905029,14.21346968769553],[75.42603702803817,14.23395992043158]]]},"properties":{"region_id":"village_607805","name":"ITTIGEHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

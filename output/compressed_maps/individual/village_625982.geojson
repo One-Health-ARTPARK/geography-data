@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29156814169471,12.94982584790113],[77.3081961421986,12.95220314862697],[77.2994288390276,12.98011660533877],[77.28213396035757,12.96619165509464],[77.29156814169471,12.94982584790113]]]},"properties":{"region_id":"village_625982","name":"BACHENAHATTI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

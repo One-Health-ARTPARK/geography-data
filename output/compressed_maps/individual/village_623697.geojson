@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74604635064232,13.74319977983115],[77.71736217933402,13.74087071824594],[77.72030157978635,13.72602171715719],[77.74956339029595,13.727075658797],[77.74604635064232,13.74319977983115]]]},"properties":{"region_id":"village_623697","name":"BENNEPARTHI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

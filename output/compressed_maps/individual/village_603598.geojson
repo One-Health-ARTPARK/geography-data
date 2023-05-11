@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89169414253767,14.54413730763526],[74.88066177240502,14.55536753932995],[74.87461307686675,14.54041923322488],[74.88123250314999,14.52708368435597],[74.89169414253767,14.54413730763526]]]},"properties":{"region_id":"village_603598","name":"AREHALLA","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

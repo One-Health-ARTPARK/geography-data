@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22495216748543,15.85898436229048],[76.2248941061851,15.90344992162633],[76.21199651397299,15.90132762278567],[76.2111354184059,15.85851831642328],[76.22495216748543,15.85898436229048]]]},"properties":{"region_id":"village_601475","name":"MATUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

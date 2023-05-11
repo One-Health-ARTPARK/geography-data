@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2844269204627,15.53876281497317],[76.25907839728745,15.54835075135442],[76.24282749091691,15.52379895838501],[76.27680026138268,15.52807022963816],[76.2844269204627,15.53876281497317]]]},"properties":{"region_id":"village_601788","name":"HIRESULIKERI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

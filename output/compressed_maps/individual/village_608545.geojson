@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72885761140128,13.98133882801618],[75.72813550506064,13.99653699612362],[75.70857384021733,13.9891921313255],[75.72885761140128,13.98133882801618]]]},"properties":{"region_id":"village_608545","name":"MUDALAVITTALAPURA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

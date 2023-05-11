@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15721184379979,12.84808699601772],[77.1483374760474,12.83689646962596],[77.16061528166948,12.83528861898039],[77.15721184379979,12.84808699601772]]]},"properties":{"region_id":"village_626016","name":"KALLUDEVANAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

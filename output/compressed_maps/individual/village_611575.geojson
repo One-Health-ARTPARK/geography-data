@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12326382323229,13.27392415168154],[77.11545156009599,13.26682831135978],[77.12711265793206,13.26461398843523],[77.12326382323229,13.27392415168154]]]},"properties":{"region_id":"village_611575","name":"GANGASANDRA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

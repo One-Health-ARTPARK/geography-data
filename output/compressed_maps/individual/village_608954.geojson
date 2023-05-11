@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27991199336469,13.41404482856679],[75.2688736452462,13.42965526047499],[75.25006691437216,13.41302781005089],[75.2629947531998,13.40744414308333],[75.27991199336469,13.41404482856679]]]},"properties":{"region_id":"village_608954","name":"MENASE","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

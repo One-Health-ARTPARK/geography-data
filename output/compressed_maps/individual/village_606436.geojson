@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21198734875244,14.5624225697279],[76.18957355846814,14.54684987606726],[76.22696780766343,14.54214889855546],[76.21198734875244,14.5624225697279]]]},"properties":{"region_id":"village_606436","name":"KALLENAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

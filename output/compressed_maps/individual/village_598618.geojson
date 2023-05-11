@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36913246475937,16.14044639010966],[75.34885645128684,16.14632875935372],[75.33768040833938,16.12939950968781],[75.37075420990956,16.11415777020146],[75.36913246475937,16.14044639010966]]]},"properties":{"region_id":"village_598618","name":"VARCHAGAL","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

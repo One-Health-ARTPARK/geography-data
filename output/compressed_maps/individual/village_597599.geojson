@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.59979881039658,16.30270564090826],[74.5786525991798,16.29629845134519],[74.56082000084923,16.27187856843483],[74.57480150737362,16.24533595969604],[74.61295218511712,16.26087583032692],[74.59979881039658,16.30270564090826]]]},"properties":{"region_id":"village_597599","name":"YALIMUNOLI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

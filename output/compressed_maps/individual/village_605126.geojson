@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50238157966602,14.67609651655937],[76.44678126223654,14.68526712333746],[76.43732001433989,14.65670425767725],[76.47185970567973,14.62789266094109],[76.49987269454445,14.65386622024025],[76.50238157966602,14.67609651655937]]]},"properties":{"region_id":"village_605126","name":"HOSAHALLI","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

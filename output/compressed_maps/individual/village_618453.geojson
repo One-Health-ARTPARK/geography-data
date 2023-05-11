@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46794858822757,12.37137177898261],[76.47195735291568,12.35582522408554],[76.47836539509258,12.3544231351612],[76.4776686317641,12.37382014149868],[76.46794858822757,12.37137177898261]]]},"properties":{"region_id":"village_618453","name":"HALLADAKALLAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

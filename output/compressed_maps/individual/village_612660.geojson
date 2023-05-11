@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94198869408824,12.92650731822448],[76.93091690406108,12.92548925093162],[76.92607740293332,12.90071416953274],[76.95286625671386,12.90274965793461],[76.94052847468421,12.92203361243733],[76.94198869408824,12.92650731822448]]]},"properties":{"region_id":"village_612660","name":"AMRUTHUR","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

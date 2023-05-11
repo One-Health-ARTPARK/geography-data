@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9406846696574,14.57587147855365],[75.91689879770364,14.59032418202591],[75.91024102072566,14.56292362407319],[75.9406846696574,14.57587147855365]]]},"properties":{"region_id":"village_606364","name":"SINGRIHALLI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

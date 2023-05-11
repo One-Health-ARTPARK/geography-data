@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73809223255199,15.95406570479365],[76.73573036806259,15.96616785131211],[76.72256903840449,15.96454845229081],[76.7274301264702,15.94687596399323],[76.73809223255199,15.95406570479365]]]},"properties":{"region_id":"village_600916","name":"HANCHANHAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

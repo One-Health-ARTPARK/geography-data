@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70716763848961,16.17142070322731],[74.70055080932829,16.19310016838498],[74.66903251724194,16.17771927049474],[74.66919036024083,16.15920919899806],[74.7028302161181,16.1583468821438],[74.70716763848961,16.17142070322731]]]},"properties":{"region_id":"village_597625","name":"GHODAGERI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

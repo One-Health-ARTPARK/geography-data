@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86064059658476,13.36709135289739],[76.86007571312732,13.35447299497896],[76.87695789891606,13.35935212363805],[76.86064059658476,13.36709135289739]]]},"properties":{"region_id":"village_611775","name":"KODINAGENAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

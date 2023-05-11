@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4786787240746,15.90788364187056],[75.48594080124101,15.93996042175629],[75.46698482369057,15.94304836785656],[75.45953089739031,15.91764483040047],[75.4786787240746,15.90788364187056]]]},"properties":{"region_id":"village_598709","name":"CHIMMANAKATTI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

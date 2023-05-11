@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00497538148545,15.60461465008344],[76.97134192649368,15.6182573455768],[76.97034244559042,15.60286057376572],[77.00497538148545,15.60461465008344]]]},"properties":{"region_id":"village_604807","name":"SALIGANUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

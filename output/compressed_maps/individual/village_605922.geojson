@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37052484874467,13.88032693274905],[76.34313086078777,13.88924322617551],[76.3447605498661,13.86937095548028],[76.37052484874467,13.88032693274905]]]},"properties":{"region_id":"village_605922","name":"HULLUKATTI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

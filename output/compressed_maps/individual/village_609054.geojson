@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56299798570934,13.65173635054968],[75.53357817738821,13.6537574582719],[75.54538770694639,13.63045895133188],[75.56299798570934,13.65173635054968]]]},"properties":{"region_id":"village_609054","name":"HALEDANIVASA","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

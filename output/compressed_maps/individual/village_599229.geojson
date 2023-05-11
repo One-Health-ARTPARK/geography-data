@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89421939995775,17.16297689272011],[75.89216181268947,17.17634134339034],[75.871038663523,17.16820593666012],[75.87640128943714,17.15521843719698],[75.89421939995775,17.16297689272011]]]},"properties":{"region_id":"village_599229","name":"CHAVADIHAL","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

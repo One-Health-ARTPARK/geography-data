@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69940168812423,13.85990819201719],[75.67675591868264,13.86381770438831],[75.68471789812538,13.85569280936389],[75.69468078314002,13.85300503536666],[75.69940168812423,13.85990819201719]]]},"properties":{"region_id":"village_938574","name":"KAVALAGUNDI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

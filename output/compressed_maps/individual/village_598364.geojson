@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14905220319999,15.95177116471861],[75.11241321340451,15.95048136077869],[75.12322897215769,15.93036416093708],[75.14905220319999,15.95177116471861]]]},"properties":{"region_id":"village_598364","name":"PADAMANDI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

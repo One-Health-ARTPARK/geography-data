@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62616769960549,12.75485360237639],[77.62871190966622,12.7634324758301],[77.62460504568317,12.76345670448601],[77.62616769960549,12.75485360237639]]]},"properties":{"region_id":"village_613156","name":"J.BINGIPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

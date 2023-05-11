@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28113052175046,15.50969851416216],[76.2631373073409,15.51239544050918],[76.26363202274855,15.48102092396143],[76.27730374349487,15.48119183419489],[76.28113052175046,15.50969851416216]]]},"properties":{"region_id":"village_601803","name":"METGAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

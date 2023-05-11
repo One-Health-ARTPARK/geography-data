@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08216928984567,16.23431812029188],[76.07725060618348,16.2411248011205],[76.0667379471291,16.24162846458139],[76.0626670513986,16.23424722043848],[76.08216928984567,16.23431812029188]]]},"properties":{"region_id":"village_599632","name":"KAMALDINNI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

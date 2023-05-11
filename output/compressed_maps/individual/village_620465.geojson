@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33994927860718,17.28052558205689],[77.3367720781857,17.29625872840526],[77.29403509893517,17.28078970025202],[77.29746714446249,17.27128596988602],[77.33994927860718,17.28052558205689]]]},"properties":{"region_id":"village_620465","name":"RUDNOOR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

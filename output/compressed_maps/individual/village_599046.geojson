@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59093597117125,16.92513648004476],[75.56333149808341,16.91169002934603],[75.5691747767349,16.86803541801078],[75.59802536012096,16.87909587417816],[75.59093597117125,16.92513648004476]]]},"properties":{"region_id":"village_599046","name":"DHANARAGI","parent":"subdistrict_7074","parent_name":"TIKOTA"}}
+]}

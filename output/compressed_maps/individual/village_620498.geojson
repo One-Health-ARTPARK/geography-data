@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24077508121353,17.1786198282413],[77.2212683513306,17.17722635544078],[77.23224018427337,17.15739004877268],[77.24509006118832,17.16013854373159],[77.24077508121353,17.1786198282413]]]},"properties":{"region_id":"village_620498","name":"HOSHALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

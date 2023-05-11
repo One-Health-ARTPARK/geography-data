@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3885516662118,13.21104456522522],[77.37648589244323,13.22146741213946],[77.37307486595414,13.2076190810334],[77.3885516662118,13.21104456522522]]]},"properties":{"region_id":"village_625227","name":"KAMMASANDRA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

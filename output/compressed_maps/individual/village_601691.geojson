@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7559770899159,15.57033628685058],[76.73402838391074,15.59280766060439],[76.71927316991294,15.56329634709335],[76.7559770899159,15.57033628685058]]]},"properties":{"region_id":"village_601691","name":"TIMMAPUR","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

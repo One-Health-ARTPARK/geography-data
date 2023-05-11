@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86107279907226,13.08047844323182],[77.85357748575454,13.08827648409602],[77.84445273712394,13.07940259803245],[77.86107279907226,13.08047844323182]]]},"properties":{"region_id":"village_625635","name":"ATTIVATTA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

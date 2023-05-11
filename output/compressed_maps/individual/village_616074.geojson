@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05619572304163,12.94062773835314],[76.04255306494751,12.94334578623931],[76.03974759884898,12.934853719004],[76.05619572304163,12.94062773835314]]]},"properties":{"region_id":"village_616074","name":"KATTEHOSAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

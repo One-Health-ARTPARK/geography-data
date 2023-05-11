@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56873000014812,12.91811500033113],[77.57972199985457,12.93078500001601],[77.57110799969678,12.9297830001604],[77.56873000014812,12.91811500033113]]]},"properties":{"region_id":"ward_bbmp166","name":"WARD NO.166 (KARI SANDRA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

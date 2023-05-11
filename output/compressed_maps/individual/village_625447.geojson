@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78613126770384,13.19777938366301],[77.7744068004161,13.20218616520388],[77.77538017930584,13.1896970784081],[77.78613126770384,13.19777938366301]]]},"properties":{"region_id":"village_625447","name":"BALEPURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

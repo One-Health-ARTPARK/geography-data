@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38754090921051,13.50966659464925],[75.40694260473701,13.52275030091355],[75.39379070931938,13.53096626154221],[75.38754090921051,13.50966659464925]]]},"properties":{"region_id":"village_609007","name":"BINTRAVALLI","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

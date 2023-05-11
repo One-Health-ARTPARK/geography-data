@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11281166576968,16.33344390819583],[77.10400105241293,16.3366256573092],[77.08748144348338,16.31275915864845],[77.10627207254096,16.30883262530704],[77.11281166576968,16.33344390819583]]]},"properties":{"region_id":"village_600655","name":"AMRAPUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

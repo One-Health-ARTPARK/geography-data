@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74836248506413,12.83957305970615],[77.74074331576307,12.83274848189703],[77.74832024479343,12.82569326176422],[77.75336184305513,12.8375917872953],[77.74836248506413,12.83957305970615]]]},"properties":{"region_id":"village_613204","name":"SAMANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

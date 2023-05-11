@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42214300180098,17.5384839991557],[77.39918177280836,17.53458751561609],[77.39866422831837,17.5228928448224],[77.41850046982263,17.51888915953431],[77.42214300180098,17.5384839991557]]]},"properties":{"region_id":"village_620366","name":"PATPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

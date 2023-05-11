@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16854742805172,14.88281143236734],[75.16342135999605,14.90077764112676],[75.15040037853082,14.89140991724758],[75.16854742805172,14.88281143236734]]]},"properties":{"region_id":"village_603966","name":"LAKKIKOPPA","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

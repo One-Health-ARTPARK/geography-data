@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26332964042882,18.17268755313592],[77.23708863337743,18.17236767861262],[77.24214564737294,18.16071686524817],[77.25933142918339,18.15568709255042],[77.26332964042882,18.17268755313592]]]},"properties":{"region_id":"village_600025","name":"SANGAM","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

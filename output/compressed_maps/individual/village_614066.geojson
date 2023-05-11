@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73445281675555,12.63791677856049],[76.7141530152109,12.62859170637999],[76.73333176663641,12.61743749173392],[76.73445281675555,12.63791677856049]]]},"properties":{"region_id":"village_614066","name":"BOLENAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

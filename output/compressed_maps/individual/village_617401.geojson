@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52397668767902,12.85798108595279],[76.5225661822823,12.88288999876271],[76.50636325253896,12.87950435602536],[76.50577226914042,12.86302589130145],[76.52397668767902,12.85798108595279]]]},"properties":{"region_id":"village_617401","name":"SUNDAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

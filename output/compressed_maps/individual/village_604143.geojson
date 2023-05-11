@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29164151921371,14.77561717545168],[75.2831860323042,14.78778922759139],[75.26761724473376,14.78560444112196],[75.26551219928673,14.77220997461132],[75.29164151921371,14.77561717545168]]]},"properties":{"region_id":"village_604143","name":"SHINGAPUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

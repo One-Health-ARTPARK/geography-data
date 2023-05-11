@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70401813577075,13.46122567537212],[76.68711537259122,13.46949346806297],[76.67209926760566,13.45578413108169],[76.68558945322279,13.44650408866387],[76.70401813577075,13.46122567537212]]]},"properties":{"region_id":"village_610172","name":"KATHARIKEHAL","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

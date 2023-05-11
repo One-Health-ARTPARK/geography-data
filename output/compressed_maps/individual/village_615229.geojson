@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88001900292087,13.15598187028519],[75.87365051333981,13.16556673645708],[75.86628480867523,13.15557673964641],[75.88001900292087,13.15598187028519]]]},"properties":{"region_id":"village_615229","name":"BITRAVALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

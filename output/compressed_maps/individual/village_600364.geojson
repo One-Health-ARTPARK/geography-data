@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39958524924208,16.04484056666416],[76.39273458114135,16.06197642162098],[76.37249570449902,16.05990035412724],[76.3910194215581,16.03188909919718],[76.39958524924208,16.04484056666416]]]},"properties":{"region_id":"village_600364","name":"ASHIHAL","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

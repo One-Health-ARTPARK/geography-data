@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59550884982275,12.84909822071148],[77.58893509147106,12.84895071010958],[77.58222993241384,12.83638158329343],[77.59153033134912,12.83458390618398],[77.59550884982275,12.84909822071148]]]},"properties":{"region_id":"village_938428","name":"BASAVANAPURA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

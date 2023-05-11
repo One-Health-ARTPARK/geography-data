@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6234125671493,14.92324895053655],[76.59096430919116,14.92828908890804],[76.59632291228671,14.88231905054352],[76.6775316586389,14.91142695658027],[76.6234125671493,14.92324895053655]]]},"properties":{"region_id":"village_604992","name":"SELIEPPANAHALLI","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

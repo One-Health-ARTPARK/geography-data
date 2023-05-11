@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11429382980302,12.66608884897442],[77.1000704824239,12.67001608790497],[77.09938130428655,12.65051232223485],[77.11440123947628,12.65052870598004],[77.11429382980302,12.66608884897442]]]},"properties":{"region_id":"village_626213","name":"SEEBANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

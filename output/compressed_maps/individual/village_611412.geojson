@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25490696501093,13.33478362329892],[77.25571256020213,13.321984312775],[77.26920640190632,13.32401335759329],[77.26711914299476,13.33359171829587],[77.25490696501093,13.33478362329892]]]},"properties":{"region_id":"village_611412","name":"KADAGUJJANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

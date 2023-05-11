@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31515158758526,12.59110786477289],[75.30948090412541,12.61704459868435],[75.29078993102101,12.62052670099283],[75.31515158758526,12.59110786477289]]]},"properties":{"region_id":"village_617761","name":"KANAKA MAJALU","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

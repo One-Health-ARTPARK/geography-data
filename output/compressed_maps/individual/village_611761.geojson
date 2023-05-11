@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74375949668196,13.3467260046661],[76.73368962520769,13.33250029939494],[76.75872579429866,13.33413830756764],[76.74375949668196,13.3467260046661]]]},"properties":{"region_id":"village_611761","name":"N.HOSAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

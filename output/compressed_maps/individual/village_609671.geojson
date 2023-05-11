@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52478603097846,13.24574449742648],[75.53631962519965,13.26733367433525],[75.51953744382924,13.27520670788592],[75.50892037396385,13.26102475330513],[75.52478603097846,13.24574449742648]]]},"properties":{"region_id":"village_609671","name":"BIKKARANE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

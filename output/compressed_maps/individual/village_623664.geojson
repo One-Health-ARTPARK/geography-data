@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80889740525379,13.37979512786081],[77.79225748910635,13.38405548588001],[77.79393075455145,13.37786719423039],[77.81299664753327,13.3707329006389],[77.80889740525379,13.37979512786081]]]},"properties":{"region_id":"village_623664","name":"KADASEEGENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

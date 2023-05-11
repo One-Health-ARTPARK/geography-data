@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95199855890455,12.09944771796475],[75.94583513848302,12.09485705772278],[75.94301019665299,12.08006060694014],[75.94912719522685,12.06357115537754],[75.9680223616219,12.08325833575252],[75.95199855890455,12.09944771796475]]]},"properties":{"region_id":"village_924055","name":"KONAGERI","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

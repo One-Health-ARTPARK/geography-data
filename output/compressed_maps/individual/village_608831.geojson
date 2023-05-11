@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74780053057195,13.2478254931279],[74.73935007091613,13.25709032773814],[74.7308771061195,13.25478162794498],[74.73433024255652,13.23677031500431],[74.74690491224226,13.23753791573276],[74.74780053057195,13.2478254931279]]]},"properties":{"region_id":"village_608831","name":"ULIARGOLI","parent":"subdistrict_7067","parent_name":"KAPU"}}
+]}

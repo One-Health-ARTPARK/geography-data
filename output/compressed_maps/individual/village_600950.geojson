@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90090589070707,16.1728105156922],[76.87214291576781,16.18773856438505],[76.87113179498691,16.14284037349352],[76.90090589070707,16.1728105156922]]]},"properties":{"region_id":"village_600950","name":"KURKUNDA","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

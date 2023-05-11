@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43079077167167,13.70022242755327],[76.40598834847367,13.69922046132364],[76.40914513078333,13.68866983450588],[76.43079077167167,13.70022242755327]]]},"properties":{"region_id":"village_606040","name":"GOLLARAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

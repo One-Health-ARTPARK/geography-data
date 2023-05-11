@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43278166120064,16.43875829221465],[75.44390932254247,16.44832842948838],[75.42534486319956,16.46126439962007],[75.40264398720943,16.46552425076693],[75.43278166120064,16.43875829221465]]]},"properties":{"region_id":"village_598476","name":"CHOWDAPUR","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

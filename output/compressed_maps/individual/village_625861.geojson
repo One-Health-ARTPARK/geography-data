@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22616183565441,13.13960079954232],[77.21759424812387,13.12497398976103],[77.24548847158195,13.12371366559797],[77.24986185377888,13.13405821594646],[77.22616183565441,13.13960079954232]]]},"properties":{"region_id":"village_625861","name":"UDAKUNTE","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

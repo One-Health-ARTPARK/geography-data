@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88244343948618,14.02798248310103],[76.86824336388439,14.0381655583879],[76.84481234572947,14.0283119184588],[76.87281528187384,14.00975932721719],[76.88244343948618,14.02798248310103]]]},"properties":{"region_id":"village_606121","name":"SAKKARA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

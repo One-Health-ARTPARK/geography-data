@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89331044775574,16.39963857862206],[76.88047875601758,16.37871805434345],[76.91524441769477,16.37890481745153],[76.91415825860737,16.39384301091916],[76.89331044775574,16.39963857862206]]]},"properties":{"region_id":"village_600614","name":"VENGLAPUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

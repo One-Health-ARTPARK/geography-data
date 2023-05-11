@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07296924437527,15.74280799788264],[76.07493266343083,15.7604847757681],[76.0621973314652,15.76005513991085],[76.05745391991539,15.74337995367686],[76.07296924437527,15.74280799788264]]]},"properties":{"region_id":"village_601459","name":"KANKOPPA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

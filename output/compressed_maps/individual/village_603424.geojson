@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.36887848961965,14.56143260229077],[74.3517374711031,14.57292396796491],[74.3485016022642,14.5652782139248],[74.3643752098534,14.55546020841764],[74.36887848961965,14.56143260229077]]]},"properties":{"region_id":"village_603424","name":"HITTALMAKKI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

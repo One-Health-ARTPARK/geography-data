@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86733381998624,13.10871931277131],[77.85915790769819,13.1115316039979],[77.85999167514129,13.10530014859502],[77.86759469918559,13.10226686868626],[77.86733381998624,13.10871931277131]]]},"properties":{"region_id":"village_625618","name":"CHANNAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

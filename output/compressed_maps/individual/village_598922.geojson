@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05000067534246,16.13380575463658],[76.02057932008769,16.15000196811303],[76.0248665664128,16.1216345660642],[76.05000067534246,16.13380575463658]]]},"properties":{"region_id":"village_598922","name":"BELGAL","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

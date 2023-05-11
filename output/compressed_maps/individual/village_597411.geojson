@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03445963730856,16.43446780077239],[75.01830787236338,16.43482803509499],[75.01721830445067,16.40145880442679],[75.02748432142135,16.39651144990598],[75.03445963730856,16.43446780077239]]]},"properties":{"region_id":"village_597411","name":"SULTANPUR","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

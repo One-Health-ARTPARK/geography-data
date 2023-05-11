@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16809299817085,16.73701293410796],[77.1426414348684,16.74126405629288],[77.14496349424289,16.72722946162997],[77.16809299817085,16.73701293410796]]]},"properties":{"region_id":"village_621308","name":"MAZRA-HOSALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

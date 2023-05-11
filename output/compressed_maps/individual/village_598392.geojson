@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32351180509906,15.85664390190319],[75.29483900876735,15.87327347179265],[75.30140206251119,15.82760505479292],[75.32654152109701,15.83745632300021],[75.32351180509906,15.85664390190319]]]},"properties":{"region_id":"village_598392","name":"MULLUR","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

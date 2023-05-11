@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64872499825063,12.99539685079825],[76.64804902934087,13.00702154545492],[76.63928162311537,13.00931880024005],[76.63616196753942,12.99915491438717],[76.64872499825063,12.99539685079825]]]},"properties":{"region_id":"village_613677","name":"SHIKARANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

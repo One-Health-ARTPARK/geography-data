@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33943667107692,13.43139980495316],[75.31535007786445,13.44034032225717],[75.31659796849691,13.41617184040017],[75.33943667107692,13.43139980495316]]]},"properties":{"region_id":"village_608987","name":"BELAVINAKODIGE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

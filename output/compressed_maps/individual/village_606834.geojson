@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65591962270838,14.15322797409573],[75.64319974329051,14.15421457675391],[75.63921894712314,14.13542852005922],[75.65461949399258,14.13492474080553],[75.65591962270838,14.15322797409573]]]},"properties":{"region_id":"village_606834","name":"BIJOGATTE","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.63067576450324,15.60532085436682],[74.60423332102093,15.6068379707044],[74.6029411612672,15.59285311452707],[74.61806712900955,15.57981230390723],[74.63189101509833,15.58188660464313],[74.63067576450324,15.60532085436682]]]},"properties":{"region_id":"village_597906","name":"BEKWAD","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

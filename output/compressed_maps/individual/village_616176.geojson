@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18144236630569,12.89076148524564],[76.17025581829893,12.89235068664146],[76.17579543625715,12.87339937932314],[76.18349954970019,12.87654707650553],[76.18144236630569,12.89076148524564]]]},"properties":{"region_id":"village_616176","name":"HANCHIHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

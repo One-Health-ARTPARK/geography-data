@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26592112261963,13.70561850952014],[77.26299696104316,13.72225460598692],[77.23858681433069,13.73886034957122],[77.23391197506383,13.72860028774899],[77.26592112261963,13.70561850952014]]]},"properties":{"region_id":"village_610809","name":"SEEGALAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3707911924247,14.16133479325803],[75.30580081589108,14.13841498236466],[75.36561367989502,14.11097137849196],[75.3707911924247,14.16133479325803]]]},"properties":{"region_id":"village_607828","name":"KALMANE","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

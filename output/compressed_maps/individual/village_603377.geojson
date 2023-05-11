@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.32288550298,14.58887147937325],[74.31697665740255,14.58975392406974],[74.3174831761044,14.58271000474067],[74.32330168767398,14.58310434778361],[74.32288550298,14.58887147937325]]]},"properties":{"region_id":"village_603377","name":"HEGRE","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

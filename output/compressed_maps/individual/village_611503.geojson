@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09173160486462,13.21081591372441],[77.07837636344021,13.21250491490792],[77.07704364371392,13.19565763228397],[77.09272218869155,13.19291844225194],[77.09173160486462,13.21081591372441]]]},"properties":{"region_id":"village_611503","name":"HONASIGERE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

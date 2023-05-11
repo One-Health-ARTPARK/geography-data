@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79669992188627,13.03951006716575],[74.80650963185607,13.04291635207037],[74.80014530591873,13.05328699812131],[74.79421742431803,13.05264568924136],[74.79669992188627,13.03951006716575]]]},"properties":{"region_id":"village_617437","name":"HALEANGADY","parent":"subdistrict_7198","parent_name":"MULKI"}}
+]}

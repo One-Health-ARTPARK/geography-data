@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17732843250246,13.46640939797162],[77.16014932294355,13.45402449147199],[77.16782082566573,13.44619601630967],[77.17695493208484,13.45641540119335],[77.17732843250246,13.46640939797162]]]},"properties":{"region_id":"village_611360","name":"BELADHARA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

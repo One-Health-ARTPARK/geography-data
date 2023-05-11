@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82640600951873,13.08835447102352],[77.82131989503064,13.06564652618369],[77.83656622515421,13.06707966686209],[77.82640600951873,13.08835447102352]]]},"properties":{"region_id":"village_625704","name":"KOLATHUR","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

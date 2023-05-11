@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42896198172134,16.94483925307545],[77.41081773416815,16.94655539328836],[77.41522128041994,16.93560493364794],[77.42896198172134,16.94483925307545]]]},"properties":{"region_id":"village_620581","name":"NERATALPAHAD","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

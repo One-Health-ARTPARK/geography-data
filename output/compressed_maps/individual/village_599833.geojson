@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94769551325656,17.65269021356514],[76.9275263993809,17.6541456877621],[76.92030790474986,17.64020250694151],[76.94271821559623,17.63871648598813],[76.94769551325656,17.65269021356514]]]},"properties":{"region_id":"village_599833","name":"JANWADA","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

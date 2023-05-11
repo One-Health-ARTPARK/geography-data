@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78938848016048,15.12994370041736],[74.75631145511188,15.16009661099556],[74.77028408890668,15.1013301342073],[74.78938848016048,15.12994370041736]]]},"properties":{"region_id":"village_602798","name":"BHAGAWATI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

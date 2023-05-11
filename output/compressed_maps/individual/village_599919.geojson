@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1833783173548,17.980558251948],[77.16057238009425,17.98726389960227],[77.15710403933274,17.96773828914262],[77.17961278785602,17.96756923941409],[77.1833783173548,17.980558251948]]]},"properties":{"region_id":"village_599919","name":"BADJAWALGA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

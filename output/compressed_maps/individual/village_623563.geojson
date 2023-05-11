@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76205773832855,13.43922070445757],[77.74322590676434,13.44273452837918],[77.74985779681307,13.42401334498503],[77.76205773832855,13.43922070445757]]]},"properties":{"region_id":"village_623563","name":"ANAKANUR","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

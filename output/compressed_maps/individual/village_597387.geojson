@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95411766111107,16.58065878788035],[74.94033720831278,16.60942497640407],[74.92195815598912,16.61315925732794],[74.92399854955165,16.58019074082987],[74.95411766111107,16.58065878788035]]]},"properties":{"region_id":"village_597387","name":"KHEMALAPUR","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

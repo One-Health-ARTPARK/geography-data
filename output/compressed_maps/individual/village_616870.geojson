@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29561230197147,12.82586091313768],[76.29288292092448,12.83601282581586],[76.28426978938343,12.83314106722044],[76.28971973755542,12.82033825766621],[76.29561230197147,12.82586091313768]]]},"properties":{"region_id":"village_616870","name":"MARASETTIHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

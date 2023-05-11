@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92925837385889,16.02231490825692],[74.89576517294861,16.03089197934],[74.89171999091283,16.00392077242971],[74.9157147496844,16.00542317744963],[74.92925837385889,16.02231490825692]]]},"properties":{"region_id":"village_597505","name":"JAMANAL","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

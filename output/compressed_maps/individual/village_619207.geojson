@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74317105859461,12.13891379971662],[76.73684016796831,12.12579516853906],[76.74831438299125,12.11593189675717],[76.74317105859461,12.13891379971662]]]},"properties":{"region_id":"village_619207","name":"ALAMBUR","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

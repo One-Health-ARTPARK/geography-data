@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38180827941001,15.95171938944575],[75.36020149111663,15.95256338861985],[75.3520186036695,15.9360051307623],[75.39372473231478,15.93738670722364],[75.38180827941001,15.95171938944575]]]},"properties":{"region_id":"village_598338","name":"IDAGAL","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55472890164492,14.00124472718096],[74.5405237176159,13.98484983407371],[74.56050394222174,13.98120519963172],[74.55472890164492,14.00124472718096]]]},"properties":{"region_id":"village_938820","name":"SUSAGADI","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

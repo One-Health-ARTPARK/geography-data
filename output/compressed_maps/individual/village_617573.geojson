@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13635240731071,12.85484244394195],[75.10770431201924,12.86638793225877],[75.10984191862285,12.84892243062737],[75.13343871841818,12.8385580086568],[75.13635240731071,12.85484244394195]]]},"properties":{"region_id":"village_617573","name":"BARIMAR","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

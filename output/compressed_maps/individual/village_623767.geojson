@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75232081740343,13.65654555654505],[77.75596058533074,13.66400956114453],[77.73592436516356,13.66452005135476],[77.73896613061389,13.651608512435],[77.75232081740343,13.65654555654505]]]},"properties":{"region_id":"village_623767","name":"CHIKKATHAMMANAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

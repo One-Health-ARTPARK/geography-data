@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88963944183284,13.66529928152747],[77.86115585852902,13.66729291234856],[77.86306067204175,13.6537650401915],[77.88963944183284,13.66529928152747]]]},"properties":{"region_id":"village_624019","name":"SONAGANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

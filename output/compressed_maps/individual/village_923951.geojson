@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86833772991586,12.64542335326994],[75.85718327765774,12.64413967488978],[75.8642595175991,12.63416066305758],[75.86833772991586,12.64542335326994]]]},"properties":{"region_id":"village_923951","name":"KUGEKODI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

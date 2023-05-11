@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99725422488106,13.28880618839381],[76.98393320208233,13.28637799650001],[76.97853322907208,13.27400587436181],[76.98999510207626,13.26877479175278],[76.99725422488106,13.28880618839381]]]},"properties":{"region_id":"village_611468","name":"GULAGANJIHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

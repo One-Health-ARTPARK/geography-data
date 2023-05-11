@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84646335241165,12.74172514813817],[76.8434593983587,12.75043438991512],[76.82951367754565,12.74915753589899],[76.83148697786275,12.73863786384547],[76.84646335241165,12.74172514813817]]]},"properties":{"region_id":"village_614322","name":"NARAGALU","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

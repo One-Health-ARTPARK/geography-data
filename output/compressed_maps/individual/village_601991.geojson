@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6219560674619,15.638113372256],[75.61317484670306,15.5831259515395],[75.64068128368638,15.58347735545543],[75.6219560674619,15.638113372256]]]},"properties":{"region_id":"village_601991","name":"KADADI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

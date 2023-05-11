@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20171054662914,13.13979938093616],[76.20359050604195,13.15041273082309],[76.18958273740353,13.15071841421419],[76.1904630306565,13.13488981883182],[76.20171054662914,13.13979938093616]]]},"properties":{"region_id":"village_615958","name":"BASAVAGATTA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

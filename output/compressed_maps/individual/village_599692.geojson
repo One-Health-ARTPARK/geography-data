@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38000662634207,16.58401026810863],[76.35358902454767,16.54360516122159],[76.39385064040529,16.54498407737629],[76.38000662634207,16.58401026810863]]]},"properties":{"region_id":"village_599692","name":"BHANTNUR","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

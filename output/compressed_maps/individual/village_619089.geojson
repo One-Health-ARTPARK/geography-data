@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44234711025041,11.97848955101296],[76.42751052798772,11.96418692784715],[76.43920820728712,11.95579013295727],[76.44234711025041,11.97848955101296]]]},"properties":{"region_id":"village_619089","name":"HEGGUDLU","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38459791144048,14.47750604038706],[75.3656515979588,14.47710711877179],[75.36728824897574,14.46507306664008],[75.38594130475671,14.46160478595161],[75.38459791144048,14.47750604038706]]]},"properties":{"region_id":"village_604386","name":"BALAMBID","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

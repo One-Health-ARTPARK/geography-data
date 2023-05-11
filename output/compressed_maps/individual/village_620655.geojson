@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98690134989074,17.14146494907333],[76.95641882383812,17.10813125602908],[76.98562687361583,17.09089093533019],[77.01272672486719,17.13565359138963],[76.98690134989074,17.14146494907333]]]},"properties":{"region_id":"village_620655","name":"MALGATTI","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

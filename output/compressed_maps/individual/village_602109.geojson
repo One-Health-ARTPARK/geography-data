@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66068603631167,15.10426291342691],[75.62936116273488,15.1042277102562],[75.62944908735119,15.06977998918008],[75.67353199882754,15.08172772927816],[75.66068603631167,15.10426291342691]]]},"properties":{"region_id":"village_602109","name":"BELLATTI","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3077140237929,13.19806418100125],[77.29917715088561,13.19857133294576],[77.2914722281776,13.19128539247785],[77.30169195467977,13.18648588708767],[77.3077140237929,13.19806418100125]]]},"properties":{"region_id":"village_624826","name":"BIDALUR","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

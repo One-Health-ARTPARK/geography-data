@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22143232424004,15.55545232304244],[76.2046445734576,15.55436000111656],[76.20368565513053,15.53181858403839],[76.22371595854739,15.53206113084349],[76.22143232424004,15.55545232304244]]]},"properties":{"region_id":"village_601319","name":"WATPARVI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81485239066696,14.96965800921629],[76.76640071675388,14.97461328173147],[76.76855849608197,14.95921247016154],[76.8165658795547,14.9440968320033],[76.81485239066696,14.96965800921629]]]},"properties":{"region_id":"village_605143","name":"BOMMADEVARAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

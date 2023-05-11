@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02376291398326,13.07312894668481],[76.00380622602447,13.07145268883396],[76.00687075246063,13.05471633541949],[76.0242320816369,13.0583571817465],[76.02376291398326,13.07312894668481]]]},"properties":{"region_id":"village_615855","name":"UGANE","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

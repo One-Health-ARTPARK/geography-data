@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90085133044869,13.37551824014386],[75.90408279620122,13.39675037871248],[75.89896705864412,13.39817580051466],[75.89512557194514,13.3817160692457],[75.90085133044869,13.37551824014386]]]},"properties":{"region_id":"village_609767","name":"BALENAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

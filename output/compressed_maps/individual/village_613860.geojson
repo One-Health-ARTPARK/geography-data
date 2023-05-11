@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80081517025755,12.89109117363072],[76.78929746910929,12.89340129666879],[76.78715714814861,12.88299694449145],[76.79631648351263,12.87784972434381],[76.80081517025755,12.89109117363072]]]},"properties":{"region_id":"village_613860","name":"YAGATAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83394587711173,12.62563869480045],[76.82619213538172,12.60741980953461],[76.84437986441341,12.60462505457407],[76.83394587711173,12.62563869480045]]]},"properties":{"region_id":"village_614412","name":"GUNNAIKANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

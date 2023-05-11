@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80556972701321,16.21602673976321],[76.77945464604589,16.21894700024298],[76.77107770612928,16.18532816656746],[76.78988213233696,16.18202728565423],[76.80556972701321,16.21602673976321]]]},"properties":{"region_id":"village_600928","name":"CHINCHARAKI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

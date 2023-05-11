@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9937853509458,13.10816103687073],[75.98029541907448,13.10664654920567],[75.98214715121696,13.09860734126292],[75.9937853509458,13.10816103687073]]]},"properties":{"region_id":"village_615346","name":"KESHAVAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

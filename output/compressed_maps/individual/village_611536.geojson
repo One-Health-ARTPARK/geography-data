@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04399395353353,13.12073047909266],[77.0416568428485,13.13595599300642],[77.02752977093334,13.12909711438805],[77.04399395353353,13.12073047909266]]]},"properties":{"region_id":"village_611536","name":"KALKERE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

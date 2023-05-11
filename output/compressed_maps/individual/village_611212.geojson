@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28983478841724,13.4013107435645],[77.2782131480433,13.40367221716646],[77.2760946435355,13.37835934018521],[77.29131767946402,13.38655743356111],[77.28983478841724,13.4013107435645]]]},"properties":{"region_id":"village_611212","name":"HULUVANGALA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

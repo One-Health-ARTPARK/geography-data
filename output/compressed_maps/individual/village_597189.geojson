@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69786613498678,16.44212645577404],[74.67276521436096,16.45641078258982],[74.64211507545615,16.42520736219339],[74.662757885081,16.4028670820472],[74.69786613498678,16.44212645577404]]]},"properties":{"region_id":"village_597189","name":"JODAKURLI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

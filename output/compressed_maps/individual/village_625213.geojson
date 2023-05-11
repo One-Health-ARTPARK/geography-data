@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51818247113904,13.21861067196242],[77.52427534892685,13.23529099016266],[77.51234199471187,13.23484309333201],[77.50780316317957,13.22731636711877],[77.51818247113904,13.21861067196242]]]},"properties":{"region_id":"village_625213","name":"GOWDAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

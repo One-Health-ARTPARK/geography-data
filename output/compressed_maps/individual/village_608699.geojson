@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72007774605748,13.69275331568254],[74.72647882357893,13.71999941090363],[74.70647391641242,13.71378401807226],[74.72007774605748,13.69275331568254]]]},"properties":{"region_id":"village_608699","name":"KUNDABARANDADI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

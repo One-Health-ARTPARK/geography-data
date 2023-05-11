@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14737360451097,15.02693979032871],[75.14443891468952,15.05378858619378],[75.1195192115347,15.04294221814031],[75.10605345029593,15.03189418590375],[75.14737360451097,15.02693979032871]]]},"properties":{"region_id":"village_603890","name":"DHUNDSHI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

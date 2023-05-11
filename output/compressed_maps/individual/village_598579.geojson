@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30840862574824,16.28740151009907],[75.29153816022962,16.29328324413987],[75.26936139817111,16.27327834213956],[75.26207486543056,16.24399889623792],[75.27956036402146,16.25546785587448],[75.30840862574824,16.28740151009907]]]},"properties":{"region_id":"village_598579","name":"GULGAL JAMBAGI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

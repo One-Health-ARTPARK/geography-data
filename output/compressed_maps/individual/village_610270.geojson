@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93198897554166,14.05450737541939],[76.97188625206765,14.05851982203971],[76.94853183198855,14.09213914552196],[76.93198897554166,14.05450737541939]]]},"properties":{"region_id":"village_610270","name":"CHIRATAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

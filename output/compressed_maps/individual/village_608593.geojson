@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72922762628036,13.81662633039633],[75.74098695143239,13.81364006426431],[75.76529128028072,13.81791750782111],[75.76739946057755,13.82559718070116],[75.74242736752282,13.82708671362862],[75.72922762628036,13.81662633039633]]]},"properties":{"region_id":"village_608593","name":"YAREHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

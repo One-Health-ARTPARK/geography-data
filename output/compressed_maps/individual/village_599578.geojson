@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09981157036998,16.35066258617449],[76.10441428217257,16.37324725412027],[76.08221814420845,16.37213605972636],[76.08036399378094,16.35273826161568],[76.09981157036998,16.35066258617449]]]},"properties":{"region_id":"village_599578","name":"GONAL (P.N.)","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

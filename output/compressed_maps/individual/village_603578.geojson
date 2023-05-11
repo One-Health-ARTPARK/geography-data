@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83041841593555,14.5109059803051],[74.81786344544173,14.51362357428947],[74.79971147723703,14.50324022363173],[74.81048743864638,14.49571198850601],[74.83041841593555,14.5109059803051]]]},"properties":{"region_id":"village_603578","name":"YELUGAR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

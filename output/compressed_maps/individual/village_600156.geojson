@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52408730051405,17.93092315430111],[77.5218632457907,17.93859973973541],[77.51520639503647,17.93754121762621],[77.51469998686879,17.93155105714618],[77.52408730051405,17.93092315430111]]]},"properties":{"region_id":"village_600156","name":"NAWADGERI","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

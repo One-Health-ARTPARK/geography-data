@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83153281808603,13.16415576124866],[76.81328016687893,13.18310263847638],[76.80426232003828,13.16164461438971],[76.83153281808603,13.16415576124866]]]},"properties":{"region_id":"village_611922","name":"BOCHIHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

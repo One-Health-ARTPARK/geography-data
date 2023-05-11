@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28621838766864,15.65984996661132],[76.28846158760473,15.6743202104322],[76.27037471063245,15.68313303589689],[76.26571932403569,15.66709317223107],[76.28621838766864,15.65984996661132]]]},"properties":{"region_id":"village_601278","name":"MARKAT","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57378500040844,12.94065000014557],[77.57506700001663,12.92917300019528],[77.57973499966339,12.93306100034947],[77.57378500040844,12.94065000014557]]]},"properties":{"region_id":"ward_bbmp167","name":"WARD NO.167 (YEDIYUR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

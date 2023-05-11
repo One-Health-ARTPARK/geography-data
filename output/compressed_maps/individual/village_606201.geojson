@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67451840435082,13.78582497573334],[76.6334733448306,13.7826866871714],[76.66014153226479,13.75576263520522],[76.67451840435082,13.78582497573334]]]},"properties":{"region_id":"village_606201","name":"LAKKENAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

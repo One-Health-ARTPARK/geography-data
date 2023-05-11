@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49592475897394,11.99223554539081],[76.49623327653556,12.00122246422668],[76.48312859310269,11.99359125447078],[76.49592475897394,11.99223554539081]]]},"properties":{"region_id":"village_619163","name":"JALAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

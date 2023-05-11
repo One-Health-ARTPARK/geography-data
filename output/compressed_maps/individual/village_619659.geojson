@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98263524954724,11.9673402172269],[76.9525962450353,11.95978285679961],[76.94902822755478,11.93396113236543],[76.96978550151711,11.94094356196776],[76.98318049228197,11.95397877873729],[76.98263524954724,11.9673402172269]]]},"properties":{"region_id":"village_619659","name":"KUDALUR","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

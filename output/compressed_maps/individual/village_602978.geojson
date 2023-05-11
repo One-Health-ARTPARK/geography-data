@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8358576298102,14.82721701863743],[74.82876031119737,14.82436727315274],[74.84366385836375,14.799445274958],[74.84906485310833,14.80440443569925],[74.8358576298102,14.82721701863743]]]},"properties":{"region_id":"village_602978","name":"SHIGEMANEUMMACHAGI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

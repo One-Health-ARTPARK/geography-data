@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95187838621122,15.88146834897494],[76.92137662981038,15.84873577465193],[76.94019244327204,15.84270433172034],[76.95187838621122,15.88146834897494]]]},"properties":{"region_id":"village_601168","name":"DUMTI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

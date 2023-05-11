@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.57143546675466,16.49113755772978],[74.54291951101479,16.49413371585872],[74.53535341223352,16.46982163451993],[74.5488006414578,16.45080937531296],[74.57143546675466,16.49113755772978]]]},"properties":{"region_id":"village_597171","name":"NAGARAL","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

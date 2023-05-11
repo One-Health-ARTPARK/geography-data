@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18157234668233,14.11982189574845],[76.16888726025591,14.11722066067465],[76.16297873393826,14.09884008112287],[76.17656724479318,14.09545772585047],[76.18157234668233,14.11982189574845]]]},"properties":{"region_id":"village_605721","name":"APPARASANAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

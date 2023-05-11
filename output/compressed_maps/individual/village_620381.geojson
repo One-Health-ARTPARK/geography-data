@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61119312829526,17.48715065189788],[77.57856655433582,17.48505420635419],[77.58695627378007,17.46819900240929],[77.60814449314485,17.46457042242663],[77.61119312829526,17.48715065189788]]]},"properties":{"region_id":"village_620381","name":"CHINDNOOR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62889300381306,13.3623286267499],[75.6091748685144,13.36366296616071],[75.59552802500949,13.35452040888223],[75.60165545436894,13.34481912763043],[75.62889300381306,13.3623286267499]]]},"properties":{"region_id":"village_609705","name":"KARAGOOR","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

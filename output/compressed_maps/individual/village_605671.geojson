@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07838466329125,14.09084705524513],[76.05472971816569,14.08974473605529],[76.05624003006785,14.07273512194827],[76.07522398337893,14.07610070804681],[76.07838466329125,14.09084705524513]]]},"properties":{"region_id":"village_605671","name":"RAMAGATTA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

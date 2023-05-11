@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28850233317226,14.60689760072132],[76.27921271963653,14.61803538527818],[76.26969338894983,14.60620311844023],[76.28850233317226,14.60689760072132]]]},"properties":{"region_id":"village_606392","name":"HIREBANNIHATTI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

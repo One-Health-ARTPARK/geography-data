@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00996127131225,16.57914519835701],[75.04513193588942,16.58452118311064],[75.03215733986949,16.61189968732668],[75.00448288846265,16.60720247586331],[75.00996127131225,16.57914519835701]]]},"properties":{"region_id":"village_597313","name":"KHAVATKOPPA","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

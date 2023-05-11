@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3317866362156,13.10762852803283],[76.32532243109401,13.11511188736867],[76.3236848826573,13.10012748143713],[76.3317866362156,13.10762852803283]]]},"properties":{"region_id":"village_615813","name":"BASAVANAPURA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

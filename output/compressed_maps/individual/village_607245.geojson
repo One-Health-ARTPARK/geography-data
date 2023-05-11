@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06567399856793,14.04924049968872],[75.06590627986593,14.05919747949651],[75.05392276616351,14.05640699391916],[75.05471771336286,14.0430773547726],[75.06567399856793,14.04924049968872]]]},"properties":{"region_id":"village_607245","name":"HEGGATTU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

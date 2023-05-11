@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39395638720974,16.46258804325987],[75.38360381206242,16.44769565634353],[75.40036291131275,16.44097367602176],[75.39395638720974,16.46258804325987]]]},"properties":{"region_id":"village_598449","name":"BUDNI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

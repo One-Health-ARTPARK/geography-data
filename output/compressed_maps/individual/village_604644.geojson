@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12447482750333,15.10518945163765],[76.119407281079,15.12585082536414],[76.07879595292187,15.11119383753553],[76.11298881576138,15.08958684231258],[76.12447482750333,15.10518945163765]]]},"properties":{"region_id":"village_604644","name":"G.KODIHALLI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3163551506561,15.48134863700798],[76.30443417008593,15.44239389552235],[76.34132924015834,15.41140672862032],[76.36432125169978,15.45063551262987],[76.3163551506561,15.48134863700798]]]},"properties":{"region_id":"village_601832","name":"INDARGI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

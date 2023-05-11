@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76886298795547,15.33126400050573],[74.75768731873,15.33889977593884],[74.74309403812941,15.33571140877176],[74.75113801295643,15.32236589123108],[74.76886298795547,15.33126400050573]]]},"properties":{"region_id":"village_938825","name":"HALIYALA","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

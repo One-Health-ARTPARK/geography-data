@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.200726426401,13.37265405721442],[76.18185920906268,13.3930537475415],[76.16593511698876,13.36969158076579],[76.17553145542001,13.35854955090704],[76.200726426401,13.37265405721442]]]},"properties":{"region_id":"village_615560","name":"CHALUVANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

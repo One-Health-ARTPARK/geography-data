@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80965939941728,12.64056447071949],[75.8424577865994,12.63622788900941],[75.83969966403205,12.65749207154161],[75.80965939941728,12.64056447071949]]]},"properties":{"region_id":"village_617926","name":"DODDATHOLUR","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

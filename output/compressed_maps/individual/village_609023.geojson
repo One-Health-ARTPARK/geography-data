@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36697596332739,13.38863254937383],[75.36661918264625,13.41049330098038],[75.33636801021763,13.40841928508031],[75.35236582035621,13.38164781564527],[75.36697596332739,13.38863254937383]]]},"properties":{"region_id":"village_609023","name":"KULUR","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

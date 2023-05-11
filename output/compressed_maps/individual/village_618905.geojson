@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41379036420585,12.01527448991559],[76.40144421247834,12.0361449539559],[76.39502001775578,12.01608906269026],[76.41379036420585,12.01527448991559]]]},"properties":{"region_id":"village_618905","name":"ITNA","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

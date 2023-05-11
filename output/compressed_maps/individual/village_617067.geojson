@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3116560561003,12.96361290635339],[76.30240853293031,12.97075689950128],[76.29797126816403,12.95704186869605],[76.3116560561003,12.96361290635339]]]},"properties":{"region_id":"village_617067","name":"VAGARAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

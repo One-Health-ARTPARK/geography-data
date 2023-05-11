@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84782845009008,11.95414537078072],[76.82912448307924,11.96567872181244],[76.82051430872893,11.9341886247196],[76.83684237176531,11.92478081157507],[76.84782845009008,11.95414537078072]]]},"properties":{"region_id":"village_619686","name":"GOVINDAVADI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

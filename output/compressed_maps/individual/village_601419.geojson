@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01038894957624,15.99252457090045],[75.98748241253097,15.99600212436753],[75.9894410976596,15.97930253842507],[76.00984826025733,15.98031613082055],[76.01038894957624,15.99252457090045]]]},"properties":{"region_id":"village_601419","name":"KADOOR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

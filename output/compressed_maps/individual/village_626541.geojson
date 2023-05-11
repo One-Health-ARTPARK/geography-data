@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30279113419397,12.41844348638411],[77.29642999694556,12.402932534379],[77.31322739687263,12.39231518069619],[77.32540285169173,12.40064143427757],[77.30279113419397,12.41844348638411]]]},"properties":{"region_id":"village_626541","name":"BOOHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

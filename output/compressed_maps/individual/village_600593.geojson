@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99315090009085,16.56018752470337],[76.96525688198953,16.5444473584967],[76.98550998608036,16.52665947840403],[76.99315090009085,16.56018752470337]]]},"properties":{"region_id":"village_600593","name":"KONCHAPLI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

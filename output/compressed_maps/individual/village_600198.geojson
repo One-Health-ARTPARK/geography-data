@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43506690700906,17.91342831236793],[77.43902603244504,17.92383111975252],[77.42701020181532,17.9300139920412],[77.42118933654203,17.91383191218689],[77.43506690700906,17.91342831236793]]]},"properties":{"region_id":"village_600198","name":"KOLHAR (B)","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06443706214334,17.31563865644204],[76.00828151587254,17.32675353375114],[76.00228733567722,17.2830448243685],[76.06291758444623,17.26872881767902],[76.06443706214334,17.31563865644204]]]},"properties":{"region_id":"village_599248","name":"AGARKHED","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

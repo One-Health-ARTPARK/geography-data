@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7170652948431,15.90086101704569],[76.70102429576772,15.90158897015235],[76.69702144396882,15.88201528405894],[76.71646290717757,15.8807189536618],[76.7170652948431,15.90086101704569]]]},"properties":{"region_id":"village_601101","name":"DEENSAMUDRA","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

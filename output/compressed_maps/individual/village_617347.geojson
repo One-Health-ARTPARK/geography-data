@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57012311205924,12.92197432275736],[76.5715118585855,12.93016945740704],[76.55748492292987,12.93103450083338],[76.55604532858908,12.92339099588163],[76.57012311205924,12.92197432275736]]]},"properties":{"region_id":"village_617347","name":"SOREKAYIPURA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99548241501128,16.44812169516936],[76.9852557164949,16.45175975247536],[76.97924968732708,16.43609043029393],[76.99365567098734,16.43548121228655],[76.99548241501128,16.44812169516936]]]},"properties":{"region_id":"village_600623","name":"GUNDGURTHI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

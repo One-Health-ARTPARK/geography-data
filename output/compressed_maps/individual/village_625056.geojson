@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65606126082582,13.36818153681726],[77.65906190472023,13.38217225161647],[77.64317002457406,13.37602283000437],[77.65606126082582,13.36818153681726]]]},"properties":{"region_id":"village_625056","name":"CHANNAPURA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

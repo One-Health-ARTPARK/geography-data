@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74822141454823,11.89546222832118],[76.73234506223031,11.9145117559189],[76.728385616822,11.89559608493466],[76.74822141454823,11.89546222832118]]]},"properties":{"region_id":"village_619480","name":"KABBAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

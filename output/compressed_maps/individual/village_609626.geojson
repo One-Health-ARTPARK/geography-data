@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92983485249417,13.41428102799462],[75.9099490377967,13.41534565622848],[75.92097669878753,13.39774026516584],[75.92983485249417,13.41428102799462]]]},"properties":{"region_id":"village_609626","name":"KALUVEHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

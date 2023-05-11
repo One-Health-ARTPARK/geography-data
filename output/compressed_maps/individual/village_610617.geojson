@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19820640716573,14.10519315090117],[77.17790441005467,14.10445820401396],[77.18368388061883,14.09079616940138],[77.20558490240182,14.08959670594313],[77.19820640716573,14.10519315090117]]]},"properties":{"region_id":"village_610617","name":"DEVARABETTA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

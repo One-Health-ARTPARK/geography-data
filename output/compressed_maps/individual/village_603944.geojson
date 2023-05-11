@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24789660812668,14.98041334425878],[75.23231579822522,14.97680503945063],[75.23913504670789,14.96149403366508],[75.2546206286196,14.96068272309803],[75.24789660812668,14.98041334425878]]]},"properties":{"region_id":"village_603944","name":"CHAKAPUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

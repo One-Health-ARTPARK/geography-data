@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.49176409787246,14.25556391650639],[74.49022898320268,14.24849341980534],[74.50220188095368,14.24722998346615],[74.50062057491218,14.25284642896443],[74.49176409787246,14.25556391650639]]]},"properties":{"region_id":"village_603783","name":"MOLKOD","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

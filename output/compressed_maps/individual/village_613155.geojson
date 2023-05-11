@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6213040061639,12.7482380943129],[77.62390891291433,12.76103764434059],[77.6183380462154,12.76022176835657],[77.6167940381749,12.75093585656658],[77.6213040061639,12.7482380943129]]]},"properties":{"region_id":"village_613155","name":"GIDDENAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

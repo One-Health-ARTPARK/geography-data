@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1131130257997,16.26361285972978],[76.10114551388534,16.26341841402859],[76.07936721339851,16.27399751483389],[76.08266239582007,16.25590096689094],[76.10837178861794,16.24812109120785],[76.1131130257997,16.26361285972978]]]},"properties":{"region_id":"village_599630","name":"DEVOOR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

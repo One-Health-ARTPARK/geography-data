@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86235391453435,13.76738783330648],[77.84762033120307,13.76450071122057],[77.84557857123315,13.75363273863188],[77.85985649101337,13.75636065627972],[77.86235391453435,13.76738783330648]]]},"properties":{"region_id":"village_623874","name":"LAGUMADDEPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

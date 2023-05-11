@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1818053250027,16.8564579502084],[77.15483721124427,16.88979330434215],[77.13795115276322,16.84859577517141],[77.1818053250027,16.8564579502084]]]},"properties":{"region_id":"village_621240","name":"HATTIKUNI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54426141759399,12.99598053706008],[76.53132248860936,12.99391175685717],[76.52906172209826,12.98211403286539],[76.54587845929278,12.98006450812451],[76.54426141759399,12.99598053706008]]]},"properties":{"region_id":"village_617298","name":"MARADIHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

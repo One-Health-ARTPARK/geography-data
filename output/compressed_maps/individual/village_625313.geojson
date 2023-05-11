@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72570656270229,13.33853286420243],[77.71854838194167,13.33873893690447],[77.71765763038613,13.32647960477007],[77.72344010718179,13.32624905232677],[77.72570656270229,13.33853286420243]]]},"properties":{"region_id":"village_625313","name":"HOSAHUDYA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

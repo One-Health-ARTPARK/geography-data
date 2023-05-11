@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54682113436243,13.54089661103393],[76.53225700792085,13.54172227411494],[76.52695378966158,13.52914794612947],[76.55070747648624,13.52483502474071],[76.54682113436243,13.54089661103393]]]},"properties":{"region_id":"village_610126","name":"NANDIHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

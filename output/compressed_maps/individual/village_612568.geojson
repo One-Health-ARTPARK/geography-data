@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1084621568105,12.94351760408328],[77.08742259902017,12.93909934046602],[77.09331636099553,12.92467918015862],[77.11063207759747,12.92703648457383],[77.1084621568105,12.94351760408328]]]},"properties":{"region_id":"village_612568","name":"KADASINGANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

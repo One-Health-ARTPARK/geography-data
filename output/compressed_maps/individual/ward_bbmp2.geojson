@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58467100045952,13.13337600036928],[77.57418400027699,13.12530400003124],[77.57222000023691,13.10900800002782],[77.58696899962578,13.1145249995664],[77.58467100045952,13.13337600036928]]]},"properties":{"region_id":"ward_bbmp2","name":"WARD NO.2 (CHOWDESWARI WARD)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

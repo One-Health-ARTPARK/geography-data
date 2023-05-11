@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26184130488913,14.83017950488523],[75.28099809636163,14.84148236343748],[75.26931539742456,14.84902922759152],[75.26184130488913,14.83017950488523]]]},"properties":{"region_id":"village_604065","name":"ALLAPUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

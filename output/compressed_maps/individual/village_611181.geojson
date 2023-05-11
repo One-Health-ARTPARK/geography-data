@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27955844915651,13.42613307045432],[77.26496534610799,13.42641768485403],[77.26881766029125,13.40856059670283],[77.27763588652478,13.41158628729418],[77.27955844915651,13.42613307045432]]]},"properties":{"region_id":"village_611181","name":"MARAGONDANAGUNI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

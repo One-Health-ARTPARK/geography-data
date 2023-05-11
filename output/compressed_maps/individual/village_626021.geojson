@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22467159719899,12.85782579130853],[77.21502476184729,12.87130329515063],[77.20505385516779,12.85869209334926],[77.22467159719899,12.85782579130853]]]},"properties":{"region_id":"village_626021","name":"LAKKASANDRA","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

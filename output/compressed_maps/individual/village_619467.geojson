@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61619848847458,11.87917318940838],[76.60424517385853,11.88875212648178],[76.58912030822358,11.88633243000309],[76.60831178684803,11.87731073344411],[76.61619848847458,11.87917318940838]]]},"properties":{"region_id":"village_619467","name":"SAVAKANAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

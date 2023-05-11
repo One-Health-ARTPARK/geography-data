@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40160054659871,16.48758201880013],[76.40507703259883,16.52071077590508],[76.38973451329439,16.51322830028444],[76.40160054659871,16.48758201880013]]]},"properties":{"region_id":"village_599706","name":"BELUR","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

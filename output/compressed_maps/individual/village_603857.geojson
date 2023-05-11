@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60337549243404,13.98295349124891],[74.59468041007804,13.97502352659905],[74.599367370714,13.96931739534016],[74.60884486672985,13.97558660316726],[74.60337549243404,13.98295349124891]]]},"properties":{"region_id":"village_603857","name":"HERUR","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

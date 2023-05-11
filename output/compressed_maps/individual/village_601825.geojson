@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30308838718194,15.41576567533034],[76.28331801752394,15.41710260417207],[76.28137877158748,15.38830261761732],[76.29861735757382,15.38525058657702],[76.30308838718194,15.41576567533034]]]},"properties":{"region_id":"village_601825","name":"DHANGALDODDI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

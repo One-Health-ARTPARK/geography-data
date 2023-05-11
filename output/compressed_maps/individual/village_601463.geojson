@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10435828969041,15.74620040808494],[76.07296924437527,15.74280799788264],[76.07553312928023,15.71623514882381],[76.10888216200914,15.72822521493437],[76.10435828969041,15.74620040808494]]]},"properties":{"region_id":"village_601463","name":"HIREBANNIGOL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

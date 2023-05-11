@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09429695969703,13.54913991736914],[77.07792409570303,13.53979582871916],[77.08960869155588,13.53059069022991],[77.09429695969703,13.54913991736914]]]},"properties":{"region_id":"village_611004","name":"THOVINAKERE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

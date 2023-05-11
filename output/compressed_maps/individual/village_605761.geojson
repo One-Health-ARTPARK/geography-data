@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25885646943314,14.13177774366726],[76.25630957627196,14.14124833982479],[76.24624011366213,14.14123686354744],[76.23842863300365,14.13198577215069],[76.25885646943314,14.13177774366726]]]},"properties":{"region_id":"village_605761","name":"AMRUTHAPURA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

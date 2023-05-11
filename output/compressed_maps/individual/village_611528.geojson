@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10703093554292,13.18042896309128],[77.09904747743195,13.18719123366353],[77.09744671696978,13.17536065697317],[77.10703093554292,13.18042896309128]]]},"properties":{"region_id":"village_611528","name":"KARENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

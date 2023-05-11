@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33807224134522,15.53655337404662],[76.32590122231511,15.5357589030889],[76.31403957855197,15.51329134162509],[76.3262265234222,15.50760246865202],[76.33807224134522,15.53655337404662]]]},"properties":{"region_id":"village_601572","name":"GUDDALAKAMPUR","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

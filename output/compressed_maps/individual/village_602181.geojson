@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82926405673173,15.09877786266648],[75.86708970395415,15.12515592036264],[75.85038632424822,15.1377256145039],[75.80931598319715,15.1258820858225],[75.82926405673173,15.09877786266648]]]},"properties":{"region_id":"village_602181","name":"BIDNAL","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7030857106771,13.40261164502454],[76.66659392468722,13.35401415859196],[76.7065162761198,13.35049459077329],[76.7030857106771,13.40261164502454]]]},"properties":{"region_id":"village_610264","name":"SONDENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

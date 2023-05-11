@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85026146399251,14.51198948326651],[74.84228289595012,14.52033503561665],[74.83371572711778,14.50677115987345],[74.85026146399251,14.51198948326651]]]},"properties":{"region_id":"village_603592","name":"TAREHALLI-KANSUR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

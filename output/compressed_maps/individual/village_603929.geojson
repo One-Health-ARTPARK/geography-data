@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28171302249046,15.02350593449027],[75.26952775728105,15.02735643109944],[75.24690722930781,15.01858675629014],[75.24868559403785,15.00822433750238],[75.28238146358167,15.0115456154211],[75.28171302249046,15.02350593449027]]]},"properties":{"region_id":"village_603929","name":"HIREMALLUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0743381657484,12.78012079360569],[77.06589484402589,12.81039003275746],[77.04095051286984,12.80572485045206],[77.04896816878937,12.77138696409184],[77.0743381657484,12.78012079360569]]]},"properties":{"region_id":"village_612744","name":"P. HONNAMACHANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

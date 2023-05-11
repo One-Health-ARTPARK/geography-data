@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0206103196293,15.4588193592103],[75.00864351964648,15.45399861034225],[75.00551678834863,15.44355133076876],[75.02056776509623,15.44803190390041],[75.0206103196293,15.4588193592103]]]},"properties":{"region_id":"village_938688","name":"HOSAYALLAPURA M","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

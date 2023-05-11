@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37241120721009,13.23943677058507],[77.36132415091751,13.23931483632093],[77.34893908750774,13.25136442927782],[77.34416379485742,13.23560475735724],[77.36209299832818,13.22926191290648],[77.37241120721009,13.23943677058507]]]},"properties":{"region_id":"village_624800","name":"KENCHANAPURA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

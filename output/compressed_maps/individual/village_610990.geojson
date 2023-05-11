@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04826129261684,13.55891259201959],[77.05129920719111,13.56596484214676],[77.03910811712589,13.57015278007896],[77.03471925562935,13.56273963565765],[77.04826129261684,13.55891259201959]]]},"properties":{"region_id":"village_610990","name":"AJJENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

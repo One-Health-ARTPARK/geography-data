@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62087799991006,13.00966999973365],[77.61335899972647,13.00855200034227],[77.61684699968367,13.00187700019617],[77.62087799991006,13.00966999973365]]]},"properties":{"region_id":"ward_bbmp60","name":"WARD NO.60 (SAGAYARA PURAM)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33287651367995,13.63460026417908],[77.3179382039204,13.63735308439182],[77.31401605780454,13.61354595827282],[77.33052116310974,13.60770550967045],[77.33287651367995,13.63460026417908]]]},"properties":{"region_id":"village_610983","name":"NITRAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

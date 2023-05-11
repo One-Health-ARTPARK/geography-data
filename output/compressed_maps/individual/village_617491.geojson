@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97607686261318,12.97020480851475],[74.95774925223981,12.97315289696841],[74.96179305647114,12.94662495123672],[74.97866353354824,12.95401342679756],[74.97607686261318,12.97020480851475]]]},"properties":{"region_id":"village_617491","name":"MOGARU","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

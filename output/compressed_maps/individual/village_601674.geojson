@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5231908874667,15.58781362924679],[76.49925933550327,15.5826415445391],[76.51226946226436,15.56276221738129],[76.52818098735462,15.57395584738909],[76.5231908874667,15.58781362924679]]]},"properties":{"region_id":"village_601674","name":"JEERAL","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

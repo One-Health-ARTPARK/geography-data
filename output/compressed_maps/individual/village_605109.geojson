@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64904900378085,14.72369062222338],[76.6277930248749,14.72614955531582],[76.63928202990962,14.7115761905774],[76.64904900378085,14.72369062222338]]]},"properties":{"region_id":"village_605109","name":"KOMBIHALLI","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.29813782273673,13.16460970586946],[78.29120208607618,13.17832277611187],[78.27904649903819,13.1673036359893],[78.2887816306504,13.15347593718747],[78.29813782273673,13.16460970586946]]]},"properties":{"region_id":"village_622896","name":"HANAMANAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

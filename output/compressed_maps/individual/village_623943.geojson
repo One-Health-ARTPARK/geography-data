@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98994556841151,13.78557130456663],[77.98120433864764,13.78502273057893],[77.97813315263808,13.76826439663321],[77.98597234565925,13.77242096417316],[77.98994556841151,13.78557130456663]]]},"properties":{"region_id":"village_623943","name":"RECHINAIKANAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

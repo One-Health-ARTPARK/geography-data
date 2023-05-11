@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4738719928346,16.32934339705833],[76.45218847488779,16.34400632750298],[76.45581734750398,16.31231207207495],[76.4738719928346,16.32934339705833]]]},"properties":{"region_id":"village_620979","name":"KRISHNANAGAR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83180058393707,12.33333145722616],[75.81634742602205,12.32780684099757],[75.83144847045219,12.2990722398434],[75.84848225035246,12.31396231357375],[75.83180058393707,12.33333145722616]]]},"properties":{"region_id":"village_617840","name":"AREKADU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

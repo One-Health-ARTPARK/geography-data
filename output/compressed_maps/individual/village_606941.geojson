@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92970138100083,14.25068891150144],[75.92234287795343,14.24339959883992],[75.92307934531095,14.22237782904178],[75.93426333873366,14.22765495160085],[75.92970138100083,14.25068891150144]]]},"properties":{"region_id":"village_606941","name":"KEMPANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

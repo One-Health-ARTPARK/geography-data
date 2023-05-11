@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13564609461375,15.26583522746521],[75.12101816169053,15.26599355324452],[75.110303987922,15.25803852111425],[75.11164268160324,15.25194867059163],[75.14017351279193,15.25265256730016],[75.13564609461375,15.26583522746521]]]},"properties":{"region_id":"village_602418","name":"BELEGALI","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

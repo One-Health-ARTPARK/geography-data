@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83196232177227,12.78090294959189],[76.82496372284956,12.79185113760675],[76.8005074305473,12.78742188258542],[76.79684769388108,12.77548634299936],[76.81970608620787,12.77375551118567],[76.83196232177227,12.78090294959189]]]},"properties":{"region_id":"village_613939","name":"DANDIGANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

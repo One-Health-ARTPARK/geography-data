@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87503214860412,12.51589807836653],[75.87536055516507,12.50240516970428],[75.88219162240594,12.50024554926506],[75.88327743046612,12.51209643553327],[75.87503214860412,12.51589807836653]]]},"properties":{"region_id":"village_939270","name":"HORAVALE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

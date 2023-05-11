@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55345222171758,14.49955904561822],[75.53872972093353,14.51644564034565],[75.5141078028263,14.50952723157051],[75.52448027051261,14.4854001305625],[75.55345222171758,14.49955904561822]]]},"properties":{"region_id":"village_604404","name":"NESHWI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

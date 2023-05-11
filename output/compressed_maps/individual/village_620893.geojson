@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4425072738502,16.66718627432888],[76.43624206932822,16.67887494782095],[76.42545917385598,16.68468503874748],[76.42501824804948,16.66616266940703],[76.4425072738502,16.66718627432888]]]},"properties":{"region_id":"village_620893","name":"DORNAHALLI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

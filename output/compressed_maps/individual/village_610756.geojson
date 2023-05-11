@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05741462576083,13.67066440425115],[77.04084984934187,13.67646484577032],[77.03910477971604,13.66694062473369],[77.05741462576083,13.67066440425115]]]},"properties":{"region_id":"village_610756","name":"KURIHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

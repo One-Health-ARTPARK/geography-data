@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92546158963029,13.73574280349451],[75.94302477289142,13.73982772100717],[75.95100268185806,13.75113331579134],[75.93147118893552,13.75498059508486],[75.92546158963029,13.73574280349451]]]},"properties":{"region_id":"village_609298","name":"KARANAGHATTA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20076209655923,12.55554940875213],[77.19130489349317,12.55601320919492],[77.18292321195065,12.54913772372702],[77.19646538354723,12.54309844108187],[77.20076209655923,12.55554940875213]]]},"properties":{"region_id":"village_626295","name":"BANAGAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

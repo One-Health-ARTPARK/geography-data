@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13796395728058,12.703089052796],[77.12439507466931,12.70566405128392],[77.11087161027096,12.69837988141454],[77.12877604716758,12.68976671415636],[77.13796395728058,12.703089052796]]]},"properties":{"region_id":"village_626205","name":"THAVATANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

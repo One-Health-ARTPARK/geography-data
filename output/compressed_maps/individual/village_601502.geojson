@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19337288579068,15.72316412310101],[76.17103461822185,15.72745821472591],[76.1653081117526,15.71360035153163],[76.18362712281409,15.70471488990283],[76.19337288579068,15.72316412310101]]]},"properties":{"region_id":"village_601502","name":"NEREBENCHI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

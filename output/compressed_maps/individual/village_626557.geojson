@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41093142611217,12.41434848953095],[77.39076402197894,12.42856783325521],[77.38501427750047,12.40734918455362],[77.41093142611217,12.41434848953095]]]},"properties":{"region_id":"village_626557","name":"MAHIMANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

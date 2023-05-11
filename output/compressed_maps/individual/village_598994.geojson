@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23785695628112,16.01364158287704],[76.23537463876531,16.02505732687669],[76.20860392873621,16.03265776094884],[76.21338134813901,16.0155262759265],[76.23785695628112,16.01364158287704]]]},"properties":{"region_id":"village_598994","name":"HIREADAPUR","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

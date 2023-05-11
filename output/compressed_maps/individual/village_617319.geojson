@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61708904579005,13.06449065013881],[76.60784917892819,13.07383431116399],[76.59545214896595,13.07420034388149],[76.60410841616833,13.05741878768352],[76.61708904579005,13.06449065013881]]]},"properties":{"region_id":"village_617319","name":"BIDARAKERE","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

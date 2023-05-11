@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68834124496152,17.21505936586737],[75.64028187835562,17.19391134373107],[75.6474878407827,17.13471173758982],[75.72239065419238,17.13683822702973],[75.68834124496152,17.21505936586737]]]},"properties":{"region_id":"village_599193","name":"JIGAJEEVANI","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

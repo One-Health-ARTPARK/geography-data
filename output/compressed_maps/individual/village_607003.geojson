@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84844181096004,14.11571283890109],[75.83080881938659,14.11575343439979],[75.81390255544066,14.09429074529511],[75.84723447867785,14.10393160727729],[75.84844181096004,14.11571283890109]]]},"properties":{"region_id":"village_607003","name":"N.GANADAKATTE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

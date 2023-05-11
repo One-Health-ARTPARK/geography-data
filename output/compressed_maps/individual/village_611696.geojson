@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97219019067873,13.48020703544488],[76.94823332186311,13.49317954549166],[76.94670050426686,13.47713234092738],[76.96393736816536,13.46852309996255],[76.97219019067873,13.48020703544488]]]},"properties":{"region_id":"village_611696","name":"SOREKAYIPENTE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10977130603062,12.66887772498646],[76.09805102842174,12.67158865040989],[76.09251358307073,12.64888618109415],[76.10859146575949,12.65872209777724],[76.10977130603062,12.66887772498646]]]},"properties":{"region_id":"village_616651","name":"AGRAHARA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70174201872754,13.39307834422667],[75.69125218180486,13.35478498006924],[75.70860365881653,13.34607808636435],[75.72974582128488,13.35808841479062],[75.71673355854752,13.38809174038247],[75.70174201872754,13.39307834422667]]]},"properties":{"region_id":"village_609718","name":"HIREKOLALE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

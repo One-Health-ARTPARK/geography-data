@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76555539837021,12.87094090883713],[76.74945235859504,12.8883253467118],[76.74211662155338,12.86551714182399],[76.76555539837021,12.87094090883713]]]},"properties":{"region_id":"village_613864","name":"KACHENAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

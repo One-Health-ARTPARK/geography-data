@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87678936820042,13.00149795277524],[77.86973580360353,13.01484035049129],[77.86199297014795,13.00094449967842],[77.87678936820042,13.00149795277524]]]},"properties":{"region_id":"village_625676","name":"KHAJIHOSAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

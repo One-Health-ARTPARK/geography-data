@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98241433435004,13.16258919589322],[75.97103263046657,13.1604685284317],[75.97341625014116,13.1505919717844],[75.98214966267963,13.14910570103943],[75.98241433435004,13.16258919589322]]]},"properties":{"region_id":"village_615280","name":"DEVIHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

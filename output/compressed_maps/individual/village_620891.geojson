@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4662061766369,16.64910117783231],[76.46375113498402,16.6644150310845],[76.44260108944758,16.66712654258669],[76.44663333075358,16.65156441335353],[76.4662061766369,16.64910117783231]]]},"properties":{"region_id":"village_620891","name":"BEVINHAL (S.K.)","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

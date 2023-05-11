@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27071888539669,13.45976474732339],[75.26225455356503,13.46366107910756],[75.25170495174177,13.44989927853417],[75.27154608982279,13.44665824705146],[75.27071888539669,13.45976474732339]]]},"properties":{"region_id":"village_608946","name":"KAVADI","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

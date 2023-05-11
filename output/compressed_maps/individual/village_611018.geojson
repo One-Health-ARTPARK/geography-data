@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15091359047564,13.52463275754406],[77.12510775411896,13.52945191929594],[77.13499540427384,13.51418156251192],[77.14990491295332,13.51117326629504],[77.15091359047564,13.52463275754406]]]},"properties":{"region_id":"village_611018","name":"HOLATHALU","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

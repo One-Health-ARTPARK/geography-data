@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27350248276515,16.53542649577943],[77.2339972024432,16.5354199874969],[77.23422016066371,16.51808800843148],[77.25626594093276,16.52445879363962],[77.27350248276515,16.53542649577943]]]},"properties":{"region_id":"village_621379","name":"SANGWAR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

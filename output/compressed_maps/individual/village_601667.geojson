@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51041566666954,15.62870846429513],[76.50637130582157,15.64444654259021],[76.47298511255256,15.63106397460962],[76.47197497736167,15.61605724162651],[76.51041566666954,15.62870846429513]]]},"properties":{"region_id":"village_601667","name":"AKALKUMPI","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

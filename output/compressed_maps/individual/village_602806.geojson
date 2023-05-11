@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75563459333273,15.27035296021061],[74.73823314743649,15.26637912126051],[74.74256793477461,15.25230207647166],[74.76293219739435,15.25772558590369],[74.75563459333273,15.27035296021061]]]},"properties":{"region_id":"village_602806","name":"KARLKATTA","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

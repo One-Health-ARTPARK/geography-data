@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01089612642586,13.46962184392899],[77.01194012775561,13.49193916195543],[77.00319817965418,13.4830876309142],[77.00043746089786,13.46641580565707],[77.01089612642586,13.46962184392899]]]},"properties":{"region_id":"village_611249","name":"PURADAKUNTE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

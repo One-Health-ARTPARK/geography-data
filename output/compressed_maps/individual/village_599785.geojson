@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84146726050402,17.84417732738146],[76.81379326368821,17.85131311343827],[76.79879550978316,17.82880492853974],[76.82802249812616,17.81485386477272],[76.84146726050402,17.84417732738146]]]},"properties":{"region_id":"village_599785","name":"CHANDAKPUR","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

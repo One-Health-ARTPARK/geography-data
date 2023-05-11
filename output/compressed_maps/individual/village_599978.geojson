@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30349129246407,18.39002602956477],[77.26996752840674,18.37818651966556],[77.26457531928618,18.34622229490604],[77.30462682511497,18.34844871135986],[77.30349129246407,18.39002602956477]]]},"properties":{"region_id":"village_599978","name":"DABKA(CHAWAR)","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

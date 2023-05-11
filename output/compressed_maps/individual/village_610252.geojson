@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63687338502679,13.36586848178446],[76.61776707043506,13.36832459766383],[76.61616694411049,13.35757976856273],[76.63687338502679,13.36586848178446]]]},"properties":{"region_id":"village_610252","name":"JAYACHAMARAJAPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

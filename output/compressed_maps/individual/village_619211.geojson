@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78606690101523,12.14372850186326],[76.77735422210068,12.13974577746884],[76.78551310285401,12.13416997084471],[76.78606690101523,12.14372850186326]]]},"properties":{"region_id":"village_619211","name":"KALMAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

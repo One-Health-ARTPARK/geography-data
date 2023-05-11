@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20886296155305,13.72416824519106],[76.20562719895446,13.74449253636618],[76.18569063815936,13.73933309985903],[76.18675046971725,13.72564505488461],[76.20886296155305,13.72416824519106]]]},"properties":{"region_id":"village_605893","name":"KONDAJJI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

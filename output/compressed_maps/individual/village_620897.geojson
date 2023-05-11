@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46607739690874,16.61942746814765],[76.46772598921754,16.63088318718158],[76.45518253558258,16.64002018991937],[76.455365979852,16.62430700861362],[76.46607739690874,16.61942746814765]]]},"properties":{"region_id":"village_620897","name":"MALKAPUR","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

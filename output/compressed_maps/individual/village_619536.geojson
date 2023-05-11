@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78284189217874,11.78269211799044],[76.77447463860805,11.77676593437171],[76.7899485405161,11.76075125450506],[76.79355511947188,11.77723753522538],[76.78284189217874,11.78269211799044]]]},"properties":{"region_id":"village_619536","name":"DEPAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

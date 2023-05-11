@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63701218124832,12.52579238681669],[76.62298144223574,12.5318323750255],[76.61948436198493,12.51528349508377],[76.63317602041133,12.50784053213106],[76.63701218124832,12.52579238681669]]]},"properties":{"region_id":"village_614199","name":"VADDARAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

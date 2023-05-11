@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8824411766343,12.01593260951371],[75.91046828053669,12.0392687426858],[75.91371066551764,12.05627248469903],[75.88990903844496,12.07852457075105],[75.87933678551327,12.05196112889089],[75.8824411766343,12.01593260951371]]]},"properties":{"region_id":"village_618061","name":"BADAGARAKERI","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

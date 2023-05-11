@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5277712195807,12.28964134735094],[76.53056135667308,12.29553596708816],[76.52563142889488,12.29827732878657],[76.5277712195807,12.28964134735094]]]},"properties":{"region_id":"village_618716","name":"CHANDRABEEDU","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

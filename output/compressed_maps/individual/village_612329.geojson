@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6067896579736,13.11058466069149],[76.59468987979695,13.1090376802623],[76.59846341454275,13.09700667760533],[76.61009580921446,13.09856077067369],[76.6067896579736,13.11058466069149]]]},"properties":{"region_id":"village_612329","name":"BRAMHADEVARAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

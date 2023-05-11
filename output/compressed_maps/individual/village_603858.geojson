@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6292060220469,13.98430909952791],[74.6049861212395,13.98681703154936],[74.61585119780374,13.97409363062612],[74.6292060220469,13.98430909952791]]]},"properties":{"region_id":"village_603858","name":"HADLUR","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

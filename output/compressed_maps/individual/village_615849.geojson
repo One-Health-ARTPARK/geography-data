@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99232726086242,13.05663106020476],[75.99417321431224,13.06251677074657],[75.99086908475967,13.06636472323974],[75.9859238800635,13.06165642965085],[75.99232726086242,13.05663106020476]]]},"properties":{"region_id":"village_615849","name":"LOKANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

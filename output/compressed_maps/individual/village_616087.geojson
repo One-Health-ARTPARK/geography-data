@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03536692560455,12.87777456987821],[76.02618781652174,12.86920532828079],[76.03531465516082,12.85673545330042],[76.04372650647542,12.87107322269143],[76.03536692560455,12.87777456987821]]]},"properties":{"region_id":"village_616087","name":"CHOWDAVALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

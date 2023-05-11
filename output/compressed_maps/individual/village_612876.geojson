@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50002109014368,13.11841612711463],[77.48426937711606,13.12053906677326],[77.47785067212813,13.10557962895962],[77.4977516857207,13.1088032113808],[77.50002109014368,13.11841612711463]]]},"properties":{"region_id":"village_612876","name":"HURALI CHIKKANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

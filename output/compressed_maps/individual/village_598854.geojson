@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89632312885209,16.15701091467265],[75.92003176059411,16.18025871182779],[75.87178075193975,16.18511221380157],[75.89632312885209,16.15701091467265]]]},"properties":{"region_id":"village_598854","name":"CHOUDAPUR","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

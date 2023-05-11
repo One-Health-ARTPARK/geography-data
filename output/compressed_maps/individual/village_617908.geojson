@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92615291849677,12.64821753244009],[75.92293609121916,12.63978123823722],[75.93624431279831,12.62983899771024],[75.94281396222979,12.63656638457929],[75.92615291849677,12.64821753244009]]]},"properties":{"region_id":"village_617908","name":"ALUR","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

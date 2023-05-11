@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28157540868841,14.47236656166666],[76.25298026423314,14.48174383474406],[76.2534808486925,14.46843970343786],[76.28157540868841,14.47236656166666]]]},"properties":{"region_id":"village_606480","name":"KORTIKERE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

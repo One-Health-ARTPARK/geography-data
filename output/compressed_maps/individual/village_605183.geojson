@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8322212577166,14.79279651748147],[76.8152673872921,14.83145836327372],[76.77574401557573,14.81299275822861],[76.78293713902004,14.78649080078756],[76.8322212577166,14.79279651748147]]]},"properties":{"region_id":"village_605183","name":"SIDDAPURA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

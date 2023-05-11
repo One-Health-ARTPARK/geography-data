@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21471490108974,17.20749961036881],[77.19305300352346,17.21823955270715],[77.19376758145017,17.20147597808438],[77.21471490108974,17.20749961036881]]]},"properties":{"region_id":"village_620491","name":"HUNASANAHALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

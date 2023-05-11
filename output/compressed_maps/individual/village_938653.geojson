@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09293435228402,13.39143429655499],[77.07644476926745,13.39465220171878],[77.07493814211247,13.38221927561129],[77.09171634203611,13.37910243972811],[77.09293435228402,13.39143429655499]]]},"properties":{"region_id":"village_938653","name":"MARALENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

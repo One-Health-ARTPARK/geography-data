@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62003425339732,12.73494155140527],[77.59439291337917,12.72117457424848],[77.6149356924469,12.71169664934201],[77.62003425339732,12.73494155140527]]]},"properties":{"region_id":"village_613303","name":"BAGGANADODDI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

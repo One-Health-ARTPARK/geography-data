@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68287175580627,15.29129917021939],[76.66238601828888,15.29562135795269],[76.66326549612096,15.27572941230335],[76.68438032119477,15.27432955140088],[76.68287175580627,15.29129917021939]]]},"properties":{"region_id":"village_604767","name":"SOMALAPURAM","parent":"subdistrict_7107","parent_name":"KAMPLI"}}
+]}

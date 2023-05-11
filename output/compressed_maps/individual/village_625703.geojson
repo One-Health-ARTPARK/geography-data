@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85405359754263,13.11219241415383],[77.85396394398227,13.11481098763285],[77.8288246669774,13.10456150651578],[77.83443778514615,13.10168802649836],[77.85405359754263,13.11219241415383]]]},"properties":{"region_id":"village_625703","name":"HULLUR AMANIKERE","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

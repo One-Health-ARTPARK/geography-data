@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66592538597651,16.57823771298892],[76.65055148908795,16.58538536394041],[76.64832253611387,16.56493818167813],[76.66592538597651,16.57823771298892]]]},"properties":{"region_id":"village_621035","name":"CHIGIRHAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0203746325986,13.6735279657925],[77.02716343311936,13.68258899567551],[77.02365877154774,13.69614402632078],[77.01209620819782,13.70441369528181],[77.01173124753193,13.68050504830888],[77.0203746325986,13.6735279657925]]]},"properties":{"region_id":"village_610740","name":"KUNNAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

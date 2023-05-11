@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5702984373211,14.9413271261569],[76.55482957569978,14.93767479697214],[76.5615226444427,14.92135295526019],[76.57825666898033,14.9218040138074],[76.58340327268219,14.94049721547204],[76.5702984373211,14.9413271261569]]]},"properties":{"region_id":"village_604987","name":"BOMMAGATTA","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

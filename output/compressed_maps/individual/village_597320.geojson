@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09922026769775,16.52742346488651],[75.11554622848051,16.50517151629467],[75.14158779688078,16.52474478289394],[75.13822831235164,16.54862890802522],[75.09922026769775,16.52742346488651]]]},"properties":{"region_id":"village_597320","name":"MAHISHWADGI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

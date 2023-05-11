@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21882355148651,13.64950751677254],[75.20611687987707,13.62696226880248],[75.22946188455555,13.62083164375308],[75.21882355148651,13.64950751677254]]]},"properties":{"region_id":"village_608293","name":"KASARAVALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

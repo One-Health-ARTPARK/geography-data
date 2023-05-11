@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46299165996692,12.58487055667432],[77.44167172077759,12.62150902266392],[77.42545104786888,12.62409721733881],[77.43563215552352,12.58082815124656],[77.46299165996692,12.58487055667432]]]},"properties":{"region_id":"village_626449","name":"RAYASANDRA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

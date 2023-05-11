@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55639947212124,12.21241674957009],[76.56216838553146,12.20420834544],[76.57287581190765,12.20887799846654],[76.56576861253339,12.22044432096808],[76.55639947212124,12.21241674957009]]]},"properties":{"region_id":"village_618756","name":"DARIPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

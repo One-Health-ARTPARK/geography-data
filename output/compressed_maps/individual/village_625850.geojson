@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19416757004163,13.05736780214497],[77.18300247658802,13.06527742537169],[77.17415518616666,13.04457715755334],[77.19621353247587,13.04465657122072],[77.19416757004163,13.05736780214497]]]},"properties":{"region_id":"village_625850","name":"MANNIGANAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

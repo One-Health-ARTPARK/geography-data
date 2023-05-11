@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10854447946795,14.67052946508429],[76.09500077514102,14.67119836072133],[76.05935833751971,14.64343445113283],[76.05574079281335,14.62763812981811],[76.13009445265989,14.63300414121193],[76.10854447946795,14.67052946508429]]]},"properties":{"region_id":"village_606356","name":"HOSAKOTE","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

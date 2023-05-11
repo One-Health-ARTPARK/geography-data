@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29942458489788,16.37968562526562],[76.28221338965076,16.37992042909886],[76.2820343842494,16.35533221435393],[76.2958273880042,16.35386932406307],[76.29942458489788,16.37968562526562]]]},"properties":{"region_id":"village_599646","name":"KYATANADONI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

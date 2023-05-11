@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04403072873741,15.74081548030818],[77.01255239312879,15.74208884160507],[77.0186839109444,15.72693835315017],[77.04403072873741,15.74081548030818]]]},"properties":{"region_id":"village_604823","name":"BHYRAGAMADINNE","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

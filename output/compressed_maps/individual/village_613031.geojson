@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45325106224281,12.83887165392382],[77.43443029756966,12.84543228042157],[77.43412779519917,12.83201122018293],[77.45028850553383,12.8214006683056],[77.45325106224281,12.83887165392382]]]},"properties":{"region_id":"village_613031","name":"GONIPURA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

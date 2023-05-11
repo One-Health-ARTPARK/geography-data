@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77027272404061,12.5160921762613],[75.75755514970952,12.50108416748232],[75.78408252215173,12.48372987437284],[75.77027272404061,12.5160921762613]]]},"properties":{"region_id":"village_923913","name":"HODAKANA","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

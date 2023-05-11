@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35470290039692,12.48085514641879],[77.33729568776333,12.48943181192026],[77.33370813351479,12.47347948826136],[77.35470290039692,12.48085514641879]]]},"properties":{"region_id":"village_626513","name":"THOTAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

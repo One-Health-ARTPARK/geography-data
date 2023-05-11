@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29298001599443,11.93366540306397],[76.28031645055823,11.88939668060436],[76.30912919394228,11.90211618888167],[76.29298001599443,11.93366540306397]]]},"properties":{"region_id":"village_619049","name":"N. BEGUR","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

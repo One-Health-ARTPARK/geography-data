@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6192991362881,12.44396669867821],[76.60752350038206,12.44559598609821],[76.60883561933852,12.42636320876607],[76.62047363557004,12.42342414835739],[76.6192991362881,12.44396669867821]]]},"properties":{"region_id":"village_614151","name":"SEETHAPURA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72703700025717,12.97642899960752],[77.70847999955906,12.98365699992876],[77.68722099967665,12.97805800002591],[77.69430600004203,12.96111899980435],[77.71568099975033,12.95578999991554],[77.72703700025717,12.97642899960752]]]},"properties":{"region_id":"ward_bbmp85","name":"WARD NO.85 (DODDA NEKKUNDI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

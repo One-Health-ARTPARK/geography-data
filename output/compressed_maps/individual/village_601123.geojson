@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71201343719655,15.81024090901384],[76.69596393582441,15.78541247655324],[76.71956292325092,15.78203384887267],[76.71201343719655,15.81024090901384]]]},"properties":{"region_id":"village_601123","name":"DEVERGUDI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

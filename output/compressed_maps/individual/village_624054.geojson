@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94352184071727,13.60206865118821],[77.93345326247898,13.60231697159943],[77.93580237729834,13.59251004836961],[77.94391450202141,13.59322133170577],[77.94352184071727,13.60206865118821]]]},"properties":{"region_id":"village_624054","name":"NAKKALAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

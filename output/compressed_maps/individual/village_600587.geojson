@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90151799294533,16.48703523020174],[76.88659341092864,16.49181279061485],[76.88604702534273,16.45339637250218],[76.90731047855928,16.45554166885396],[76.90151799294533,16.48703523020174]]]},"properties":{"region_id":"village_600587","name":"GOPALPUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

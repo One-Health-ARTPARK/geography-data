@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46292685825406,12.39134986224978],[76.44954597185853,12.38470189444349],[76.45309274836517,12.37080648160258],[76.46213409086376,12.37203039042701],[76.46292685825406,12.39134986224978]]]},"properties":{"region_id":"village_618441","name":"GERASANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

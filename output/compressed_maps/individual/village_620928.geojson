@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5203550382324,16.56911372717559],[76.49835236711392,16.56461636836445],[76.49000520622786,16.51811965812299],[76.52453508980764,16.52147440904715],[76.5203550382324,16.56911372717559]]]},"properties":{"region_id":"village_620928","name":"ARKERA (J)","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

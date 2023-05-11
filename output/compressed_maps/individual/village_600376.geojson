@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31048051703374,15.92256919812247],[76.28566638330824,15.93031637486575],[76.28975648910327,15.89261700626932],[76.30677335821721,15.89351850732725],[76.31048051703374,15.92256919812247]]]},"properties":{"region_id":"village_600376","name":"RAMATNAL","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

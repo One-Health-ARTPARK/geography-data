@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26517458962083,13.5095592613068],[77.25035589335498,13.51113133186304],[77.2550230795962,13.50180909910613],[77.26517458962083,13.5095592613068]]]},"properties":{"region_id":"village_611082","name":"KAMARAJANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

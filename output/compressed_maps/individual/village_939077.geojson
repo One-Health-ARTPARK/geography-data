@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88297238056032,12.11298820387885],[75.88394297919211,12.09194331315975],[75.90264916489825,12.08930023213819],[75.90444961500883,12.12224198952891],[75.88297238056032,12.11298820387885]]]},"properties":{"region_id":"village_939077","name":"KONGANA","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

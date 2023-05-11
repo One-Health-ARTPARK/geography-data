@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.121498129681,15.87009761789226],[76.08569876817057,15.87860066702587],[76.08398388856811,15.85582472485983],[76.121498129681,15.87009761789226]]]},"properties":{"region_id":"village_601439","name":"MIYAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

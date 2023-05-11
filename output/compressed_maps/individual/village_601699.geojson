@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68431659325336,15.51572753164334],[76.65629194770297,15.4962604295454],[76.65619388560758,15.4700211306215],[76.67646596663644,15.4549291783334],[76.68431659325336,15.51572753164334]]]},"properties":{"region_id":"village_601699","name":"KUNTOJI","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

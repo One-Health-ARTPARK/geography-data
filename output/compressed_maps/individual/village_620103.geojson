@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29977955359097,17.21867427411075],[76.32687286973906,17.21833074045271],[76.3320570259172,17.23620564318792],[76.30021559889975,17.23489461855785],[76.29977955359097,17.21867427411075]]]},"properties":{"region_id":"village_620103","name":"SHIRWAD","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

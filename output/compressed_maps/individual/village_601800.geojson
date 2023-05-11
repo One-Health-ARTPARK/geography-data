@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23936569361993,15.5031757874688],[76.22714082029233,15.4820260540286],[76.24816664418275,15.4793544878029],[76.23936569361993,15.5031757874688]]]},"properties":{"region_id":"village_601800","name":"CHAMALAPURA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

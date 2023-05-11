@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05967863438276,15.59107408210235],[76.02659492896221,15.60262974798827],[76.02676786091185,15.57037701736458],[76.04802667901477,15.5656915707814],[76.05967863438276,15.59107408210235]]]},"properties":{"region_id":"village_601263","name":"MALAKSAMUDRA","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

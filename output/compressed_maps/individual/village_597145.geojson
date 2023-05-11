@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.41241140579983,16.38127154890223],[74.39706842649821,16.36551059370206],[74.41883287324909,16.35825418699571],[74.41241140579983,16.38127154890223]]]},"properties":{"region_id":"village_597145","name":"GAVAN","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

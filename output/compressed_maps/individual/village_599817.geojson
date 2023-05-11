@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93147610423675,17.75535292713488],[76.91923277839298,17.75593446385787],[76.90222701936287,17.73015053385484],[76.9279987062291,17.73200101289323],[76.93147610423675,17.75535292713488]]]},"properties":{"region_id":"village_599817","name":"BAGDURI","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

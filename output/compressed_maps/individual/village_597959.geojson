@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52875279157001,15.474571995093],[74.51906548043192,15.46403126445716],[74.53180848300684,15.45175255960597],[74.53291822356327,15.46970021326447],[74.52875279157001,15.474571995093]]]},"properties":{"region_id":"village_597959","name":"MACHALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56423833019728,12.10401273383255],[76.53279599301358,12.10712794704024],[76.53463071308366,12.08588356473568],[76.56020302328412,12.07886993493579],[76.56423833019728,12.10401273383255]]]},"properties":{"region_id":"village_619125","name":"HULLAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

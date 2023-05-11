@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74613336859242,13.17694098265303],[76.74164377985416,13.17491105431969],[76.73798811500129,13.16620226175248],[76.74957966345823,13.16597774885527],[76.74613336859242,13.17694098265303]]]},"properties":{"region_id":"village_612225","name":"PURA AMANIKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

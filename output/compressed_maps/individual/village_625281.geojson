@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59550214389292,13.25917341106008],[77.58968391866856,13.25922983800928],[77.58301520687586,13.25327666587981],[77.59419461411176,13.25529685934515],[77.59550214389292,13.25917341106008]]]},"properties":{"region_id":"village_625281","name":"BANNIMANGALA AMANIKERE","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

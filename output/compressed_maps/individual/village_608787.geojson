@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72833318444857,13.4259103923829],[74.71729449951088,13.43999581752888],[74.70019202839082,13.43743205824888],[74.70378053944157,13.41677321014433],[74.72833318444857,13.4259103923829]]]},"properties":{"region_id":"village_608787","name":"HARADI","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

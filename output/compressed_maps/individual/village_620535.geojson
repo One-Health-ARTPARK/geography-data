@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25356108189654,17.10694062993748],[77.22066911422098,17.10881549473908],[77.21646331912594,17.0849900417813],[77.25073898429201,17.089290919617],[77.25356108189654,17.10694062993748]]]},"properties":{"region_id":"village_620535","name":"KALKHAMB","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

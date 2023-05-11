@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65713293638281,13.69557183783457],[77.6454940659683,13.71048921042564],[77.63903369463843,13.69745655661048],[77.65713293638281,13.69557183783457]]]},"properties":{"region_id":"village_623301","name":"SABBANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

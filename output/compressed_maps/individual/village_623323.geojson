@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60895447857399,13.65412490282474],[77.58669916066951,13.63555634522142],[77.60093206577534,13.62478920091295],[77.60895447857399,13.65412490282474]]]},"properties":{"region_id":"village_623323","name":"DARINAIKANAPALYA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

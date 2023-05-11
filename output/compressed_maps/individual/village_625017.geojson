@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6079389227126,13.4238367184388],[77.5990481185914,13.43631232055686],[77.59045995660385,13.42146934768687],[77.6079389227126,13.4238367184388]]]},"properties":{"region_id":"village_625017","name":"MUKKADIGATTA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

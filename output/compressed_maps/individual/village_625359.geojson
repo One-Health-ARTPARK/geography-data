@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72201522883152,13.30606653286767],[77.71655512485607,13.28488805239966],[77.7422631422717,13.27887979764405],[77.73625408690073,13.30327938528956],[77.72201522883152,13.30606653286767]]]},"properties":{"region_id":"village_625359","name":"AVATHI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5242240045884,13.23527924055494],[77.52366997479912,13.2506523904089],[77.50597525066276,13.24424981562956],[77.50667996132516,13.2346086574919],[77.5242240045884,13.23527924055494]]]},"properties":{"region_id":"village_625211","name":"BYRASANDRA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

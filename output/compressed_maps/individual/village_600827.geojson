@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34423660615317,16.13896439529428],[77.31163460570208,16.13775537161934],[77.31019900931248,16.11611738403141],[77.3316851209314,16.11674649097542],[77.34423660615317,16.13896439529428]]]},"properties":{"region_id":"village_600827","name":"JALIBENCHI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

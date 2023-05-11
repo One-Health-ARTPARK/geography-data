@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71535032092547,12.04712702833397],[76.72563317672754,12.04909905998697],[76.72645147887094,12.05720022688294],[76.71694747992171,12.05548806436654],[76.71535032092547,12.04712702833397]]]},"properties":{"region_id":"village_619276","name":"SATHAGALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

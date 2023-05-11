@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65676820618047,12.62103998647757],[76.65428824156919,12.60352309282744],[76.66503361144123,12.6008746437493],[76.67544102683249,12.63011711475424],[76.65676820618047,12.62103998647757]]]},"properties":{"region_id":"village_614074","name":"MANIKYANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

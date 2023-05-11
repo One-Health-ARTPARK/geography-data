@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62280365003342,13.07310592084289],[77.62389048949194,13.07785875324488],[77.61795967866966,13.07795293800533],[77.61360045006643,13.07332465749602],[77.62280365003342,13.07310592084289]]]},"properties":{"region_id":"village_938540","name":"VENKATESHAPURA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18941113027911,14.17560275591969],[75.18082143802135,14.17276263666006],[75.18151414816917,14.15347572314235],[75.19225275303863,14.14913537830842],[75.18941113027911,14.17560275591969]]]},"properties":{"region_id":"village_607271","name":"KOTEKOPPA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

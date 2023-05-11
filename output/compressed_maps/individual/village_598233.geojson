@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0901407661179,15.80123428682342],[75.06924130044278,15.80143157753128],[75.07305532955803,15.77490328533652],[75.08883887820222,15.77569592885943],[75.0901407661179,15.80123428682342]]]},"properties":{"region_id":"village_598233","name":"NADAVINAHALLI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

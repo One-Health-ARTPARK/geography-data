@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12031920384125,13.25330076174584],[77.10842351629836,13.23724525598086],[77.12664422304395,13.23240678355574],[77.13578350616238,13.24749449726595],[77.12031920384125,13.25330076174584]]]},"properties":{"region_id":"village_611577","name":"HOLAKALLU","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

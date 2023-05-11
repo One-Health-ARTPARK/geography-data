@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35656583344812,13.39158470680354],[77.3435780425293,13.38523153979728],[77.36550464723823,13.37940776330469],[77.35656583344812,13.39158470680354]]]},"properties":{"region_id":"village_624991","name":"LAKKENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

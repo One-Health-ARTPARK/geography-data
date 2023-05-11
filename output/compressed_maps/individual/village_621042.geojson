@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80243159180996,16.56593102010439],[76.78165651030044,16.58916440865579],[76.76263704189068,16.56848960700951],[76.7950811732751,16.53897939702253],[76.80243159180996,16.56593102010439]]]},"properties":{"region_id":"village_621042","name":"DEVIKERA","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87880760892122,15.35199933675428],[74.86105847995839,15.32759221543515],[74.89197084466572,15.31775532758053],[74.87880760892122,15.35199933675428]]]},"properties":{"region_id":"village_602259","name":"HOLTIKOTI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

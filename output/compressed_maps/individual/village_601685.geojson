@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62716487932997,15.58581396323108],[76.62912573176163,15.60173644586574],[76.59492087770047,15.59496695328709],[76.59641471377392,15.58290762836484],[76.62716487932997,15.58581396323108]]]},"properties":{"region_id":"village_601685","name":"HAGEDAL","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

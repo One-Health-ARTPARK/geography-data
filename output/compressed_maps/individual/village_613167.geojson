@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66064895685412,12.79784853630727],[77.64649038485162,12.79898137458935],[77.64464473779157,12.79172511223643],[77.65611215165843,12.78563534243241],[77.66064895685412,12.79784853630727]]]},"properties":{"region_id":"village_613167","name":"BANDE NALLA SANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

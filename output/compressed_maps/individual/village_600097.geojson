@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44882361445241,18.18158745122337],[77.43041266448627,18.15472749741092],[77.45121941311314,18.15543797173311],[77.44882361445241,18.18158745122337]]]},"properties":{"region_id":"village_600097","name":"SANTHPUR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

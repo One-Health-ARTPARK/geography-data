@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8646960661773,12.97825239207529],[76.8513870004147,12.97875309639043],[76.85657737214629,12.96593260018387],[76.8646960661773,12.97825239207529]]]},"properties":{"region_id":"village_612489","name":"YEDIYUR","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

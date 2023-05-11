@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10172493043427,12.4878116313247],[76.08798391017957,12.48418119707113],[76.08861444212503,12.46688922705806],[76.11099689714392,12.46557889344043],[76.1180734374088,12.48628623396947],[76.10172493043427,12.4878116313247]]]},"properties":{"region_id":"village_618171","name":"BETTADAPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

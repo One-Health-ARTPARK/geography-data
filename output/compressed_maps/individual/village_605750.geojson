@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21001594802841,13.97498267412068],[76.2058868506606,13.98530457442084],[76.1991969539445,13.98440470614126],[76.19971360894499,13.97501843661817],[76.21001594802841,13.97498267412068]]]},"properties":{"region_id":"village_605750","name":"THIRUMALAPURA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

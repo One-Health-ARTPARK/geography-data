@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05423103666433,16.57443860222324],[75.04513193588942,16.58452118311064],[74.99470771526587,16.57467988855919],[75.00743889368921,16.53818076071307],[75.06444817238045,16.53965912716628],[75.05423103666433,16.57443860222324]]]},"properties":{"region_id":"village_597315","name":"SHEGUNSHI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

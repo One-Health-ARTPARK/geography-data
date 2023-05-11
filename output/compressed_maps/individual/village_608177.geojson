@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14980414071256,13.75947978361325],[75.14524069678467,13.74735767230385],[75.15497189491501,13.73916186860397],[75.16310478403351,13.75580128923682],[75.14980414071256,13.75947978361325]]]},"properties":{"region_id":"village_608177","name":"HOSAKODIGE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04561808911261,16.27853974880973],[76.0593325024136,16.31595526288851],[76.044033208645,16.31913399010177],[76.0301791558347,16.29527582311749],[76.04561808911261,16.27853974880973]]]},"properties":{"region_id":"village_599612","name":"KANDAGANUR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

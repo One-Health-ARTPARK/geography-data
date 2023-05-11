@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55506773936412,13.1264695847209],[75.56087341857145,13.13571442666725],[75.55039378724923,13.1398906426637],[75.55506773936412,13.1264695847209]]]},"properties":{"region_id":"village_609934","name":"KUDAHALLI","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

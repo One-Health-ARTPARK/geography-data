@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73028117830995,13.46909862706183],[74.72378175853795,13.48169894912206],[74.71320526296104,13.47703586723313],[74.71632708595153,13.46031565116688],[74.73028117830995,13.46909862706183]]]},"properties":{"region_id":"village_608767","name":"PANDESHWARA","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

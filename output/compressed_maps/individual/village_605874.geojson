@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29975224836008,13.78478925682834],[76.29486255185321,13.79273806056445],[76.28024415262111,13.7836616079793],[76.29975224836008,13.78478925682834]]]},"properties":{"region_id":"village_605874","name":"KUMARANAKANIVE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38479025279416,12.57574316598197],[75.31439923460621,12.55308510331872],[75.31897025974095,12.53350997714229],[75.35940046049214,12.535608195546],[75.38479025279416,12.57574316598197]]]},"properties":{"region_id":"village_617763","name":"AJJAVARA","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

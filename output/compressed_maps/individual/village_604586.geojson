@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71733861207237,14.95075787124487],[75.71906246673716,14.91490290572559],[75.74173258608525,14.91627019159917],[75.73717292176924,14.94350427267644],[75.71733861207237,14.95075787124487]]]},"properties":{"region_id":"village_604586","name":"MAKARABBI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

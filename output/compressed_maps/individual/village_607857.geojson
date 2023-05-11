@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00590270767984,13.94773354961894],[74.95809251924962,13.95302945044237],[74.95645325821683,13.93593882826001],[74.99631883399746,13.92357734355445],[75.00590270767984,13.94773354961894]]]},"properties":{"region_id":"village_607857","name":"HOSANADU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

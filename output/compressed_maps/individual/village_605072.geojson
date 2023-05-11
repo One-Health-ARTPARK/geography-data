@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35383422920324,14.92529753908984],[76.32408365808583,14.94461999827707],[76.31724492528224,14.90410993374836],[76.33021060613832,14.88767864638901],[76.35383422920324,14.92529753908984]]]},"properties":{"region_id":"village_605072","name":"HIREHEGDAL","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

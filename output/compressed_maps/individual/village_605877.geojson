@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19752568265322,13.78382505566695],[76.16925223053322,13.76009606157341],[76.20110594536204,13.7469972855331],[76.19752568265322,13.78382505566695]]]},"properties":{"region_id":"village_605877","name":"NEERAGUNDA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

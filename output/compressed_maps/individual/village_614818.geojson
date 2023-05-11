@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08204290969589,12.30497790332472],[77.05794518950427,12.29987276583299],[77.0616689565819,12.28685908093289],[77.0747579899704,12.29018539281555],[77.08204290969589,12.30497790332472]]]},"properties":{"region_id":"village_614818","name":"MALAGALALI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

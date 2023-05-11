@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35173419679965,13.45062582818173],[76.33808637546092,13.46249588066429],[76.32912349237368,13.43828765621912],[76.34499926139874,13.431310461944],[76.35173419679965,13.45062582818173]]]},"properties":{"region_id":"village_615729","name":"HARLAKATTA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

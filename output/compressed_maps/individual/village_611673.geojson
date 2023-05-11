@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89323129435803,13.55356298552859],[76.88080072574715,13.55422853814986],[76.87983349202024,13.53957054484665],[76.89147214340728,13.53859475878231],[76.89323129435803,13.55356298552859]]]},"properties":{"region_id":"village_611673","name":"CHIKKAHEDIGEHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

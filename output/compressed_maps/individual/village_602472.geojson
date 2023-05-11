@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91326614680769,15.20544438552128],[74.89670695747013,15.19874003431556],[74.91528607481709,15.16800262203717],[74.92140330928098,15.18710239521219],[74.91326614680769,15.20544438552128]]]},"properties":{"region_id":"village_602472","name":"KALAKUNDI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

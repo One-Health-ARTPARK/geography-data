@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26567789467119,13.8399620268699],[76.2424869899174,13.83573427723421],[76.24134117031761,13.82328001265956],[76.26660229383147,13.82896270696066],[76.26567789467119,13.8399620268699]]]},"properties":{"region_id":"village_605857","name":"CHANNAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

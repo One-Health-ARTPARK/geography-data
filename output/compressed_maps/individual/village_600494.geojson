@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52863584244297,16.07793382035378],[76.49932058528428,16.07909172081906],[76.4947488574169,16.02096418331163],[76.52521957019836,16.01039866671989],[76.52863584244297,16.07793382035378]]]},"properties":{"region_id":"village_600494","name":"MATTUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

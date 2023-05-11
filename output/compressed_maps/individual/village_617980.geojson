@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96175228644309,12.49592967326908],[75.95983721492772,12.50111575760688],[75.94873836040755,12.49939816055737],[75.95444165271067,12.49246067832991],[75.96175228644309,12.49592967326908]]]},"properties":{"region_id":"village_617980","name":"KUDIGE","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

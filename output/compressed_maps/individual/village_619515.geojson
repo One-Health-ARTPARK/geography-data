@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71465335264443,11.77242662187133],[76.69050495812546,11.77990840851624],[76.68266501123256,11.75366488474693],[76.71037747812446,11.75311205340559],[76.71465335264443,11.77242662187133]]]},"properties":{"region_id":"village_619515","name":"KODAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

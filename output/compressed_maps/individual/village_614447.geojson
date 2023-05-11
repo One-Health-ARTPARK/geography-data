@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88747300968835,12.56028606792028],[76.91416851466606,12.56398876782579],[76.9189347380317,12.57176372822033],[76.89682146623507,12.57283783525986],[76.88987616472271,12.56955665017307],[76.88747300968835,12.56028606792028]]]},"properties":{"region_id":"village_614447","name":"KOMMERAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

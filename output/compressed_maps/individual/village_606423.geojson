@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18680050439434,14.59486044523019],[76.16077429573477,14.60006041068491],[76.1582674378622,14.58283690521071],[76.18125130316695,14.5782906315171],[76.18680050439434,14.59486044523019]]]},"properties":{"region_id":"village_606423","name":"DIDDIGE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

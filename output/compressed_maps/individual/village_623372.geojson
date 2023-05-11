@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54445806250365,13.45336279000363],[77.54732685159213,13.46715152818491],[77.52686109218844,13.47108918915437],[77.51966736228184,13.45883574490026],[77.54445806250365,13.45336279000363]]]},"properties":{"region_id":"village_623372","name":"CHIKKAHOSAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

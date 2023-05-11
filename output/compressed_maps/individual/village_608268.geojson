@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33881453855155,13.60599826496363],[75.32285756026948,13.59815106174969],[75.33158052457608,13.58462746972088],[75.34047404991047,13.59371581392924],[75.33881453855155,13.60599826496363]]]},"properties":{"region_id":"village_608268","name":"KEERANAKERE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17292717751691,13.89788913301667],[76.15825631872032,13.90460803412876],[76.14999144315225,13.89220595883634],[76.16584176057292,13.89229306598763],[76.17292717751691,13.89788913301667]]]},"properties":{"region_id":"village_605711","name":"JAKKANAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

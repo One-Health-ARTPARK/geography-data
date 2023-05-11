@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85640174371908,13.15316271138097],[75.85216772038568,13.160949004372],[75.84911199873082,13.15161523566645],[75.85640174371908,13.15316271138097]]]},"properties":{"region_id":"village_615232","name":"LAKSHMIPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

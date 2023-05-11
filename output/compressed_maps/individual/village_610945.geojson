@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32202422671529,13.71499531839806],[77.32675596104183,13.74063627565254],[77.31664105926218,13.7418923282384],[77.30973558042889,13.72479506009115],[77.32202422671529,13.71499531839806]]]},"properties":{"region_id":"village_610945","name":"TALAKERE","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

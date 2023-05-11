@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52824125011534,15.56608106836851],[75.47938548742603,15.56813682238418],[75.48998959038674,15.53197756317362],[75.52948082382953,15.53812987415506],[75.52824125011534,15.56608106836851]]]},"properties":{"region_id":"village_602356","name":"TUPPADAKURAHATTI","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

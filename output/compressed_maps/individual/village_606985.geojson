@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94481898417634,14.11826162902719],[75.92861933561441,14.10939509265726],[75.93947140818085,14.07872271413355],[75.95719881555232,14.07684525640532],[75.94481898417634,14.11826162902719]]]},"properties":{"region_id":"village_606985","name":"HIREUDA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

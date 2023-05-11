@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9757610095977,13.14618096558976],[76.96309250072711,13.15302346798432],[76.95084521499876,13.13843377634912],[76.96219549755213,13.12806260450006],[76.9757610095977,13.14618096558976]]]},"properties":{"region_id":"village_611933","name":"NETTIKERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

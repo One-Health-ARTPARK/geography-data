@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91735722240004,15.44676003059919],[76.91672923959142,15.45891942484097],[76.89383818897245,15.45894870587258],[76.88371763709753,15.43984239924182],[76.91735722240004,15.44676003059919]]]},"properties":{"region_id":"village_604845","name":"BHYRAPURA","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

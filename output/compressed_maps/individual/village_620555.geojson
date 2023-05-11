@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28965705666127,16.96544752245834],[77.25603652430917,16.96770281540155],[77.26881086046859,16.92832114906615],[77.28816647864068,16.93541967278756],[77.28965705666127,16.96544752245834]]]},"properties":{"region_id":"village_620555","name":"NACHAWAR","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

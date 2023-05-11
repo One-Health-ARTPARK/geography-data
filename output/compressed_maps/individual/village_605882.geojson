@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24167880610683,13.75546636061822],[76.20745493589169,13.76963910639817],[76.2010996392638,13.74696158945132],[76.23423240061368,13.74361845997243],[76.24167880610683,13.75546636061822]]]},"properties":{"region_id":"village_605882","name":"MALALI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

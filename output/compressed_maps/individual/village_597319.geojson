@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13822831235164,16.54862890802522],[75.12365816516865,16.56630196700933],[75.08683631467692,16.55290462092337],[75.10075551707546,16.52776760290472],[75.13822831235164,16.54862890802522]]]},"properties":{"region_id":"village_597319","name":"NANDESHWAR","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

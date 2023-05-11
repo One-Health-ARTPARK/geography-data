@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88571877888849,14.30323905866217],[76.87828955254591,14.30968913170008],[76.8586735281711,14.30340249143577],[76.86513024295456,14.29228318830806],[76.88425937996492,14.28584114226064],[76.88571877888849,14.30323905866217]]]},"properties":{"region_id":"village_605385","name":"BOMMANAKUNTE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

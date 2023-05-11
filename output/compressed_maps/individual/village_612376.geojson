@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82446275600323,13.1597753697829],[76.81012517593385,13.14515619589257],[76.81469011716219,13.12987710050779],[76.83078076826007,13.13473961190118],[76.82446275600323,13.1597753697829]]]},"properties":{"region_id":"village_612376","name":"MALLADEVANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

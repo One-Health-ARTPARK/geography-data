@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95642587993161,13.20071267773494],[77.94421984659996,13.18910677140378],[77.96109506236495,13.18279559572422],[77.96356010284772,13.19217541345764],[77.95642587993161,13.20071267773494]]]},"properties":{"region_id":"village_625559","name":"KORATI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

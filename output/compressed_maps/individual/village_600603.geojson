@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06707583305557,16.41295337678543],[77.04616147691321,16.40976819821553],[77.0457571730752,16.3973110599291],[77.06635595784024,16.3968373999138],[77.06707583305557,16.41295337678543]]]},"properties":{"region_id":"village_600603","name":"NAGARHAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

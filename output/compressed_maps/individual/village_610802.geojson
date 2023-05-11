@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17822158473749,13.6755043725071],[77.17025484358645,13.68534973319361],[77.16480096417912,13.67826317624712],[77.17822158473749,13.6755043725071]]]},"properties":{"region_id":"village_610802","name":"ACHENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

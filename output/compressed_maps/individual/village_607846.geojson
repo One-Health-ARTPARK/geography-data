@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44348480107263,14.16778327166447],[75.43054924051489,14.19549076288117],[75.41648167173422,14.17300662155964],[75.44348480107263,14.16778327166447]]]},"properties":{"region_id":"village_607846","name":"HAROGOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

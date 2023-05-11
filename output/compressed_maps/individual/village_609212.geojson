@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88997169827572,13.70861847247387],[75.88160104016931,13.71078597687882],[75.8790804137332,13.70076993589321],[75.88987902985383,13.69742402146312],[75.88997169827572,13.70861847247387]]]},"properties":{"region_id":"village_609212","name":"BRAHMANAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

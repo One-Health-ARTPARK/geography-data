@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90989547876042,14.28459395555075],[76.87932541861686,14.28531260743818],[76.86155419882746,14.25240263952597],[76.90250757829362,14.23573551814219],[76.90989547876042,14.28459395555075]]]},"properties":{"region_id":"village_605396","name":"PARASURAMAPURA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

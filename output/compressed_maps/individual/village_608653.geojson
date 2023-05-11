@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64697431557332,13.72384426466372],[75.64061451354931,13.72304272800739],[75.64299398680076,13.71074122229038],[75.6509049535388,13.71760020184958],[75.64697431557332,13.72384426466372]]]},"properties":{"region_id":"village_608653","name":"VADIYURU","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61163911613605,17.4665828148036],[77.58340254468072,17.46753162888359],[77.5790371896236,17.4556519618881],[77.60672578739502,17.4442871275631],[77.61163911613605,17.4665828148036]]]},"properties":{"region_id":"village_620380","name":"JILWARSHA","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

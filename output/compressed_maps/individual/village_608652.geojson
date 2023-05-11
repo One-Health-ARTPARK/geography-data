@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6397442042749,13.72336532437912],[75.6174935854686,13.72240030111479],[75.62162445290356,13.70326052536799],[75.64365501936003,13.70518774954686],[75.6397442042749,13.72336532437912]]]},"properties":{"region_id":"village_608652","name":"SINGANAMANE","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

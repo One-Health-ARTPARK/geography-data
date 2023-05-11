@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44378755131801,13.12638529571296],[76.42761463157832,13.12181755980146],[76.43011119465248,13.11515054935614],[76.44232771200048,13.1203465923061],[76.44378755131801,13.12638529571296]]]},"properties":{"region_id":"village_617147","name":"CHATTANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

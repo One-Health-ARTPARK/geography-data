@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62730032932089,13.99895596983553],[76.62027997042645,14.03124750345636],[76.60192381330627,14.02807020383319],[76.60443762739285,14.00261439940349],[76.62730032932089,13.99895596983553]]]},"properties":{"region_id":"village_606085","name":"GANNAYAKANAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

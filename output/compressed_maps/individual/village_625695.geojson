@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83686057474813,13.10716806647464],[77.83047574854537,13.13267478148967],[77.81002148564228,13.11547163888903],[77.83686057474813,13.10716806647464]]]},"properties":{"region_id":"village_625695","name":"CHOKKAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

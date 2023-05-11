@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0494284591853,13.41279668039629],[77.02533112901375,13.39446958619722],[77.04947763353614,13.38924006127284],[77.0494284591853,13.41279668039629]]]},"properties":{"region_id":"village_611279","name":"BALLAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65858043130272,14.4964703906479],[76.6397546370952,14.50276634392094],[76.63808979327258,14.47675671437075],[76.6558909056406,14.46361940963916],[76.65858043130272,14.4964703906479]]]},"properties":{"region_id":"village_605257","name":"KEREYAGALAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

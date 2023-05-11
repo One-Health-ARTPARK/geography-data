@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95539784201333,15.47956277020389],[74.90888678732887,15.4776636039471],[74.91110301308503,15.46371725849098],[74.9351305593808,15.46690569468879],[74.95539784201333,15.47956277020389]]]},"properties":{"region_id":"village_602270","name":"CHIKKAMALLIGWAD","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48959635077566,16.06381032270059],[75.4658695322525,16.06311481342565],[75.46278342016811,16.04604718876732],[75.49067969039936,16.05264105645029],[75.48959635077566,16.06381032270059]]]},"properties":{"region_id":"village_598643","name":"FAKEERABUDIHAL","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

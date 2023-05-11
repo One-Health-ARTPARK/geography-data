@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77696868476266,13.23779987631397],[75.75893464205409,13.23765110594215],[75.7601822617118,13.22815074386018],[75.77604212744647,13.22174767712743],[75.77696868476266,13.23779987631397]]]},"properties":{"region_id":"village_609885","name":"BIGGANAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

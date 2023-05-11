@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5462781256223,13.22102769498343],[77.5386936483302,13.22563670508258],[77.53711255091798,13.21696991921922],[77.5462781256223,13.22102769498343]]]},"properties":{"region_id":"village_612830","name":"NELLUKUNTE","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

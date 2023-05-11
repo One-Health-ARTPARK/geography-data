@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75646557177129,13.2296775915365],[74.74848167948308,13.22357240766837],[74.75892051771768,13.20650931495579],[74.77121574533368,13.22519361782474],[74.75646557177129,13.2296775915365]]]},"properties":{"region_id":"village_608856","name":"MALLAR (CT)","parent":"subdistrict_7067","parent_name":"KAPU"}}
+]}

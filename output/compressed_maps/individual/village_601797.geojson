@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29022080045702,15.51544504459311],[76.28468167368072,15.53368730962974],[76.26059914417293,15.5266120941644],[76.25699919500478,15.5130698329674],[76.29022080045702,15.51544504459311]]]},"properties":{"region_id":"village_601797","name":"HOSUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91219528425061,16.63590591150156],[74.90345865583608,16.64768306845625],[74.8888214952349,16.65269508672366],[74.89023575159328,16.63417751775453],[74.91219528425061,16.63590591150156]]]},"properties":{"region_id":"village_597384","name":"GUNDWAD","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

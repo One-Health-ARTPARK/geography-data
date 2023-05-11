@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62275091574239,14.29576164889851],[75.60035152991665,14.29261672053708],[75.60763064725279,14.27360883015998],[75.6320474477407,14.27310902901849],[75.62275091574239,14.29576164889851]]]},"properties":{"region_id":"village_606775","name":"HANUMASAGARA","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

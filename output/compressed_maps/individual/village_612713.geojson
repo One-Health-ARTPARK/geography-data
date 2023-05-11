@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14534749061728,12.91687150944326],[77.14817338021938,12.92783060526317],[77.13349460852567,12.93284192328248],[77.13296712462925,12.92111013395714],[77.14534749061728,12.91687150944326]]]},"properties":{"region_id":"village_612713","name":"JODIHOSAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

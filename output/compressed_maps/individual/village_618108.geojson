@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06243770354047,12.52047450489033],[76.05784586500944,12.52247582156062],[76.04383021188706,12.5174143563775],[76.05021898255731,12.51165944573278],[76.06201156459508,12.51501755007128],[76.06243770354047,12.52047450489033]]]},"properties":{"region_id":"village_618108","name":"VADDARABYLAKUPPE","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

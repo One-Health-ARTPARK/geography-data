@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37579773386989,18.21305075474518],[77.35990021024531,18.18557725720137],[77.38142906760237,18.17930876493785],[77.39246344512443,18.19177042154958],[77.37579773386989,18.21305075474518]]]},"properties":{"region_id":"village_600065","name":"MAHADONGAON","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

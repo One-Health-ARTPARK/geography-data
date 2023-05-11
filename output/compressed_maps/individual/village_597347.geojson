@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15701896831754,16.71022301287467],[75.12433587562673,16.72135889188643],[75.12230940807424,16.69976121610931],[75.13795909830071,16.68998600796764],[75.15701896831754,16.71022301287467]]]},"properties":{"region_id":"village_597347","name":"KATAGERI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

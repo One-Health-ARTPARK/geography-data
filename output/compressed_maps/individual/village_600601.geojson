@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07179503448201,16.41429831850309],[77.08226281029746,16.44589792692688],[77.06483800103388,16.44937314146346],[77.07179503448201,16.41429831850309]]]},"properties":{"region_id":"village_600601","name":"SALKYAPUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

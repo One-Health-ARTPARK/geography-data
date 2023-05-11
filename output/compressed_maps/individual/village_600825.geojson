@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32629102151145,16.1498473114765],[77.31430697183828,16.15565104074546],[77.30372439766263,16.13897812551689],[77.32935957951163,16.13844498566162],[77.32629102151145,16.1498473114765]]]},"properties":{"region_id":"village_600825","name":"ASAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

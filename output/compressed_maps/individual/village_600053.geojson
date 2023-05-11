@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37708788970232,18.25620204491369],[77.36795301677952,18.264092973856],[77.35107186919392,18.26212984532682],[77.35896667577815,18.24569254839054],[77.37708788970232,18.25620204491369]]]},"properties":{"region_id":"village_600053","name":"JAMLAPUR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

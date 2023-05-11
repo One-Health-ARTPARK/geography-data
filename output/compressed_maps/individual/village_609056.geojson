@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52446887807199,13.62929429789463],[75.51541064354073,13.66604393795681],[75.49790902431809,13.65581211397426],[75.52446887807199,13.62929429789463]]]},"properties":{"region_id":"village_609056","name":"SOOSALAVANI","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

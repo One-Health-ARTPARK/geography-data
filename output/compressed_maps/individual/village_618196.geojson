@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17765102504856,12.42595190227611],[76.18110498454719,12.43929462779606],[76.1692531273047,12.44182726598438],[76.16806953085872,12.42495878849923],[76.17765102504856,12.42595190227611]]]},"properties":{"region_id":"village_618196","name":"HARALAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

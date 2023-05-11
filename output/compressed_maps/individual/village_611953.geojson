@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92913115093097,13.1206084768996],[76.91626713878425,13.12538966094592],[76.91547293805498,13.10985097658582],[76.9273780983353,13.10728864737978],[76.92913115093097,13.1206084768996]]]},"properties":{"region_id":"village_611953","name":"BEERAMARANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

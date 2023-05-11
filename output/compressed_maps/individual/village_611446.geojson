@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04219027119093,13.34631678329856],[77.03229303553105,13.33893655576252],[77.04429806079749,13.3342007922447],[77.04219027119093,13.34631678329856]]]},"properties":{"region_id":"village_611446","name":"GOLLAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

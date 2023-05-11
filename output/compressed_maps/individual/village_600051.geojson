@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45659645612533,18.26620189897525],[77.43735682264295,18.26859102196515],[77.42619519338506,18.2622333213867],[77.43047313389556,18.24667332889622],[77.45659645612533,18.26620189897525]]]},"properties":{"region_id":"village_600051","name":"NARASIMHAPUR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

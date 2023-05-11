@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73213057806976,13.41607572101894],[77.7115304162924,13.42196150524425],[77.71083075682618,13.41317441757267],[77.73140936514541,13.4076611058943],[77.73213057806976,13.41607572101894]]]},"properties":{"region_id":"village_623613","name":"KANDAVARA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

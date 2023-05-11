@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63432196252057,14.31481064713098],[75.61094345964989,14.31582741067919],[75.60609757511403,14.2986522543419],[75.63185451598886,14.29823012283624],[75.63432196252057,14.31481064713098]]]},"properties":{"region_id":"village_606814","name":"HOLEHARALAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

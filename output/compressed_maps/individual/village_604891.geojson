@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83109057996533,15.2708044572954],[76.80885349428067,15.23219564179169],[76.85730413233041,15.23809972665244],[76.86552789912375,15.26671910333462],[76.83109057996533,15.2708044572954]]]},"properties":{"region_id":"village_604891","name":"YARRINGALIGI","parent":"subdistrict_7109","parent_name":"KURUGODU"}}
+]}

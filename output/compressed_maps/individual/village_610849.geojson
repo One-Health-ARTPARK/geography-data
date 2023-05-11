@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19600500826611,13.65786159874404],[77.17926395723549,13.651341625131],[77.19188671258989,13.63902392023004],[77.19600500826611,13.65786159874404]]]},"properties":{"region_id":"village_610849","name":"GURAMMANAKATTE","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

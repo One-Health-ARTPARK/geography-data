@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8175069479385,15.69031966804075],[74.79333122311225,15.681073662961],[74.79540975275538,15.65814090634177],[74.81096443069757,15.66249203785136],[74.8175069479385,15.69031966804075]]]},"properties":{"region_id":"village_598085","name":"KALABHAVI","parent":"subdistrict_7043","parent_name":"KITTUR"}}
+]}

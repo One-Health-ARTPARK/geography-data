@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43108155780008,12.81653708258572],[75.39068206473142,12.78347200129942],[75.45057804522537,12.77152589522874],[75.43108155780008,12.81653708258572]]]},"properties":{"region_id":"village_617710","name":"BALLYA","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73667693081866,17.32396606791576],[75.69408837647539,17.31595665389048],[75.69680082187166,17.2953985661095],[75.73501376880863,17.30603479417222],[75.73667693081866,17.32396606791576]]]},"properties":{"region_id":"village_599174","name":"GODIHAL","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

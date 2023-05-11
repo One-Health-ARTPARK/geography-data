@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28125334397234,15.39584226024301],[76.25322860094435,15.39716479803472],[76.2543686237061,15.37861826230341],[76.2710118560543,15.37540211630056],[76.28125334397234,15.39584226024301]]]},"properties":{"region_id":"village_601824","name":"HALAHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

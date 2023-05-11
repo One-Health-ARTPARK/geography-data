@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60565278173218,12.93888418143649],[76.61558664156021,12.93679970731054],[76.61757934700825,12.95364927660451],[76.60174785505187,12.9517208832995],[76.60565278173218,12.93888418143649]]]},"properties":{"region_id":"village_617359","name":"KIRISAVE","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

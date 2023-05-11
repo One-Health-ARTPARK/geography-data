@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37009168147499,16.23958606645573],[76.35260319213867,16.23458345697094],[76.34523733527523,16.2116793385288],[76.36209362586425,16.20734367689381],[76.37009168147499,16.23958606645573]]]},"properties":{"region_id":"village_620992","name":"MYALINGADDI","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

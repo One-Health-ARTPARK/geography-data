@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59802902413722,16.49637020091723],[75.60981870937299,16.51707165477846],[75.59232092350842,16.52150654316058],[75.57606065135202,16.50471005785657],[75.59802902413722,16.49637020091723]]]},"properties":{"region_id":"village_599155","name":"HANCHINAL(PM)","parent":"subdistrict_7069","parent_name":"BABALESHWAR"}}
+]}

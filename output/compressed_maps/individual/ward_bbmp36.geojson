@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.564952999557,13.03822500002935],[77.5573320004092,13.03851999989246],[77.56159099978201,13.0286290002472],[77.564952999557,13.03822500002935]]]},"properties":{"region_id":"ward_bbmp36","name":"WARD NO. 36 (MATTIKERE)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

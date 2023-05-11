@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93835692683803,13.88236682520953],[75.93443397325812,13.89594085018262],[75.9227730189185,13.90475080724215],[75.92664689549953,13.88383567778589],[75.93835692683803,13.88236682520953]]]},"properties":{"region_id":"village_607108","name":"HAKKIHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

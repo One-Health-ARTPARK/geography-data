@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89324649509688,13.3669958518541],[77.87309884236532,13.3829411756892],[77.87573880993938,13.36804152592478],[77.89324649509688,13.3669958518541]]]},"properties":{"region_id":"village_624208","name":"ANUR","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

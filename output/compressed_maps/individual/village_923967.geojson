@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87344494087561,12.67226182024395],[75.85250220633397,12.66956642572378],[75.85439291640745,12.66151602078784],[75.87344494087561,12.67226182024395]]]},"properties":{"region_id":"village_923967","name":"KORLALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

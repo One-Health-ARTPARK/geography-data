@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55133285107874,12.89967444823271],[76.53751764908222,12.89988842245344],[76.53448436932875,12.89178431164297],[76.55194832678592,12.88958395584671],[76.55133285107874,12.89967444823271]]]},"properties":{"region_id":"village_617410","name":"POOMADIHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50439776915832,13.44509832509191],[77.49369181482041,13.45851422221764],[77.48523940456047,13.44032346040376],[77.50439776915832,13.44509832509191]]]},"properties":{"region_id":"village_624966","name":"MAKALI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06246140840706,12.55626372250064],[76.05420895064603,12.55523915713492],[76.05872496346561,12.54489351742884],[76.0660389789128,12.54607433679655],[76.06246140840706,12.55626372250064]]]},"properties":{"region_id":"village_618100","name":"GUDIBHADRANAHOSAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95487835035551,12.86999345273281],[74.95368431871064,12.88790676406575],[74.93390609356864,12.8828731806876],[74.94138044333698,12.86580325419768],[74.95487835035551,12.86999345273281]]]},"properties":{"region_id":"village_617512","name":"ARKULA (CT)","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

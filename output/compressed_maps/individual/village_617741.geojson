@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18954977641938,12.68938417990823],[75.1693849488645,12.6806817697089],[75.17215953009715,12.66361561613381],[75.18682391709352,12.67526864997753],[75.18954977641938,12.68938417990823]]]},"properties":{"region_id":"village_617741","name":"IRDE","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

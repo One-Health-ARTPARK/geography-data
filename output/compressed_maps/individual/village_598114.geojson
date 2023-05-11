@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82301994735687,15.56758459042294],[74.84090802694705,15.57459374803961],[74.83218270863814,15.59087190606467],[74.81528945678957,15.58754263774969],[74.8118330666848,15.57280185699716],[74.82301994735687,15.56758459042294]]]},"properties":{"region_id":"village_598114","name":"MARIGERI","parent":"subdistrict_7043","parent_name":"KITTUR"}}
+]}

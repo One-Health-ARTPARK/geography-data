@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84321357478359,13.4072959372674],[76.8209450724481,13.40791837157186],[76.81824149357419,13.399972239192],[76.83589212373364,13.39855701324614],[76.84321357478359,13.4072959372674]]]},"properties":{"region_id":"village_611738","name":"SAGASANDRA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

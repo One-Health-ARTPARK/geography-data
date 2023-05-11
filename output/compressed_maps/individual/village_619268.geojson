@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59734268713875,11.98457355565499],[76.6072414447577,11.99215315015737],[76.60725578516679,12.00706826018468],[76.5955118820504,12.01413862070249],[76.59734268713875,11.98457355565499]]]},"properties":{"region_id":"village_619268","name":"MAKANAPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

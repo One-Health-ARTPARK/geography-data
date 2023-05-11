@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5901565607709,16.13125018602366],[74.5652239354015,16.08083874454664],[74.59776441441771,16.0686674146329],[74.61097113936077,16.09573385960883],[74.5901565607709,16.13125018602366]]]},"properties":{"region_id":"village_597659","name":"WANTMURI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

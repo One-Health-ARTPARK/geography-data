@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9087805573002,14.24998310289728],[74.88940122900777,14.25159248449615],[74.88626073025162,14.2339174299355],[74.90593683763787,14.24050639531625],[74.9087805573002,14.24998310289728]]]},"properties":{"region_id":"village_603677","name":"HASAVANTE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

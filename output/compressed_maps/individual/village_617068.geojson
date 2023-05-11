@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31730112341697,12.97423446679783],[76.30527011632628,12.98260821273422],[76.30240853293031,12.97075689950128],[76.3139603321404,12.96412065639547],[76.31730112341697,12.97423446679783]]]},"properties":{"region_id":"village_617068","name":"HIRIHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

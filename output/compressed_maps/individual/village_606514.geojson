@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46956459329432,14.50659427334184],[76.43649940610683,14.51160016983921],[76.43242126363101,14.4861599477152],[76.45724116202858,14.48153529250923],[76.46956459329432,14.50659427334184]]]},"properties":{"region_id":"village_606514","name":"SIDDIHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

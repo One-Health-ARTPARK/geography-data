@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57664733691517,14.45812421949744],[75.56849974510699,14.42521535484748],[75.59544106200102,14.41535895373741],[75.60487520372054,14.45475377426931],[75.57664733691517,14.45812421949744]]]},"properties":{"region_id":"village_604435","name":"KUDAPALI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79027134626297,16.42016780528677],[76.77338873007577,16.42002679512697],[76.77994048540641,16.37710816163573],[76.7901473055119,16.3987153794337],[76.79027134626297,16.42016780528677]]]},"properties":{"region_id":"village_600540","name":"CHAPALKI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

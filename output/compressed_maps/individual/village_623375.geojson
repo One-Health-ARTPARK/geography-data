@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52486254125316,13.50982575917784],[77.502911037364,13.51190508509486],[77.49673348479365,13.4928003349261],[77.51426123460347,13.49159456041475],[77.5320837618758,13.48451031704628],[77.52486254125316,13.50982575917784]]]},"properties":{"region_id":"village_623375","name":"THONDEBHAVI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93305990822188,13.36237679538694],[77.929729173184,13.36248663952201],[77.92938722038757,13.34860117879504],[77.93851603494512,13.35582513231451],[77.93305990822188,13.36237679538694]]]},"properties":{"region_id":"village_624230","name":"GUDLANARASIMHANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

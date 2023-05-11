@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3625986788584,16.58444118967496],[76.33088536502706,16.58643123143066],[76.33112245055426,16.55307527064176],[76.35664988751675,16.55748697874022],[76.3625986788584,16.58444118967496]]]},"properties":{"region_id":"village_599691","name":"GOTAKHINDAKI","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

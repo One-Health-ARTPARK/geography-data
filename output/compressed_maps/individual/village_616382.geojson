@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9922096505303,13.01776183713083],[75.98344519078272,13.01450021568642],[75.98429444604558,13.01087767691084],[75.99523074029295,13.01339976361865],[75.9922096505303,13.01776183713083]]]},"properties":{"region_id":"village_616382","name":"BANDITHIMMANAHALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

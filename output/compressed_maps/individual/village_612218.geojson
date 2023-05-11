@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68739209409166,13.19871385121372],[76.68532054879805,13.20535907097397],[76.67339019897994,13.21012518762606],[76.67333044191001,13.19973601120475],[76.68739209409166,13.19871385121372]]]},"properties":{"region_id":"village_612218","name":"KALANJIHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

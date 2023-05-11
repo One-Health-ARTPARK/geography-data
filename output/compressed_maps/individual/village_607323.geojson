@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01907476180648,14.06412969240837],[75.00718050315555,14.06160925961101],[75.00991779434202,14.05631682080606],[75.01907476180648,14.06412969240837]]]},"properties":{"region_id":"village_607323","name":"KURUVA RI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

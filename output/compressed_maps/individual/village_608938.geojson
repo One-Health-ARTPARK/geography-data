@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28546188411947,13.36348767636657],[75.25441654066105,13.37106487283363],[75.24726818866613,13.33934256114662],[75.2696299298764,13.31683855159279],[75.28546188411947,13.36348767636657]]]},"properties":{"region_id":"village_608938","name":"MALANADU","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

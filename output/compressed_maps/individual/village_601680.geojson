@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64695706686491,15.63292222036062],[76.6692008977825,15.63259446211138],[76.67194653482578,15.65802114650012],[76.65344787976566,15.6604128258456],[76.64695706686491,15.63292222036062]]]},"properties":{"region_id":"village_601680","name":"PANNAPUR","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

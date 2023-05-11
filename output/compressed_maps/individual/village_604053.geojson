@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.112969742259,14.87019008993533],[75.0883610213043,14.88028953831001],[75.08236884983268,14.85390993550814],[75.11228525229771,14.85457756792349],[75.112969742259,14.87019008993533]]]},"properties":{"region_id":"village_604053","name":"HULLATTI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

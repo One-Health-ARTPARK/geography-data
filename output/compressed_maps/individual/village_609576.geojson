@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24139356754576,13.53283770308577],[76.22381093978719,13.53533870138442],[76.22407726058927,13.5113276976553],[76.23995554010355,13.51663657629657],[76.24139356754576,13.53283770308577]]]},"properties":{"region_id":"village_609576","name":"KANCHAGALLU","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

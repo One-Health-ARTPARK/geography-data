@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55364065080009,12.81982544090106],[77.53925359680304,12.79872610770416],[77.56542975560197,12.80217932039705],[77.55364065080009,12.81982544090106]]]},"properties":{"region_id":"village_613129","name":"BHOOTHANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

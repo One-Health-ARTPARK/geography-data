@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72343885998382,12.90858028950274],[76.71866969450265,12.91274114449515],[76.71662638163536,12.90634908304035],[76.72343885998382,12.90858028950274]]]},"properties":{"region_id":"village_613846","name":"KELAGEREKAVAL","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

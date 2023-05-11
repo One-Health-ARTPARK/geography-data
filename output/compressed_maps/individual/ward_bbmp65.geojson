@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57880199960859,13.00636699981226],[77.56069700033407,13.00582299962883],[77.56005800013571,12.99893899966978],[77.5714199995552,12.99681600018021],[77.57880199960859,13.00636699981226]]]},"properties":{"region_id":"ward_bbmp65","name":"WARD NO.65 (KADU MALLESHWAR WARD)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

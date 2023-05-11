@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64540410083087,16.41914677572651],[76.6156373953234,16.4204448134761],[76.63057878798676,16.39417718991649],[76.65538531819946,16.40810883253842],[76.64540410083087,16.41914677572651]]]},"properties":{"region_id":"village_621019","name":"CHANPATAN","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

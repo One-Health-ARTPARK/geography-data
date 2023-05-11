@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15689545647932,13.04818398266515],[76.17328694860481,13.04113954865306],[76.18576767927549,13.05127539685292],[76.16878303633716,13.06630793788356],[76.15689545647932,13.04818398266515]]]},"properties":{"region_id":"village_615950","name":"KORAVANGALA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

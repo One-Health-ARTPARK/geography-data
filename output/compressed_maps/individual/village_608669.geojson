@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.667498517839,13.7938156511412],[74.64058389726536,13.77072699244455],[74.64903055968914,13.76405319872319],[74.66967857468143,13.76744219664975],[74.67453604726288,13.78134681479444],[74.667498517839,13.7938156511412]]]},"properties":{"region_id":"village_608669","name":"ULLOOR [11]","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

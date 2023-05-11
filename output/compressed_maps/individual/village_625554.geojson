@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94063771739143,13.19932270365082],[77.92524163366991,13.20433670077552],[77.92741251105235,13.19285743031789],[77.94063771739143,13.19932270365082]]]},"properties":{"region_id":"village_625554","name":"MEDUR","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45791321921587,15.34749780267952],[74.43681371568815,15.30985956476376],[74.47142203662226,15.32242548065637],[74.45791321921587,15.34749780267952]]]},"properties":{"region_id":"village_939214","name":"ADANAGAOV","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

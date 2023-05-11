@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5952822880714,12.86652956697114],[77.59309008342932,12.87281418560698],[77.58641309317197,12.86690442692733],[77.59082522235482,12.86202629208277],[77.5952822880714,12.86652956697114]]]},"properties":{"region_id":"village_938435","name":"KALENA AGRAHARA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

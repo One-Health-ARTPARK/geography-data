@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62867799235734,14.32301662789079],[76.60321270437268,14.33632314687778],[76.6029804589013,14.31129643130662],[76.62867799235734,14.32301662789079]]]},"properties":{"region_id":"village_605326","name":"GORLAKATTE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04819127906711,16.39576203526583],[75.03586034699994,16.38914518771928],[75.03295696282947,16.36223061011297],[75.05110790381178,16.36613015577379],[75.04819127906711,16.39576203526583]]]},"properties":{"region_id":"village_598544","name":"SAIDAPUR","parent":"subdistrict_7063","parent_name":"RABAKAVI BANAHATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97465581210011,14.04856712983339],[75.9487357802918,14.05434303368343],[75.95261291664151,14.02397638386552],[75.97465581210011,14.04856712983339]]]},"properties":{"region_id":"village_607076","name":"GARAGA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

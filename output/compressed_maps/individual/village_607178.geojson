@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9775323117005,14.18764890828768],[74.95352388187398,14.190593676899],[74.9629362173273,14.16982658207942],[74.9775323117005,14.18764890828768]]]},"properties":{"region_id":"village_607178","name":"SHIRAVANTHE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47287022992452,13.48578017319626],[77.45981253152985,13.49695072695655],[77.45417797022704,13.48061947474017],[77.46161699526866,13.46283063325574],[77.47183464542371,13.469194040221],[77.47287022992452,13.48578017319626]]]},"properties":{"region_id":"village_623430","name":"ALLIPURA (CT)","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

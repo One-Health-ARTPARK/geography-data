@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36075360883886,15.54627671657286],[76.3328187734225,15.55136618638699],[76.34352063233193,15.53574182197021],[76.36075360883886,15.54627671657286]]]},"properties":{"region_id":"village_601576","name":"RAMPUR","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

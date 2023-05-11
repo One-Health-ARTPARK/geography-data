@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51264632822644,13.34582066916254],[77.49482894362988,13.34709496210826],[77.4926278655273,13.33211871086666],[77.52068055276825,13.32935309165648],[77.51264632822644,13.34582066916254]]]},"properties":{"region_id":"village_625080","name":"KOLUR","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

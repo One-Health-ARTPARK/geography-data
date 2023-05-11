@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04716342615978,16.5648494439483],[77.0051959585221,16.52611308265279],[77.0324621375466,16.52943262997908],[77.04716342615978,16.5648494439483]]]},"properties":{"region_id":"village_621202","name":"GONDENOOR","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

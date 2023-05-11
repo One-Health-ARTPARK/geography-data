@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82872643717432,14.86924713073321],[76.83262615437383,14.89164113011363],[76.8080939535523,14.89631006360965],[76.80602388637548,14.8752410820829],[76.82872643717432,14.86924713073321]]]},"properties":{"region_id":"village_605162","name":"THIMMALAPURA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

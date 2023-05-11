@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18056931437239,16.84689490190914],[77.13754109531249,16.84820877154111],[77.16075248532528,16.81705500127538],[77.18056931437239,16.84689490190914]]]},"properties":{"region_id":"village_621252","name":"YEDHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

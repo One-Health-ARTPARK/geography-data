@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74736880727968,13.63752160602406],[77.73567986898492,13.63412755534595],[77.7415642816985,13.62153412524338],[77.74736880727968,13.63752160602406]]]},"properties":{"region_id":"village_623445","name":"BODINARENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

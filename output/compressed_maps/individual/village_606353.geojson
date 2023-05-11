@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03778592293162,14.67179384808053],[76.02050173393322,14.66670649095284],[76.00918174499334,14.62205849318115],[76.05574079281335,14.62763812981811],[76.03778592293162,14.67179384808053]]]},"properties":{"region_id":"village_606353","name":"TOWDUR","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

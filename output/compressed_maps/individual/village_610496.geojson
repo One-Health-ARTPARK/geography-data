@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97042499438552,13.59896793907923],[76.96724689203143,13.58264291978953],[76.97934220751002,13.58620208218769],[76.97042499438552,13.59896793907923]]]},"properties":{"region_id":"village_610496","name":"VADDANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

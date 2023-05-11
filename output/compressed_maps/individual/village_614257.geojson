@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84932761455718,12.46213726497037],[76.84802242679123,12.45186019394629],[76.86054478406692,12.44755333524217],[76.8629425664925,12.46021093010061],[76.84932761455718,12.46213726497037]]]},"properties":{"region_id":"village_614257","name":"PEEHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

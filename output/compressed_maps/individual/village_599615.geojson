@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09385116846428,16.32821152946724],[76.0649315859791,16.33345072614353],[76.06070428356531,16.32094640644948],[76.08874456968346,16.30908393691455],[76.09385116846428,16.32821152946724]]]},"properties":{"region_id":"village_599615","name":"HARINDRAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

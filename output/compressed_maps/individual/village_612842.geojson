@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53574086646697,13.18851378815809],[77.52366955555348,13.19536598922596],[77.52226839959806,13.18252500183517],[77.53574086646697,13.18851378815809]]]},"properties":{"region_id":"village_612842","name":"BUDUMANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

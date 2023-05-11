@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74032552242386,14.2489360246209],[75.71141198207881,14.25409971889327],[75.70591238025106,14.23794794991717],[75.74032552242386,14.2489360246209]]]},"properties":{"region_id":"village_606794","name":"GANTYAPURA","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

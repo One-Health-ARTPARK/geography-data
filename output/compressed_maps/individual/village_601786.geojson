@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25528476101206,15.26278429039021],[76.23810802427016,15.26485104782116],[76.23871397316411,15.24334163817819],[76.2526499967423,15.24919621726395],[76.25528476101206,15.26278429039021]]]},"properties":{"region_id":"village_601786","name":"KARKIHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

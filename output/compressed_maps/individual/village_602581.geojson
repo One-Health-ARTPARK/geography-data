@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.16523782008262,14.85720556300254],[74.14425344156868,14.87040375550725],[74.14553922608775,14.84596438080101],[74.16523782008262,14.85720556300254]]]},"properties":{"region_id":"village_602581","name":"KANASGIRI","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

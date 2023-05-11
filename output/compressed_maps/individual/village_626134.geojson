@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40071186515928,12.76523684561175],[77.3655216679774,12.7744123095785],[77.36742417196373,12.75405886210356],[77.40071186515928,12.76523684561175]]]},"properties":{"region_id":"village_626134","name":"HEGGADAGERE","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95624751818559,12.62184476388598],[75.9392440812072,12.60904596184021],[75.9478679778594,12.59631262997343],[75.9581144610423,12.60696218326905],[75.95624751818559,12.62184476388598]]]},"properties":{"region_id":"village_616690","name":"BETTAGALALE","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

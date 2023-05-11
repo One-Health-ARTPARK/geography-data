@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83348593532173,13.58601440880394],[77.83025416984498,13.56844706724836],[77.840006920251,13.57202828647908],[77.83348593532173,13.58601440880394]]]},"properties":{"region_id":"village_623463","name":"KODURU","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34475483170431,18.14927821590635],[77.32853241387468,18.17037834731281],[77.31973224408362,18.14660723408466],[77.34475483170431,18.14927821590635]]]},"properties":{"region_id":"village_600029","name":"KUSHNOOR THANA","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

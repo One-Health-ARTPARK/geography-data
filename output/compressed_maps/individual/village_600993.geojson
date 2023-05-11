@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07073644337218,16.04550477998367],[77.03406696896967,16.04553828637848],[77.04725224760016,16.02584294502699],[77.07073644337218,16.04550477998367]]]},"properties":{"region_id":"village_600993","name":"CHIMLAPUR","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

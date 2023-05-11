@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07922886342602,12.91005719764703],[76.0816615284685,12.88338248127247],[76.09200900502454,12.88676043950211],[76.08445149147636,12.89480110266694],[76.07922886342602,12.91005719764703]]]},"properties":{"region_id":"village_616130","name":"KATTAYA KAVAL","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

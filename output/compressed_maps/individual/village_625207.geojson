@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45452500340046,13.25174319292044],[77.43198779029508,13.23925151723474],[77.45127001000625,13.23555627927866],[77.45452500340046,13.25174319292044]]]},"properties":{"region_id":"village_625207","name":"MUPPADIGHATTA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

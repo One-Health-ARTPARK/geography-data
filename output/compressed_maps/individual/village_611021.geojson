@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17150289723381,13.59164209740347],[77.15765230006998,13.58884450538035],[77.15513006248052,13.57029937202827],[77.17219286401416,13.57609597553279],[77.17150289723381,13.59164209740347]]]},"properties":{"region_id":"village_611021","name":"KUMATENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

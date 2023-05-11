@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48652782630941,12.84588608814236],[76.47441752940775,12.84771280459839],[76.46715682226922,12.83996844477775],[76.47748687220094,12.8336211502894],[76.48652782630941,12.84588608814236]]]},"properties":{"region_id":"village_617385","name":"KABBALU","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

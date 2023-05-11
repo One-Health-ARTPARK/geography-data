@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84062332810686,17.74525993656837],[76.7982139593797,17.73275746258298],[76.8029781052254,17.70766128517775],[76.82173202321316,17.69749849911966],[76.84062332810686,17.74525993656837]]]},"properties":{"region_id":"village_599799","name":"BHOSGA","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

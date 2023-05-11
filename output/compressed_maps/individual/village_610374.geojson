@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99601422871946,13.75373141450868],[76.9634339659947,13.75873858516742],[76.95807709940061,13.71772769954334],[77.00153318577765,13.7325330738123],[76.99601422871946,13.75373141450868]]]},"properties":{"region_id":"village_610374","name":"MAGODU","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60243198326037,16.35895304405776],[74.58935991925637,16.34605110257372],[74.5912697756285,16.3349114300958],[74.61056692446853,16.33718378933122],[74.60243198326037,16.35895304405776]]]},"properties":{"region_id":"village_597232","name":"KAMATYANAHATTI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81992996340546,12.27063990009137],[76.80846895917071,12.27751927511763],[76.80361934592206,12.27394373336052],[76.8006881860963,12.25929400267216],[76.8176458311543,12.25952512091039],[76.81992996340546,12.27063990009137]]]},"properties":{"region_id":"village_618796","name":"MADHAVAGERE","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

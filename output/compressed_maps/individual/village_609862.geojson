@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69034864638859,13.19021751482893],[75.67800389988533,13.19571633800976],[75.6692329246034,13.16835635165459],[75.69374215021331,13.17975873429602],[75.69034864638859,13.19021751482893]]]},"properties":{"region_id":"village_609862","name":"HANDI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42920571606827,12.50472996815413],[77.40695372863212,12.49882697068572],[77.42733612698962,12.48267627900094],[77.42920571606827,12.50472996815413]]]},"properties":{"region_id":"village_626480","name":"TIGALARAHOSAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06783015048877,15.9601306674709],[77.05010256616441,15.96276895090342],[77.04695766985458,15.94803673963293],[77.06100239101397,15.93940984777803],[77.06783015048877,15.9601306674709]]]},"properties":{"region_id":"village_601023","name":"BURHANPUR","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08742259902017,12.93909934046602],[77.06974148684924,12.94634391370709],[77.0697751362825,12.92939746285002],[77.08742259902017,12.93909934046602]]]},"properties":{"region_id":"village_612567","name":"SEENAPPANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

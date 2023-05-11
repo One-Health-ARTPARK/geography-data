@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38290234031436,15.9531884324887],[76.39120128726479,15.97525325348282],[76.36154271261675,15.97577981143966],[76.35766719556624,15.95499938437801],[76.38290234031436,15.9531884324887]]]},"properties":{"region_id":"village_600368","name":"JANTAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

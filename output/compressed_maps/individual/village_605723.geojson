@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20045860028127,14.10752992530091],[76.17896529985812,14.09606181080552],[76.19240626593626,14.08675711615133],[76.20045860028127,14.10752992530091]]]},"properties":{"region_id":"village_605723","name":"HARENAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

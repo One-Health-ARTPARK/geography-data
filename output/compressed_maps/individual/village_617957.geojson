@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83415492247704,12.47444113248838],[75.82024758572307,12.48473365180022],[75.81264145531158,12.46658673936927],[75.82927083225773,12.43766416691153],[75.84138007036117,12.4498667242977],[75.83415492247704,12.47444113248838]]]},"properties":{"region_id":"village_617957","name":"ULUGULLI","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

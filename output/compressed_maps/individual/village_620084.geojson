@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47915225432915,17.35970678235671],[76.47434430200276,17.33420642876148],[76.51155917832583,17.32604445949633],[76.52231439998874,17.34371472006382],[76.47915225432915,17.35970678235671]]]},"properties":{"region_id":"village_620084","name":"BENISIRUR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

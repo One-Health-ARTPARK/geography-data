@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87113353370493,13.42644870171274],[77.84551844903298,13.4280663933192],[77.84231354492023,13.41321541956544],[77.87113353370493,13.42644870171274]]]},"properties":{"region_id":"village_624167","name":"VARADANAYAKANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42924969992801,16.10719731879371],[76.39353163461728,16.12012434046643],[76.3979559762039,16.08937972745783],[76.42924969992801,16.10719731879371]]]},"properties":{"region_id":"village_600427","name":"GUNDASAGAR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

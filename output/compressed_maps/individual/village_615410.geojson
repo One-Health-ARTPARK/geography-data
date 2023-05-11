@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87186851974319,13.05489797254997],[75.86531432965343,13.04810989650384],[75.87369188549836,13.0476829523698],[75.87186851974319,13.05489797254997]]]},"properties":{"region_id":"village_615410","name":"BANDAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

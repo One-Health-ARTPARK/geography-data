@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01536307990781,12.33714882032483],[77.00009721233882,12.33591515550198],[76.99814888491424,12.31582713051182],[77.01266283734039,12.31431017317379],[77.01536307990781,12.33714882032483]]]},"properties":{"region_id":"village_614693","name":"AVVERAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

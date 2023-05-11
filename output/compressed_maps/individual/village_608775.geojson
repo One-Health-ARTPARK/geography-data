@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79414261145581,13.51502364623873],[74.76026708316854,13.51724983846409],[74.76181709550596,13.48998587245568],[74.79589683174456,13.49126283349979],[74.79414261145581,13.51502364623873]]]},"properties":{"region_id":"village_608775","name":"YEDTHADY","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

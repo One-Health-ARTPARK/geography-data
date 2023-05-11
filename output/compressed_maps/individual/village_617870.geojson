@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8755433985657,12.76903600511489],[75.88243733190554,12.76203232718427],[75.89424092349559,12.77170133679602],[75.88740850836759,12.77505782036595],[75.8755433985657,12.76903600511489]]]},"properties":{"region_id":"village_617870","name":"BEMBALUR","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

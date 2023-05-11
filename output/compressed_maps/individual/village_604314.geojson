@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37398171582534,14.57998385605959],[75.37038217419838,14.60317822693342],[75.3488364717639,14.59999074857314],[75.34352558899191,14.57999203021283],[75.37398171582534,14.57998385605959]]]},"properties":{"region_id":"village_604314","name":"CHIKKANAJI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

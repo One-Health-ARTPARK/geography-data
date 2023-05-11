@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95438599948474,13.75830260917123],[74.92668608973727,13.78075807123334],[74.88535305791429,13.77677659463688],[74.86963999803554,13.74739789777792],[74.95438599948474,13.75830260917123]]]},"properties":{"region_id":"village_608685","name":"HALLIHOLE","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2847851833097,12.25853320252263],[76.27101346232175,12.26561034224836],[76.26411679286089,12.23875987625692],[76.27060526846147,12.23643090460446],[76.27673309570689,12.25339621916356],[76.2847851833097,12.25853320252263]]]},"properties":{"region_id":"village_618376","name":"UMMATHUR","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71522319957485,15.94776509879319],[76.71932623745812,15.97786027514105],[76.70672738705558,15.97951566612695],[76.69729210287959,15.95679053362365],[76.71522319957485,15.94776509879319]]]},"properties":{"region_id":"village_600914","name":"S.RAMAL DINNI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

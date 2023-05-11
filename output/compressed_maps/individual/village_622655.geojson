@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.24352219302732,13.05607126432538],[78.24249533366311,13.04093388862645],[78.25332880883863,13.04276875769606],[78.25449012104163,13.0517955680306],[78.24352219302732,13.05607126432538]]]},"properties":{"region_id":"village_622655","name":"HUNUKUNDA","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

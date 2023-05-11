@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19859794452127,13.97190755147141],[76.17384897831884,13.95673121121875],[76.18743784446434,13.94477439490231],[76.20375434495772,13.95186494707383],[76.19859794452127,13.97190755147141]]]},"properties":{"region_id":"village_605754","name":"VISWANATHANAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

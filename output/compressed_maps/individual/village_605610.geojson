@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32522482115193,14.16573115070562],[76.31934365921087,14.13496219841062],[76.33318998017015,14.13994147717802],[76.34325732598603,14.15590972654747],[76.32522482115193,14.16573115070562]]]},"properties":{"region_id":"village_605610","name":"PANDARAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62209804360072,13.27627305765746],[77.60108147199495,13.28194132557279],[77.58027775355082,13.26838974735236],[77.61717718314756,13.26301414458157],[77.62209804360072,13.27627305765746]]]},"properties":{"region_id":"village_625278","name":"ALURDODDANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36739811377191,14.14943851884444],[76.35483056962772,14.09952510118303],[76.38158294585455,14.10287200754544],[76.36739811377191,14.14943851884444]]]},"properties":{"region_id":"village_605608","name":"SONDEKOLA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

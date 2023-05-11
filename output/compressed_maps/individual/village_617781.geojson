@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50844987234754,12.70234259888863],[75.48709481887413,12.70906354075115],[75.48948722617715,12.67859839091109],[75.50695723355282,12.68162617775777],[75.50844987234754,12.70234259888863]]]},"properties":{"region_id":"village_617781","name":"KENYA","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

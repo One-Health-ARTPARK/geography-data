@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38011959323596,15.89659753201181],[75.36412510484261,15.88679051688559],[75.38875925283156,15.87847934138887],[75.39933854893509,15.89457014333814],[75.38011959323596,15.89659753201181]]]},"properties":{"region_id":"village_598388","name":"MANIHAL","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

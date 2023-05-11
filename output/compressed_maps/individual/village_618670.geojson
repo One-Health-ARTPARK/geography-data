@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47017415196031,12.47362400845905],[76.45397994329096,12.45990713075662],[76.4597438504273,12.44163743016586],[76.47635551954544,12.44982702886675],[76.47017415196031,12.47362400845905]]]},"properties":{"region_id":"village_618670","name":"KALLAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

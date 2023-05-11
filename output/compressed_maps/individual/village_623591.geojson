@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63337577956688,13.4820084619797],[77.62139194011148,13.48114337530087],[77.62434331830084,13.47126517161074],[77.63337577956688,13.4820084619797]]]},"properties":{"region_id":"village_623591","name":"RAGIMAKALAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56553373571207,12.91058039291541],[77.5610355030097,12.92151164420287],[77.5556142715615,12.91141038916594],[77.56553373571207,12.91058039291541]]]},"properties":{"region_id":"village_938492","name":"KADIRENAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

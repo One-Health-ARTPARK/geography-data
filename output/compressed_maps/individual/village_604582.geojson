@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78495147183136,14.52287417864398],[75.76732166771004,14.53931300803949],[75.7672260412849,14.51816370768125],[75.78495147183136,14.52287417864398]]]},"properties":{"region_id":"village_604582","name":"KAWALETTU (CT)","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

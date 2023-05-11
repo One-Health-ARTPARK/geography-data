@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0628764630664,14.11469358942618],[75.06267467996204,14.09672871458237],[75.07662113018566,14.1039229647868],[75.07038330430441,14.11759223692428],[75.0628764630664,14.11469358942618]]]},"properties":{"region_id":"village_607237","name":"BHIMANAKONE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

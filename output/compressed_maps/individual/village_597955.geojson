@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5830105521454,15.51398629956971],[74.56175803817932,15.52483616168981],[74.55652130128883,15.50978365408767],[74.56988435390797,15.50346087217095],[74.5830105521454,15.51398629956971]]]},"properties":{"region_id":"village_597955","name":"ANAGADI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

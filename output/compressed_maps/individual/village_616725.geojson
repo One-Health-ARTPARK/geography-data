@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07539732704417,12.66811679969579],[76.06838744328601,12.66745761816445],[76.0706254480457,12.65259903962711],[76.07845761065886,12.65285064416741],[76.07539732704417,12.66811679969579]]]},"properties":{"region_id":"village_616725","name":"KONAPURA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

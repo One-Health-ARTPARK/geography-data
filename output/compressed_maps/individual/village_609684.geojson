@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64963515988728,13.42775501408582],[75.62887074278554,13.45601758416859],[75.59435523005966,13.41441832552266],[75.62560760252552,13.38722463000017],[75.64963515988728,13.42775501408582]]]},"properties":{"region_id":"village_609684","name":"SHIRAVASE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

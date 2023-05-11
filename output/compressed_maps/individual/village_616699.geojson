@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05238577304095,12.664209224469],[76.03235656708983,12.67384392591955],[76.03217496813001,12.65759763854883],[76.05238577304095,12.664209224469]]]},"properties":{"region_id":"village_616699","name":"BIDARUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

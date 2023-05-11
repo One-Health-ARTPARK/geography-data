@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11590423336558,13.27286426160404],[77.11196206593594,13.28785034807205],[77.10272177028453,13.28080781473896],[77.11590423336558,13.27286426160404]]]},"properties":{"region_id":"village_611567","name":"KITHAGANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

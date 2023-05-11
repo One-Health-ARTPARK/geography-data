@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75834207201791,13.20663760974614],[74.73980899763308,13.21272815803549],[74.74400408402032,13.1958741872582],[74.75694833463363,13.19585946081836],[74.75834207201791,13.20663760974614]]]},"properties":{"region_id":"village_608833","name":"MULOOR","parent":"subdistrict_7067","parent_name":"KAPU"}}
+]}

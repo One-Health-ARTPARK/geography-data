@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04867215878716,16.8048785679221],[77.0249447265954,16.79283486053933],[77.05269779296161,16.77315782309327],[77.06848051944691,16.80255663518281],[77.04867215878716,16.8048785679221]]]},"properties":{"region_id":"village_621293","name":"THANGUNDA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

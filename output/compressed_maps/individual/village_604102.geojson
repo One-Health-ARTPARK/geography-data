@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04993159153061,14.77349127489833],[75.0396863182408,14.76773742985204],[75.04491577124628,14.7547478687962],[75.05450934351661,14.75953655388882],[75.04993159153061,14.77349127489833]]]},"properties":{"region_id":"village_604102","name":"GOTAGODI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

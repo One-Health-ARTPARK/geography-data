@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63530958657768,16.47706452919381],[76.6214764582769,16.49031851163319],[76.6179055320121,16.4708933986744],[76.63530958657768,16.47706452919381]]]},"properties":{"region_id":"village_621000","name":"BENKANHALLI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81046542365243,13.75445920513414],[75.79285952503211,13.7502654105337],[75.79148672944177,13.73077009322129],[75.8075276032038,13.72619415830399],[75.81046542365243,13.75445920513414]]]},"properties":{"region_id":"village_609183","name":"ITTIGE","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

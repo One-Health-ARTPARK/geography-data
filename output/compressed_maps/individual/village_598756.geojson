@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71737941492148,15.88841750896782],[75.70658976587389,15.8510218020306],[75.72999820974525,15.85493545417465],[75.71737941492148,15.88841750896782]]]},"properties":{"region_id":"village_598756","name":"CHOLACHAGUDDA","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

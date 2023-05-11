@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00051574188387,16.33740934878405],[75.97468819638814,16.32202658921932],[75.99895078572779,16.30209995431611],[76.00051574188387,16.33740934878405]]]},"properties":{"region_id":"village_599572","name":"BALABATTI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62164167744768,14.75805771833165],[76.6075520135746,14.7543900769882],[76.58761143050047,14.76052129394407],[76.58402268358257,14.73722425643628],[76.62066714686972,14.73606916204981],[76.62164167744768,14.75805771833165]]]},"properties":{"region_id":"village_605106","name":"EKKEGUNDI","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

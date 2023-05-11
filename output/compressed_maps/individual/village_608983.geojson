@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31112066610085,13.50440877908695],[75.30113781824716,13.49915210910674],[75.30984159085205,13.47971568364698],[75.32077972790724,13.49355011822007],[75.31112066610085,13.50440877908695]]]},"properties":{"region_id":"village_608983","name":"KUNIMAKKI","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93629286722263,13.38826988612048],[75.92487597539045,13.37127603858517],[75.9466205487293,13.3773267078416],[75.93629286722263,13.38826988612048]]]},"properties":{"region_id":"village_609654","name":"HUDUGEREHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

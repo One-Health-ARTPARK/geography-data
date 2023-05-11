@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31231617634559,15.59448520705697],[76.30009704788448,15.56098106327514],[76.31698269073411,15.5582809372899],[76.31231617634559,15.59448520705697]]]},"properties":{"region_id":"village_601567","name":"HULSANHATTI","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

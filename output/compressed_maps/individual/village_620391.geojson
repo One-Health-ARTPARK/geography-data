@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41519437204231,17.48109805743148],[77.4058674495403,17.48813351200905],[77.38902094119146,17.48505504356793],[77.39204303646879,17.47489174477204],[77.40567513424308,17.47319194615529],[77.41519437204231,17.48109805743148]]]},"properties":{"region_id":"village_620391","name":"NEEMAHOSALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

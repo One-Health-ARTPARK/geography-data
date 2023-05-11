@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38638135239901,15.53842325817929],[76.38403389143981,15.56148495088367],[76.36501330678409,15.54528338173619],[76.38638135239901,15.53842325817929]]]},"properties":{"region_id":"village_601579","name":"NAGLAPUR","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

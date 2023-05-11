@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76593621826036,13.78655724877185],[75.74295487689886,13.77708658841253],[75.77134320540037,13.75267473473098],[75.76593621826036,13.78655724877185]]]},"properties":{"region_id":"village_609134","name":"H.RANGAPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21933210036593,12.44673404554662],[76.20711334712239,12.44769578195516],[76.21126244587859,12.43500579999138],[76.21944647592066,12.43754573986257],[76.21933210036593,12.44673404554662]]]},"properties":{"region_id":"village_618194","name":"NAGARAGHATTA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

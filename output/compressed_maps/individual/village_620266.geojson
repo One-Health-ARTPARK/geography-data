@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87363140721023,17.32380523207134],[76.86140687604298,17.28796553731729],[76.89415324818455,17.28309303028486],[76.89949674466878,17.31525716781064],[76.87363140721023,17.32380523207134]]]},"properties":{"region_id":"village_620266","name":"KUSNOOR (PART)","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

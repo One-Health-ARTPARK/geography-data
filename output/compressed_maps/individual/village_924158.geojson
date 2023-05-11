@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57151933143359,12.863588439532],[77.55487927448397,12.84784915167944],[77.5655927236764,12.83966743841295],[77.57151933143359,12.863588439532]]]},"properties":{"region_id":"village_924158","name":"GOLLAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

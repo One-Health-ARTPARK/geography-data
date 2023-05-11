@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83388578850541,13.05145233412542],[76.822744839929,13.06420713063441],[76.81386157194348,13.04688838382323],[76.83388578850541,13.05145233412542]]]},"properties":{"region_id":"village_612427","name":"MALLENAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

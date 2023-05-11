@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38429551634808,12.27029253142943],[76.38978291245002,12.26311450882544],[76.39183695805012,12.24085532570456],[76.40386196921422,12.25168991373364],[76.38429551634808,12.27029253142943]]]},"properties":{"region_id":"village_618485","name":"DHYTHYANAKEREKAVAL","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

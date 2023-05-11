@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86824169779267,13.67300625439236],[75.84725863592458,13.68320459044163],[75.84641083529264,13.66500349679722],[75.86122195838625,13.65294291037651],[75.86824169779267,13.67300625439236]]]},"properties":{"region_id":"village_609326","name":"SUNNADAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

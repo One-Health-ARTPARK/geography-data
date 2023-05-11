@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46915394767552,13.12617289116716],[75.44470700440034,13.15473666092052],[75.42376412707652,13.10611743960942],[75.47670310656797,13.11184342270067],[75.46915394767552,13.12617289116716]]]},"properties":{"region_id":"village_609919","name":"MADUGUNDI","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

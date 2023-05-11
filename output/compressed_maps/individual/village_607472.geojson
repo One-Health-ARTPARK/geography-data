@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06947268864535,14.47370369713368],[75.05390137312538,14.47628172440497],[75.05874364590628,14.46139047434094],[75.06947268864535,14.47370369713368]]]},"properties":{"region_id":"village_607472","name":"KEREKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

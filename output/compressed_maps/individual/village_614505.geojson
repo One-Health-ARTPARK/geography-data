@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96543158772464,12.74757791118208],[76.95077745950366,12.74930948308726],[76.95059852317648,12.73439842401592],[76.96777051317815,12.72958809216719],[76.96543158772464,12.74757791118208]]]},"properties":{"region_id":"village_614505","name":"HARALAKERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

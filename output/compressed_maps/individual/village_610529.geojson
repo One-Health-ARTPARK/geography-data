@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18426827264945,14.25856205645489],[77.1805299479918,14.2719819701534],[77.11807705910384,14.25622516820397],[77.1499030771245,14.24476149982495],[77.18426827264945,14.25856205645489]]]},"properties":{"region_id":"village_610529","name":"ACHAMMANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

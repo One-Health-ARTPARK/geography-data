@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79506254264109,13.31985204190576],[77.78381239197432,13.32534429837319],[77.77402372960938,13.31626187893042],[77.78743284767918,13.30637781940471],[77.79506254264109,13.31985204190576]]]},"properties":{"region_id":"village_625337","name":"CHIKKANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

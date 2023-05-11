@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14083662373606,15.47651444732315],[75.12068066874775,15.47765607829202],[75.12353936979717,15.45747292663246],[75.15824147352006,15.45389006463382],[75.14083662373606,15.47651444732315]]]},"properties":{"region_id":"village_602315","name":"SHIVALLI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97770468446474,13.02588121590992],[77.9663683397385,13.02846925020719],[77.95842315745634,13.01550786860235],[77.97745677984094,13.01533295741682],[77.97770468446474,13.02588121590992]]]},"properties":{"region_id":"village_622155","name":"DODDAKADATHUR","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

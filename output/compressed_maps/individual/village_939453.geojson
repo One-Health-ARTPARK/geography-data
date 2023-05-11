@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56878333700216,12.99272604567553],[77.55977072158562,13.01214930332749],[77.54005439627333,13.00260533844791],[77.55828265057598,12.98114023648593],[77.56878333700216,12.99272604567553]]]},"properties":{"region_id":"village_939453","name":"KETHAMARANAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

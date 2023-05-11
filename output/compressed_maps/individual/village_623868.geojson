@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85985649101337,13.75636065627972],[77.82013585107326,13.75458770956176],[77.81921307567454,13.73974178272443],[77.84191180671051,13.72548636632195],[77.85985649101337,13.75636065627972]]]},"properties":{"region_id":"village_623868","name":"YELLAMPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

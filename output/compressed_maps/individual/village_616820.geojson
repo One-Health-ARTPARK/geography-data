@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23219001574019,12.86203851172534],[76.23595848631649,12.87363235117067],[76.21380248902344,12.86751461362446],[76.21603843953105,12.86148331824216],[76.23219001574019,12.86203851172534]]]},"properties":{"region_id":"village_616820","name":"THAVANANDI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

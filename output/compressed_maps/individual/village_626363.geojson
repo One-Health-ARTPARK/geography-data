@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4068274974271,12.62775583065303],[77.39737659735437,12.62748778800974],[77.39559034980225,12.61313969352972],[77.40444609507746,12.60369770918643],[77.4068274974271,12.62775583065303]]]},"properties":{"region_id":"village_626363","name":"BANDIGANAHALLI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

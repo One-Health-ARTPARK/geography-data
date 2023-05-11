@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58130009170415,16.76566621588232],[76.57296726625681,16.80070145237223],[76.53778881230028,16.78339043270689],[76.52720749152859,16.75032854763069],[76.58130009170415,16.76566621588232]]]},"properties":{"region_id":"village_620808","name":"WADGERA","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

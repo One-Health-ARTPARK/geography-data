@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5915581688833,14.94181907904017],[76.58786746720804,14.94780757301203],[76.57378682132415,14.94479003591172],[76.57290053091613,14.94113542565655],[76.5915581688833,14.94181907904017]]]},"properties":{"region_id":"village_604980","name":"JODIKASINAYAKANAHALLI","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

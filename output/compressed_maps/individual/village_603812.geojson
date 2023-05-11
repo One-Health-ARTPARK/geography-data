@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60849961340683,14.23837134465643],[74.61026165402518,14.2194038832897],[74.62511914430686,14.22065886254397],[74.6274483780289,14.23428484700602],[74.60849961340683,14.23837134465643]]]},"properties":{"region_id":"village_603812","name":"KUDRIGE","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

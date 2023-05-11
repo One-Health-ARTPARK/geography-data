@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27225513836461,13.72020853806265],[75.27291555297244,13.72943554974699],[75.26322193402359,13.73089392817315],[75.26066034162106,13.72261177242944],[75.27225513836461,13.72020853806265]]]},"properties":{"region_id":"village_608209","name":"NELLISARA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8270769148981,14.63793571521846],[74.84077210259629,14.63739296843542],[74.83056664509311,14.65331910524066],[74.8270769148981,14.63793571521846]]]},"properties":{"region_id":"village_603149","name":"PUTTANAMANE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18816654471763,15.09855891077252],[75.15787785541146,15.10195368205278],[75.15219694292644,15.08610021352362],[75.18664168610815,15.08074044777889],[75.18816654471763,15.09855891077252]]]},"properties":{"region_id":"village_603887","name":"NEERALGI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

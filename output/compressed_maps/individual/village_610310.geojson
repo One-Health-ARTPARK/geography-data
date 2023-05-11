@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77766425333367,13.90125867846182],[76.76854605055635,13.91193203432826],[76.74966491694632,13.91597821012167],[76.7631669368345,13.89447147620516],[76.77766425333367,13.90125867846182]]]},"properties":{"region_id":"village_610310","name":"HERUR","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

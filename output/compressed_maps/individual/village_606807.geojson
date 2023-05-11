@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82402423859682,14.31327483378205],[75.82461784902064,14.32152694688325],[75.81184242433007,14.31742929880765],[75.81471215789495,14.30642468127084],[75.82402423859682,14.31327483378205]]]},"properties":{"region_id":"village_606807","name":"KENGALAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

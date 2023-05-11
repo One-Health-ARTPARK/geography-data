@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38312538239322,12.57437528938653],[76.37156813846049,12.56612534112749],[76.37398931623913,12.55590918194416],[76.38698679496683,12.55852192931083],[76.38312538239322,12.57437528938653]]]},"properties":{"region_id":"village_618576","name":"HARAMBALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75740067385694,13.69979387093565],[77.74599761675113,13.7037891610434],[77.74399260544618,13.69416050735933],[77.75273554069713,13.68678364626173],[77.75740067385694,13.69979387093565]]]},"properties":{"region_id":"village_623705","name":"KATAIAHGARAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

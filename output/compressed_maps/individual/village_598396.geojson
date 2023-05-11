@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38241262947537,15.84352602022639],[75.38983064189874,15.86933365365095],[75.38083845833924,15.88123587979126],[75.37499500783521,15.84610279548791],[75.38241262947537,15.84352602022639]]]},"properties":{"region_id":"village_598396","name":"REVADIKOPPA","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

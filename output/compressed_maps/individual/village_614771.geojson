@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24258755880315,12.42607315667157],[77.23702674569455,12.42633816028841],[77.24010185162793,12.40842838943131],[77.24565587192795,12.41873725686389],[77.24258755880315,12.42607315667157]]]},"properties":{"region_id":"village_614771","name":"HOSAPETEBASAVAPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06426759549562,15.7419921727526],[76.05182081378962,15.72482781990229],[76.05044241992128,15.6997243414107],[76.07011485638759,15.7005965972418],[76.06426759549562,15.7419921727526]]]},"properties":{"region_id":"village_601240","name":"BANDI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

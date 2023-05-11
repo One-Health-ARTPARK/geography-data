@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96058884667266,16.2205122578733],[75.93961093972345,16.17087919763611],[75.99620020276646,16.1638703878299],[75.97978381259034,16.21813434335579],[75.96058884667266,16.2205122578733]]]},"properties":{"region_id":"village_598908","name":"GANJIHAL","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

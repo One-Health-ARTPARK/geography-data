@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7383785325438,16.4952821119145],[76.75189765739789,16.46747773029847],[76.76708612166182,16.49681093210774],[76.7383785325438,16.4952821119145]]]},"properties":{"region_id":"village_621057","name":"KAUDIMATTI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

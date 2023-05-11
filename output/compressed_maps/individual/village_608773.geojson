@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8494699164102,13.55489503704848],[74.84039594316675,13.56752089839745],[74.82285729609633,13.5595869733127],[74.81956727855038,13.54164092434825],[74.8494699164102,13.55489503704848]]]},"properties":{"region_id":"village_608773","name":"KAKKUNJE","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

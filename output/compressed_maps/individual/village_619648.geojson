@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9280287574124,11.98678372258298],[76.88910989248691,11.99867157259218],[76.88959360571894,11.97593702679375],[76.91819987503328,11.96655145241811],[76.9280287574124,11.98678372258298]]]},"properties":{"region_id":"village_619648","name":"KELLAMBALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07894063395007,12.67705937418048],[77.08079929666685,12.68418265250441],[77.07646165860064,12.68567963343499],[77.07408814758587,12.67853351077936],[77.07894063395007,12.67705937418048]]]},"properties":{"region_id":"village_626199","name":"ARALAPURA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8896123155157,11.85398282409355],[76.88765176662672,11.87114457106803],[76.86414956363835,11.87462850755132],[76.86651204127587,11.85702717326294],[76.8896123155157,11.85398282409355]]]},"properties":{"region_id":"village_619712","name":"BADAGALAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15412057660636,13.65739083459506],[77.14814982745662,13.63540293425541],[77.15478457830596,13.6321868401989],[77.15774879370619,13.65404787426626],[77.15412057660636,13.65739083459506]]]},"properties":{"region_id":"village_610843","name":"THIGONDANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.7814014992346,15.27330141793014],[74.77240661299528,15.26886247488052],[74.77286476315855,15.26053956928364],[74.78079720170804,15.26258974070428],[74.7814014992346,15.27330141793014]]]},"properties":{"region_id":"village_602815","name":"PURA","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

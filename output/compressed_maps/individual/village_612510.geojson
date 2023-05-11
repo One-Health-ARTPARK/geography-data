@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08125990680864,13.08417806403863],[77.07953533276893,13.09463441551901],[77.06388255897566,13.09180251641521],[77.06361242091893,13.08126167160657],[77.08125990680864,13.08417806403863]]]},"properties":{"region_id":"village_612510","name":"SHETTIKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83606670015885,11.72331433369578],[76.83185525776202,11.73908047647454],[76.82253683384201,11.72383683080443],[76.83606670015885,11.72331433369578]]]},"properties":{"region_id":"village_619547","name":"KENGAWADI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

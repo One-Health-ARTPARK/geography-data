@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.02649183881762,13.69540191296284],[78.00678584956893,13.69538143881904],[78.00420836774425,13.66424655090012],[78.0217455825996,13.66720757671687],[78.02649183881762,13.69540191296284]]]},"properties":{"region_id":"village_624000","name":"PEDDAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

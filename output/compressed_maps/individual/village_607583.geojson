@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19429938853955,14.37963577668742],[75.18159092912731,14.3758497133871],[75.1942384871275,14.35957187986522],[75.2100054159583,14.37338333775116],[75.19429938853955,14.37963577668742]]]},"properties":{"region_id":"village_607583","name":"BEDAVATTI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

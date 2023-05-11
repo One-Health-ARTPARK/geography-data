@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68045027588978,13.08143364283617],[77.6768730172902,13.08755245046521],[77.67948627206214,13.10022333422214],[77.66505559177783,13.08889523888963],[77.66918143855592,13.08128433323249],[77.68045027588978,13.08143364283617]]]},"properties":{"region_id":"village_613074","name":"NADAGOWDAGOLLAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

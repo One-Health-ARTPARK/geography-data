@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6351652947119,16.18036505382031],[75.60722075661161,16.14815069368983],[75.64111263560936,16.14682794637491],[75.6351652947119,16.18036505382031]]]},"properties":{"region_id":"village_598796","name":"GADDANKERI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

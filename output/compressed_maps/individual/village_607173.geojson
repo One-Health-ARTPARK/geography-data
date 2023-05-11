@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96216305305937,14.16764212391403],[74.95240822934669,14.18101542780739],[74.94842227752477,14.17044270951811],[74.96216305305937,14.16764212391403]]]},"properties":{"region_id":"village_607173","name":"SUNKADEVARAKOPPA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

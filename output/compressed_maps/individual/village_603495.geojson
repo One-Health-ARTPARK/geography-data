@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4653961316232,14.38913736990443],[74.4455926140846,14.39200142633728],[74.44192767995769,14.38451353162917],[74.45997457518075,14.38218061089077],[74.4653961316232,14.38913736990443]]]},"properties":{"region_id":"village_603495","name":"KONALLI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

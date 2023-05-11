@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96009003125448,13.5646162960205],[75.9495719935356,13.55582207147676],[75.96672928912237,13.55652002254036],[75.96009003125448,13.5646162960205]]]},"properties":{"region_id":"village_609378","name":"OUTHANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

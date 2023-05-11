@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00849416303512,13.11868850447206],[76.00405056041092,13.13129017432068],[75.99742195084552,13.12742033350174],[75.9975563393768,13.11854692543344],[76.00849416303512,13.11868850447206]]]},"properties":{"region_id":"village_615358","name":"ANGADIHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

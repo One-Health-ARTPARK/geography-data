@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55872472694472,15.97905895090758],[75.5380956928266,15.99538909892636],[75.52461466147723,15.95443104923092],[75.55592312805123,15.94497548348796],[75.55872472694472,15.97905895090758]]]},"properties":{"region_id":"village_598700","name":"UGALAWAT","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

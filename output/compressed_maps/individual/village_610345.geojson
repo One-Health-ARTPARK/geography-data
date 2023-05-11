@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8602354775389,13.79963303197618],[76.87333338088976,13.83612718250773],[76.84559676312014,13.82875267179711],[76.8602354775389,13.79963303197618]]]},"properties":{"region_id":"village_610345","name":"KAGGALADU","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

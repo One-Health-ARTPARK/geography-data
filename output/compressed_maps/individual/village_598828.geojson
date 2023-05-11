@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89748937549673,16.26469249148707],[75.85544937247428,16.27095582472407],[75.84899071312645,16.24160770318009],[75.87483640442397,16.23958683014164],[75.89748937549673,16.26469249148707]]]},"properties":{"region_id":"village_598828","name":"BILKERUR","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

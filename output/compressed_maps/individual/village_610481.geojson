@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9812342164727,13.64148276643631],[76.96834284266974,13.6449527129786],[76.96979626198029,13.63079438607653],[76.9812342164727,13.64148276643631]]]},"properties":{"region_id":"village_610481","name":"CHINNAPPANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

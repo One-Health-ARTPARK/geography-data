@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91316492368043,12.85239594379386],[76.8990136645462,12.84663930152929],[76.90414163397536,12.83737747342567],[76.91369219693225,12.84272717911214],[76.91316492368043,12.85239594379386]]]},"properties":{"region_id":"village_612679","name":"DODDAKALLAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92915153846783,16.20848646283176],[76.90635079119387,16.21700663885622],[76.90781507368872,16.19322335195227],[76.9329786033253,16.19116740974626],[76.92915153846783,16.20848646283176]]]},"properties":{"region_id":"village_600705","name":"SHAVANTGAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

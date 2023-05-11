@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32069672193929,12.72081680215766],[75.29917292366986,12.74243736372638],[75.30052565706956,12.70797976443323],[75.32069672193929,12.72081680215766]]]},"properties":{"region_id":"village_617721","name":"PUNACHPADY","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

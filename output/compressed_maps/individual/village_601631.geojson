@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56920575650128,15.40156962829321],[76.57386816355408,15.41191738581518],[76.56029561265227,15.41196728078437],[76.55806722869777,15.39909749076499],[76.56920575650128,15.40156962829321]]]},"properties":{"region_id":"village_601631","name":"NAGARHALLI","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

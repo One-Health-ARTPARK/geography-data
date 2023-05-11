@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32341270979131,16.0285015902535],[77.3164527624873,16.03030961828655],[77.31460565783657,16.01384635403921],[77.32132737111405,16.01444145104758],[77.32341270979131,16.0285015902535]]]},"properties":{"region_id":"village_600859","name":"MOODALDINNI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

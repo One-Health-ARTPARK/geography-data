@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70466249639465,14.5458846697261],[76.62710680431236,14.53685694036453],[76.68221719213665,14.49593732335203],[76.70466249639465,14.5458846697261]]]},"properties":{"region_id":"village_605276","name":"HIREHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

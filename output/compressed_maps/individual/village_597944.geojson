@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.51444922429116,15.52104278437148],[74.50247460716602,15.52509623750206],[74.48281491852862,15.50422778697577],[74.50408726181406,15.5007861241792],[74.51444922429116,15.52104278437148]]]},"properties":{"region_id":"village_597944","name":"KAMATAGE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

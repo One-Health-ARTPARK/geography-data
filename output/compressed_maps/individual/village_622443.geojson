@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.09983229038227,12.96795118501973],[78.07496529156649,12.96482755996007],[78.09474954678993,12.94839950971187],[78.09983229038227,12.96795118501973]]]},"properties":{"region_id":"village_622443","name":"BANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

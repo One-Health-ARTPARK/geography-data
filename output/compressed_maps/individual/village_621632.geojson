@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.16793548426857,13.35390445908755],[78.15014915017811,13.35590380776265],[78.15551603585511,13.34251004662618],[78.16793548426857,13.35390445908755]]]},"properties":{"region_id":"village_621632","name":"DWARASANDRA","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

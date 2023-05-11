@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71375049792192,13.69224745496592],[74.69237648313774,13.71160094918471],[74.68686348875377,13.68699805031483],[74.71375049792192,13.69224745496592]]]},"properties":{"region_id":"village_608696","name":"HAKLADI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

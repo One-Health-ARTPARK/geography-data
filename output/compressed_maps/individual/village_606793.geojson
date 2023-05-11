@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.748843350034,14.25505755279468],[75.73633997847669,14.27692955671749],[75.71141198207881,14.25409971889327],[75.748843350034,14.25505755279468]]]},"properties":{"region_id":"village_606793","name":"SINGATAGERE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

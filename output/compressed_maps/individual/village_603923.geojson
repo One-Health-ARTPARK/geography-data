@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23222444561462,15.0672837904144],[75.22426575034648,15.06829530556165],[75.22516313530251,15.0408952109851],[75.23253112109217,15.04136183561605],[75.23222444561462,15.0672837904144]]]},"properties":{"region_id":"village_603923","name":"CHIKMANAKATTI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

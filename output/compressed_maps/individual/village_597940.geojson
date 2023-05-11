@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5153431522029,15.59036511235181],[74.49375723158687,15.58735237221143],[74.50974407333257,15.57299306533045],[74.5153431522029,15.59036511235181]]]},"properties":{"region_id":"village_597940","name":"SHINDHOLLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

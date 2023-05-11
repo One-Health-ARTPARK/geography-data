@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31894023147214,13.58930018554251],[77.29729556269172,13.57016039853983],[77.29892479485967,13.55524696750831],[77.32310260943056,13.58016851213874],[77.31894023147214,13.58930018554251]]]},"properties":{"region_id":"village_611104","name":"AKKIRAMPURA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

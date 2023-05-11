@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46489230984159,13.19030326926253],[77.47148237017412,13.21143573055329],[77.455745748312,13.20965409743447],[77.46489230984159,13.19030326926253]]]},"properties":{"region_id":"village_625243","name":"MADHURE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9283881303794,16.36608383006951],[74.86075536647648,16.36420330800403],[74.86638729636493,16.33002283604334],[74.91226343265743,16.32087700431922],[74.9283881303794,16.36608383006951]]]},"properties":{"region_id":"village_597382","name":"KANKANAWADI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

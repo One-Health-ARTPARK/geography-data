@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.660282893752,13.21930126892691],[77.65162261881437,13.21882681820242],[77.65390172746567,13.21288484137687],[77.65866238586288,13.21197839090663],[77.660282893752,13.21930126892691]]]},"properties":{"region_id":"village_625398","name":"PUJANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

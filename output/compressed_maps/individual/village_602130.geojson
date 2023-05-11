@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68030416800069,15.00636200055438],[75.66008869259497,15.00868676142159],[75.65472862478177,14.98982582964702],[75.67439570597597,14.98208749197276],[75.68030416800069,15.00636200055438]]]},"properties":{"region_id":"village_602130","name":"KOGANUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

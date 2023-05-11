@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67929626390264,13.22303819367047],[77.67027539784749,13.22883462547197],[77.66887809580933,13.22202157829713],[77.67929626390264,13.22303819367047]]]},"properties":{"region_id":"village_625393","name":"PALYA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

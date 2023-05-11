@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33925646529465,14.21079151964154],[76.36072093182379,14.21090439767938],[76.3638312406359,14.23831784876871],[76.34346731296047,14.23460400623438],[76.33925646529465,14.21079151964154]]]},"properties":{"region_id":"village_605589","name":"SIDDAPURA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

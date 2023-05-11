@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00189579588796,12.38183485513438],[75.97779209430382,12.38488463719188],[75.9815967776218,12.36206524056816],[75.9988123329143,12.3646570184403],[76.00189579588796,12.38183485513438]]]},"properties":{"region_id":"village_618237","name":"NAVILOOR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

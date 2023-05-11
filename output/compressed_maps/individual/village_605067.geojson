@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24880058555199,14.76377001331011],[76.2300284355325,14.74159037845367],[76.24249429205403,14.73007273958989],[76.27686770134052,14.73137664918822],[76.28020299088199,14.763207690834],[76.24880058555199,14.76377001331011]]]},"properties":{"region_id":"village_605067","name":"KALAPURA","parent":"subdistrict_7108","parent_name":"KOTTURU"}}
+]}

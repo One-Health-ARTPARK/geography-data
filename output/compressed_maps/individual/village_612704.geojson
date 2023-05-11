@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11648206045837,12.88099545689458],[77.10566241906108,12.89259136676607],[77.08090890528483,12.8765044676143],[77.09492673941757,12.86492358430054],[77.11648206045837,12.88099545689458]]]},"properties":{"region_id":"village_612704","name":"HEROHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

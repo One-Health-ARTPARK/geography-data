@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94714592786384,11.98794481302515],[76.94332564886267,12.00416280168117],[76.93557294591021,11.99287207617297],[76.94714592786384,11.98794481302515]]]},"properties":{"region_id":"village_619646","name":"SAPPAIAHNAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

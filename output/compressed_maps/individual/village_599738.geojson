@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0757038854118,17.9764669566771],[77.04944306403168,17.9681368680005],[77.05326800960995,17.93897655832073],[77.09422688626329,17.94013076098284],[77.0757038854118,17.9764669566771]]]},"properties":{"region_id":"village_599738","name":"GORTA (B)","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

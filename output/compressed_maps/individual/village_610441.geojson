@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87901661422836,13.61941102480884],[76.87554125741818,13.62520265815164],[76.8648933719361,13.62604716513728],[76.87148683685507,13.61737836893761],[76.87901661422836,13.61941102480884]]]},"properties":{"region_id":"village_610441","name":"MALANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

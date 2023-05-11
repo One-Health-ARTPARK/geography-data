@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41144412258518,12.6034775373922],[76.41219025071712,12.60598612010987],[76.40609474964185,12.60941389562483],[76.40657108879194,12.60446766718096],[76.41144412258518,12.6034775373922]]]},"properties":{"region_id":"village_613571","name":"CHAMIKOPPLU","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

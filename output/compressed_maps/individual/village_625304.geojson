@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64478045355406,13.23067490546814],[77.64590769882459,13.24578157239081],[77.63589312649044,13.24403266366669],[77.64478045355406,13.23067490546814]]]},"properties":{"region_id":"village_625304","name":"ARASANAHALLI PEDDANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

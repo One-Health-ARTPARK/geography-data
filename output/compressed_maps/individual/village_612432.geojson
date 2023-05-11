@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83261194542692,13.02759191383804],[76.81840676733596,13.0282588232199],[76.81709669151003,13.01917131662228],[76.82935181203334,13.01830587953438],[76.83261194542692,13.02759191383804]]]},"properties":{"region_id":"village_612432","name":"MUTHSANDRA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8974989437534,14.02323620191892],[75.88413525559132,14.02274818003861],[75.88614443188898,14.00628056839695],[75.896698925883,14.0109633314573],[75.8974989437534,14.02323620191892]]]},"properties":{"region_id":"village_607047","name":"SUNNAGERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

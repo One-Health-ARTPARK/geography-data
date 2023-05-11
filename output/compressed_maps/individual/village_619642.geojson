@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1140998536942,11.94173578111293],[77.10398349566634,11.96730629742657],[77.06735242429107,11.95834017416632],[77.10282627688352,11.9368105484218],[77.1140998536942,11.94173578111293]]]},"properties":{"region_id":"village_619642","name":"MELMALA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

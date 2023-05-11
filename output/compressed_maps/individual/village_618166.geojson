@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1733314872251,12.49229712018216],[76.15617822001025,12.48077139622074],[76.1588186005264,12.46172327147389],[76.18503191136254,12.46839750108709],[76.18962890350393,12.48781976073308],[76.1733314872251,12.49229712018216]]]},"properties":{"region_id":"village_618166","name":"KOTHAVALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

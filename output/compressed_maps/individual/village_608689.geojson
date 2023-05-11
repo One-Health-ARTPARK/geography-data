@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6750459603274,13.66166132021945],[74.65837798374999,13.66784210888332],[74.66484585414943,13.64554706573374],[74.67892850590763,13.64851618793822],[74.6750459603274,13.66166132021945]]]},"properties":{"region_id":"village_608689","name":"GANGOLLI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87283408098334,12.89786850374732],[76.8634824179378,12.89763993036436],[76.85965381996802,12.88155355236403],[76.86922321201003,12.88096393916893],[76.87283408098334,12.89786850374732]]]},"properties":{"region_id":"village_613904","name":"ANKANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72774665709663,12.84914861711308],[77.7294816611195,12.83929244167035],[77.72707623595062,12.81823233880217],[77.73779337170836,12.82824795586933],[77.74042717918091,12.83858774748779],[77.72774665709663,12.84914861711308]]]},"properties":{"region_id":"village_613201","name":"MUTHANALLUR","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

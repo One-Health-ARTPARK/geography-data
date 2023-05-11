@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36208896805941,15.38718153424949],[75.35643775324188,15.41071841552005],[75.32682118617859,15.40931693336029],[75.32962540062388,15.38734331084668],[75.36208896805941,15.38718153424949]]]},"properties":{"region_id":"village_602368","name":"MANAKAWAD","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

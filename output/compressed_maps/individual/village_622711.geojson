@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.32113010523328,13.04674527868138],[78.31041733321648,13.0496910561102],[78.31146053394967,13.04153892326641],[78.321413778443,13.03871639760681],[78.32113010523328,13.04674527868138]]]},"properties":{"region_id":"village_622711","name":"NATHA","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

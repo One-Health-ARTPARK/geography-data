@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19932042232003,13.56566480508625],[77.18571126918177,13.57362981815918],[77.18295489991296,13.54484346711856],[77.19932042232003,13.56566480508625]]]},"properties":{"region_id":"village_611034","name":"MALLEKAVU","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

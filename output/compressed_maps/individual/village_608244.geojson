@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28173797535595,13.61236492021532],[75.27678445575833,13.62736258323839],[75.25886056892251,13.63564107431258],[75.25747642549813,13.61993967132206],[75.28173797535595,13.61236492021532]]]},"properties":{"region_id":"village_608244","name":"ANDAGERE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

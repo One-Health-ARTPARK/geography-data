@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.286508809393,12.04846690229054],[77.25690128208872,12.05148437174093],[77.2499655994108,12.03387972601792],[77.27450184246929,12.03232292641492],[77.286508809393,12.04846690229054]]]},"properties":{"region_id":"village_619863","name":"SIRAGODU","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

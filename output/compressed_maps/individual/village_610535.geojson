@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22477057806178,14.20554274529566],[77.21354872253744,14.24403439627012],[77.18583544202993,14.2268883960238],[77.18991891671973,14.20763525924638],[77.22477057806178,14.20554274529566]]]},"properties":{"region_id":"village_610535","name":"YERRAMMANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

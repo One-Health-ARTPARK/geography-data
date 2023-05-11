@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98286409567913,13.03602701051018],[77.97131044704214,13.04172480476186],[77.9663683397385,13.02846925020719],[77.98189644759137,13.02503750825972],[77.98286409567913,13.03602701051018]]]},"properties":{"region_id":"village_622145","name":"CHIKKAKADATHUR","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

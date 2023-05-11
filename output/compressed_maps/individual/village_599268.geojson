@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97324866273334,17.0589657485298],[75.9448213240282,17.05364763310238],[75.94608436656954,17.01944841785397],[75.98104021886779,17.03172834587729],[75.97324866273334,17.0589657485298]]]},"properties":{"region_id":"village_599268","name":"TENNIHALLI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

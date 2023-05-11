@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6520074298375,12.93650785090583],[76.64483654673869,12.9346952225521],[76.65106035236435,12.91684846593361],[76.65985088053239,12.92371914720298],[76.6520074298375,12.93650785090583]]]},"properties":{"region_id":"village_613783","name":"HARALAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

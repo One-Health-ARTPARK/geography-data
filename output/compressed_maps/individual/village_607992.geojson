@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19495155657887,13.93264474083451],[75.18412706649349,13.93438620722761],[75.18017055505365,13.90902654467932],[75.19166289073812,13.90391327770126],[75.19495155657887,13.93264474083451]]]},"properties":{"region_id":"village_607992","name":"H. KUNNUR","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08101474839094,13.15817912032224],[75.03598749894458,13.17444841234035],[75.02413186221366,13.15787152100694],[75.06586093444734,13.13965436576563],[75.08101474839094,13.15817912032224]]]},"properties":{"region_id":"village_608912","name":"RENJALA","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16681641436645,13.63744238676799],[75.1489611421169,13.64373602363152],[75.13431258494074,13.61587977412512],[75.17090224186944,13.61506900276852],[75.16681641436645,13.63744238676799]]]},"properties":{"region_id":"village_608280","name":"MEGARAVALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

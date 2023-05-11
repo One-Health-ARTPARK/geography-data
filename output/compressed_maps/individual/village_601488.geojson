@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32038452909308,15.8389044125121],[76.30781810172559,15.8605801126289],[76.29027874450436,15.85855757451014],[76.29434554009802,15.83001098245247],[76.32038452909308,15.8389044125121]]]},"properties":{"region_id":"village_601488","name":"MADAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

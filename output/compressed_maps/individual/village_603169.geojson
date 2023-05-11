@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70417039879739,14.59385056288854],[74.68177076658485,14.59725802750567],[74.68739802489782,14.5695391716802],[74.70417039879739,14.59385056288854]]]},"properties":{"region_id":"village_603169","name":"KAMBIGAR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

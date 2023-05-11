@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71625087422458,13.34234799076479],[77.69818548754648,13.33484660747603],[77.71379108293714,13.32674353584266],[77.71625087422458,13.34234799076479]]]},"properties":{"region_id":"village_625308","name":"DODDASAGARAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

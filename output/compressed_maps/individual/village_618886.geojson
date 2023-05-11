@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30829605389236,12.08765509414334],[76.2998721453937,12.08858038627197],[76.29689184946021,12.07909396092328],[76.30926647161203,12.0772504704325],[76.30829605389236,12.08765509414334]]]},"properties":{"region_id":"village_618886","name":"HEGGADAPURA","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

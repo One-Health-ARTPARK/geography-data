@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45233788734599,12.57219061279141],[76.44221588050114,12.57108115592548],[76.43932714847035,12.56271987304551],[76.45329022812616,12.56361049668718],[76.45233788734599,12.57219061279141]]]},"properties":{"region_id":"village_613622","name":"MAMBAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51402421810864,12.98325347155967],[77.50729545788906,12.97253200746617],[77.52776617404793,12.97035650624741],[77.51402421810864,12.98325347155967]]]},"properties":{"region_id":"village_938509","name":"MALAGALU","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

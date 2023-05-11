@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3743584380073,17.19750308591665],[77.39389409105146,17.19409124716284],[77.39503633562875,17.21378288346264],[77.36640973704837,17.21667320407883],[77.3743584380073,17.19750308591665]]]},"properties":{"region_id":"village_620483","name":"HAYYAL","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

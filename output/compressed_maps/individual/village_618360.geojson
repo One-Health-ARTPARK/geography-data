@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22532328900412,12.25072067052651],[76.2147353046737,12.26750925141647],[76.21352094718839,12.24476228584813],[76.22532328900412,12.25072067052651]]]},"properties":{"region_id":"village_618360","name":"VADDAMBALU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

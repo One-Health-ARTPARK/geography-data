@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25118901098293,16.43358298730952],[75.25870144431869,16.49456177423413],[75.20799797891567,16.48794813798625],[75.212683081326,16.43095147263387],[75.25118901098293,16.43358298730952]]]},"properties":{"region_id":"village_598424","name":"KALHALLI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74885843042144,13.23991538772744],[76.7274238178945,13.24642081831207],[76.72235360219452,13.23147878629305],[76.74885843042144,13.23991538772744]]]},"properties":{"region_id":"village_612280","name":"HULLEKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

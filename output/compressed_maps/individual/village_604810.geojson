@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03213326949736,15.60551134430449],[77.00518287606374,15.6057968537291],[77.00303817969926,15.57018206508888],[77.02691057708837,15.57060634439295],[77.03213326949736,15.60551134430449]]]},"properties":{"region_id":"village_604810","name":"BANDRAHAL","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

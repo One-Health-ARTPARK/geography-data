@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73731076410435,12.33104237483742],[75.72499410030774,12.3354076839058],[75.71008186164968,12.32009589670409],[75.72571012204067,12.2961133014828],[75.736910969855,12.31218444537516],[75.73731076410435,12.33104237483742]]]},"properties":{"region_id":"village_617836","name":"HODDUR","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

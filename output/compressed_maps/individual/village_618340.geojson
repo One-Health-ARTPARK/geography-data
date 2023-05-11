@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18942656930288,12.29763165488787],[76.18246755354836,12.31048558206677],[76.16986538332029,12.30466387358823],[76.17688124537699,12.29008598551296],[76.18942656930288,12.29763165488787]]]},"properties":{"region_id":"village_618340","name":"HARINAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

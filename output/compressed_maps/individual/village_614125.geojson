@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56236028205832,12.52311433763252],[76.5568201767047,12.52388485053473],[76.55380351411917,12.51382362531403],[76.55654136263433,12.51340060945554],[76.55863860427029,12.52133045170378],[76.56236028205832,12.52311433763252]]]},"properties":{"region_id":"village_614125","name":"DINKADAKAVAL","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

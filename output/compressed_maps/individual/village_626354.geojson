@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5013016019689,12.68816729947709],[77.47927603827326,12.69284224849154],[77.48068917968372,12.68343213539151],[77.5013016019689,12.68816729947709]]]},"properties":{"region_id":"village_626354","name":"MARASANDRA","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32618043833415,14.58490206250016],[76.30847218879296,14.59339341491433],[76.29579261843989,14.57768350074867],[76.32618043833415,14.58490206250016]]]},"properties":{"region_id":"village_606399","name":"VEERAVVANAGATHIHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

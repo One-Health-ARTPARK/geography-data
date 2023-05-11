@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13739450291949,14.72024678977274],[75.14740939472952,14.70931161895118],[75.16242340158918,14.70944911425984],[75.16181310296888,14.71876308779451],[75.13739450291949,14.72024678977274]]]},"properties":{"region_id":"village_604151","name":"BALUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

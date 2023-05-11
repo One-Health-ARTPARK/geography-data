@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33214204253773,12.54833619906995],[77.32722938456537,12.55961001451014],[77.31606027893636,12.55791053719747],[77.3227096863206,12.54713527797928],[77.33214204253773,12.54833619906995]]]},"properties":{"region_id":"village_626440","name":"MALLAPPANA HOSAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

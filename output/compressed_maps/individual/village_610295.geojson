@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98407117938868,13.91026548693596],[76.96827732345344,13.90735360387863],[76.95598187463936,13.8870974560829],[76.98339913043164,13.88974315624757],[76.98407117938868,13.91026548693596]]]},"properties":{"region_id":"village_610295","name":"AGRAHARA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

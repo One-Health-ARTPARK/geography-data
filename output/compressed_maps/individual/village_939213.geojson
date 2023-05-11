@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18686224482047,17.18505704448297],[77.20920167851511,17.17729209407224],[77.20573592392343,17.15979860624017],[77.22400461751579,17.15774846209835],[77.21344985364212,17.19340033401349],[77.18686224482047,17.18505704448297]]]},"properties":{"region_id":"village_939213","name":"MALAKHEDA K","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

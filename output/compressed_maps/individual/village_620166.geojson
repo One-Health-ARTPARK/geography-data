@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70955340903895,17.27012291104561],[76.6872936318699,17.26371304770544],[76.67386570575312,17.23548284074344],[76.70489274198549,17.23281749241759],[76.70955340903895,17.27012291104561]]]},"properties":{"region_id":"village_620166","name":"HAWANUR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

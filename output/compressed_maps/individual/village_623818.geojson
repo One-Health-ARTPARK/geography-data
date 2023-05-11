@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83187137801941,13.82217241422742],[77.82501753886014,13.84292434997884],[77.80396964899018,13.84028197321562],[77.82266532978655,13.82144681134082],[77.83187137801941,13.82217241422742]]]},"properties":{"region_id":"village_623818","name":"NALLAPPAREDDIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

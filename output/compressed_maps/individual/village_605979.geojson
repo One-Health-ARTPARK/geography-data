@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38087992210579,13.65355454086824],[76.35912607749242,13.65292408998685],[76.36059082143213,13.64146265668314],[76.38094210329328,13.6423982296422],[76.38087992210579,13.65355454086824]]]},"properties":{"region_id":"village_605979","name":"NAGARAGERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

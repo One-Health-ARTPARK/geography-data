@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97109522729114,12.08337345236883],[76.97011272622893,12.1028110493699],[76.94920043139639,12.09232735966689],[76.97109522729114,12.08337345236883]]]},"properties":{"region_id":"village_619606","name":"BANAHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

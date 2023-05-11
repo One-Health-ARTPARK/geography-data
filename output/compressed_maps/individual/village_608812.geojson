@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71060639300896,13.38994805797819],[74.69677068559697,13.39105945983841],[74.69640361680122,13.37463724078941],[74.71194159905176,13.37749024463467],[74.71060639300896,13.38994805797819]]]},"properties":{"region_id":"village_608812","name":"BADANIDIYUR","parent":"subdistrict_5523","parent_name":"UDUPI"}}
+]}

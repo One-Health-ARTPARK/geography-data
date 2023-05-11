@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03729164206712,16.92174108994127],[76.00257037715602,16.90611130435078],[75.99850868067706,16.86892250108071],[76.03371834137721,16.8508132994076],[76.07491984926926,16.89289844811948],[76.03729164206712,16.92174108994127]]]},"properties":{"region_id":"village_599395","name":"MULSAVALGI","parent":"subdistrict_7071","parent_name":"DEVARA HIPPARAGI"}}
+]}

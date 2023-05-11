@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28065416751879,13.20196209392736],[77.26560119548178,13.2065870418435],[77.2592612816889,13.18795565529751],[77.27684826332029,13.18876556836615],[77.28065416751879,13.20196209392736]]]},"properties":{"region_id":"village_624759","name":"BILLANAKOTE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

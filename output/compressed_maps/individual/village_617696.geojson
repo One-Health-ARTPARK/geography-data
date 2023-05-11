@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37048598876196,12.85359398389224],[75.33826403552796,12.87851483849577],[75.3307103310951,12.84486326976242],[75.34877075801016,12.83225483916088],[75.37048598876196,12.85359398389224]]]},"properties":{"region_id":"village_617696","name":"G0LITHATTU","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

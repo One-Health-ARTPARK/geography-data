@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89333374810732,12.8701570487548],[76.87395967368307,12.87218858639409],[76.8753125877053,12.85662482592526],[76.89142358281586,12.85412986710977],[76.89333374810732,12.8701570487548]]]},"properties":{"region_id":"village_613916","name":"DODDAUPPLA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

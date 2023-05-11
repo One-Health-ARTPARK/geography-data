@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79903913461001,12.39734746707617],[75.83058439107872,12.40667349872106],[75.81442289321792,12.44111989015885],[75.78637599969001,12.41153949309366],[75.79903913461001,12.39734746707617]]]},"properties":{"region_id":"village_617965","name":"HORUR","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

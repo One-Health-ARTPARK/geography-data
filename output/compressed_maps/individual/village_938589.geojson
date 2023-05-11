@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97750064501957,13.9905181126782],[74.96092716618122,13.99104862315148],[74.96011145350542,13.97524478703538],[74.98656531139183,13.97164530103386],[74.97750064501957,13.9905181126782]]]},"properties":{"region_id":"village_938589","name":"ADAGALALE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

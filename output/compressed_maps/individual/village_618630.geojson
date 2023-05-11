@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.270921075234,12.43560459220453],[76.26303934901993,12.43616067982278],[76.25950051138747,12.42103151472664],[76.27151342235398,12.41941506384836],[76.270921075234,12.43560459220453]]]},"properties":{"region_id":"village_618630","name":"NIJAGANAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

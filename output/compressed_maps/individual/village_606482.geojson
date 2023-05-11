@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25651409907822,14.46720458820968],[76.22873731744538,14.46495887090621],[76.23801560837084,14.45027544373085],[76.25718222189273,14.44424650433057],[76.25651409907822,14.46720458820968]]]},"properties":{"region_id":"village_606482","name":"GUTTIDURGA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

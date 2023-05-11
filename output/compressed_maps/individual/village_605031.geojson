@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69410970301479,15.08185838235271],[76.67172758970692,15.08368614395343],[76.6846402354236,15.0469305464414],[76.70139046825425,15.04946279202579],[76.69410970301479,15.08185838235271]]]},"properties":{"region_id":"village_605031","name":"MALAPUR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

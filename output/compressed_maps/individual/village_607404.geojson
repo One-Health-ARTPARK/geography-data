@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08208907661698,14.55710030199619],[75.06525434527884,14.55247543325923],[75.06658032812017,14.54431350111103],[75.08017811733612,14.54646098712446],[75.08208907661698,14.55710030199619]]]},"properties":{"region_id":"village_607404","name":"TUMARIKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

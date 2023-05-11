@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77758785155439,13.71910645386319],[76.70942445021798,13.72596279392315],[76.73422214239497,13.69886536900703],[76.77758785155439,13.71910645386319]]]},"properties":{"region_id":"village_610406","name":"YARRADAKATTE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

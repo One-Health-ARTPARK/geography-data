@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.2545508191839,13.47676183898197],[78.24224906389865,13.47995042174427],[78.24294770434032,13.46828919981199],[78.25309791120792,13.4639290923737],[78.2545508191839,13.47676183898197]]]},"properties":{"region_id":"village_621477","name":"SONNAPALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19625381646269,17.63070017878619],[77.17778158937521,17.63928333859311],[77.17059533358795,17.62482742452505],[77.19390628199866,17.6155777979458],[77.19625381646269,17.63070017878619]]]},"properties":{"region_id":"village_600319","name":"GURDAL","parent":"subdistrict_7084","parent_name":"CHITAGUPPA"}}
+]}

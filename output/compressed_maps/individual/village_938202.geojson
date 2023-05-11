@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40112070184988,14.81912786305619],[75.36791061977755,14.81406546201291],[75.37330061459309,14.80082632977434],[75.39615324112032,14.80608390597232],[75.40112070184988,14.81912786305619]]]},"properties":{"region_id":"village_938202","name":"IJARILAKAMAPURA","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

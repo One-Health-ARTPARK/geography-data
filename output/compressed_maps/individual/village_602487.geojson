@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90618858851863,15.09675288296702],[74.87736892525578,15.0737670727206],[74.89152848637738,15.06391658824218],[74.90618858851863,15.09675288296702]]]},"properties":{"region_id":"village_602487","name":"SANGATIKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

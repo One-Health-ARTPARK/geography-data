@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29428147267713,17.03834931927242],[76.27977544137775,17.0504053551787],[76.27720261352326,17.0356078194455],[76.29428147267713,17.03834931927242]]]},"properties":{"region_id":"village_599324","name":"ASANGIHAL","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

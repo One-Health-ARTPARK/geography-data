@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03116444708733,17.98895423854909],[77.03574938961258,17.96797544598948],[77.05515764541119,17.97065585871718],[77.05616314603586,17.98651852192014],[77.03116444708733,17.98895423854909]]]},"properties":{"region_id":"village_599737","name":"TOGLUR","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

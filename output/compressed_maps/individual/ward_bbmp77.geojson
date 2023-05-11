@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56854100042871,12.9967759995679],[77.57537700036254,12.99185499985975],[77.57839299995445,12.99916499958292],[77.56854100042871,12.9967759995679]]]},"properties":{"region_id":"ward_bbmp77","name":"WARD NO.77 (DATTATREYA TEMPLE WARD)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

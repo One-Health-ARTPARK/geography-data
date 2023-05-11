@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77229589531872,14.25562241962501],[75.74873434965973,14.25503163409023],[75.74961908734502,14.24077888570934],[75.77749046735775,14.24197896795215],[75.77229589531872,14.25562241962501]]]},"properties":{"region_id":"village_606795","name":"NERALAGUNDI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

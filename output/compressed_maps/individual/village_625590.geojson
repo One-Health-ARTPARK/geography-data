@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93150762301131,13.12562319165994],[77.91498394491533,13.13025252397565],[77.915124030916,13.1174428611298],[77.93150762301131,13.12562319165994]]]},"properties":{"region_id":"village_625590","name":"MANCHAPPANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

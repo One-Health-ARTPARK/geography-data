@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91422645441257,15.38462184500496],[74.91072154904359,15.39897994992247],[74.89238591279795,15.39740598531215],[74.89645348955378,15.38303242833502],[74.91422645441257,15.38462184500496]]]},"properties":{"region_id":"village_602262","name":"LALAGATTI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

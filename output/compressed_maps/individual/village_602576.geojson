@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41665940259492,15.08493143014904],[75.39764330088082,15.08713963719872],[75.39859536955032,15.0593920103522],[75.41667198346147,15.05915748862763],[75.41665940259492,15.08493143014904]]]},"properties":{"region_id":"village_602576","name":"SANKALIPUR","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

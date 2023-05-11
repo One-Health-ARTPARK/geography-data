@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79656400823842,17.3425090323023],[75.79284027835311,17.30469264283573],[75.81023090965529,17.30497607805183],[75.81481791582735,17.34065339720637],[75.79656400823842,17.3425090323023]]]},"properties":{"region_id":"village_599188","name":"MANANKALGI","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

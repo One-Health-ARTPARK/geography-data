@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06620400859312,12.5582326819225],[76.06446192250837,12.57251071601831],[76.04684307782364,12.57008311967156],[76.04776989265058,12.56129992719108],[76.06620400859312,12.5582326819225]]]},"properties":{"region_id":"village_616747","name":"HAMPAPURA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88332777358208,13.51729377149288],[77.87455102150902,13.50810730855676],[77.86487146149662,13.50753693857693],[77.869261580115,13.49682787039361],[77.8793408512702,13.50065994029096],[77.88332777358208,13.51729377149288]]]},"properties":{"region_id":"village_624115","name":"DODDATHEKAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

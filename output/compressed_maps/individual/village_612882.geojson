@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52533766781823,13.102533603121],[77.50680358190085,13.10706422738559],[77.50485031845051,13.09924712409242],[77.51505982363469,13.094872287094],[77.52533766781823,13.102533603121]]]},"properties":{"region_id":"village_612882","name":"KALATHAMMANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

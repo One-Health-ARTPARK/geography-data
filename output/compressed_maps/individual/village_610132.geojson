@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66302281971542,13.4456230597334],[76.652626051005,13.4585063125912],[76.6274208604421,13.45067887915701],[76.63475785771107,13.43500451398024],[76.66302281971542,13.4456230597334]]]},"properties":{"region_id":"village_610132","name":"KODIHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

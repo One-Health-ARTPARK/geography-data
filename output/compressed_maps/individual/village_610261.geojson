@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6709247024528,13.37372996217873],[76.66639063413069,13.38300334119262],[76.64021791566046,13.3835050612702],[76.64245907355695,13.37031197667142],[76.6709247024528,13.37372996217873]]]},"properties":{"region_id":"village_610261","name":"BAGGANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

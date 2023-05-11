@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45858748962505,15.00956375645653],[75.45834913776288,15.02828142449462],[75.436503207143,15.02381657011026],[75.43631454829737,15.01058534984115],[75.45858748962505,15.00956375645653]]]},"properties":{"region_id":"village_604009","name":"NAIKERUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

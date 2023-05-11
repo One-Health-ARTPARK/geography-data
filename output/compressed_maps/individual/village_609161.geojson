@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78829797897596,13.67124546327631],[75.7831340350938,13.68168874319028],[75.759709052025,13.67817611969304],[75.77009345668189,13.66918545092145],[75.78829797897596,13.67124546327631]]]},"properties":{"region_id":"village_609161","name":"GUDDADABASAVANAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

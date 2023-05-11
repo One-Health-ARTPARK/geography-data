@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.710024686346,13.21844894219246],[76.69622837797652,13.22341732976144],[76.69145616618697,13.2147722419107],[76.70494842670577,13.21465229161701],[76.710024686346,13.21844894219246]]]},"properties":{"region_id":"village_612284","name":"MACHENAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

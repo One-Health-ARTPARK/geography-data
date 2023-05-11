@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80018717320138,13.23650959265655],[74.77688498910389,13.23295308783362],[74.77403204358106,13.21812862110146],[74.80112831712121,13.22124138518575],[74.80018717320138,13.23650959265655]]]},"properties":{"region_id":"village_608827","name":"PADOOR","parent":"subdistrict_7067","parent_name":"KAPU"}}
+]}

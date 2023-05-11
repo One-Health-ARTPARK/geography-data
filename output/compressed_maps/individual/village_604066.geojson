@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.302635194314,14.84925106853365],[75.28884003078379,14.84506477982786],[75.2990033468024,14.824846340657],[75.30871730052073,14.8299467369687],[75.302635194314,14.84925106853365]]]},"properties":{"region_id":"village_604066","name":"KUDAL","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

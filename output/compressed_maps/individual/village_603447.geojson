@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.39387133029855,14.49108759804211],[74.38270657658342,14.49209989386843],[74.38357606714546,14.48264273069399],[74.39187656939393,14.47769154670262],[74.39887504700917,14.48151707902504],[74.39387133029855,14.49108759804211]]]},"properties":{"region_id":"village_603447","name":"MASURKURVE","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51552956560217,15.19545322774397],[75.4479168878533,15.2114028569965],[75.46412709095733,15.18079327200932],[75.47816091358699,15.1711799797811],[75.508344589419,15.16906331514704],[75.51552956560217,15.19545322774397]]]},"properties":{"region_id":"village_602058","name":"GOJANUR","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

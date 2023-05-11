@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95227900544714,17.81976837359964],[76.94019311251363,17.82097775494976],[76.90289175757977,17.77060340790863],[76.93981140752474,17.75404473830039],[76.95227900544714,17.81976837359964]]]},"properties":{"region_id":"village_599757","name":"YERANDI","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

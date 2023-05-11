@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14141842497354,13.15556540759585],[76.1431513606775,13.16147289796475],[76.13861248600476,13.16239264130419],[76.13731271418597,13.15864085659975],[76.14141842497354,13.15556540759585]]]},"properties":{"region_id":"village_615923","name":"DODDENAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

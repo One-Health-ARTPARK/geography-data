@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6697139865876,13.48158786632282],[77.63337577956688,13.4820084619797],[77.62364795021898,13.46319602880791],[77.63486502587277,13.46175380968519],[77.6697139865876,13.48158786632282]]]},"properties":{"region_id":"village_623592","name":"KOLIMENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

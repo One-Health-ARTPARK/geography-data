@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25735613233759,14.08264331775627],[77.24564403944738,14.08431881693699],[77.24454136392455,14.07383671495913],[77.25368972391306,14.07368506166994],[77.25735613233759,14.08264331775627]]]},"properties":{"region_id":"village_610643","name":"BALAMMANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

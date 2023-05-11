@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18462259912297,14.41600794518333],[75.19496651815473,14.44820288966988],[75.17812855884775,14.43773116756925],[75.1707035640342,14.4241856090429],[75.18462259912297,14.41600794518333]]]},"properties":{"region_id":"village_607705","name":"HARAGI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

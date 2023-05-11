@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00568570949173,12.87225881086225],[74.99787859887788,12.88400151546878],[74.97891753135185,12.871540659032],[74.989759046925,12.8612957560932],[75.00568570949173,12.87225881086225]]]},"properties":{"region_id":"village_617599","name":"THUMBE (CT)","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

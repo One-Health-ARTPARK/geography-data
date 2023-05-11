@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6140739505873,15.84819892200287],[76.60156004946217,15.84893776090354],[76.60144715444177,15.82339998674195],[76.61834664428024,15.82464870808146],[76.6140739505873,15.84819892200287]]]},"properties":{"region_id":"village_601086","name":"KANIGANHALU","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

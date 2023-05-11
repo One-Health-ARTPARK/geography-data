@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38367613070679,14.26342028152728],[76.37242032572502,14.26331648028945],[76.37438969481148,14.24691892374522],[76.38788020619921,14.24961579835523],[76.38367613070679,14.26342028152728]]]},"properties":{"region_id":"village_605586","name":"MALLANAKATTE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44550792802558,16.17348691768658],[77.43136680598852,16.16996422251186],[77.43366022892273,16.15909295974329],[77.45590184319005,16.16218819323059],[77.44550792802558,16.17348691768658]]]},"properties":{"region_id":"village_600799","name":"HARKANDODDI (D)","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

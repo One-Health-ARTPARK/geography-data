@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90526300848099,13.25027158233825],[77.8913282703805,13.25754167317845],[77.88223890352994,13.22714503479658],[77.90235031593701,13.24213852810211],[77.90526300848099,13.25027158233825]]]},"properties":{"region_id":"village_625535","name":"DODDAHARADI PLANTATION","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

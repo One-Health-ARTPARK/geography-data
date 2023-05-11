@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2165012531667,13.49938749093737],[76.19302389145483,13.50188264627928],[76.20579282382322,13.47789661092605],[76.2165012531667,13.49938749093737]]]},"properties":{"region_id":"village_609598","name":"S.MADAPURA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29347233362574,14.29755476099425],[76.27269627978556,14.30131257904332],[76.25743557480135,14.29030548905186],[76.28082696773676,14.28503257922104],[76.29347233362574,14.29755476099425]]]},"properties":{"region_id":"village_605532","name":"VIJAPURA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

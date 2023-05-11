@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24201969852835,14.54316776367713],[75.22371760205506,14.54189426345206],[75.22847939342134,14.52972804101613],[75.24201969852835,14.54316776367713]]]},"properties":{"region_id":"village_607437","name":"KUNITEPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

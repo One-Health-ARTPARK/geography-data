@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0617124015542,13.37917539182552],[76.05611180094893,13.38161125793621],[76.04165625031676,13.37420344236946],[76.06103118620639,13.36811687959931],[76.0617124015542,13.37917539182552]]]},"properties":{"region_id":"village_615457","name":"S.KALLAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

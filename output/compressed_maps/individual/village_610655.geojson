@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26836605930298,14.05123904325743],[77.28191063572419,14.01325258815954],[77.29858118707817,14.02572442334122],[77.2929380242315,14.04756600424528],[77.26836605930298,14.05123904325743]]]},"properties":{"region_id":"village_610655","name":"RAJAVANTHI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

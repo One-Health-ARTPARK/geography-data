@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74217466729263,13.23086148311637],[75.72963541880453,13.22696488066311],[75.72971709336494,13.21930890646391],[75.7389534069179,13.21516375163211],[75.74217466729263,13.23086148311637]]]},"properties":{"region_id":"village_609878","name":"THIRUGUNA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

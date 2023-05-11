@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59484106144644,15.23323824596477],[75.57044377628866,15.25596887563861],[75.54627163246924,15.22863392642039],[75.5681586495,15.19299119090686],[75.59484106144644,15.23323824596477]]]},"properties":{"region_id":"village_602095","name":"SHIRAHATTI (RURAL)","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

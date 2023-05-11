@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67259809284666,12.52969436239961],[76.66623677708677,12.52275577131635],[76.67767570761868,12.51964743933886],[76.67259809284666,12.52969436239961]]]},"properties":{"region_id":"village_614192","name":"BANAGHATTA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

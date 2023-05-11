@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0097845908885,12.78116395001619],[77.02602335479367,12.76253235185953],[77.04393817367412,12.77762138467221],[77.03588963244148,12.79988647211498],[77.0097845908885,12.78116395001619]]]},"properties":{"region_id":"village_612723","name":"BANDIHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

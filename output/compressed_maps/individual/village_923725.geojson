@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71706999444552,16.13609860809625],[74.70819775061888,16.15191289444891],[74.69141136665642,16.1411627889064],[74.69721654661437,16.12774062786435],[74.71706999444552,16.13609860809625]]]},"properties":{"region_id":"village_923725","name":"PARAKANATTI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

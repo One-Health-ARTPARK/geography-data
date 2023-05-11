@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99084536555681,15.73314526365095],[76.97263895416478,15.73958975239719],[76.95162936506529,15.72557062084052],[76.98994236761553,15.71950667693116],[76.99084536555681,15.73314526365095]]]},"properties":{"region_id":"village_604795","name":"SEEDARAGADDA","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

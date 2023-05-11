@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61317484670306,15.5831259515395],[75.60052816484378,15.6308009213627],[75.56528101136898,15.62088724865037],[75.56996694823226,15.57657147641623],[75.61317484670306,15.5831259515395]]]},"properties":{"region_id":"village_601990","name":"BALAGANUR","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37021355756727,14.85132851491828],[76.34686907800173,14.85819712030338],[76.33304184134454,14.82224112432971],[76.35006920860845,14.81215546098264],[76.37021355756727,14.85132851491828]]]},"properties":{"region_id":"village_605079","name":"NAGALAPURA","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

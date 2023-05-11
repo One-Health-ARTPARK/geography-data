@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82913659230711,13.7957491062262],[77.8221356622232,13.79587844418415],[77.81609887130908,13.77738208463652],[77.82281305791051,13.77777737569052],[77.8308375207303,13.78755942937883],[77.82913659230711,13.7957491062262]]]},"properties":{"region_id":"village_623844","name":"KADIRANNAGARIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

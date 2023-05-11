@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98534966433155,12.08058670593969],[76.98740307994962,12.10407477426158],[76.97887348749677,12.11256518819602],[76.97066482439557,12.11278025337937],[76.9709499727726,12.08268551516966],[76.98534966433155,12.08058670593969]]]},"properties":{"region_id":"village_619607","name":"THELANUR","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

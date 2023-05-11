@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41379062133879,14.68336242954337],[75.39196663647841,14.67745738194573],[75.40415976347475,14.66057908052021],[75.42027004969303,14.66650720168109],[75.41379062133879,14.68336242954337]]]},"properties":{"region_id":"village_604285","name":"KALAGONDA","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

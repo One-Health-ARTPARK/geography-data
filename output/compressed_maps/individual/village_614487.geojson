@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93252523146653,12.45057763347907],[76.93220658145678,12.46498012487185],[76.9169528417666,12.46835079102983],[76.91652015881974,12.45440190515031],[76.93252523146653,12.45057763347907]]]},"properties":{"region_id":"village_614487","name":"LOKASARA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

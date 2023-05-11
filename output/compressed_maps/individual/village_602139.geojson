@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7805305761209,14.99136508895724],[75.75679597697709,14.98955943050523],[75.76789786778104,14.97020284797615],[75.7805305761209,14.99136508895724]]]},"properties":{"region_id":"village_602139","name":"KALLAGANUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

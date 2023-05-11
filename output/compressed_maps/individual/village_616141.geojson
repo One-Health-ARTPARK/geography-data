@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13009688092369,12.86420750677811],[76.11589829173492,12.86114669465747],[76.11560067557573,12.8536388083917],[76.12661881002155,12.85319969864786],[76.13009688092369,12.86420750677811]]]},"properties":{"region_id":"village_616141","name":"SEEGUR","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

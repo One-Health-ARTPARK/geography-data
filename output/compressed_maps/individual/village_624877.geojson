@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37486645796858,13.14538944175147],[77.36670103078343,13.14699001048328],[77.36578054737858,13.13475917782819],[77.37342421318223,13.1338220960632],[77.37486645796858,13.14538944175147]]]},"properties":{"region_id":"village_624877","name":"DEGANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

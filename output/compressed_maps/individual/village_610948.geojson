@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30973558042889,13.72479506009115],[77.30034239810949,13.69820165207931],[77.32220347487323,13.70154487764521],[77.30973558042889,13.72479506009115]]]},"properties":{"region_id":"village_610948","name":"KODLAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26429957099432,13.57655480678384],[76.25096365858417,13.58327812686798],[76.24865159643763,13.57243105495074],[76.25997270239901,13.56943623769022],[76.26429957099432,13.57655480678384]]]},"properties":{"region_id":"village_609500","name":"ALADAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1549642521708,15.31435727694105],[76.14453978309818,15.31972649092358],[76.13234505828078,15.2907982778565],[76.15278068950578,15.29140328677686],[76.1549642521708,15.31435727694105]]]},"properties":{"region_id":"village_601772","name":"CHUKANKAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

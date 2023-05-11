@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61730713179824,13.54805929565567],[77.61861570678265,13.52899663543361],[77.62746895563691,13.53502203585879],[77.62793797947327,13.548021045438],[77.61730713179824,13.54805929565567]]]},"properties":{"region_id":"village_623404","name":"JARABANDAHALLI.","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

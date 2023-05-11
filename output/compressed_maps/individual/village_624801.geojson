@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34416379485742,13.23560475735724],[77.34026127280981,13.22213718767305],[77.35505818612465,13.21883735749843],[77.35791386895698,13.22977723389711],[77.34416379485742,13.23560475735724]]]},"properties":{"region_id":"village_624801","name":"TADASIGATTA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

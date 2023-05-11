@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0992130222674,14.65281908170659],[75.08496357404391,14.68475615912849],[75.0723987785064,14.67830967821031],[75.07465426804879,14.6538555179029],[75.0992130222674,14.65281908170659]]]},"properties":{"region_id":"village_604128","name":"KYASANUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

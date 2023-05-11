@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71099607538548,13.36562802631825],[77.71646514546053,13.36522652696611],[77.72020012086077,13.37633380382793],[77.71236374007175,13.37789070775378],[77.71099607538548,13.36562802631825]]]},"properties":{"region_id":"village_623630","name":"DEVISETTIHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

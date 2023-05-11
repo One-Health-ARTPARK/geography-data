@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96685773180138,15.28116527853541],[74.93693205412951,15.2903945981573],[74.95258946139592,15.26208850914551],[74.96685773180138,15.28116527853541]]]},"properties":{"region_id":"village_602446","name":"B.SHIGIGATTI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

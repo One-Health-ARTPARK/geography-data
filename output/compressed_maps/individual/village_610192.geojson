@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63911020977955,13.45538149526281],[76.61449909997414,13.45522007691273],[76.61679098955194,13.4408379977828],[76.6274208604421,13.45067887915701],[76.63911020977955,13.45538149526281]]]},"properties":{"region_id":"village_610192","name":"BYALAKERE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3965166603038,12.42225191735143],[76.38285876097824,12.40476279242752],[76.39072657253008,12.39799016552926],[76.40465251428722,12.40763592539524],[76.3965166603038,12.42225191735143]]]},"properties":{"region_id":"village_618680","name":"ARAKERE","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

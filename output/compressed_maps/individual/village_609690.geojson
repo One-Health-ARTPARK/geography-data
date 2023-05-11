@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75874895377065,13.45385366818575],[75.75188392262329,13.4746478284764],[75.74054309997344,13.4415550110867],[75.76037262031076,13.44236591520334],[75.75874895377065,13.45385366818575]]]},"properties":{"region_id":"village_609690","name":"BISAGNIMUTT","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

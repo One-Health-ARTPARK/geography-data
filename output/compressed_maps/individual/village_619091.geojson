@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44301293652252,11.94829429642215],[76.4266926999135,11.94907981224623],[76.42513269261279,11.92875106943102],[76.44357371171233,11.93329194394708],[76.44301293652252,11.94829429642215]]]},"properties":{"region_id":"village_619091","name":"HUSKUR","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

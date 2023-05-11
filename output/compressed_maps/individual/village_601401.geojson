@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95858701069425,15.85482841847524],[75.94766874684196,15.85100610274253],[75.94742852259583,15.83464584748673],[75.95936617452627,15.84170476939383],[75.95858701069425,15.85482841847524]]]},"properties":{"region_id":"village_601401","name":"BADIMNHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

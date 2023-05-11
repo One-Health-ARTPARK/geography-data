@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98247598997477,13.50359817885691],[77.96755588893441,13.50423742395827],[77.97678899081679,13.47775537809593],[77.9854964535157,13.47631747480684],[77.98247598997477,13.50359817885691]]]},"properties":{"region_id":"village_624137","name":"GANJIGUNTE","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

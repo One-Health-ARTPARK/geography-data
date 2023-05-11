@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18849163833693,13.88622353444087],[75.16349745941602,13.89151235656888],[75.16280803071079,13.87134380541439],[75.1884977712448,13.86975090393326],[75.18849163833693,13.88622353444087]]]},"properties":{"region_id":"village_607990","name":"KADASOOR","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

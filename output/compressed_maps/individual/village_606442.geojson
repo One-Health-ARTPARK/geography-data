@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15461398556376,14.51996896360397],[76.1662397416315,14.52173977001249],[76.16538227058567,14.54384500482205],[76.14925420898092,14.54003012624585],[76.15461398556376,14.51996896360397]]]},"properties":{"region_id":"village_606442","name":"KOLAMAGHATTA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

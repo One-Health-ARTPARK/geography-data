@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97566300738029,16.19325196241535],[76.95817060117201,16.17190132834621],[76.98847457336231,16.17002764021953],[76.97566300738029,16.19325196241535]]]},"properties":{"region_id":"village_600956","name":"MURKIGUDDA","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

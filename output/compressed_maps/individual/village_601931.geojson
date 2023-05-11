@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87123239832712,15.82949610036148],[75.8254708485117,15.83836009197756],[75.83306149227667,15.81694213157581],[75.86469041123043,15.81241971417209],[75.87123239832712,15.82949610036148]]]},"properties":{"region_id":"village_601931","name":"NELLUR","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82919650153055,13.50315813993658],[77.8225083260183,13.51544855284112],[77.81511979425308,13.50276083013875],[77.82919650153055,13.50315813993658]]]},"properties":{"region_id":"village_623531","name":"VENKATAPURA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

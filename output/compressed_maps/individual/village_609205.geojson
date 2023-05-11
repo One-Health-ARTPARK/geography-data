@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9483890896615,13.71774086323275],[75.951178165719,13.72831683358633],[75.94347551234038,13.73695629012076],[75.94173159174355,13.7218223988381],[75.9483890896615,13.71774086323275]]]},"properties":{"region_id":"village_609205","name":"V.CHATTANAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

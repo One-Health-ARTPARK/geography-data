@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55783032403775,13.36994902053047],[77.55135249921386,13.3523290682099],[77.56365651039494,13.34811943815882],[77.56850776144981,13.36251134736362],[77.55783032403775,13.36994902053047]]]},"properties":{"region_id":"village_625044","name":"LAKSHMIDEVIPURA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

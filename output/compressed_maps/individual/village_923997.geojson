@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94144364647964,12.49933825769875],[75.92993198352006,12.49935438422038],[75.93360806210777,12.48674673227103],[75.94292568473486,12.49079982043314],[75.94144364647964,12.49933825769875]]]},"properties":{"region_id":"village_923997","name":"CHIKKATHUR","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43720443831255,13.70691754787074],[77.43709658606525,13.68411659813437],[77.45333963958979,13.6821864210087],[77.45250650640693,13.70417059989218],[77.43720443831255,13.70691754787074]]]},"properties":{"region_id":"village_610942","name":"THINGALUR","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23424696623952,12.62182814940359],[76.21640990658315,12.62517826989376],[76.20085036332263,12.6071671697714],[76.23110609934987,12.60421284091385],[76.23424696623952,12.62182814940359]]]},"properties":{"region_id":"village_618507","name":"MALUGANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

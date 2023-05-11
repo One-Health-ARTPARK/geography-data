@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06989877086993,14.54369044383654],[75.03770610932757,14.52872073572137],[75.04147577383799,14.51700788633488],[75.06640990637487,14.53179793351173],[75.06989877086993,14.54369044383654]]]},"properties":{"region_id":"village_607453","name":"HARALIKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

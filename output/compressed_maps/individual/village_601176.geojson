@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91284408210448,15.85172063740837],[76.89830698173769,15.81468849388099],[76.92622403028038,15.79091491465839],[76.92716306269254,15.82468975968493],[76.91284408210448,15.85172063740837]]]},"properties":{"region_id":"village_601176","name":"YEDDALDODDI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

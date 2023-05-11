@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49119161595478,12.08352613397328],[76.47539119575795,12.09342202690986],[76.46777849677781,12.06055284097458],[76.48906426985961,12.06817952198955],[76.49119161595478,12.08352613397328]]]},"properties":{"region_id":"village_619133","name":"MOTHA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

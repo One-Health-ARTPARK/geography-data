@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51531596905755,12.29817005778508],[76.49405417945518,12.30804155968549],[76.48429014076363,12.26893791201883],[76.51520007474663,12.27156828864752],[76.52048818052991,12.29460312624637],[76.51531596905755,12.29817005778508]]]},"properties":{"region_id":"village_618717","name":"DODDAMARAGOWDANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

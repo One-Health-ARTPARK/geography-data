@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71274566928425,14.07532463967039],[76.72029133187934,14.0846533101348],[76.69829483776041,14.08290147785958],[76.69900978867149,14.07514459193237],[76.71274566928425,14.07532463967039]]]},"properties":{"region_id":"village_606093","name":"BHAGAVATHIKERE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

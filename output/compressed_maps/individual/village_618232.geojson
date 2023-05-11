@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11647879506877,12.3528560928752],[76.10246320620372,12.34329060313823],[76.12063557445434,12.33765802805454],[76.11647879506877,12.3528560928752]]]},"properties":{"region_id":"village_618232","name":"MALLAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

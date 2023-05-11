@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53281540928457,13.27398421365359],[76.51553695645623,13.27427703013534],[76.51850196004263,13.26304755082406],[76.53181901569447,13.26375165241077],[76.53281540928457,13.27398421365359]]]},"properties":{"region_id":"village_612083","name":"KOTANAIKANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

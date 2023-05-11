@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79690344459196,16.25551106792539],[75.75291390195989,16.29667991189965],[75.7506679414315,16.27871214740316],[75.77732648354836,16.25661474878538],[75.79690344459196,16.25551106792539]]]},"properties":{"region_id":"village_598822","name":"SIRAGUPPI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

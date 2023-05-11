@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42258995196656,13.29964571886594],[76.40730260973577,13.3006198107013],[76.3973969357894,13.28321807626779],[76.42116450707252,13.27808591160782],[76.42258995196656,13.29964571886594]]]},"properties":{"region_id":"village_612070","name":"BOMMALAPURA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

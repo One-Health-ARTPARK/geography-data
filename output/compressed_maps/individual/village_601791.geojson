@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28083623022317,15.6163421689015],[76.25407453876556,15.58008660219964],[76.2868188831313,15.57855878404268],[76.28083623022317,15.6163421689015]]]},"properties":{"region_id":"village_601791","name":"HIREBOMMANHAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

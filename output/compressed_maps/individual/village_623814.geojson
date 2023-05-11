@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8292069749252,13.84746173235448],[77.83924014263515,13.86791414137712],[77.81960071740042,13.86272668600711],[77.8292069749252,13.84746173235448]]]},"properties":{"region_id":"village_623814","name":"NARASAPURA","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

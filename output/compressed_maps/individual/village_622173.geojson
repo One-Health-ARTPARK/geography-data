@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88092783382984,12.99146766621847],[77.87095929524767,12.98525840524897],[77.87146772365263,12.97389849048276],[77.88206172519921,12.97480416045058],[77.88092783382984,12.99146766621847]]]},"properties":{"region_id":"village_622173","name":"MARASANDRA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

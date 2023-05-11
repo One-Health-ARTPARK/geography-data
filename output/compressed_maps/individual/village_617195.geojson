@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39856201901213,12.93723477023972],[76.37796272049692,12.93727395428263],[76.37015014687624,12.92178418673241],[76.39608031464738,12.92063909463756],[76.39856201901213,12.93723477023972]]]},"properties":{"region_id":"village_617195","name":"BELASINDA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

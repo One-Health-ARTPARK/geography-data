@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2219212517414,16.22140351648798],[76.20651509504707,16.21834088830991],[76.20428404790222,16.19608467433117],[76.21738358175104,16.19920600695534],[76.2219212517414,16.22140351648798]]]},"properties":{"region_id":"village_599668","name":"BANGARAGUND","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

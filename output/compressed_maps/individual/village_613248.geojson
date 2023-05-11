@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80996661205631,12.88654227008631],[77.79730847073262,12.88135541843094],[77.79614664733936,12.87087974993952],[77.81504135693399,12.87890050907594],[77.80996661205631,12.88654227008631]]]},"properties":{"region_id":"village_613248","name":"DODDATHIMMASANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

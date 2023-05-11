@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09029672061904,15.25990815737929],[75.07152248708408,15.26072140802764],[75.07719049713491,15.24188505329822],[75.09029672061904,15.25990815737929]]]},"properties":{"region_id":"village_602415","name":"RAMAPUR","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

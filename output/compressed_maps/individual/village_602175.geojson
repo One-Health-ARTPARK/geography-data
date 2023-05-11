@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8856363910657,15.18253714783397],[75.85994403413538,15.18530380763551],[75.86231924164052,15.17463804013988],[75.8856363910657,15.18253714783397]]]},"properties":{"region_id":"village_602175","name":"MAKTUMPUR","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

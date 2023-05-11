@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59923533847278,15.28266425094463],[75.59602871822096,15.29781782102761],[75.57769831140882,15.2784355367246],[75.59923533847278,15.28266425094463]]]},"properties":{"region_id":"village_602042","name":"SHIROL","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

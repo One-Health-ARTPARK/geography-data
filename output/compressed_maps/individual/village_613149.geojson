@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62220594555416,12.78418712898161],[77.60721797792313,12.78955432365779],[77.59557792563544,12.76633070196397],[77.6227217787936,12.77487438725157],[77.62220594555416,12.78418712898161]]]},"properties":{"region_id":"village_613149","name":"BUKKASAGARA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1092823111927,13.7452517779399],[76.09270364645806,13.75690180802975],[76.07718090784249,13.73636725633612],[76.10003033088798,13.73666125560081],[76.1092823111927,13.7452517779399]]]},"properties":{"region_id":"village_609304","name":"BEGUR","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

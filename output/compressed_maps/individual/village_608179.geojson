@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12838135037713,13.75617883150652],[75.09301599125617,13.75256980522877],[75.11684881187895,13.72519488459126],[75.12838135037713,13.75617883150652]]]},"properties":{"region_id":"village_608179","name":"TENKABYLU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

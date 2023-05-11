@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87381721639608,14.41313572777629],[76.85231616047052,14.41740328043519],[76.84674265312628,14.39816445834157],[76.87381721639608,14.41313572777629]]]},"properties":{"region_id":"village_605374","name":"MODURU","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

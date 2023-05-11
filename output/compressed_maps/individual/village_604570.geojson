@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63816495395218,14.48228082565082],[75.63184608162,14.49525399637466],[75.59491798840106,14.48801590322423],[75.60252743446037,14.46920599769154],[75.63508968032731,14.461520607063],[75.63816495395218,14.48228082565082]]]},"properties":{"region_id":"village_604570","name":"KUPPELUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

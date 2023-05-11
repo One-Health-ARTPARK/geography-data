@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48560763663374,13.60916931648353],[77.456178483052,13.6061020304006],[77.48091595079005,13.58000274052719],[77.48560763663374,13.60916931648353]]]},"properties":{"region_id":"village_623262","name":"KADALAVENI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

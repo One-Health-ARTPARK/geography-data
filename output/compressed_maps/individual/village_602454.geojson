@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04306442189007,15.25994245348206],[75.01623463295074,15.2636858285046],[75.01941206635482,15.23922066615694],[75.0443891670911,15.24201195857197],[75.04306442189007,15.25994245348206]]]},"properties":{"region_id":"village_602454","name":"UGGINAKERI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

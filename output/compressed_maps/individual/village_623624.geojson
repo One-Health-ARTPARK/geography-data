@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71037507037379,13.37770382168402],[77.69733893605199,13.37513222260532],[77.69884011467217,13.35881065464883],[77.70772423808933,13.36127288919406],[77.71037507037379,13.37770382168402]]]},"properties":{"region_id":"village_623624","name":"ANGATTA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3282150046326,13.40327119662906],[77.31545839806539,13.40596763057693],[77.31510007911976,13.40038619381562],[77.3282150046326,13.40327119662906]]]},"properties":{"region_id":"village_611196","name":"LAKKAMUTHANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

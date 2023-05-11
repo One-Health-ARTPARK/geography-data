@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48735653611769,15.70332338520528],[75.46124059459149,15.72692670793871],[75.43148237747722,15.7220887981182],[75.4305619366455,15.69477685614764],[75.47194403678483,15.68664836043731],[75.48735653611769,15.70332338520528]]]},"properties":{"region_id":"village_601895","name":"SURKOD","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

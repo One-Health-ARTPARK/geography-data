@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3194368947377,18.31795269318928],[77.30290732590132,18.30956404157318],[77.29209586819853,18.29485228188045],[77.31315832052186,18.29457441897752],[77.3194368947377,18.31795269318928]]]},"properties":{"region_id":"village_599990","name":"MALEGAON","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70617373480512,13.46273825817162],[77.70804962118272,13.47023520117152],[77.69955578804131,13.46801445204663],[77.70617373480512,13.46273825817162]]]},"properties":{"region_id":"village_623546","name":"BYROJANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

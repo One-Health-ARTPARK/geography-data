@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84366385836375,14.799445274958],[74.81625451421715,14.77211388303248],[74.83674581674096,14.74343104651028],[74.85528551029338,14.79366677877519],[74.84366385836375,14.799445274958]]]},"properties":{"region_id":"village_602997","name":"TAREHALLI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

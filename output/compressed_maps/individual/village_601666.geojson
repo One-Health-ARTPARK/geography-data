@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4888763477537,15.63737386206942],[76.48800225041424,15.65682999225484],[76.46893022611084,15.655480338279],[76.47312217356827,15.63106861642196],[76.4888763477537,15.63737386206942]]]},"properties":{"region_id":"village_601666","name":"KATAPUR (UMLI)","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

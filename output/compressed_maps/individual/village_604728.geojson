@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44086310423175,15.32419710282002],[76.43520826882283,15.3264878493029],[76.43118285761273,15.3145575789732],[76.44338559468538,15.31635488862555],[76.44086310423175,15.32419710282002]]]},"properties":{"region_id":"village_604728","name":"SINGANATHANAHALLI","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

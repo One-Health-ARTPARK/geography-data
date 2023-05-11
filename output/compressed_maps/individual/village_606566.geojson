@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8812998166628,14.41333560367935],[75.86162919343774,14.41972202806735],[75.84664725015784,14.40422990668785],[75.87096406378375,14.40345040198267],[75.8812998166628,14.41333560367935]]]},"properties":{"region_id":"village_606566","name":"JARIKATTE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

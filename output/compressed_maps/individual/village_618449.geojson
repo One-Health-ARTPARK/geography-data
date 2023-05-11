@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4389764189189,12.35944832911562],[76.45194507102428,12.37027153369619],[76.43954834807319,12.37594602664177],[76.4389764189189,12.35944832911562]]]},"properties":{"region_id":"village_618449","name":"MYDANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.35411474743178,14.59188324897536],[74.34345128217981,14.60065692153712],[74.33634461961638,14.59291985767572],[74.34863743266962,14.58776733322754],[74.35411474743178,14.59188324897536]]]},"properties":{"region_id":"village_603383","name":"KAMGE","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

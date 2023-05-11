@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42690933506672,13.31171251962014],[77.41233834609315,13.30710936061038],[77.41217802194292,13.29788680751847],[77.43138129389054,13.29742299839694],[77.42690933506672,13.31171251962014]]]},"properties":{"region_id":"village_625174","name":"RAMAPURA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

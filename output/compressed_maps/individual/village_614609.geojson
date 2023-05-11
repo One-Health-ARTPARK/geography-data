@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08636191231794,12.54587251050581],[77.06810501433762,12.54455656670895],[77.07153273370669,12.53104182945756],[77.08520814206156,12.53031120260208],[77.08636191231794,12.54587251050581]]]},"properties":{"region_id":"village_614609","name":"KABBARE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

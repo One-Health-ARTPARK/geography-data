@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36188323707171,12.40056078084327],[76.34729895348119,12.38981337483506],[76.35949349695001,12.38538494250455],[76.36188323707171,12.40056078084327]]]},"properties":{"region_id":"village_618304","name":"HULYALU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

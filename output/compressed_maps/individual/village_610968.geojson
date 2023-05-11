@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29448943803013,13.67603358416058],[77.29207796361302,13.66492533894202],[77.30730374624939,13.66097950352654],[77.30770994243872,13.67678943229004],[77.29448943803013,13.67603358416058]]]},"properties":{"region_id":"village_610968","name":"DODDAHOSAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3658451088805,13.71859400601589],[77.37807791393365,13.65905327355228],[77.39425627087222,13.68935039850658],[77.3658451088805,13.71859400601589]]]},"properties":{"region_id":"village_610936","name":"DODDAMALUR","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

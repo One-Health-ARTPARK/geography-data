@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00560851553311,14.17610249293548],[74.99049338245473,14.18605390972475],[74.97977585107442,14.16971460295254],[75.00092672817703,14.15855674456989],[75.00560851553311,14.17610249293548]]]},"properties":{"region_id":"village_607180","name":"KUGVE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

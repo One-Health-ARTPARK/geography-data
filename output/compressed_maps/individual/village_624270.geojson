@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81217445424447,13.27398164246569],[77.80936035143935,13.2619502319696],[77.82193007348643,13.25777484026671],[77.82447753741914,13.2741332209226],[77.81217445424447,13.27398164246569]]]},"properties":{"region_id":"village_624270","name":"BALUVANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

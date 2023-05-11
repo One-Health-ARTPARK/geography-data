@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99629983178181,15.92993957818297],[76.97024488422001,15.92649052749908],[76.95656737861493,15.88600339921727],[76.98475428971646,15.89576378867482],[76.99629983178181,15.92993957818297]]]},"properties":{"region_id":"village_601032","name":"CHIKKOTANKAL","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

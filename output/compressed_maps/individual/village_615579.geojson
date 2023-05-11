@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21770896735687,13.38000440235177],[76.19930199780971,13.35677495239043],[76.2247276754293,13.35537273163879],[76.21770896735687,13.38000440235177]]]},"properties":{"region_id":"village_615579","name":"BENDEKERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

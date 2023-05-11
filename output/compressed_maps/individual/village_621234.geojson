@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24622608824183,16.93246282361048],[77.22913106954535,16.93531329512661],[77.23737914668955,16.91246277779415],[77.2484551036178,16.91381870688806],[77.24622608824183,16.93246282361048]]]},"properties":{"region_id":"village_621234","name":"KHANAPUR-HOSALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

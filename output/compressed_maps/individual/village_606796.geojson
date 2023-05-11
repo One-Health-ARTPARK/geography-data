@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76866938449265,14.25871096058706],[75.7489730147411,14.28604622018681],[75.73743545165475,14.28094343481976],[75.748843350034,14.25505755279468],[75.76866938449265,14.25871096058706]]]},"properties":{"region_id":"village_606796","name":"BEVINAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

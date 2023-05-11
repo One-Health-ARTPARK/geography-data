@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66450629132227,14.21195959491389],[74.61756007438844,14.186379862507],[74.65047446821852,14.16972915494518],[74.66450629132227,14.21195959491389]]]},"properties":{"region_id":"village_603814","name":"KHANDODI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

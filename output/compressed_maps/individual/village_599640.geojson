@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17169580665241,16.22692469420203],[76.16022579673036,16.18461114884673],[76.1735125074888,16.18321887883441],[76.17169580665241,16.22692469420203]]]},"properties":{"region_id":"village_599640","name":"GARASANGI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

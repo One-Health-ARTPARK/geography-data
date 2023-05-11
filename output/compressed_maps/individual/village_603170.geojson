@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70264520181107,14.6026642021684],[74.68668279320562,14.60134314393015],[74.7022691938507,14.58898233846051],[74.70264520181107,14.6026642021684]]]},"properties":{"region_id":"village_603170","name":"HAKKIGADDE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

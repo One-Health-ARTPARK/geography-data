@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08041837393353,15.18857473606386],[75.0743322759485,15.21183521335623],[75.04806858020687,15.20140583199289],[75.04883695406504,15.16668056430204],[75.08041837393353,15.18857473606386]]]},"properties":{"region_id":"village_602492","name":"GANJIGATTI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

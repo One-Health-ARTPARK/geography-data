@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80327984967532,14.52924364950784],[74.78263169438587,14.54223158403627],[74.77823051869173,14.52576343537899],[74.80327984967532,14.52924364950784]]]},"properties":{"region_id":"village_603204","name":"TUDUGUNI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

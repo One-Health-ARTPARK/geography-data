@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06049472052541,13.52151343172573],[76.04477453178728,13.51864594326827],[76.0622025511017,13.50607540777683],[76.07276482688376,13.51444791189299],[76.06049472052541,13.52151343172573]]]},"properties":{"region_id":"village_609523","name":"NAGDIYATHKAVAL","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

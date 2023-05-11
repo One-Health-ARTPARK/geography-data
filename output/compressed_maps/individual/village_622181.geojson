@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94068373326999,12.97503535422877],[77.93829096979375,12.98652730460781],[77.93120726958826,12.98347774018067],[77.9327808226675,12.97491854896389],[77.94068373326999,12.97503535422877]]]},"properties":{"region_id":"village_622181","name":"PURASANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39825655099139,13.58045117359084],[75.38253927648175,13.58485203413224],[75.37567569150865,13.56657291026883],[75.38787016643536,13.55176395234813],[75.39825655099139,13.58045117359084]]]},"properties":{"region_id":"village_608999","name":"KESAVE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.0234122927089,13.35950640992056],[78.01808167025467,13.34769188042813],[78.03306056352119,13.34249797753075],[78.03231133753519,13.35340922048134],[78.0234122927089,13.35950640992056]]]},"properties":{"region_id":"village_624595","name":"KENDANAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26801060292476,16.58075980586821],[76.26187535906284,16.60671926080476],[76.23961074920851,16.59987346335398],[76.23811788266532,16.58217144398375],[76.26801060292476,16.58075980586821]]]},"properties":{"region_id":"village_599542","name":"SASANUR","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

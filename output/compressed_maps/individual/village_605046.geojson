@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65894233419262,15.13387753105872],[76.66757653462336,15.15193275938764],[76.65908973270906,15.16109378782611],[76.6404855396539,15.15719984666686],[76.65894233419262,15.13387753105872]]]},"properties":{"region_id":"village_605046","name":"VADDU (CT)","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

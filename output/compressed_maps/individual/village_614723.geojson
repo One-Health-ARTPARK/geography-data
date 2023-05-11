@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17882767323455,12.45631040708631],[77.18488687813097,12.46796848355132],[77.17105380804138,12.47710659873633],[77.16948450150272,12.46566795949768],[77.17882767323455,12.45631040708631]]]},"properties":{"region_id":"village_614723","name":"BELATHUR","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

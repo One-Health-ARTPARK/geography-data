@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72972468641494,15.91136407503208],[76.73103739677798,15.94922464677255],[76.71943487692802,15.94613980549858],[76.72972468641494,15.91136407503208]]]},"properties":{"region_id":"village_601133","name":"HULLUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

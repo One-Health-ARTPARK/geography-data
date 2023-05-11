@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6374574298417,16.35438714486743],[74.62390137314713,16.35466268646065],[74.62193059660191,16.31147170412068],[74.64420962971285,16.33206073399652],[74.6374574298417,16.35438714486743]]]},"properties":{"region_id":"village_597234","name":"KARAGAON","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

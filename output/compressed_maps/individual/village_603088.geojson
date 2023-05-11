@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02527337531147,14.72574362531721],[75.03749582520166,14.73840932323858],[75.02038197703345,14.74195960533329],[75.02527337531147,14.72574362531721]]]},"properties":{"region_id":"village_603088","name":"HARAGANALLI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

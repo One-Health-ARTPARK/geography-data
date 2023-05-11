@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39972785020659,16.14421065178653],[75.36910959210859,16.16080626680613],[75.37097814937077,16.11423227444111],[75.3868784761807,16.11345526829947],[75.39972785020659,16.14421065178653]]]},"properties":{"region_id":"village_598619","name":"PALKIMANYA","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21233819469644,13.46792752836022],[76.19810686826287,13.46932730537973],[76.20192763139474,13.44617388628498],[76.21283486713013,13.45200732561949],[76.21233819469644,13.46792752836022]]]},"properties":{"region_id":"village_615567","name":"GANJIGERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35828808228966,13.70394417119162],[75.34013864079289,13.70869774271648],[75.33585311514075,13.69700555028126],[75.358991216168,13.68975835749471],[75.35828808228966,13.70394417119162]]]},"properties":{"region_id":"village_608233","name":"HEDDURU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

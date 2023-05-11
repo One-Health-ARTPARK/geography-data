@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50960121050674,16.01929725663169],[75.48348109668859,16.02299165489962],[75.49489915018214,16.00268601998428],[75.50960121050674,16.01929725663169]]]},"properties":{"region_id":"village_598623","name":"HANAMANERI INAM","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

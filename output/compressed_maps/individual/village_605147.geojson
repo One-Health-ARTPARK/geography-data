@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84728404393083,14.89631811921558],[76.83310559595564,14.92556406590559],[76.81682696223272,14.89434828335681],[76.84728404393083,14.89631811921558]]]},"properties":{"region_id":"village_605147","name":"SIREKOLA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

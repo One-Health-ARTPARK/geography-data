@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42066358257384,14.85412924298924],[75.39836982170276,14.85143440421609],[75.40112070184988,14.81912786305619],[75.42513070261809,14.82835539795203],[75.42066358257384,14.85412924298924]]]},"properties":{"region_id":"village_604231","name":"GANAJUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54146002459774,13.62528817898452],[75.53237912422965,13.64224527322793],[75.5239318767514,13.61451259974436],[75.54146002459774,13.62528817898452]]]},"properties":{"region_id":"village_609055","name":"LINGAPURA","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75646779277807,13.17592637057868],[77.74781149623676,13.16637192239832],[77.77548367811808,13.15835944255674],[77.78048057019437,13.16842951762343],[77.75646779277807,13.17592637057868]]]},"properties":{"region_id":"village_625464","name":"SOMATHANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

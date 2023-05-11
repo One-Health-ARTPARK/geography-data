@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23545561018965,12.44186779264822],[76.22106332908162,12.44344999973885],[76.21534499202852,12.42255225806048],[76.23306174636137,12.42217132178249],[76.23545561018965,12.44186779264822]]]},"properties":{"region_id":"village_618200","name":"KELLUR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

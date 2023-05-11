@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12633811447938,13.35371296002888],[76.10525841785515,13.3399372052987],[76.11081713231195,13.31708145590742],[76.12988931456452,13.33762926758278],[76.12633811447938,13.35371296002888]]]},"properties":{"region_id":"village_615488","name":"KOLAGUNDA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

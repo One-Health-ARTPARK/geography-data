@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27275231644904,16.30622153287994],[76.26145663020901,16.29514896056371],[76.27061103253659,16.28318003186619],[76.28408282453688,16.30128039476247],[76.27275231644904,16.30622153287994]]]},"properties":{"region_id":"village_599663","name":"MAVINBHAVI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

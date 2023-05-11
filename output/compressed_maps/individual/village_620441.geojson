@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45290763791505,17.37379396431241],[77.42939524959445,17.36509924434809],[77.43483008936573,17.35598673198603],[77.45115642398554,17.35943286088369],[77.45290763791505,17.37379396431241]]]},"properties":{"region_id":"village_620441","name":"SANGAM[K]","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

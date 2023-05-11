@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26926663251594,14.28478185690241],[75.25208835123676,14.27281869093749],[75.27151269859986,14.27196636991311],[75.26926663251594,14.28478185690241]]]},"properties":{"region_id":"village_607760","name":"HARAGUVALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

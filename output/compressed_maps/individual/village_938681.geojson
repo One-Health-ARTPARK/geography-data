@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01058911841649,15.43168686243983],[74.97765267719487,15.43489364560165],[74.98779622551737,15.41073395109557],[75.01058911841649,15.43168686243983]]]},"properties":{"region_id":"village_938681","name":"ATTIKOLLA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

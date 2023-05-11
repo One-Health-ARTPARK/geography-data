@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52581313428523,13.02834889293083],[76.51687550978754,13.01419989629905],[76.53411212726161,13.01321556385685],[76.52581313428523,13.02834889293083]]]},"properties":{"region_id":"village_617300","name":"SOSALAGERE","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

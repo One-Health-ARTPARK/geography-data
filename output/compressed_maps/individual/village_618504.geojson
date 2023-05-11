@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40895134249864,12.19023972413246],[76.42318042285271,12.19561110780447],[76.42139171527633,12.20487392855771],[76.40704733279638,12.20260023176588],[76.40895134249864,12.19023972413246]]]},"properties":{"region_id":"village_618504","name":"YALACHANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

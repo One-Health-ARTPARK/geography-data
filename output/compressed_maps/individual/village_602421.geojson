@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1736613967223,15.24978828284873],[75.12632604490122,15.25226417778946],[75.12877906983252,15.23363450794582],[75.16312992219608,15.24381645516399],[75.1736613967223,15.24978828284873]]]},"properties":{"region_id":"village_602421","name":"PALE","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

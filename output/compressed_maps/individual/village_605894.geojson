@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18675046971725,13.72564505488461],[76.18417586303569,13.73835833120338],[76.1713181893961,13.7388536463836],[76.17084506051415,13.72485616088995],[76.18675046971725,13.72564505488461]]]},"properties":{"region_id":"village_605894","name":"THIPPAJJANAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

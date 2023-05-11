@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84304996993468,16.29057386985287],[75.8163125304928,16.26931885372445],[75.84071818612593,16.25341969711371],[75.86294820499447,16.28280580719996],[75.84304996993468,16.29057386985287]]]},"properties":{"region_id":"village_598821","name":"JADRAMAKUNTI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

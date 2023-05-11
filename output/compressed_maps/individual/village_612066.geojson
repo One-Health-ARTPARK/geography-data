@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3847366788113,13.30223038375401],[76.38586139654235,13.31306167797922],[76.36293326245041,13.30627864576936],[76.38286101376008,13.28875295883246],[76.3847366788113,13.30223038375401]]]},"properties":{"region_id":"village_612066","name":"K.LAKKIHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

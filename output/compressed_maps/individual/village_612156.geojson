@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51925091709195,13.19666690134168],[76.49452128678043,13.16698025746715],[76.51945624825392,13.16501570640185],[76.51925091709195,13.19666690134168]]]},"properties":{"region_id":"village_612156","name":"SUGUR","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

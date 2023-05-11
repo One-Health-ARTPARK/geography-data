@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01507100724189,12.74444825021147],[76.00168711959154,12.7503359535602],[75.99196108698895,12.73056069988858],[76.01259219110325,12.73249855923288],[76.01507100724189,12.74444825021147]]]},"properties":{"region_id":"village_616540","name":"KOLLANGI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25263527256972,13.90408589562049],[75.2544427513143,13.89061075640989],[75.26405677950994,13.89378109450645],[75.26491938882334,13.90581817152523],[75.25263527256972,13.90408589562049]]]},"properties":{"region_id":"village_608005","name":"KAMMACHI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

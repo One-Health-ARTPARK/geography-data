@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30225387538346,18.19643336726175],[77.27700008916482,18.17780261132708],[77.29169643305345,18.16748655170723],[77.30225387538346,18.19643336726175]]]},"properties":{"region_id":"village_600024","name":"CHANDOORI","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

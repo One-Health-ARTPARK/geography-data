@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88512425632281,15.73002127880632],[76.85841532304033,15.70690685039889],[76.89527070398056,15.68811610889492],[76.9160518970964,15.70443478768826],[76.88512425632281,15.73002127880632]]]},"properties":{"region_id":"village_601210","name":"DHADESUGUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94865009952274,12.63407415335553],[76.94895185515632,12.62165321632674],[76.97020641956465,12.62663578358644],[76.96847604747158,12.63407796601769],[76.94865009952274,12.63407415335553]]]},"properties":{"region_id":"village_614358","name":"HODAGATTA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

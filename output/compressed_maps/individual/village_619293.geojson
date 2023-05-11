@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72625087761357,12.00510240054872],[76.71262259832196,11.99160564794288],[76.71601779231518,11.98401874807205],[76.73202016972249,11.99457795705493],[76.72625087761357,12.00510240054872]]]},"properties":{"region_id":"village_619293","name":"THARADALE","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

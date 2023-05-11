@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.618038921184,12.81093321179156],[77.61006781564328,12.8091683822047],[77.6105177252404,12.80273172734376],[77.61947699960794,12.80467038356114],[77.618038921184,12.81093321179156]]]},"properties":{"region_id":"village_613146","name":"RAMASANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

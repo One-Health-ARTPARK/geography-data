@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68790895248206,13.89363063611914],[75.67085823769442,13.89650366615182],[75.674454730552,13.87817095901916],[75.68716828019022,13.87776148621119],[75.68790895248206,13.89363063611914]]]},"properties":{"region_id":"village_608621","name":"BILAKI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

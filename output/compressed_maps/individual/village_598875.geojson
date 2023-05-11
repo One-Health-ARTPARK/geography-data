@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90229040621388,16.1254918751203],[75.90995118866894,16.11640890057781],[75.91350575029306,16.09526481896373],[75.92633778759978,16.12433548359538],[75.90229040621388,16.1254918751203]]]},"properties":{"region_id":"village_598875","name":"BUDIHAL (INAM)","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

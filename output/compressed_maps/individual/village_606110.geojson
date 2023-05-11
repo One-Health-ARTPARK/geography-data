@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8292237213247,14.07189205485876],[76.79920575835384,14.06660792119504],[76.8127901672758,14.03907860568652],[76.8304519254444,14.04252924197091],[76.8292237213247,14.07189205485876]]]},"properties":{"region_id":"village_606110","name":"HARIYABBE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

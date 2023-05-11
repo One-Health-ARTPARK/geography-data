@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10960258747222,14.08591866751772],[77.0680183229336,14.08609126301401],[77.08100430529797,14.06041372127684],[77.11154092757056,14.07542891093133],[77.10960258747222,14.08591866751772]]]},"properties":{"region_id":"village_610627","name":"MANGALAVADA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59025659908357,12.86729198984637],[76.5747072836149,12.86698763983555],[76.57686119065161,12.8569444948938],[76.58902759447184,12.85742947770105],[76.59025659908357,12.86729198984637]]]},"properties":{"region_id":"village_613810","name":"H.KYATANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05797792704786,14.48905936855886],[76.052728815183,14.50546885742207],[76.0384013812861,14.48969828334627],[76.05797792704786,14.48905936855886]]]},"properties":{"region_id":"village_606596","name":"MALLEKATTE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

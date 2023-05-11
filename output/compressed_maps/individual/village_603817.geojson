@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71755436907868,14.21318956475328],[74.69040517878965,14.22699277566686],[74.66476914702976,14.18300526178376],[74.70904355482273,14.16728373319263],[74.71755436907868,14.21318956475328]]]},"properties":{"region_id":"village_603817","name":"HADGERI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

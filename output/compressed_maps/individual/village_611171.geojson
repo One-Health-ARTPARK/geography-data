@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28679663433888,13.44501269462622],[77.28022614565664,13.44312743750572],[77.27941817364824,13.43714967175075],[77.28524565118471,13.43137825614472],[77.28815260104672,13.43839550314966],[77.28679663433888,13.44501269462622]]]},"properties":{"region_id":"village_611171","name":"DUDDANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

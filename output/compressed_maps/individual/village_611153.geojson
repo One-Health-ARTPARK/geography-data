@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34243137331035,13.4584457893759],[77.32592743913114,13.45256474409306],[77.33678885896387,13.4441089809352],[77.34243137331035,13.4584457893759]]]},"properties":{"region_id":"village_611153","name":"MAVATTUR","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

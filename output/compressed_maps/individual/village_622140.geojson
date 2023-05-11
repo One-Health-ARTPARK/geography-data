@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9243509110331,13.04032201648799],[77.90878034765343,13.02799773478323],[77.92212582347646,13.02539996925869],[77.9243509110331,13.04032201648799]]]},"properties":{"region_id":"village_622140","name":"IRABANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

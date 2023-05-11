@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43523338550033,12.11843108193454],[76.42659726062368,12.13535709336344],[76.41767601526311,12.12016309594359],[76.43523338550033,12.11843108193454]]]},"properties":{"region_id":"village_618953","name":"HOLEHUNDI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

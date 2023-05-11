@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95928985423383,14.47407883676442],[75.94160463008524,14.47557701868156],[75.93987828107161,14.46201292107178],[75.95923795150307,14.45894671940244],[75.95928985423383,14.47407883676442]]]},"properties":{"region_id":"village_938390","name":"BASAPURA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

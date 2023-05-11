@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05423319772729,14.46234989846141],[75.04113588522975,14.43309053477162],[75.06483230153042,14.43361214292577],[75.05423319772729,14.46234989846141]]]},"properties":{"region_id":"village_607473","name":"SAREKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

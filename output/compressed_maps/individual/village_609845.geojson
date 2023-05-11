@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71267697963718,13.2225046541487],[75.70516642961304,13.22237955444285],[75.70728132652742,13.21581951962117],[75.71267697963718,13.2225046541487]]]},"properties":{"region_id":"village_609845","name":"VAJUVALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

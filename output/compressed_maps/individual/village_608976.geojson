@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22711646972779,13.52229078760004],[75.20558378249413,13.51520576398759],[75.21425240438697,13.49809226851676],[75.231067224472,13.49829745686515],[75.22711646972779,13.52229078760004]]]},"properties":{"region_id":"village_608976","name":"KODUR","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

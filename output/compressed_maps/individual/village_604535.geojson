@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59501733135245,14.54410179838211],[75.60551675991314,14.58968069824901],[75.576326711949,14.58896486622167],[75.55836848563801,14.56055604703268],[75.59501733135245,14.54410179838211]]]},"properties":{"region_id":"village_604535","name":"BENAKANAKOND","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

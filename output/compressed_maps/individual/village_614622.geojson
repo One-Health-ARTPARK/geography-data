@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04969458751036,12.53388756584903],[77.03043525152465,12.53558898556401],[77.03156341627574,12.52112131938815],[77.04518096766432,12.5227654346174],[77.04969458751036,12.53388756584903]]]},"properties":{"region_id":"village_614622","name":"CHATRADAHOSAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

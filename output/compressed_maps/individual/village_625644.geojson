@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87871292643916,13.05410566970406],[77.86608283125148,13.05598053280506],[77.86542687724334,13.04692198624618],[77.87510460374561,13.04375778582837],[77.87871292643916,13.05410566970406]]]},"properties":{"region_id":"village_625644","name":"GONAKANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

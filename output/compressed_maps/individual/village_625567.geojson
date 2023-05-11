@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94287260217344,13.18095719889241],[77.93522592348697,13.18151975896781],[77.92650040710461,13.17155487480712],[77.9385900153915,13.17182213356465],[77.94287260217344,13.18095719889241]]]},"properties":{"region_id":"village_625567","name":"BYLANARASAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

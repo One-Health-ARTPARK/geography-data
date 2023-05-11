@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11812249356159,12.33924134961461],[77.10771275827625,12.33886445306916],[77.1053638192629,12.32896689138047],[77.11770015846929,12.32991300618291],[77.11812249356159,12.33924134961461]]]},"properties":{"region_id":"village_614801","name":"MANCHANAPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

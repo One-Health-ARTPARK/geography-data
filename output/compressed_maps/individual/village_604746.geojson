@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60486891292948,15.19894567288616],[76.6148058481018,15.21894404653851],[76.60309332070844,15.21938850709448],[76.60486891292948,15.19894567288616]]]},"properties":{"region_id":"village_604746","name":"BUVVANAHALLI","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

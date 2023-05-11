@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36704143801644,12.76735326724405],[76.35495677095729,12.76674788752704],[76.35113909996632,12.75270916215985],[76.37095601919295,12.74974263678421],[76.36704143801644,12.76735326724405]]]},"properties":{"region_id":"village_613379","name":"GOLLARAKOPPALU","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

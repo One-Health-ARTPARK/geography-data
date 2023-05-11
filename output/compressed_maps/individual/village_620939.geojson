@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56059611184885,16.50382902550611],[76.55339844013452,16.50330060484495],[76.55773525628962,16.45276122365718],[76.56548530636499,16.45337560318395],[76.56723100929761,16.48523609029102],[76.56059611184885,16.50382902550611]]]},"properties":{"region_id":"village_620939","name":"CHANNUR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

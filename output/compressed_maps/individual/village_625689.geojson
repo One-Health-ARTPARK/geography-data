@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80843411595757,13.11302055254185],[77.79848883636014,13.11433851151735],[77.79403824387893,13.10510207788878],[77.80272863340839,13.10240365179205],[77.80843411595757,13.11302055254185]]]},"properties":{"region_id":"village_625689","name":"KURUBARAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

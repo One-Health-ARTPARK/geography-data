@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68643870416855,14.31005562869603],[75.63457707333346,14.29217433686454],[75.67646975712162,14.27774266063096],[75.68643870416855,14.31005562869603]]]},"properties":{"region_id":"village_606780","name":"KOTEMALLUR","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

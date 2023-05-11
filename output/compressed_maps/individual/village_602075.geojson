@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60500526839476,15.10044639915649],[75.60349392507581,15.12733015028553],[75.56836024507756,15.11348900186609],[75.58535291972387,15.09064426290437],[75.60500526839476,15.10044639915649]]]},"properties":{"region_id":"village_602075","name":"SOGIWAL","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

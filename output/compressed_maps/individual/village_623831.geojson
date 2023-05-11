@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74517451908419,13.80068502250808],[77.73005757763937,13.80344586710311],[77.72194649086344,13.79094523603629],[77.75469117911099,13.7778728984412],[77.74517451908419,13.80068502250808]]]},"properties":{"region_id":"village_623831","name":"PUTTAPARTHI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

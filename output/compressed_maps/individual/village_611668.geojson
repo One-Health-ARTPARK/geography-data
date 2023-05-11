@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84345340357547,13.50749137004147],[76.81581261792623,13.50642533653655],[76.80962624778958,13.48235203685004],[76.86037231522985,13.4832248788196],[76.84345340357547,13.50749137004147]]]},"properties":{"region_id":"village_611668","name":"HUVINAKATTE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

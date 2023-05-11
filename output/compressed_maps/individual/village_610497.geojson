@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98816324528407,13.5967913924773],[76.97539280731004,13.60873227920073],[76.97042499438552,13.59896793907923],[76.98816324528407,13.5967913924773]]]},"properties":{"region_id":"village_610497","name":"BALABASAVANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

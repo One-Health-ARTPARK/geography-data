@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07875589702361,13.56825878729732],[76.07160862886847,13.56964916754151],[76.06090096545427,13.56787559167703],[76.07271988576562,13.56086361250125],[76.07875589702361,13.56825878729732]]]},"properties":{"region_id":"village_609518","name":"CHANDRAPURA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

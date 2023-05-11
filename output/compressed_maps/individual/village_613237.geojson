@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78548210211031,12.91673972627602],[77.77350827689028,12.92118135164461],[77.76674590137587,12.90007487961857],[77.78161747557888,12.8960655324277],[77.78548210211031,12.91673972627602]]]},"properties":{"region_id":"village_613237","name":"NERIGA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

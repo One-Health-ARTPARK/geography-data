@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6429220791078,13.8957192544955],[76.61140595626307,13.88137876844528],[76.61256909130543,13.86557135427832],[76.64937172155011,13.87575288490919],[76.6429220791078,13.8957192544955]]]},"properties":{"region_id":"village_606178","name":"GANJALAGUNTE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

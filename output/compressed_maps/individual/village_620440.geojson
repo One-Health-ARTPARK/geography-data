@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44384215094011,17.38403953772633],[77.42095458669209,17.37903344611395],[77.43300453881196,17.37000847223583],[77.44384215094011,17.38403953772633]]]},"properties":{"region_id":"village_620440","name":"BHAKTAMPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

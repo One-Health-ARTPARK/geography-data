@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86275916352074,14.31874203636364],[74.85552740603488,14.31070729132336],[74.8648323895801,14.30479696400641],[74.86275916352074,14.31874203636364]]]},"properties":{"region_id":"village_603666","name":"NAGARBHAVI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

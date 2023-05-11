@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70175419889257,12.58265441182537],[76.68613987113184,12.57346356460256],[76.69911929901488,12.56021840938591],[76.70175419889257,12.58265441182537]]]},"properties":{"region_id":"village_614086","name":"ATHIGANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

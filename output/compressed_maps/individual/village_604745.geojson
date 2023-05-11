@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60331134713549,15.21963543828092],[76.58665935611981,15.22669910367122],[76.57346292440074,15.19286660293967],[76.5964608829491,15.19445843856519],[76.60331134713549,15.21963543828092]]]},"properties":{"region_id":"village_604745","name":"GADIGANUR","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

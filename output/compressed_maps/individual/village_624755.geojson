@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24792077008668,13.215357223267],[77.23629034547133,13.21645033237991],[77.23262970415361,13.20186802339279],[77.2459588081571,13.19897808058814],[77.24792077008668,13.215357223267]]]},"properties":{"region_id":"village_624755","name":"HONNENAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

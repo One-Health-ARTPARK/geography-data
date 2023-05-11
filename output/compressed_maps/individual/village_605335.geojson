@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75604250436247,14.28276380296412],[76.74301643699582,14.32620532327184],[76.72720445484723,14.32086495338197],[76.72686809573534,14.28873782583874],[76.75604250436247,14.28276380296412]]]},"properties":{"region_id":"village_605335","name":"MEERASABIHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

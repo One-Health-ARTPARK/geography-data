@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.62296927975575,15.89708564233971],[74.61248407461656,15.92479483811893],[74.60437849369215,15.9232812317844],[74.60586937327926,15.91174709048745],[74.61383832869707,15.89159794298561],[74.62296927975575,15.89708564233971]]]},"properties":{"region_id":"village_597709","name":"CHANDGAD","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03046554808259,15.94853155228441],[74.99796251281235,15.95220677533127],[74.99908082507503,15.93684809048607],[75.01985573588362,15.92972169513422],[75.03046554808259,15.94853155228441]]]},"properties":{"region_id":"village_598179","name":"ALADAKATTI K.M","parent":"subdistrict_7195","parent_name":"YARAGATTI"}}
+]}

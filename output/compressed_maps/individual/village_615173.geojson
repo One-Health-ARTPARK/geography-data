@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78901490660249,13.20222395145113],[75.78667241867358,13.21229690196155],[75.77764866769084,13.20424034037693],[75.78901490660249,13.20222395145113]]]},"properties":{"region_id":"village_615173","name":"KALLAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

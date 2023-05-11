@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97090660257861,13.07592848561609],[76.94979175599968,13.07905249140171],[76.93951622820417,13.06148464229285],[76.9655150348686,13.05277276211614],[76.97090660257861,13.07592848561609]]]},"properties":{"region_id":"village_612517","name":"GUNNAGARE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

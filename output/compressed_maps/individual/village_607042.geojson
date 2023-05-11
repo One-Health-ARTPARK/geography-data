@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86470715408895,14.03730794924836],[75.83578418016658,14.03454733972344],[75.83719274902933,14.01682386898296],[75.86290127092242,14.02454985061216],[75.86470715408895,14.03730794924836]]]},"properties":{"region_id":"village_607042","name":"CHANNESHAPURA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

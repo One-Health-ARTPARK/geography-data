@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07448618337067,13.48853072291332],[76.06244242321155,13.48239764060968],[76.06312477888176,13.47396739260649],[76.07409558358592,13.47853679536147],[76.07448618337067,13.48853072291332]]]},"properties":{"region_id":"village_609539","name":"CHEELANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

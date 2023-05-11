@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80267602761202,12.64207899264607],[76.77730532794742,12.65882383384296],[76.77766410232711,12.63374115122086],[76.80267602761202,12.64207899264607]]]},"properties":{"region_id":"village_614402","name":"BETTAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

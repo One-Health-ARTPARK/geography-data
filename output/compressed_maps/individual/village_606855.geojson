@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73427391712367,14.19283952301542],[75.69659080294926,14.19273528034255],[75.69307713671388,14.18293453870945],[75.73427391712367,14.19283952301542]]]},"properties":{"region_id":"village_606855","name":"UJJANIPURA","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

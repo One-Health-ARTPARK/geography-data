@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.13735923541138,13.26257744353139],[78.12800490788935,13.26328847520823],[78.12987715213232,13.25435630124593],[78.13735923541138,13.26257744353139]]]},"properties":{"region_id":"village_621678","name":"KURUBARAHALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

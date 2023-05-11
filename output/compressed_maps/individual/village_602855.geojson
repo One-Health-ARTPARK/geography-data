@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79595524514394,15.30304949125165],[74.78999474572169,15.3177430408951],[74.77792154461268,15.31678201523266],[74.77829698222624,15.29548829530365],[74.79595524514394,15.30304949125165]]]},"properties":{"region_id":"village_602855","name":"TEGNALLI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

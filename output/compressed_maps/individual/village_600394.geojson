@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32943009613248,16.14739614560592],[76.29841404179149,16.16981148949344],[76.29365984594335,16.14320946133492],[76.32943009613248,16.14739614560592]]]},"properties":{"region_id":"village_600394","name":"NOWLI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

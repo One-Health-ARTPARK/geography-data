@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60626463955923,13.26209863396282],[77.58992588242307,13.2673306169036],[77.57858436666375,13.26257248954138],[77.60401020036149,13.25705505966378],[77.60626463955923,13.26209863396282]]]},"properties":{"region_id":"village_625279","name":"BANNIMANGALA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

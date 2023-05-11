@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.260107171336,13.21198903690336],[77.26319754841208,13.22553979042969],[77.24880332531555,13.22413620968428],[77.248185056642,13.21075428877788],[77.260107171336,13.21198903690336]]]},"properties":{"region_id":"village_624748","name":"YEDEHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

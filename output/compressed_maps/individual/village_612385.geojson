@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76506186852643,13.1004757276664],[76.75669077679832,13.10346265533001],[76.75611208191475,13.09361172159517],[76.7669345573284,13.09352443158257],[76.76506186852643,13.1004757276664]]]},"properties":{"region_id":"village_612385","name":"KODINAGASANDRA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

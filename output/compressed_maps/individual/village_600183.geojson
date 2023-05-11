@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52909120001296,17.83974357579223],[77.55345973639456,17.82015967496061],[77.56729066548318,17.84522847240693],[77.53086057365668,17.85717316628106],[77.52909120001296,17.83974357579223]]]},"properties":{"region_id":"village_600183","name":"GOONALLI","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

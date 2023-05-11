@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93671435143277,13.08557071209393],[77.92699960081275,13.08608082341877],[77.92621820205898,13.07501837559413],[77.93903145476565,13.07929867296923],[77.93671435143277,13.08557071209393]]]},"properties":{"region_id":"village_622103","name":"GERUPURA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

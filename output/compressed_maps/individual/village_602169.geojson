@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80051181247464,15.15091705522813],[75.82404392931568,15.15373539739256],[75.8173151689827,15.17648627946647],[75.79718521666643,15.17082143230557],[75.80051181247464,15.15091705522813]]]},"properties":{"region_id":"village_602169","name":"MUSTIK0PPA","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

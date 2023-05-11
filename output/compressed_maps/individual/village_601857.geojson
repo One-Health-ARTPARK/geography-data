@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34061421931591,15.29495873036808],[76.33781882629532,15.30550956171602],[76.3219121556661,15.29192162558028],[76.33101278315621,15.28827670325333],[76.34061421931591,15.29495873036808]]]},"properties":{"region_id":"village_601857","name":"MUNIRABAD (RURAL)","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17221577203206,13.75250607906636],[77.15995329897682,13.75630198957107],[77.15710863742409,13.74676456799382],[77.17564064614503,13.7437921513559],[77.17221577203206,13.75250607906636]]]},"properties":{"region_id":"village_610714","name":"KATAGONDANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

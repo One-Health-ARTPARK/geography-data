@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00187240459921,16.65244225559469],[76.98563429026335,16.64443349218536],[76.98819639980069,16.62660630966928],[76.999989279745,16.62375980756892],[77.00187240459921,16.65244225559469]]]},"properties":{"region_id":"village_621166","name":"SHANKER BANDA","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

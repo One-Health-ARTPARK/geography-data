@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70103835713122,16.06055376224872],[74.6990057236288,16.07563756511594],[74.68224745937529,16.07012743598148],[74.68949324492915,16.0600441741015],[74.70103835713122,16.06055376224872]]]},"properties":{"region_id":"village_597472","name":"DHASANATTI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

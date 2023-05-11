@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9025366817058,13.99418774278795],[75.896698925883,14.0109633314573],[75.8826710027793,14.00493207528311],[75.88968063616711,13.98447695776412],[75.9025366817058,13.99418774278795]]]},"properties":{"region_id":"village_607057","name":"HARONAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

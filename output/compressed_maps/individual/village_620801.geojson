@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42958094516916,16.83714884026697],[76.39564589542887,16.85832521829201],[76.39285844444449,16.81619134263982],[76.42958094516916,16.83714884026697]]]},"properties":{"region_id":"village_620801","name":"KANMESHWAR","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

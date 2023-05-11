@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69560080490324,13.24341548098858],[76.68798773831595,13.24249994067613],[76.68780566437364,13.23816743951553],[76.69913425344019,13.23646730741905],[76.69560080490324,13.24341548098858]]]},"properties":{"region_id":"village_612202","name":"BUGUDANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

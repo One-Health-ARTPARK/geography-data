@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79105476967138,16.48107488893032],[75.77235618226351,16.48602050587111],[75.7780162536811,16.47060980377615],[75.79105476967138,16.48107488893032]]]},"properties":{"region_id":"village_599459","name":"KURUBARADINNI","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

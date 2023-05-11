@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60265133875357,14.32958390298711],[76.59193627938578,14.36663860407043],[76.53442648004048,14.34951812516555],[76.58316719820664,14.29637072359233],[76.60265133875357,14.32958390298711]]]},"properties":{"region_id":"village_605324","name":"NANNIVALA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

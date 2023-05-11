@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54401580163508,13.51121667809475],[77.52425810984586,13.5151228463021],[77.53218405774315,13.49942668384593],[77.54401580163508,13.51121667809475]]]},"properties":{"region_id":"village_623378","name":"BHUMENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

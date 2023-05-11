@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6166048222628,15.28866429239192],[76.61436138938693,15.29829637022511],[76.58728244369604,15.29823039049394],[76.60067453464691,15.28452189357014],[76.6166048222628,15.28866429239192]]]},"properties":{"region_id":"village_604762","name":"UPPARAHALLI","parent":"subdistrict_7107","parent_name":"KAMPLI"}}
+]}

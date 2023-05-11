@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50896297294265,12.97043988076257],[77.48636147904594,12.96193984764911],[77.50288385685792,12.94904426237224],[77.50896297294265,12.97043988076257]]]},"properties":{"region_id":"village_938510","name":"MALLATTAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

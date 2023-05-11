@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4798656479563,16.05697788640765],[77.4698648246035,16.0638460713419],[77.46815157930143,16.0463058569139],[77.47817770648295,16.04427724568093],[77.4798656479563,16.05697788640765]]]},"properties":{"region_id":"village_600854","name":"KANNEDODDI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

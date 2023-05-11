@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84593265920499,13.15819684946398],[77.83508819452231,13.16289027853324],[77.83533104410087,13.15308872388139],[77.84593265920499,13.15819684946398]]]},"properties":{"region_id":"village_625527","name":"DODDAKOLIGA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

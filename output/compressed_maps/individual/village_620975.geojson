@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50384478025451,16.36184322284567],[76.48764081358009,16.36497050683407],[76.49168286809525,16.34966713753387],[76.50268292081424,16.3426987480983],[76.51078737488399,16.3498544067524],[76.50384478025451,16.36184322284567]]]},"properties":{"region_id":"village_620975","name":"BAILKUNTI","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

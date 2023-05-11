@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00548228862831,12.63032682563483],[75.99339806165847,12.63320449011524],[75.97391944888535,12.6251883194302],[75.97577678832457,12.61848038773066],[75.99929017987466,12.62413730057269],[76.00548228862831,12.63032682563483]]]},"properties":{"region_id":"village_616693","name":"CHIKKABOMMENAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

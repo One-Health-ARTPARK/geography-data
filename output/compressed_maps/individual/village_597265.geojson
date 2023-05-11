@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04698508906667,16.8447940640406],[75.02216172485777,16.84191703556836],[75.02060432691559,16.81023458118484],[75.04966154166762,16.80797329358042],[75.04698508906667,16.8447940640406]]]},"properties":{"region_id":"village_597265","name":"SHIVANOOR","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

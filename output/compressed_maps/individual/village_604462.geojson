@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52140645139801,14.37851515896097],[75.49773635483203,14.38125093366092],[75.4678121377731,14.34709814347462],[75.51222846079271,14.34592550153735],[75.52140645139801,14.37851515896097]]]},"properties":{"region_id":"village_604462","name":"MEDUR","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06581869818834,13.681760226666],[76.05505296719893,13.67565856457048],[76.04685914665792,13.64598151938987],[76.07199582285399,13.66770390840703],[76.06581869818834,13.681760226666]]]},"properties":{"region_id":"village_609403","name":"KEDIGERE","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

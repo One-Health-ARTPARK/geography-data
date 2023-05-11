@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0768887182715,13.70010337300536],[76.07077737634067,13.71548854920906],[76.03780640622395,13.71190153725932],[76.06746405646203,13.68240388142444],[76.0768887182715,13.70010337300536]]]},"properties":{"region_id":"village_609391","name":"CHIKKANALLURU","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

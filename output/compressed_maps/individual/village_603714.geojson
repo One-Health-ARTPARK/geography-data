@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93072322203953,14.35485504369864],[74.91933417167172,14.36102268844926],[74.92091491723505,14.33203705299594],[74.93072322203953,14.35485504369864]]]},"properties":{"region_id":"village_603714","name":"KOLGI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

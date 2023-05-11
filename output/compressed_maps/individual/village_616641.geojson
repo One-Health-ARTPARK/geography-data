@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11126078860764,12.75949196721054],[76.09764910695141,12.76030991788345],[76.10023208378104,12.7423040159589],[76.11065776859839,12.74092817336827],[76.11126078860764,12.75949196721054]]]},"properties":{"region_id":"village_616641","name":"SHANAVINAKUPPE","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

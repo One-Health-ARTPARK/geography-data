@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71626054540944,14.50633063478468],[74.69789863020901,14.48835306430855],[74.71459102822455,14.48287345325136],[74.71626054540944,14.50633063478468]]]},"properties":{"region_id":"village_603530","name":"KANCHIKAI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44300700418714,13.01217764552028],[77.4357386759575,13.01223698994729],[77.44116657749176,12.99987012013421],[77.44806404622155,12.99870006758147],[77.44300700418714,13.01217764552028]]]},"properties":{"region_id":"village_612814","name":"BYANDAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

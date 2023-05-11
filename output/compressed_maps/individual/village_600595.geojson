@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00712102212638,16.53293287644884],[76.98791135011572,16.53824062495633],[76.98251852858589,16.52077438780576],[77.00369870380939,16.51353524647882],[77.00712102212638,16.53293287644884]]]},"properties":{"region_id":"village_600595","name":"KARKIHALLI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75799195782562,13.49320718547785],[74.75840983764822,13.51106170817321],[74.73474452100697,13.50239611830302],[74.74456790004886,13.48651714035615],[74.75799195782562,13.49320718547785]]]},"properties":{"region_id":"village_608770","name":"KAVADI","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

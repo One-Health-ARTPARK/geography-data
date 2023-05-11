@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50841425801585,12.889886629731],[77.51454094789291,12.89547032310862],[77.50795196709208,12.90499076242942],[77.5045304464859,12.89900652597624],[77.50841425801585,12.889886629731]]]},"properties":{"region_id":"village_939481","name":"GANAKALLU K.G","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

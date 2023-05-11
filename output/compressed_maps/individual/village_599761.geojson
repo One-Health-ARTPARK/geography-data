@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06939851188874,17.87504253962457],[77.02396632248914,17.85339949889622],[77.03055614522592,17.83415683491125],[77.06664064956227,17.82239550533424],[77.06939851188874,17.87504253962457]]]},"properties":{"region_id":"village_599761","name":"RAJOLA","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

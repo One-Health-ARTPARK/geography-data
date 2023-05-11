@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68395872137896,12.22888438116544],[76.70350677966158,12.25166791405014],[76.67951614921806,12.24895199091872],[76.67315225748993,12.23817033343934],[76.68395872137896,12.22888438116544]]]},"properties":{"region_id":"village_618809","name":"HADAJANA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

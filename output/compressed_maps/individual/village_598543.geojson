@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71076024480556,16.24127152089046],[75.67271865769801,16.25591266138475],[75.65375639955016,16.24356078446554],[75.69837128017089,16.22346641083645],[75.71076024480556,16.24127152089046]]]},"properties":{"region_id":"village_598543","name":"YELLIGUTTI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

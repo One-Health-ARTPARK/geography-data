@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82485528524278,17.78538292028365],[76.79416536063658,17.76764439232294],[76.84744247980142,17.74573150062097],[76.8457678565162,17.77730685736969],[76.82485528524278,17.78538292028365]]]},"properties":{"region_id":"village_599792","name":"ALGOOD","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

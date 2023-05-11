@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86308985352002,14.48883426553313],[76.8314522302856,14.49134156827172],[76.83156424235858,14.45998656061503],[76.85571709468972,14.46119858778069],[76.86308985352002,14.48883426553313]]]},"properties":{"region_id":"village_605295","name":"RENUKAPURA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

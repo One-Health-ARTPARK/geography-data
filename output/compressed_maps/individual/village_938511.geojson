@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52765342817976,12.97029555373943],[77.51028967364347,12.9718854372448],[77.50288385685792,12.94904426237224],[77.5200682416356,12.94996725477229],[77.52765342817976,12.97029555373943]]]},"properties":{"region_id":"village_938511","name":"NAGARABAVI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

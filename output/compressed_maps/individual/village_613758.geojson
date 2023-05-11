@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88384321064515,12.9206742374359],[76.88075517288084,12.93357086868011],[76.86595709250588,12.92927439597515],[76.86791052180646,12.91857829066731],[76.88384321064515,12.9206742374359]]]},"properties":{"region_id":"village_613758","name":"BITAGONAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

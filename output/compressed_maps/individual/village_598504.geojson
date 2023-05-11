@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71747930672777,16.39101130809022],[75.69869851074489,16.40806817118794],[75.66774602289817,16.37532693312788],[75.71291969925372,16.36294665654667],[75.71747930672777,16.39101130809022]]]},"properties":{"region_id":"village_598504","name":"ROLLI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

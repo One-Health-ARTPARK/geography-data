@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9534805820528,13.05581336261337],[77.9500254600024,13.066500658954],[77.94048381293568,13.06833099389253],[77.93959704102481,13.0587683841948],[77.9534805820528,13.05581336261337]]]},"properties":{"region_id":"village_622116","name":"THAMBIHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

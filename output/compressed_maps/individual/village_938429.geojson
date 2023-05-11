@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63886594364646,12.88570180584715],[77.61941253601698,12.88883350345874],[77.61918420438055,12.85795642794873],[77.64058874384192,12.86500286056875],[77.63886594364646,12.88570180584715]]]},"properties":{"region_id":"village_938429","name":"BEGURU","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

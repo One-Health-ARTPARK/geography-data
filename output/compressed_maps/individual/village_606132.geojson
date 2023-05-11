@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5142440795812,13.95084036737166],[76.54873210143664,13.9170218469637],[76.57388938660903,13.93338716963996],[76.57536267712555,13.94683317259128],[76.55285409011636,13.95244870290534],[76.5142440795812,13.95084036737166]]]},"properties":{"region_id":"village_606132","name":"KUNIKERE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

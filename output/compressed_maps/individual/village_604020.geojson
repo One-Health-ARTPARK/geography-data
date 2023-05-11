@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47284657413279,14.96333160830135],[75.45192995173765,14.95676562106153],[75.47037782644898,14.94093334205188],[75.47284657413279,14.96333160830135]]]},"properties":{"region_id":"village_604020","name":"KRISHNAPUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

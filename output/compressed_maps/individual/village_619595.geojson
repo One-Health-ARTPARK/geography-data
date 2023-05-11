@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69113689192568,11.63416679113281],[76.6817774803796,11.65096414750092],[76.6709039657544,11.64233570109496],[76.68176904000731,11.62620636562974],[76.69113689192568,11.63416679113281]]]},"properties":{"region_id":"village_619595","name":"JAKKAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

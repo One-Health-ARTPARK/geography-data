@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22669408305552,12.55603253270027],[76.21234145660907,12.55731873535763],[76.21127429643553,12.54911022757468],[76.2220990088458,12.54927515286117],[76.22669408305552,12.55603253270027]]]},"properties":{"region_id":"village_618523","name":"GUMMANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

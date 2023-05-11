@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84084335738517,13.21066950692314],[77.84736907924899,13.21538973815836],[77.83975371914997,13.21689306238948],[77.84084335738517,13.21066950692314]]]},"properties":{"region_id":"village_625468","name":"IMANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

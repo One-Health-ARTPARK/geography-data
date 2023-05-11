@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02494558346481,12.37039435120743],[76.02269287181093,12.37931341299659],[76.01301667206175,12.37686793831351],[76.01018478729553,12.37431047709172],[76.00871633245958,12.36706408979953],[76.02494558346481,12.37039435120743]]]},"properties":{"region_id":"village_618244","name":"BOOTHANAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

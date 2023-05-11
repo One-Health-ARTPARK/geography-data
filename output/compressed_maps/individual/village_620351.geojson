@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3930792401271,17.53138295061274],[77.37241274844335,17.52982454737378],[77.37352666158363,17.5043326086435],[77.38827622782892,17.50467607302169],[77.3930792401271,17.53138295061274]]]},"properties":{"region_id":"village_620351","name":"YEMPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

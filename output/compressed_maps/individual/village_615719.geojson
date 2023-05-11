@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39760800793101,13.50541797472692],[76.41969343148135,13.5199607433453],[76.3933060429384,13.53078628263479],[76.39760800793101,13.50541797472692]]]},"properties":{"region_id":"village_615719","name":"SHANKARANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

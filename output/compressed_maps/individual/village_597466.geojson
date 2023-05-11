@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81187960337299,16.06706347714811],[74.78912588882172,16.10517963177544],[74.74742607406702,16.09181511395028],[74.75522533751055,16.06658295008592],[74.81187960337299,16.06706347714811]]]},"properties":{"region_id":"village_597466","name":"TAVAG","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

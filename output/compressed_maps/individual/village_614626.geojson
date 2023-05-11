@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10189167421187,12.50411260331246],[77.08512272063727,12.50197253575055],[77.09178367491188,12.4875203209737],[77.10189167421187,12.50411260331246]]]},"properties":{"region_id":"village_614626","name":"BANNAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

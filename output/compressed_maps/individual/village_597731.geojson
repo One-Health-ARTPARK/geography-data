@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.3814443012132,15.83760788200876],[74.36855327312712,15.82787040996699],[74.38625394751831,15.82025565611166],[74.3814443012132,15.83760788200876]]]},"properties":{"region_id":"village_597731","name":"YALEBAIL","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71476355004629,14.47292304403628],[75.69322479439953,14.4809162887314],[75.69249186714532,14.45862476665266],[75.72221910579475,14.45625962696336],[75.71476355004629,14.47292304403628]]]},"properties":{"region_id":"village_606206","name":"DHULEHOLE","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

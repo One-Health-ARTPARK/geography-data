@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92949675022648,13.23893795323048],[77.91500884174273,13.23975313342992],[77.91907308493761,13.2315455056928],[77.92949675022648,13.23893795323048]]]},"properties":{"region_id":"village_625539","name":"THARABAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66941080210684,14.14465754522118],[76.65369370112258,14.12016650794497],[76.67141286680389,14.09574049676873],[76.68754181194134,14.11798743467852],[76.66941080210684,14.14465754522118]]]},"properties":{"region_id":"village_606056","name":"KHANDIKERE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

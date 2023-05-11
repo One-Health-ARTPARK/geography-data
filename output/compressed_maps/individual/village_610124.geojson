@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72677834242543,13.46057732387647],[76.71883247417124,13.46581528652997],[76.7184900626526,13.45362509445448],[76.72566722593442,13.44758152193539],[76.72677834242543,13.46057732387647]]]},"properties":{"region_id":"village_610124","name":"THIMMALAPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

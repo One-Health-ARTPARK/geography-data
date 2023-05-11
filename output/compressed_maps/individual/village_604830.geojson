@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09413159474151,15.68897519648085],[77.08180445178297,15.67816264039587],[77.07767920724505,15.66604826673553],[77.08769561771855,15.66133921851264],[77.09413159474151,15.68897519648085]]]},"properties":{"region_id":"village_604830","name":"NAGARAHAL","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8867688346995,13.63631775900771],[77.88492747608254,13.65432736379394],[77.86659186411943,13.65057932067323],[77.86989119608293,13.63827302478962],[77.8867688346995,13.63631775900771]]]},"properties":{"region_id":"village_624018","name":"KOTAGAL","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

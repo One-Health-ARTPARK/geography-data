@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05611388328803,12.89681587076424],[76.06104775471437,12.90462012040677],[76.05369658027156,12.90882585340007],[76.05611388328803,12.89681587076424]]]},"properties":{"region_id":"village_616099","name":"DORANAHOSAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

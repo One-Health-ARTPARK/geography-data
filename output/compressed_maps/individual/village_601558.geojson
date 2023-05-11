@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4037472281253,15.62592655771998],[76.39303478355382,15.60634574943704],[76.40750710035809,15.60705305450088],[76.4037472281253,15.62592655771998]]]},"properties":{"region_id":"village_601558","name":"KANAKAPURA","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

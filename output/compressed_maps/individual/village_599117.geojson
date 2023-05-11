@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70527989789815,16.66923113242683],[75.66515057821535,16.66980586261765],[75.66422871425529,16.65301323480889],[75.6889226822224,16.64550113449421],[75.71456156510713,16.645962333381],[75.70527989789815,16.66923113242683]]]},"properties":{"region_id":"village_599117","name":"TONSYAL","parent":"subdistrict_7069","parent_name":"BABALESHWAR"}}
+]}

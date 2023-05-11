@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4724446512181,14.23798112414962],[74.44950128482861,14.20827019525021],[74.48110147291855,14.20541550722527],[74.4724446512181,14.23798112414962]]]},"properties":{"region_id":"village_603751","name":"GUNAVANTE","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

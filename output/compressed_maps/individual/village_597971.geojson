@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.59631499036107,15.47890421760858],[74.57920450261642,15.48464856928292],[74.57063375773818,15.45963770293797],[74.59739083530339,15.46622798215311],[74.59631499036107,15.47890421760858]]]},"properties":{"region_id":"village_597971","name":"GHOTAGALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

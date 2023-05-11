@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93611161610572,14.18071172440164],[74.93963813756284,14.18207729598488],[74.93915111614733,14.18629445121604],[74.93392411187814,14.18630985670458],[74.93611161610572,14.18071172440164]]]},"properties":{"region_id":"village_607164","name":"KIBBACHALU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

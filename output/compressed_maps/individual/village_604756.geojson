@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66111474254835,15.36805850539022],[76.64733478585413,15.37764198781564],[76.61618892753795,15.37240403316693],[76.62021037398569,15.3335632756563],[76.64613805714494,15.32997564012728],[76.66111474254835,15.36805850539022]]]},"properties":{"region_id":"village_604756","name":"DEVASAMUDRA","parent":"subdistrict_7107","parent_name":"KAMPLI"}}
+]}

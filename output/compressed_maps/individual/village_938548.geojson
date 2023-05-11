@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5505687334513,13.05969728647653],[77.55589061612797,13.06904237301207],[77.55015861703254,13.074014620396],[77.54474793600255,13.06360307832774],[77.5505687334513,13.05969728647653]]]},"properties":{"region_id":"village_938548","name":"RAMACHANDRAPURA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

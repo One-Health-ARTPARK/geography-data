@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81324936659232,16.78832640904117],[76.79669736092042,16.79548133011354],[76.79052150577529,16.77980784411968],[76.81324936659232,16.78832640904117]]]},"properties":{"region_id":"village_621089","name":"ARALHALLI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

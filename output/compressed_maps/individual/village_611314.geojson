@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1307651143567,13.48077852202349],[77.1373937401923,13.48405872237903],[77.1319289503877,13.48969908274896],[77.1307651143567,13.48077852202349]]]},"properties":{"region_id":"village_611314","name":"NAYAKANAPALYA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

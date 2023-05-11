@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36873530933157,12.98000038820712],[77.36440243389299,12.987621688509],[77.35524252495405,12.9855685516266],[77.36047550565566,12.97554975180008],[77.36873530933157,12.98000038820712]]]},"properties":{"region_id":"village_612960","name":"NAGANAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

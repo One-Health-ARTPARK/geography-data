@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27279195285459,12.97612781756387],[76.24876127812753,12.97816064829036],[76.2431115668331,12.96887387099665],[76.26494521580706,12.96668101478091],[76.27279195285459,12.97612781756387]]]},"properties":{"region_id":"village_616213","name":"HITTALALADAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53081915280143,16.21156628515664],[75.50150895834335,16.19377320571416],[75.53806980002373,16.17825242257037],[75.53081915280143,16.21156628515664]]]},"properties":{"region_id":"village_598775","name":"GOVINDKOPP","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

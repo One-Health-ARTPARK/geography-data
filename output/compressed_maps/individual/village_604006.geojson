@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47627363330042,15.04390942659793],[75.45660614087122,15.03991206894941],[75.46071547603417,15.00442086027059],[75.48379494976278,15.00251464256226],[75.47627363330042,15.04390942659793]]]},"properties":{"region_id":"village_604006","name":"BASAVANKOPPA","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

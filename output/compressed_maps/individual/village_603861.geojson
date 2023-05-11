@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.63743387380161,14.01814981555234],[74.61933849355384,14.0101154099],[74.62619451817474,14.00159411060032],[74.63743387380161,14.01814981555234]]]},"properties":{"region_id":"village_603861","name":"KUNTAVANI","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

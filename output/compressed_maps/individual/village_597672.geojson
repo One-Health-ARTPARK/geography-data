@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50311251156943,16.03557850519973],[74.4939474769521,16.03533502907535],[74.49864915579575,15.99065433146365],[74.51752115170223,15.99323155905501],[74.50016678291765,16.01176331185273],[74.50311251156943,16.03557850519973]]]},"properties":{"region_id":"village_597672","name":"BHUTARAMANAHATTI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

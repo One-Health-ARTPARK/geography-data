@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89932346046056,13.3579435959064],[77.89012955049037,13.35585734369757],[77.89348163860458,13.342241965154],[77.89949042994833,13.34280982292676],[77.89932346046056,13.3579435959064]]]},"properties":{"region_id":"village_624226","name":"DODDADASARAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

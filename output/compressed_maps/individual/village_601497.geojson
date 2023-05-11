@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17804758097694,15.78714311686047],[76.1380200346102,15.77625273690299],[76.1742390736512,15.75624148600913],[76.17804758097694,15.78714311686047]]]},"properties":{"region_id":"village_601497","name":"NIDSESI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

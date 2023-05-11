@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30009149055414,15.82114666058072],[76.27981004202286,15.82524873364992],[76.2799388098357,15.80220613371267],[76.29920340032729,15.80264903614816],[76.30009149055414,15.82114666058072]]]},"properties":{"region_id":"village_601490","name":"GUDADUR(M)","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

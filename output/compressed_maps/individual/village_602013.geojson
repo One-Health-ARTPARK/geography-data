@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66374660465982,15.41023671490966],[75.6879173691209,15.39910536999059],[75.70662587958387,15.42853484259045],[75.68510473311025,15.44409271827595],[75.66374660465982,15.41023671490966]]]},"properties":{"region_id":"village_602013","name":"HATALAGERI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11811052511564,12.49926896787694],[76.09863994053839,12.50195704489302],[76.10511229330983,12.4836129390261],[76.11811052511564,12.49926896787694]]]},"properties":{"region_id":"village_618153","name":"HARADUR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

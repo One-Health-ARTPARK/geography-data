@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72825492145448,13.81690245233301],[75.71894273079863,13.82629365039291],[75.71648479312505,13.81235040457337],[75.72825492145448,13.81690245233301]]]},"properties":{"region_id":"village_938588","name":"SUNNADAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

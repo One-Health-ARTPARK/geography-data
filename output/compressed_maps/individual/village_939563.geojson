@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52744829319539,12.46511881694913],[76.52580390540918,12.47353032973291],[76.5184607483331,12.47472883742718],[76.51736835715712,12.46151149246579],[76.52744829319539,12.46511881694913]]]},"properties":{"region_id":"village_939563","name":"SAYAPPANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6109709471241,14.31582516105298],[75.63446072875426,14.3148286756804],[75.62878325205753,14.32974575739577],[75.6109709471241,14.31582516105298]]]},"properties":{"region_id":"village_604472","name":"SHANKARANAHALLI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

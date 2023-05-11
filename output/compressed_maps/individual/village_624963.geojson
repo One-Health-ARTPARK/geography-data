@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49369181482041,13.45851422221764],[77.48355967467647,13.46719872423268],[77.47911297463025,13.45582387182702],[77.49369181482041,13.45851422221764]]]},"properties":{"region_id":"village_624963","name":"BANKENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

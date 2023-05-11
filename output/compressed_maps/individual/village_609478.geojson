@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19661220422172,13.57795963361185],[76.17667183886121,13.569138004081],[76.17756160390344,13.54787821962961],[76.18906300173064,13.54515378013802],[76.19661220422172,13.57795963361185]]]},"properties":{"region_id":"village_609478","name":"KOTHIGERE","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

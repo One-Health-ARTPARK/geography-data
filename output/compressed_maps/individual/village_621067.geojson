@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85090160937703,16.53646072736046],[76.83880010493374,16.49625853100972],[76.87967478160536,16.49217676476759],[76.8773246507185,16.5272670499544],[76.85090160937703,16.53646072736046]]]},"properties":{"region_id":"village_621067","name":"HEMNOOR","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

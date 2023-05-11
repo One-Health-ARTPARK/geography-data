@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6911513045273,13.30240338492907],[76.67368979212588,13.30854480540443],[76.67116188516671,13.29838408440864],[76.6911513045273,13.30240338492907]]]},"properties":{"region_id":"village_612036","name":"KATIGENAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

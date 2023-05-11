@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91179695922352,15.56935681250919],[75.8869474671503,15.57859939171755],[75.86742851717493,15.57635798610503],[75.8668709829686,15.55453646680087],[75.91219641089418,15.5433719681896],[75.91179695922352,15.56935681250919]]]},"properties":{"region_id":"village_601259","name":"BANDIHAL","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

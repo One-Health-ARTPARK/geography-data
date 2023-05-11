@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34348387318333,13.46662471826856],[77.33408600494619,13.46824922957805],[77.33681102648076,13.45960305375608],[77.34348387318333,13.46662471826856]]]},"properties":{"region_id":"village_611148","name":"CHEELENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

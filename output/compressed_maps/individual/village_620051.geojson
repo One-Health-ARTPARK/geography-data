@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41769916573044,17.5366703393559],[76.39151898658578,17.53623017279401],[76.3844696186884,17.50742382333741],[76.41834553829113,17.50284573172877],[76.41769916573044,17.5366703393559]]]},"properties":{"region_id":"village_620051","name":"AMBEWAD","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61162711526126,15.36359160518649],[76.5757130154586,15.34780504354477],[76.59008295212331,15.325896989298],[76.60905946847959,15.34211468473132],[76.61162711526126,15.36359160518649]]]},"properties":{"region_id":"village_604755","name":"KANVITHIMMALAPURA","parent":"subdistrict_7107","parent_name":"KAMPLI"}}
+]}

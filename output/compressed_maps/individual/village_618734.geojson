@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6362577488815,12.24748147113193],[76.64732866334354,12.24980905846467],[76.64870866109331,12.25844179622298],[76.63806961374446,12.25445670016042],[76.6362577488815,12.24748147113193]]]},"properties":{"region_id":"village_618734","name":"KUPPALURU","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

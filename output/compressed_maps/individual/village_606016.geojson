@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45764445547073,13.82351275675021],[76.45628601794206,13.81896458617421],[76.44619672741253,13.81090359169496],[76.45709486290988,13.80779679968715],[76.45764445547073,13.82351275675021]]]},"properties":{"region_id":"village_606016","name":"NAGATHIHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

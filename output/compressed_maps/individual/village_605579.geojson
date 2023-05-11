@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45489117618833,14.18986057052678],[76.4561719630719,14.21453993881198],[76.4325391027565,14.20529105680524],[76.45489117618833,14.18986057052678]]]},"properties":{"region_id":"village_605579","name":"KUNCHIGANAHAL","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

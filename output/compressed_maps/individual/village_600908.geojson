@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74975645249069,16.00044735013407],[76.73108691737879,16.01239816610146],[76.72559517112826,15.99517974602965],[76.74975645249069,16.00044735013407]]]},"properties":{"region_id":"village_600908","name":"YEDDAL DINNI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24958926591681,13.57657285668237],[76.22245042865133,13.57711372573037],[76.22365943240641,13.55852186690814],[76.24270519125278,13.55492971067347],[76.24958926591681,13.57657285668237]]]},"properties":{"region_id":"village_609537","name":"VADERAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

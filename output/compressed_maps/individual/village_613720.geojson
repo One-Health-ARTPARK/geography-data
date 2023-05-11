@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.743647114098,12.96786870410147],[76.73597153443883,12.96743073308667],[76.73587373881237,12.95839853665058],[76.74757312050075,12.96084985153809],[76.743647114098,12.96786870410147]]]},"properties":{"region_id":"village_613720","name":"BOMMANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

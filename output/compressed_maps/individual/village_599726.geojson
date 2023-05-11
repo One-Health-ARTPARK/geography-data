@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06224887419003,18.00486894647386],[77.06434737201099,18.01964424420677],[77.04395156590346,18.02102744907054],[77.0465889004065,18.00586625006988],[77.06224887419003,18.00486894647386]]]},"properties":{"region_id":"village_599726","name":"QUADERABAD","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

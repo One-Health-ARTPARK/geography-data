@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23551273542532,15.32309769079773],[76.25189938192834,15.32171297321663],[76.2446810647474,15.33441729862699],[76.23551273542532,15.32309769079773]]]},"properties":{"region_id":"village_601763","name":"ALLANAGAR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

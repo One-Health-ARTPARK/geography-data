@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.0735168822019,13.24744964205983],[78.06746640607882,13.23769389224246],[78.06368337430537,13.22277708702765],[78.07132721207644,13.22227468223292],[78.0735168822019,13.24744964205983]]]},"properties":{"region_id":"village_621901","name":"MATNAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

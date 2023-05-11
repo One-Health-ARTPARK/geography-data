@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65472419284355,12.3583887917583],[75.63683414756125,12.33331821672197],[75.64701621947853,12.32946086316354],[75.65722959661663,12.33442207643164],[75.6638172642632,12.350351193471],[75.65472419284355,12.3583887917583]]]},"properties":{"region_id":"village_923892","name":"IVATHOKLU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18340271514776,12.71426001117783],[77.17661892774049,12.74348418949364],[77.1632241446687,12.7384256614013],[77.18340271514776,12.71426001117783]]]},"properties":{"region_id":"village_626191","name":"DASAVARA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

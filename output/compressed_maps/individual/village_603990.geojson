@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30744822679041,14.91900746659247],[75.28601606349721,14.92063515889682],[75.2875325853737,14.90063991355534],[75.30524959877555,14.89818480414225],[75.30744822679041,14.91900746659247]]]},"properties":{"region_id":"village_603990","name":"SAVOOR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

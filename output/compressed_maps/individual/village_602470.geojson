@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02023621068774,15.18887801403418],[75.0094088785806,15.19960202866436],[74.99499960293049,15.18960741860932],[75.00686424749878,15.17291697852861],[75.02023621068774,15.18887801403418]]]},"properties":{"region_id":"village_602470","name":"SANGEDEVARKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

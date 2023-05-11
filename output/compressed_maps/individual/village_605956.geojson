@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28431493637686,13.64786731881172],[76.28757164551392,13.66958945675272],[76.2653611000441,13.680717961547],[76.25422599630745,13.66259555261061],[76.26310436959464,13.64907939193738],[76.28431493637686,13.64786731881172]]]},"properties":{"region_id":"village_605956","name":"MATHUR","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97249220312737,14.21789039951225],[75.94474576815166,14.2265432470742],[75.9373766696169,14.1927565547861],[75.96652722617135,14.18783167323105],[75.97249220312737,14.21789039951225]]]},"properties":{"region_id":"village_606938","name":"KOGALOOR","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17321369767232,13.71591203950967],[77.15906603133992,13.71828635117302],[77.16488679846896,13.70466249324262],[77.17321369767232,13.71591203950967]]]},"properties":{"region_id":"village_610746","name":"VAJRADAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0021672834611,12.48940148151282],[77.00064818457467,12.49947040784406],[76.98888870313269,12.4969618650089],[76.98809996800705,12.48543129644447],[77.0021672834611,12.48940148151282]]]},"properties":{"region_id":"village_614620","name":"HARALAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

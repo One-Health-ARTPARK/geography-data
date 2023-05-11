@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88392895326135,14.6902089332869],[74.88435002093784,14.71565087150029],[74.85456688492286,14.69665078933841],[74.88392895326135,14.6902089332869]]]},"properties":{"region_id":"village_603202","name":"BAPPANALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

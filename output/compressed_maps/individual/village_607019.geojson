@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88897245187567,14.09700562816403],[75.87427561031348,14.09792113687146],[75.87038321218958,14.07811681019471],[75.89274029705811,14.07734309443972],[75.88897245187567,14.09700562816403]]]},"properties":{"region_id":"village_607019","name":"NALLUR","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

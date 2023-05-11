@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54431513297367,13.27751336293344],[77.53001636464833,13.28036920108652],[77.52895182087042,13.2728026111878],[77.54186949609434,13.26742063347885],[77.54431513297367,13.27751336293344]]]},"properties":{"region_id":"village_625134","name":"THIPPAPURA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

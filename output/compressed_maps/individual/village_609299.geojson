@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97120482026503,13.72688855820026],[75.94992426117417,13.71763316481702],[75.96240933782333,13.70637472423577],[75.97120482026503,13.72688855820026]]]},"properties":{"region_id":"village_609299","name":"SOKKE","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

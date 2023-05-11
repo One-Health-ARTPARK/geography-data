@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27758491664123,14.37936653655885],[75.27900842727186,14.39822805708996],[75.26269097982006,14.38755589059221],[75.27758491664123,14.37936653655885]]]},"properties":{"region_id":"village_607726","name":"HAKKALI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

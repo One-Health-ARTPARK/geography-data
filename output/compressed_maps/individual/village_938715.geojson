@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97555158302644,15.18908154563799],[74.9365960505368,15.18060664220017],[74.95372098709495,15.16289878982524],[74.97609335082889,15.17123313081448],[74.97555158302644,15.18908154563799]]]},"properties":{"region_id":"village_938715","name":"KALAGHATAGI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

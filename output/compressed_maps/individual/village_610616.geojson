@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1779788729944,14.0966890719186],[77.16970146220731,14.099180309823],[77.16922604721886,14.08241143563994],[77.18524512999798,14.08630339779778],[77.1779788729944,14.0966890719186]]]},"properties":{"region_id":"village_610616","name":"KONANAKURIKE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

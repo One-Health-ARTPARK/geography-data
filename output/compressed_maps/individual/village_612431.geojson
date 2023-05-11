@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81313128316455,13.0293761810059],[76.78244370155895,13.03036343524932],[76.78584031403562,13.01487587059211],[76.81545440639118,13.01342522955033],[76.81313128316455,13.0293761810059]]]},"properties":{"region_id":"village_612431","name":"HANCHIHALL","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

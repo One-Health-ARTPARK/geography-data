@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29570754353905,13.47965073758447],[77.28471683629193,13.47288530728372],[77.30074391895685,13.4664651196874],[77.29570754353905,13.47965073758447]]]},"properties":{"region_id":"village_611165","name":"THEETHA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

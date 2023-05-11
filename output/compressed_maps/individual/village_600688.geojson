@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01628352817289,16.32194515614854],[77.00448587495124,16.32621223116686],[77.0007819033954,16.31027683488473],[77.01169994939774,16.30900536088043],[77.01628352817289,16.32194515614854]]]},"properties":{"region_id":"village_600688","name":"MUSTOOR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

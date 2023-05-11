@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4422415741618,12.22297905283565],[76.44525552001028,12.19123853794482],[76.46747169788982,12.21844566477702],[76.4422415741618,12.22297905283565]]]},"properties":{"region_id":"village_618929","name":"KYATHANAHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

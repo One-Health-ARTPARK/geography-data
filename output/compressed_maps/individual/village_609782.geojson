@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86548398012937,13.3510409695606],[75.82456440663935,13.3463735274543],[75.84569994365968,13.32540368470461],[75.86548398012937,13.3510409695606]]]},"properties":{"region_id":"village_609782","name":"HALELAKYA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

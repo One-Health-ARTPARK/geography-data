@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71361311894216,16.4852102337139],[76.7239848474255,16.45098202764983],[76.73649854782535,16.45628020836964],[76.73876920339822,16.49060048937685],[76.71361311894216,16.4852102337139]]]},"properties":{"region_id":"village_621058","name":"HAVINHAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

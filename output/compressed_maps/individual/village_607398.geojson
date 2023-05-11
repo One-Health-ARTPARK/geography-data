@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02411926836002,14.57502954813033],[75.022312867053,14.56417808403155],[75.03612926478496,14.56612409624019],[75.03084848580819,14.57602289186427],[75.02411926836002,14.57502954813033]]]},"properties":{"region_id":"village_607398","name":"HALEKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

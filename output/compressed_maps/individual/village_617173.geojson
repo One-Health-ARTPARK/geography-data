@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44285063967405,13.06868750004568],[76.428827825737,13.07597551353521],[76.42172908844398,13.05896129849802],[76.44043701326804,13.05680171754542],[76.44285063967405,13.06868750004568]]]},"properties":{"region_id":"village_617173","name":"KAMANAYAKANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

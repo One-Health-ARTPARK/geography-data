@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00953503708128,12.17516550306747],[75.99740109626786,12.18002998562254],[75.97908367823814,12.17276571149536],[75.97917905821487,12.16333403242983],[75.99611726434725,12.16458044467608],[76.00953503708128,12.17516550306747]]]},"properties":{"region_id":"village_618080","name":"DHANUGALA","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

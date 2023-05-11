@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53887830723616,12.90868789459856],[77.52942676244842,12.91384602458902],[77.52794901801404,12.90477993918737],[77.53887830723616,12.90868789459856]]]},"properties":{"region_id":"village_613055","name":"VADDARAPALYA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

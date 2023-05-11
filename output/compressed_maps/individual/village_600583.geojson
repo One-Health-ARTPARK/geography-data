@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82134614329298,16.28035687517815],[76.78810378114214,16.27614102918952],[76.81035063933426,16.25686732965757],[76.82134614329298,16.28035687517815]]]},"properties":{"region_id":"village_600583","name":"SUNNADKAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

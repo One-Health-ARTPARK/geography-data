@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40846100267012,16.05830763842954],[75.36938772046308,16.06457936701643],[75.37196607818859,16.03686180718361],[75.40633675764649,16.0384229406269],[75.40846100267012,16.05830763842954]]]},"properties":{"region_id":"village_598322","name":"CHENNAPUR","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49439028223996,16.0756341649508],[75.46356325344233,16.08433373694328],[75.45539243906988,16.05798700388846],[75.49439028223996,16.0756341649508]]]},"properties":{"region_id":"village_598637","name":"HOSAKOTI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88772197564676,12.99651917279714],[74.8717445610267,13.01405355241778],[74.85842106577799,13.00891016788458],[74.86785768583914,12.98775733565747],[74.88772197564676,12.99651917279714]]]},"properties":{"region_id":"village_617478","name":"PERMUDE","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

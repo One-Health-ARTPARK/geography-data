@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86957199441066,16.44496224762048],[74.80985069471832,16.44304851791022],[74.80375807766195,16.41318435043894],[74.84532380456118,16.4112957668323],[74.86957199441066,16.44496224762048]]]},"properties":{"region_id":"village_597375","name":"BYAKUD","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

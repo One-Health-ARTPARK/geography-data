@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03450169641084,14.75360794401963],[75.02523634115978,14.74525942213512],[75.03706492289876,14.73846636272237],[75.04746867834523,14.74852791960703],[75.03450169641084,14.75360794401963]]]},"properties":{"region_id":"village_603087","name":"KOLGI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

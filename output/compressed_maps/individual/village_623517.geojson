@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7303014708113,13.52293923276617],[77.71467635214806,13.52304877266642],[77.70631595633266,13.51521057188678],[77.72883568243793,13.50875519320509],[77.73376573279758,13.51430898733279],[77.7303014708113,13.52293923276617]]]},"properties":{"region_id":"village_623517","name":"MARAPPANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

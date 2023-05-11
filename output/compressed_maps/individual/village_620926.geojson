@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44446817143621,16.5321051801982],[76.44020822179459,16.55689108600955],[76.421724355505,16.55964707517914],[76.4302958000427,16.52745393484693],[76.44446817143621,16.5321051801982]]]},"properties":{"region_id":"village_620926","name":"KARIBHAVI","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

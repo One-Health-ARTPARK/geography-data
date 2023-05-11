@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38516636073476,12.65060321377464],[75.365427160295,12.670213952755],[75.35079258130395,12.65262347134386],[75.37355504629683,12.64250487596694],[75.38516636073476,12.65060321377464]]]},"properties":{"region_id":"village_617756","name":"BELLARE","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

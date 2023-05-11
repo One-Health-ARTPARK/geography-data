@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5515635465833,13.67625495352226],[75.54176938641201,13.6554386473844],[75.5578481136044,13.65092059199463],[75.56883112217733,13.66695701559677],[75.5515635465833,13.67625495352226]]]},"properties":{"region_id":"village_939537","name":"MALALIHOLE","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24544630030643,16.47648588192771],[76.2237053383255,16.47745365923969],[76.2102037491611,16.43516032296696],[76.24891718639492,16.44750031594774],[76.24544630030643,16.47648588192771]]]},"properties":{"region_id":"village_599599","name":"KUCHABAL","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

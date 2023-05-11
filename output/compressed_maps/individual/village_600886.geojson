@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74485153319102,16.1227629727218],[76.74998105105828,16.14584089858107],[76.7271823555859,16.154118260846],[76.7232053350197,16.13359910119924],[76.74485153319102,16.1227629727218]]]},"properties":{"region_id":"village_600886","name":"KACHAPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

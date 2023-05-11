@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42477480407298,17.50409399155695],[76.39378459385081,17.47315435885971],[76.42532462102984,17.46766527902739],[76.42477480407298,17.50409399155695]]]},"properties":{"region_id":"village_620054","name":"DARGASIRUR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

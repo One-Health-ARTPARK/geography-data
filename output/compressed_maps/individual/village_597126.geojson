@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4139350325853,16.43854303609201],[74.40498893527761,16.46148746987175],[74.40148163957943,16.46096657948603],[74.39273137720969,16.44605973762328],[74.3932164456505,16.43917099221433],[74.4139350325853,16.43854303609201]]]},"properties":{"region_id":"village_597126","name":"PADLIHAL","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

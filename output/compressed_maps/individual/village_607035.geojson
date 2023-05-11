@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88756630288825,14.03250928126208],[75.88106097612977,14.03888533367496],[75.87914540364442,14.02743386352552],[75.88756630288825,14.03250928126208]]]},"properties":{"region_id":"village_607035","name":"CHENNENAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

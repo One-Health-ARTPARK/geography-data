@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64816809230241,14.70345221250214],[76.63705054403435,14.71000522791757],[76.62939132691432,14.69034753390551],[76.64958363590864,14.68971006766169],[76.64816809230241,14.70345221250214]]]},"properties":{"region_id":"village_605214","name":"YERAPOTHAJOGIHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32274301557193,13.21940295716933],[77.31227367746403,13.21623751057944],[77.31743003659466,13.202086892081],[77.32499485641442,13.21201032507129],[77.32274301557193,13.21940295716933]]]},"properties":{"region_id":"village_624821","name":"GUNDENAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

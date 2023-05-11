@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02513188163074,14.16067237019088],[75.01486260893259,14.15454699832009],[75.02096016998303,14.14065848832734],[75.02997561374684,14.13958272515746],[75.02513188163074,14.16067237019088]]]},"properties":{"region_id":"village_607330","name":"ARALIKOPPA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.934766428408,15.05165389232146],[74.95071500508962,15.06711671417168],[74.95369937772769,15.09201449035911],[74.92585833152778,15.07971098937181],[74.934766428408,15.05165389232146]]]},"properties":{"region_id":"village_602489","name":"SHIDDANABHAVI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

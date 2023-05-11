@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69505986192615,14.37578415746592],[74.67586585887187,14.36645420974976],[74.68873908826457,14.3552230973628],[74.69505986192615,14.37578415746592]]]},"properties":{"region_id":"village_603614","name":"DODMANE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

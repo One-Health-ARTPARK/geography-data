@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52895253822449,12.65130646159022],[77.52780584027614,12.66480294797779],[77.51414702194286,12.6599208317914],[77.51714219600736,12.65261550077579],[77.52895253822449,12.65130646159022]]]},"properties":{"region_id":"village_626408","name":"GADARANAHALLI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

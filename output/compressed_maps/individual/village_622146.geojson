@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99465002682659,13.03499283783727],[77.9823542827477,13.03875284318056],[77.98207249160166,13.02535723241447],[77.98852185853055,13.0234051288481],[77.99465002682659,13.03499283783727]]]},"properties":{"region_id":"village_622146","name":"DODDASHIVARA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

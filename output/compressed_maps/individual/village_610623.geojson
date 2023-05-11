@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11723523655209,14.10428910924763],[77.10221931710339,14.1113390148508],[77.07784327041908,14.10600572524448],[77.08531198425835,14.08904624521284],[77.11723523655209,14.10428910924763]]]},"properties":{"region_id":"village_610623","name":"JANGAMARAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

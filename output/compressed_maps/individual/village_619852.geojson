@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30168080861847,12.14938894350769],[77.30126487713717,12.16908002462174],[77.29300119332132,12.16949636291273],[77.28669118399641,12.1480061518416],[77.30168080861847,12.14938894350769]]]},"properties":{"region_id":"village_619852","name":"ALAGUMOLE","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

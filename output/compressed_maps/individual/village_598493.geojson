@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5555417516585,16.42604981640728],[75.5537811143664,16.43285545099398],[75.52601052832115,16.428022822278],[75.54378158339424,16.41490522437572],[75.5555417516585,16.42604981640728]]]},"properties":{"region_id":"village_598493","name":"HANCHINAL(INAM)","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11116707298117,13.64888366931579],[77.11794960164256,13.65376099873884],[77.11352845664551,13.66111649375343],[77.10848748169508,13.65821106670052],[77.11116707298117,13.64888366931579]]]},"properties":{"region_id":"village_610771","name":"SANJEEVAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

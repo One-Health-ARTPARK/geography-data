@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52762500034773,13.01055399983287],[77.53766799964531,13.00916300022683],[77.5396120001825,13.01735300017781],[77.53256699970377,13.02205600027959],[77.52762500034773,13.01055399983287]]]},"properties":{"region_id":"ward_bbmp43","name":"WARD NO.43 (NANDINI LAYOUT)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82623219488644,13.34477979292292],[77.81391598925464,13.34613163600298],[77.80900530979261,13.33325612654331],[77.82878280895427,13.33016395262976],[77.82623219488644,13.34477979292292]]]},"properties":{"region_id":"village_624239","name":"MALLUR","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

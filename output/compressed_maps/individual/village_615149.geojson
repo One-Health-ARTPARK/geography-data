@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88579154899467,13.15058602153201],[75.8680086938169,13.1549441007194],[75.87436078360761,13.14134283461749],[75.88579154899467,13.15058602153201]]]},"properties":{"region_id":"village_615149","name":"MALLAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

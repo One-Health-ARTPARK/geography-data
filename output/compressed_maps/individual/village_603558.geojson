@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77573443300831,14.49161427238802],[74.76695080337439,14.47733746459519],[74.77843086963294,14.47426615018422],[74.78606752003832,14.48073357887799],[74.77573443300831,14.49161427238802]]]},"properties":{"region_id":"village_603558","name":"ANALEBAIL","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96983694100798,13.47656655120386],[75.93423019403345,13.45858065069091],[75.96801526245892,13.44865315983315],[75.96983694100798,13.47656655120386]]]},"properties":{"region_id":"village_609608","name":"BRAHMASAMUDRA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

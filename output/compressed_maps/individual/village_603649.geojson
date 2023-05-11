@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79024144823723,14.34157675589443],[74.79967950339079,14.35815246764576],[74.79011114633893,14.36929590378952],[74.78302648785717,14.35527083740321],[74.79024144823723,14.34157675589443]]]},"properties":{"region_id":"village_603649","name":"BILGI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

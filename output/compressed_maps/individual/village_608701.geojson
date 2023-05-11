@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74907371138441,13.69471522357991],[74.72102945624077,13.6898126699646],[74.74112299377171,13.67037560882396],[74.74907371138441,13.69471522357991]]]},"properties":{"region_id":"village_608701","name":"DEVALKUNDA","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

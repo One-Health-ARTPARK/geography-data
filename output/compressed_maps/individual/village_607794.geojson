@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44333275325857,14.33757042888257],[75.4296652412101,14.34907753072924],[75.42414904630978,14.34535342804527],[75.43560674534655,14.32712521066355],[75.44333275325857,14.33757042888257]]]},"properties":{"region_id":"village_607794","name":"KAVASPURA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

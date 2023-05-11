@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69558892376479,14.97655623947902],[74.69100449956348,14.99171097051707],[74.67953056100937,14.97705335138685],[74.69558892376479,14.97655623947902]]]},"properties":{"region_id":"village_602894","name":"SHISTAMUDI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

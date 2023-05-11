@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80567449073592,13.31339907867526],[74.78569466966405,13.32060440793659],[74.77274015348509,13.3029391771457],[74.80277151602618,13.30049792991001],[74.80567449073592,13.31339907867526]]]},"properties":{"region_id":"village_608851","name":"ALEVOOR (CT)","parent":"subdistrict_5523","parent_name":"UDUPI"}}
+]}

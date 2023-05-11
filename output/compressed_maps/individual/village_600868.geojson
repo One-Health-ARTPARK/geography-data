@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36084962207342,16.00280502275635],[77.34400625774583,16.00277756427954],[77.34273843723297,15.97985579011445],[77.36269447096933,15.97500325476181],[77.36084962207342,16.00280502275635]]]},"properties":{"region_id":"village_600868","name":"DUGNOOR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

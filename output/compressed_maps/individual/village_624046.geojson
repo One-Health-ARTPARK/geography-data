@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9019305405607,13.57847058888738],[77.88382927508076,13.5877031159224],[77.88704931040184,13.57094215785152],[77.9019305405607,13.57847058888738]]]},"properties":{"region_id":"village_624046","name":"PURABYRENAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

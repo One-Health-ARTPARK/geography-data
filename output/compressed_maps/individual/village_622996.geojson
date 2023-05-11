@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.46129670852268,13.19741747727923],[78.45047213215183,13.20123855392538],[78.44986521483634,13.19358600466564],[78.46129670852268,13.19741747727923]]]},"properties":{"region_id":"village_622996","name":"N.VADDAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

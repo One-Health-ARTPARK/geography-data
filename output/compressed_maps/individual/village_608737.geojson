@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76382859420673,13.61987289415802],[74.72287867622734,13.61808031912864],[74.72510834762377,13.60474496269984],[74.75752011412239,13.60538960521025],[74.76382859420673,13.61987289415802]]]},"properties":{"region_id":"village_608737","name":"KANDAVARA","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

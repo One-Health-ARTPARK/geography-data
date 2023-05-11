@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2556973090662,18.21026992414122],[77.22231213931173,18.17897279849029],[77.24709641366708,18.17131467685834],[77.2556973090662,18.21026992414122]]]},"properties":{"region_id":"village_600016","name":"SAWALI","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

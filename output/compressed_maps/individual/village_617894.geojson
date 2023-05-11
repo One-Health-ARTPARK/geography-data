@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89310465982125,12.71282537718679],[75.89168701344146,12.70287362108092],[75.90124939501477,12.70645304091578],[75.89310465982125,12.71282537718679]]]},"properties":{"region_id":"village_617894","name":"GOPALAPURA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

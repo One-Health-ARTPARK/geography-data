@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51934908969017,13.28313171483597],[77.52109830936297,13.29187901222723],[77.5099440691081,13.29223258581035],[77.51062189649842,13.28626727585116],[77.51934908969017,13.28313171483597]]]},"properties":{"region_id":"village_625116","name":"NAGASANDRA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

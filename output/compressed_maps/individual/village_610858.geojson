@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26499071667689,13.66720533548797],[77.24411541418358,13.66994938579665],[77.2425328278749,13.66141347791146],[77.25983814985854,13.66207281870266],[77.26499071667689,13.66720533548797]]]},"properties":{"region_id":"village_610858","name":"SOGENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6088005920298,14.76647314140445],[75.61139246751264,14.79949920348738],[75.58006265066125,14.80351018844025],[75.57322110636268,14.76966615447852],[75.6088005920298,14.76647314140445]]]},"properties":{"region_id":"village_604279","name":"KURAGUND","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

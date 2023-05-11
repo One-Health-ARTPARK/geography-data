@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88668397348793,15.87895666901247],[75.87206213766908,15.88033449240729],[75.86124090109104,15.85919448491007],[75.87504162330332,15.85639273951105],[75.88668397348793,15.87895666901247]]]},"properties":{"region_id":"village_601386","name":"MASBINKURBANHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

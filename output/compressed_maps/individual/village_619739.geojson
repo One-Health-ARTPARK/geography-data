@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9056589854665,11.79218638796721],[76.87472777049486,11.80656662760182],[76.86913452196089,11.79214577315576],[76.9056589854665,11.79218638796721]]]},"properties":{"region_id":"village_619739","name":"CHOWDAHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

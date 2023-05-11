@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90149856679135,16.35177940721299],[75.9327570158401,16.36438847616152],[75.92085633087852,16.37152070020518],[75.90149856679135,16.35177940721299]]]},"properties":{"region_id":"village_599492","name":"DEVALAPUR","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

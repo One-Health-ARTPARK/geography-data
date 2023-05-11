@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41058560342016,13.48074210120207],[75.40166706350469,13.44715339886205],[75.4230316436917,13.42150709576878],[75.46150838595821,13.43304464800291],[75.45116013169515,13.464115636764],[75.41058560342016,13.48074210120207]]]},"properties":{"region_id":"village_609093","name":"KAREKESHWARA","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

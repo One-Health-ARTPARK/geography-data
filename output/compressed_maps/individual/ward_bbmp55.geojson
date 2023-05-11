@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69564000026959,13.00827699988777],[77.6850119998253,13.0050900003421],[77.6907340003267,12.99723500034619],[77.69921299958023,12.99974799961721],[77.69564000026959,13.00827699988777]]]},"properties":{"region_id":"ward_bbmp55","name":"WARD NO.55 (DEVASANDRA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

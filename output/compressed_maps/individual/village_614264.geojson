@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84202143828912,12.42649631384299],[76.8451452599717,12.43851846542449],[76.83555389858616,12.43822359618382],[76.84202143828912,12.42649631384299]]]},"properties":{"region_id":"village_614264","name":"CHIKKAHAROHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

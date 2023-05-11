@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59763262863812,15.84955483379422],[76.57375607964977,15.85855374408444],[76.57006747085444,15.83283708649925],[76.60144715444177,15.82339998674195],[76.59763262863812,15.84955483379422]]]},"properties":{"region_id":"village_601085","name":"BOPPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

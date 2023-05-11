@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71689707261244,16.04885306750137],[76.6921908744001,16.05431952829553],[76.6899636616333,16.03041377868644],[76.71270612196761,16.03070048405277],[76.71689707261244,16.04885306750137]]]},"properties":{"region_id":"village_600899","name":"GUDIHAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

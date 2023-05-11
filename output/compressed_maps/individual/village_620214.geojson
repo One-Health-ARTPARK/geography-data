@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07780855464314,17.55454437729912],[77.03965645878493,17.52587531474954],[77.04885201108254,17.50605010818185],[77.07823931526664,17.53155517314307],[77.07780855464314,17.55454437729912]]]},"properties":{"region_id":"village_620214","name":"GOGI","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

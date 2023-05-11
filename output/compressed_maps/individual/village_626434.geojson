@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3602688223315,12.58914168880144],[77.34516855709029,12.59502485984048],[77.33990007769532,12.57994373941739],[77.35480072048401,12.57791585687779],[77.3602688223315,12.58914168880144]]]},"properties":{"region_id":"village_626434","name":"UDARAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

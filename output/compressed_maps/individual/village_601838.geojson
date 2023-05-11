@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32205958459102,15.38627715999333],[76.2929511813188,15.38465029078184],[76.29232825351505,15.36215820725694],[76.32354745823135,15.35812215534177],[76.32205958459102,15.38627715999333]]]},"properties":{"region_id":"village_601838","name":"KERIHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88448222515798,14.38308341140473],[75.86926933293553,14.38317245079101],[75.86733463129006,14.36899802904142],[75.88035892768788,14.36607920894544],[75.88448222515798,14.38308341140473]]]},"properties":{"region_id":"village_606572","name":"BATLEKATTE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

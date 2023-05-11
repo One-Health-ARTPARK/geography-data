@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6096582672307,14.32396824061931],[75.58821931454017,14.32759975266571],[75.58993270529136,14.28621330289681],[75.60350374886592,14.29306738288011],[75.6096582672307,14.32396824061931]]]},"properties":{"region_id":"village_604473","name":"KAMALAPUR","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24540071077293,12.81387316902843],[77.23571707686922,12.83404701331905],[77.22904771099147,12.81661455134615],[77.24540071077293,12.81387316902843]]]},"properties":{"region_id":"village_626052","name":"TADIKAVAGILU","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

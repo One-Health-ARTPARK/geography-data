@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36417230797902,11.95726896735947],[76.37097272789855,11.97566151964713],[76.36880575172461,11.99126780732805],[76.35908370729383,11.98719234541958],[76.36417230797902,11.95726896735947]]]},"properties":{"region_id":"village_619075","name":"AGATHURU","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

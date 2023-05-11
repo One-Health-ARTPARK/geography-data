@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32561163805404,12.54666005568695],[77.31544043073454,12.55182556659945],[77.31142557898168,12.54355225483906],[77.32363414450928,12.53899407068565],[77.32561163805404,12.54666005568695]]]},"properties":{"region_id":"village_626330","name":"BUKKASAGARA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

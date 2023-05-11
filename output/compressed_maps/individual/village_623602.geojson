@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62514162293886,13.42634458394798],[77.60887907892985,13.41456900080574],[77.61922710792756,13.40089414731538],[77.63037196277905,13.41697318646375],[77.62514162293886,13.42634458394798]]]},"properties":{"region_id":"village_623602","name":"JAKKALAMADAGU","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

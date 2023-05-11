@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1366964272316,16.40203685527813],[76.10979412228318,16.39624372423866],[76.09981007727876,16.35161487018293],[76.13281270656806,16.34887857689429],[76.1366964272316,16.40203685527813]]]},"properties":{"region_id":"village_599579","name":"BIDARKUNDI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

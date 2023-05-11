@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14220067607923,13.22475165739733],[77.13580941479641,13.24751777625647],[77.12633826228344,13.23156903647064],[77.14220067607923,13.22475165739733]]]},"properties":{"region_id":"village_611586","name":"CHOLAMBALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

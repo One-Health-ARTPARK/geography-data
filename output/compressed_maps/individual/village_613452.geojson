@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4793777567156,12.73820099856031],[76.46781498727337,12.74483556255987],[76.46131820414082,12.72678857680036],[76.47442877235495,12.72858690806524],[76.4793777567156,12.73820099856031]]]},"properties":{"region_id":"village_613452","name":"ANNECHAKANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

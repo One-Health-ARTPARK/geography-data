@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74992216836227,12.76244151365535],[77.74655541263552,12.76926787451418],[77.7363076777327,12.76847945210824],[77.73571566931008,12.7637938123436],[77.74992216836227,12.76244151365535]]]},"properties":{"region_id":"village_613276","name":"MUTHASANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

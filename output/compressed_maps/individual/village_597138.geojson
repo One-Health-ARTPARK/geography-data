@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.34766289332582,16.36741402277625],[74.34337914985649,16.38243097767332],[74.32541150324938,16.36548075600023],[74.33995964129397,16.35075632577046],[74.34766289332582,16.36741402277625]]]},"properties":{"region_id":"village_597138","name":"PANGERI (B)","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

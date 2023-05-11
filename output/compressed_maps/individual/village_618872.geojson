@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28856599362221,12.03810825738029],[76.28025130881528,12.07191565931193],[76.25417821780893,12.07926614303167],[76.23649964068306,12.05248346075658],[76.27843877019353,12.05274139872272],[76.28856599362221,12.03810825738029]]]},"properties":{"region_id":"village_618872","name":"HIREHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

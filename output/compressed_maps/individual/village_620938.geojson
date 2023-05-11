@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58956043406411,16.50552701714724],[76.56003687170393,16.51097597866742],[76.56548530636499,16.45337560318395],[76.5847475145825,16.45388610565937],[76.58956043406411,16.50552701714724]]]},"properties":{"region_id":"village_620938","name":"KALDEVANHALLI","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

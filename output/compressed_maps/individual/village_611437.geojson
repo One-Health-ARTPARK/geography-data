@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12700566648802,13.42549997430261],[77.11673097996707,13.42221101249332],[77.12416121057288,13.40619336718553],[77.1319493009697,13.41714242543345],[77.12700566648802,13.42549997430261]]]},"properties":{"region_id":"village_611437","name":"THIPPANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

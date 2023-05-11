@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74361178687667,15.33906834959405],[75.66695632699307,15.32087234571953],[75.68078579944131,15.23592413915224],[75.73589113554733,15.27123868165227],[75.74361178687667,15.33906834959405]]]},"properties":{"region_id":"village_602153","name":"DONI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

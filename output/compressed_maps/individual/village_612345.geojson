@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69368719680286,13.06399834671443],[76.67706261927849,13.06808699410146],[76.68313111568858,13.04948672747296],[76.69775325735826,13.04589441651569],[76.69368719680286,13.06399834671443]]]},"properties":{"region_id":"village_612345","name":"RAJAPURA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

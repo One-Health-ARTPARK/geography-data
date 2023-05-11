@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73230370219142,12.70624506370204],[77.72418735800623,12.70470770700043],[77.72456519824492,12.69499081916051],[77.73582386278507,12.69425691054212],[77.73230370219142,12.70624506370204]]]},"properties":{"region_id":"village_613341","name":"SUBMANGALA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

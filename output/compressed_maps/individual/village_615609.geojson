@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29111536604286,13.47952471745416],[76.27001595463598,13.49507299246737],[76.27306300724393,13.47683111605494],[76.29111536604286,13.47952471745416]]]},"properties":{"region_id":"village_615609","name":"AHAMEDPURA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

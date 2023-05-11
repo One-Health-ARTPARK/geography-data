@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76539303769276,16.03384591193069],[75.7621644545977,16.05288014741844],[75.74056776279411,16.06044221749641],[75.74029061345776,16.01981129265405],[75.76539303769276,16.03384591193069]]]},"properties":{"region_id":"village_598677","name":"MURUDI","parent":"subdistrict_7061","parent_name":"GULEDGUDDA"}}
+]}

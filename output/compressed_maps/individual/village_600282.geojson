@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31677107911473,17.83170824759333],[77.29265589461919,17.83570213419543],[77.29454450460061,17.81521306775634],[77.31737535098651,17.8196547286049],[77.31677107911473,17.83170824759333]]]},"properties":{"region_id":"village_600282","name":"HILALPUR","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

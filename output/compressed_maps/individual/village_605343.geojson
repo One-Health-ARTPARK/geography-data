@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59453144643214,14.28828316060521],[76.5661097032141,14.27836011579765],[76.5680919221701,14.24638203472082],[76.58351137037567,14.2476524449769],[76.59453144643214,14.28828316060521]]]},"properties":{"region_id":"village_605343","name":"KURUDIHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

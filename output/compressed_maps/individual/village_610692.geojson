@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22882960548861,13.81254188789064],[77.22922577915945,13.81819428301323],[77.21571783257755,13.82322104015398],[77.21657485802872,13.81713848162393],[77.22882960548861,13.81254188789064]]]},"properties":{"region_id":"village_610692","name":"GONDI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

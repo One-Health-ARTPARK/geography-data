@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47398641177791,12.43621169644392],[77.47360482821804,12.46114283492507],[77.44664791689834,12.44367945214673],[77.47398641177791,12.43621169644392]]]},"properties":{"region_id":"village_626551","name":"KUTHAGALE","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

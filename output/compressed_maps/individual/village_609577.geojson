@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2657958251301,13.54805695122146],[76.28297783100976,13.54736080296292],[76.27891517043608,13.55759707058334],[76.2657958251301,13.54805695122146]]]},"properties":{"region_id":"village_609577","name":"D.HOSAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17704292426819,14.29623677366923],[76.14029609023524,14.29881744413851],[76.14024627615186,14.28435977828505],[76.17248264352753,14.28490348916949],[76.17704292426819,14.29623677366923]]]},"properties":{"region_id":"village_605475","name":"ALAGAVADI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

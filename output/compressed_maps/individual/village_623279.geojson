@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65705387611338,13.74509261511183],[77.64625465144634,13.75159880978384],[77.64081379547933,13.74947325606886],[77.64973817905127,13.73791974085964],[77.65705387611338,13.74509261511183]]]},"properties":{"region_id":"village_623279","name":"PAYANNANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

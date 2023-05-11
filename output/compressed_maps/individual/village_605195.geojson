@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6668338781943,14.77498255713925],[76.67105210402491,14.75864165173016],[76.6863864412942,14.77157185892779],[76.6668338781943,14.77498255713925]]]},"properties":{"region_id":"village_605195","name":"PURABORANAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

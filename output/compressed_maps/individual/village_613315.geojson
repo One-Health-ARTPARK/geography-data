@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70657126198051,12.75502113330436],[77.70309187088408,12.76061514199394],[77.69369800497338,12.75996692013354],[77.69923066609971,12.74716023918126],[77.70657126198051,12.75502113330436]]]},"properties":{"region_id":"village_613315","name":"BYAGADADENAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

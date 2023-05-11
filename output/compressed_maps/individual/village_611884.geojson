@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9044270023677,13.26064572066013],[76.8861266911492,13.26382891156],[76.88325512082295,13.25622515166593],[76.89907948855947,13.25227743025865],[76.9044270023677,13.26064572066013]]]},"properties":{"region_id":"village_611884","name":"HONNASETTYHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85612685436365,13.58521013514329],[75.84560377138513,13.60855532245952],[75.82510604029078,13.61015734984764],[75.82438757401246,13.5951976850586],[75.85612685436365,13.58521013514329]]]},"properties":{"region_id":"village_609336","name":"LINGADAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

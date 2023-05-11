@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13041601206311,16.83003894190967],[75.09391338532903,16.84024771651758],[75.05192444775787,16.81260463774952],[75.12284247511752,16.80310795739135],[75.13041601206311,16.83003894190967]]]},"properties":{"region_id":"village_597264","name":"GUNDEWADI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

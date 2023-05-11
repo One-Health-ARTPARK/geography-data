@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77276595664026,13.0620362947001],[75.74258111270095,13.07109753653288],[75.74055462918949,13.05962306811598],[75.76383358942631,13.04431809370573],[75.77276595664026,13.0620362947001]]]},"properties":{"region_id":"village_615094","name":"MALASAVARA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0871482047707,14.21440049032153],[75.09958813630223,14.23976743778578],[75.0924901518448,14.24069589943471],[75.0871482047707,14.21440049032153]]]},"properties":{"region_id":"village_607205","name":"PADAVAGODU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

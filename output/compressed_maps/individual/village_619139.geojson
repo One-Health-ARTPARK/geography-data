@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50740843524687,12.04570513965302],[76.4866510429678,12.04260829364784],[76.48713765525248,12.03319957204137],[76.51212214901945,12.03372613579996],[76.50740843524687,12.04570513965302]]]},"properties":{"region_id":"village_619139","name":"KADABURU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

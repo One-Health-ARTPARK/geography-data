@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66602936430442,13.73737420497499],[75.67866741413762,13.72893300760967],[75.70470381597615,13.74881999768435],[75.67649670156402,13.75138291789083],[75.66602936430442,13.73737420497499]]]},"properties":{"region_id":"village_609105","name":"KARKUCHI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

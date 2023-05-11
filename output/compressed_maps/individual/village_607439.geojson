@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20963346730043,14.53151893264935],[75.21472923287682,14.51392342726603],[75.22141738517611,14.52147606213643],[75.20963346730043,14.53151893264935]]]},"properties":{"region_id":"village_607439","name":"VRITHIKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

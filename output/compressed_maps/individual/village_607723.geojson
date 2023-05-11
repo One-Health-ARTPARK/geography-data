@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32341411657721,14.40349031174889],[75.32713448518149,14.3985857739651],[75.34206709748109,14.40461617973832],[75.33979983975561,14.41142631345769],[75.3259897931728,14.4162922792418],[75.32341411657721,14.40349031174889]]]},"properties":{"region_id":"village_607723","name":"BIDARIKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

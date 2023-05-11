@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50284645200149,12.73564689677844],[77.48604616197035,12.74297869583463],[77.49187403476805,12.7257540815917],[77.50284645200149,12.73564689677844]]]},"properties":{"region_id":"village_626348","name":"YADAMADU","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

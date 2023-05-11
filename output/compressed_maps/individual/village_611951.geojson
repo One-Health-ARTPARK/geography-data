@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93642608903966,13.09582772304409],[76.9276472117051,13.10720214320549],[76.91547293805498,13.10985097658582],[76.91576222500215,13.09253802844662],[76.93642608903966,13.09582772304409]]]},"properties":{"region_id":"village_611951","name":"ADAKEKERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

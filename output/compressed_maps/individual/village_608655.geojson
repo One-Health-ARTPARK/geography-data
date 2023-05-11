@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65932730942622,13.74103968652964],[75.64983727744385,13.72771161768293],[75.67397487966427,13.72422407661513],[75.65932730942622,13.74103968652964]]]},"properties":{"region_id":"village_608655","name":"MALENAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

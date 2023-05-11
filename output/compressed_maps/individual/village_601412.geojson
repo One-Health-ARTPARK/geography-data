@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01799403038756,15.82931296229758],[75.9904821582396,15.83356345994808],[75.9858097129992,15.80792833085021],[76.01070415148189,15.80669257614014],[76.01799403038756,15.82931296229758]]]},"properties":{"region_id":"village_601412","name":"KUMBLAVATI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

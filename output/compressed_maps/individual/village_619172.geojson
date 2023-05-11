@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5330788547173,11.9595116247329],[76.52265730879836,11.93698061745248],[76.54246744638269,11.9266685900258],[76.5330788547173,11.9595116247329]]]},"properties":{"region_id":"village_619172","name":"HOSAVEEDU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

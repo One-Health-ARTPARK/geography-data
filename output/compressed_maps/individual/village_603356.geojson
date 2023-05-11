@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60279847221085,14.79544899844701],[74.61048662157307,14.75746513657843],[74.6299108330752,14.76529117529164],[74.60279847221085,14.79544899844701]]]},"properties":{"region_id":"village_603356","name":"KALLESHWAR","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

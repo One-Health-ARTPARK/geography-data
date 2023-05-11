@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22427559535637,12.5021336708347],[77.20893430785222,12.50178427966471],[77.20692288561249,12.49355411963292],[77.22215840652517,12.49290415482659],[77.22427559535637,12.5021336708347]]]},"properties":{"region_id":"village_626313","name":"KALLAPURA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

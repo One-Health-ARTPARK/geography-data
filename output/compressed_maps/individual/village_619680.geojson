@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74665918349623,12.00180060263279],[76.73613017598815,12.00537095543476],[76.73814022693335,11.98895282257928],[76.74665918349623,12.00180060263279]]]},"properties":{"region_id":"village_619680","name":"KEBBEPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

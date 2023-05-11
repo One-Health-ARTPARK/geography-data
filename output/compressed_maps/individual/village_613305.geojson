@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61525368525432,12.71190928185028],[77.59793172690388,12.66809174105915],[77.66642157062687,12.68747646865917],[77.61525368525432,12.71190928185028]]]},"properties":{"region_id":"village_613305","name":"THAMMANAIKANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

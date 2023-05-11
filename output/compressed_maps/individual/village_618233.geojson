@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12604455080255,12.36388349079266],[76.12063557445434,12.33765802805454],[76.13919370846848,12.33590039084814],[76.13697146988135,12.35455691089634],[76.12604455080255,12.36388349079266]]]},"properties":{"region_id":"village_618233","name":"KIRANALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9947778227541,12.46157727410935],[75.986530184978,12.45071948574779],[75.99599363627982,12.43965805324596],[76.00526137768753,12.45499809561347],[75.9947778227541,12.46157727410935]]]},"properties":{"region_id":"village_618127","name":"MARADIYUR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

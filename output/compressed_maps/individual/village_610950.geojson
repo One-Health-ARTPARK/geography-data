@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29690212024032,13.71165458444756],[77.29816807606463,13.72095120663101],[77.28393684606021,13.73371288679377],[77.28299817561897,13.71099625999893],[77.29690212024032,13.71165458444756]]]},"properties":{"region_id":"village_610950","name":"CHUNCHENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

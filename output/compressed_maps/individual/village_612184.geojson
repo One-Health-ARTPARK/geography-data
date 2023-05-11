@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47606104948865,13.10772938187927],[76.47303388665152,13.09611188890743],[76.48546360349302,13.09265293807113],[76.48292803064479,13.10445029048677],[76.47606104948865,13.10772938187927]]]},"properties":{"region_id":"village_612184","name":"GANJALAGHATTA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

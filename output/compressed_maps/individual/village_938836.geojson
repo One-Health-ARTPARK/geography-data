@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.13912075757464,14.84077049380607],[74.14539124554982,14.8316502212526],[74.15614891142665,14.8360408101243],[74.15181452967047,14.84914285404419],[74.13912075757464,14.84077049380607]]]},"properties":{"region_id":"village_938836","name":"NANDANAGADDA","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

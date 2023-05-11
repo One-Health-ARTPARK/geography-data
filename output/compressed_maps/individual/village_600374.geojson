@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3583063915472,15.96498607768791],[76.35356620176715,15.9929701953078],[76.33547278516481,15.98136026653754],[76.33817214830367,15.95825612830619],[76.3583063915472,15.96498607768791]]]},"properties":{"region_id":"village_600374","name":"ADAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

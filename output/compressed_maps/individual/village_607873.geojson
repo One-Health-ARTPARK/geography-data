@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06169883666145,13.90403611541283],[75.04027519366362,13.91771625531802],[75.04207604944779,13.89765379061634],[75.06169883666145,13.90403611541283]]]},"properties":{"region_id":"village_607873","name":"SUTHA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

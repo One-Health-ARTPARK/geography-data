@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05454340376211,15.49058407389208],[75.07540639328091,15.49092040572442],[75.07292284496467,15.51144769926481],[75.05344767488597,15.50915561040201],[75.05454340376211,15.49058407389208]]]},"properties":{"region_id":"village_602304","name":"KAVALGERI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

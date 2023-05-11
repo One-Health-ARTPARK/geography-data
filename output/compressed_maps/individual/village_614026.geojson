@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7323124618464,12.70899667279929],[76.72275891976896,12.71500679539228],[76.71234152093179,12.71692415046596],[76.7091991340684,12.71142954605902],[76.71885169305392,12.70652308939274],[76.7323124618464,12.70899667279929]]]},"properties":{"region_id":"village_614026","name":"KAVADIHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

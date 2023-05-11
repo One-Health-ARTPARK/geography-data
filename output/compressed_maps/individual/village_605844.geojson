@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18848519316211,13.81165113572778],[76.19199094252059,13.84145370608136],[76.1746101921189,13.85016022173362],[76.17793622778551,13.82097229195622],[76.18848519316211,13.81165113572778]]]},"properties":{"region_id":"village_605844","name":"KUNDUR","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

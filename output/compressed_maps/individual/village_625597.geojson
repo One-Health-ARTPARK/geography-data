@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93918134704165,13.16301792260213],[77.93004996974865,13.16050079804419],[77.92715332121679,13.15148094445623],[77.93509255989738,13.15164303575992],[77.93918134704165,13.16301792260213]]]},"properties":{"region_id":"village_625597","name":"HETHAKKI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

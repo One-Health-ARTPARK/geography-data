@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84899071312645,16.24160770318009],[75.81847149906183,16.25122582397739],[75.81255968441113,16.21806331493218],[75.84173471700778,16.21777593879954],[75.84899071312645,16.24160770318009]]]},"properties":{"region_id":"village_598827","name":"ACHANUR","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

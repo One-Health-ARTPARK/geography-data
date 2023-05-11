@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16578355750963,15.49447556037831],[76.1297870487116,15.49550184571877],[76.11804095157157,15.48441245699791],[76.16488199407182,15.48471440702118],[76.16578355750963,15.49447556037831]]]},"properties":{"region_id":"village_601332","name":"KADAR HALLI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

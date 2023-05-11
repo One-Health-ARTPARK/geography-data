@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06255317258056,13.72649453622335],[75.04380840298862,13.69096700571137],[75.0701054310496,13.68186527355123],[75.09006534173787,13.69731752704886],[75.06255317258056,13.72649453622335]]]},"properties":{"region_id":"village_608043","name":"SULAGODU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

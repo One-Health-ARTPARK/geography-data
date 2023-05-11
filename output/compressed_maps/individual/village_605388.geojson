@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85482931513098,14.31996753028314],[76.84816557165688,14.33250706077941],[76.82627551169304,14.31597565757897],[76.82917314164311,14.30288444748513],[76.85482931513098,14.31996753028314]]]},"properties":{"region_id":"village_605388","name":"CHATTEKAMBA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

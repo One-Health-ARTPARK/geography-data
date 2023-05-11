@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52984420817029,15.05144423481644],[75.54015058020306,15.07845389273346],[75.52151902679562,15.07729020260218],[75.52984420817029,15.05144423481644]]]},"properties":{"region_id":"village_602085","name":"UNDENAHALLI","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79036446532426,13.98657720449799],[76.77645812534324,14.0084744276231],[76.73356429279619,14.00057911510313],[76.75196712270338,13.96273476157912],[76.79036446532426,13.98657720449799]]]},"properties":{"region_id":"village_606117","name":"HUVINAHOLE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

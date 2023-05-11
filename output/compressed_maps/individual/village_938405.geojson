@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60723999045211,12.95038564087594],[77.60161244261532,12.93634024489297],[77.6105687531121,12.9326699582148],[77.61469121293712,12.94596832949706],[77.60723999045211,12.95038564087594]]]},"properties":{"region_id":"village_938405","name":"ADUGODI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

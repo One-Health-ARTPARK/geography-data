@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4121233126663,13.78400095712472],[77.40523026530451,13.79903358343443],[77.38342249633791,13.79375771746215],[77.40366701537495,13.78175554206662],[77.4121233126663,13.78400095712472]]]},"properties":{"region_id":"village_610903","name":"POLENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

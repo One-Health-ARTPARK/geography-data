@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10613384490273,12.18723440200525],[77.08686969825612,12.19040151934159],[77.08671482649062,12.18230886099344],[77.099333852646,12.17594893722065],[77.10613384490273,12.18723440200525]]]},"properties":{"region_id":"village_619840","name":"DASANAPURA","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

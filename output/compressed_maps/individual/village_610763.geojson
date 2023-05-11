@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11718593045026,13.67822269864106],[77.10736580283688,13.67735982930702],[77.10822739932871,13.66475763841732],[77.11343359758851,13.66205366538093],[77.11718593045026,13.67822269864106]]]},"properties":{"region_id":"village_610763","name":"ADAVIKATANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

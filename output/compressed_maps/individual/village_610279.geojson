@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88093318557141,13.98318987532762],[76.84857434645478,13.97924907872017],[76.86216776151493,13.95826683335239],[76.88093318557141,13.98318987532762]]]},"properties":{"region_id":"village_610279","name":"VAJARAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

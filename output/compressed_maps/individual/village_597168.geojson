@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4979782316154,16.5280810676688],[74.48886208257119,16.5588308986903],[74.46201685647924,16.55336242644325],[74.46459081756286,16.51802356573253],[74.4751503380164,16.50918047189435],[74.4979782316154,16.5280810676688]]]},"properties":{"region_id":"village_597168","name":"BEDKIHAL","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

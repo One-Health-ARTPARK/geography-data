@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26310726839695,13.86441133089156],[75.25718421932385,13.84343280256241],[75.27470054483857,13.84815442322933],[75.26310726839695,13.86441133089156]]]},"properties":{"region_id":"village_608064","name":"CHIKKALLALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

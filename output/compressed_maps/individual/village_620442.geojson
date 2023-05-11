@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4171527649608,17.37815419362853],[77.40137470884426,17.35511642993009],[77.43483008936573,17.35598673198603],[77.4171527649608,17.37815419362853]]]},"properties":{"region_id":"village_620442","name":"GARAGPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

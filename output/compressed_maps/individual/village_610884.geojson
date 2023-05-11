@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27705298794224,13.7795258713418],[77.28647189422048,13.79034637156502],[77.28680638030382,13.80291736705099],[77.27499258847325,13.80001037915082],[77.27705298794224,13.7795258713418]]]},"properties":{"region_id":"village_610884","name":"SADARAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

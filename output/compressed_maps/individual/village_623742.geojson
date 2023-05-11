@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77650679767595,13.69727850651409],[77.76911763278277,13.69541105211806],[77.76457458294108,13.68789280242364],[77.77586312553703,13.68358916213224],[77.7734697312287,13.69105626420878],[77.77650679767595,13.69727850651409]]]},"properties":{"region_id":"village_623742","name":"KONDAVABANAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5977137171847,15.69645131451937],[74.58739041812208,15.70201264451467],[74.56300799478416,15.67852689805988],[74.57846825512641,15.65887686907508],[74.60054066184763,15.66570622831167],[74.5977137171847,15.69645131451937]]]},"properties":{"region_id":"village_597856","name":"DEVALATTI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

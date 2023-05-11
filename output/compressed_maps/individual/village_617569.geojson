@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08852946862925,12.8843566998324],[75.07329116165346,12.88119479002436],[75.08385974690994,12.8610216364433],[75.10300161128535,12.87695128118117],[75.08852946862925,12.8843566998324]]]},"properties":{"region_id":"village_617569","name":"SHAMBHOOR","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

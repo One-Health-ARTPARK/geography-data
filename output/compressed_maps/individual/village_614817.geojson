@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08808288409271,12.29226307613387],[77.07008360540502,12.28710812255425],[77.0799346694564,12.27038367282535],[77.08808288409271,12.29226307613387]]]},"properties":{"region_id":"village_614817","name":"KANCHUGAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

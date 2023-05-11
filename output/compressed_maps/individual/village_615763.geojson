@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19824600878825,13.15464098284856],[76.19384517450679,13.1627391410794],[76.18496642665917,13.15866112513071],[76.18958273740353,13.15071841421419],[76.19824600878825,13.15464098284856]]]},"properties":{"region_id":"village_615763","name":"RAMJIHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

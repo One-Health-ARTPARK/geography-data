@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03579153364093,14.44330350010333],[75.01836380845646,14.43742174932849],[75.02999187158653,14.42265267115284],[75.04113588522975,14.43309053477162],[75.03579153364093,14.44330350010333]]]},"properties":{"region_id":"village_607542","name":"KALLAMBI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

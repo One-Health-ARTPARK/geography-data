@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43642171474762,12.40724965212599],[76.42629704083376,12.40720032833952],[76.4300721105027,12.39731975703805],[76.43642171474762,12.40724965212599]]]},"properties":{"region_id":"village_618683","name":"HANGARABOYANAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

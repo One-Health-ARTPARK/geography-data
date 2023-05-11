@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82822720145414,14.89193290301837],[74.7969760823943,14.89982830286395],[74.78555300599616,14.88995133115527],[74.81668115140555,14.86829654550452],[74.82822720145414,14.89193290301837]]]},"properties":{"region_id":"village_602956","name":"CHIKKOTTI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

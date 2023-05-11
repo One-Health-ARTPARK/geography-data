@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57314843692023,16.4117448147443],[75.55678012318529,16.42666388944043],[75.5239498255321,16.40119713511926],[75.55925041403184,16.38424353907565],[75.57314843692023,16.4117448147443]]]},"properties":{"region_id":"village_598494","name":"BALLUR","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

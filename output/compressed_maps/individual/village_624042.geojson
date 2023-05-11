@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87702820150983,13.60309580334676],[77.86574017053226,13.60559834370592],[77.86855370023443,13.58427002304032],[77.88168535527562,13.58473917539395],[77.88945933396083,13.59804092595647],[77.87702820150983,13.60309580334676]]]},"properties":{"region_id":"village_624042","name":"IRAGAPPANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

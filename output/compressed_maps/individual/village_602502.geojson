@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00444420240242,15.13177231970457],[74.99259669309353,15.14623481036364],[74.98132111163642,15.13425676172375],[74.988257088342,15.12040737556119],[75.00444420240242,15.13177231970457]]]},"properties":{"region_id":"village_602502","name":"SOMANAKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64177429246408,12.40318691671902],[76.64924132498417,12.40799117955307],[76.64577649534644,12.41649808075577],[76.63807702483162,12.41362114167473],[76.64177429246408,12.40318691671902]]]},"properties":{"region_id":"village_614288","name":"KEMPALINGAPURA","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5271040388348,15.50113937415694],[76.529363648058,15.51535297660144],[76.51155137134911,15.51644031196438],[76.51039531661498,15.50286220747379],[76.5271040388348,15.50113937415694]]]},"properties":{"region_id":"village_601642","name":"MARKUMBI","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

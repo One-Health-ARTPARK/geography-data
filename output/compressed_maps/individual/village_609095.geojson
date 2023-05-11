@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50094368675106,13.43023297546453],[75.46707834222775,13.4093794791427],[75.5038436448655,13.39976494571946],[75.50094368675106,13.43023297546453]]]},"properties":{"region_id":"village_609095","name":"KOLALE","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.40163388976528,13.30677974189254],[78.39156558540927,13.29308884308677],[78.40762192461467,13.29001546000997],[78.40163388976528,13.30677974189254]]]},"properties":{"region_id":"village_622851","name":"GOKUNTE","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

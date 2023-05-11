@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04482818366964,12.64410111300851],[76.03464935735077,12.64799196884044],[76.03365200331478,12.63781947051877],[76.04105234370861,12.63589097943135],[76.04482818366964,12.64410111300851]]]},"properties":{"region_id":"village_616722","name":"KEREHOSAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

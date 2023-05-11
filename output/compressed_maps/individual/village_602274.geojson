@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05487520962888,15.47683976568588],[75.05035803117734,15.47858237829676],[75.03569499165296,15.47897155685465],[75.0352480399536,15.4761505997065],[75.04206540121682,15.47717476856776],[75.05487520962888,15.47683976568588]]]},"properties":{"region_id":"village_602274","name":"DHARWAD (RURAL)","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

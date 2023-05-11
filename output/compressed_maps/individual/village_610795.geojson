@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08536305209296,13.61228005884],[77.081370757712,13.61072077648067],[77.08205425247367,13.60237129398089],[77.08789968039035,13.60682543293981],[77.08536305209296,13.61228005884]]]},"properties":{"region_id":"village_610795","name":"GUBALAGUTTE","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

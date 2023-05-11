@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80218724819665,13.04024541257105],[75.7886151536688,13.0480981833828],[75.77858451637086,13.04503855769297],[75.79286434764904,13.03078411528282],[75.80218724819665,13.04024541257105]]]},"properties":{"region_id":"village_615111","name":"BALAGULI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74466879990493,12.91363330249355],[77.72753093439437,12.90311915821701],[77.73982790243282,12.89428024951958],[77.74466879990493,12.91363330249355]]]},"properties":{"region_id":"village_613118","name":"KACHAMARANAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71144685488852,15.24592011651338],[76.69144653429623,15.21826493764597],[76.70928574609398,15.19973888598834],[76.7316363716924,15.21563967614913],[76.72767310231835,15.23578471429951],[76.71144685488852,15.24592011651338]]]},"properties":{"region_id":"village_604874","name":"THIMMALAPURA","parent":"subdistrict_7109","parent_name":"KURUGODU"}}
+]}

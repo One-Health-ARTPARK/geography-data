@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77258207759547,12.76689420358848],[77.75890463617968,12.76135103000622],[77.77213890885298,12.75411470986542],[77.77258207759547,12.76689420358848]]]},"properties":{"region_id":"village_613284","name":"AREHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

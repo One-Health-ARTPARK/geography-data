@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86963411449277,12.9342083795959],[75.86095002047301,12.93515980913206],[75.85454135089456,12.91589968954626],[75.87315162466433,12.91127431665332],[75.86963411449277,12.9342083795959]]]},"properties":{"region_id":"village_614960","name":"JAMMANAHALLI","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

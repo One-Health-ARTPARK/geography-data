@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42605140403005,12.68473246209946],[76.41556902266866,12.67890778147081],[76.4175556247448,12.66849459112598],[76.42611356168045,12.66963214808301],[76.42816114228151,12.67981975991163],[76.42605140403005,12.68473246209946]]]},"properties":{"region_id":"village_613530","name":"KUPPAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

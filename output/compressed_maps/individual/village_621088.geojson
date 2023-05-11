@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82564596682438,16.78699756080112],[76.79957020521763,16.77905964719947],[76.80127531802324,16.73586157587312],[76.82913091161888,16.76526725802066],[76.82564596682438,16.78699756080112]]]},"properties":{"region_id":"village_621088","name":"HOTHPET","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

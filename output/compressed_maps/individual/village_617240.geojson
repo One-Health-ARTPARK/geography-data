@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45591318449992,12.9452411062935],[76.44479094406849,12.95104897701091],[76.44171529764984,12.94563992665631],[76.45219869804457,12.9375005328137],[76.45591318449992,12.9452411062935]]]},"properties":{"region_id":"village_617240","name":"SOMALAPURA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

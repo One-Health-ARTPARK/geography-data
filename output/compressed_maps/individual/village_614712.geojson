@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1424297482466,12.41684638506964],[77.13459154801878,12.41610711223984],[77.14034721710885,12.40587521901659],[77.1424297482466,12.41684638506964]]]},"properties":{"region_id":"village_614712","name":"KODIPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

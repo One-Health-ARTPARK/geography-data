@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.57165695661375,13.27579782072483],[78.56663247345793,13.27936391229063],[78.56654507737005,13.29509339675172],[78.55643120677267,13.28382873165502],[78.56555832295713,13.27311956168992],[78.57165695661375,13.27579782072483]]]},"properties":{"region_id":"village_623055","name":"HEBBANI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

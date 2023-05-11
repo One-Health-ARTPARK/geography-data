@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81301655636923,13.07355004680721],[75.8023484445066,13.07395529580113],[75.79959076719196,13.0627399770183],[75.8102640102647,13.06500217012328],[75.81301655636923,13.07355004680721]]]},"properties":{"region_id":"village_615141","name":"KITTAVARA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

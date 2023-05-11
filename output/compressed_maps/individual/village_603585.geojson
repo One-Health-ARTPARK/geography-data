@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8507073294904,14.45255517398863],[74.84128726985492,14.45125671460274],[74.83559232703897,14.43501078556017],[74.84394300952565,14.42233542661556],[74.8507073294904,14.45255517398863]]]},"properties":{"region_id":"village_603585","name":"BHANDARKERI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

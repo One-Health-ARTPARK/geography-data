@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18893848623246,14.28205837601573],[75.18241553024417,14.29773022090891],[75.1615009052199,14.29616856798806],[75.17706539748885,14.27353474916898],[75.18893848623246,14.28205837601573]]]},"properties":{"region_id":"village_607657","name":"HUNAVALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81408753703873,17.18920024458113],[75.79307033511826,17.19871520894786],[75.78530236647657,17.17322071786941],[75.81302572766839,17.1651072608123],[75.81408753703873,17.18920024458113]]]},"properties":{"region_id":"village_599219","name":"KAPANIMBARGI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

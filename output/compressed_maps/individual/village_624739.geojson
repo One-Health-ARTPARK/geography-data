@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27340188022825,13.26330641636194],[77.26729079954072,13.26544489679479],[77.2508194777041,13.2562526475122],[77.25800261555187,13.24996171315194],[77.27340188022825,13.26330641636194]]]},"properties":{"region_id":"village_624739","name":"KARIMANNE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57066849440089,12.94199647619411],[76.55725153201496,12.94254116721319],[76.55748492292987,12.93103450083338],[76.57066849440089,12.94199647619411]]]},"properties":{"region_id":"village_617333","name":"BOOKA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

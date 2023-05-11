@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84360112683326,13.35416655481058],[75.82999541643912,13.35141088749553],[75.81797863197441,13.36526038664239],[75.8024041316113,13.34717305414559],[75.81611640806277,13.34158162785543],[75.84360112683326,13.35416655481058]]]},"properties":{"region_id":"village_609773","name":"DASARAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71388690409353,13.09098286637095],[77.72256405261594,13.11191835187739],[77.71490705375072,13.11580255312689],[77.70183413588758,13.10033285102701],[77.71388690409353,13.09098286637095]]]},"properties":{"region_id":"village_612930","name":"MARASANDRA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

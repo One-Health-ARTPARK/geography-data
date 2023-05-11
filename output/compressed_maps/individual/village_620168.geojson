@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62754614860519,17.2320339241013],[76.6183519718695,17.21179229446042],[76.63661598612929,17.21148173245319],[76.64743458426109,17.23331542761204],[76.62754614860519,17.2320339241013]]]},"properties":{"region_id":"village_620168","name":"AWARHALLI","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

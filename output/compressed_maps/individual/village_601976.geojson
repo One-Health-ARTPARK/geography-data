@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99739134110801,15.77269965396219],[75.99102518851633,15.74824847207294],[76.00842837218536,15.7473428675994],[76.00918664447396,15.76346742385166],[75.99739134110801,15.77269965396219]]]},"properties":{"region_id":"village_601976","name":"KUNTOJI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

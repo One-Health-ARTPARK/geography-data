@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2421707974035,14.56800725589746],[76.20989507115905,14.57815474103621],[76.21203496674576,14.56205306739928],[76.23354733960296,14.5552997965005],[76.2421707974035,14.56800725589746]]]},"properties":{"region_id":"village_606427","name":"GODE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

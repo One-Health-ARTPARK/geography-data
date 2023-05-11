@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73930647508821,16.29538056847182],[74.7322222056675,16.27789333466086],[74.73744052307558,16.26209661925459],[74.75363060584577,16.28384777918853],[74.73930647508821,16.29538056847182]]]},"properties":{"region_id":"village_597591","name":"KADHATTI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

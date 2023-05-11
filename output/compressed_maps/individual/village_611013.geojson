@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15402612345662,13.58879171188041],[77.13295842139063,13.55448714754865],[77.1466056104435,13.55095534590868],[77.1536392746441,13.56399476879791],[77.15402612345662,13.58879171188041]]]},"properties":{"region_id":"village_611013","name":"BOODAGAVI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

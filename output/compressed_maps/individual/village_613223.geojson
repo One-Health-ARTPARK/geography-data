@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75923900717237,12.82404925678884],[77.75189837794342,12.83333261216311],[77.74756162419047,12.82338321667479],[77.75923900717237,12.82404925678884]]]},"properties":{"region_id":"village_613223","name":"SOLLEPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

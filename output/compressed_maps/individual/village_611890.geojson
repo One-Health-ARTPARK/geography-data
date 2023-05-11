@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87833370836438,13.22740844599674],[76.86979557500803,13.22792168371191],[76.87068095119005,13.22147660194641],[76.87866466111664,13.2213089631559],[76.87833370836438,13.22740844599674]]]},"properties":{"region_id":"village_611890","name":"GORJIHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

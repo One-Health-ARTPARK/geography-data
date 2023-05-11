@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37066169168357,17.12488552126207],[76.31747535015857,17.12402826439688],[76.31244203173631,17.09483424783602],[76.36966000105276,17.08714839330904],[76.37066169168357,17.12488552126207]]]},"properties":{"region_id":"village_599301","name":"KUMASHIGI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

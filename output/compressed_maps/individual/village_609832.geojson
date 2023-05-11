@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72377059960361,13.2564872261817],[75.70316295098392,13.26051808711119],[75.69822246343519,13.25418877279283],[75.71594357924765,13.25184935773092],[75.72377059960361,13.2564872261817]]]},"properties":{"region_id":"village_609832","name":"HULUVALE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

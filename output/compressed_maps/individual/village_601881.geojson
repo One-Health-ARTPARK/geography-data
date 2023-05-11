@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4601710751147,15.88029781630484],[75.46003560011631,15.88733708685667],[75.45261077774046,15.88654403587514],[75.45246938267864,15.87728136937382],[75.4601710751147,15.88029781630484]]]},"properties":{"region_id":"village_601881","name":"LAKHAMAPUR","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

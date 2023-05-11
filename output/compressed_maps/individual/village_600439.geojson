@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63401689313449,16.07953739157529],[76.61272281658542,16.09082540449439],[76.6024960355017,16.05147581095706],[76.64019447663802,16.05752010342149],[76.63401689313449,16.07953739157529]]]},"properties":{"region_id":"village_600439","name":"BASAPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

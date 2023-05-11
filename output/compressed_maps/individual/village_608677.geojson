@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.67576491446398,13.81341259934966],[74.65404877293541,13.81466008313867],[74.65987125881746,13.79272366768402],[74.67842123369675,13.79530538804207],[74.67576491446398,13.81341259934966]]]},"properties":{"region_id":"village_608677","name":"HERANJAL","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

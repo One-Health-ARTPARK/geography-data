@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99733616384582,16.44821292318563],[76.99646828144633,16.46320158453022],[76.961350280799,16.45825453520703],[76.96211121323483,16.45113459820184],[76.99733616384582,16.44821292318563]]]},"properties":{"region_id":"village_600608","name":"HEMNHAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

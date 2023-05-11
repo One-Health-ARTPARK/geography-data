@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94714540445483,13.80394387126116],[75.90722249359843,13.80679307894298],[75.90977043393232,13.80087997619312],[75.93484335566252,13.79784649759138],[75.94714540445483,13.80394387126116]]]},"properties":{"region_id":"village_609227","name":"KENCHAPURA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

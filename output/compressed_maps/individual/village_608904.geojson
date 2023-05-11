@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91009736965839,13.18189534767417],[74.90102863342402,13.18805485996087],[74.88773524895672,13.17034391440469],[74.89823351367629,13.17022395686222],[74.91009736965839,13.18189534767417]]]},"properties":{"region_id":"village_608904","name":"KEDINJE","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00807552055345,13.38150787178286],[77.00612686556335,13.3951232429175],[76.99722387919874,13.39495402626239],[76.99563596613758,13.38161571186128],[77.00807552055345,13.38150787178286]]]},"properties":{"region_id":"village_611275","name":"ASLIPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

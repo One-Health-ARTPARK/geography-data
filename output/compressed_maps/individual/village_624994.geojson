@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34237234191068,13.35813169688465],[77.34258704827063,13.35013113189735],[77.34739294939563,13.34957263135228],[77.34237234191068,13.35813169688465]]]},"properties":{"region_id":"village_624994","name":"ANKONAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

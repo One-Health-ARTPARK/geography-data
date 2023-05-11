@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72683653747806,15.39131784851167],[74.69864692806864,15.40984641720845],[74.68233805650995,15.39021710951762],[74.70467650696878,15.37744335728117],[74.72683653747806,15.39131784851167]]]},"properties":{"region_id":"village_602832","name":"MUNDKI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

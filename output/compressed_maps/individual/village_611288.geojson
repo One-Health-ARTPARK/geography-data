@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02730198408737,13.35363855609937],[77.0204879772314,13.35335678916106],[77.02405822260576,13.33822651026682],[77.03189855174423,13.34007843030432],[77.02730198408737,13.35363855609937]]]},"properties":{"region_id":"village_611288","name":"PERAMANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

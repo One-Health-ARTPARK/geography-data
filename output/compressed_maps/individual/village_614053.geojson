@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65475315707664,12.68616117837874],[76.64210279394197,12.68036218792664],[76.63912818242622,12.65384188615407],[76.6522316053894,12.66066326522586],[76.65475315707664,12.68616117837874]]]},"properties":{"region_id":"village_614053","name":"MELUKOTE","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

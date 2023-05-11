@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22705706788058,13.72319464996499],[75.20867069668468,13.73284219224527],[75.206991258597,13.70825358261435],[75.22604467978547,13.7077831905038],[75.22705706788058,13.72319464996499]]]},"properties":{"region_id":"village_608200","name":"NERATURU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

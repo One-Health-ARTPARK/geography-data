@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0772717033864,17.28214927085505],[77.06074044845188,17.28773529320113],[77.04979908681584,17.27071258430132],[77.06979612870526,17.26439738632053],[77.0772717033864,17.28214927085505]]]},"properties":{"region_id":"village_620631","name":"MATTIMUDU","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84787294359593,16.69987358171901],[76.8288288937889,16.71503574853934],[76.83512978065302,16.69357918469668],[76.84787294359593,16.69987358171901]]]},"properties":{"region_id":"village_938915","name":"SHAHAPURA","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

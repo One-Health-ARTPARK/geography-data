@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9971958907508,11.9390451102609],[76.97913028358053,11.93494882721829],[76.98049970684514,11.92345654064447],[76.99619607923148,11.92655342620962],[76.9971958907508,11.9390451102609]]]},"properties":{"region_id":"village_619762","name":"KODIMOLE","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

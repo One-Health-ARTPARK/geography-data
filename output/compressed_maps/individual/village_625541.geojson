@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95579761311544,13.22662373748553],[77.96557689145915,13.24443521045375],[77.94806858034406,13.25050465976127],[77.94336568918688,13.23453497961609],[77.95579761311544,13.22662373748553]]]},"properties":{"region_id":"village_625541","name":"DALASAGERE","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

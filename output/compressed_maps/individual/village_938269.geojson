@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64110030322408,12.97233592094813],[77.64248745483283,12.96598703946353],[77.6562552322327,12.97109495734741],[77.65559371595829,12.97551568064507],[77.64110030322408,12.97233592094813]]]},"properties":{"region_id":"village_938269","name":"TIPPASANDRA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

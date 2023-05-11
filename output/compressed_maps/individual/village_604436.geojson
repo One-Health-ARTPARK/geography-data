@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55470624573762,14.45016261903615],[75.53920173806947,14.42714959313106],[75.56849974510699,14.42521535484748],[75.55470624573762,14.45016261903615]]]},"properties":{"region_id":"village_604436","name":"HIREMADAPUR","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

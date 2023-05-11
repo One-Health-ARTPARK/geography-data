@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09914515542,13.45744061766368],[76.08894815082323,13.45675642269926],[76.08622342986996,13.44143660487003],[76.0934695251121,13.44067690484556],[76.09914515542,13.45744061766368]]]},"properties":{"region_id":"village_609613","name":"SHANABINAGUNDI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

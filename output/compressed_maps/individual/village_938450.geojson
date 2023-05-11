@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53722805639354,12.95343166839407],[77.52924269238915,12.95505521966194],[77.52793725459522,12.94532221349541],[77.53710900246344,12.94553470537899],[77.53722805639354,12.95343166839407]]]},"properties":{"region_id":"village_938450","name":"DEEVATIGERAMANAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

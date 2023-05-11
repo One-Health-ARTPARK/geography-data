@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00978792392822,13.68531786334269],[76.01483192956702,13.70298073754214],[76.00411975535464,13.70574238334634],[75.99262567211152,13.67631279705107],[76.00616546126896,13.67131838808986],[76.00978792392822,13.68531786334269]]]},"properties":{"region_id":"village_609160","name":"CHANNAPURA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

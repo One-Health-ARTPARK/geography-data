@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.29233215346373,13.00547307006103],[78.29102252304018,13.0110158066639],[78.28307885912228,13.01156237009924],[78.2900608842194,13.00045871401116],[78.29233215346373,13.00547307006103]]]},"properties":{"region_id":"village_622738","name":"PEDDAMPALLI","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03380901382945,17.3506518716378],[76.00827891709048,17.35256423291188],[76.00828151587254,17.32675353375114],[76.02795266314943,17.32841335273713],[76.03380901382945,17.3506518716378]]]},"properties":{"region_id":"village_599247","name":"SHIRAGUR INAM (OLD)","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

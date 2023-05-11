@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62100440183056,13.63395267418056],[77.61711930022143,13.6392570709207],[77.61291650969265,13.63396750747309],[77.62100440183056,13.63395267418056]]]},"properties":{"region_id":"village_623324","name":"YARRAMADENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

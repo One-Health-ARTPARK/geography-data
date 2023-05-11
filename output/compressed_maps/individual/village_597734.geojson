@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.39496991593285,15.78898159295185],[74.37642405291928,15.8077942294882],[74.37298650018194,15.78743387758798],[74.38281959454248,15.77782568875069],[74.39496991593285,15.78898159295185]]]},"properties":{"region_id":"village_597734","name":"BELVATTI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

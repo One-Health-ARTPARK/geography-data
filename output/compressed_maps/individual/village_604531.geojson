@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51782279146542,14.60784385517375],[75.52692249571902,14.60518662346432],[75.5290802299298,14.61338506647482],[75.51911097593263,14.6174092120611],[75.51782279146542,14.60784385517375]]]},"properties":{"region_id":"village_604531","name":"VEERAPUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

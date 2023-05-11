@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0533601842618,13.1385160471892],[77.04206788018756,13.13940254634766],[77.04399395353353,13.12073047909266],[77.05411566712696,13.12332228713634],[77.0533601842618,13.1385160471892]]]},"properties":{"region_id":"village_611537","name":"SANGALAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

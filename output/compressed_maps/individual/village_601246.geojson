@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07229486123373,15.69203505508666],[76.05995324847945,15.68420304304944],[76.06433207966417,15.66654254174227],[76.07567521784463,15.68408616394214],[76.07229486123373,15.69203505508666]]]},"properties":{"region_id":"village_601246","name":"BOON KOPPA","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

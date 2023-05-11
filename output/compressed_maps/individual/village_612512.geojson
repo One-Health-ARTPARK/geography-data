@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03747355000961,13.09969193096502],[77.02157091919257,13.09627644453222],[77.02060855444499,13.08677702518733],[77.03753146615814,13.08975818073128],[77.03747355000961,13.09969193096502]]]},"properties":{"region_id":"village_612512","name":"VODDARAKUPPE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

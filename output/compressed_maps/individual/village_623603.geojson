@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66730658588048,13.41754350481005],[77.63311463032666,13.42603221788796],[77.6368212719554,13.39482885727727],[77.66730658588048,13.41754350481005]]]},"properties":{"region_id":"village_623603","name":"MADHURENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

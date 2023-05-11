@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78987810481776,12.38034071672243],[75.75400107886593,12.39468997397334],[75.73955765878813,12.38046969731924],[75.76885815778877,12.36986599043285],[75.78987810481776,12.38034071672243]]]},"properties":{"region_id":"village_617817","name":"KAGGODLU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

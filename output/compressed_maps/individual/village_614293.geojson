@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69333341052118,12.39438850213817],[76.68284235628892,12.39601480513699],[76.68363260247995,12.38366613816927],[76.68898298909819,12.38323741883748],[76.69333341052118,12.39438850213817]]]},"properties":{"region_id":"village_614293","name":"NAGUVANAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

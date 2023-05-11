@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46653849815243,16.94219609516424],[77.4372845276686,16.94868411537668],[77.43355431896897,16.91915500491343],[77.46650060055917,16.9153210639207],[77.46653849815243,16.94219609516424]]]},"properties":{"region_id":"village_620582","name":"KANAGADDA","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

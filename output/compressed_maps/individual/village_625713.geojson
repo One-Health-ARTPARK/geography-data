@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77571599140418,13.00350026195246],[77.77614268294047,12.98813885577415],[77.79014699228676,12.98949948389746],[77.78916150193662,13.00200107322984],[77.77571599140418,13.00350026195246]]]},"properties":{"region_id":"village_625713","name":"KORALUR","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

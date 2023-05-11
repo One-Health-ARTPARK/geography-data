@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40765289890658,12.04501362792852],[76.39693197497361,12.04940922650103],[76.39297095972637,12.03735439763971],[76.39864600205861,12.03190081180542],[76.40765289890658,12.04501362792852]]]},"properties":{"region_id":"village_618901","name":"HULIKURA","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

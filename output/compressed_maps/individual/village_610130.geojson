@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58338088741026,13.54733257454517],[76.56183229559953,13.54377014155536],[76.5598678151846,13.52441762527388],[76.58599756327975,13.53909765778318],[76.58338088741026,13.54733257454517]]]},"properties":{"region_id":"village_610130","name":"CHIKKABIDARE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

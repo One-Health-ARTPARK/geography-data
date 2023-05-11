@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85799794654181,14.82633897817988],[74.83719112752784,14.82215516090671],[74.84757540156494,14.8068819464205],[74.85799794654181,14.82633897817988]]]},"properties":{"region_id":"village_602977","name":"KANENALLI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

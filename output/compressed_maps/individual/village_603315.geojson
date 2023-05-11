@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00883021199256,14.54472215440716],[74.99788756152377,14.55496077384201],[74.98625758864972,14.54568278039142],[75.00310439392577,14.53301927161802],[75.00883021199256,14.54472215440716]]]},"properties":{"region_id":"village_603315","name":"AJJARNI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

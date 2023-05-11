@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55616551491764,14.24869851172699],[74.55176176215019,14.25905047186901],[74.54148636909949,14.24950599482346],[74.55179316445862,14.24109101767355],[74.55616551491764,14.24869851172699]]]},"properties":{"region_id":"village_603803","name":"MELINAMUDKANI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

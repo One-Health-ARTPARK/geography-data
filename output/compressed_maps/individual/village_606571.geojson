@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91234181429547,14.36738682318406],[75.88934371631531,14.38499459001902],[75.86612118193769,14.35238876668766],[75.87654486441271,14.3430465727261],[75.91234181429547,14.36738682318406]]]},"properties":{"region_id":"village_606571","name":"HADADI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

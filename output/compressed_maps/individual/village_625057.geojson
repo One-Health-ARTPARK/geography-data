@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65606126082582,13.36818153681726],[77.64686072821786,13.36589290777903],[77.64506745260783,13.35356346757496],[77.65429409525113,13.35405992019401],[77.65606126082582,13.36818153681726]]]},"properties":{"region_id":"village_625057","name":"HEGGADIHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

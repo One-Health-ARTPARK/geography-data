@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47327208989627,12.92662488564839],[77.46226519795528,12.93277543344994],[77.43677658264463,12.92159009349285],[77.46644742369261,12.90701323059064],[77.47327208989627,12.92662488564839]]]},"properties":{"region_id":"village_613011","name":"KOMMAGHATTA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

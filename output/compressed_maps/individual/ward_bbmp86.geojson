@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70464299974297,12.95670200033686],[77.69430600004203,12.96111899980435],[77.68506299997217,12.94146699982435],[77.69830599995223,12.94590399975099],[77.70464299974297,12.95670200033686]]]},"properties":{"region_id":"ward_bbmp86","name":"WARD NO.86 (MARATHAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

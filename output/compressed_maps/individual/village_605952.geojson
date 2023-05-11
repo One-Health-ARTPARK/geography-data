@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36661355212946,13.69655967489932],[76.3579811290371,13.70407596944681],[76.34524390607116,13.68907492654353],[76.35708384284365,13.68576358866073],[76.36661355212946,13.69655967489932]]]},"properties":{"region_id":"village_605952","name":"MALAPPANAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

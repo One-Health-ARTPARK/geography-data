@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26091948628233,15.45972836257367],[76.2537278412116,15.44543414190863],[76.2767239620788,15.44704618902057],[76.27661830449873,15.45596350301481],[76.26091948628233,15.45972836257367]]]},"properties":{"region_id":"village_601807","name":"KENCHANDONI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

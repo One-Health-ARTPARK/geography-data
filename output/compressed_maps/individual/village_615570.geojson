@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24198833467804,13.44836634490549],[76.22640694124456,13.45366259086726],[76.22802540665971,13.43782293825023],[76.24198833467804,13.44836634490549]]]},"properties":{"region_id":"village_615570","name":"NAGASAMUDRA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94378993588707,15.73112378798875],[76.93798875908529,15.73044209165442],[76.93455607720368,15.70963371243142],[76.94949325553682,15.71592445063178],[76.94378993588707,15.73112378798875]]]},"properties":{"region_id":"village_604793","name":"KESARAKONI","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

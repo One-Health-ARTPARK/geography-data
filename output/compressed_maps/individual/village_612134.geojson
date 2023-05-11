@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5181561473937,13.22211046447542],[76.50231485963994,13.22389517195593],[76.49977134667031,13.20456307531152],[76.51189766176238,13.20171766956294],[76.5181561473937,13.22211046447542]]]},"properties":{"region_id":"village_612134","name":"BELAGARAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

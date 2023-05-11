@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97271394129211,13.42824709410332],[76.95639693556436,13.42990802575217],[76.95728501085502,13.42130323728746],[76.97039933676709,13.41922571104534],[76.97271394129211,13.42824709410332]]]},"properties":{"region_id":"village_611716","name":"CHINDIGERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

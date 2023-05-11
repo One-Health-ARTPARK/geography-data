@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56683918142812,12.8762652162243],[77.55559460217985,12.86906275752218],[77.56822682866199,12.86440762804261],[77.56683918142812,12.8762652162243]]]},"properties":{"region_id":"village_938456","name":"ALAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

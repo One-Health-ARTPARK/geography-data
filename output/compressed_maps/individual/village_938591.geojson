@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94619726221028,14.02094800091786],[74.917547155187,14.01777502991174],[74.928522527918,13.99543103673848],[74.94619726221028,14.02094800091786]]]},"properties":{"region_id":"village_938591","name":"HOSAKOTE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42883351745583,13.58196848030286],[75.40575641392266,13.57718205199454],[75.4087622167037,13.55292825880941],[75.42923283899756,13.5642340965194],[75.42883351745583,13.58196848030286]]]},"properties":{"region_id":"village_609080","name":"SEETHUR","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

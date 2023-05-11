@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73201871397657,13.56070139443331],[75.69354928315941,13.50074210782951],[75.7658241472693,13.50324182942089],[75.73201871397657,13.56070139443331]]]},"properties":{"region_id":"village_609863","name":"KESAVINAMANE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

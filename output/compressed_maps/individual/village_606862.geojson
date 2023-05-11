@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72769746351536,14.17070628048909],[75.71941093145513,14.14579932876123],[75.72938083326186,14.14473234306688],[75.72769746351536,14.17070628048909]]]},"properties":{"region_id":"village_606862","name":"MAVINAKOTE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23868166559828,15.79819811029503],[76.17894255229393,15.78463299446376],[76.16452551529886,15.73035478233156],[76.19392183803161,15.72552739034619],[76.23293942372011,15.76247232152523],[76.23868166559828,15.79819811029503]]]},"properties":{"region_id":"village_601496","name":"KUSHTAGI(RURAL)","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

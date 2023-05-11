@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24096459208009,14.29726314833097],[76.24788916795775,14.3297424143328],[76.23182958047492,14.32761339837183],[76.24096459208009,14.29726314833097]]]},"properties":{"region_id":"village_605463","name":"CHIKKABENNUR","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

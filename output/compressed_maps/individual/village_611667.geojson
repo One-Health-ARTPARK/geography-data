@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86097133823374,13.41748737016219],[76.84441025962627,13.4132899265624],[76.84399204739509,13.40417076805106],[76.86050564207451,13.40857794866381],[76.86097133823374,13.41748737016219]]]},"properties":{"region_id":"village_611667","name":"BETTADAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

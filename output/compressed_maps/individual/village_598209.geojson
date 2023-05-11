@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93544897028775,15.85859319951496],[74.9152655455878,15.8585626588098],[74.91492598061986,15.84406612937291],[74.93537657668969,15.8456506145254],[74.93544897028775,15.85859319951496]]]},"properties":{"region_id":"village_598209","name":"DUNDANAKOPPA","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

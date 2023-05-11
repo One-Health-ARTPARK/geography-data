@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73548656835548,14.04026354415941],[76.72046490677181,14.01820512437773],[76.7437596233103,14.00546751093205],[76.73548656835548,14.04026354415941]]]},"properties":{"region_id":"village_606115","name":"DEVARAKOTTA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

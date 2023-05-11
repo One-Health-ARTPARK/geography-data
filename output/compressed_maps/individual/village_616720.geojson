@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04280572741888,12.61567211672456],[76.02234181315461,12.60916862823385],[76.04493161894389,12.59786308625124],[76.04280572741888,12.61567211672456]]]},"properties":{"region_id":"village_616720","name":"SARAGOOR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

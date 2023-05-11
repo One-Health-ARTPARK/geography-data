@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82437177054767,15.38927078287358],[76.78744778180238,15.38961254583666],[76.79225089581841,15.36266689433318],[76.81985617148086,15.36400270500117],[76.82437177054767,15.38927078287358]]]},"properties":{"region_id":"village_604861","name":"MUSTAGATTA","parent":"subdistrict_7109","parent_name":"KURUGODU"}}
+]}

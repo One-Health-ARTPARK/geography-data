@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.40238689064012,15.58210532224713],[74.38893424964547,15.53877823565952],[74.42353423103069,15.5475565267592],[74.40238689064012,15.58210532224713]]]},"properties":{"region_id":"village_597922","name":"ABANALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5736789998156,12.91695700016674],[77.58568499983357,12.91048399995061],[77.5859489998943,12.92329600018771],[77.5736789998156,12.91695700016674]]]},"properties":{"region_id":"ward_bbmp179","name":"WARD NO.179 (SHAKAMBARI NARAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

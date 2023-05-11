@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71713226988987,13.59218607774287],[77.71753948863694,13.60452546203892],[77.71169740504155,13.60610019335323],[77.71157718248298,13.59667265838049],[77.71713226988987,13.59218607774287]]]},"properties":{"region_id":"village_623482","name":"D.KAMBALAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04077667267819,14.50011802578165],[75.01973110172052,14.49688523911993],[75.03460025414797,14.48469579950607],[75.04077667267819,14.50011802578165]]]},"properties":{"region_id":"village_607458","name":"SAMPAGODU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

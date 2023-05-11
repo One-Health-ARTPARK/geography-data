@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38982848685492,14.50675107420762],[75.36982441789625,14.51790846432199],[75.36486933046636,14.50515023522834],[75.37699412708436,14.49059501068961],[75.38982848685492,14.50675107420762]]]},"properties":{"region_id":"village_604379","name":"GODACHIKONDA","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

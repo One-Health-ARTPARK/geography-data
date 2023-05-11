@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1483374760474,12.83689646962596],[77.14922899909,12.84825265199257],[77.13841254203098,12.85287856128027],[77.13842101357388,12.84087349803628],[77.1483374760474,12.83689646962596]]]},"properties":{"region_id":"village_612735","name":"KEMPANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

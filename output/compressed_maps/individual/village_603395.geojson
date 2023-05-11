@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.43344030871185,14.6198465787383],[74.4256354417668,14.62873709208916],[74.40763873552633,14.60718185835582],[74.42574950019197,14.59797721809056],[74.43344030871185,14.6198465787383]]]},"properties":{"region_id":"village_603395","name":"MORALLI","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

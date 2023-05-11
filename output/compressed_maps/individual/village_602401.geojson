@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45349951382896,15.34138875307899],[75.4304150839233,15.34200099819438],[75.43160907701696,15.31952831459921],[75.44880388477418,15.32048406727978],[75.45349951382896,15.34138875307899]]]},"properties":{"region_id":"village_602401","name":"MALLIGWAD","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

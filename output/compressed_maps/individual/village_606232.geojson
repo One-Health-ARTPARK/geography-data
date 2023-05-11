@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78029141581179,14.39176441073173],[75.75490953628685,14.39697960475059],[75.74357628962018,14.36537057776264],[75.76163834648708,14.35923898289015],[75.78029141581179,14.39176441073173]]]},"properties":{"region_id":"village_606232","name":"KUMBALUR","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

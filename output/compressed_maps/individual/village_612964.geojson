@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40624703833956,12.99560382353232],[77.39837001436226,12.99608288287989],[77.39784027436335,12.97794302704512],[77.40733439183872,12.98034366609915],[77.40624703833956,12.99560382353232]]]},"properties":{"region_id":"village_612964","name":"VARTHUR","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

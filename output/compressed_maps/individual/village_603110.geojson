@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77715297010731,14.76370596210648],[74.75670665148533,14.77474922751573],[74.75452045020121,14.74753390515682],[74.7781834472959,14.74054858679853],[74.77715297010731,14.76370596210648]]]},"properties":{"region_id":"village_603110","name":"MOGADDE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

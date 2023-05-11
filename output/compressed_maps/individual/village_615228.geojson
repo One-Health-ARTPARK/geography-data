@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89648246559639,13.15861091177652],[75.88738259928174,13.16827588061734],[75.8787494682977,13.15710559526464],[75.88812005681788,13.15209399335695],[75.89648246559639,13.15861091177652]]]},"properties":{"region_id":"village_615228","name":"RAYAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

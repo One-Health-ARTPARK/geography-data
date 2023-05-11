@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06262996068833,14.02832073662864],[75.05471771336286,14.0430773547726],[75.03614578965059,14.03005238692293],[75.05107571258418,14.02044189511409],[75.06262996068833,14.02832073662864]]]},"properties":{"region_id":"village_607341","name":"INDUVALLI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

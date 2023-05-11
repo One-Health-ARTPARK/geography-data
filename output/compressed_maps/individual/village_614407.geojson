@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81820845929222,12.64248359697855],[76.80776918806528,12.64134947648565],[76.80748398078094,12.6323287793523],[76.81679026057154,12.6319862960325],[76.81820845929222,12.64248359697855]]]},"properties":{"region_id":"village_614407","name":"M.HOSAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

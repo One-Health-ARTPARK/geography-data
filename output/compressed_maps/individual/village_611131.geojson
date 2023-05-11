@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37075982211697,13.51425013002987],[77.35672002269408,13.51537610872054],[77.36152579679168,13.50880502177245],[77.37075982211697,13.51425013002987]]]},"properties":{"region_id":"village_611131","name":"CHUNCHENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

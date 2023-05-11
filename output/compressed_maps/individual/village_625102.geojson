@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53699511585884,13.31311161265358],[77.54107614249224,13.3245887575182],[77.52808080107091,13.31692570555043],[77.53699511585884,13.31311161265358]]]},"properties":{"region_id":"village_625102","name":"PALANJOGIHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

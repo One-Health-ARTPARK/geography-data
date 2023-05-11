@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20481282642231,18.01952552277135],[77.18758580960058,18.01977315605002],[77.18925163546272,18.00959951168837],[77.2043151947098,18.00806555059043],[77.20481282642231,18.01952552277135]]]},"properties":{"region_id":"village_599911","name":"RAMTEERTHWADI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

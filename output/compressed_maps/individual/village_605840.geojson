@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13262527167633,13.86258203309983],[76.11829179100373,13.86139550489009],[76.12389340797841,13.84817696843571],[76.13672650366208,13.84984963945664],[76.13262527167633,13.86258203309983]]]},"properties":{"region_id":"village_605840","name":"CHIKKAMANAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

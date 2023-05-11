@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45040194520084,16.47304588587311],[74.44445481907783,16.49159463718554],[74.43449402692892,16.48561679566179],[74.42757910053479,16.47407260197536],[74.4372503470564,16.46814311408722],[74.45040194520084,16.47304588587311]]]},"properties":{"region_id":"village_597164","name":"MAMADAPUR (KL)","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

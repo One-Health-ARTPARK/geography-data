@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83631704996021,14.18931404956197],[76.82403499903158,14.20020207931761],[76.79721216800098,14.20578850673248],[76.80707883776996,14.16720566535289],[76.83631704996021,14.18931404956197]]]},"properties":{"region_id":"village_605417","name":"THIMMANNANAYAKANAKOTE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

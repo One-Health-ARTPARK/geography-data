@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45787956588862,15.66489671254414],[74.43914110408737,15.64984098862126],[74.4525318848651,15.64042715455412],[74.46803208530696,15.64855547622706],[74.45787956588862,15.66489671254414]]]},"properties":{"region_id":"village_597838","name":"ALLOLI-KANSOLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

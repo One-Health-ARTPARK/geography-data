@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29939155681645,13.6084114254926],[77.28592291142064,13.60759608498609],[77.2798474607872,13.59525286206812],[77.28970911046187,13.58786006295795],[77.29939155681645,13.6084114254926]]]},"properties":{"region_id":"village_610986","name":"SUNNAVADI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

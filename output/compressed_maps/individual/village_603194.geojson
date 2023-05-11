@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76238382286807,14.54576177312417],[74.7621541880049,14.56471822224872],[74.74382760841875,14.55216618677081],[74.76238382286807,14.54576177312417]]]},"properties":{"region_id":"village_603194","name":"MATTIGAR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36201013254147,12.42138113867847],[76.34184490261177,12.41115851772166],[76.35562170625967,12.40745798157753],[76.36201013254147,12.42138113867847]]]},"properties":{"region_id":"village_618300","name":"CHIKKADIGANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

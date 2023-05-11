@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84111791901567,12.59927477345663],[76.81064830124521,12.59812480399591],[76.82328167755762,12.57691971260611],[76.83568555400271,12.57300860737046],[76.84111791901567,12.59927477345663]]]},"properties":{"region_id":"village_614427","name":"SHIVHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3242607133588,16.34389616403159],[77.33905123043176,16.37854642132251],[77.31603281832787,16.37599617946502],[77.3242607133588,16.34389616403159]]]},"properties":{"region_id":"village_600736","name":"YEDLAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

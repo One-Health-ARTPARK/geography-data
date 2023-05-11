@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9541244592285,12.83287609779837],[75.95596355618073,12.84139654083125],[75.94800264952933,12.83991330411653],[75.9395702068513,12.83311126273274],[75.9541244592285,12.83287609779837]]]},"properties":{"region_id":"village_616286","name":"KODAGATHAVALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

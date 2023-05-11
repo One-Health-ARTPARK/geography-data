@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20174267177444,14.35081615888603],[75.18567412010613,14.33827912757399],[75.202221549343,14.33081050071669],[75.20174267177444,14.35081615888603]]]},"properties":{"region_id":"village_607592","name":"MANAMANE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

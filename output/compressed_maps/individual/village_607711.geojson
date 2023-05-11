@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22929290959736,14.42353004954659],[75.22538508009654,14.43670360346461],[75.21729251254877,14.44043475331447],[75.21572295308506,14.42231829991006],[75.22929290959736,14.42353004954659]]]},"properties":{"region_id":"village_607711","name":"DEVIKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

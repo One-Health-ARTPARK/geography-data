@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47434430200276,17.33420642876148],[76.47231593941618,17.34593625666138],[76.44036254126738,17.33854851809393],[76.45591367199582,17.33026820544113],[76.47434430200276,17.33420642876148]]]},"properties":{"region_id":"village_620118","name":"REVOOR (K)","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

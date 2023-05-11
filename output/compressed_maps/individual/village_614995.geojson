@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70643082855908,12.78058454481155],[75.68804359766045,12.76648723066016],[75.67071826794403,12.76963730388385],[75.66733903898785,12.75169769148248],[75.70472882008869,12.74479193201533],[75.70643082855908,12.78058454481155]]]},"properties":{"region_id":"village_614995","name":"YATHAHALLA","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

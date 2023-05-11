@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58820300035188,12.88906200031887],[77.57947100028353,12.89684300007843],[77.570256000379,12.88458800041107],[77.57751700011234,12.87602299994232],[77.58820300035188,12.88906200031887]]]},"properties":{"region_id":"ward_bbmp195","name":"WARD NO.195 (KONANKUNTE)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

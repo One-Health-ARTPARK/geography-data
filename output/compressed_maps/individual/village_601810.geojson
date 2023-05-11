@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19972785276134,15.47588361488778],[76.18390358581053,15.48807101563088],[76.17119578250816,15.47012459639724],[76.18067572147997,15.46388096071392],[76.19972785276134,15.47588361488778]]]},"properties":{"region_id":"village_601810","name":"HANMANHATTI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

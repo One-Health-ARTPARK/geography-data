@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81333335438872,14.66068026343872],[74.80819829079563,14.6463710953526],[74.82420912290313,14.64957904715225],[74.81333335438872,14.66068026343872]]]},"properties":{"region_id":"village_603148","name":"HAREPAL","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

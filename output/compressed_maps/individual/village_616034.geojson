@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07292397423332,12.99754188713615],[76.06018835705385,12.9978140245983],[76.05937559909556,12.98764348058479],[76.06909485298948,12.98462511215273],[76.07292397423332,12.99754188713615]]]},"properties":{"region_id":"village_616034","name":"DEVARAYAPATNA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

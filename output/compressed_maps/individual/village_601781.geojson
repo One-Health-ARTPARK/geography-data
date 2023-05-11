@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16064260838642,15.27340887061407],[76.11516753585319,15.27371318987839],[76.12970520944324,15.2405330923535],[76.16064260838642,15.27340887061407]]]},"properties":{"region_id":"village_601781","name":"GONDBAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

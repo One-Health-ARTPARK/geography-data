@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28353734375158,13.65693948299645],[75.27189708496101,13.63621739134496],[75.27682498963014,13.62727752085607],[75.29811658054896,13.64421797942095],[75.28353734375158,13.65693948299645]]]},"properties":{"region_id":"village_608245","name":"DEVANGI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

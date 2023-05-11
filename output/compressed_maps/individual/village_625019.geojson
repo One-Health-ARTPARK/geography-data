@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58868613922114,13.40415000513558],[77.57973562730693,13.41014159763916],[77.57971947978004,13.39459553858317],[77.58868613922114,13.40415000513558]]]},"properties":{"region_id":"village_625019","name":"HIREMUDDENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

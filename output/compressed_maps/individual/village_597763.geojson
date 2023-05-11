@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.64304526931824,15.87200424877488],[74.62731920299636,15.87273007612105],[74.62906334179671,15.85972419211681],[74.65113139820816,15.84570550279006],[74.65520263889285,15.86524767120754],[74.64304526931824,15.87200424877488]]]},"properties":{"region_id":"village_597763","name":"HONNIHAL","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

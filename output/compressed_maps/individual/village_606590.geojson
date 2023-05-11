@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00961758003233,14.46421374521859],[75.99314162529133,14.46740797224608],[75.9953973043721,14.43561871846807],[76.02288929869185,14.44057571929213],[76.00961758003233,14.46421374521859]]]},"properties":{"region_id":"village_606590","name":"IGOOR","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

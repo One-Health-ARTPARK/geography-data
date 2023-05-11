@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23414972313695,12.99512790683924],[76.22293184009625,13.00831063156139],[76.19924980768954,12.99024570722757],[76.22304610815566,12.97882717951691],[76.23414972313695,12.99512790683924]]]},"properties":{"region_id":"village_616194","name":"SHANTHIGRAMA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

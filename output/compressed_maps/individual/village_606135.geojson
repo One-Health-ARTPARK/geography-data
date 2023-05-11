@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62730032932089,13.99895596983553],[76.60466135965405,14.00261942845028],[76.6056039437052,13.97413578736425],[76.62472091907169,13.97539098483558],[76.62730032932089,13.99895596983553]]]},"properties":{"region_id":"village_606135","name":"MYAKALURAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

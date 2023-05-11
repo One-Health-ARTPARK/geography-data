@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89126652737923,12.90393830148813],[77.87679179758939,12.88557562855373],[77.8920569204563,12.87870000018305],[77.89126652737923,12.90393830148813]]]},"properties":{"region_id":"village_622257","name":"ALAMBADI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31062738405082,16.21149645551209],[76.30562209112333,16.18556914998692],[76.33008973666482,16.19351456343347],[76.31062738405082,16.21149645551209]]]},"properties":{"region_id":"village_599682","name":"SULTANPUR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7866090819907,13.06444150349165],[76.76926342591966,13.0573487536133],[76.78424600792914,13.04389702939836],[76.7866090819907,13.06444150349165]]]},"properties":{"region_id":"village_612420","name":"RAMASAGARA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

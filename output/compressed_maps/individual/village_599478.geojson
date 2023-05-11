@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82077965458514,16.36585883167664],[75.83848363714412,16.38665948379116],[75.81598748601033,16.40756665484867],[75.80998752678062,16.37020284761947],[75.82077965458514,16.36585883167664]]]},"properties":{"region_id":"village_599478","name":"MARADAGI (R.C)","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

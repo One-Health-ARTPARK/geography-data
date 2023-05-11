@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20723009491097,15.53091509380979],[76.19153271823042,15.54718897513663],[76.17127242905767,15.54119964245175],[76.18122749212026,15.52031719169341],[76.20723009491097,15.53091509380979]]]},"properties":{"region_id":"village_601320","name":"NELGERI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

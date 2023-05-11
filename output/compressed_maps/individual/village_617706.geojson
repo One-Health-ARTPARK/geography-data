@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33074067332745,12.80970556080148],[75.3166589643298,12.79669901882983],[75.32468139776354,12.76434728832265],[75.33790662706815,12.79453783516205],[75.33074067332745,12.80970556080148]]]},"properties":{"region_id":"village_617706","name":"RAMAKUNJA","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89192164423106,12.97923082435445],[75.88231502770833,12.98399694689217],[75.87457883965406,12.97902530444154],[75.8815289810792,12.9683140149665],[75.89192164423106,12.97923082435445]]]},"properties":{"region_id":"village_614950","name":"BELAGODU","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

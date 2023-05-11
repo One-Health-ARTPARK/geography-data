@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3735678603756,17.25364964242169],[77.37537849110325,17.28210545744511],[77.35412711051349,17.2683581587748],[77.3735678603756,17.25364964242169]]]},"properties":{"region_id":"village_620466","name":"HOVINHALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

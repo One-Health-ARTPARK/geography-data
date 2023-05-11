@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07244254525246,12.451278662907],[77.05208432812829,12.44702591247486],[77.05217239153485,12.42636412123191],[77.06789127911684,12.42409323778569],[77.07244254525246,12.451278662907]]]},"properties":{"region_id":"village_614700","name":"NELLURU","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

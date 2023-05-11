@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71421179813305,16.87294905561271],[76.67768261331219,16.87053782501402],[76.6767140429501,16.84700204898182],[76.71480254355363,16.84560535414105],[76.71421179813305,16.87294905561271]]]},"properties":{"region_id":"village_620825","name":"SATHKHED","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

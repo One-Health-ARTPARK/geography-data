@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87346430576493,13.26846640539512],[76.86717001719416,13.28420366778637],[76.8490432640447,13.28319887785748],[76.84753858469172,13.27809815319391],[76.86798123509004,13.27575835321109],[76.87346430576493,13.26846640539512]]]},"properties":{"region_id":"village_611880","name":"AREMARANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41728465329521,12.35777315493339],[76.41575969742007,12.37030754308785],[76.40642803434851,12.36730068556457],[76.40607192941626,12.35677199430519],[76.41728465329521,12.35777315493339]]]},"properties":{"region_id":"village_618446","name":"LAKKURU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

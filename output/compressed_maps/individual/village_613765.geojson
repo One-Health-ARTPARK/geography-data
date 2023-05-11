@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67677795669523,12.98451366825684],[76.6693038788061,12.97935803127866],[76.65593616995366,12.97749990923215],[76.67659567396912,12.9695118885622],[76.6794822762779,12.97921545504745],[76.67677795669523,12.98451366825684]]]},"properties":{"region_id":"village_613765","name":"ALISANDRA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

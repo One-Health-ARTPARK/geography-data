@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.57784647722121,15.65799150426584],[74.5744227811324,15.66792056614621],[74.56295385719831,15.66371511127516],[74.56967769570413,15.65569541224319],[74.57784647722121,15.65799150426584]]]},"properties":{"region_id":"village_597857","name":"JAINKOPPA","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

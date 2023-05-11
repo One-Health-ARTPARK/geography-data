@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23010337912855,14.11961117016324],[75.2105210200352,14.12575302973689],[75.21984795099957,14.10394613985903],[75.23010337912855,14.11961117016324]]]},"properties":{"region_id":"village_607281","name":"NARASIPURA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25608350736802,16.12592771649362],[75.24783823344835,16.12477546936188],[75.24586741156705,16.09044083838304],[75.25501009568418,16.07622950992533],[75.26193173463868,16.12322108122204],[75.25608350736802,16.12592771649362]]]},"properties":{"region_id":"village_598309","name":"PANCHAGAON","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

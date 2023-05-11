@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09133111413348,13.07726003941218],[76.08163477146873,13.07481662927504],[76.08158839090932,13.06493923240572],[76.08990204406457,13.0675958027597],[76.09133111413348,13.07726003941218]]]},"properties":{"region_id":"village_615893","name":"ALADAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

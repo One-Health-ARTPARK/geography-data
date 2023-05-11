@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53101242740357,16.24139509081088],[75.5322696752211,16.2216101551536],[75.54330593058798,16.23442596072003],[75.53101242740357,16.24139509081088]]]},"properties":{"region_id":"village_598777","name":"CHIKK-SANSI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

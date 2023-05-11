@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8427972442099,12.80358724711186],[75.82523843338294,12.79891849172937],[75.83894895839722,12.78380378722696],[75.8427972442099,12.80358724711186]]]},"properties":{"region_id":"village_615027","name":"DODDAKALLUR","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

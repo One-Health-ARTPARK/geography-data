@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91178400252774,13.22551054645743],[75.88637064560281,13.2311125991371],[75.88712919700853,13.21905510257864],[75.91178400252774,13.22551054645743]]]},"properties":{"region_id":"village_615218","name":"SOMSHETTIHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

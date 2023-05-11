@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87268859011373,17.27702624501908],[76.8393280619304,17.28537550407821],[76.83343812633395,17.26800427345616],[76.86931480525656,17.26539455167893],[76.87268859011373,17.27702624501908]]]},"properties":{"region_id":"village_620272","name":"KESRATGI","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

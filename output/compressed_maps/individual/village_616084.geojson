@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04467625323788,12.90349367071281],[76.03168690851983,12.91366427873979],[76.03265415972919,12.89875455810505],[76.04467625323788,12.90349367071281]]]},"properties":{"region_id":"village_616084","name":"BALLEKERE","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

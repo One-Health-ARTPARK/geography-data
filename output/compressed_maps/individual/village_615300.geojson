@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09084027614358,13.27354349636875],[76.08487170205595,13.27566812592075],[76.08268047834525,13.2667301051384],[76.09059497492856,13.26785645225827],[76.09084027614358,13.27354349636875]]]},"properties":{"region_id":"village_615300","name":"MARANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

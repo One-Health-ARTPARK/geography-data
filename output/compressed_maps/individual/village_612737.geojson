@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1483374760474,12.83689646962596],[77.12177717548892,12.83185993751657],[77.13801623005313,12.81270280676661],[77.1483374760474,12.83689646962596]]]},"properties":{"region_id":"village_612737","name":"THAVAREKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

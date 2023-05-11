@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5789449547962,14.14265085920688],[75.56072310833335,14.14184422689003],[75.56461886836692,14.12729843458752],[75.5789449547962,14.14265085920688]]]},"properties":{"region_id":"village_606741","name":"KODIKOPPA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

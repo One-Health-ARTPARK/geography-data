@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20690301414398,12.96600540427604],[77.22221212138167,12.95899385185392],[77.22596084484901,12.97393326206269],[77.21087796427426,12.97980529007864],[77.20690301414398,12.96600540427604]]]},"properties":{"region_id":"village_625949","name":"HOSAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24121400843124,14.37633157296873],[75.23298311781734,14.37435974836323],[75.23359936421458,14.36877444608846],[75.23996745193666,14.37001000326143],[75.24121400843124,14.37633157296873]]]},"properties":{"region_id":"village_607740","name":"JAMBURUHOSAKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

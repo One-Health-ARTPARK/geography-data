@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62342277018058,13.03007253461731],[77.6166229204985,13.02991090415547],[77.61015589626489,13.01689468714117],[77.6215933278288,13.01637312510083],[77.62342277018058,13.03007253461731]]]},"properties":{"region_id":"village_938322","name":"KADUGONDANAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

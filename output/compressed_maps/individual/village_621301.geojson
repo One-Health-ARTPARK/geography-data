@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22447338251212,16.77453793884006],[77.1971337591771,16.75456479565078],[77.23382602717311,16.74595358474975],[77.22447338251212,16.77453793884006]]]},"properties":{"region_id":"village_621301","name":"MASKEHHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

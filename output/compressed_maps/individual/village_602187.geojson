@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88539474367786,15.15774863454987],[75.86445651981175,15.15682438311105],[75.85038632424822,15.1377256145039],[75.89787071319957,15.11778278892931],[75.88539474367786,15.15774863454987]]]},"properties":{"region_id":"village_602187","name":"KORLHALLI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

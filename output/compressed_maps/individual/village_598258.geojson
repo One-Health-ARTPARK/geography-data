@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14810893419208,15.88963254367423],[75.1438825236157,15.91876779118832],[75.11919900370576,15.91205954028537],[75.13527176562032,15.88179921841557],[75.14810893419208,15.88963254367423]]]},"properties":{"region_id":"village_598258","name":"JAKABAL","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

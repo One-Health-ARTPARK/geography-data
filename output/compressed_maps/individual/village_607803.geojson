@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39291442250983,14.24455385031029],[75.39198839686216,14.25812808227959],[75.37503671114094,14.25750675039918],[75.36691359944747,14.24987314270027],[75.39291442250983,14.24455385031029]]]},"properties":{"region_id":"village_607803","name":"DOOPADAHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

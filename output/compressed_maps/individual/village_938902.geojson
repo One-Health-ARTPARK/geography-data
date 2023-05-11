@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70253439168826,12.31419448947005],[76.69189548499942,12.31354212739729],[76.6932124986068,12.30514394207271],[76.70029976060853,12.30458785659345],[76.70253439168826,12.31419448947005]]]},"properties":{"region_id":"village_938902","name":"YARAGANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

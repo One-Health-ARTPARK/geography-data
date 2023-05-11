@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32185742834614,13.5518751179435],[75.31252264425066,13.54890085078613],[75.32080596333732,13.5398975554689],[75.32764663655776,13.54908078565844],[75.32185742834614,13.5518751179435]]]},"properties":{"region_id":"village_608995","name":"KAGGA","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

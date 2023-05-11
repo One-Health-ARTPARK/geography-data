@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.05427797845441,13.0253332840875],[78.05234838763812,13.03985185726728],[78.0443985696395,13.03051886521942],[78.05427797845441,13.0253332840875]]]},"properties":{"region_id":"village_622378","name":"KARANGUTTA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

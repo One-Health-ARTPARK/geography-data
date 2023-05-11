@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5107418458092,13.32862230143938],[77.493062906316,13.33194696159996],[77.49697186945926,13.31944804606077],[77.5112094380847,13.3166820108322],[77.5107418458092,13.32862230143938]]]},"properties":{"region_id":"village_625078","name":"HONNAGHATTA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

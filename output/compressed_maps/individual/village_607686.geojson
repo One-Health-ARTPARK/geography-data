@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2547870866192,14.48036963207071],[75.24933828955686,14.47942886807693],[75.25406793757978,14.4764802638495],[75.2547870866192,14.48036963207071]]]},"properties":{"region_id":"village_607686","name":"CHANNAPURA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

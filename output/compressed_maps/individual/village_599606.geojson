@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95757438339027,16.34637248963155],[75.93739520194904,16.33903048925339],[75.95088073036744,16.32574903485752],[75.95757438339027,16.34637248963155]]]},"properties":{"region_id":"village_599606","name":"KASHINAKUNTI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

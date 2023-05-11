@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81850279529381,14.94407234192047],[76.80516705817881,14.92328492384749],[76.82851933003408,14.91822003890893],[76.81850279529381,14.94407234192047]]]},"properties":{"region_id":"village_605148","name":"SWAMIKERE","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25308646899985,15.50205659022157],[75.25130225489646,15.48089925794431],[75.32506985350611,15.47872501938655],[75.32920229101185,15.50048081254752],[75.25308646899985,15.50205659022157]]]},"properties":{"region_id":"village_602340","name":"KALAWAD","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

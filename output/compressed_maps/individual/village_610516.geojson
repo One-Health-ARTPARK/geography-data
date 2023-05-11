@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16143007681572,14.30674636147025],[77.13809339206958,14.30693256258823],[77.13670074396484,14.28798630489641],[77.15814759200096,14.28637292350594],[77.16143007681572,14.30674636147025]]]},"properties":{"region_id":"village_610516","name":"SIDDAPURA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35038308468454,13.72717969229561],[75.34200040287097,13.72555726287215],[75.35083063455141,13.71738046982519],[75.35462071438441,13.72141850577811],[75.35038308468454,13.72717969229561]]]},"properties":{"region_id":"village_608161","name":"NANDAGADDE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

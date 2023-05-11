@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76789978056445,12.8428971981578],[77.75020335819781,12.84532771089796],[77.76028905543805,12.83012101619161],[77.76789978056445,12.8428971981578]]]},"properties":{"region_id":"village_613222","name":"BIKKANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

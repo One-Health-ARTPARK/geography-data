@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21050523804567,12.53281880823887],[77.21213388395923,12.52058218758791],[77.21906390827927,12.52292679548054],[77.21815097843749,12.53164481867905],[77.21050523804567,12.53281880823887]]]},"properties":{"region_id":"village_626316","name":"BACHAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

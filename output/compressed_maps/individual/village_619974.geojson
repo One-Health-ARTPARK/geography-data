@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60522979486872,17.64389249941189],[76.57584728303881,17.64602266913763],[76.5712840547937,17.62458500446007],[76.5930314220999,17.61905636250533],[76.60522979486872,17.64389249941189]]]},"properties":{"region_id":"village_619974","name":"CHITALI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

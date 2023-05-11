@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05349636732565,15.58579916156429],[75.01530944343949,15.57605059678932],[75.02053077794127,15.54703856994875],[75.04217887174457,15.5470407516304],[75.04890343516446,15.55758847394654],[75.05349636732565,15.58579916156429]]]},"properties":{"region_id":"village_602299","name":"KARADIGUDDA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

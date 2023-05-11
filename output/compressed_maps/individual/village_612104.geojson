@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39569050897249,13.2545959114355],[76.3845945572852,13.25884362253478],[76.37740532477795,13.24637469491831],[76.38970195775843,13.24453952948308],[76.39569050897249,13.2545959114355]]]},"properties":{"region_id":"village_612104","name":"CHIKKABIDARE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

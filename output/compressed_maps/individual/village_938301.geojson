@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36114749018566,15.24502758991169],[76.3507381789109,15.25913396027486],[76.3396945838956,15.26135298713222],[76.35553648699783,15.241424397802],[76.36114749018566,15.24502758991169]]]},"properties":{"region_id":"village_938301","name":"AMARAVATI","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

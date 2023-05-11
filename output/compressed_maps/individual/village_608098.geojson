@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23548367478102,13.77096048993115],[75.21504225757955,13.7830177147028],[75.20976866126702,13.76839001293074],[75.23548367478102,13.77096048993115]]]},"properties":{"region_id":"village_608098","name":"MARAGALALE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

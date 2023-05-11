@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96837727296867,13.14877421667653],[77.98025605719067,13.15175306164405],[77.9742214057783,13.15733161252841],[77.96837727296867,13.14877421667653]]]},"properties":{"region_id":"village_621822","name":"SONNENAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

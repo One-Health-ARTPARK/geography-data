@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41115650679218,13.28631035295875],[75.39839979651065,13.30238514544719],[75.37850746287556,13.29915858496492],[75.37972512372698,13.28057894896167],[75.41115650679218,13.28631035295875]]]},"properties":{"region_id":"village_609895","name":"THOTADUR","parent":"subdistrict_7194","parent_name":"KALASA"}}
+]}

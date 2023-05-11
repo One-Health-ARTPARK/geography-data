@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83899423448182,13.46856638273917],[74.83442777154741,13.45069746860926],[74.84775561635945,13.45108141937976],[74.83899423448182,13.46856638273917]]]},"properties":{"region_id":"village_608801","name":"PEJAMANGOOR","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

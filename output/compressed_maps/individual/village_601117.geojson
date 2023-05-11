@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68790978563389,15.85844984898091],[76.67416216456218,15.82991402499319],[76.68587791348538,15.82872823234774],[76.68790978563389,15.85844984898091]]]},"properties":{"region_id":"village_601117","name":"PUTKANHAL (D)","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

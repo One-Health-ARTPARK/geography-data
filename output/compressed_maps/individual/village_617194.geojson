@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39608031464738,12.92063909463756],[76.38185222750208,12.92069283688536],[76.37820009604064,12.91825869962977],[76.39402077811094,12.9163899897452],[76.39608031464738,12.92063909463756]]]},"properties":{"region_id":"village_617194","name":"KERECHIKENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

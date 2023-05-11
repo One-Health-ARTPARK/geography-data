@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5372298786085,13.21906840569802],[77.52729381787942,13.22105502987197],[77.5245953534191,13.21084896189075],[77.53530182215201,13.21379623986586],[77.5372298786085,13.21906840569802]]]},"properties":{"region_id":"village_612829","name":"KAKKEHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

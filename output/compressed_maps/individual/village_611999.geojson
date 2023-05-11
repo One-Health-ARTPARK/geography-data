@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41000861865926,13.35098245313629],[76.3984083980759,13.34207960787274],[76.41175970800725,13.33741947994838],[76.41000861865926,13.35098245313629]]]},"properties":{"region_id":"village_611999","name":"THAMMADIHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

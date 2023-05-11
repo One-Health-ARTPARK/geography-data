@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5230159835609,13.19682525588844],[77.52703938434648,13.20418369299926],[77.51846901953488,13.20146601460108],[77.5230159835609,13.19682525588844]]]},"properties":{"region_id":"village_612836","name":"BYRAPURA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

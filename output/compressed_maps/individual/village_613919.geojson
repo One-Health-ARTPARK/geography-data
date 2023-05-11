@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86545647238452,12.86172729018643],[76.85335920542211,12.86624489598964],[76.85411922408746,12.85813221865327],[76.86545647238452,12.86172729018643]]]},"properties":{"region_id":"village_613919","name":"RAMENAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

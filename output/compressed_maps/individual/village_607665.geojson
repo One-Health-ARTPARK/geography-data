@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18924848140908,14.30719814353244],[75.19391235739593,14.30226046877582],[75.19744722414868,14.30790393952638],[75.18924848140908,14.30719814353244]]]},"properties":{"region_id":"village_607665","name":"BRAHAMANAVADAINDUVALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54614392824172,14.33338197268482],[75.55345195495494,14.34674513369109],[75.55246696503106,14.37068458280504],[75.54315659854402,14.36907830299178],[75.54614392824172,14.33338197268482]]]},"properties":{"region_id":"village_604459","name":"TADAKANAHALLI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

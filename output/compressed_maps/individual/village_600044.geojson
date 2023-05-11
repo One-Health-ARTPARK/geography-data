@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3550659262237,18.23383547539709],[77.35594999569011,18.25029728707245],[77.33833567558503,18.25238648658131],[77.33621039737362,18.23439188085823],[77.3550659262237,18.23383547539709]]]},"properties":{"region_id":"village_600044","name":"HASSIKERI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07841071996374,15.66734856603628],[77.03752686750543,15.65870532989887],[77.03468986399436,15.63681417843438],[77.07121260555144,15.64548231699753],[77.07841071996374,15.66734856603628]]]},"properties":{"region_id":"village_604832","name":"NADANGA","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

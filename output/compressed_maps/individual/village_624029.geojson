@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97408468851368,13.6107359769438],[77.96917415976998,13.60238621358734],[77.98084651278485,13.59895019459633],[77.98407636277872,13.6068472062203],[77.97408468851368,13.6107359769438]]]},"properties":{"region_id":"village_624029","name":"MALLASETTYHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

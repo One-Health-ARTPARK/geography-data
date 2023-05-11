@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93034664958512,15.79094783854162],[75.88880893234848,15.81720076728715],[75.88655740208306,15.79618358876983],[75.93034664958512,15.79094783854162]]]},"properties":{"region_id":"village_601970","name":"NAGENDRAGAD","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

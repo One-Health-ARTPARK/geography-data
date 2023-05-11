@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66898805809593,14.19807842497911],[75.64825444318646,14.19632253037709],[75.647286731971,14.17849736393428],[75.6795823129301,14.17827515535087],[75.66898805809593,14.19807842497911]]]},"properties":{"region_id":"village_606828","name":"HARALAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96258517832868,12.94964445637236],[75.95465017964986,12.94242349787441],[75.96543640252668,12.93065700546011],[75.97035371266135,12.93906894249094],[75.96258517832868,12.94964445637236]]]},"properties":{"region_id":"village_616360","name":"SINGAPURA","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

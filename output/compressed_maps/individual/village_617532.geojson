@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04195590518069,12.93041569730615],[75.02795307736348,12.92510362439622],[75.0036097294783,12.90650110571575],[75.01874999227427,12.89209251129146],[75.04129070062606,12.89976548521595],[75.04195590518069,12.93041569730615]]]},"properties":{"region_id":"village_617532","name":"AMTADY","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

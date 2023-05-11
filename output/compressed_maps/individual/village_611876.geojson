@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85283099623416,13.23013866708674],[76.85437372224428,13.24795771190384],[76.83455304498351,13.24780819833285],[76.83526362178418,13.2407024210352],[76.85191949927675,13.23839800396414],[76.85283099623416,13.23013866708674]]]},"properties":{"region_id":"village_611876","name":"K.RAMAPURA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

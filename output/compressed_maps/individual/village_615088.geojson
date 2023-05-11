@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77041140215898,13.13222317248914],[75.76123175790647,13.13058094089195],[75.76829771316396,13.12239764110926],[75.77041140215898,13.13222317248914]]]},"properties":{"region_id":"village_615088","name":"DEVARAKESHAVI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

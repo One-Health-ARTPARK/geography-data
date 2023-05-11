@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89538254892733,12.23356311085216],[75.8788071544347,12.24281083437937],[75.88126258163783,12.22141311533317],[75.89538254892733,12.23356311085216]]]},"properties":{"region_id":"village_618035","name":"BETTAKERI","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

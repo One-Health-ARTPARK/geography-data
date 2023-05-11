@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87992059525425,12.49987903415073],[75.86609445095274,12.49000746420669],[75.87379505207666,12.47627222846582],[75.88260813981066,12.48441117188025],[75.87992059525425,12.49987903415073]]]},"properties":{"region_id":"village_939068","name":"MALURU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

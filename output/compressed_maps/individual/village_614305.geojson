@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73001352993269,12.34277529604608],[76.7360085902332,12.3227576925138],[76.74333535940876,12.3273568474312],[76.73908995053156,12.34077151068045],[76.73001352993269,12.34277529604608]]]},"properties":{"region_id":"village_614305","name":"HURALIKYATHANAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

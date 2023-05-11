@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91105358353813,13.4566592222618],[74.87475003444936,13.46446023880747],[74.87173291705989,13.44573554779889],[74.89551425325917,13.43339497874567],[74.91249781331501,13.43830958067659],[74.91105358353813,13.4566592222618]]]},"properties":{"region_id":"village_608805","name":"KENJOOR","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

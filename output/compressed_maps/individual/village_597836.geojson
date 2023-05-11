@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.43771857731751,15.68917496860664],[74.41734087038286,15.66861322108907],[74.43585649182586,15.66199453861649],[74.43771857731751,15.68917496860664]]]},"properties":{"region_id":"village_597836","name":"OTOLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

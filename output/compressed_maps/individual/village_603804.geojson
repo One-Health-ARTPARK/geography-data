@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55536282150223,14.24202249919049],[74.54707636976782,14.24568636844303],[74.54143741535086,14.23879493781876],[74.54934910781785,14.23623692216158],[74.55536282150223,14.24202249919049]]]},"properties":{"region_id":"village_603804","name":"KELGINA-MUDKANI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

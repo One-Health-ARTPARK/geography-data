@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97555806865594,13.98488878815846],[76.94167238862704,13.99528536659121],[76.95713353178583,13.95529875892954],[76.97555806865594,13.98488878815846]]]},"properties":{"region_id":"village_610286","name":"CHIKKABANAGERE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

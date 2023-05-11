@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26255411872638,13.76611554962276],[76.24054415930202,13.76818671026764],[76.24167880610683,13.75546636061822],[76.26432704942391,13.75277898598221],[76.26255411872638,13.76611554962276]]]},"properties":{"region_id":"village_605883","name":"MACHENAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

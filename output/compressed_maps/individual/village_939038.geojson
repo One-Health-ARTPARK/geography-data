@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86109295010567,12.72643399604033],[75.86069343657806,12.73308795305657],[75.85150645562656,12.72962065582313],[75.85556808506672,12.72264658965771],[75.86109295010567,12.72643399604033]]]},"properties":{"region_id":"village_939038","name":"EDEHALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

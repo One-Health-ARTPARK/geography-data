@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76571101566675,13.33369464153561],[77.75762759860045,13.32905497236752],[77.76648561047286,13.31746234359326],[77.77223457226863,13.32769451612645],[77.76571101566675,13.33369464153561]]]},"properties":{"region_id":"village_625330","name":"HOLERAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

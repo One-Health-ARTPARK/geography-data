@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55320399969604,13.00188199965212],[77.56054600000242,13.00051600030013],[77.55934100033787,13.01023299988492],[77.55320399969604,13.00188199965212]]]},"properties":{"region_id":"ward_bbmp66","name":"WARD NO.66 (SUBRAMANYA NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

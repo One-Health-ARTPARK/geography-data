@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58456139668529,15.5644279601884],[76.55054059023688,15.56655394870864],[76.55178127857415,15.53942877059067],[76.57765504439828,15.53823927700417],[76.58456139668529,15.5644279601884]]]},"properties":{"region_id":"village_601693","name":"SINGANHAL","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

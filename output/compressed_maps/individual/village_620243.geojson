@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94114989334155,17.42282769354359],[76.92046120865176,17.42404446134414],[76.92072523754389,17.40128975510142],[76.9414214665123,17.40122339051723],[76.94114989334155,17.42282769354359]]]},"properties":{"region_id":"village_620243","name":"KEROOR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

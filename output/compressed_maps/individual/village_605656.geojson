@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11217355435447,14.15422733145133],[76.0936304196059,14.15781812665411],[76.09748371980116,14.1287713683882],[76.11732294842814,14.12889081690317],[76.11217355435447,14.15422733145133]]]},"properties":{"region_id":"village_605656","name":"KADUR","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

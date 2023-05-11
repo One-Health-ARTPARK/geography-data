@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58608824327199,13.23321139376513],[77.57742216253811,13.23174930826096],[77.57440849867186,13.21965915382921],[77.58624037842044,13.21977639257574],[77.58608824327199,13.23321139376513]]]},"properties":{"region_id":"village_625294","name":"JALIGE","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

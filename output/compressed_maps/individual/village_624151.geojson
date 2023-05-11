@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9501854115114,13.46614464710544],[77.95026144167298,13.47520769160984],[77.94178214129471,13.47961025038681],[77.938123349885,13.46485789996346],[77.9501854115114,13.46614464710544]]]},"properties":{"region_id":"village_624151","name":"GANGAPURA","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

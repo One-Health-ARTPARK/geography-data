@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81954503273231,13.54277674140759],[74.79414261145581,13.51502364623873],[74.83040602708397,13.51120610869286],[74.81954503273231,13.54277674140759]]]},"properties":{"region_id":"village_608774","name":"BILLADI","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

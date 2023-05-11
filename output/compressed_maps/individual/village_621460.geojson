@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.26959236548844,13.49536090526859],[78.26454393793227,13.511143292459],[78.24593620669108,13.50070126853621],[78.26959236548844,13.49536090526859]]]},"properties":{"region_id":"village_621460","name":"THIMMANAPALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

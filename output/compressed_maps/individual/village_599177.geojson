@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78033828365103,17.37861883819246],[75.74545664442869,17.40921284924907],[75.74319523788063,17.36992973487367],[75.78033828365103,17.37861883819246]]]},"properties":{"region_id":"village_599177","name":"TAKALI","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55077900792936,13.65660117187924],[76.58479306466134,13.6730419218293],[76.5690109011493,13.68937070988154],[76.55077900792936,13.65660117187924]]]},"properties":{"region_id":"village_610213","name":"MELANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

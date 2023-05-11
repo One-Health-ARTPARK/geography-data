@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51795398122123,17.5708250809646],[76.4919233041608,17.57633394270832],[76.4897247671657,17.56444415507161],[76.50942788219028,17.55555831742296],[76.51795398122123,17.5708250809646]]]},"properties":{"region_id":"village_620025","name":"JEERHALLI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

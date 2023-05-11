@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79023854338631,12.32307049911404],[75.79087698723694,12.30702791045874],[75.81006767868193,12.29250977395401],[75.81634742602205,12.32780684099757],[75.79023854338631,12.32307049911404]]]},"properties":{"region_id":"village_617839","name":"SODLURU KATTEMADU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

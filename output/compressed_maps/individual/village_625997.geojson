@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25900205440203,12.90627708222014],[77.24456414923348,12.89985802403385],[77.24991856374314,12.88158474269475],[77.26343780676541,12.89681093004404],[77.25900205440203,12.90627708222014]]]},"properties":{"region_id":"village_625997","name":"NAGAMANGALA","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

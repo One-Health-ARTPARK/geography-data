@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9210534057803,13.20942737768713],[77.91707774043896,13.20167215041267],[77.92345506697266,13.20187578795912],[77.9210534057803,13.20942737768713]]]},"properties":{"region_id":"village_625553","name":"AGRAHARA VADDAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

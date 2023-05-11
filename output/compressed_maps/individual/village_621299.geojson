@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19798755787427,16.77651106444044],[77.20561715926438,16.80072331157981],[77.19532584079421,16.81357761318801],[77.15724930030743,16.78832849512613],[77.19798755787427,16.77651106444044]]]},"properties":{"region_id":"village_621299","name":"MUNDERGA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

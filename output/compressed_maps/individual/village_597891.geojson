@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.57856939643426,15.63202371289063],[74.57599034504598,15.64578482954005],[74.5682716525858,15.64522465955584],[74.56547449165807,15.62934243049389],[74.57856939643426,15.63202371289063]]]},"properties":{"region_id":"village_597891","name":"CHAPAGAON","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

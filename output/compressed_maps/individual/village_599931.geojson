@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12651434467253,17.96438236747669],[77.13562351874985,17.9768167763232],[77.12357253797583,17.98121433435666],[77.11918967291193,17.97014184103044],[77.12651434467253,17.96438236747669]]]},"properties":{"region_id":"village_599931","name":"BYLHALLI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

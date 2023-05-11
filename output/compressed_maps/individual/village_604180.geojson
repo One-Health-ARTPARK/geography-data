@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20672973702507,14.64428592422403],[75.18223199243944,14.65215163476361],[75.17182935699503,14.63319489499836],[75.19764187555695,14.62352075156509],[75.20672973702507,14.64428592422403]]]},"properties":{"region_id":"village_604180","name":"HONKAN","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

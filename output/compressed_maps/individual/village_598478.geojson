@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45730244898812,16.50356507653852],[75.42331383028035,16.47979618888014],[75.45987090604898,16.46585997717086],[75.45730244898812,16.50356507653852]]]},"properties":{"region_id":"village_598478","name":"KOLUR","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

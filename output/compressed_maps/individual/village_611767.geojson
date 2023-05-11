@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84664627163762,13.37513353620519],[76.83416722499811,13.37882890181891],[76.8323701623418,13.37110694085294],[76.84720861501776,13.3693257683116],[76.84664627163762,13.37513353620519]]]},"properties":{"region_id":"village_611767","name":"MUDDAPURA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97490265732408,12.98398163003131],[76.9615272926368,12.9808961527175],[76.9652707154979,12.96944694499399],[76.97527342205616,12.97659552981618],[76.97490265732408,12.98398163003131]]]},"properties":{"region_id":"village_612480","name":"BASAVANAMATHIKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

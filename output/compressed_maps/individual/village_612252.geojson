@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72219498514859,13.13059259849956],[76.70995722856892,13.13624220280173],[76.697714856438,13.12966913846661],[76.71271297790723,13.12541624323595],[76.72219498514859,13.13059259849956]]]},"properties":{"region_id":"village_612252","name":"KALLANAKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

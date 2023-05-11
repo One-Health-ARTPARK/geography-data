@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21168741531962,13.72817214869503],[75.20946356776112,13.73582121853974],[75.19239540571836,13.73702404075908],[75.19946550319709,13.7237464388929],[75.20385289803184,13.73137381907618],[75.21168741531962,13.72817214869503]]]},"properties":{"region_id":"village_608192","name":"HIRE GADDE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62422663984788,11.76802219432146],[76.60513359758276,11.76240676947108],[76.6135966151322,11.74959737951608],[76.62650061839702,11.7542442182212],[76.62422663984788,11.76802219432146]]]},"properties":{"region_id":"village_619564","name":"HONNEGOWDANAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

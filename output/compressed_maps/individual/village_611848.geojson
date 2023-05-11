@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97935067959385,13.27615743528663],[76.96674589291406,13.27453639118477],[76.96806655090533,13.26428673151506],[76.98319523159397,13.26184587096376],[76.97935067959385,13.27615743528663]]]},"properties":{"region_id":"village_611848","name":"BASTHIKATTE KAVAL","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

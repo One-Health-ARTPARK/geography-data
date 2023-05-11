@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84801314094818,14.22151523811879],[76.81921109311494,14.22949511825559],[76.8118733896121,14.21807207063916],[76.83277538526484,14.21166306228386],[76.84801314094818,14.22151523811879]]]},"properties":{"region_id":"village_605406","name":"GOSIKERE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

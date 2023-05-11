@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.119512775509,16.09215675808681],[77.09683479355414,16.09139429248787],[77.09409231833426,16.07668203607163],[77.11660301404709,16.07407608796581],[77.119512775509,16.09215675808681]]]},"properties":{"region_id":"village_600988","name":"TUPDUR. K","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94109650196262,15.63662853668273],[76.93573777941477,15.61344312328389],[76.96063627239478,15.6031777409286],[76.97203756265677,15.63092018443067],[76.94109650196262,15.63662853668273]]]},"properties":{"region_id":"village_604806","name":"BOGGUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

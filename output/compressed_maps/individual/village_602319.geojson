@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18691541639839,15.64928878690831],[75.18589489989544,15.6556323234683],[75.1695204207942,15.65989415546243],[75.17877946084512,15.60398952175958],[75.1967004063055,15.61299916620354],[75.18691541639839,15.64928878690831]]]},"properties":{"region_id":"village_602319","name":"BYALAL","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

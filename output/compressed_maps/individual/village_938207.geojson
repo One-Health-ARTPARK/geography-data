@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67894072678841,13.06290451564184],[77.67002669745692,13.06578184021809],[77.66424707546342,13.05096523493292],[77.67839572301428,13.05243921334904],[77.67894072678841,13.06290451564184]]]},"properties":{"region_id":"village_938207","name":"BILISHIVALE","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82707759067797,13.30976331647799],[76.81254021727297,13.32148781908823],[76.78435401165308,13.32064280651493],[76.80202700503865,13.29384101466546],[76.82707759067797,13.30976331647799]]]},"properties":{"region_id":"village_611861","name":"MARASETTYHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

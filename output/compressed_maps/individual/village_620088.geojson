@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14662087056159,17.34804717688818],[76.09946592699421,17.36454508795369],[76.06803416061904,17.30679317556518],[76.13670619967138,17.28857560631017],[76.14662087056159,17.34804717688818]]]},"properties":{"region_id":"village_620088","name":"MANNUR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

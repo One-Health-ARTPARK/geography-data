@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86447883486798,13.77249776033037],[77.85825481868449,13.7810143176387],[77.85482112795371,13.77640136399586],[77.86447883486798,13.77249776033037]]]},"properties":{"region_id":"village_623865","name":"KAGANAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

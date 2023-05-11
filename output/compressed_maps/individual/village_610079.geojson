@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5089207985793,13.43955774384237],[76.48651865386378,13.44019779528851],[76.48981257786316,13.42506967779182],[76.50999176411943,13.42588096368731],[76.5089207985793,13.43955774384237]]]},"properties":{"region_id":"village_610079","name":"MADAPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

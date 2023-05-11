@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97622505542907,15.15084456330225],[76.0037114582563,15.14826555475882],[75.99144150957943,15.1846633470762],[75.97570823416788,15.18045401351012],[75.97622505542907,15.15084456330225]]]},"properties":{"region_id":"village_601735","name":"NILOGIPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

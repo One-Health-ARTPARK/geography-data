@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61656222585313,15.86786656601731],[76.61965128889875,15.88075387580229],[76.60781209629415,15.88257158245861],[76.60505035040777,15.87418744044502],[76.61656222585313,15.86786656601731]]]},"properties":{"region_id":"village_601107","name":"JOGALDINNI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

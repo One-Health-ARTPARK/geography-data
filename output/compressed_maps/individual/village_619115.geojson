@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41310100930757,11.78625393030975],[76.42766966470411,11.79424523939309],[76.39866670626446,11.82087103476051],[76.38560655305018,11.78933903703619],[76.41310100930757,11.78625393030975]]]},"properties":{"region_id":"village_619115","name":"KURNAGALA","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

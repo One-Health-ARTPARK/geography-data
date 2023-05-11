@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02779717979298,14.21045254541568],[77.02181397448332,14.19865463339848],[77.03639026262844,14.19434397969615],[77.03839797200658,14.20490802080162],[77.02779717979298,14.21045254541568]]]},"properties":{"region_id":"village_610542","name":"PENNOBANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

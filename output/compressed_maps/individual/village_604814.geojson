@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0642870987061,15.80922401883851],[77.02587369420966,15.81330659543388],[77.01987872474014,15.82739319732405],[76.99573667982169,15.80752164650551],[77.06389194860063,15.80222687129405],[77.0642870987061,15.80922401883851]]]},"properties":{"region_id":"village_604814","name":"MATUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

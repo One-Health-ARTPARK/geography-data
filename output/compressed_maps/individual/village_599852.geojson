@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07102713729407,18.09490870093661],[77.01791197649442,18.06321724349453],[77.05358919082113,18.04044687860538],[77.08313804963802,18.03813520999978],[77.07102713729407,18.09490870093661]]]},"properties":{"region_id":"village_599852","name":"SAIGAON","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

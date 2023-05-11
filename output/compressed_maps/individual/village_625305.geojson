@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65579454490795,13.24935424226291],[77.64675683945106,13.25514411091557],[77.64542992056596,13.24286702016046],[77.65579454490795,13.24935424226291]]]},"properties":{"region_id":"village_625305","name":"DEVAGANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

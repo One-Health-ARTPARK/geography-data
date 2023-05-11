@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40404334084798,13.0817608260561],[76.39318507081222,13.08297800939459],[76.38913269242441,13.07345248702717],[76.40358619298514,13.07565671569422],[76.40404334084798,13.0817608260561]]]},"properties":{"region_id":"village_617133","name":"SOMENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

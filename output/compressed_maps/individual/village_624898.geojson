@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31922287436622,13.13705665231203],[77.31106368730576,13.13690004166672],[77.31078110797348,13.12513663803204],[77.32204118021846,13.12910074006887],[77.31922287436622,13.13705665231203]]]},"properties":{"region_id":"village_624898","name":"ARALASANDRA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34611436728994,16.80344305828327],[76.31010797163492,16.80770489409869],[76.31046983745348,16.76736884076649],[76.35920548941665,16.76446501859896],[76.34611436728994,16.80344305828327]]]},"properties":{"region_id":"village_599381","name":"DHAVALAR","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

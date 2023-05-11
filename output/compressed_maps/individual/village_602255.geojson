@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8981426544387,15.46416368658581],[74.86957147247082,15.45715959508704],[74.87304062862226,15.44669239866811],[74.89845963385906,15.44980429022606],[74.8981426544387,15.46416368658581]]]},"properties":{"region_id":"village_602255","name":"MANDIHAL","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

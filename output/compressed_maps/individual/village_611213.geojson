@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29858162888436,13.38532018015971],[77.28505223252589,13.38525321160926],[77.28535339640995,13.37889537974562],[77.29604725646739,13.37682934071097],[77.29858162888436,13.38532018015971]]]},"properties":{"region_id":"village_611213","name":"THIMMANAYAKANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

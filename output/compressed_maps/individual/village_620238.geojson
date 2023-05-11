@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92046120865176,17.42404446134414],[76.88303170838262,17.41614278997523],[76.88663818121972,17.39261035108402],[76.91894229748821,17.40460950217293],[76.92046120865176,17.42404446134414]]]},"properties":{"region_id":"village_620238","name":"TAWARGERA","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

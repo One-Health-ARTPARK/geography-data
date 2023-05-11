@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73489283297432,13.19492224063503],[75.73099271256575,13.19816259705219],[75.71208013025475,13.19041872056836],[75.72814432689772,13.18246312245007],[75.73489283297432,13.19492224063503]]]},"properties":{"region_id":"village_609848","name":"BASAGAL","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35434228720271,15.80157186046072],[76.33518006251876,15.78562174574848],[76.35542566857163,15.76511673113076],[76.36609074459285,15.77966181397146],[76.35434228720271,15.80157186046072]]]},"properties":{"region_id":"village_601530","name":"NANDAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

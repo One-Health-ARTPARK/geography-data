@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52105398035265,18.28801985236082],[77.5097519627627,18.29018988683958],[77.49918552171775,18.27258115229611],[77.51410101483656,18.26858581356299],[77.52105398035265,18.28801985236082]]]},"properties":{"region_id":"village_600070","name":"NANDIYAL","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

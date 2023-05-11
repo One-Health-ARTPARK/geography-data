@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5568994231859,13.32829424329207],[77.53407429872455,13.33394105791228],[77.53341489357045,13.32582541613636],[77.5511552810863,13.31867527485429],[77.5568994231859,13.32829424329207]]]},"properties":{"region_id":"village_625101","name":"MALLATHAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83238210806165,13.58996472042216],[77.80943368710182,13.59229681646783],[77.80083380708791,13.5631713347694],[77.82415326876482,13.56466869687654],[77.83238210806165,13.58996472042216]]]},"properties":{"region_id":"village_623464","name":"KOOTHANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68590406292684,14.48932210778195],[75.66979754873205,14.49327053927208],[75.6382184214654,14.4822820213313],[75.67400879717178,14.46543437022091],[75.68590406292684,14.48932210778195]]]},"properties":{"region_id":"village_604568","name":"KOTIHAL","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

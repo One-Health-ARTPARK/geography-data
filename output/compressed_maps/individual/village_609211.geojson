@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92039592063719,13.70365635190638],[75.91162366143654,13.69233403036424],[75.92241429512086,13.69294658076794],[75.92039592063719,13.70365635190638]]]},"properties":{"region_id":"village_609211","name":"BELIBASAVANAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

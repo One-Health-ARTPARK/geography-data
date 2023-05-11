@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85368237890359,12.41734681393846],[76.82780432172778,12.42041210635717],[76.826887346369,12.4024858545487],[76.84770071618912,12.40211680176362],[76.85368237890359,12.41734681393846]]]},"properties":{"region_id":"village_614262","name":"BALLEKERE","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

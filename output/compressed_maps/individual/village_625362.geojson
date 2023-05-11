@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71165398031707,13.28528847395251],[77.71112257770024,13.29513919227933],[77.70387433709271,13.2882429964467],[77.71165398031707,13.28528847395251]]]},"properties":{"region_id":"village_625362","name":"MALIGENAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

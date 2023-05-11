@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08273367084637,14.63222615821081],[75.06686650185229,14.64121996789879],[75.06661006174316,14.62734392038018],[75.08273367084637,14.63222615821081]]]},"properties":{"region_id":"village_607372","name":"ALAHALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

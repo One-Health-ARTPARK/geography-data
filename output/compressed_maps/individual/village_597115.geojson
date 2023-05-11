@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.28348670802168,16.52495623712954],[74.2814998668173,16.53972130047636],[74.2639106675116,16.53974193662348],[74.26959882842631,16.5221414608619],[74.28348670802168,16.52495623712954]]]},"properties":{"region_id":"village_597115","name":"SULAGAON","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96391769550736,13.12882251062373],[75.95208795770068,13.11244737420203],[75.9792980053307,13.11125364110388],[75.96391769550736,13.12882251062373]]]},"properties":{"region_id":"village_615339","name":"HANDRALU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

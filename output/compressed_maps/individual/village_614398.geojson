@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.754052320558,12.6117675749008],[76.73078120589632,12.61407383967667],[76.73372467878194,12.59379607692322],[76.75835398270169,12.58889148230369],[76.754052320558,12.6117675749008]]]},"properties":{"region_id":"village_614398","name":"BILLENAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

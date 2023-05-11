@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16347183978343,13.7146528342369],[75.15152531844743,13.71557964333888],[75.14804073103043,13.70240111515105],[75.15796380494244,13.70457212008775],[75.16347183978343,13.7146528342369]]]},"properties":{"region_id":"village_608183","name":"BOBLIHINCHUVALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

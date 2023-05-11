@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51049454564203,17.41397811381728],[77.46206291020404,17.42835627259712],[77.45470374424443,17.39800860959705],[77.49776819921662,17.39609587321392],[77.51049454564203,17.41397811381728]]]},"properties":{"region_id":"village_620398","name":"SOMLINGADHALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

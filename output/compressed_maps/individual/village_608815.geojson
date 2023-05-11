@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86983785057008,13.36957519026555],[74.8634998139755,13.35043671352112],[74.84267234206101,13.34351341531786],[74.89524844656316,13.30844008097016],[74.9178353365754,13.32337194821613],[74.86983785057008,13.36957519026555]]]},"properties":{"region_id":"village_608815","name":"BOMMARABETTU","parent":"subdistrict_5523","parent_name":"UDUPI"}}
+]}

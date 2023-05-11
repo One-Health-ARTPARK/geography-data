@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00712102212638,16.53293287644884],[77.00346695575197,16.55274572972399],[76.98791135011572,16.53824062495633],[77.00712102212638,16.53293287644884]]]},"properties":{"region_id":"village_600594","name":"MYDARGOL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

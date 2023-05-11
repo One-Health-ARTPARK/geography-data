@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.585670019854,13.12218165421649],[76.57636946696289,13.12198791491531],[76.5730012672498,13.11206987561777],[76.5842935720329,13.10822172388012],[76.585670019854,13.12218165421649]]]},"properties":{"region_id":"village_612324","name":"ALADAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32764385575949,12.58152874344998],[76.30404466728459,12.579274876404],[76.31816321853442,12.56526160317064],[76.32764385575949,12.58152874344998]]]},"properties":{"region_id":"village_618550","name":"YALEMUDDANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

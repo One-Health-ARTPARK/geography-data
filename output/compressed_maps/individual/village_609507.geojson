@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98631744948287,13.53705617635227],[75.97123994648476,13.5207580883304],[75.99236896752224,13.51830080191736],[75.98631744948287,13.53705617635227]]]},"properties":{"region_id":"village_609507","name":"CHIKAPATNAGERE","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

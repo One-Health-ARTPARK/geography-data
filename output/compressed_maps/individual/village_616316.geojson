@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9340233041071,13.0027656985481],[75.93668456391327,13.01433627715184],[75.92404151936789,13.01957787381252],[75.91982597325959,13.00893632985183],[75.9340233041071,13.0027656985481]]]},"properties":{"region_id":"village_616316","name":"KARJUVALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

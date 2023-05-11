@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98893101177265,12.57396247594592],[75.98464110058083,12.56500275714086],[75.98986137585307,12.55851778581275],[75.99512402731469,12.56683867122358],[75.98893101177265,12.57396247594592]]]},"properties":{"region_id":"village_617971","name":"MANAJUR","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61652191759418,15.51065623134994],[74.60445414406028,15.51386052559104],[74.59286658841276,15.49422105276313],[74.61616239489972,15.49125611238559],[74.61652191759418,15.51065623134994]]]},"properties":{"region_id":"village_597984","name":"HALAGA","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

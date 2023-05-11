@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55234988039813,15.77754436320023],[76.53467581248077,15.79452592138489],[76.49118411268596,15.76181503357155],[76.55202720438005,15.76830364455031],[76.55234988039813,15.77754436320023]]]},"properties":{"region_id":"village_601065","name":"HIREBHERGI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

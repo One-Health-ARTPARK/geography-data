@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25757538697742,13.1969068265254],[77.24781664832165,13.20218723638404],[77.247273561279,13.18704170796565],[77.2592612816889,13.18795565529751],[77.25757538697742,13.1969068265254]]]},"properties":{"region_id":"village_624760","name":"AVVERAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

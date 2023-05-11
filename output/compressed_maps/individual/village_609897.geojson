@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41811467141852,13.2686645454574],[75.40640115786387,13.28620227995938],[75.37972512372698,13.28057894896167],[75.3964998849109,13.25945392448279],[75.41811467141852,13.2686645454574]]]},"properties":{"region_id":"village_609897","name":"THALAGODU","parent":"subdistrict_7194","parent_name":"KALASA"}}
+]}

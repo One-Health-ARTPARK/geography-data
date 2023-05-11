@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.30811693041738,15.56201322933347],[74.26359867054629,15.56250679733556],[74.29220160805025,15.52243768655505],[74.30811693041738,15.56201322933347]]]},"properties":{"region_id":"village_597914","name":"KELIL","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

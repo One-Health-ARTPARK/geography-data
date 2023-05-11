@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94607456184026,12.86028294515391],[77.94412201693414,12.86673674097481],[77.93650921034502,12.86682652259942],[77.93783696595699,12.85755492444308],[77.94607456184026,12.86028294515391]]]},"properties":{"region_id":"village_622273","name":"DADINAYAKANADODDI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

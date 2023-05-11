@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31227932788103,15.0586139759107],[75.306091922965,15.07279175915742],[75.28023034879669,15.06854118015051],[75.28947441281773,15.04887496355295],[75.31227932788103,15.0586139759107]]]},"properties":{"region_id":"village_603972","name":"MADAPUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

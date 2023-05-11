@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04877127520932,14.57101638438361],[75.04448477721054,14.57295783752626],[75.03744203873089,14.56989638688418],[75.03811480656164,14.56555305123075],[75.04877127520932,14.57101638438361]]]},"properties":{"region_id":"village_607397","name":"JIGARIKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

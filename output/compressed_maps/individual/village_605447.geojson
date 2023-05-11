@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30244881658889,14.38959652551488],[76.27244223113131,14.39347682524946],[76.28194947850142,14.36677934270528],[76.30935321816476,14.36471771847662],[76.30244881658889,14.38959652551488]]]},"properties":{"region_id":"village_605447","name":"YELAGODU","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

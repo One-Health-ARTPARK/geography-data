@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52748902216332,12.82595451168929],[75.48780356462636,12.81386701286342],[75.49889356355648,12.78525041640561],[75.53038089027687,12.7978918866865],[75.52748902216332,12.82595451168929]]]},"properties":{"region_id":"village_617702","name":"KONAJE","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10984447969956,15.49342726298671],[75.10150346220026,15.49361799505773],[75.10023928079377,15.48253081444158],[75.1158160316155,15.48538783102362],[75.10984447969956,15.49342726298671]]]},"properties":{"region_id":"village_602313","name":"MARADAGI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

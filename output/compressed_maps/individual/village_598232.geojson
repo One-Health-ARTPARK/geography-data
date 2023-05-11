@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10371894819113,15.83007483443143],[75.08308489195417,15.83264837429143],[75.07070797010007,15.81741549507866],[75.09939064255671,15.81170242563187],[75.10371894819113,15.83007483443143]]]},"properties":{"region_id":"village_598232","name":"GANIYAL","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

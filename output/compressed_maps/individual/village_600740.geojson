@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3583869099383,16.30505362655636],[77.38266605560685,16.29892510414561],[77.39396875678118,16.32504153341802],[77.36377499462556,16.33190104078015],[77.3583869099383,16.30505362655636]]]},"properties":{"region_id":"village_600740","name":"WADLOOR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

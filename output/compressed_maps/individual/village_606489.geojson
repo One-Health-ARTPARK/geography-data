@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42440089937824,14.58090559023173],[76.43294075473077,14.61796963813858],[76.40245782981701,14.61641588952503],[76.38544175471378,14.58026072792335],[76.42440089937824,14.58090559023173]]]},"properties":{"region_id":"village_606489","name":"ANABUR","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

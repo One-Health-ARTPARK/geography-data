@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23571707686922,12.83404701331905],[77.19108723177156,12.83307680890534],[77.20264774190319,12.80469518832974],[77.22904771099147,12.81661455134615],[77.23571707686922,12.83404701331905]]]},"properties":{"region_id":"village_626051","name":"JALAMANGALA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

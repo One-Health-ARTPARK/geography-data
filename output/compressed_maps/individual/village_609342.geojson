@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82101292909711,13.57870768893521],[75.80729751298041,13.58159821691065],[75.80328162021273,13.5652858214232],[75.81717557291823,13.57151842357669],[75.82101292909711,13.57870768893521]]]},"properties":{"region_id":"village_609342","name":"GONAGILAKATTE","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

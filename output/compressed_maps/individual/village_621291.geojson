@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05494692711396,16.8162224473482],[77.03781360006104,16.82235523005566],[77.03486814471955,16.81219739986854],[77.05131244359531,16.80719755019891],[77.05494692711396,16.8162224473482]]]},"properties":{"region_id":"village_621291","name":"BOMSHATHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

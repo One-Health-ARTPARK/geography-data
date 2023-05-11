@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77569570035733,13.36848632859378],[76.75518144753163,13.36188297749949],[76.75845475399112,13.34922128268625],[76.77621520877659,13.34530424148232],[76.77569570035733,13.36848632859378]]]},"properties":{"region_id":"village_611753","name":"SHIVASANDRA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

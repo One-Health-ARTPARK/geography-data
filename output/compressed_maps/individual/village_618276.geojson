@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1165673513142,12.30360906858697],[76.10613182188192,12.31440108487624],[76.09508858612637,12.31251158505108],[76.10444526442465,12.29207423010938],[76.1165673513142,12.30360906858697]]]},"properties":{"region_id":"village_618276","name":"ICHANAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

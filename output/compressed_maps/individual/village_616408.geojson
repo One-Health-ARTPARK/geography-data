@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03900514361446,13.00191761034425],[76.03432093782727,13.01235091001938],[76.0241508838823,13.01395275898583],[76.02376927006713,13.00169106513132],[76.03515202470618,13.00827501543607],[76.03900514361446,13.00191761034425]]]},"properties":{"region_id":"village_616408","name":"RAJANAHALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

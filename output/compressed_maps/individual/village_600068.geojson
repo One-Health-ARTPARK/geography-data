@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50756710709213,18.25777236894502],[77.49293833051696,18.2657845815527],[77.47169611487642,18.25409075637516],[77.49593104193606,18.24368843184117],[77.50756710709213,18.25777236894502]]]},"properties":{"region_id":"village_600068","name":"SUNDHAL","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

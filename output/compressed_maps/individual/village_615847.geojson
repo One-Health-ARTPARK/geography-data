@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99074590552472,13.08669167854526],[75.97727079111587,13.08209183452751],[75.98434805694255,13.07096836879425],[75.99074590552472,13.08669167854526]]]},"properties":{"region_id":"village_615847","name":"GUNDASETTIHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

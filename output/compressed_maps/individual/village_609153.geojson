@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70540544332675,13.71690086974062],[75.69450802554832,13.71266376695718],[75.70753357271487,13.70734463584484],[75.70540544332675,13.71690086974062]]]},"properties":{"region_id":"village_609153","name":"BASAVANAHALLY","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

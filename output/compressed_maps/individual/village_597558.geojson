@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45800918888503,16.27517654568514],[74.44598084686362,16.2985949433989],[74.41499728629627,16.27755645207931],[74.4176060080799,16.25807580442551],[74.45584315552792,16.25331045847862],[74.45800918888503,16.27517654568514]]]},"properties":{"region_id":"village_597558","name":"SOLLAPUR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

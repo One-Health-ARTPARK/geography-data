@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53656349977162,15.22396251431756],[76.48376392034892,15.20702551860781],[76.48117669243435,15.19184367548372],[76.54849729831626,15.194411426519],[76.53656349977162,15.22396251431756]]]},"properties":{"region_id":"village_604742","name":"KAKUBAL","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

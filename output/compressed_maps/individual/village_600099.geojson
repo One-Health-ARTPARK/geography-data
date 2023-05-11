@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48719951797635,18.12291740084842],[77.4729970164344,18.14104053642101],[77.45197106354058,18.13541332044507],[77.4636863994495,18.1138984337725],[77.48719951797635,18.12291740084842]]]},"properties":{"region_id":"village_600099","name":"SHAMBELLI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

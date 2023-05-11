@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70503214125588,13.5820821027136],[74.69752941650088,13.57702093241176],[74.67844739130425,13.57082156766466],[74.67979093875381,13.56247048822538],[74.70037974995763,13.57359632610864],[74.70503214125588,13.5820821027136]]]},"properties":{"region_id":"village_608728","name":"GOPADI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

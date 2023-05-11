@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.226126439692,15.07906943910041],[75.23241161237087,15.08924497088772],[75.21881559035864,15.0881821327184],[75.226126439692,15.07906943910041]]]},"properties":{"region_id":"village_603913","name":"CHIKBENDIGERI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

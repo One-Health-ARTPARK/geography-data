@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66038617790191,14.50707024223406],[74.63928489300481,14.52785201068664],[74.6347813749628,14.5032179439447],[74.66038617790191,14.50707024223406]]]},"properties":{"region_id":"village_603166","name":"HOSUR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

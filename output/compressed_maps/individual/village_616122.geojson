@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12745607415049,12.83082161881344],[76.11783550224064,12.81696156130182],[76.13325091707172,12.81917249599714],[76.12745607415049,12.83082161881344]]]},"properties":{"region_id":"village_616122","name":"NAYAKARAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

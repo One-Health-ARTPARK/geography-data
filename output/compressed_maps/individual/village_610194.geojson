@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59325986790923,13.43057325340991],[76.59477229883727,13.44251510747638],[76.58442405728627,13.44373406259935],[76.57788725292268,13.43308848961786],[76.59325986790923,13.43057325340991]]]},"properties":{"region_id":"village_610194","name":"SAVASHETTIHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

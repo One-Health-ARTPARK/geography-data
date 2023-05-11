@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85997733333866,11.97801620615488],[76.86097463709166,11.99885138063767],[76.83704591064333,11.99970292566878],[76.82912448307924,11.96567872181244],[76.84254574396908,11.96173778217188],[76.85997733333866,11.97801620615488]]]},"properties":{"region_id":"village_619651","name":"MUTHIGE","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

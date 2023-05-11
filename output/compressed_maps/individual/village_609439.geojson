@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13155361971825,13.65064609422472],[76.11478688952216,13.64819046563539],[76.113384951335,13.62782651276295],[76.1311789047194,13.62796718002271],[76.13155361971825,13.65064609422472]]]},"properties":{"region_id":"village_609439","name":"P.KODIHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

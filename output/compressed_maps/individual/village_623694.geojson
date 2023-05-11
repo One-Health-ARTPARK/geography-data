@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75325770276035,13.75375511994079],[77.74257412106897,13.7518178109697],[77.74867994710627,13.73872083878777],[77.760895363087,13.74319104781951],[77.75325770276035,13.75375511994079]]]},"properties":{"region_id":"village_623694","name":"HAMPASANDRA","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

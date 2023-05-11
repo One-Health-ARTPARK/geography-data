@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14323723632104,15.45838484756598],[76.12582160271553,15.43706088052601],[76.14645206376284,15.4200108056744],[76.16489982866985,15.43076569031312],[76.14323723632104,15.45838484756598]]]},"properties":{"region_id":"village_601812","name":"KINHAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

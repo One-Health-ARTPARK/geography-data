@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89398125109503,13.50633442772283],[77.88641269944688,13.50672598922053],[77.88492669670887,13.49451130296787],[77.89406759260231,13.49618026678235],[77.89398125109503,13.50633442772283]]]},"properties":{"region_id":"village_624124","name":"T.PEDDANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

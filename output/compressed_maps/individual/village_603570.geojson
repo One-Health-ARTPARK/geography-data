@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80274355157844,14.45141426913768],[74.8161548980669,14.43719583487756],[74.83053193665032,14.44704582930117],[74.81838933655905,14.45686533657949],[74.80274355157844,14.45141426913768]]]},"properties":{"region_id":"village_603570","name":"MUTHALLI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

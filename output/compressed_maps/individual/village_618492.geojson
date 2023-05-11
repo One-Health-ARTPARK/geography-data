@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38065526456855,12.21618389930017],[76.35721567746329,12.21014121765207],[76.37083105535618,12.19356858244894],[76.39000976069507,12.2001914776763],[76.38065526456855,12.21618389930017]]]},"properties":{"region_id":"village_618492","name":"KARIMUDDANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50648723783037,12.01580207399301],[76.48063202721602,12.01646448398883],[76.48769689814263,12.00507477889461],[76.50421815452954,12.00136194353131],[76.50648723783037,12.01580207399301]]]},"properties":{"region_id":"village_618983","name":"KALLAMBALU","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

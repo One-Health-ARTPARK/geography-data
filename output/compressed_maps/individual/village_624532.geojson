@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98802230241931,13.43021004472184],[77.99271594844637,13.44815916582774],[77.9735270145295,13.44994918237491],[77.97403126630732,13.43422843250053],[77.98802230241931,13.43021004472184]]]},"properties":{"region_id":"village_624532","name":"HUSSAINPURA","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

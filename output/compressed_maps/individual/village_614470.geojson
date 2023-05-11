@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87333573576295,12.48163416622191],[76.85366451770707,12.48202132296583],[76.86180984078024,12.46836748719744],[76.87445332564639,12.45979777176241],[76.88051342188663,12.47040545968998],[76.87333573576295,12.48163416622191]]]},"properties":{"region_id":"village_614470","name":"KOTHATHI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

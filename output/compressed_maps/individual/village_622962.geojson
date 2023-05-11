@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.44394603231387,13.07994749337043],[78.43066404348806,13.0677783807465],[78.43986527206492,13.06760041848906],[78.44453218287175,13.07103448948082],[78.44394603231387,13.07994749337043]]]},"properties":{"region_id":"village_622962","name":"BADENAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

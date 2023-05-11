@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.48267954677455,14.51953171655163],[74.44061698022404,14.51335590483146],[74.4440963782606,14.49388534326824],[74.47514072358976,14.48992984382127],[74.48267954677455,14.51953171655163]]]},"properties":{"region_id":"village_603459","name":"YELAVALLI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

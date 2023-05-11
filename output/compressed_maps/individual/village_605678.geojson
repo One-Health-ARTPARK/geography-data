@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0882570061456,14.02494431627371],[76.06730366307086,14.02168974975861],[76.0647218645014,14.00896542095728],[76.08732593198648,14.00823737773483],[76.0882570061456,14.02494431627371]]]},"properties":{"region_id":"village_605678","name":"DOGGANAL","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

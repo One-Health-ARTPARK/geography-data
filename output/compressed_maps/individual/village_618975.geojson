@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44903438034748,12.05108477871466],[76.42725962876243,12.06260038170113],[76.42469378451466,12.03904453285447],[76.44903438034748,12.05108477871466]]]},"properties":{"region_id":"village_618975","name":"MANUGANAHALLI","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

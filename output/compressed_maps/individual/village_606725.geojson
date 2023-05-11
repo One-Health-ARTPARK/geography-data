@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49443436804886,14.16365367303054],[75.47397775008102,14.1548048736223],[75.47103687802858,14.13508984625785],[75.49085703888029,14.1344368536412],[75.49443436804886,14.16365367303054]]]},"properties":{"region_id":"village_606725","name":"BIDARAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

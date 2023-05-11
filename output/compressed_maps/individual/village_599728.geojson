@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02873405459898,17.98921365892411],[76.98906487919932,17.99277884151276],[76.98290778759205,17.9741440725101],[77.01531097547733,17.95889791648058],[77.02873405459898,17.98921365892411]]]},"properties":{"region_id":"village_599728","name":"GADIGONDGAON","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

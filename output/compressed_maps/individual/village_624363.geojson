@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.01520160658974,13.52672768627655],[78.0021254319296,13.52072168947993],[78.01599698821897,13.51054556452742],[78.01520160658974,13.52672768627655]]]},"properties":{"region_id":"village_624363","name":"POLANAYAKANAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

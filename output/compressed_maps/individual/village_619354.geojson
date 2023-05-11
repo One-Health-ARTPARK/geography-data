@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94619411306937,12.28804848698247],[76.94068468864745,12.29589630726916],[76.9237634875938,12.28690158426236],[76.93947780956684,12.27510671428156],[76.94619411306937,12.28804848698247]]]},"properties":{"region_id":"village_619354","name":"BUDAHALLI","parent":"subdistrict_5575","parent_name":"TIRUMAKUDAL - NARSIPUR"}}
+]}

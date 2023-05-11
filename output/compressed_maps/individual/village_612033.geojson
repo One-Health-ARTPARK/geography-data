@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71876275325002,13.31186911909206],[76.70662889256123,13.31767801246797],[76.6941018561037,13.30220051828764],[76.72043542871826,13.30381442743828],[76.71876275325002,13.31186911909206]]]},"properties":{"region_id":"village_612033","name":"YAGACHIKATTI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

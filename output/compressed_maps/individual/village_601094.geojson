@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70605039073827,15.78414840691244],[76.68058439819303,15.7882261625645],[76.67996098350704,15.77212104830199],[76.70535867085103,15.77257763083095],[76.70605039073827,15.78414840691244]]]},"properties":{"region_id":"village_601094","name":"ARLIHALLI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

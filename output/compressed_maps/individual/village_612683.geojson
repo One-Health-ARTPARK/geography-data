@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96975189048945,12.86256222172332],[76.9673580050753,12.84880956473366],[76.99303330022511,12.84604966988429],[76.99135160895709,12.86068747118288],[76.96975189048945,12.86256222172332]]]},"properties":{"region_id":"village_612683","name":"SANABAGATTA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

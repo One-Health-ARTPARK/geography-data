@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5930332711712,12.38670572586313],[75.57477034868023,12.38016253979416],[75.57847899607088,12.35822856724713],[75.59267198632817,12.37624037793868],[75.5930332711712,12.38670572586313]]]},"properties":{"region_id":"village_617802","name":"SINGATHURU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

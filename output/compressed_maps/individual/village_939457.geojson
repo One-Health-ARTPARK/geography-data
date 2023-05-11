@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58422289691484,13.00099335424452],[77.57826582135733,13.00042560062967],[77.57595762904296,12.99210558245754],[77.57854472992521,12.98856772174835],[77.58422289691484,13.00099335424452]]]},"properties":{"region_id":"village_939457","name":"MALENAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

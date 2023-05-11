@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30492861139598,12.53917570043368],[77.28699767059348,12.54481790297027],[77.28847611942591,12.53196936746267],[77.30492861139598,12.53917570043368]]]},"properties":{"region_id":"village_626494","name":"MARADEVANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

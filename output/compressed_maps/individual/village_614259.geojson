@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89433557917073,12.45234566590254],[76.8652803021076,12.42703373846112],[76.87926883788336,12.40510594431697],[76.89563254306219,12.40935270245209],[76.9038901062873,12.42694085152475],[76.89433557917073,12.45234566590254]]]},"properties":{"region_id":"village_614259","name":"GAMANAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

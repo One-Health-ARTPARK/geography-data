@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.483658501293,11.99781228468797],[76.45509205675388,12.01296906915777],[76.44860691697333,12.0024823093857],[76.483658501293,11.99781228468797]]]},"properties":{"region_id":"village_618995","name":"CHAMALAPURA","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

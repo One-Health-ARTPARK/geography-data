@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35795873860168,12.23516002828613],[76.34814112658204,12.22479428516475],[76.35864532216483,12.21882800329586],[76.35795873860168,12.23516002828613]]]},"properties":{"region_id":"village_618494","name":"TARIKALLU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

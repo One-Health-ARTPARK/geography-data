@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74001050063791,14.81538523189508],[76.72119217902727,14.81305465313729],[76.72426926717843,14.79211703243955],[76.7422533272483,14.80056147230705],[76.74001050063791,14.81538523189508]]]},"properties":{"region_id":"village_605187","name":"AMAKUNDI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

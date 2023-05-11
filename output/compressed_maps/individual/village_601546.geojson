@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37794292676935,15.72054266848129],[76.35647122539288,15.70820645536693],[76.37162681364642,15.69034020100218],[76.37794292676935,15.72054266848129]]]},"properties":{"region_id":"village_601546","name":"SIDDAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

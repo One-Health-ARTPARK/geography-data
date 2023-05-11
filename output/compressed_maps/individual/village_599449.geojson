@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74232682927097,16.55108596043418],[75.71815884892148,16.52094586331657],[75.75996714673268,16.5213340431823],[75.74232682927097,16.55108596043418]]]},"properties":{"region_id":"village_599449","name":"MALGHAN","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

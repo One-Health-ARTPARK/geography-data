@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35207227697883,13.83794834052494],[76.35349721325845,13.87183657091955],[76.33478054043586,13.85454384317821],[76.35207227697883,13.83794834052494]]]},"properties":{"region_id":"village_605934","name":"MASANIHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

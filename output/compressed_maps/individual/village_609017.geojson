@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38664961685284,13.46183604275863],[75.37877606924481,13.45933335620123],[75.38092860865822,13.45624116010513],[75.38664961685284,13.46183604275863]]]},"properties":{"region_id":"village_609017","name":"KALASAPURA","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

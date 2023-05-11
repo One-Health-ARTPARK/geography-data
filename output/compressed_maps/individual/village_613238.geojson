@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79348920729731,12.92581535168296],[77.78252535963504,12.92811355389017],[77.78580031403689,12.91657662430058],[77.79348920729731,12.92581535168296]]]},"properties":{"region_id":"village_613238","name":"JANTHAGONDANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

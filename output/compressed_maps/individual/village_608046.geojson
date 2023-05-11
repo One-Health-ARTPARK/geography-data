@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09192340877479,13.67047873413459],[75.08172210660919,13.68142406656769],[75.0491134111468,13.67418558819213],[75.0831330245548,13.6585962737361],[75.09192340877479,13.67047873413459]]]},"properties":{"region_id":"village_608046","name":"HUMMADAGALLU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35445540522787,16.6258672767166],[75.34320808562003,16.59061474172839],[75.36517778962605,16.59308799507174],[75.35445540522787,16.6258672767166]]]},"properties":{"region_id":"village_598463","name":"TAKKALAKI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04865943350549,16.69577228803505],[76.04097316088014,16.71585364745811],[76.01282870306686,16.72478650245937],[76.01503375063835,16.68858152259305],[76.04865943350549,16.69577228803505]]]},"properties":{"region_id":"village_599527","name":"RABINAL","parent":"subdistrict_5452","parent_name":"BASAVANA BAGEVADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53640208359482,13.73071447323977],[77.54910141454309,13.7410550766527],[77.54198756065385,13.7561041203707],[77.52207537632376,13.74467326463763],[77.53640208359482,13.73071447323977]]]},"properties":{"region_id":"village_623271","name":"HUNASENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

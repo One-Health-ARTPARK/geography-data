@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62969277418205,13.19828553482231],[76.61188541154115,13.20728257087992],[76.60982586780926,13.19029394492731],[76.62516171904188,13.18242158335065],[76.62969277418205,13.19828553482231]]]},"properties":{"region_id":"village_612212","name":"ANEKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

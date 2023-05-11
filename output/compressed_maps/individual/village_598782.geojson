@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62740988254353,16.21625148893223],[75.61210053102842,16.20877272299512],[75.60834533693108,16.18447805939484],[75.62535757621319,16.19725902910278],[75.62740988254353,16.21625148893223]]]},"properties":{"region_id":"village_598782","name":"ANADINNI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

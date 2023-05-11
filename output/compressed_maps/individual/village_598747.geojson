@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75632041598614,15.93665257816147],[75.729900989627,15.93555944585129],[75.73191594734315,15.9235178204364],[75.75632041598614,15.93665257816147]]]},"properties":{"region_id":"village_598747","name":"NELWAGI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

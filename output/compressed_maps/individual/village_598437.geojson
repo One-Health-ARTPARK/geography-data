@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24702502477187,16.51712234873073],[75.24621188197193,16.53141400127242],[75.23727215432174,16.53069575919804],[75.23749033447132,16.52307041714091],[75.24702502477187,16.51712234873073]]]},"properties":{"region_id":"village_598437","name":"KADAPATTI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

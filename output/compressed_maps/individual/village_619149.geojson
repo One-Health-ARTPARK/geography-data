@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52705657445188,12.04414608518457],[76.51760588393049,12.03352121497944],[76.52777629020686,12.0256461595919],[76.54382783829361,12.02793924874885],[76.52705657445188,12.04414608518457]]]},"properties":{"region_id":"village_619149","name":"MELAGALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

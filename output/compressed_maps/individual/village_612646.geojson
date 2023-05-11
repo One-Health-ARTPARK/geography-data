@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96660286619367,12.95977817888138],[76.95334999628102,12.95073180653929],[76.97974694655251,12.94285180988361],[76.96660286619367,12.95977817888138]]]},"properties":{"region_id":"village_612646","name":"HOSAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

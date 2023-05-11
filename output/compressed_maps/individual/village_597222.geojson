@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.56797414703458,16.4040258025309],[74.56026947523169,16.34937467805901],[74.58950745867949,16.34248806620903],[74.59968374464145,16.39508757771022],[74.56797414703458,16.4040258025309]]]},"properties":{"region_id":"village_597222","name":"KAROSHI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

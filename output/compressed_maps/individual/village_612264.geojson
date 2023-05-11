@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74071184345637,13.27020770351551],[76.73007550468965,13.2703299677942],[76.72627842526482,13.26000752516608],[76.73686688581715,13.2634099970457],[76.74071184345637,13.27020770351551]]]},"properties":{"region_id":"village_612264","name":"SHIVANEHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

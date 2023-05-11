@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26006540316992,14.24961335504633],[75.21887467051455,14.27632295317533],[75.19819790308307,14.22959719003972],[75.23005630889435,14.22163737959268],[75.26006540316992,14.24961335504633]]]},"properties":{"region_id":"village_607227","name":"KORLIKOPPA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

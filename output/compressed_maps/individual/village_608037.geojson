@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04378654977192,13.79360609974674],[75.02459009357734,13.78663717149062],[75.03811101924603,13.76995065730797],[75.04378654977192,13.79360609974674]]]},"properties":{"region_id":"village_608037","name":"KABALE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

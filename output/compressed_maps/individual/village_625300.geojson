@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64003494473448,13.2181704243226],[77.6361848657037,13.21911357604229],[77.62851333749299,13.21527799546238],[77.63883739816177,13.21429152605808],[77.64003494473448,13.2181704243226]]]},"properties":{"region_id":"village_625300","name":"CHOWDENAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

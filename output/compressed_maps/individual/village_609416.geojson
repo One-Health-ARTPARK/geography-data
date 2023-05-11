@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16665142254044,13.67955140192909],[76.16988222244211,13.69695632740305],[76.15771652904058,13.68649118530952],[76.16665142254044,13.67955140192909]]]},"properties":{"region_id":"village_609416","name":"KALLAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

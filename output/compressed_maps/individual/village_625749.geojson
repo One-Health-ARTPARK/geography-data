@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8576134322477,12.9353545921744],[77.83893249559996,12.93814857314085],[77.83171236073572,12.92573240660812],[77.8478225965355,12.92617386960044],[77.8576134322477,12.9353545921744]]]},"properties":{"region_id":"village_625749","name":"KALKUNTE AGRAHARA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

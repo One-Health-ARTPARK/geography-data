@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.56965084370525,15.69291293851223],[74.57331547330946,15.68507455871033],[74.58754017747331,15.70236076338466],[74.56926624582799,15.70414150179713],[74.56965084370525,15.69291293851223]]]},"properties":{"region_id":"village_597855","name":"BIDARBHAVI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

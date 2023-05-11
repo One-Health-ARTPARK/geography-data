@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.34045413728097,15.76466381234126],[74.3180673587273,15.75728579590221],[74.33315341603058,15.74287843863465],[74.34045413728097,15.76466381234126]]]},"properties":{"region_id":"village_597812","name":"BETAGERI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

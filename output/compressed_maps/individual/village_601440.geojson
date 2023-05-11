@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13995661768168,15.89449509616595],[76.11727127036735,15.88600348396334],[76.12887436807414,15.86637392372223],[76.15249153781515,15.86655302720119],[76.13995661768168,15.89449509616595]]]},"properties":{"region_id":"village_601440","name":"MENSAGERI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

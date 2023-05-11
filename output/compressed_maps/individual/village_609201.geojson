@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91987298353695,13.72090501488356],[75.89877181856929,13.72345319910644],[75.90040229020343,13.70502636072179],[75.92039592063719,13.70365635190638],[75.91987298353695,13.72090501488356]]]},"properties":{"region_id":"village_609201","name":"SAVEMARDIKAVAL","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

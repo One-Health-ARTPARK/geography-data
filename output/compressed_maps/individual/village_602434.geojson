@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96412908630877,15.33330075003275],[74.9680137274715,15.35132167169983],[74.9552743312443,15.34775814364173],[74.96412908630877,15.33330075003275]]]},"properties":{"region_id":"village_602434","name":"KANNENAIKANKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

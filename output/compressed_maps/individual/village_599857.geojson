@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10236671415724,18.01191806222176],[77.08435628702388,18.01549164754304],[77.08051064537868,18.00620378710668],[77.10152413497772,18.00019302833725],[77.10236671415724,18.01191806222176]]]},"properties":{"region_id":"village_599857","name":"KUNTEGAON","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

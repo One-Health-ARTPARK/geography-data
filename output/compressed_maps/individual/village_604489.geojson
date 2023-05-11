@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74354980117002,14.70244964443676],[75.7180551997197,14.70025713350996],[75.71821502659125,14.68500898374444],[75.73603805488979,14.68167566003305],[75.74354980117002,14.70244964443676]]]},"properties":{"region_id":"village_604489","name":"UDAGATTI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

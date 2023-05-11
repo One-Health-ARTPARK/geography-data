@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7594990597174,17.04393007832736],[76.75574491761347,17.06163348977953],[76.72009901945563,17.05960584564234],[76.72834111876757,17.03493466046585],[76.7594990597174,17.04393007832736]]]},"properties":{"region_id":"village_620761","name":"GOUNAHALLI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

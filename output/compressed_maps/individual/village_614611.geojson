@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1037575871939,12.52142605178727],[77.08617059093022,12.52519683019423],[77.08476405143817,12.51379824879729],[77.1037575871939,12.52142605178727]]]},"properties":{"region_id":"village_614611","name":"HULIKERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

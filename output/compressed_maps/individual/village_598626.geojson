@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54573304469666,16.13500746337727],[75.511290086603,16.13514352420603],[75.52259929324,16.12253743077813],[75.54731534273414,16.12403681292434],[75.54573304469666,16.13500746337727]]]},"properties":{"region_id":"village_598626","name":"NEERABUDIHAL","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16989229435353,15.83874278665178],[75.13881488637196,15.83530397453338],[75.14385514028069,15.81540219965288],[75.18945374072004,15.8203480260967],[75.16989229435353,15.83874278665178]]]},"properties":{"region_id":"village_598273","name":"YAKKERI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26256193647427,16.92805299459616],[77.24711791074252,16.9335010440263],[77.2465459776612,16.91948244374344],[77.26256193647427,16.92805299459616]]]},"properties":{"region_id":"village_621235","name":"CHINTKUNTA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

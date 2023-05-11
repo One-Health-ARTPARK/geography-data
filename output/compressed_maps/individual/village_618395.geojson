@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1913424609682,12.20971580694614],[76.18273302493051,12.19572305351632],[76.18516898604523,12.17784509807647],[76.19574409402166,12.17645614710207],[76.19677345147691,12.19239789829702],[76.1913424609682,12.20971580694614]]]},"properties":{"region_id":"village_618395","name":"DODDAHEJJUR","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

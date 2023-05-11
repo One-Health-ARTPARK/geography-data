@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61167969277194,13.53168319690213],[77.61858642831069,13.53222048473024],[77.6168473494117,13.54003117722956],[77.60968078365343,13.5383062807859],[77.61167969277194,13.53168319690213]]]},"properties":{"region_id":"village_623405","name":"NULAGUMMANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27745066863835,14.53418721945482],[75.25510732949034,14.53265054618243],[75.26722332789933,14.51433889314816],[75.27745066863835,14.53418721945482]]]},"properties":{"region_id":"village_607451","name":"GINIVALA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

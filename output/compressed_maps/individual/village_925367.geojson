@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09265972934092,14.20314652735929],[75.08715756532925,14.21438864935067],[75.07395192977624,14.20009629975501],[75.08131293410877,14.19791470462049],[75.09265972934092,14.20314652735929]]]},"properties":{"region_id":"village_925367","name":"KERODII","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

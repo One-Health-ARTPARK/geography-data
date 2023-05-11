@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.44430385861774,14.37001119992339],[74.43415399283724,14.37342473035426],[74.43609059700157,14.36599697531346],[74.44430385861774,14.37001119992339]]]},"properties":{"region_id":"village_603731","name":"MADAGERI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

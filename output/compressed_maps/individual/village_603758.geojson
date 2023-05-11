@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50284674586794,14.15797479991689],[74.47509411401101,14.15674091133969],[74.48174448196505,14.13907565869514],[74.50224942603842,14.14482561713891],[74.50284674586794,14.15797479991689]]]},"properties":{"region_id":"village_603758","name":"MANKI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

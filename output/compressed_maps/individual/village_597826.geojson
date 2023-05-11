@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.387201764569,15.70842457917685],[74.35757487675113,15.70738609024633],[74.35371116969132,15.67546515026426],[74.37180901882935,15.67158823628641],[74.38662709521631,15.68166595453233],[74.387201764569,15.70842457917685]]]},"properties":{"region_id":"village_597826","name":"JAMBOTI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

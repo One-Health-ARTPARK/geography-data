@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68960852057396,14.97815528426684],[76.67081809302972,14.9411240810111],[76.71318998092237,14.93924265210359],[76.7160283761905,14.97283780559201],[76.68960852057396,14.97815528426684]]]},"properties":{"region_id":"village_604974","name":"GOLLALINGAMMANAHALLI","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

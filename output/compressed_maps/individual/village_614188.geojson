@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68972003409736,12.49358060251424],[76.67759419110817,12.48900324458336],[76.6787749123156,12.48252201718701],[76.6888632171,12.47816514458419],[76.68972003409736,12.49358060251424]]]},"properties":{"region_id":"village_614188","name":"HARALAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

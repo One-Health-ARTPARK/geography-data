@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43871120238332,13.38271848738348],[77.42637785222597,13.37284941124419],[77.43840181433536,13.36920406957558],[77.43871120238332,13.38271848738348]]]},"properties":{"region_id":"village_625004","name":"JALIGERE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

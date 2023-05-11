@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99071111433109,15.40368814707571],[76.93259387044512,15.38211144568077],[76.96358470653384,15.3569276609628],[76.99071111433109,15.40368814707571]]]},"properties":{"region_id":"village_604854","name":"HAGALUR HOSAHALLI","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

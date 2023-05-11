@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2936954745826,15.35280981392698],[76.28061903143957,15.35819745963572],[76.27561710111887,15.34852329661224],[76.28767286283923,15.34532526431403],[76.2936954745826,15.35280981392698]]]},"properties":{"region_id":"village_601759","name":"LINGADAHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

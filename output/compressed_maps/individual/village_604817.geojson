@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05075480531286,15.76401039105885],[77.05983533834319,15.78262128108635],[77.02381001721616,15.78954895045671],[77.02437439191812,15.77829374641239],[77.05075480531286,15.76401039105885]]]},"properties":{"region_id":"village_604817","name":"BEERAHALLI","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

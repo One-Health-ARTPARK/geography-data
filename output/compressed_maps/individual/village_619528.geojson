@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.770749572682,11.84197674385251],[76.75861588465766,11.84043343439499],[76.75815944913818,11.83546522152279],[76.77220072836478,11.83536040290094],[76.770749572682,11.84197674385251]]]},"properties":{"region_id":"village_619528","name":"KASAVANUR","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

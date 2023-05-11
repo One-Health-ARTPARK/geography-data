@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23507106240282,12.76216667149109],[77.2144827754546,12.77534544517685],[77.21884170365124,12.75432524797961],[77.23507106240282,12.76216667149109]]]},"properties":{"region_id":"village_626065","name":"SHANUBHOGANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

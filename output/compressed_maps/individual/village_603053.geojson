@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03454963486782,14.87855802524971],[75.01834771984294,14.85150567780711],[75.05357078848964,14.86078574697457],[75.04009887460185,14.87797928523798],[75.03454963486782,14.87855802524971]]]},"properties":{"region_id":"village_603053","name":"KATUR","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

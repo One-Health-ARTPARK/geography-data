@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4006283616116,16.97719896381043],[76.36824468782687,16.97866536071797],[76.36635726832773,16.95666904789551],[76.40256120079255,16.95549531705371],[76.4006283616116,16.97719896381043]]]},"properties":{"region_id":"village_599334","name":"KERUR","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

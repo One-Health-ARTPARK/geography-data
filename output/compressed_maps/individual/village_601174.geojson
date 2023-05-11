@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99573667982169,15.80752164650551],[76.98938410657644,15.82486237086339],[76.9755981120313,15.83668152644927],[76.97766754452836,15.81074649529583],[76.99573667982169,15.80752164650551]]]},"properties":{"region_id":"village_601174","name":"PULMESWARDINNI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

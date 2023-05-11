@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50784905115736,15.1171251359793],[76.49338479021408,15.1311023470648],[76.48337003654144,15.12923317212081],[76.49338965474901,15.11208886546394],[76.50784905115736,15.1171251359793]]]},"properties":{"region_id":"village_604999","name":"SUSEELNAGAR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

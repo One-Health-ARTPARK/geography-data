@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09427450681797,12.29203368116741],[76.07806075900922,12.28671917473061],[76.07459655353334,12.27258934513589],[76.08587653113021,12.26881381693785],[76.09427450681797,12.29203368116741]]]},"properties":{"region_id":"village_618280","name":"ABBALATHI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

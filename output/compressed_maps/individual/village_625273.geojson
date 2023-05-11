@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61564620262924,13.29009371849319],[77.60774798318155,13.27910066869043],[77.63061052390987,13.27779350900019],[77.6347516620277,13.28671522549513],[77.61763251806794,13.28409597806482],[77.61564620262924,13.29009371849319]]]},"properties":{"region_id":"village_625273","name":"BEERASANDRA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

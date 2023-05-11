@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97840872991532,12.82735055481394],[74.96007265431037,12.8262679434537],[74.96753323387254,12.80156532117869],[74.98408921243382,12.81779557446503],[74.97840872991532,12.82735055481394]]]},"properties":{"region_id":"village_617562","name":"KURNAD","parent":"subdistrict_7197","parent_name":"ULLALA"}}
+]}

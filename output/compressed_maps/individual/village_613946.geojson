@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87916126400657,12.80797591261723],[76.87350803724821,12.79275033974872],[76.88029537947489,12.79190147389146],[76.87916126400657,12.80797591261723]]]},"properties":{"region_id":"village_613946","name":"MALLINATHAPURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04883695406504,15.16668056430204],[75.04495696741634,15.17716816051241],[75.02912180118629,15.16912470524037],[75.03583047914606,15.15773781447175],[75.04883695406504,15.16668056430204]]]},"properties":{"region_id":"village_602498","name":"MALKANKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

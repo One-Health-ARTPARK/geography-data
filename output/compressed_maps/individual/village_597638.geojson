@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45074891464212,16.10438013285066],[74.44227517212587,16.10599565480846],[74.43753039817416,16.08077429476186],[74.44768709900958,16.08274673258763],[74.45074891464212,16.10438013285066]]]},"properties":{"region_id":"village_597638","name":"BIDREWADI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

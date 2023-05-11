@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97153835160448,12.50895751724817],[75.96332678752985,12.50985551850151],[75.96261752599153,12.49759441664358],[75.97220650617717,12.49679758246417],[75.97153835160448,12.50895751724817]]]},"properties":{"region_id":"village_618121","name":"CHIKKAMARAVALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

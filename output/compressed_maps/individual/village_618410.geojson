@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36558949996518,12.36599954196858],[76.34794704074696,12.35554158768503],[76.36499893268729,12.3503844752917],[76.36558949996518,12.36599954196858]]]},"properties":{"region_id":"village_618410","name":"HAGARANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

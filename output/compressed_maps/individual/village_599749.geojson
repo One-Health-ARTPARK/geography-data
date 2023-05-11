@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87994093566304,17.89456263836683],[76.83251882109593,17.8933389245771],[76.84007300708862,17.86164590997144],[76.88674750422054,17.85889136594512],[76.87994093566304,17.89456263836683]]]},"properties":{"region_id":"village_599749","name":"MORKHANDI","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

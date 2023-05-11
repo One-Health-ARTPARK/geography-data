@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48316993129545,15.80125732129111],[76.48162719906698,15.78163352605265],[76.50687086514674,15.78153510288626],[76.501013025654,15.79725282524811],[76.48316993129545,15.80125732129111]]]},"properties":{"region_id":"village_601066","name":"BHOGAPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

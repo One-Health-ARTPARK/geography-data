@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87940520198828,13.75756341832919],[75.8815096507786,13.78059221237845],[75.89020536063624,13.80840774822261],[75.88628724217064,13.80921492154596],[75.87150712428873,13.7677128997983],[75.87940520198828,13.75756341832919]]]},"properties":{"region_id":"village_609172","name":"KODIHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27960775576801,14.86249817368328],[76.2753044637655,14.84254905619375],[76.32183277836079,14.82438328865521],[76.29804377010134,14.86842625998015],[76.27960775576801,14.86249817368328]]]},"properties":{"region_id":"village_605055","name":"KANDAGAL","parent":"subdistrict_7108","parent_name":"KOTTURU"}}
+]}

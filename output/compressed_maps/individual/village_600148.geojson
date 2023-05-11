@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60851777090211,18.00981363703676],[77.58444979786002,18.01841128570235],[77.57423617338188,17.98429436581551],[77.5978906479362,17.99312622594703],[77.60851777090211,18.00981363703676]]]},"properties":{"region_id":"village_600148","name":"CHIMKOD","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

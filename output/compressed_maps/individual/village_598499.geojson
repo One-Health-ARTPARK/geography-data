@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66427063693563,16.3894445561123],[75.60266570896987,16.39405459758073],[75.5941240564591,16.33120171394898],[75.63985464479977,16.33353497618752],[75.65028168138988,16.37214647508898],[75.66427063693563,16.3894445561123]]]},"properties":{"region_id":"village_598499","name":"BILGI (RURAL)","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

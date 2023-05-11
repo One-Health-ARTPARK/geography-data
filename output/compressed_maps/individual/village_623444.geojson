@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7432878486178,13.64769976049395],[77.73638413504193,13.64103845775363],[77.73829692820888,13.63587108348796],[77.74769698327535,13.63774142002697],[77.7432878486178,13.64769976049395]]]},"properties":{"region_id":"village_623444","name":"ROPPARLAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

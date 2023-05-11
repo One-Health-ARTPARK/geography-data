@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37352666158363,17.5043326086435],[77.3483775134853,17.50969972872047],[77.3334987836488,17.48875733965895],[77.35349896797304,17.4766661299389],[77.37352666158363,17.5043326086435]]]},"properties":{"region_id":"village_620352","name":"GARAMPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

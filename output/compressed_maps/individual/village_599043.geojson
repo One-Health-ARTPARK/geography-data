@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6917948046477,16.89437623926111],[75.6440370618714,16.90811527846622],[75.63153969630326,16.86198171811631],[75.68231707305056,16.85880722925421],[75.6917948046477,16.89437623926111]]]},"properties":{"region_id":"village_599043","name":"ITANGIHAL","parent":"subdistrict_7074","parent_name":"TIKOTA"}}
+]}

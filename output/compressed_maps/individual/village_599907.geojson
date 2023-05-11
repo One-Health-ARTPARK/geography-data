@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16621483219248,18.01885393609432],[77.15715806114241,18.02069097635729],[77.15477525393239,18.01337493953799],[77.16312230670844,18.00833186844407],[77.16621483219248,18.01885393609432]]]},"properties":{"region_id":"village_599907","name":"GUBYAL","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

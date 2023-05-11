@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51724210217267,17.32530568209726],[76.48626648985464,17.33141587683772],[76.49064247088135,17.29314337335526],[76.52053154889055,17.29113273075439],[76.51724210217267,17.32530568209726]]]},"properties":{"region_id":"village_620144","name":"ANKALGA","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

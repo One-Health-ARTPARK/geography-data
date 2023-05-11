@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.07513022260513,13.61290203426015],[78.07094034327234,13.63260844390956],[78.05429515825861,13.60999989610058],[78.07513022260513,13.61290203426015]]]},"properties":{"region_id":"village_624320","name":"YENIGADALE","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

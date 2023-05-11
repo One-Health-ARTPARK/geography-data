@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7644556131375,12.86374209820363],[77.75196172265439,12.86306876196008],[77.75158693814132,12.85955876772975],[77.7659930171934,12.85752601745673],[77.7644556131375,12.86374209820363]]]},"properties":{"region_id":"village_613219","name":"KADAGRAHARA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84221389749513,13.94815364171728],[75.82678557750214,13.96995400977658],[75.8053669353092,13.9486541618423],[75.84221389749513,13.94815364171728]]]},"properties":{"region_id":"village_608568","name":"DANAVADI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

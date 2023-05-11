@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74053028985773,13.43774365318968],[76.72374076507974,13.43276817580016],[76.73978496308011,13.40941818695896],[76.75103220955117,13.41378078573665],[76.74053028985773,13.43774365318968]]]},"properties":{"region_id":"village_610184","name":"BARASIDLAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

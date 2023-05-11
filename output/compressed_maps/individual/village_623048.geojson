@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.51298315874548,13.28162414184611],[78.49838474036324,13.279377225136],[78.49974722039894,13.26615394113873],[78.5077279698157,13.26578636308372],[78.50671183678485,13.27903928499483],[78.51298315874548,13.28162414184611]]]},"properties":{"region_id":"village_623048","name":"NAGANAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

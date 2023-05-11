@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98978124498355,14.56838313370591],[74.96083844024557,14.56835624284182],[74.96221745974101,14.55111364455615],[74.9813873370903,14.54794773291253],[74.98978124498355,14.56838313370591]]]},"properties":{"region_id":"village_603303","name":"GUDNAPUR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68370255912755,13.95527453925098],[76.65613127667712,13.95308740826192],[76.66230962035786,13.93758358277135],[76.67802807304304,13.93415789719012],[76.68370255912755,13.95527453925098]]]},"properties":{"region_id":"village_606159","name":"ALUR","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

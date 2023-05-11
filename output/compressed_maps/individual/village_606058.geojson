@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61510019125974,14.12331383991906],[76.57389588923155,14.11555386605309],[76.57593970519952,14.09610375948793],[76.60897447638374,14.10315905647282],[76.61510019125974,14.12331383991906]]]},"properties":{"region_id":"village_606058","name":"VADDIKERE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

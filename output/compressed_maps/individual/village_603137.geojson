@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73809697730131,14.6505672394714],[74.72913195457174,14.66199500975166],[74.7243494119147,14.65541790099829],[74.73809697730131,14.6505672394714]]]},"properties":{"region_id":"village_603137","name":"MODUR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

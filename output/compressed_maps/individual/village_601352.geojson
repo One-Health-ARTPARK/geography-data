@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89773544538465,15.44698501905239],[75.90292860777299,15.48675619993684],[75.868993094595,15.46125228791788],[75.89773544538465,15.44698501905239]]]},"properties":{"region_id":"village_601352","name":"SIDNEKOPPA","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

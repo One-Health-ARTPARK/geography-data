@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91962891845193,13.21447941541577],[77.91111845727421,13.21671861766508],[77.91266016643749,13.21225311759173],[77.9187092385083,13.2110523117098],[77.91962891845193,13.21447941541577]]]},"properties":{"region_id":"village_625547","name":"BANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

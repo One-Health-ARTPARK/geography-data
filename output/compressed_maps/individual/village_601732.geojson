@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96288865784217,15.18765496877598],[75.9377624376115,15.18491432844432],[75.95538338143061,15.17001766948692],[75.96288865784217,15.18765496877598]]]},"properties":{"region_id":"village_601732","name":"HYDERNAGAR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

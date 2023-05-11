@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43084817808696,12.900168101364],[77.41628978612502,12.89586364393748],[77.42015846584928,12.88775140053238],[77.43207917758866,12.89384461229774],[77.43084817808696,12.900168101364]]]},"properties":{"region_id":"village_613006","name":"CHIKKELLUR","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

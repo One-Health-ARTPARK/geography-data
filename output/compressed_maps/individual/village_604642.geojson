@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09197838619912,15.15732633204602],[76.05827363106215,15.1576684538727],[76.05858193316283,15.12575978959061],[76.06770144472286,15.12215706044726],[76.09756166997535,15.12481219985127],[76.09197838619912,15.15732633204602]]]},"properties":{"region_id":"village_604642","name":"ENIGI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37295588110584,13.48322017964269],[77.35643031819038,13.48865796059967],[77.35536902761767,13.47173800568945],[77.37360157343886,13.47084658129061],[77.37295588110584,13.48322017964269]]]},"properties":{"region_id":"village_611144","name":"POLENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

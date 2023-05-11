@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65262028346943,12.05999637194155],[76.61968780726953,12.06007983348459],[76.6177585888655,12.049360417219],[76.65123042791991,12.05032596571357],[76.65262028346943,12.05999637194155]]]},"properties":{"region_id":"village_619260","name":"YECHAGUNDLU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

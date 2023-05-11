@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15091709977433,12.39657408585313],[76.13833349841924,12.40942858347612],[76.12657190364921,12.39504687709402],[76.14204835738998,12.37882375371254],[76.15091709977433,12.39657408585313]]]},"properties":{"region_id":"village_618211","name":"R.THUNGA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

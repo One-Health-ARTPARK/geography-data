@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55797869377541,16.06417115964719],[74.5463273585675,16.03092189473739],[74.60053131468271,16.05548114751235],[74.59210392049448,16.07042792542802],[74.55797869377541,16.06417115964719]]]},"properties":{"region_id":"village_597650","name":"ISLAMPUR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

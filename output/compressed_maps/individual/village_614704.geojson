@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07402290790782,12.40417039842241],[77.0463802883546,12.3973994712406],[77.03983977381776,12.37573339565019],[77.05717061773589,12.37051663254708],[77.07409457346182,12.37820516311255],[77.07402290790782,12.40417039842241]]]},"properties":{"region_id":"village_614704","name":"MALAVALLI(RURAL)","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

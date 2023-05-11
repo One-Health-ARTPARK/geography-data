@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4189830105898,13.86432424064519],[76.4157212106234,13.88363469226756],[76.3956575120938,13.86977273468632],[76.4189830105898,13.86432424064519]]]},"properties":{"region_id":"village_605939","name":"MALLAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

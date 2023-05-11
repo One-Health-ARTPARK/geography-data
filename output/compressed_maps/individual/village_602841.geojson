@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.67798275967093,15.3836855121363],[74.66488114501121,15.36893746111041],[74.69100956788769,15.36277571977525],[74.72498270387675,15.37002399650517],[74.67798275967093,15.3836855121363]]]},"properties":{"region_id":"village_602841","name":"MALWAD","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

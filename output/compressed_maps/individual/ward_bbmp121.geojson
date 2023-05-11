@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56274099955584,12.97562699985274],[77.5586989997201,12.97573099980143],[77.55610100009899,12.96704599980565],[77.56027799966688,12.96842699960031],[77.56274099955584,12.97562699985274]]]},"properties":{"region_id":"ward_bbmp121","name":"WARD NO.121 (BINNI PETE)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

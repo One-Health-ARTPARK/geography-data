@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7967049437211,16.15634772817885],[75.74905906699168,16.1562880289918],[75.76457676551591,16.0841936609799],[75.83645757846826,16.10051565331003],[75.7967049437211,16.15634772817885]]]},"properties":{"region_id":"village_598865","name":"SIRUR","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36119863136096,12.85425850338206],[77.35853607827559,12.87008450814119],[77.34522624444139,12.86996227401363],[77.34535367408344,12.85842716694554],[77.36119863136096,12.85425850338206]]]},"properties":{"region_id":"village_626098","name":"KEMPADYAPANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28432851117122,13.83355004196573],[76.28636470250989,13.85344415728559],[76.26316685539547,13.85348368427015],[76.2669152053466,13.82854349179277],[76.28432851117122,13.83355004196573]]]},"properties":{"region_id":"village_605930","name":"GALABENAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

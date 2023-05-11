@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34103690904215,14.47528640597206],[75.3368304780638,14.47729139286723],[75.31542922112385,14.47471943133517],[75.31546629083523,14.46935811217937],[75.32245955111927,14.45779616601082],[75.34103690904215,14.47528640597206]]]},"properties":{"region_id":"village_607694","name":"KARNELLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16983512277665,14.7841711907623],[75.15549646172477,14.77155949514117],[75.17065607387173,14.76356712848852],[75.16983512277665,14.7841711907623]]]},"properties":{"region_id":"village_604095","name":"AKKIVALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

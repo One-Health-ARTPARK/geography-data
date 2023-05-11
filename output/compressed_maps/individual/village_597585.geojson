@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60875611794022,16.27980884412302],[74.61410775197848,16.30497099331424],[74.59979881039658,16.30270564090826],[74.60875611794022,16.27980884412302]]]},"properties":{"region_id":"village_597585","name":"SHELAPUR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

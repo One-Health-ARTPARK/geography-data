@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05397702124623,13.17800433447638],[76.04573958444563,13.16476418646996],[76.06287370578569,13.15251987566504],[76.0675813125801,13.17382322091141],[76.05397702124623,13.17800433447638]]]},"properties":{"region_id":"village_615377","name":"ADAGOORU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

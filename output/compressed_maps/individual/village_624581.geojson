@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.04275062435717,13.43474323061285],[78.04474453773679,13.44400988101014],[78.02719889538501,13.44710990135981],[78.02964312118094,13.43628428114397],[78.04275062435717,13.43474323061285]]]},"properties":{"region_id":"village_624581","name":"DHANAMITTANAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

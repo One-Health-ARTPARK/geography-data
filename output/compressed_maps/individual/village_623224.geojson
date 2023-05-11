@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4288485829411,13.52739005267078],[77.40541396734008,13.52932691246068],[77.41137152326944,13.52134489097714],[77.42925598066871,13.52147223061862],[77.4288485829411,13.52739005267078]]]},"properties":{"region_id":"village_623224","name":"NADUVALAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

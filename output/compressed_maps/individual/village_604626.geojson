@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86671861273224,14.8545585012331],[75.86427196087136,14.8668962769416],[75.8697477323102,14.88056847229622],[75.85511722390888,14.88043197280287],[75.85354469099784,14.86333437118027],[75.86671861273224,14.8545585012331]]]},"properties":{"region_id":"village_604626","name":"VYASAMALLAPURA","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

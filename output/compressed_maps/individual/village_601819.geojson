@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27658544994428,15.42704947180007],[76.2550720417672,15.43115592081658],[76.2373572123797,15.40025797357726],[76.28125334397234,15.39584226024301],[76.27658544994428,15.42704947180007]]]},"properties":{"region_id":"village_601819","name":"TAWARGERA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

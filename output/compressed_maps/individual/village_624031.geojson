@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95368247696382,13.61350611874116],[77.94025517587284,13.6174962402022],[77.93349565854085,13.61288893041461],[77.93712593745606,13.60481072405821],[77.9478140647778,13.60310119109741],[77.95368247696382,13.61350611874116]]]},"properties":{"region_id":"village_624031","name":"EEGALETIHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

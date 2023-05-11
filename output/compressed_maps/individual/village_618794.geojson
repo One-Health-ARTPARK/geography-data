@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78496160573563,12.25921033446075],[76.78655992459846,12.26640347694734],[76.77840585116527,12.27556372676209],[76.77456889699518,12.26309717173659],[76.78496160573563,12.25921033446075]]]},"properties":{"region_id":"village_618794","name":"PUTTEGOWDANAHUNDI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

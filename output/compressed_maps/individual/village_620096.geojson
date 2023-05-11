@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25032522879204,17.24469380650542],[76.23771563095754,17.29847672332013],[76.18299415040593,17.31547160747865],[76.16449686421913,17.26287859164946],[76.25032522879204,17.24469380650542]]]},"properties":{"region_id":"village_620096","name":"KARAJAGI","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

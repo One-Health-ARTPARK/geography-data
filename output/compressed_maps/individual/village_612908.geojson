@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66609236449482,13.17082525899896],[77.65367460021812,13.17083222178679],[77.64614338913842,13.15496714360985],[77.66481324080769,13.1557208410758],[77.66609236449482,13.17082525899896]]]},"properties":{"region_id":"village_612908","name":"HUTTANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

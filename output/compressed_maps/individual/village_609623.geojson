@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98054587442883,13.43241408014229],[75.97251259591526,13.44683980070859],[75.95349624491203,13.4471300886088],[75.9679257577015,13.42450964250871],[75.98054587442883,13.43241408014229]]]},"properties":{"region_id":"village_609623","name":"BANUR","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

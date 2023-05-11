@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62603283015886,15.03071521874073],[75.59774816929841,15.02987115870859],[75.5933688513835,15.01555882455538],[75.61888229218619,15.00638216740138],[75.62603283015886,15.03071521874073]]]},"properties":{"region_id":"village_602117","name":"KOKKARGUNDI","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

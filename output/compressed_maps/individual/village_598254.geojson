@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17910991506413,15.6572261642463],[75.18687471442826,15.64928876013357],[75.20238632103745,15.64920588017667],[75.20327096301698,15.68143383765597],[75.17930843186376,15.67538004032555],[75.17910991506413,15.6572261642463]]]},"properties":{"region_id":"village_598254","name":"DHADERKOPPA","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66302281971542,13.4456230597334],[76.67493114506048,13.48179545550343],[76.64291567684388,13.47825733968083],[76.66302281971542,13.4456230597334]]]},"properties":{"region_id":"village_610171","name":"JANEHAR","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

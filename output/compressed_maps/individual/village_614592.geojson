@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08363759040172,12.57828631360916],[77.06168983476181,12.58012657574471],[77.06338987777592,12.56449081407046],[77.0853676128505,12.56625359788642],[77.08363759040172,12.57828631360916]]]},"properties":{"region_id":"village_614592","name":"ALUR","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

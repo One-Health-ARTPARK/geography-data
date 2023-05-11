@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33051881874209,13.47823262662578],[77.31469290013585,13.47741461276614],[77.31789405955152,13.45439554408245],[77.33678221719609,13.45977219231608],[77.33051881874209,13.47823262662578]]]},"properties":{"region_id":"village_611149","name":"MADYA VENKATAPURA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

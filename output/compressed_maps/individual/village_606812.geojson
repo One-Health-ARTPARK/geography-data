@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62972673565866,14.23496598765685],[75.62741589858186,14.24735808577299],[75.60942961086724,14.24324704354402],[75.60677302744463,14.23290369667325],[75.62972673565866,14.23496598765685]]]},"properties":{"region_id":"village_606812","name":"MARIKOPPA","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

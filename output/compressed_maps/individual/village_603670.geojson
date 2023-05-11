@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83457469350768,14.26513026439251],[74.81853807425307,14.27501799859601],[74.81413700721163,14.25499811820943],[74.83457469350768,14.26513026439251]]]},"properties":{"region_id":"village_603670","name":"KILAR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

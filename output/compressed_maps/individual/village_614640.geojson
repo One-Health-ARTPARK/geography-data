@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00991760801048,12.46382884857282],[76.99888601649549,12.46332470219651],[76.9991232890822,12.44419619110692],[77.01279621532704,12.444196990428],[77.00991760801048,12.46382884857282]]]},"properties":{"region_id":"village_614640","name":"YALADAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

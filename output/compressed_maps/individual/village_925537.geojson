@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95842315745634,13.01550786860235],[77.94410540284987,13.02226713697742],[77.93673940089764,13.01611029237954],[77.94916154553205,13.00974669481293],[77.95842315745634,13.01550786860235]]]},"properties":{"region_id":"village_925537","name":"NACHOOHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

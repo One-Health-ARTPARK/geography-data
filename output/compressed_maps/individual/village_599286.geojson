@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02358548448188,17.04856045643962],[76.00420148587831,17.04801515865906],[75.99589920828002,17.03042578475767],[76.01405838463991,17.02990436161524],[76.02358548448188,17.04856045643962]]]},"properties":{"region_id":"village_599286","name":"BANNIHATTI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

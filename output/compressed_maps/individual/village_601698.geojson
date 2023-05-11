@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65378516635312,15.48602274050488],[76.6187601191888,15.49256175091922],[76.62119834509906,15.44999654184082],[76.66287740060095,15.44729250674172],[76.65378516635312,15.48602274050488]]]},"properties":{"region_id":"village_601698","name":"MUSTUR","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

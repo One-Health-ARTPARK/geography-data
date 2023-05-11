@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89240104429315,12.47363436920282],[75.90069845115421,12.45547280841524],[75.90594979944723,12.45887448963907],[75.90557261327518,12.47389365408747],[75.89240104429315,12.47363436920282]]]},"properties":{"region_id":"village_939062","name":"HADRE","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

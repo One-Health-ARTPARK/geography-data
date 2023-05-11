@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67290399985441,13.02141812258614],[77.6658293051828,13.03233261452124],[77.65142753865048,13.02189043487097],[77.66087582543199,13.01396672667838],[77.67290399985441,13.02141812258614]]]},"properties":{"region_id":"village_938232","name":"HORAMAVU","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

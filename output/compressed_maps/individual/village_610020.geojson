@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64502120247799,13.03226332417285],[75.65521044337044,13.04912482000162],[75.6490562497713,13.05422029925502],[75.63726423524122,13.0401595659632],[75.64502120247799,13.03226332417285]]]},"properties":{"region_id":"village_610020","name":"HARMAKKI","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

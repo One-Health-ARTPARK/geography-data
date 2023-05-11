@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0529833033445,14.7241840671713],[75.04253846631929,14.72547615633304],[75.03613080016424,14.70931769129373],[75.05334064572658,14.70971782265185],[75.0529833033445,14.7241840671713]]]},"properties":{"region_id":"village_604113","name":"SAGARVALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

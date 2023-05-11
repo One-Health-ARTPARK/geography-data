@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86805742156723,13.10345367608917],[77.85844997782402,13.09261894169399],[77.87489371460083,13.0873181064425],[77.87995923503244,13.09349618894131],[77.86805742156723,13.10345367608917]]]},"properties":{"region_id":"village_625621","name":"NIDAGATTA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

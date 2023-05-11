@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14737360451097,15.02693979032871],[75.14644721619274,15.01306590440464],[75.16915061269654,15.01478709058677],[75.16785476849141,15.02662132981338],[75.14737360451097,15.02693979032871]]]},"properties":{"region_id":"village_603899","name":"SHEELVANT SOMAPUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

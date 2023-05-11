@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38697921086677,16.26647466764501],[77.36834699033692,16.26818377804795],[77.35653749923377,16.24059138994112],[77.39829978261946,16.23334183637813],[77.38697921086677,16.26647466764501]]]},"properties":{"region_id":"village_600780","name":"POTGAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

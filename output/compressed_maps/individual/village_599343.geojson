@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23443906427,16.98290638535147],[76.22291421728413,16.98645254976958],[76.2171381650415,16.95028789341507],[76.234405610695,16.96360675062846],[76.23443906427,16.98290638535147]]]},"properties":{"region_id":"village_599343","name":"RAMPUR(P.A)","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

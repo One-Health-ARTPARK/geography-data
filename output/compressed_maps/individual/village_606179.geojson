@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61151200683096,13.88143216335295],[76.60637917940542,13.89437507236709],[76.59085546044531,13.88213975534374],[76.5934875871525,13.87021766616729],[76.61303989668471,13.86946111690476],[76.61151200683096,13.88143216335295]]]},"properties":{"region_id":"village_606179","name":"CHALLAMADU","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

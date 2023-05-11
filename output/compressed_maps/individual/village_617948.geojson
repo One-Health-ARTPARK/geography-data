@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92046930016706,12.54843106674134],[75.90435092466075,12.55444770109026],[75.90575401817516,12.53493689299639],[75.91654666043713,12.53348373712719],[75.92046930016706,12.54843106674134]]]},"properties":{"region_id":"village_617948","name":"YELAKANUR","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

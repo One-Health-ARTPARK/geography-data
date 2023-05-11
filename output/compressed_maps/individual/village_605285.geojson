@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76870411805551,14.52149977772746],[76.75455317584725,14.52806093006302],[76.72804768687007,14.50875736434629],[76.7585379119637,14.5056201509481],[76.76870411805551,14.52149977772746]]]},"properties":{"region_id":"village_605285","name":"DEVAREDDYHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

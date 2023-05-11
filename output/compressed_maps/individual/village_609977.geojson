@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63056281252041,13.14438050009285],[75.62476066568968,13.14655662039328],[75.62217401612374,13.13341332940968],[75.62896987295706,13.13544557500115],[75.63056281252041,13.14438050009285]]]},"properties":{"region_id":"village_609977","name":"LOKAVALLI ESTATE","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

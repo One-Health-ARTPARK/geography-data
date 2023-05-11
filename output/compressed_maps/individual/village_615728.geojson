@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21369894815335,13.44594003526995],[76.21714346429584,13.45858817027692],[76.21224143838539,13.45799531529544],[76.21369894815335,13.44594003526995]]]},"properties":{"region_id":"village_615728","name":"PURA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7109530142669,12.90484562960295],[76.69314599143387,12.91076665335997],[76.70059153323295,12.8932760202878],[76.7109530142669,12.90484562960295]]]},"properties":{"region_id":"village_613762","name":"CHOLENAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

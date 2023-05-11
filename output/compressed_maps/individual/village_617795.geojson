@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47895489209591,12.38868081415921],[75.46771508794134,12.371866775843],[75.52410070610357,12.34838255065831],[75.52861205445622,12.37973199884904],[75.47895489209591,12.38868081415921]]]},"properties":{"region_id":"village_617795","name":"CHERANGALA","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

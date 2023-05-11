@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03676764896889,13.29717934773631],[77.03131455032396,13.30434461337002],[77.01848111918962,13.29693274926246],[77.03187569615874,13.28462728750608],[77.03676764896889,13.29717934773631]]]},"properties":{"region_id":"village_611452","name":"ADLAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

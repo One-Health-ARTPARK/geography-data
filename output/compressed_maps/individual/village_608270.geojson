@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35349771155072,13.62739479277683],[75.3392197755607,13.62439830955986],[75.34693636432986,13.60468255475601],[75.36528269439242,13.61926144898232],[75.35349771155072,13.62739479277683]]]},"properties":{"region_id":"village_608270","name":"BELLANGI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

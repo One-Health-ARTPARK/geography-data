@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19466749327742,17.6745721520432],[77.17772117947668,17.71107934914263],[77.15582501554053,17.70884606607461],[77.16249718243056,17.67346509899126],[77.19466749327742,17.6745721520432]]]},"properties":{"region_id":"village_600315","name":"ITGA","parent":"subdistrict_7084","parent_name":"CHITAGUPPA"}}
+]}

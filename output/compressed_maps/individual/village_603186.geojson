@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76718594100713,14.61447737682107],[74.74668700115045,14.60821470965013],[74.75896567855385,14.58731515207271],[74.76718594100713,14.61447737682107]]]},"properties":{"region_id":"village_603186","name":"YACHADI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

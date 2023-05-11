@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78461627245147,12.03683949613767],[76.77235869341587,12.02922690886561],[76.76825424136679,12.0109260234169],[76.79505784677262,12.01452863243689],[76.78461627245147,12.03683949613767]]]},"properties":{"region_id":"village_619299","name":"GATTAVADI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

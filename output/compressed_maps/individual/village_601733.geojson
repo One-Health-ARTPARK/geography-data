@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94787936502236,15.17291431259534],[75.95139754940574,15.1370837301772],[75.96109093893169,15.15547848678992],[75.94787936502236,15.17291431259534]]]},"properties":{"region_id":"village_601733","name":"KESLAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

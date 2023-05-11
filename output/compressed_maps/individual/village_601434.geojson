@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02794555092434,15.85363072556376],[76.0326985109256,15.88955371858117],[76.01901464336322,15.89815764272964],[76.00692868370582,15.85511311410987],[76.02794555092434,15.85363072556376]]]},"properties":{"region_id":"village_601434","name":"MAVINITAGI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

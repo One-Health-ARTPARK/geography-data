@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75806595856767,14.33924030194354],[74.73979279655009,14.33659509063139],[74.75418374267461,14.32040082723706],[74.75806595856767,14.33924030194354]]]},"properties":{"region_id":"village_603642","name":"KELGINMANE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

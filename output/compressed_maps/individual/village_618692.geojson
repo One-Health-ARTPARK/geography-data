@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55739136979986,12.40084832320704],[76.56574248318914,12.39915917753302],[76.56828989323382,12.42501622823435],[76.55373209013673,12.41703299668869],[76.55739136979986,12.40084832320704]]]},"properties":{"region_id":"village_618692","name":"OONDAVADI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

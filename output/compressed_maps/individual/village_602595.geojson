@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.27557764795212,14.87706319154383],[74.25269861869786,14.87362245062213],[74.25867296959899,14.86440764038603],[74.27533726526549,14.86858327399749],[74.27557764795212,14.87706319154383]]]},"properties":{"region_id":"village_602595","name":"KADIYE","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

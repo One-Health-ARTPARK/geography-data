@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97939281831741,13.09936190107552],[76.99309489528261,13.1248485651293],[76.97013981532417,13.12266710199869],[76.97939281831741,13.09936190107552]]]},"properties":{"region_id":"village_612482","name":"SINGONAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

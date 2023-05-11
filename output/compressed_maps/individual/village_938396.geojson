@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92991180769047,14.46183736845284],[75.91350646752345,14.45445959380744],[75.92297538343264,14.43460689113956],[75.93666509576913,14.45054426844812],[75.92991180769047,14.46183736845284]]]},"properties":{"region_id":"village_938396","name":"NITTUVALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

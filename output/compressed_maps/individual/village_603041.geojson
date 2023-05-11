@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06946495703085,14.88831980581256],[75.06706766857339,14.91909755176933],[75.0368435651341,14.908121119721],[75.06946495703085,14.88831980581256]]]},"properties":{"region_id":"village_603041","name":"CHIGALLI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

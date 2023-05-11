@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16488935412974,16.51163598663259],[76.13025313100964,16.52021958806361],[76.12116029395254,16.49727158534029],[76.15374298598904,16.47992693685858],[76.16488935412974,16.51163598663259]]]},"properties":{"region_id":"village_599588","name":"PADEKNUR","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

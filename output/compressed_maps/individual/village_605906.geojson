@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25704528222172,13.95389378603759],[76.26404540256087,13.99563370745085],[76.22858467841426,13.98668456925056],[76.25704528222172,13.95389378603759]]]},"properties":{"region_id":"village_605906","name":"DUGGAVARA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

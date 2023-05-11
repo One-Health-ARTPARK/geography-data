@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31267607099896,13.33607056051687],[76.28665165530634,13.34944439839474],[76.2939242980296,13.31821921621102],[76.31267607099896,13.33607056051687]]]},"properties":{"region_id":"village_615717","name":"AGGUNDA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

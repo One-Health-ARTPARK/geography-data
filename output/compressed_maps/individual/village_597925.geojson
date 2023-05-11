@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45594778039447,15.59330043117899],[74.43168558065953,15.57637651902741],[74.45180979534788,15.56736411122618],[74.45594778039447,15.59330043117899]]]},"properties":{"region_id":"village_597925","name":"TEREGALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

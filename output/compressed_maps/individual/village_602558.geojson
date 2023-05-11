@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29352067545173,15.28772133062832],[75.28234172200649,15.26543385519436],[75.32573882943643,15.26086717533638],[75.34920033761193,15.28246984645349],[75.29352067545173,15.28772133062832]]]},"properties":{"region_id":"village_602558","name":"HIRENARTI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

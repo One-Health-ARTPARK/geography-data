@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57869501246061,13.02937376758947],[76.5699004737954,13.03223767657074],[76.55818007646103,13.01158855831659],[76.56915956208493,13.01430679369854],[76.57869501246061,13.02937376758947]]]},"properties":{"region_id":"village_617313","name":"PURA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

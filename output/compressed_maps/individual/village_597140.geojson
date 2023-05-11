@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.3441451943381,16.35511851107246],[74.31766605232036,16.35313053218388],[74.32201013563802,16.33395635819168],[74.34598799401249,16.31885977975415],[74.3584010665844,16.3311780303494],[74.3441451943381,16.35511851107246]]]},"properties":{"region_id":"village_597140","name":"SHENDUR","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27525740545968,13.22884204473809],[77.27335765025242,13.21351267851882],[77.28053728948115,13.20960138452891],[77.285758161285,13.22258249620044],[77.27525740545968,13.22884204473809]]]},"properties":{"region_id":"village_624806","name":"BIRAGUNDANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

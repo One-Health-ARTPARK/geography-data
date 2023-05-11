@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76326725855881,13.00269028917304],[77.7572586524301,13.00896665451635],[77.74899519424041,13.00897097016203],[77.75095827217878,13.00204630885097],[77.76326725855881,13.00269028917304]]]},"properties":{"region_id":"village_938195","name":"BELATTURU","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

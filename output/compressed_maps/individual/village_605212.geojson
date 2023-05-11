@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65661468528435,14.68851411975271],[76.64049855346072,14.65866748352536],[76.67643054675756,14.65652552235917],[76.65661468528435,14.68851411975271]]]},"properties":{"region_id":"village_605212","name":"TUMKURLAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

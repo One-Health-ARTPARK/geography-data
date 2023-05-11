@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37729505245582,15.86166730458358],[75.38086316441093,15.88111981889287],[75.36207177633575,15.87404916342369],[75.37729505245582,15.86166730458358]]]},"properties":{"region_id":"village_598387","name":"HAMPIHOLI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

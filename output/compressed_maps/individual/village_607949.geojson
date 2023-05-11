@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2888959778877,14.01041304536333],[75.27219526590878,13.98623201008529],[75.29865219251194,13.98068191717294],[75.2888959778877,14.01041304536333]]]},"properties":{"region_id":"village_607949","name":"BENAVALLI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33534811509998,12.31294967792026],[76.31176278299043,12.30528845182861],[76.3154325834662,12.29519567593123],[76.33808660194866,12.29751137992606],[76.33534811509998,12.31294967792026]]]},"properties":{"region_id":"village_618417","name":"BEEJAGANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8596643838293,13.15312458302783],[75.85235699507906,13.14727160208461],[75.85190294884065,13.13362973774926],[75.86535079999379,13.13978085098236],[75.8596643838293,13.15312458302783]]]},"properties":{"region_id":"village_615231","name":"KERLUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

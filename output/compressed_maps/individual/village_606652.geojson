@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12117018563006,14.32381221536942],[76.08020227000796,14.32990065661369],[76.08456157903348,14.30707990618867],[76.12117018563006,14.32381221536942]]]},"properties":{"region_id":"village_606652","name":"BAVIHALU","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

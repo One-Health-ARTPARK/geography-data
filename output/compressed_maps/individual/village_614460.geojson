@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79544163170506,12.51661278004189],[76.77648386918011,12.51471974872296],[76.78151901157013,12.49317721477795],[76.80715141048628,12.48862348349797],[76.8072803236463,12.49985861338997],[76.79544163170506,12.51661278004189]]]},"properties":{"region_id":"village_614460","name":"YELACHAKANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

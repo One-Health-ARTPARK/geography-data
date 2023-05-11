@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58068863106013,13.73413486748136],[77.57130282956376,13.7383508572318],[77.56043234720279,13.72228775660692],[77.5681335931732,13.71329369818907],[77.58068863106013,13.73413486748136]]]},"properties":{"region_id":"village_623274","name":"MARIPADAGU","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

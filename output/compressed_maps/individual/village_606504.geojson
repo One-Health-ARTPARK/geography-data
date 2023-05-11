@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5123553683703,14.52553896410273],[76.4870595037917,14.52828079577458],[76.48930314843226,14.50911901334724],[76.5123553683703,14.52553896410273]]]},"properties":{"region_id":"village_606504","name":"KAMANDALAGONDI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

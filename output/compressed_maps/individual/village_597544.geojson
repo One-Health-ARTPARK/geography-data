@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12346394376488,16.18927547602851],[75.09605980415347,16.20141133683532],[75.09646215563369,16.16710986589911],[75.11607284778722,16.17012209073849],[75.12346394376488,16.18927547602851]]]},"properties":{"region_id":"village_597544","name":"KALLIGUDDI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

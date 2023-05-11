@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6697137593649,14.37801243972344],[75.67008073864184,14.40511027377654],[75.65689720194847,14.40416697531777],[75.65538975200097,14.37897303165508],[75.6697137593649,14.37801243972344]]]},"properties":{"region_id":"village_606225","name":"HINDASAGHATTE","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

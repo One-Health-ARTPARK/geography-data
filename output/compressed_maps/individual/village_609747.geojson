@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78068944235675,13.29344961248593],[75.79134872064849,13.30087337109198],[75.78297992210972,13.31503767267186],[75.76925911935047,13.31683689567661],[75.7656632040347,13.31076497317855],[75.78068944235675,13.29344961248593]]]},"properties":{"region_id":"village_609747","name":"CHIKMAGALUR (RURAL)","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

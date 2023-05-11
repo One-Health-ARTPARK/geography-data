@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57164894281314,11.93608641091451],[76.57148815554946,11.93940596295436],[76.54886732095832,11.95109837418803],[76.55122710205228,11.94166112490142],[76.57164894281314,11.93608641091451]]]},"properties":{"region_id":"village_619170","name":"BHOGAVALUVADEYANAPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

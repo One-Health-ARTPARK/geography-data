@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84367324510606,13.4629102716104],[77.83383840913898,13.47733013038851],[77.81673372064665,13.46662644347663],[77.83813290965098,13.45339777155567],[77.84367324510606,13.4629102716104]]]},"properties":{"region_id":"village_623585","name":"BADANIGANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

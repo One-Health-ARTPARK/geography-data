@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68123486313593,12.22978331267625],[76.67458633785023,12.19947445331705],[76.69331575847976,12.20853367802868],[76.68123486313593,12.22978331267625]]]},"properties":{"region_id":"village_618815","name":"KOODANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

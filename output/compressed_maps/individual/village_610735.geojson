@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14309183833149,13.73511636145666],[77.13540879308154,13.74277508502091],[77.12658057743941,13.73487802645113],[77.13969747111476,13.7252082294621],[77.14309183833149,13.73511636145666]]]},"properties":{"region_id":"village_610735","name":"VITALAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

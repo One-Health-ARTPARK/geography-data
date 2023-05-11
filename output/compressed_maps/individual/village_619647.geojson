@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9466492765726,11.98806614303475],[76.94259547346326,11.99156992468087],[76.9280287574124,11.98678372258298],[76.92154724520171,11.97763183000385],[76.93997262444479,11.98098816422693],[76.9466492765726,11.98806614303475]]]},"properties":{"region_id":"village_619647","name":"BHOGAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

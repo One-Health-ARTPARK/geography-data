@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43883635406658,12.74896989361271],[77.42261286976047,12.75820158650854],[77.4100857032248,12.74346688558428],[77.42902154226535,12.73059902837153],[77.43883635406658,12.74896989361271]]]},"properties":{"region_id":"village_626140","name":"BYRAMANGALA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

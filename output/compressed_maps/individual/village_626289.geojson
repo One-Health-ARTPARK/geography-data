@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26370652714117,12.57223187219494],[77.25576762257677,12.57192318738471],[77.26261237060264,12.56271341559781],[77.27070988020054,12.56200905193961],[77.26370652714117,12.57223187219494]]]},"properties":{"region_id":"village_626289","name":"VIRUPASANDRA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

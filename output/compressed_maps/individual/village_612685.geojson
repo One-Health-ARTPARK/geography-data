@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97970153843147,12.83365733200902],[76.96952926606808,12.83540698393983],[76.9639305619553,12.82200132538643],[76.9793845931421,12.81697806153421],[76.97970153843147,12.83365733200902]]]},"properties":{"region_id":"village_612685","name":"KAGGANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15724930030743,16.78832849512613],[77.1666504044495,16.80553264599378],[77.13983620979907,16.79089433613972],[77.14661603701234,16.78273368492619],[77.15724930030743,16.78832849512613]]]},"properties":{"region_id":"village_621298","name":"DASTRABAD","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99520653826754,14.51775061470297],[75.9587237612307,14.52081759236258],[75.96724205923297,14.49501857420001],[75.99792120136425,14.48805730550754],[75.99520653826754,14.51775061470297]]]},"properties":{"region_id":"village_606558","name":"KADAJJI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

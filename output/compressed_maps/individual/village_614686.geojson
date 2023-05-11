@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98562625845399,12.36271084702185],[76.97779980470538,12.33326708467775],[76.99861120886365,12.32947194597185],[77.00570837695687,12.35114294937423],[76.98562625845399,12.36271084702185]]]},"properties":{"region_id":"village_614686","name":"SUJJALUR","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

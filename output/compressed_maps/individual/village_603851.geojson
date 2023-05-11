@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6069900510847,14.00310497778008],[74.60331901793575,14.01203960616482],[74.58297227801114,14.01513596578884],[74.59456817686214,13.99647365354921],[74.6069900510847,14.00310497778008]]]},"properties":{"region_id":"village_603851","name":"KOTKHANDA","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

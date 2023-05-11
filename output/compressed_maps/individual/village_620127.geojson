@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49890337865378,17.19262870800905],[76.46873930983409,17.2082283077338],[76.47706307047704,17.17409970368165],[76.49890337865378,17.19262870800905]]]},"properties":{"region_id":"village_620127","name":"TELLUR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

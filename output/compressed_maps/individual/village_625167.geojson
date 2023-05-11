@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36374891444984,13.3151047507566],[77.35606296711231,13.31732007079992],[77.35466664532929,13.30651561107105],[77.37013455538084,13.30668687806178],[77.36374891444984,13.3151047507566]]]},"properties":{"region_id":"village_625167","name":"CHIKKAMANKANALA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

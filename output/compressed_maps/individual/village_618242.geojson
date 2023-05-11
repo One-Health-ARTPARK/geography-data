@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0409132626611,12.37469724296112],[76.02269287181093,12.37931341299659],[76.02486509779064,12.35469818505761],[76.04317236023137,12.35981986919809],[76.0409132626611,12.37469724296112]]]},"properties":{"region_id":"village_618242","name":"HUNASAVADI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

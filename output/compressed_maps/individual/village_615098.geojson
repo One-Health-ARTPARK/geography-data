@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74961330728328,13.03783495764979],[75.74023754723078,13.01760136426898],[75.75647058154168,13.01961518185355],[75.74961330728328,13.03783495764979]]]},"properties":{"region_id":"village_615098","name":"MURAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44247060417948,14.49323911640865],[75.42985333257369,14.50300587257846],[75.41517248811077,14.48745874741834],[75.43361963169694,14.47885845391546],[75.44247060417948,14.49323911640865]]]},"properties":{"region_id":"village_604383","name":"KALAGONDA","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

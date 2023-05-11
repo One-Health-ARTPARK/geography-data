@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49584878996342,16.33703450540579],[76.48249290988288,16.33881062512955],[76.47435033097933,16.31770152474761],[76.49464563897133,16.31615086570234],[76.49584878996342,16.33703450540579]]]},"properties":{"region_id":"village_620978","name":"KUDEDARHAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

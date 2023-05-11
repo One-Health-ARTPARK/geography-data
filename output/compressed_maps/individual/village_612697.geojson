@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06813618983028,12.92438818720997],[77.03984701291373,12.91984820739891],[77.04851062785224,12.89157575640065],[77.07325514642427,12.89378050622307],[77.06813618983028,12.92438818720997]]]},"properties":{"region_id":"village_612697","name":"CHIKKAMAVATHUR","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

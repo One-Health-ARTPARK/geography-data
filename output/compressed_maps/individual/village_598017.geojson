@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73138501836281,15.47107143667377],[74.72366081465786,15.46732696235333],[74.72561165334139,15.4519645331764],[74.7387907772619,15.44494540938092],[74.74386538364355,15.46321344227858],[74.73138501836281,15.47107143667377]]]},"properties":{"region_id":"village_598017","name":"LINGANMATH","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

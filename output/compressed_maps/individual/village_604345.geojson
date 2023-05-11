@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49474398340986,14.58739826482257],[75.49641504618064,14.61313960498273],[75.47793170387921,14.60936954451871],[75.47680494877521,14.5934381557651],[75.49474398340986,14.58739826482257]]]},"properties":{"region_id":"village_604345","name":"BISALAHALLI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

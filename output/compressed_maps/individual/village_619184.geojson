@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60583482476815,12.14359220625402],[76.59411232489693,12.14357348977592],[76.59413391918586,12.11777887334169],[76.60583024193994,12.11982737868784],[76.60583482476815,12.14359220625402]]]},"properties":{"region_id":"village_619184","name":"BIDARAGOODU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

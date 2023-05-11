@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45908242621805,14.42780957810265],[74.434721466556,14.42951491035569],[74.42611555462089,14.41450692239686],[74.44983990152518,14.40915528539316],[74.45908242621805,14.42780957810265]]]},"properties":{"region_id":"village_603493","name":"KALKERI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

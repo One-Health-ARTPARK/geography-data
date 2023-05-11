@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5712055816374,13.52967349498754],[77.55343267227938,13.50752255223745],[77.57429580449232,13.50691461519561],[77.5712055816374,13.52967349498754]]]},"properties":{"region_id":"village_623393","name":"ARKUNDA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

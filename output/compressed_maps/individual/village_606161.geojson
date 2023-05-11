@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66126364491556,13.92796877228995],[76.67763958404778,13.91466538023187],[76.68898794188642,13.91224760420213],[76.68066075400031,13.93520141825674],[76.66015589074539,13.9355737221119],[76.66126364491556,13.92796877228995]]]},"properties":{"region_id":"village_606161","name":"NANDIHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

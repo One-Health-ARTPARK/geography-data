@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15905465146741,13.77405171509757],[75.13568555171426,13.7756198283516],[75.13298813468568,13.76173166213764],[75.15770362653478,13.75816237795368],[75.15905465146741,13.77405171509757]]]},"properties":{"region_id":"village_608175","name":"BEESU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03245525717104,13.01734450144858],[77.02668991057546,13.00346958486959],[77.04821931931558,13.00844805004855],[77.04815193322564,13.01560719069854],[77.03245525717104,13.01734450144858]]]},"properties":{"region_id":"village_612595","name":"BEGUR AMANIKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

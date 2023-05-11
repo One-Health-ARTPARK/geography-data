@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97375137998836,14.06363467318561],[75.97414193936432,14.07318584396216],[75.93946966425128,14.07871639865078],[75.94895730296297,14.06048755184531],[75.97375137998836,14.06363467318561]]]},"properties":{"region_id":"village_607012","name":"GULLEHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

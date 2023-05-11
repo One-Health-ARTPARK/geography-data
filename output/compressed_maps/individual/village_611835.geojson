@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94782665404229,13.31758733954018],[76.93293875685265,13.31465045762628],[76.92551705473844,13.30142127646894],[76.94871463170104,13.3016265431248],[76.9609760310684,13.31142081355216],[76.94782665404229,13.31758733954018]]]},"properties":{"region_id":"village_611835","name":"GUBBI(RURAL)","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19149695397323,15.17257947486164],[76.23161413637897,15.18416356625482],[76.21273496563789,15.21433460139559],[76.19427653843384,15.2069882398451],[76.19149695397323,15.17257947486164]]]},"properties":{"region_id":"village_604656","name":"KITHANUR","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

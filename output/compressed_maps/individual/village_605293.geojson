@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83212360103549,14.52831929686873],[76.80538318095141,14.53466235098741],[76.76420312897967,14.50304271837996],[76.79878350964366,14.4812650732853],[76.83212360103549,14.52831929686873]]]},"properties":{"region_id":"village_605293","name":"BHOGANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

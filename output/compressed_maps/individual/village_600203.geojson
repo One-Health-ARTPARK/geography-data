@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48774461715806,17.88626396715559],[77.47107956876008,17.88888508077445],[77.46481010015482,17.87287170987618],[77.4874488838879,17.87492707153752],[77.48774461715806,17.88626396715559]]]},"properties":{"region_id":"village_600203","name":"ZAMISTANPUR","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

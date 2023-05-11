@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.59500833364686,15.62103733708964],[74.58756351750536,15.63055577581433],[74.57915466116607,15.62372728822777],[74.58757215905885,15.61694138677814],[74.59500833364686,15.62103733708964]]]},"properties":{"region_id":"village_597892","name":"ALLEHOL","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

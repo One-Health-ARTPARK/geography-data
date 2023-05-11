@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17663720121817,16.8958706228984],[76.20867449627382,16.87350617472826],[76.2075422818378,16.92900629605352],[76.17657732016616,16.93158399808933],[76.17663720121817,16.8958706228984]]]},"properties":{"region_id":"village_599364","name":"BANDAL","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

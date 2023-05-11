@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4347963726666,13.37695240865394],[75.46546696968147,13.39779335581751],[75.45684864639193,13.41481015445171],[75.41257512407138,13.39293456450816],[75.4347963726666,13.37695240865394]]]},"properties":{"region_id":"village_609026","name":"ADIGEBYLU","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

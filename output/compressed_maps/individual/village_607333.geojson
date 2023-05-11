@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02233678472216,14.13315092297505],[75.01658457988313,14.13678571891714],[75.01349697522886,14.13089506745391],[75.02233678472216,14.13315092297505]]]},"properties":{"region_id":"village_607333","name":"KOPPALAGADDE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92066619091273,12.94936522726388],[76.89989784371873,12.95275178999099],[76.902031804769,12.93448784731416],[76.92532011500597,12.93716342330104],[76.92066619091273,12.94936522726388]]]},"properties":{"region_id":"village_612640","name":"TUBINAKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

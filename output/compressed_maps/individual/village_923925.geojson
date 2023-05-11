@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95059358007656,12.6764257080072],[75.95020862945495,12.68523050979015],[75.94276117901424,12.68657353488622],[75.94007176234018,12.67543601123058],[75.95059358007656,12.6764257080072]]]},"properties":{"region_id":"village_923925","name":"BADUBANAHALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

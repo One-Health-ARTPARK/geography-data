@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.57167622025985,13.9822541166139],[74.56026603094084,13.98124071542052],[74.5628472126873,13.97053675406121],[74.5719877141755,13.9739483530815],[74.57167622025985,13.9822541166139]]]},"properties":{"region_id":"village_603834","name":"PURVARGA","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

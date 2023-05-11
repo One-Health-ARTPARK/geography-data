@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62470289790696,12.42203350448043],[76.62416039143545,12.41476899936304],[76.63284048915324,12.41651265324709],[76.63414060729772,12.4238830129789],[76.62470289790696,12.42203350448043]]]},"properties":{"region_id":"village_614283","name":"KAREKURA","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61287729354669,17.64639567976482],[76.6083449026303,17.66845556054627],[76.57630826187827,17.6742756970902],[76.57584728303881,17.64602266913763],[76.61287729354669,17.64639567976482]]]},"properties":{"region_id":"village_619968","name":"BANGERGA","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

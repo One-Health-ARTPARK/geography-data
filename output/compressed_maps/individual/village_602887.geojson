@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76429914463206,15.04822413294408],[74.74269540408281,15.0677936759697],[74.72139379647759,15.03683007112781],[74.72387935639317,15.01357754336703],[74.76429914463206,15.04822413294408]]]},"properties":{"region_id":"village_602887","name":"KANNIGERI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

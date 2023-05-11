@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81005592203645,13.48529049636824],[77.79807810967918,13.48443225696887],[77.79397114999375,13.47357940708944],[77.80855950223673,13.47379213358863],[77.81005592203645,13.48529049636824]]]},"properties":{"region_id":"village_623579","name":"NELLIMARADAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

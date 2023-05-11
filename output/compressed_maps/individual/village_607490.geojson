@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17467182640823,14.49223004327243],[75.17245511642555,14.51182650964169],[75.14662483516182,14.49956129215637],[75.1501047929934,14.48737862125548],[75.17467182640823,14.49223004327243]]]},"properties":{"region_id":"village_607490","name":"BETTADAKURLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

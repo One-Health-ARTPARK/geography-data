@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61461955743712,13.22043512671072],[77.60553791804362,13.22197556988797],[77.60376230754822,13.20261468092392],[77.61260352937522,13.20209200562687],[77.61461955743712,13.22043512671072]]]},"properties":{"region_id":"village_625298","name":"HEGGANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

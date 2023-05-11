@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57788336593191,15.94617468850563],[76.55144387029402,15.96428878227779],[76.54227512474334,15.91621836290306],[76.57071336190522,15.89455785221561],[76.58386440762142,15.92198380915905],[76.57788336593191,15.94617468850563]]]},"properties":{"region_id":"village_600525","name":"MEDIKINHAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

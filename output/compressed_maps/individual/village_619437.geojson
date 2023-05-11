@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0419335684268,12.20572999142847],[77.02865847925253,12.18764352663128],[77.0134999747625,12.19712788764216],[77.01419187151662,12.17563506766246],[77.0402740160395,12.19154710471082],[77.0419335684268,12.20572999142847]]]},"properties":{"region_id":"village_619437","name":"TALAKADU","parent":"subdistrict_5575","parent_name":"TIRUMAKUDAL - NARSIPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03990890675337,15.80463712127081],[75.04282453616675,15.82348057160461],[75.02939285604893,15.8208559874065],[75.02467699343515,15.80568827886222],[75.03990890675337,15.80463712127081]]]},"properties":{"region_id":"village_598229","name":"YAKKUNDI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

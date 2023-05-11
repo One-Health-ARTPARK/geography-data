@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52959291694445,15.19531021795965],[75.51237082642767,15.19353436315859],[75.5077504317056,15.16625716077041],[75.53669581711534,15.16713529660657],[75.52959291694445,15.19531021795965]]]},"properties":{"region_id":"village_602063","name":"AKKIGUND","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

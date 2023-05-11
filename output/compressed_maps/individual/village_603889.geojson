@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15471474388909,15.0744154345446],[75.14633495854872,15.04761999882448],[75.17233762179157,15.049951719901],[75.1768189526556,15.06817880695804],[75.15471474388909,15.0744154345446]]]},"properties":{"region_id":"village_603889","name":"SHYADAMBI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

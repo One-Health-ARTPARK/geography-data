@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6320602777537,15.85871572505767],[75.63118125850501,15.88009693598284],[75.59623907483767,15.87480400142899],[75.59841981433682,15.8649596561265],[75.6320602777537,15.85871572505767]]]},"properties":{"region_id":"village_598716","name":"LAKHAMAPUR","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

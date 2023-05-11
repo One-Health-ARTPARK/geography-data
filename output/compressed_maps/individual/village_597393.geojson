@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91380425513812,16.51347480941825],[74.9440094714981,16.51663073815042],[74.94208984763576,16.54503829771603],[74.91380425513812,16.51347480941825]]]},"properties":{"region_id":"village_597393","name":"BADABYAKUD","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

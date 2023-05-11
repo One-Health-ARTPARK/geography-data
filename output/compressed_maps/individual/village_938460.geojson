@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5952822880714,12.86652956697114],[77.58178647306984,12.86049711993948],[77.59303039680599,12.85073885274637],[77.5952822880714,12.86652956697114]]]},"properties":{"region_id":"village_938460","name":"GOTTIGERE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

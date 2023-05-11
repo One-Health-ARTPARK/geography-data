@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60365272586321,14.36437770640508],[75.57998223031669,14.38041136387047],[75.58450966898035,14.34390136991353],[75.60365272586321,14.36437770640508]]]},"properties":{"region_id":"village_604456","name":"CHIKKABBAR","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

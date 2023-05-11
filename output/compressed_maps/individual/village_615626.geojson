@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30081191556457,13.44288573374756],[76.28857594981142,13.45442647075291],[76.27896490514449,13.43467248066866],[76.29966720383719,13.42824885639571],[76.30081191556457,13.44288573374756]]]},"properties":{"region_id":"village_615626","name":"JANNAVARA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

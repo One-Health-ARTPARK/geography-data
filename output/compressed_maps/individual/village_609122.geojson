@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71065078210276,13.70262552943531],[75.69930267032157,13.70041173825558],[75.70226251345058,13.68744175027718],[75.71508061296818,13.69045024848981],[75.71065078210276,13.70262552943531]]]},"properties":{"region_id":"village_609122","name":"VADDARADIBBA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

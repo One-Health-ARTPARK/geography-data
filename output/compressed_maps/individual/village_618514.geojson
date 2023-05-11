@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23671312011861,12.60923460588758],[76.2240841563106,12.58344421836135],[76.23869256688755,12.59018974418953],[76.23671312011861,12.60923460588758]]]},"properties":{"region_id":"village_618514","name":"BAKKAREHALLADA KAVAL","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

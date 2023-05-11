@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9174786770961,12.60226248496972],[76.88626582289177,12.60449174851938],[76.89182948800132,12.58593051542336],[76.91725882633081,12.5781263519574],[76.9174786770961,12.60226248496972]]]},"properties":{"region_id":"village_614377","name":"HULIVANA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

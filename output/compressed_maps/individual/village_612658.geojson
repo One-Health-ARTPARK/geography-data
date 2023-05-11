@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92756928359626,12.92073903602793],[76.91920623043247,12.92389271588734],[76.91147474705754,12.9186152905835],[76.92160407328082,12.91262063660652],[76.92756928359626,12.92073903602793]]]},"properties":{"region_id":"village_612658","name":"SHANUBOGANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

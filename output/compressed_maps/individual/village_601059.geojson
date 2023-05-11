@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48316993129545,15.80125732129111],[76.49946070686435,15.82428474335148],[76.48782501842625,15.83110581715756],[76.46424659496171,15.80306568760708],[76.48316993129545,15.80125732129111]]]},"properties":{"region_id":"village_601059","name":"SANKANHAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.31724050685153,14.57835371172915],[74.3145640890261,14.56448103816852],[74.32666696036529,14.56080164461243],[74.3294509189444,14.56272062439075],[74.32958313764433,14.57360120264817],[74.31724050685153,14.57835371172915]]]},"properties":{"region_id":"village_603414","name":"HANEHALLI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

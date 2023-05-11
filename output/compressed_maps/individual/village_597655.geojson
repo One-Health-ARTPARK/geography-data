@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6228176652908,16.01959199764076],[74.61065304447857,16.03542080916228],[74.59523693566753,16.01662146795482],[74.6228176652908,16.01959199764076]]]},"properties":{"region_id":"village_597655","name":"RAJAKATTI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

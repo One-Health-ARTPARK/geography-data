@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0224072104458,15.28852931630127],[75.99196893644266,15.28812312833202],[75.960457759565,15.25909965122083],[75.96285209083568,15.21698990356374],[76.02404062718553,15.24227484611936],[76.0224072104458,15.28852931630127]]]},"properties":{"region_id":"village_601724","name":"ALWANDI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

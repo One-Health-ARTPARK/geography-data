@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71736217933402,13.74087071824594],[77.70411396488744,13.76263473527951],[77.6803698985722,13.75732805962716],[77.68366928839806,13.72749301600115],[77.71736217933402,13.74087071824594]]]},"properties":{"region_id":"village_623684","name":"YELLODU","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

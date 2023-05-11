@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44983220888423,15.87761590806277],[76.42649456177726,15.88332885159241],[76.41683705463105,15.86480989146068],[76.44889483620317,15.85273819405679],[76.44983220888423,15.87761590806277]]]},"properties":{"region_id":"village_600392","name":"TODKI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

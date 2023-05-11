@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66153983276554,13.71313040202088],[74.64315688982144,13.71032538272363],[74.65355712331477,13.69600300088336],[74.66153983276554,13.71313040202088]]]},"properties":{"region_id":"village_608673","name":"HADAVU","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

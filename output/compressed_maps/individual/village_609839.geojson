@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72034670196221,13.24600419929644],[75.70883063913479,13.24523228746476],[75.70829763238628,13.23702762855082],[75.72034670196221,13.24600419929644]]]},"properties":{"region_id":"village_609839","name":"ARENAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

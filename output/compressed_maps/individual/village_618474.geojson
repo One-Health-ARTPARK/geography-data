@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46187247882115,12.28289036787669],[76.44753505979796,12.28474072594216],[76.44907697741547,12.27581934198043],[76.46016409646312,12.26996084834461],[76.46187247882115,12.28289036787669]]]},"properties":{"region_id":"village_618474","name":"HARADANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

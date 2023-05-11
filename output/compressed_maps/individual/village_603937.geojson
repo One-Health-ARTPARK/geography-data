@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13589718980369,14.92234917398032],[75.13763765331116,14.91358225377781],[75.16017096682488,14.91025831547835],[75.15073723837635,14.92880307936451],[75.13589718980369,14.92234917398032]]]},"properties":{"region_id":"village_603937","name":"TORUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

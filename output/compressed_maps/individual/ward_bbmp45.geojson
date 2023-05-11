@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56277899956251,13.02065499977779],[77.55557899960293,13.01999400036199],[77.56069700033407,13.00582299962883],[77.56909700000797,13.01204400028061],[77.56277899956251,13.02065499977779]]]},"properties":{"region_id":"ward_bbmp45","name":"WARD NO.45(MALLESHWARAM)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

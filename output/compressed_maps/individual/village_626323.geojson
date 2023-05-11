@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25436440756559,12.54835390539639],[77.23419101134607,12.53522901015219],[77.25583272984056,12.52433074897933],[77.25436440756559,12.54835390539639]]]},"properties":{"region_id":"village_626323","name":"SHANUBHOGANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

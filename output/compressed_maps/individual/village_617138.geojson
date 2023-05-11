@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40457479872302,13.1209381976426],[76.38134847659371,13.12132543511045],[76.38322640604768,13.10144319457062],[76.39198675374935,13.09781113002663],[76.40457479872302,13.1209381976426]]]},"properties":{"region_id":"village_617138","name":"KEMBALU","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

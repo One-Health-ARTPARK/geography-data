@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58892528558509,16.93910489322027],[75.58451872033062,16.96735404504782],[75.53864274156591,16.9657893889638],[75.54662698732818,16.9157990740272],[75.58892528558509,16.93910489322027]]]},"properties":{"region_id":"village_599037","name":"TAKKALAKI","parent":"subdistrict_7074","parent_name":"TIKOTA"}}
+]}

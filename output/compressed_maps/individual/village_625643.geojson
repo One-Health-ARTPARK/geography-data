@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88865094147401,13.04258446578511],[77.87775853737226,13.05301856973854],[77.87510460374561,13.04375778582837],[77.88865094147401,13.04258446578511]]]},"properties":{"region_id":"village_625643","name":"THIRATAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

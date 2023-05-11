@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31529114557566,13.38477143084951],[75.2799660545441,13.3798751698229],[75.2951979734648,13.36463125889891],[75.31529114557566,13.38477143084951]]]},"properties":{"region_id":"village_608963","name":"GINIKAL","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

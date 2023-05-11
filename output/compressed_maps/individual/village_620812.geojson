@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65630920574861,16.95950930602561],[76.64511239888807,16.93490671994676],[76.66714339703415,16.92165732470796],[76.67244454552197,16.94590287816172],[76.65630920574861,16.95950930602561]]]},"properties":{"region_id":"village_620812","name":"MUTKOD","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

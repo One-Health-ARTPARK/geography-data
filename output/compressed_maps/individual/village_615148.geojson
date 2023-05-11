@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83528317000518,13.05014151159591],[75.82657511396957,13.0530010640248],[75.8164519559693,13.04148638989197],[75.8349570584669,13.03822986665048],[75.83528317000518,13.05014151159591]]]},"properties":{"region_id":"village_615148","name":"KADEGARJE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94822828078982,14.40080021874688],[75.93639770899617,14.41696526198793],[75.90691015244678,14.40074302754325],[75.908165725126,14.38158274723793],[75.94822828078982,14.40080021874688]]]},"properties":{"region_id":"village_606569","name":"BELAVANUR","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89319211846563,13.87106159198626],[75.86477002294198,13.87255249836978],[75.87674619418033,13.80918518479312],[75.90243356975006,13.8122606749467],[75.89319211846563,13.87106159198626]]]},"properties":{"region_id":"village_607113","name":"UBRANI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81064230546438,16.21430355765919],[75.81352164963627,16.24558745791298],[75.80131092664597,16.24159107468522],[75.79609063696222,16.21616772153713],[75.81064230546438,16.21430355765919]]]},"properties":{"region_id":"village_598849","name":"MUDAPALJIVI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

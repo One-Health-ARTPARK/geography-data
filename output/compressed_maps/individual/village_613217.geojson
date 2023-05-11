@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75802038048933,12.88010104616426],[77.75255949399723,12.8630155197734],[77.76453811741686,12.86377401962836],[77.77146504888913,12.87789323103088],[77.75802038048933,12.88010104616426]]]},"properties":{"region_id":"village_613217","name":"YAMARE","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

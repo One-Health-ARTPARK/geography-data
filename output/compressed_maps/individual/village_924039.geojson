@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81384312113846,12.22002135367109],[75.80345840197957,12.23883011757798],[75.79441684881104,12.23344250534485],[75.79897119527973,12.22287290691088],[75.81384312113846,12.22002135367109]]]},"properties":{"region_id":"village_924039","name":"PUDUKOTE","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

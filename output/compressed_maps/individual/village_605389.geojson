@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82735752121297,14.32423083724732],[76.82060615288152,14.33560288232324],[76.78902803336291,14.32826382253972],[76.82366582950056,14.31021651032467],[76.82735752121297,14.32423083724732]]]},"properties":{"region_id":"village_605389","name":"MATASAMUDRA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

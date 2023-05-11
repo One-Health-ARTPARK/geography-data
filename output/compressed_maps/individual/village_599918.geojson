@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19323950258273,18.00312250753364],[77.17083110159273,18.02205198658279],[77.16057238009425,17.98726389960227],[77.18379020552247,17.98262982441375],[77.19323950258273,18.00312250753364]]]},"properties":{"region_id":"village_599918","name":"DADGI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

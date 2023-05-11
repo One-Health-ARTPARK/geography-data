@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.929192845751,13.06272303068128],[76.93045814103012,13.09226192151882],[76.92268260020026,13.09112439221892],[76.91496838551993,13.05613620994828],[76.929192845751,13.06272303068128]]]},"properties":{"region_id":"village_612437","name":"JIDDIGERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

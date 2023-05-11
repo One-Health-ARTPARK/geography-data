@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36346548629638,13.10494791218938],[77.36285189745163,13.11654576511027],[77.3535856034659,13.11006976359822],[77.36346548629638,13.10494791218938]]]},"properties":{"region_id":"village_624906","name":"GHANDRAGULUPURA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

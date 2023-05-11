@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18055120098968,13.90852406637094],[76.17245624713077,13.89445907239095],[76.18762468613026,13.89318137949308],[76.18055120098968,13.90852406637094]]]},"properties":{"region_id":"village_605821","name":"VEERAPURA KAVAL","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

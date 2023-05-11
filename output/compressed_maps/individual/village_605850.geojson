@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16193199469672,13.8181863257902],[76.14334961951123,13.80918520291305],[76.15911190998453,13.80387124901957],[76.16193199469672,13.8181863257902]]]},"properties":{"region_id":"village_605850","name":"CHINNAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

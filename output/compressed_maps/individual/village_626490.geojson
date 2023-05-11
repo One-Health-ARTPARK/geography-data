@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23626353972234,12.48665816250094],[77.22606638005821,12.4894103481578],[77.2299093433617,12.48391364731615],[77.23670730157174,12.48238997850841],[77.23626353972234,12.48665816250094]]]},"properties":{"region_id":"village_626490","name":"GORAVINAPURA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

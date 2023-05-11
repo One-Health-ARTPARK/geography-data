@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00311831118098,15.98911824825315],[76.9771884037126,15.98619789897261],[76.99287164176431,15.97385186257875],[77.00311831118098,15.98911824825315]]]},"properties":{"region_id":"village_601017","name":"NANDIHAL","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

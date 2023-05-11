@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54542199442926,12.01576060221919],[76.5245166946194,12.00293914409886],[76.5526368975271,11.98974641227956],[76.54542199442926,12.01576060221919]]]},"properties":{"region_id":"village_619152","name":"HURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72548979103797,12.50049686393077],[76.73432518503212,12.48546144011641],[76.75449052752441,12.48285807756054],[76.75961985263048,12.49443923382105],[76.72548979103797,12.50049686393077]]]},"properties":{"region_id":"village_614175","name":"TALASASANA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

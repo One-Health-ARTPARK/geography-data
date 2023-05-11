@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5257561790711,13.41157254939927],[76.51549430815001,13.41908269744467],[76.51294401145034,13.40077656657301],[76.5257561790711,13.41157254939927]]]},"properties":{"region_id":"village_610226","name":"BENAKANAKATTE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00316124460929,13.57141431519252],[75.98652863206208,13.57175802078206],[75.98496800801058,13.55868031531517],[76.00694598150567,13.56414830514943],[76.00316124460929,13.57141431519252]]]},"properties":{"region_id":"village_609375","name":"ULLINAGUR (RURAL)","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

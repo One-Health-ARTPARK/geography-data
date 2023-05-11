@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63500343061541,12.44179674633913],[76.62348029035431,12.45024871246173],[76.61897782551702,12.44240717577173],[76.6243056007087,12.43681210583984],[76.63500343061541,12.44179674633913]]]},"properties":{"region_id":"village_614154","name":"HOSA KOPPAL","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

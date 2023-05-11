@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93181721608396,14.08342667302639],[75.9285938160827,14.10647059752663],[75.9184924356098,14.10588585905666],[75.92275436271015,14.08764787395403],[75.93181721608396,14.08342667302639]]]},"properties":{"region_id":"village_607010","name":"HATTI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

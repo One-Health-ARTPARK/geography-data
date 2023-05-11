@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64880969008041,13.29089202099261],[77.63818001672837,13.2928192555568],[77.63675782054493,13.28802814385269],[77.6459880193525,13.28583974770877],[77.64880969008041,13.29089202099261]]]},"properties":{"region_id":"village_625265","name":"SHANAPPANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

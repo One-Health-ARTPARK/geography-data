@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8188065107035,13.17682025090176],[74.808206539225,13.19095148067913],[74.76818778367473,13.18841528390766],[74.8016976029137,13.14728290470108],[74.8188065107035,13.17682025090176]]]},"properties":{"region_id":"village_608838","name":"YELLUR","parent":"subdistrict_7067","parent_name":"KAPU"}}
+]}

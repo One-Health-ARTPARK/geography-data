@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60288182763269,16.77240613772022],[75.55430491470574,16.76932491574525],[75.57206869027591,16.74529687330137],[75.60288182763269,16.77240613772022]]]},"properties":{"region_id":"village_599111","name":"DHANYAL","parent":"subdistrict_7069","parent_name":"BABALESHWAR"}}
+]}

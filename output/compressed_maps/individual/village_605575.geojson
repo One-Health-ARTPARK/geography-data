@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58151482302735,14.22054174091878],[76.56307024857198,14.22301115533887],[76.55100358832183,14.20529340317621],[76.58138118491665,14.20288555769565],[76.58151482302735,14.22054174091878]]]},"properties":{"region_id":"village_605575","name":"PALLAVAGERE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

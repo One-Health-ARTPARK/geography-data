@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58838484830902,12.81741202449554],[77.56698083117159,12.8103400083864],[77.56779328924067,12.79947624187008],[77.5887279652894,12.800279028834],[77.58838484830902,12.81741202449554]]]},"properties":{"region_id":"village_613132","name":"BANNERUGHATTA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74123516523352,17.22522883154217],[75.71801579928753,17.22379451559709],[75.72647919679942,17.19313292551537],[75.7413731715166,17.1916788045719],[75.74123516523352,17.22522883154217]]]},"properties":{"region_id":"village_599200","name":"DHUMAKANAL","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

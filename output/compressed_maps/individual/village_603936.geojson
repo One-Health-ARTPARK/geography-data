@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09758040398195,14.94760764931104],[75.1064211575887,14.92668121402177],[75.12377552258442,14.93216796925432],[75.09758040398195,14.94760764931104]]]},"properties":{"region_id":"village_603936","name":"MUDDINAKOPPA","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

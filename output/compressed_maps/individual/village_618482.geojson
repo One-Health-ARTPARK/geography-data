@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40520322526345,12.262430109226],[76.41307307223178,12.25266940514122],[76.42518147825477,12.25319318992004],[76.42244074694162,12.2616798860913],[76.40520322526345,12.262430109226]]]},"properties":{"region_id":"village_618482","name":"BENKIPURA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

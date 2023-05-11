@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96351805708993,12.38102565059818],[76.93784889457957,12.38296308698012],[76.93873089248108,12.35485312668092],[76.956546819855,12.35266222250761],[76.96351805708993,12.38102565059818]]]},"properties":{"region_id":"village_614680","name":"KIRUGAVALU","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

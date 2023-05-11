@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78676226271124,14.68213938553455],[74.77320404712201,14.70360088226746],[74.75694364902752,14.68047827807215],[74.78676226271124,14.68213938553455]]]},"properties":{"region_id":"village_603134","name":"HAREHULEKAL","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

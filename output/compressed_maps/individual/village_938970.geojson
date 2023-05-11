@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7315165663896,12.59187908148744],[75.71115284893553,12.59480195543871],[75.71895700639719,12.56399259491175],[75.73699782080521,12.56123722126936],[75.7315165663896,12.59187908148744]]]},"properties":{"region_id":"village_938970","name":"MUTLU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

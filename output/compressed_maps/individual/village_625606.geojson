@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87242099637209,13.12422114007453],[77.854859283721,13.12946871030691],[77.86351856779987,13.11121728179784],[77.87242099637209,13.12422114007453]]]},"properties":{"region_id":"village_625606","name":"DODDANALLURAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

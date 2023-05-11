@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48507631705021,12.94402455736083],[77.47630053975237,12.94860650878118],[77.47349801587684,12.94031118094197],[77.48408819987048,12.93697235944012],[77.48507631705021,12.94402455736083]]]},"properties":{"region_id":"village_938443","name":"SONNENAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45268949822355,15.77397126083921],[76.43873824968082,15.77606251133266],[76.43959583134597,15.74947203090424],[76.44762272661167,15.74422864010253],[76.45268949822355,15.77397126083921]]]},"properties":{"region_id":"village_601069","name":"KARDCHALAMI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

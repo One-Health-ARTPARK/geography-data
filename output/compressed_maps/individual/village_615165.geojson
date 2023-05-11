@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75526713132598,13.14911731483229],[75.74952638510109,13.1546077633068],[75.7444331944854,13.15046580935809],[75.74942910372089,13.14549575371589],[75.75526713132598,13.14911731483229]]]},"properties":{"region_id":"village_615165","name":"MADAGODU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

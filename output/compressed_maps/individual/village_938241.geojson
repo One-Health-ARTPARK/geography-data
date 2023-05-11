@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62354153254824,13.04705372221988],[77.63257095848378,13.07178801706937],[77.61575854836964,13.06260244972105],[77.62354153254824,13.04705372221988]]]},"properties":{"region_id":"village_938241","name":"RACHENAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

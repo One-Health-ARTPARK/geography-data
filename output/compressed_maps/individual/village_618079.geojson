@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01970892841673,12.03078467124919],[76.01893211688733,11.99336260719325],[76.06469488535939,11.98635995824979],[76.06830822043702,12.01420671971361],[76.05376318226274,12.0243120446735],[76.01970892841673,12.03078467124919]]]},"properties":{"region_id":"village_618079","name":"BADAGA","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

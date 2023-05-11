@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99492697691396,13.09480744966653],[77.0013790067123,13.07258505863165],[77.01091089120578,13.07469371942117],[77.00971629059839,13.09248908090134],[76.99492697691396,13.09480744966653]]]},"properties":{"region_id":"village_612514","name":"VANIGERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

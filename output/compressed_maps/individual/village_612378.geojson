@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81459245812361,13.12997224924396],[76.80927098008318,13.13705074873638],[76.80030539468102,13.12363796137983],[76.81366478372487,13.12121168275938],[76.81459245812361,13.12997224924396]]]},"properties":{"region_id":"village_612378","name":"ANGADIGERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

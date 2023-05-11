@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91857333823448,12.6737788044752],[76.90094006218798,12.67608922082095],[76.89693901215074,12.65694185530774],[76.92051462407558,12.65968572183323],[76.91857333823448,12.6737788044752]]]},"properties":{"region_id":"village_614336","name":"CHIKKABALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

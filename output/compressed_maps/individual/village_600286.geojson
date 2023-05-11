@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23750618443057,17.82286617809661],[77.22200628280022,17.83245258376967],[77.20370368221695,17.81361754269926],[77.23594740381996,17.80168946410791],[77.23750618443057,17.82286617809661]]]},"properties":{"region_id":"village_600286","name":"BENCHINCHOLI","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

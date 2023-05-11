@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03697253612305,14.21662358416094],[76.02059561175955,14.21480774430067],[76.01890234174638,14.19834124307311],[76.03697253612305,14.21662358416094]]]},"properties":{"region_id":"village_606952","name":"THOPENAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

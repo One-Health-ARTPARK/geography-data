@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93193571521263,13.15901985824633],[74.89814534623355,13.17009788633374],[74.88633264944646,13.13822889065506],[74.89788520036883,13.12393983886125],[74.93193571521263,13.15901985824633]]]},"properties":{"region_id":"village_608903","name":"BOLA","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

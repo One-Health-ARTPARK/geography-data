@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03769609063612,12.48725910247513],[77.02944511944797,12.4750900399234],[77.04146215592935,12.47283611628182],[77.03769609063612,12.48725910247513]]]},"properties":{"region_id":"village_614653","name":"MELLAHALLI (CT)","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

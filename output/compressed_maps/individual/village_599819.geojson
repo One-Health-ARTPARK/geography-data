@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93974659056707,17.75222496902414],[76.90709489095906,17.71492515759842],[76.92793784091191,17.70417349309321],[76.96326695701495,17.71748272585858],[76.93974659056707,17.75222496902414]]]},"properties":{"region_id":"village_599819","name":"MUDBI","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

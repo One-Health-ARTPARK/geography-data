@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91622135262163,15.85117950616135],[76.92830544170111,15.88899187622045],[76.9160506336007,15.87757335192731],[76.91293583776621,15.85544429751677],[76.91622135262163,15.85117950616135]]]},"properties":{"region_id":"village_601166","name":"MANDAHOSUR - (D)","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

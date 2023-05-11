@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38703773397353,16.25922126797889],[75.36448167509461,16.26063577164745],[75.36404049054629,16.24477400935245],[75.37990629261638,16.23703065299684],[75.38703773397353,16.25922126797889]]]},"properties":{"region_id":"village_598592","name":"BIDRI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

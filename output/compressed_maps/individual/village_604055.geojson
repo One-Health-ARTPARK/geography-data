@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11228525229771,14.85457756792349],[75.09801359122105,14.85601370525201],[75.09478801069345,14.84752165951062],[75.11149447728457,14.84681433887489],[75.11228525229771,14.85457756792349]]]},"properties":{"region_id":"village_604055","name":"GADEGUNDIYELLAPUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

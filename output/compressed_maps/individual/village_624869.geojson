@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40371717188378,13.12793815049834],[77.40614491154903,13.12116045706825],[77.41271992323159,13.12626465683588],[77.40371717188378,13.12793815049834]]]},"properties":{"region_id":"village_624869","name":"K.G. SRINIVASAPURA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

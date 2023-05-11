@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95130359686159,12.06151183360756],[76.94047021254951,12.06295410147699],[76.92073344965732,12.04086482515791],[76.91529527466191,12.02583612789694],[76.94482387464741,12.02827778073869],[76.95130359686159,12.06151183360756]]]},"properties":{"region_id":"village_619613","name":"KUDERU","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

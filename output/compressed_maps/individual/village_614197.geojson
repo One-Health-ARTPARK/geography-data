@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65668958629027,12.51167245012495],[76.65992483381727,12.52506519126377],[76.65325283254616,12.52729509565702],[76.64907550969872,12.51229239664274],[76.65668958629027,12.51167245012495]]]},"properties":{"region_id":"village_614197","name":"BIJJANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

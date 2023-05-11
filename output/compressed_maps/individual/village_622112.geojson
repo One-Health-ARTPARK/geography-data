@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97541552050319,13.07963043895738],[77.9572226965443,13.08059930504875],[77.95679039112238,13.05850034037868],[77.97706905343375,13.06303570272791],[77.97541552050319,13.07963043895738]]]},"properties":{"region_id":"village_622112","name":"BAVANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

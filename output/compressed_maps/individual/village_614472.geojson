@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88680733724361,12.46905800347521],[76.87761600150954,12.45243634134199],[76.89433557917073,12.45234566590254],[76.88680733724361,12.46905800347521]]]},"properties":{"region_id":"village_614472","name":"MOTHAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

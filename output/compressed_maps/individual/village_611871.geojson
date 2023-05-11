@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83074837403127,13.26670100085934],[76.81316398126825,13.26940813465736],[76.81260797306204,13.26199659392858],[76.83035206543637,13.26013438284281],[76.83074837403127,13.26670100085934]]]},"properties":{"region_id":"village_611871","name":"ATHIKATTE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

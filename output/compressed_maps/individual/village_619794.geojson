@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08609092879037,12.08376546884066],[77.0704212802089,12.08345251464991],[77.08272245339197,12.06996374924394],[77.08609092879037,12.08376546884066]]]},"properties":{"region_id":"village_619794","name":"ALKEREAGRAHARA","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

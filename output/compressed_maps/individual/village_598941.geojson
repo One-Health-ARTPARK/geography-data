@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04826734746796,16.05131727539443],[76.04201660487199,16.06127535856778],[76.0223446730466,16.06213378077312],[76.01498732325942,16.05161183971834],[76.03546097541769,16.04395178294843],[76.04826734746796,16.05131727539443]]]},"properties":{"region_id":"village_598941","name":"HIREBADAWADGI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

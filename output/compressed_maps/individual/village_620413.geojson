@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34704081534831,17.46902636744489],[77.32706393611141,17.46017000605976],[77.32498207944474,17.44558301008386],[77.34611513355986,17.44522923310436],[77.34704081534831,17.46902636744489]]]},"properties":{"region_id":"village_620413","name":"HUDADHALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

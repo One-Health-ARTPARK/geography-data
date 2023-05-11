@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89097261427317,16.00452498895713],[74.85888386586134,15.98897301334864],[74.8645546030881,15.95338483517987],[74.8996399933314,15.96391627619564],[74.90714674071229,15.98584449172869],[74.89097261427317,16.00452498895713]]]},"properties":{"region_id":"village_598191","name":"HIREBUDANUR","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

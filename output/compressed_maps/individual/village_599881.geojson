@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30910460277401,18.1241069635734],[77.29551982816,18.13486866707162],[77.26839726534976,18.11585941990835],[77.28496833695286,18.09473143327675],[77.30910460277401,18.1241069635734]]]},"properties":{"region_id":"village_599881","name":"BEERI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

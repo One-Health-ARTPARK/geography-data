@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29604725646739,13.37682934071097],[77.28885797234977,13.37756434358471],[77.28792230757368,13.36962304175984],[77.29793445117448,13.36752784106502],[77.29604725646739,13.37682934071097]]]},"properties":{"region_id":"village_611224","name":"RAHUTANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93391679296545,13.64366586417751],[75.92066611769198,13.64120248307526],[75.91902851938131,13.63068604821043],[75.93475508879493,13.62788046199279],[75.93391679296545,13.64366586417751]]]},"properties":{"region_id":"village_609352","name":"DODDAGATTA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

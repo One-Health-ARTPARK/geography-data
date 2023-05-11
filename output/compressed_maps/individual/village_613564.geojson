@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49620462022676,12.65187425203649],[76.4909193398734,12.65170828924356],[76.48814808567163,12.6442126359945],[76.49578998685669,12.64488371592284],[76.49620462022676,12.65187425203649]]]},"properties":{"region_id":"village_613564","name":"NAGANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

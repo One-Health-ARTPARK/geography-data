@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00484934538711,15.63388900961264],[75.00813151888357,15.64674433740686],[74.99162324225007,15.65096151292075],[74.98767557711776,15.63743733148893],[75.00484934538711,15.63388900961264]]]},"properties":{"region_id":"village_602292","name":"KALLE","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

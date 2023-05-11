@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20308894259507,14.2945519449867],[77.20302417502863,14.32040289610732],[77.18437700763918,14.33241889811063],[77.17898617983609,14.2927302860917],[77.20308894259507,14.2945519449867]]]},"properties":{"region_id":"village_610564","name":"DALAVAIHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

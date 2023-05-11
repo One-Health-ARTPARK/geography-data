@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2775243684198,16.76940457475391],[76.23777588675104,16.76359195313388],[76.22079303062154,16.70183927032153],[76.25655363924407,16.70807803656465],[76.2775243684198,16.76940457475391]]]},"properties":{"region_id":"village_599378","name":"HANDIGANUR","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

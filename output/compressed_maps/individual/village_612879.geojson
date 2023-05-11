@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49361044023448,13.0966196264079],[77.48455753179739,13.09795020096661],[77.48177056775366,13.08372697007151],[77.49101746955772,13.08420861755495],[77.49361044023448,13.0966196264079]]]},"properties":{"region_id":"village_612879","name":"SOLADEVANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

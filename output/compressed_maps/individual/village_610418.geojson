@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81074412403044,13.67665879823911],[76.79724704631867,13.67384403902227],[76.79613954796265,13.64982777015268],[76.81956136021248,13.66004709416036],[76.81074412403044,13.67665879823911]]]},"properties":{"region_id":"village_610418","name":"HYALDORE KAVAL","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

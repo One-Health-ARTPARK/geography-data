@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54725700038092,13.01056700015986],[77.54108599964692,12.99937000030717],[77.55302699958244,12.9982159995534],[77.54725700038092,13.01056700015986]]]},"properties":{"region_id":"ward_bbmp67","name":"WARD NO.67 (NAGAPURA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

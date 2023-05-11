@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80194822648195,13.27480588370146],[77.79352191460863,13.26463978617035],[77.80775112744071,13.25940882340337],[77.81221660964941,13.2747991082867],[77.80194822648195,13.27480588370146]]]},"properties":{"region_id":"village_625355","name":"DHARMAPURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

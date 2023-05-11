@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2749875998391,14.99694708543478],[75.2507735788287,14.99686853094641],[75.24926165184885,14.98727822451463],[75.27363082187041,14.98926572312027],[75.2749875998391,14.99694708543478]]]},"properties":{"region_id":"village_603935","name":"KANKANWAD","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25980019489882,13.4430037011827],[77.24931902741315,13.44289103258716],[77.2471995760692,13.42578420518383],[77.25581308618719,13.42808395252229],[77.25980019489882,13.4430037011827]]]},"properties":{"region_id":"village_611174","name":"SANKENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

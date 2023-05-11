@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44202919641437,12.22351798353473],[76.439506035871,12.23547715067539],[76.42736797017282,12.23971590198083],[76.42300394144074,12.22449284853714],[76.44202919641437,12.22351798353473]]]},"properties":{"region_id":"village_618916","name":"GANGADAHOSAHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

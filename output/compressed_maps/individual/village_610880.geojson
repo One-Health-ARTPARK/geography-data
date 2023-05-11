@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35118885054872,13.79370168259806],[77.35409479167782,13.81744178779745],[77.33164513903073,13.81403012997713],[77.32929150319592,13.79591589910189],[77.35118885054872,13.79370168259806]]]},"properties":{"region_id":"village_610880","name":"JANAKALOTI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

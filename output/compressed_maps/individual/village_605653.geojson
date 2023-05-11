@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0725505248417,14.16049446957967],[76.04569012808801,14.15544375734422],[76.04653781677109,14.14584435051056],[76.07296570239797,14.15002021338992],[76.0725505248417,14.16049446957967]]]},"properties":{"region_id":"village_605653","name":"NANDIHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

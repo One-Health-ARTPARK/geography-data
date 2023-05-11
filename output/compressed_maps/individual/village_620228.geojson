@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9785474909995,17.45759972301697],[76.98216093486195,17.48869341993684],[76.96453936213989,17.49473363892847],[76.96198186051464,17.4672486192095],[76.9785474909995,17.45759972301697]]]},"properties":{"region_id":"village_620228","name":"HARKANCHI","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

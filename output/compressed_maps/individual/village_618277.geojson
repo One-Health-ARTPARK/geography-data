@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09508858612637,12.31251158505108],[76.07413913237119,12.29293679342877],[76.10444526442465,12.29207423010938],[76.09508858612637,12.31251158505108]]]},"properties":{"region_id":"village_618277","name":"MUMMADIKAVAL","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

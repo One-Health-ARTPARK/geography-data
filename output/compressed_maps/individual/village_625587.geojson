@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92021457085359,13.14764807641035],[77.89692000600581,13.14818775845056],[77.89434836182599,13.14244353025801],[77.91395122415366,13.13627808304907],[77.92021457085359,13.14764807641035]]]},"properties":{"region_id":"village_625587","name":"BHEEMAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

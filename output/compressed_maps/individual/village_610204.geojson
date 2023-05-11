@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61208612759532,13.43564695780019],[76.60348758805533,13.43624529490034],[76.60621173483908,13.42809837928805],[76.61208612759532,13.43564695780019]]]},"properties":{"region_id":"village_610204","name":"MALIGEHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

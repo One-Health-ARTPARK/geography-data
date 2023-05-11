@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17081065543712,13.75804495080747],[75.16830288939309,13.76971368351792],[75.15932853152955,13.77403657689755],[75.15770362653478,13.75816237795368],[75.17081065543712,13.75804495080747]]]},"properties":{"region_id":"village_608176","name":"NEKRAGODU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31922554084471,17.76786561625095],[77.32325559745308,17.7794565965573],[77.29595248330325,17.77955577726295],[77.28846991094396,17.76260885073373],[77.31433619237927,17.7592066931777],[77.31922554084471,17.76786561625095]]]},"properties":{"region_id":"village_600220","name":"SIRKATNALLI","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50195563919338,13.2365336463401],[76.49218409298295,13.23095286199476],[76.50231485963994,13.22389517195593],[76.50913954580724,13.22788459224051],[76.50195563919338,13.2365336463401]]]},"properties":{"region_id":"village_612133","name":"HEDAGARAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

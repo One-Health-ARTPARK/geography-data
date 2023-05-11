@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00679142472143,12.53627191951308],[75.99817159719959,12.54579419247087],[75.98244944945105,12.54091355869827],[75.99330055856456,12.52782678472042],[76.00679142472143,12.53627191951308]]]},"properties":{"region_id":"village_618095","name":"SULEKOTE","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

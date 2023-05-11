@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7673420634355,13.25039022649317],[75.74919026764557,13.24978569241155],[75.75158038302341,13.23702803828652],[75.76648314112124,13.23806059847148],[75.7673420634355,13.25039022649317]]]},"properties":{"region_id":"village_609881","name":"TAGADOOR","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

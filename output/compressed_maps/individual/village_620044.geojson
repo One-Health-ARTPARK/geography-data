@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46322585543551,17.57128288721662],[76.4399018223356,17.57252882188634],[76.43507692634678,17.53098302204839],[76.46099763585094,17.53000339041242],[76.46322585543551,17.57128288721662]]]},"properties":{"region_id":"village_620044","name":"SAWLESHWAR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

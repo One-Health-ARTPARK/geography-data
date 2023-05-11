@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56122785212291,18.23720317292802],[77.53861293375458,18.2420862093401],[77.53532548060826,18.23456760813445],[77.55159013663939,18.22737574600188],[77.56122785212291,18.23720317292802]]]},"properties":{"region_id":"village_600079","name":"LINGADHALLI(JUKAL)","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

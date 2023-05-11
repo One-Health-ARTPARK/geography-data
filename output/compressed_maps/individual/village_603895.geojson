@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19832061993509,15.06469346725484],[75.17509543684595,15.06489479841298],[75.17668926301076,15.04192224942222],[75.19866019261327,15.04099133693963],[75.19832061993509,15.06469346725484]]]},"properties":{"region_id":"village_603895","name":"HULSOGI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

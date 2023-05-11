@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63378509442745,14.26594286576794],[76.62629950845377,14.23791245937691],[76.66818884398269,14.24721526084593],[76.6630982754765,14.26496257848693],[76.63378509442745,14.26594286576794]]]},"properties":{"region_id":"village_605352","name":"HOTTEPPANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

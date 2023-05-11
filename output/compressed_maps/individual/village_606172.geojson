@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73654338569737,13.86858629151844],[76.73114579178485,13.88131389118058],[76.722565925346,13.86910141933289],[76.73654338569737,13.86858629151844]]]},"properties":{"region_id":"village_606172","name":"GORLADAKU","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

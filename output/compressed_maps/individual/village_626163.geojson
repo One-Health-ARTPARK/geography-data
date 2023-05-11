@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2649153485077,12.69992749244239],[77.26443985674213,12.70635691713822],[77.2579214312612,12.7024339708826],[77.2598814266749,12.69648020934507],[77.2649153485077,12.69992749244239]]]},"properties":{"region_id":"village_626163","name":"KUMBAPURA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

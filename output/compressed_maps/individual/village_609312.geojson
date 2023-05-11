@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95491018743358,13.70835617030913],[75.9689881224344,13.69314387249497],[75.97116032921149,13.67824126030364],[75.98452121570749,13.68539838390412],[75.98564392146776,13.69905632702898],[75.95491018743358,13.70835617030913]]]},"properties":{"region_id":"village_609312","name":"BAGGAVALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

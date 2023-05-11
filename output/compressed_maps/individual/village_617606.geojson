@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.153201975701,13.09778775737917],[75.11438884052957,13.10591427388344],[75.09667382442555,13.08826548587878],[75.11988628264605,13.07584783565417],[75.153201975701,13.09778775737917]]]},"properties":{"region_id":"village_617606","name":"MARODI","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

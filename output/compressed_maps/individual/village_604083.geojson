@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18296848284972,14.81243315916001],[75.1718624826157,14.80935208784855],[75.17407663665448,14.79969548405784],[75.18157707042856,14.79915236063973],[75.18296848284972,14.81243315916001]]]},"properties":{"region_id":"village_604083","name":"SHIRMAPUR (M) ADUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

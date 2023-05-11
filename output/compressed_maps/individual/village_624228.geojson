@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91561335672198,13.35238872241842],[77.9084625168775,13.35297064549507],[77.90935612267283,13.34105470898679],[77.91495340963044,13.34055904385356],[77.91561335672198,13.35238872241842]]]},"properties":{"region_id":"village_624228","name":"THUMMANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

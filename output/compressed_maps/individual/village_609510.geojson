@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98570620503781,13.51687384111193],[75.97123994648476,13.5207580883304],[75.97135903410555,13.50778984752558],[75.98519404209662,13.50681291119495],[75.98570620503781,13.51687384111193]]]},"properties":{"region_id":"village_609510","name":"KAMASAGARA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

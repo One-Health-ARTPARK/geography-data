@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49951584839597,13.29577287241499],[77.48255019837364,13.29546067242412],[77.48367775391105,13.28226555737892],[77.4943944905847,13.28270984938234],[77.49951584839597,13.29577287241499]]]},"properties":{"region_id":"village_625121","name":"MENASI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

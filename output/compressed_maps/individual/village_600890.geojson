@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72845039027831,16.11088933273937],[76.7085146319241,16.11805007151857],[76.70583008774882,16.09014712493587],[76.72664444050865,16.09540070706356],[76.72845039027831,16.11088933273937]]]},"properties":{"region_id":"village_600890","name":"AMEENGAD","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32716432365213,17.21952588052349],[76.38539157784633,17.16371075011683],[76.41410503587953,17.17200231497526],[76.40222559531418,17.23839575119762],[76.33594761606487,17.25245723007633],[76.32716432365213,17.21952588052349]]]},"properties":{"region_id":"village_620123","name":"AFZALPUR (RURAL)","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

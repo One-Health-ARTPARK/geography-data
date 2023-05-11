@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69340373252008,13.63560595344281],[77.68706242947653,13.63904899374624],[77.6856556614584,13.63131310911527],[77.70112378957009,13.62996992621941],[77.70356538025065,13.63516409920584],[77.69340373252008,13.63560595344281]]]},"properties":{"region_id":"village_623727","name":"KARIGANATHAMMANAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

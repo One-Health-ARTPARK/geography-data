@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25830416676365,12.62599790790905],[77.24260096756649,12.63295428956476],[77.23485118007201,12.62377494890304],[77.25304993021835,12.62017674809141],[77.25830416676365,12.62599790790905]]]},"properties":{"region_id":"village_626269","name":"ATTIGUPPE","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

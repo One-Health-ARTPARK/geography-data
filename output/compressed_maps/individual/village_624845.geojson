@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31519739826389,13.16264887841904],[77.30541699686928,13.16326107955708],[77.30412469922466,13.15414121152108],[77.31389586132507,13.15288185658181],[77.31519739826389,13.16264887841904]]]},"properties":{"region_id":"village_624845","name":"THALEKERE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

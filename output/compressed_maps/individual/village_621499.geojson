@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.27669906278649,13.46810394264766],[78.26542728614236,13.46279282900784],[78.26779328963762,13.45727630505151],[78.2775893625519,13.45783476630569],[78.27669906278649,13.46810394264766]]]},"properties":{"region_id":"village_621499","name":"CHAKAPALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

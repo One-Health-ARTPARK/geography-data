@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63846263308609,12.92573468857409],[76.62641225616912,12.9266570997732],[76.62572440445041,12.91960312414833],[76.63846263308609,12.92573468857409]]]},"properties":{"region_id":"village_613787","name":"BALLAVALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

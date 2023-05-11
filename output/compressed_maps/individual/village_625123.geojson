@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50251153805338,13.25046753250357],[77.50173437022802,13.2657815220357],[77.48857363464634,13.26156408710687],[77.48716863467702,13.25118612062069],[77.50251153805338,13.25046753250357]]]},"properties":{"region_id":"village_625123","name":"S.M. GOLLAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

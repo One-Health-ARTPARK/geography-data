@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11618863967203,12.5878703682133],[77.096171409483,12.59144593766736],[77.08989322966055,12.58625615162445],[77.09079246454472,12.57655535740402],[77.11868267839844,12.57913972357449],[77.11618863967203,12.5878703682133]]]},"properties":{"region_id":"village_614593","name":"BYADRAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

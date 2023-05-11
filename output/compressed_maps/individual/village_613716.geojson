@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71667823861152,12.95395610236082],[76.70941242965347,12.95557345932839],[76.71165531222611,12.94610216174743],[76.71892752753915,12.9476902562998],[76.71667823861152,12.95395610236082]]]},"properties":{"region_id":"village_613716","name":"MARADEVANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

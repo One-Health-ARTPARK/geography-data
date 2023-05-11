@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43521218175489,13.64950989853882],[77.42799064566734,13.63513635012501],[77.44346197763701,13.63826141728041],[77.43521218175489,13.64950989853882]]]},"properties":{"region_id":"village_623196","name":"BALAGERE","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

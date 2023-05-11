@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08499427249787,14.3701525993952],[75.06735270773349,14.37216919134183],[75.06689610288288,14.34520260846286],[75.07974346007977,14.34910074051314],[75.08499427249787,14.3701525993952]]]},"properties":{"region_id":"village_607561","name":"NADAHALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

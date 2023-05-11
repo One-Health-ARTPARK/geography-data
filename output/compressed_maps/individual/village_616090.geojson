@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03889908645574,12.88018625246151],[76.04010188537032,12.88571538397048],[76.03196764704695,12.88982671369765],[76.03071346730506,12.88098199821397],[76.03889908645574,12.88018625246151]]]},"properties":{"region_id":"village_616090","name":"HIRIGANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

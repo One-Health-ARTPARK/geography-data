@@ -1,0 +1,200 @@
+{
+  "localbody_251528": {
+    "region_id": "localbody_251528",
+    "name": "PCMC",
+    "parent": "",
+    "parent_name": ""
+  },
+  "ward_pcmc30": {
+    "region_id": "ward_pcmc30",
+    "name": "Ward No. 30",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc17": {
+    "region_id": "ward_pcmc17",
+    "name": "Ward No. 17",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc1": {
+    "region_id": "ward_pcmc1",
+    "name": "Ward No. 1",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc20": {
+    "region_id": "ward_pcmc20",
+    "name": "Ward No. 20",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc29": {
+    "region_id": "ward_pcmc29",
+    "name": "Ward No. 29",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc23": {
+    "region_id": "ward_pcmc23",
+    "name": "Ward No. 23",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc14": {
+    "region_id": "ward_pcmc14",
+    "name": "Ward No. 14",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc18": {
+    "region_id": "ward_pcmc18",
+    "name": "Ward No. 18",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc10": {
+    "region_id": "ward_pcmc10",
+    "name": "Ward No. 10",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc25": {
+    "region_id": "ward_pcmc25",
+    "name": "Ward No. 25",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc6": {
+    "region_id": "ward_pcmc6",
+    "name": "Ward No. 6",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc3": {
+    "region_id": "ward_pcmc3",
+    "name": "Ward No. 3",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc27": {
+    "region_id": "ward_pcmc27",
+    "name": "Ward No. 27",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc16": {
+    "region_id": "ward_pcmc16",
+    "name": "Ward No. 16",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc4": {
+    "region_id": "ward_pcmc4",
+    "name": "Ward No. 4",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc2": {
+    "region_id": "ward_pcmc2",
+    "name": "Ward No. 2",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc19": {
+    "region_id": "ward_pcmc19",
+    "name": "Ward No. 19",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc15": {
+    "region_id": "ward_pcmc15",
+    "name": "Ward No. 15",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc26": {
+    "region_id": "ward_pcmc26",
+    "name": "Ward No. 26",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc28": {
+    "region_id": "ward_pcmc28",
+    "name": "Ward No. 28",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc31": {
+    "region_id": "ward_pcmc31",
+    "name": "Ward No. 31",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc21": {
+    "region_id": "ward_pcmc21",
+    "name": "Ward No. 21",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc7": {
+    "region_id": "ward_pcmc7",
+    "name": "Ward No. 7",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc12": {
+    "region_id": "ward_pcmc12",
+    "name": "Ward No. 12",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc22": {
+    "region_id": "ward_pcmc22",
+    "name": "Ward No. 22",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc8": {
+    "region_id": "ward_pcmc8",
+    "name": "Ward No. 8",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc32": {
+    "region_id": "ward_pcmc32",
+    "name": "Ward No. 32",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc13": {
+    "region_id": "ward_pcmc13",
+    "name": "Ward No. 13",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc5": {
+    "region_id": "ward_pcmc5",
+    "name": "Ward No. 5",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc11": {
+    "region_id": "ward_pcmc11",
+    "name": "Ward No. 11",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc24": {
+    "region_id": "ward_pcmc24",
+    "name": "Ward No. 24",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  },
+  "ward_pcmc9": {
+    "region_id": "ward_pcmc9",
+    "name": "Ward No. 9",
+    "parent": "localbody_251528",
+    "parent_name": "PCMC"
+  }
+}

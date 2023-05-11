@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69907055178302,13.07964754873834],[76.69112636727436,13.07772512195315],[76.69428568981141,13.06468775946208],[76.70442972500548,13.06884791797418],[76.69907055178302,13.07964754873834]]]},"properties":{"region_id":"village_612346","name":"KADESUR","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43087483817608,12.45559565897341],[76.41239812595023,12.45652722723838],[76.41473480329242,12.43943965535341],[76.42630788052891,12.43633811072412],[76.43087483817608,12.45559565897341]]]},"properties":{"region_id":"village_618667","name":"NARAYANAPURA","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

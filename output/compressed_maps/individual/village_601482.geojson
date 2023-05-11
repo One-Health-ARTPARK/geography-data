@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19509503631517,15.81678527942855],[76.20505138317138,15.82814089838238],[76.19364097864141,15.8391234595298],[76.18974897094824,15.8194654061741],[76.19509503631517,15.81678527942855]]]},"properties":{"region_id":"village_601482","name":"MANKALKERI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

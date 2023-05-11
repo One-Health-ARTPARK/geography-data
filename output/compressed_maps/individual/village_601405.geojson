@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02794555092434,15.85363072556376],[76.00989605820072,15.85567559218523],[76.01245660527968,15.84227476875933],[76.02691375224738,15.84282821630658],[76.02794555092434,15.85363072556376]]]},"properties":{"region_id":"village_601405","name":"MADNAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51938070852377,13.89519972263937],[76.51231723213982,13.89575211336279],[76.49764695406836,13.89062031686249],[76.49643288711026,13.88439901547554],[76.51242788054309,13.88913980487662],[76.51938070852377,13.89519972263937]]]},"properties":{"region_id":"village_606147","name":"MYAKENAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

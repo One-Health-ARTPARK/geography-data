@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48429499087945,12.74787470050327],[77.50793926994831,12.73759872456263],[77.50166112899089,12.75384265234932],[77.48429499087945,12.74787470050327]]]},"properties":{"region_id":"village_613052","name":"RAVUGODLU","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

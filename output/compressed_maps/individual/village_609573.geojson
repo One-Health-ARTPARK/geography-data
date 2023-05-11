@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15989944862686,13.48894431946661],[76.15729101139627,13.50970218953051],[76.13803567929625,13.50835505563436],[76.13932473719836,13.49313823145813],[76.15989944862686,13.48894431946661]]]},"properties":{"region_id":"village_609573","name":"MALLAGATTA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

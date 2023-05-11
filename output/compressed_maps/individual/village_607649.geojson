@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16719452962235,14.34196863242724],[75.15400695994816,14.34410294661622],[75.15147423405942,14.33029139495224],[75.1665542388444,14.33389388989039],[75.16719452962235,14.34196863242724]]]},"properties":{"region_id":"village_607649","name":"KULAVALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

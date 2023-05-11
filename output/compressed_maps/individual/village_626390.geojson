@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50960437565081,12.60381137825997],[77.48001944305511,12.60992279523255],[77.48462656448277,12.58829540050485],[77.50960437565081,12.60381137825997]]]},"properties":{"region_id":"village_626390","name":"BALLAGERE","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

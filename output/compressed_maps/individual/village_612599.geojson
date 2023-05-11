@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98490690707108,13.01273720663375],[76.99533419742161,13.01234846503753],[76.99240927314568,13.01887879440813],[76.98490690707108,13.01273720663375]]]},"properties":{"region_id":"village_612599","name":"BELIDEVALAYA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

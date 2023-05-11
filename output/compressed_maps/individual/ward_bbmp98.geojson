@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55302699958244,12.9982159995534],[77.55980599959778,12.98770499959696],[77.55912700031087,12.9949880002196],[77.55683299996456,12.99849600017668],[77.55302699958244,12.9982159995534]]]},"properties":{"region_id":"ward_bbmp98","name":"WARD NO.98 (PRAKASH NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

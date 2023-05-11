@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22489045800876,12.58709393940577],[76.19983416434077,12.59210088177928],[76.20417190724488,12.57159313372719],[76.22489045800876,12.58709393940577]]]},"properties":{"region_id":"village_618513","name":"HARADANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

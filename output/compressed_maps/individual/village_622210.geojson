@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95077727521351,12.94621810886268],[77.92920184406613,12.94783896423903],[77.93720167055021,12.93398487152786],[77.95077727521351,12.94621810886268]]]},"properties":{"region_id":"village_622210","name":"RAMAPURA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

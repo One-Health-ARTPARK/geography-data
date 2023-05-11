@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98552747191366,13.10540428123164],[77.97362275089563,13.10284798949879],[77.97588538823301,13.09265072662268],[77.99227067977144,13.09802499156962],[77.98552747191366,13.10540428123164]]]},"properties":{"region_id":"village_622107","name":"KARINAIKANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

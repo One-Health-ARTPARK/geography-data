@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22639116491287,15.07198176593997],[75.2018389058296,15.07253044214886],[75.20180446238413,15.06566649596968],[75.22509684843861,15.05742746263642],[75.22639116491287,15.07198176593997]]]},"properties":{"region_id":"village_603922","name":"BELAGALI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

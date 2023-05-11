@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99651225120836,12.99456507193728],[77.98268978185207,13.0022449998443],[77.9788951920668,12.99385244515871],[77.99139567144653,12.98930163647987],[77.99651225120836,12.99456507193728]]]},"properties":{"region_id":"village_622191","name":"KATERI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

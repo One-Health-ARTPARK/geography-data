@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6727870186187,13.43990127259432],[77.64725334429264,13.44692996371664],[77.64305764740531,13.42716829430387],[77.6727870186187,13.43990127259432]]]},"properties":{"region_id":"village_623596","name":"MOTLUR","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

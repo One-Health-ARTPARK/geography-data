@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20405488179195,12.34229222080802],[76.18038309457381,12.35090789231342],[76.16623718467548,12.34191183324029],[76.19934647645005,12.3245104847353],[76.20405488179195,12.34229222080802]]]},"properties":{"region_id":"village_618336","name":"CHILKUNDA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

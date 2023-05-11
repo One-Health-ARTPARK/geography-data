@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88994258185014,17.02492415742494],[76.85803786964752,17.06370714026511],[76.84693579284956,17.01612058711051],[76.88994258185014,17.02492415742494]]]},"properties":{"region_id":"village_620845","name":"MADRI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

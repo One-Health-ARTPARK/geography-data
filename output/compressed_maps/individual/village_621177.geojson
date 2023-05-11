@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90519332626504,16.57247851814155],[76.9250107735,16.58160451599414],[76.92560711554692,16.61333805702915],[76.89525096120157,16.61259518222642],[76.90567512020533,16.59535309711134],[76.90519332626504,16.57247851814155]]]},"properties":{"region_id":"village_621177","name":"MUNMUTGI","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

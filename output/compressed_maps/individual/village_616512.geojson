@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99560486808859,12.78705848848783],[75.98606161116018,12.78706289090564],[75.985347845362,12.78113255263213],[75.99178563581084,12.78028174103045],[75.99560486808859,12.78705848848783]]]},"properties":{"region_id":"village_616512","name":"KAMANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

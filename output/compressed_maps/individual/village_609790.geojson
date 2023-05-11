@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03187318847515,13.32200271997477],[76.01376475493844,13.31052354410407],[76.03402788481274,13.29988679164931],[76.03187318847515,13.32200271997477]]]},"properties":{"region_id":"village_609790","name":"MACHENAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

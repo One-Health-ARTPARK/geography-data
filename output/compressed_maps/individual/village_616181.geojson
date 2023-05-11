@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18991209285156,12.89038827479351],[76.18143985281276,12.88868847503421],[76.18349974343283,12.87654712173985],[76.1883867713433,12.87761722746868],[76.18991209285156,12.89038827479351]]]},"properties":{"region_id":"village_616181","name":"BUNTARAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

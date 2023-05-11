@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11821919373682,15.48442110731593],[76.10404588928414,15.49673258937295],[76.10110500245388,15.46988518580755],[76.11825894556914,15.47079107408586],[76.11821919373682,15.48442110731593]]]},"properties":{"region_id":"village_601331","name":"MUTHALU","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

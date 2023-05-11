@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85080747535488,13.6178757954791],[77.84350893915736,13.60921695931579],[77.8560287338116,13.6048908448786],[77.8579031322467,13.61482331960923],[77.85080747535488,13.6178757954791]]]},"properties":{"region_id":"village_624040","name":"S.KURUBARAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

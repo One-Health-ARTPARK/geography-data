@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81605751884024,12.72407902472172],[76.8259373926454,12.72713594528761],[76.82316148773144,12.74011500430567],[76.81163276114314,12.73301117057796],[76.81605751884024,12.72407902472172]]]},"properties":{"region_id":"village_614320","name":"HEGGADATHAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

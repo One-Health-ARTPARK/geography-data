@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33599644774507,14.08022626428737],[76.3484719850283,14.04912684796807],[76.37382280068535,14.07004166718636],[76.33599644774507,14.08022626428737]]]},"properties":{"region_id":"village_605792","name":"KASAVANAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

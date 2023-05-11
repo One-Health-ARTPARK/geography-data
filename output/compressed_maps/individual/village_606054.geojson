@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62537734507455,14.12407074404354],[76.63990218816757,14.12368303593637],[76.64154769822004,14.15209611799662],[76.62838843656014,14.15661473943018],[76.62537734507455,14.12407074404354]]]},"properties":{"region_id":"village_606054","name":"MADDANAKUNTE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79353509663792,14.48223483161379],[74.78633989195306,14.49958708097425],[74.77609317953514,14.4869009339765],[74.79353509663792,14.48223483161379]]]},"properties":{"region_id":"village_603562","name":"ATTIMURD","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82732378609352,16.36931033857189],[76.80369912357789,16.38112872351146],[76.80390229078783,16.35711407603611],[76.82732378609352,16.36931033857189]]]},"properties":{"region_id":"village_600558","name":"KARADIGUDDA","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

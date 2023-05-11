@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08919008370889,15.78739661429561],[76.07745373470756,15.80489826562103],[76.05340404618609,15.80241345585141],[76.04907612930735,15.78510416416031],[76.08919008370889,15.78739661429561]]]},"properties":{"region_id":"village_601454","name":"KALALBANDI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

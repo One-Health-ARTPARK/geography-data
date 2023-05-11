@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16338026420127,15.11566683216052],[75.15787785541146,15.10195368205278],[75.18655913620765,15.10399111608808],[75.18452503751047,15.11398947492785],[75.16338026420127,15.11566683216052]]]},"properties":{"region_id":"village_602545","name":"TEERTHA","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33857250945113,14.63272608608147],[75.32795341064879,14.63281940920168],[75.32307282267222,14.6194771916152],[75.34159239397194,14.61628775424728],[75.33857250945113,14.63272608608147]]]},"properties":{"region_id":"village_604303","name":"BEERANAKOPPA","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70505140683034,11.91233941361181],[76.70895871321568,11.92742045979029],[76.69863631574691,11.9305677580064],[76.69477230989308,11.91914542398032],[76.70505140683034,11.91233941361181]]]},"properties":{"region_id":"village_619463","name":"MADAPATTANA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

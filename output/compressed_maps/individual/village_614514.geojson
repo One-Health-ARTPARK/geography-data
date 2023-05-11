@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0130657550665,12.70630277650561],[77.00267775913964,12.71457687520458],[76.991844897962,12.69637138264812],[77.00946936437002,12.69236059303846],[77.0130657550665,12.70630277650561]]]},"properties":{"region_id":"village_614514","name":"KEELAGHATTA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

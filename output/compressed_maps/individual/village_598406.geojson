@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11960582449016,16.50644615242664],[75.09242448216024,16.49664710482309],[75.11306668150462,16.48828003753797],[75.11960582449016,16.50644615242664]]]},"properties":{"region_id":"village_598406","name":"MADANAMATTI","parent":"subdistrict_7063","parent_name":"RABAKAVI BANAHATTI"}}
+]}

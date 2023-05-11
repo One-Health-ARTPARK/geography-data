@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13029254120757,15.33491447302494],[76.12323584916155,15.34005354600722],[76.1235120054313,15.350005910907],[76.10805287159502,15.3375729228124],[76.13029254120757,15.33491447302494]]]},"properties":{"region_id":"village_601769","name":"MANGALAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

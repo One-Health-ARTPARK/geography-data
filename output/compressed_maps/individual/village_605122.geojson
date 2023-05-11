@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39367072073598,14.68452770769965],[76.3836104891985,14.73135938313969],[76.33781626865388,14.68599997896045],[76.37371952334283,14.66386991703756],[76.39367072073598,14.68452770769965]]]},"properties":{"region_id":"village_605122","name":"NIMBALAGERI","parent":"subdistrict_7108","parent_name":"KOTTURU"}}
+]}

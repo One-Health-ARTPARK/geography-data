@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93492993350455,15.25958199119237],[74.90614566774249,15.27798768408059],[74.91776600356974,15.22545275614213],[74.93987063269891,15.23157923125662],[74.93492993350455,15.25958199119237]]]},"properties":{"region_id":"village_602448","name":"HASARAMBI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

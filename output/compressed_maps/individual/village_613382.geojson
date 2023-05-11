@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41621357085408,12.79643617800658],[76.39811471285515,12.80468764510602],[76.39358207584146,12.79049296193574],[76.41621357085408,12.79643617800658]]]},"properties":{"region_id":"village_613382","name":"UDDINAMALLANAHOSUR","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

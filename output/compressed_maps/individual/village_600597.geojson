@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05051775396073,16.45583224817184],[77.04324053787688,16.51917186361254],[77.00468205329375,16.48810148770984],[77.02934196463039,16.46202466519591],[77.05051775396073,16.45583224817184]]]},"properties":{"region_id":"village_600597","name":"KOPPER","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

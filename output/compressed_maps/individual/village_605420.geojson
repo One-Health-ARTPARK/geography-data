@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88230661246075,14.14562906998099],[76.90277824020691,14.19338337794913],[76.87608724574916,14.19661957005831],[76.85794524013491,14.15339573801626],[76.88230661246075,14.14562906998099]]]},"properties":{"region_id":"village_605420","name":"DODDACHELLUR","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

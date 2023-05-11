@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17603663939599,13.42461602750996],[76.16318258395548,13.42404883254379],[76.16530460645467,13.41722890295577],[76.17603663939599,13.42461602750996]]]},"properties":{"region_id":"village_615837","name":"MALLAPURA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

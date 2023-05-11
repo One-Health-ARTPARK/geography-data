@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31177201704486,13.62454410243361],[77.29201515912708,13.62567359289308],[77.29035597465602,13.61237098584015],[77.30947858480702,13.60569603876894],[77.31177201704486,13.62454410243361]]]},"properties":{"region_id":"village_610985","name":"KODAGADALA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

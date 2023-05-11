@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61061923198352,14.44494923002203],[74.6089205810633,14.46775217864922],[74.5742591254503,14.47558763582927],[74.59314870873706,14.44897102415859],[74.61061923198352,14.44494923002203]]]},"properties":{"region_id":"village_603508","name":"KALVE","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

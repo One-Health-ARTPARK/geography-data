@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83599352049424,14.49301534370512],[74.82456619783652,14.49190587723486],[74.82451341959957,14.48012520088645],[74.83349874690226,14.47997247352322],[74.83599352049424,14.49301534370512]]]},"properties":{"region_id":"village_603580","name":"HALKANI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

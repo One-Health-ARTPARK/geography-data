@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95528072968371,15.34221846467125],[74.93139219075375,15.34976694367049],[74.92896086860976,15.32984454667258],[74.95528072968371,15.34221846467125]]]},"properties":{"region_id":"village_602433","name":"NEERASAGAR","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

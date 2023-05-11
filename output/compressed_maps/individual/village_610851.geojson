@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22995401072735,13.64306002705508],[77.21575616885254,13.64372984696127],[77.20750325924217,13.64798064960192],[77.20760355545812,13.63607234951337],[77.22195671968184,13.63862548065184],[77.22995401072735,13.64306002705508]]]},"properties":{"region_id":"village_610851","name":"HARIHARAROPPA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

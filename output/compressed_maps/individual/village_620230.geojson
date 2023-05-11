@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00994650859008,17.50730444384308],[76.9817998421115,17.50224985195763],[76.98272439243543,17.45916435274311],[77.02346182921323,17.47318536134496],[77.00994650859008,17.50730444384308]]]},"properties":{"region_id":"village_620230","name":"NAGOORA","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

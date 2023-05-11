@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87005208537322,13.32714278336078],[76.8631170828139,13.34362758376444],[76.84347037434569,13.31769222216782],[76.8653106792967,13.3138998474349],[76.87005208537322,13.32714278336078]]]},"properties":{"region_id":"village_611799","name":"NITTUR","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

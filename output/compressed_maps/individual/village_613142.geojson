@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61218182638285,12.81727450696378],[77.60248198931257,12.8167119800661],[77.60512360658376,12.81144518611226],[77.61383397333944,12.81020748056525],[77.61218182638285,12.81727450696378]]]},"properties":{"region_id":"village_613142","name":"HULLUKASAVANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5507048073988,15.69902769580019],[76.54753080711568,15.69907429555903],[76.53910605574005,15.66454612995346],[76.55211018469433,15.68040270512848],[76.5507048073988,15.69902769580019]]]},"properties":{"region_id":"village_601662","name":"SANKANHAL","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30068235960843,16.03321584735087],[75.27417908148709,16.01764550526656],[75.31658015232776,15.98195188596473],[75.32115929904504,16.02153217439174],[75.30068235960843,16.03321584735087]]]},"properties":{"region_id":"village_598354","name":"OBALAPUR","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

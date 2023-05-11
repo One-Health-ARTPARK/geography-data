@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7206787482833,12.79532897226088],[77.7122896721479,12.78475536145163],[77.7210776555833,12.78201471944423],[77.7206787482833,12.79532897226088]]]},"properties":{"region_id":"village_613266","name":"THIRUMAGONDANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

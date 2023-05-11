@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37330061459309,14.80082632977434],[75.35526912945609,14.80067873206958],[75.35910947730314,14.77131396504365],[75.37953857754708,14.76972472261545],[75.37330061459309,14.80082632977434]]]},"properties":{"region_id":"village_604197","name":"ALADAKATTI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

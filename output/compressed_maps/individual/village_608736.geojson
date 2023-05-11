@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75200256939812,13.60558587323199],[74.72427184367028,13.59603783728208],[74.74531035770761,13.57893458704338],[74.75200256939812,13.60558587323199]]]},"properties":{"region_id":"village_608736","name":"KALAVARA","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09429695969703,13.54913991736914],[77.09535366452812,13.56107111623405],[77.09148928052522,13.56220058435559],[77.09037144017265,13.55004064670523],[77.09429695969703,13.54913991736914]]]},"properties":{"region_id":"village_611009","name":"DODDEGOWDANAPALYA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48807049820878,16.69456801865243],[75.43756927006024,16.69785083924884],[75.4712613739429,16.65802431317718],[75.48807049820878,16.69456801865243]]]},"properties":{"region_id":"village_599108","name":"KUMATHE","parent":"subdistrict_7069","parent_name":"BABALESHWAR"}}
+]}

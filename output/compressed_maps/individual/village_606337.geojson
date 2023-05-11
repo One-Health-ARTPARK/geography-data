@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76326044409458,14.67541389507132],[75.76371328170084,14.6905759217823],[75.75366408754537,14.68550528665963],[75.76326044409458,14.67541389507132]]]},"properties":{"region_id":"village_606337","name":"NITTUR BASAPURA","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

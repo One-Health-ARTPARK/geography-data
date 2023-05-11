@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77578508574445,13.17107225037031],[76.76623342167967,13.17465440912947],[76.76405621168361,13.15208768140874],[76.77542998945285,13.15508504610102],[76.77578508574445,13.17107225037031]]]},"properties":{"region_id":"village_612311","name":"DONKIHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

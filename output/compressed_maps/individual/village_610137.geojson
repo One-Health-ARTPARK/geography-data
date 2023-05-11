@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6010778137009,13.59772288454026],[76.59303928447898,13.58085168224731],[76.604120609196,13.58180740134985],[76.60894901316942,13.5923351187512],[76.6010778137009,13.59772288454026]]]},"properties":{"region_id":"village_610137","name":"TAREDAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

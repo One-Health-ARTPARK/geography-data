@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32300173634884,15.40434359215297],[76.29885219079722,15.40296246974239],[76.29891517018096,15.38585331215434],[76.31864194333207,15.38508437690196],[76.32300173634884,15.40434359215297]]]},"properties":{"region_id":"village_601827","name":"BUDUGUMPA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

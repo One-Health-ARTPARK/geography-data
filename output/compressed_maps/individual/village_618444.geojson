@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3915700897283,12.3532980505699],[76.38129864022122,12.35690639900269],[76.3734488793268,12.35085157239497],[76.37538957863305,12.34208212275629],[76.3915700897283,12.3532980505699]]]},"properties":{"region_id":"village_618444","name":"SHRAVANANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

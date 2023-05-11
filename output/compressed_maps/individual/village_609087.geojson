@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45517474921903,13.5154354357588],[75.45668173965296,13.53755367796809],[75.42809586267387,13.54473238104804],[75.42031651746987,13.51752405107503],[75.45517474921903,13.5154354357588]]]},"properties":{"region_id":"village_609087","name":"KANUR","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

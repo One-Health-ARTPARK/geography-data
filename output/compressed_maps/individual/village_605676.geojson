@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13620196662681,14.01544878430082],[76.09556113581921,14.0219560315648],[76.09600744190328,13.99737136530463],[76.1391952168247,13.99435954960876],[76.13620196662681,14.01544878430082]]]},"properties":{"region_id":"village_605676","name":"R.NULENUR","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

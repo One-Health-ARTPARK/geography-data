@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82299986252083,17.55148854417512],[76.8058449253195,17.54388637182131],[76.82145097018046,17.52516327449749],[76.83693959920113,17.54476430509416],[76.82299986252083,17.55148854417512]]]},"properties":{"region_id":"village_620001","name":"JAWALGA","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

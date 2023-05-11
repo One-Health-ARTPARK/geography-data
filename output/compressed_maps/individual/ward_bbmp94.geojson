@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57149000011975,12.99338599967971],[77.57085499957513,12.97497999968301],[77.57676399973366,12.9718610000736],[77.58436499991589,12.97792399982221],[77.57476100018272,12.98415600037225],[77.57149000011975,12.99338599967971]]]},"properties":{"region_id":"ward_bbmp94","name":"WARD NO.94 (GANDHI NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

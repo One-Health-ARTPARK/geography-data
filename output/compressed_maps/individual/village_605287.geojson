@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7125360642115,14.51658102024379],[76.68658792692477,14.51881585685693],[76.68221719213665,14.49593732335203],[76.7039648175742,14.4947156451035],[76.7125360642115,14.51658102024379]]]},"properties":{"region_id":"village_605287","name":"CHIKKAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

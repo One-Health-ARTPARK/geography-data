@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50686874928222,13.22405643129435],[77.49045554800276,13.2239945924075],[77.49748700407594,13.21359650963582],[77.50686874928222,13.22405643129435]]]},"properties":{"region_id":"village_612827","name":"CHALLAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

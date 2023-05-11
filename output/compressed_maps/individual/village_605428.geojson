@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2513642098373,14.40962380796819],[76.26470329730886,14.42176543193066],[76.26400724541057,14.436968279896],[76.243589261673,14.42856740737581],[76.2513642098373,14.40962380796819]]]},"properties":{"region_id":"village_605428","name":"GOLLARAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

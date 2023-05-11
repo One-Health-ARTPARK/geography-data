@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53238369828838,13.52631074372806],[76.51826893047941,13.53129965718096],[76.51001701602092,13.50601710404508],[76.52505338970435,13.5021911782586],[76.53238369828838,13.52631074372806]]]},"properties":{"region_id":"village_610066","name":"NIRUVAGAL","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40625125923916,14.34499245881254],[75.38626975217882,14.33315604182709],[75.39705475777374,14.31720025806083],[75.41169904616217,14.33557425990033],[75.40625125923916,14.34499245881254]]]},"properties":{"region_id":"village_607784","name":"MATTIKOTE","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

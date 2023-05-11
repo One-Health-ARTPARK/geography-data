@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64299845289094,11.98215603139743],[76.63351868835802,11.95062301021225],[76.65354032413829,11.94743991952443],[76.65116700303645,11.97921498117304],[76.64299845289094,11.98215603139743]]]},"properties":{"region_id":"village_619445","name":"HOREYALA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1909505070234,17.57331974546863],[77.15738832583658,17.56684249986397],[77.16132389802418,17.54860668322086],[77.18882729532365,17.53974037247711],[77.1909505070234,17.57331974546863]]]},"properties":{"region_id":"village_620339","name":"KOTGA","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

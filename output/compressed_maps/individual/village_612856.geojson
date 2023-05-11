@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50908342234116,13.16670034939001],[77.50001492587758,13.15023306303583],[77.51388639019642,13.14694931841549],[77.50908342234116,13.16670034939001]]]},"properties":{"region_id":"village_612856","name":"MATHKUR","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

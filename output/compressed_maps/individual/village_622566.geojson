@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.19767636605124,12.89814664224384],[78.20826563570269,12.89356982213125],[78.21361980875974,12.90463687964453],[78.20480400334881,12.90928715903255],[78.19767636605124,12.89814664224384]]]},"properties":{"region_id":"village_622566","name":"MOOGANAHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13011683940125,16.05558202146973],[76.11877473342888,16.07262089525011],[76.09485562718884,16.06106082897722],[76.11727085935568,16.03803140298443],[76.13011683940125,16.05558202146973]]]},"properties":{"region_id":"village_598976","name":"BINJAWADGI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

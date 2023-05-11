@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87767904581276,16.39693562942561],[75.83627306637632,16.40499470326283],[75.84189392383786,16.34842033559019],[75.87711249179392,16.34533797227912],[75.87767904581276,16.39693562942561]]]},"properties":{"region_id":"village_599480","name":"CHIMMALGI R.C","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

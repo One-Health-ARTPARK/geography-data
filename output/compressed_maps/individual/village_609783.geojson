@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9058211937505,13.34754099369904],[75.87565645932325,13.33710151217911],[75.87633631156329,13.30899723200823],[75.90863250469344,13.3361001955991],[75.9058211937505,13.34754099369904]]]},"properties":{"region_id":"village_609783","name":"KYATHANABEEDU","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

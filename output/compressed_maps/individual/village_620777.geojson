@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47914380908296,16.89161525856349],[76.46522887059206,16.89077335945245],[76.46344643037702,16.86867717703976],[76.47227697498379,16.85911080236661],[76.47914380908296,16.89161525856349]]]},"properties":{"region_id":"village_620777","name":"SHAKAPUR","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

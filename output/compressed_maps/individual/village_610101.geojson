@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4544531334836,13.59087750358805],[76.42782080977312,13.59082038757461],[76.43497479335711,13.57229881602676],[76.4544531334836,13.59087750358805]]]},"properties":{"region_id":"village_610101","name":"MOTIHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

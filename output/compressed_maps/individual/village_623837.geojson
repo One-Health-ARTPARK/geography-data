@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78309961556737,13.80848045374778],[77.78194277875299,13.80047312008814],[77.79143370418835,13.79926918186697],[77.79119677125792,13.80552379491841],[77.78309961556737,13.80848045374778]]]},"properties":{"region_id":"village_623837","name":"DIGAVABANDLAKERE","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74218527352366,13.19303752262959],[75.7348928487674,13.19492227585316],[75.73279182304479,13.18135614957685],[75.74523652765194,13.182865867592],[75.74218527352366,13.19303752262959]]]},"properties":{"region_id":"village_615158","name":"GENDEHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

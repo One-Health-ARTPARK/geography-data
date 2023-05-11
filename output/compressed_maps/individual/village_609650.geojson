@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95255472793335,13.40009059221198],[75.9338807068861,13.40430191060798],[75.93631779468481,13.38823483174017],[75.95255472793335,13.40009059221198]]]},"properties":{"region_id":"village_609650","name":"BERTIKERE","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

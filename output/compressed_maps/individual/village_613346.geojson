@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70949641207119,12.73442744900124],[77.69549313420329,12.73731970600071],[77.69840752062049,12.72526150373347],[77.70949641207119,12.73442744900124]]]},"properties":{"region_id":"village_613346","name":"CHIKKA HAGADE","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

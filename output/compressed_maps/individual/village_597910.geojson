@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70316117030066,15.65242072605563],[74.6898239255645,15.6544511446254],[74.68727124806581,15.63709180331247],[74.70009443550401,15.64035447166766],[74.70316117030066,15.65242072605563]]]},"properties":{"region_id":"village_597910","name":"ITAGI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

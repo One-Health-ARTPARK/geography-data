@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99737200456799,13.94490908677707],[76.99853930197915,13.95776351293294],[76.98641629664496,13.95206836195062],[76.99737200456799,13.94490908677707]]]},"properties":{"region_id":"village_610297","name":"KADAREHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

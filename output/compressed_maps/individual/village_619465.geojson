@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66168285149499,11.89003222202736],[76.67135370238155,11.90648051709765],[76.62819543538113,11.90706877164283],[76.63114536155334,11.89805245395622],[76.66168285149499,11.89003222202736]]]},"properties":{"region_id":"village_619465","name":"RAGHAVAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

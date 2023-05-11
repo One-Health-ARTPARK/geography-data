@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38948297681694,14.97738886287387],[75.39352417434574,14.99399393181885],[75.37746279537457,14.99788331719384],[75.37095387224794,14.97723935326472],[75.38948297681694,14.97738886287387]]]},"properties":{"region_id":"village_603980","name":"BEVINAHALLI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

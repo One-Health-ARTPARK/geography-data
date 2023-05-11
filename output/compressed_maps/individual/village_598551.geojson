@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22615209872586,16.36715474073658],[75.20447411135983,16.42795333939189],[75.18133685354766,16.42020646489696],[75.18214818495291,16.36434926948848],[75.22615209872586,16.36715474073658]]]},"properties":{"region_id":"village_598551","name":"MUGALKHOD","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

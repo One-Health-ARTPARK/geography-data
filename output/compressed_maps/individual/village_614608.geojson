@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07110481862816,12.53392314887183],[77.05406937283085,12.53145818364757],[77.05654748658361,12.51330308995782],[77.07761458034766,12.51675451385678],[77.07110481862816,12.53392314887183]]]},"properties":{"region_id":"village_614608","name":"AJJAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

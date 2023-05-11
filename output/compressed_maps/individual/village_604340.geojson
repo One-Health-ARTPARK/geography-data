@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49788708331418,14.63008474551149],[75.46648835609614,14.62747278768357],[75.4767325042358,14.60993766929789],[75.49999024197047,14.61427563507136],[75.49788708331418,14.63008474551149]]]},"properties":{"region_id":"village_604340","name":"BANNIHATTI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

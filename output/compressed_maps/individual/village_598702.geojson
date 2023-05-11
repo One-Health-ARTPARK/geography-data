@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59517346618547,15.90745767036536],[75.60263172728106,15.94404263235025],[75.57381087174647,15.94042393035332],[75.57122255688911,15.92323703377987],[75.59517346618547,15.90745767036536]]]},"properties":{"region_id":"village_598702","name":"KARADIGUDDA.S.A.","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

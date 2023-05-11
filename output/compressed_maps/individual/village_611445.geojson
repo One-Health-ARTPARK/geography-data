@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06203945081194,13.3407563106762],[77.04219027119093,13.34631678329856],[77.04552590803983,13.33150473722855],[77.06203945081194,13.3407563106762]]]},"properties":{"region_id":"village_611445","name":"HEGGERE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

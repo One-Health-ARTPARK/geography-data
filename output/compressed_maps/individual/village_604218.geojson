@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46620425322534,14.86511372848391],[75.44535693910525,14.89111517764241],[75.41822436994926,14.85106070633987],[75.44918590575772,14.82425118269976],[75.46620425322534,14.86511372848391]]]},"properties":{"region_id":"village_604218","name":"KARJAGI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

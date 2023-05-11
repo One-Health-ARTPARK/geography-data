@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07526196666109,12.32967548316237],[76.07964804400925,12.34216797159666],[76.0672642442706,12.3377476748581],[76.07526196666109,12.32967548316237]]]},"properties":{"region_id":"village_618260","name":"HALEPETEKANTAPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

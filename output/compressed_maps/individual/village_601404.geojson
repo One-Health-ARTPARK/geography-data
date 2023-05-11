@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00684618896595,15.85499744146962],[76.0033590085032,15.87564163817824],[75.9842789332331,15.86459333667469],[75.99128336392387,15.84810414403531],[76.00684618896595,15.85499744146962]]]},"properties":{"region_id":"village_601404","name":"GUDADURKAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

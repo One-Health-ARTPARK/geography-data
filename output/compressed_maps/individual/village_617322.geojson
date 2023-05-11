@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60293682441636,13.04129006192259],[76.59867854100969,13.0498619414098],[76.58849249142968,13.04019816609181],[76.59725553224119,13.03699648524866],[76.60293682441636,13.04129006192259]]]},"properties":{"region_id":"village_617322","name":"KARIKYATHANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

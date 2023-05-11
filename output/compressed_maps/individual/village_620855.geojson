@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76927873167453,16.92865283786923],[76.74561617185219,16.92885524717479],[76.74273470445853,16.91040977793656],[76.7665756098036,16.9092267397397],[76.76927873167453,16.92865283786923]]]},"properties":{"region_id":"village_620855","name":"SIGARTHALLI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

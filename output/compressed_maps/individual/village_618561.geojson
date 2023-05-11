@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35073809482924,12.62624108938474],[76.34034568341694,12.64740547139363],[76.32293567557959,12.63425698274735],[76.3290862651636,12.62665806264434],[76.35073809482924,12.62624108938474]]]},"properties":{"region_id":"village_618561","name":"GULUVINAATTIGUPPE","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

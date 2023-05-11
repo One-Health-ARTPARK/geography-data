@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93101545729665,12.60125801633845],[76.9174786770961,12.60226248496972],[76.9183643635121,12.59071314315366],[76.92977173751505,12.58892294384007],[76.93101545729665,12.60125801633845]]]},"properties":{"region_id":"village_614387","name":"CHAMALAPURA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

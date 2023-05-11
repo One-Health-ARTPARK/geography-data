@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71855355831887,11.87734290854371],[76.70458440226788,11.86819584815567],[76.71370078320221,11.86145757679611],[76.71855355831887,11.87734290854371]]]},"properties":{"region_id":"village_619476","name":"HANCHIPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

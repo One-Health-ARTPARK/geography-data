@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33585815320009,18.10057105345733],[77.3432982268405,18.12135055650901],[77.32886440538084,18.12404541887828],[77.33585815320009,18.10057105345733]]]},"properties":{"region_id":"village_599884","name":"KODLI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

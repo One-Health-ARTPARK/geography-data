@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88572324953111,12.65293783638942],[75.8829747498896,12.65874502869653],[75.87511145309625,12.65660983308162],[75.88064082087351,12.65076227021248],[75.88572324953111,12.65293783638942]]]},"properties":{"region_id":"village_923960","name":"AJJALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

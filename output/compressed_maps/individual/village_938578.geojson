@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69345387508979,13.8199641644618],[75.68859977477344,13.82923885824935],[75.67201513669801,13.82904828694435],[75.6794303216041,13.81269229117893],[75.69345387508979,13.8199641644618]]]},"properties":{"region_id":"village_938578","name":"BULLAPURA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

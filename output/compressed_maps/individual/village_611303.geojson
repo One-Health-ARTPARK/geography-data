@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05877464232825,13.53585734319086],[77.04411473523179,13.51709531954104],[77.0592091837614,13.51335940132356],[77.05877464232825,13.53585734319086]]]},"properties":{"region_id":"village_611303","name":"SANGENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

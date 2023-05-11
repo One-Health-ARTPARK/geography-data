@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00285209221246,12.5919827770152],[76.01699512924762,12.59161386090194],[76.01673148813133,12.60385975063825],[76.00308516225822,12.59740353192162],[76.00285209221246,12.5919827770152]]]},"properties":{"region_id":"village_616716","name":"RAMENAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

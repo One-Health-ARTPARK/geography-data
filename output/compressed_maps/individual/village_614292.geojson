@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68021245914093,12.39778876722239],[76.67219151112413,12.40349522635357],[76.66325182213654,12.40073103522176],[76.66163882313882,12.39045169743453],[76.68021245914093,12.39778876722239]]]},"properties":{"region_id":"village_614292","name":"BRAHMAPURA","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

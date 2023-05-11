@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1583845253795,14.74406320586248],[75.14921834556071,14.75808741906064],[75.13499770401,14.75296437087746],[75.14540425597005,14.73167652711557],[75.1583845253795,14.74406320586248]]]},"properties":{"region_id":"village_604106","name":"DOLLESHWAR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

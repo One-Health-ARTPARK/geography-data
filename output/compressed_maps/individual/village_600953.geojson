@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92534621925323,16.16198066136555],[76.90334419044805,16.11868400013723],[76.94916118240572,16.12392133186602],[76.92534621925323,16.16198066136555]]]},"properties":{"region_id":"village_600953","name":"MALAT","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97514736019609,13.07719901020156],[75.96598573896513,13.06824644022078],[75.97845304803155,13.06386559362097],[75.97514736019609,13.07719901020156]]]},"properties":{"region_id":"village_615845","name":"CHATRANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

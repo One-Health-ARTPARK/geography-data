@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67871549002804,13.06351533836231],[77.68669952423535,13.06165079355324],[77.69006223278976,13.06869552794076],[77.68034270476784,13.07154731855303],[77.67871549002804,13.06351533836231]]]},"properties":{"region_id":"village_613073","name":"ANAGALAPURA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

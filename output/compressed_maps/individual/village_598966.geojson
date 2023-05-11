@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26284000853732,16.09096586696517],[76.3275355081206,16.07747238390671],[76.33250507516972,16.09129704550279],[76.26782101459406,16.10970759468149],[76.26284000853732,16.09096586696517]]]},"properties":{"region_id":"village_598966","name":"KODIHAL","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

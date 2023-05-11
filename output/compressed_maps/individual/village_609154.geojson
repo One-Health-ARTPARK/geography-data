@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77992092628577,13.704884315126],[75.77258604374074,13.69222428381021],[75.78218969996406,13.69108813919744],[75.77992092628577,13.704884315126]]]},"properties":{"region_id":"village_609154","name":"SIDAKANAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

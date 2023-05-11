@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02768342554023,14.17277035670328],[75.02540480215167,14.17408719689294],[75.0169380236512,14.17280490615236],[75.02163444853814,14.16935549236125],[75.02821225414975,14.16794687948581],[75.02768342554023,14.17277035670328]]]},"properties":{"region_id":"village_925024","name":"SANNAMANE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

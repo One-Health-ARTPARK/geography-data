@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3942730593806,12.87909758939721],[77.36766216949586,12.87858724410636],[77.36983622083868,12.85685118878367],[77.39515013306031,12.8667467117123],[77.3942730593806,12.87909758939721]]]},"properties":{"region_id":"village_613002","name":"DODDERI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20166154035215,13.48028184344239],[75.19028029670453,13.44587325898678],[75.21225931883289,13.44264482957766],[75.20166154035215,13.48028184344239]]]},"properties":{"region_id":"village_608919","name":"MEEGA","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

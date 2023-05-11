@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82634979305227,12.88434153277432],[76.82378054473178,12.87541166109692],[76.83519385713754,12.87494291004552],[76.8381631358161,12.88176301925505],[76.82634979305227,12.88434153277432]]]},"properties":{"region_id":"village_613912","name":"S.MUTSANDRA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

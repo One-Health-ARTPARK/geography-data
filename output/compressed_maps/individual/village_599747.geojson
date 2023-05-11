@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91886574242167,17.91641929251862],[76.89490809056838,17.88603242260166],[76.93261374199177,17.87341885345418],[76.94278416834582,17.89422333987536],[76.91886574242167,17.91641929251862]]]},"properties":{"region_id":"village_599747","name":"PARTAPUR","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

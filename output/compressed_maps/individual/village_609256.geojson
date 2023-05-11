@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03434563584737,13.8040646315086],[76.00556542557138,13.80384125903037],[76.00617822986375,13.7946952587014],[76.03263399279068,13.78998847515433],[76.03434563584737,13.8040646315086]]]},"properties":{"region_id":"village_609256","name":"ANUVANAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

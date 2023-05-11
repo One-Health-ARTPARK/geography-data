@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62084604898048,12.76175383604885],[77.59841814662528,12.75869855940342],[77.6109984178699,12.73529362447742],[77.62084604898048,12.76175383604885]]]},"properties":{"region_id":"village_613151","name":"MAHANTHALINGAPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

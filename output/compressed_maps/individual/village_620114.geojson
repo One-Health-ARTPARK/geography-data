@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35389822176346,17.3143812217099],[76.33594761606487,17.25245723007633],[76.39302728199482,17.26094530009918],[76.35389822176346,17.3143812217099]]]},"properties":{"region_id":"village_620114","name":"BELURGI","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

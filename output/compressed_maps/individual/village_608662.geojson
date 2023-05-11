@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.62612152021511,13.84768495323785],[74.62364418913612,13.88885425244964],[74.59666853868711,13.88526402809588],[74.61372755831147,13.8440415744756],[74.62612152021511,13.84768495323785]]]},"properties":{"region_id":"village_608662","name":"PADUVARI","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7612416175694,13.13093596834526],[75.75497627654582,13.13507824040967],[75.7478751845942,13.12391339306865],[75.75957585433272,13.11880982838218],[75.7612416175694,13.13093596834526]]]},"properties":{"region_id":"village_615070","name":"KANADUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

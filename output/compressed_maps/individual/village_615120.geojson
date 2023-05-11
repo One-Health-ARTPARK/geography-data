@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7815056096371,13.10143944506681],[75.77689740628496,13.1123473793673],[75.76999044617787,13.1074350904611],[75.7815056096371,13.10143944506681]]]},"properties":{"region_id":"village_615120","name":"HANJIHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

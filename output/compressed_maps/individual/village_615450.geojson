@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32896067648664,13.44356091098549],[76.30332378462533,13.44262175726405],[76.3007068401821,13.43400318079917],[76.3327680018699,13.43341384757843],[76.32896067648664,13.44356091098549]]]},"properties":{"region_id":"village_615450","name":"DODDAGHATTA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

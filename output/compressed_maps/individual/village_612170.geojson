@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5447055579346,13.15334205642212],[76.52732689095444,13.16342565917777],[76.52502301718009,13.1404556450781],[76.5389706887363,13.13799109309738],[76.5447055579346,13.15334205642212]]]},"properties":{"region_id":"village_612170","name":"VIGNASANTHE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

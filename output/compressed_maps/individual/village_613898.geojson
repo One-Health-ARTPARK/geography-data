@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7676712830298,12.8059499086607],[76.7630184497317,12.79114071738361],[76.78460000008269,12.78787748895705],[76.79102116996242,12.8002065263151],[76.7676712830298,12.8059499086607]]]},"properties":{"region_id":"village_613898","name":"BEERESWARAPURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

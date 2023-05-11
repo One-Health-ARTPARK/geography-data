@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.49875115178496,15.65831254075003],[74.47454485223285,15.66428131663314],[74.47123213426617,15.64844121950276],[74.49546176074556,15.63954899174546],[74.49875115178496,15.65831254075003]]]},"properties":{"region_id":"village_597844","name":"BACHOLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

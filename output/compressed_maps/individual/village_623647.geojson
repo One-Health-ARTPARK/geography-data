@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78012566865314,13.36986433263564],[77.77862559106073,13.3805013443723],[77.76981024513286,13.38163502130335],[77.76600367304437,13.37028830288104],[77.78012566865314,13.36986433263564]]]},"properties":{"region_id":"village_623647","name":"THOWDANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11994744389837,12.98828919212832],[77.10341187464051,12.99279438370137],[77.10119541598101,12.96705837860816],[77.11181583640628,12.96496811225885],[77.11994744389837,12.98828919212832]]]},"properties":{"region_id":"village_612552","name":"HUTHRI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

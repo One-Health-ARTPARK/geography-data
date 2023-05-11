@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50003761575306,14.20440129823415],[75.49512915325325,14.21639836960296],[75.48531998553791,14.20569669904906],[75.50003761575306,14.20440129823415]]]},"properties":{"region_id":"village_606709","name":"HOSAKOPPA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

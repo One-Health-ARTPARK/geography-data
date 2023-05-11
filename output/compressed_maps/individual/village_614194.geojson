@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65323753530879,12.53383993409373],[76.65548269277024,12.5422139686573],[76.64402894516127,12.54789342761917],[76.64300956662595,12.53529034370094],[76.65323753530879,12.53383993409373]]]},"properties":{"region_id":"village_614194","name":"SANKANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

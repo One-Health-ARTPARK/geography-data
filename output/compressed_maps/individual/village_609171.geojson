@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85656965667187,13.75192932104991],[75.86775606492317,13.81050354311671],[75.85204159918541,13.81063406936934],[75.85656965667187,13.75192932104991]]]},"properties":{"region_id":"village_609171","name":"MUNDANAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

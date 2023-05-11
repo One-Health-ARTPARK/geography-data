@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42366392616479,15.2148263210198],[74.37672037057715,15.21512079181286],[74.38854718391329,15.16934964901006],[74.44647159857779,15.17646172110578],[74.42366392616479,15.2148263210198]]]},"properties":{"region_id":"village_602692","name":"KARANJOIDA","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

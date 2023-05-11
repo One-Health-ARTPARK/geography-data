@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11728230657803,13.25616908035408],[76.12062248155333,13.20982956360462],[76.14692845610588,13.2224699088807],[76.11728230657803,13.25616908035408]]]},"properties":{"region_id":"village_615477","name":"NAYAKANAKERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

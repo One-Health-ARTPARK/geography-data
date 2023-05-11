@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23936267942433,13.46536356521334],[77.22331230415942,13.45533735336004],[77.23694277784055,13.44656291829927],[77.23936267942433,13.46536356521334]]]},"properties":{"region_id":"village_611160","name":"TANNENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

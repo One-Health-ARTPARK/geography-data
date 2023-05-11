@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63479349202964,13.30154076004527],[75.6069808537554,13.2859584945999],[75.61978582256924,13.27456807173203],[75.63479349202964,13.30154076004527]]]},"properties":{"region_id":"village_609717","name":"HANGARAVALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

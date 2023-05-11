@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.46942163114517,16.09396064566495],[74.44768709900958,16.08274673258763],[74.46255095711284,16.0529607831154],[74.46942163114517,16.09396064566495]]]},"properties":{"region_id":"village_597637","name":"ALDHAL","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.598077999773,12.89055699974846],[77.59940100035911,12.90112000028729],[77.58646599964021,12.90572999980721],[77.58254399965853,12.89049800034326],[77.598077999773,12.89055699974846]]]},"properties":{"region_id":"ward_bbmp187","name":"WARD NO.187 (PUTTENAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

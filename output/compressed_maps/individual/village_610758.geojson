@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07609425496244,13.67666165871658],[77.06745183066265,13.66089545643815],[77.07680258522132,13.66220870975654],[77.07609425496244,13.67666165871658]]]},"properties":{"region_id":"village_610758","name":"KANAPANAIKANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

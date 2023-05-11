@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75732665432184,13.57838252473487],[74.72693736737524,13.58717601451466],[74.73190401888921,13.56856242734457],[74.75732665432184,13.57838252473487]]]},"properties":{"region_id":"village_608735","name":"ASODU","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

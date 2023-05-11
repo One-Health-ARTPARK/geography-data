@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4046108267771,14.68434712572243],[75.4191352314271,14.68770533595902],[75.41840817521465,14.70886325997461],[75.39898550792097,14.70182894877612],[75.4046108267771,14.68434712572243]]]},"properties":{"region_id":"village_604328","name":"TIMAKAPUR","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

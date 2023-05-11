@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2195464131187,13.90105864749949],[76.22173839026016,13.91360957440807],[76.20647984484607,13.91056385732564],[76.2103169401401,13.89776828877117],[76.2195464131187,13.90105864749949]]]},"properties":{"region_id":"village_605824","name":"BEESANAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

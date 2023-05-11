@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21403846205236,18.23954384207332],[77.19487888959581,18.22074053188309],[77.20960242138922,18.20718930384826],[77.21403846205236,18.23954384207332]]]},"properties":{"region_id":"village_600008","name":"DIGGI","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

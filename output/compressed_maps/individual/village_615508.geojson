@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15688521659752,13.28824865060431],[76.15577793749827,13.27506374448536],[76.17819499749179,13.27855581091698],[76.15688521659752,13.28824865060431]]]},"properties":{"region_id":"village_615508","name":"KURUDAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

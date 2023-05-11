@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95666900681337,13.23097679903702],[76.99363514046989,13.23811630949795],[76.98774867819928,13.25205752155267],[76.96917388890652,13.24873441742058],[76.95666900681337,13.23097679903702]]]},"properties":{"region_id":"village_611850","name":"BIKKEGUDDA KAVAL","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27992421731562,16.28239486700062],[76.29973250977378,16.28328278829601],[76.28691654750111,16.30128386839952],[76.27992421731562,16.28239486700062]]]},"properties":{"region_id":"village_599662","name":"JAINAPUR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

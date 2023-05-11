@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91237436711141,13.10946461842583],[77.91147431379983,13.09477928238482],[77.92568425052566,13.09368590813764],[77.92369496369668,13.10769781788411],[77.91237436711141,13.10946461842583]]]},"properties":{"region_id":"village_622098","name":"THORNA HALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

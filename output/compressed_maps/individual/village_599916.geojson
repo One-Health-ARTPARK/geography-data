@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26765076710312,18.01960713517859],[77.23899022759626,18.02193004036812],[77.24456244840034,18.00014642328583],[77.268990870625,18.00163497854909],[77.26765076710312,18.01960713517859]]]},"properties":{"region_id":"village_599916","name":"TALWADA (K)","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

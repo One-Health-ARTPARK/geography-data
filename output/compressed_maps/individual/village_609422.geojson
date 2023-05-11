@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12810039528192,13.67679969631539],[76.13685166768404,13.68866386648998],[76.12512257856376,13.69433512388228],[76.12086751923691,13.68351278324413],[76.12810039528192,13.67679969631539]]]},"properties":{"region_id":"village_609422","name":"HANUMANAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

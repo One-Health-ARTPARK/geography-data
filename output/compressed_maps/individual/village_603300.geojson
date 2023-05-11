@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02076299438308,14.57467381997745],[75.00480163100957,14.60743708355998],[74.99323227846786,14.5993296213557],[75.02076299438308,14.57467381997745]]]},"properties":{"region_id":"village_603300","name":"KALKARDI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

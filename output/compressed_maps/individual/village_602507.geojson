@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12466514552808,15.16649611935614],[75.10453931383142,15.16458096894314],[75.10505057998604,15.1406044889493],[75.12186470729837,15.1403203767728],[75.12466514552808,15.16649611935614]]]},"properties":{"region_id":"village_602507","name":"GUDDAD HULIKATTI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

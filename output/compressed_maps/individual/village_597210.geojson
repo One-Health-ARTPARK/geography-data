@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.48897171375069,16.41060710474168],[74.45340937447062,16.38668282552415],[74.46515703923805,16.35542945528979],[74.51993444342277,16.37076752105056],[74.48897171375069,16.41060710474168]]]},"properties":{"region_id":"village_597210","name":"NAINGLAJ","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

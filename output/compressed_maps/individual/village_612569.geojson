@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11682265369204,12.93944418036878],[77.1068887984191,12.94345535713599],[77.11000791274867,12.9288975372969],[77.1185830236925,12.92932110061192],[77.11682265369204,12.93944418036878]]]},"properties":{"region_id":"village_612569","name":"MUGANAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81106457633537,15.96515110832179],[76.79302655308413,15.94614773556765],[76.81226280784404,15.93341355457661],[76.81106457633537,15.96515110832179]]]},"properties":{"region_id":"village_601039","name":"UTAKNUR","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

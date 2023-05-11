@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75924661025385,13.00690457072021],[75.75209721642644,13.00665644302647],[75.74166129866818,12.99317925567861],[75.75110614337073,12.99283518976281],[75.75924661025385,13.00690457072021]]]},"properties":{"region_id":"village_615101","name":"GORAVANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

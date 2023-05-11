@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04553661570979,15.99664168791939],[76.02023647705407,15.99810895366412],[76.02415907365457,15.98445517595994],[76.04553661570979,15.99664168791939]]]},"properties":{"region_id":"village_601422","name":"ANTARTHANA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

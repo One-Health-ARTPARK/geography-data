@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03442284202707,16.36666347325959],[76.00129500546348,16.37612459853488],[75.98897911546243,16.3378560800843],[76.03601437684414,16.34176595411216],[76.03442284202707,16.36666347325959]]]},"properties":{"region_id":"village_599571","name":"HULLUR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

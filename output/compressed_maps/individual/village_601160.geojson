@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86532239313621,15.92497473259781],[76.8517509808526,15.92480556989946],[76.84056539178073,15.87842193731156],[76.85444430480824,15.87448416153382],[76.86532239313621,15.92497473259781]]]},"properties":{"region_id":"village_601160","name":"RAMATHANHAL","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9391477667076,13.12223093387947],[75.9309903275681,13.13137566517358],[75.92505082007675,13.12052720963345],[75.9391477667076,13.12223093387947]]]},"properties":{"region_id":"village_615334","name":"MUGALIHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

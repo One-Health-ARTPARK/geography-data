@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62443346930613,13.62041390934897],[76.61385548752838,13.64144578221254],[76.59063506405337,13.63598964560496],[76.60534294736904,13.61788506128317],[76.62443346930613,13.62041390934897]]]},"properties":{"region_id":"village_610112","name":"GANDALU","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

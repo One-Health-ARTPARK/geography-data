@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9884968293807,14.86423982011149],[75.96806186190358,14.84865481089785],[75.97145562594464,14.83177073933287],[76.02105526904904,14.84232519666361],[75.9884968293807,14.86423982011149]]]},"properties":{"region_id":"village_606306","name":"BAGALI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

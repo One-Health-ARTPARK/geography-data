@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67923312875531,13.63235727270541],[77.67110175455697,13.63919685031316],[77.66839565511675,13.63351242637292],[77.67923312875531,13.63235727270541]]]},"properties":{"region_id":"village_623715","name":"MACHAVALAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

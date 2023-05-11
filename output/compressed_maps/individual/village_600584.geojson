@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87641952510597,16.27658282387496],[76.82134614329298,16.28035687517815],[76.82763375810136,16.24219541985058],[76.86357033950028,16.23576505756322],[76.87735445011306,16.25215052223881],[76.87641952510597,16.27658282387496]]]},"properties":{"region_id":"village_600584","name":"GALAG","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

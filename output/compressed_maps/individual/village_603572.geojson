@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82451341959957,14.48012520088645],[74.80503889923878,14.48349785826713],[74.80474997154396,14.46161143628835],[74.82678261021462,14.468313510767],[74.82451341959957,14.48012520088645]]]},"properties":{"region_id":"village_603572","name":"KARJAGI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

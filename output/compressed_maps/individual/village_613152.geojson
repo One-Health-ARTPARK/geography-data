@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59407551206414,12.72144344338193],[77.59862394027486,12.75192358117871],[77.56799363049916,12.73544330983303],[77.59407551206414,12.72144344338193]]]},"properties":{"region_id":"village_613152","name":"RAGIHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20913388183214,15.49309371303796],[76.19126220013338,15.49900002011701],[76.18675335103032,15.48888511610488],[76.21728349900881,15.47616925871807],[76.20913388183214,15.49309371303796]]]},"properties":{"region_id":"village_601336","name":"CHENDINHAL","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

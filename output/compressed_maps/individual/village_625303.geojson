@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63589312649044,13.24403266366669],[77.62369526079078,13.23307666334101],[77.63774890182188,13.23091827618066],[77.63589312649044,13.24403266366669]]]},"properties":{"region_id":"village_625303","name":"NERAGANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

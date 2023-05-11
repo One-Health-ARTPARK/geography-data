@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78150912674835,13.65232596968611],[77.7723674751964,13.64935958818609],[77.77143374225263,13.63971125712452],[77.77880480843574,13.64037512088874],[77.78150912674835,13.65232596968611]]]},"properties":{"region_id":"village_623776","name":"VARLAKONDHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

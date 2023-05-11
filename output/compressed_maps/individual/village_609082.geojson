@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46156523877319,13.59084254175389],[75.44151362278902,13.57931636639865],[75.465799997418,13.55766432484301],[75.47805121121809,13.57547332596021],[75.46156523877319,13.59084254175389]]]},"properties":{"region_id":"village_609082","name":"GUBBIGA","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

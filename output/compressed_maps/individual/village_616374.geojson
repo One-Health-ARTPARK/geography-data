@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97354590041861,12.91670039673322],[75.95574010311647,12.91111687038249],[75.96480683649241,12.90056177729264],[75.97354590041861,12.91670039673322]]]},"properties":{"region_id":"village_616374","name":"KAGGARAVALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

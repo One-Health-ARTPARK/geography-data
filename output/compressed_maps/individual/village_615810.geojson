@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31489338726706,13.15052085292326],[76.31452078363873,13.13649857539184],[76.3261619366361,13.13668122614467],[76.33263525090736,13.14452389940345],[76.31489338726706,13.15052085292326]]]},"properties":{"region_id":"village_615810","name":"HONNENAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

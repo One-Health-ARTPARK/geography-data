@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54360307370156,14.81983252536989],[75.50979950234033,14.80398903810732],[75.52412402310932,14.78136525224993],[75.55664267744254,14.78452767690139],[75.54360307370156,14.81983252536989]]]},"properties":{"region_id":"village_604246","name":"KANAVALLI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

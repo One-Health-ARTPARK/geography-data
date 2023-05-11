@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48681902035052,16.08979417131891],[77.50227193296564,16.11981084618467],[77.48239847684204,16.11899685740158],[77.48681902035052,16.08979417131891]]]},"properties":{"region_id":"village_600839","name":"JULAMGERA","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

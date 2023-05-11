@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74304190433732,16.36620371589585],[76.72646205311551,16.36827349077559],[76.71153896809635,16.34283970832701],[76.73541683734055,16.34074569604957],[76.74304190433732,16.36620371589585]]]},"properties":{"region_id":"village_600552","name":"BASSAPUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

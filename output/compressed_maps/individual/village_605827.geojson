@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2621914415746,13.89326720019394],[76.2555568645639,13.90539399127437],[76.23049101092406,13.89618636282697],[76.23548930683494,13.8870180811291],[76.2621914415746,13.89326720019394]]]},"properties":{"region_id":"village_605827","name":"KALLAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

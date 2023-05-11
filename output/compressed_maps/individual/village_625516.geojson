@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78371806172832,13.14118902227512],[77.76753702691309,13.14427028240277],[77.77339372075299,13.12987142710819],[77.78371806172832,13.14118902227512]]]},"properties":{"region_id":"village_625516","name":"HASIGALA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

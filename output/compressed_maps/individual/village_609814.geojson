@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67691997415574,13.34439652127813],[75.67416427346151,13.36067649308204],[75.66267227201057,13.35082779662613],[75.67691997415574,13.34439652127813]]]},"properties":{"region_id":"village_609814","name":"JAKKANAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

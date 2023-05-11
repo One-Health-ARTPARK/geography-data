@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28268334129459,12.05513163017618],[77.26254205842385,12.07474621147594],[77.25742023316172,12.05134909872543],[77.28268334129459,12.05513163017618]]]},"properties":{"region_id":"village_619862","name":"BELATHUR","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

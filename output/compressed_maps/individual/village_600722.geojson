@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07503296064957,16.22732065263676],[77.04481810787193,16.19908087351874],[77.08374186434794,16.19898227155235],[77.07503296064957,16.22732065263676]]]},"properties":{"region_id":"village_600722","name":"NAGADDINNI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

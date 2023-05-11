@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01208769740172,13.22490865984502],[76.98290658340801,13.23306603950407],[76.98614143894453,13.20843213144436],[77.01208769740172,13.22490865984502]]]},"properties":{"region_id":"village_611493","name":"SIRIVARA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

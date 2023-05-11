@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30300250584644,13.23791417685141],[77.2890688214271,13.24498478236948],[77.28698212821345,13.23719186670187],[77.30300250584644,13.23791417685141]]]},"properties":{"region_id":"village_624796","name":"MUDDALINGANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

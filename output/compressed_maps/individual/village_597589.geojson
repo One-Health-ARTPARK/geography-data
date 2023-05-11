@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68917815276737,16.29482850702909],[74.69576566894581,16.3106540459433],[74.6736972169268,16.32250280363357],[74.67576047030414,16.29532151714789],[74.68917815276737,16.29482850702909]]]},"properties":{"region_id":"village_597589","name":"SHIRHATTI (KH)","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

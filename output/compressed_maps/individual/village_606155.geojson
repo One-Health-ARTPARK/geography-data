@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62237007075188,13.91881635573809],[76.60759193987951,13.9246685987703],[76.60204416414392,13.90241380936722],[76.626482474926,13.8969189243665],[76.62237007075188,13.91881635573809]]]},"properties":{"region_id":"village_606155","name":"SOMERAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

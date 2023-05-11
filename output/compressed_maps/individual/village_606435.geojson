@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1816641348671,14.56368986923417],[76.17448386669618,14.54709701045003],[76.18954541802174,14.54826805071156],[76.1816641348671,14.56368986923417]]]},"properties":{"region_id":"village_606435","name":"MASANIKATTE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

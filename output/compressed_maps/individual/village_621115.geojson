@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8614960286934,16.75871221070245],[76.86026202059959,16.77306744120746],[76.8496734434838,16.78475276639856],[76.83982746243692,16.77106065475489],[76.8614960286934,16.75871221070245]]]},"properties":{"region_id":"village_621115","name":"INGALGI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

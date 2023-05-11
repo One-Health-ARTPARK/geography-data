@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11605176321459,14.89589018014595],[75.10612489267942,14.90378591407341],[75.06859850876599,14.90863632609821],[75.07930435417431,14.89064033414318],[75.11472365377662,14.8825436273912],[75.11605176321459,14.89589018014595]]]},"properties":{"region_id":"village_604036","name":"YALIWAL","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

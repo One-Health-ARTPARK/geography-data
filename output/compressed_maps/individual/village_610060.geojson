@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47301109337144,13.4348185110893],[76.4802497842764,13.46549194267348],[76.45653081508105,13.46701078833882],[76.45341490658207,13.43572016900089],[76.47301109337144,13.4348185110893]]]},"properties":{"region_id":"village_610060","name":"MALLIGERE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.200680728173,15.70175194030036],[76.1879547830352,15.70324199498249],[76.18618514622952,15.68625496984057],[76.20423745940735,15.68579426634061],[76.200680728173,15.70175194030036]]]},"properties":{"region_id":"village_601269","name":"BUDAKUNTI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

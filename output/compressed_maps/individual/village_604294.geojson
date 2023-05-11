@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37277598811347,14.64370621664723],[75.3863090964831,14.64867746968024],[75.37512074231819,14.66178016506487],[75.36768948902429,14.65774199865518],[75.37277598811347,14.64370621664723]]]},"properties":{"region_id":"village_604294","name":"NELLIKOPPA","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

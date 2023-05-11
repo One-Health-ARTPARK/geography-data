@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70944257022671,15.64783567779496],[76.69443417876224,15.6461756565773],[76.69352833367675,15.62462262403925],[76.72258003477273,15.63057582646512],[76.70944257022671,15.64783567779496]]]},"properties":{"region_id":"village_601218","name":"KONTHANUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

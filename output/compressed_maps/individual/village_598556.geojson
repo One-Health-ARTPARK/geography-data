@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22956675937002,16.36364855309837],[75.179116543244,16.36443077185075],[75.2138418781369,16.32163574951176],[75.22956675937002,16.36364855309837]]]},"properties":{"region_id":"village_598556","name":"MALALI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

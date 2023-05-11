@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80630881530915,13.06169581419002],[76.79652168476942,13.06075859411712],[76.79565253841872,13.03950710108541],[76.81004771990344,13.04686285705479],[76.80630881530915,13.06169581419002]]]},"properties":{"region_id":"village_612422","name":"VARAHASANDRA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

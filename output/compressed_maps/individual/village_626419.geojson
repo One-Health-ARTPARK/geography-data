@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55262857740347,12.62476420011912],[77.54099319203338,12.62829481839633],[77.5343735092722,12.61117031390415],[77.54926041587574,12.60438983509171],[77.55262857740347,12.62476420011912]]]},"properties":{"region_id":"village_626419","name":"HUYALAPPANAHALLI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

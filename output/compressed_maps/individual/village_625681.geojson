@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78413125543871,13.13111789962815],[77.77455158328985,13.12215811006894],[77.76179130242345,13.12185552081853],[77.76464422176588,13.10847141037666],[77.7859581257216,13.1112697760734],[77.78413125543871,13.13111789962815]]]},"properties":{"region_id":"village_625681","name":"LAKKONDAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

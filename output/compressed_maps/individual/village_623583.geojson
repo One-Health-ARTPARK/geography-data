@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81578154533747,13.45324934234132],[77.7983555235353,13.45558750257339],[77.79143786412902,13.44355421082193],[77.8182889123479,13.4421476013826],[77.81578154533747,13.45324934234132]]]},"properties":{"region_id":"village_623583","name":"AVALAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

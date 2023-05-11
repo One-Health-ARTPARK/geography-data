@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27646389277328,14.67209059464598],[76.2639992405149,14.64769586770879],[76.28990011444077,14.65256406760438],[76.27646389277328,14.67209059464598]]]},"properties":{"region_id":"village_606386","name":"MEDAKERIPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

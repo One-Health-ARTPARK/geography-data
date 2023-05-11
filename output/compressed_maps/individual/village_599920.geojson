@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19711017486306,17.98272812078078],[77.19541979723077,18.00148166642792],[77.1833729157735,17.98055815470143],[77.19711017486306,17.98272812078078]]]},"properties":{"region_id":"village_599920","name":"HARNAL","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72432974471872,11.69448070597126],[76.71233820648615,11.65339852896817],[76.72734708113522,11.63728756743799],[76.76009106036041,11.67023544968443],[76.72432974471872,11.69448070597126]]]},"properties":{"region_id":"village_619593","name":"BACHAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

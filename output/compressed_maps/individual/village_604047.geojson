@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23488631907344,14.87229577117474],[75.20629678437437,14.87251886265648],[75.22580022833438,14.85219316897567],[75.23488631907344,14.87229577117474]]]},"properties":{"region_id":"village_604047","name":"MASANKATTI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

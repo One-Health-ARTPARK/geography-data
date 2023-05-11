@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36633724755708,13.49539242644631],[75.33719970428541,13.47978432674055],[75.35726882059237,13.47148220576945],[75.37120150444923,13.47443425549426],[75.36633724755708,13.49539242644631]]]},"properties":{"region_id":"village_609005","name":"MARITHOTLU","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

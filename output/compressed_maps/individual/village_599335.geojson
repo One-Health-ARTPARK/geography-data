@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3658571817397,16.95645096991877],[76.34725658081294,16.91824085856145],[76.38863059817184,16.90014520497261],[76.3658571817397,16.95645096991877]]]},"properties":{"region_id":"village_599335","name":"GUTHARGI","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

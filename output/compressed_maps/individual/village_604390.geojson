@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48060091922058,14.51404942570572],[75.4614962784528,14.51615143716312],[75.45721506990051,14.49761326922325],[75.47464668885311,14.49530131731406],[75.48060091922058,14.51404942570572]]]},"properties":{"region_id":"village_604390","name":"CHIKKA MATTUR","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

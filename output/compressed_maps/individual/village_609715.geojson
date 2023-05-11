@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60677394529556,13.28610264001935],[75.61343721091252,13.29574459273747],[75.60033583617242,13.29556603828188],[75.60677394529556,13.28610264001935]]]},"properties":{"region_id":"village_609715","name":"DEVARAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35904934154824,14.40917315453795],[75.37768509085454,14.40737133352907],[75.3822530590577,14.4338108903197],[75.35883651062943,14.43790541602091],[75.35904934154824,14.40917315453795]]]},"properties":{"region_id":"village_607721","name":"KADENANDIHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

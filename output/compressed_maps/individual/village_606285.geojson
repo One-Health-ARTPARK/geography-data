@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84664725015784,14.40422990668785],[75.81687310899488,14.4064499955016],[75.82572993034448,14.39122793881319],[75.84305054705342,14.38793420247778],[75.84664725015784,14.40422990668785]]]},"properties":{"region_id":"village_606285","name":"DEVARABELAKERE","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

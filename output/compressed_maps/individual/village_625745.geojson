@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85728880180135,12.95962478425146],[77.83918194950785,12.96579444544578],[77.84370282940877,12.95191130090398],[77.85728880180135,12.95962478425146]]]},"properties":{"region_id":"village_625745","name":"HANDENAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

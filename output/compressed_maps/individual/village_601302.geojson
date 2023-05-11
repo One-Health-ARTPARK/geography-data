@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20544463984096,15.62318456516189],[76.17184838583168,15.62352920226857],[76.17708852975935,15.58380168545855],[76.20290047253135,15.5815577878952],[76.20544463984096,15.62318456516189]]]},"properties":{"region_id":"village_601302","name":"HUNSIHAL","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

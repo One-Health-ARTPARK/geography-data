@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77992092628577,13.704884315126],[75.77237979112866,13.71525142457515],[75.76367690628236,13.713857768676],[75.76704746437387,13.68025115724507],[75.77315297451803,13.70189094567369],[75.77992092628577,13.704884315126]]]},"properties":{"region_id":"village_609155","name":"YALUGERE","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

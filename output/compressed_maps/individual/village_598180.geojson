@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99691577154017,15.94987029661544],[74.96564512182938,15.93852271370718],[74.9698904056434,15.91638891886084],[74.99908082507503,15.93684809048607],[74.99691577154017,15.94987029661544]]]},"properties":{"region_id":"village_598180","name":"NUGGANATTI","parent":"subdistrict_7195","parent_name":"YARAGATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0501011341477,15.5355658156865],[75.0457346593821,15.54761733852282],[75.0187592622808,15.54542512067503],[75.02462827625247,15.52998758960305],[75.0501011341477,15.5355658156865]]]},"properties":{"region_id":"village_602301","name":"THIMMAPURA-M-AMMINABHAVI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

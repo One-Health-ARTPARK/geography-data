@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8539803343289,14.36566620328871],[74.84214169409147,14.34869864596461],[74.85446646850565,14.3414772701088],[74.86381577911462,14.36012230897797],[74.8539803343289,14.36566620328871]]]},"properties":{"region_id":"village_603700","name":"MAGHEGAR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

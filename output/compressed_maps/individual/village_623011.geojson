@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.40149920846572,13.212355620326],[78.38188171100926,13.21184656620185],[78.39252218970846,13.19301741611435],[78.40149920846572,13.212355620326]]]},"properties":{"region_id":"village_623011","name":"SIDDAGHATTA","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

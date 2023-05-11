@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26722332789933,14.51433889314816],[75.24489993228545,14.51396146313541],[75.25209567590302,14.49601731985251],[75.27193895903044,14.50139885360583],[75.26722332789933,14.51433889314816]]]},"properties":{"region_id":"village_607675","name":"CHIKKAMAGADI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

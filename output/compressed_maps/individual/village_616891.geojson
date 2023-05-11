@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20460226751366,12.77326456403752],[76.19731326693908,12.77267223528432],[76.19894313963016,12.76511752844607],[76.2059129672146,12.77026343131737],[76.20460226751366,12.77326456403752]]]},"properties":{"region_id":"village_616891","name":"BILLENAHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

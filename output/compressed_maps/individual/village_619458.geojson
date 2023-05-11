@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67363952473836,11.91837421455795],[76.65115717398314,11.92485252068194],[76.65062805508134,11.90788564382048],[76.67363952473836,11.91837421455795]]]},"properties":{"region_id":"village_619458","name":"TAGGALUR","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

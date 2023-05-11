@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76750212397852,14.91192910126929],[75.75564065949015,14.91963666067506],[75.71999781614727,14.91482557637075],[75.74571595104032,14.88470536532205],[75.78891514705728,14.88488396938913],[75.76750212397852,14.91192910126929]]]},"properties":{"region_id":"village_604587","name":"KATEBENNURU","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

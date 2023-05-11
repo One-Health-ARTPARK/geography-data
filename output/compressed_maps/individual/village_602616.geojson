@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.26615095590174,14.86216202439052],[74.25715308773626,14.86616136310258],[74.24915914760571,14.85751754713704],[74.25562502931655,14.85179108696459],[74.26615095590174,14.86216202439052]]]},"properties":{"region_id":"village_602616","name":"NAITISAVAR","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

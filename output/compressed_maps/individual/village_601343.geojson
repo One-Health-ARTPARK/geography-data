@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9112942368179,15.534365806692],[75.98270731599327,15.52565157114542],[75.97303971333963,15.54399440985164],[75.9112942368179,15.534365806692]]]},"properties":{"region_id":"village_601343","name":"ADOOR","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

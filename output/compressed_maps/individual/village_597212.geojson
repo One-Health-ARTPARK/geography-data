@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5079213512586,16.38944776362875],[74.49311936378612,16.43158050390571],[74.48906147018734,16.41061482783854],[74.49816117376919,16.39396000064895],[74.5079213512586,16.38944776362875]]]},"properties":{"region_id":"village_597212","name":"KUTHALI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

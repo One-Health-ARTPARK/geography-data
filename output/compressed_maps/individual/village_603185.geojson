@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74685922924739,14.6085964868009],[74.72976205785359,14.60183393464644],[74.74708482179794,14.59458069410529],[74.74685922924739,14.6085964868009]]]},"properties":{"region_id":"village_603185","name":"HEGGAR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

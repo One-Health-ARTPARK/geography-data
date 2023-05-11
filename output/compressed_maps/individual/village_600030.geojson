@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36413033237619,18.17804820965167],[77.3487942436035,18.19306614211547],[77.33964279212748,18.16494270664754],[77.35607264391997,18.14800257507806],[77.36413033237619,18.17804820965167]]]},"properties":{"region_id":"village_600030","name":"HIPPALGAON","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

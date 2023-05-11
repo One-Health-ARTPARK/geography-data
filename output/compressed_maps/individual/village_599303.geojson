@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27825886631275,17.12232122896958],[76.24881204490674,17.10854243331504],[76.29082617131856,17.10465074691942],[76.27825886631275,17.12232122896958]]]},"properties":{"region_id":"village_599303","name":"KURABATHALLI","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73107613752748,14.35418864867064],[76.70394314265911,14.34008300675702],[76.72550120953362,14.31181729598138],[76.73692406402901,14.32735234944042],[76.73107613752748,14.35418864867064]]]},"properties":{"region_id":"village_605330","name":"BHARAMASAGARA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

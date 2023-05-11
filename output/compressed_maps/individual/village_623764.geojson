@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76207120707326,13.66574617013997],[77.76032432514181,13.67287925672044],[77.75308211252586,13.66963041473348],[77.76207120707326,13.66574617013997]]]},"properties":{"region_id":"village_623764","name":"PAVAJENAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

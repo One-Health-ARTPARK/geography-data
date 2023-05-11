@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24768420487668,18.09128007086524],[77.26832573982446,18.09312700628832],[77.26823925578265,18.12606890287484],[77.24307162527602,18.12284139678463],[77.24768420487668,18.09128007086524]]]},"properties":{"region_id":"village_599880","name":"KALASDHAL","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

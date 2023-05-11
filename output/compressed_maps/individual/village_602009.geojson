@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6257930022718,15.4759427936879],[75.64049043013375,15.42242591472822],[75.6640973386378,15.41194705966599],[75.65718391397614,15.4633964858369],[75.6257930022718,15.4759427936879]]]},"properties":{"region_id":"village_602009","name":"BETIGERI(RURAL)","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

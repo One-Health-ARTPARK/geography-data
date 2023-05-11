@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20765666175234,14.52289100236091],[75.1988227856905,14.51293556914183],[75.21310899549077,14.50991175408962],[75.20765666175234,14.52289100236091]]]},"properties":{"region_id":"village_607441","name":"NELLIKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

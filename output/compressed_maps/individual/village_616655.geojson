@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12470598967911,12.66098842179045],[76.12164306804003,12.6708941233662],[76.10815199893803,12.66597481240321],[76.10942212423764,12.65764383191724],[76.12470598967911,12.66098842179045]]]},"properties":{"region_id":"village_616655","name":"KOTEKARPURAVALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

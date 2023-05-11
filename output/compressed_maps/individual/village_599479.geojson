@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82909595219384,16.36011252767211],[75.83845941199274,16.3792047435489],[75.82648063209751,16.37946053011191],[75.82077965458514,16.36585883167664],[75.82909595219384,16.36011252767211]]]},"properties":{"region_id":"village_599479","name":"MAJAREKOPPA (R.C)","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

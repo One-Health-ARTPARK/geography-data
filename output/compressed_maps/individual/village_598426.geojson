@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23492489457156,16.58323260716577],[75.2337733192475,16.61345705642669],[75.19492291709949,16.60669640529826],[75.2022815886175,16.57199201542491],[75.23492489457156,16.58323260716577]]]},"properties":{"region_id":"village_598426","name":"MAIGUR","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

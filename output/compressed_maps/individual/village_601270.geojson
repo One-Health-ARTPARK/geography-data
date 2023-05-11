@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20867214613062,15.70267515993295],[76.200680728173,15.70175194030036],[76.20709013880432,15.67685850053368],[76.21863792696463,15.68728806004354],[76.20867214613062,15.70267515993295]]]},"properties":{"region_id":"village_601270","name":"PUTAKMARI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

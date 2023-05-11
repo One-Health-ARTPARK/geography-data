@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34114165843229,14.51895483770605],[75.32492616684813,14.52102699728431],[75.32721311027089,14.49738105240525],[75.33951327357947,14.49928534527804],[75.34114165843229,14.51895483770605]]]},"properties":{"region_id":"village_604376","name":"SHITIKONDA","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

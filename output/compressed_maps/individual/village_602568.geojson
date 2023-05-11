@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37668872204307,15.14528201795326],[75.39022930465094,15.17731858049981],[75.35706789862307,15.18626655398546],[75.34813196665422,15.16472150849146],[75.37668872204307,15.14528201795326]]]},"properties":{"region_id":"village_602568","name":"PASUPATHIHAL","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

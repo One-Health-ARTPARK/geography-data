@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97874725306535,16.07481452697386],[74.9654427993152,16.07589066469493],[74.96348964192865,16.0532788579504],[74.98267594140356,16.05909632542548],[74.97874725306535,16.07481452697386]]]},"properties":{"region_id":"village_598160","name":"TAVALAGERI","parent":"subdistrict_7195","parent_name":"YARAGATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3899766634081,16.00106016909148],[76.36887669378235,15.99806468766387],[76.36252075348989,15.97603010921484],[76.37910255350467,15.97474268291763],[76.3899766634081,16.00106016909148]]]},"properties":{"region_id":"village_600369","name":"YERDIHAL(KHURD)","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

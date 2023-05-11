@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86048342789768,16.58165859097182],[74.80480340446758,16.59421509166016],[74.80941405419767,16.54591462817267],[74.83836226640813,16.53530994918293],[74.85988969724868,16.55060008965828],[74.86048342789768,16.58165859097182]]]},"properties":{"region_id":"village_597359","name":"CHINCHALI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56163585284466,13.30937976951413],[76.54394144480138,13.30246682183245],[76.55566989381616,13.29333001505978],[76.56163585284466,13.30937976951413]]]},"properties":{"region_id":"village_612047","name":"NYAKENAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

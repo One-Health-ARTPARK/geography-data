@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55652013006359,13.20686318999421],[77.54107170024626,13.2061281137983],[77.5493576199349,13.16958620063096],[77.56391600480461,13.17550426768783],[77.55652013006359,13.20686318999421]]]},"properties":{"region_id":"village_612834","name":"ADDE VISHWANATHAPURA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

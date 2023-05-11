@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90012670262205,13.20614929099679],[75.90004078381205,13.21972849289485],[75.88001247731893,13.21880318658951],[75.88104640867415,13.20070724612255],[75.90012670262205,13.20614929099679]]]},"properties":{"region_id":"village_615220","name":"MUTHUGANNE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

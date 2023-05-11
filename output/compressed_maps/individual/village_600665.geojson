@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08033742843199,16.29650315506976],[77.06873926005113,16.28807365092723],[77.05746295425173,16.29170071920936],[77.06091257045043,16.2731786941799],[77.07066238234854,16.27653810853697],[77.08033742843199,16.29650315506976]]]},"properties":{"region_id":"village_600665","name":"DURG","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

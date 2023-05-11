@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28251172149547,15.7409556575401],[76.27018012327956,15.72462924814367],[76.29095966769428,15.72322924669288],[76.28251172149547,15.7409556575401]]]},"properties":{"region_id":"village_601274","name":"GUNTAMADU","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

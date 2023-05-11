@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10509123294345,15.83985105467278],[76.08697553574689,15.84005151180136],[76.07377066596092,15.8057661948824],[76.10519411024625,15.78773491915933],[76.11447898111147,15.81129658798065],[76.10509123294345,15.83985105467278]]]},"properties":{"region_id":"village_601451","name":"CHALGERA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

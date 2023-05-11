@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45581250704682,17.33187659105239],[77.44693474134563,17.35759066584416],[77.42374348676698,17.34764302101512],[77.45581250704682,17.33187659105239]]]},"properties":{"region_id":"village_620454","name":"GHANPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

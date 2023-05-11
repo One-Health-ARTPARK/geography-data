@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06871687081322,12.36441992623576],[76.05202887641792,12.36119278328891],[76.06489940435559,12.3486781833372],[76.06871687081322,12.36441992623576]]]},"properties":{"region_id":"village_618251","name":"CHITTENAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45712432232042,16.83143680452873],[77.43936846953338,16.83625851165035],[77.42577962302771,16.81207374552972],[77.43461957269842,16.80884225433718],[77.45712432232042,16.83143680452873]]]},"properties":{"region_id":"village_621284","name":"DANTAPUR","parent":"subdistrict_7094","parent_name":"GURUMITKAL"}}
+]}

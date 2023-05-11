@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28050445034623,12.28889080219538],[76.26933564544402,12.28346134880564],[76.27397204224766,12.27566067045835],[76.28189338087175,12.27707242761143],[76.28050445034623,12.28889080219538]]]},"properties":{"region_id":"village_618422","name":"GOVINDANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

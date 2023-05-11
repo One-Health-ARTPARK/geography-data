@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56165900009086,12.95335200000205],[77.56784200039029,12.94362299964262],[77.57366799963451,12.9532090004492],[77.56165900009086,12.95335200000205]]]},"properties":{"region_id":"ward_bbmp142","name":"WARD NO.142 (SUNKENAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

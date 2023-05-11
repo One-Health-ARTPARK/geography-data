@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54127813118951,12.20227258222634],[76.5160340012351,12.20630092749194],[76.51718327674668,12.18740406436561],[76.53257538925149,12.18281032280348],[76.54127813118951,12.20227258222634]]]},"properties":{"region_id":"village_618766","name":"CHIKKANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

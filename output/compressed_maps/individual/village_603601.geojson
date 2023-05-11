@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88993584068521,14.48980440554369],[74.87454386062603,14.4924068408193],[74.88647385494001,14.46979392760302],[74.88993584068521,14.48980440554369]]]},"properties":{"region_id":"village_603601","name":"KALGADDE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

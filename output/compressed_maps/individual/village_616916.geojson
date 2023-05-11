@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25784755259917,12.73195691143856],[76.24314846017018,12.73597449925067],[76.24198472088982,12.7164269903893],[76.26194457407233,12.71742961678273],[76.25784755259917,12.73195691143856]]]},"properties":{"region_id":"village_616916","name":"LAKKUR","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

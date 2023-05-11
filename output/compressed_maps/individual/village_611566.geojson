@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10271645499596,13.28038974566694],[77.09430736374443,13.26436234912415],[77.10855811000212,13.26671268550338],[77.10271645499596,13.28038974566694]]]},"properties":{"region_id":"village_611566","name":"MANANGI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

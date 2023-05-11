@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76037914734769,12.7962672894579],[76.73943142890145,12.79564135593849],[76.73690052752228,12.78879844623891],[76.76069250853337,12.78343252355538],[76.76037914734769,12.7962672894579]]]},"properties":{"region_id":"village_613992","name":"A.SRIRAMANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18557278409308,13.60125552730843],[77.17150289723381,13.59164209740347],[77.17219286401416,13.57609597553279],[77.19660107298321,13.57465438372338],[77.18669293200614,13.58778041285574],[77.18557278409308,13.60125552730843]]]},"properties":{"region_id":"village_611022","name":"DOGGANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

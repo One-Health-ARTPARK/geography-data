@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30818495571096,13.35207604649735],[77.29841866040336,13.35132757963602],[77.29683002433602,13.34264913184912],[77.3087994844382,13.34471129615382],[77.30818495571096,13.35207604649735]]]},"properties":{"region_id":"village_611235","name":"NARASAPURA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

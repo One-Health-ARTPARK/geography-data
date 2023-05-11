@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80935945787128,15.21912073002469],[74.79677326319013,15.19508990942821],[74.81153456223753,15.2019929656245],[74.80935945787128,15.21912073002469]]]},"properties":{"region_id":"village_602826","name":"ADIKEHOSUR","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

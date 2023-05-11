@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0206678101898,15.83598378593988],[75.00454337216992,15.83961467750781],[75.00524651380358,15.82077515390715],[75.01903239073826,15.81857757872741],[75.0206678101898,15.83598378593988]]]},"properties":{"region_id":"village_598224","name":"CHAKRAGERI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

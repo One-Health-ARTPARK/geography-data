@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02236243795718,15.13160772640856],[75.00162199880202,15.1315750287316],[74.99919346697995,15.11280376914754],[75.01740431138319,15.09815820473269],[75.02236243795718,15.13160772640856]]]},"properties":{"region_id":"village_602509","name":"MUKKALL","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

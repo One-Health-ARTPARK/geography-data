@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32667808047219,12.70396596368557],[77.33472603531791,12.71527636428338],[77.31605332727547,12.71227613191285],[77.32667808047219,12.70396596368557]]]},"properties":{"region_id":"village_626153","name":"THAMMANAYAKANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

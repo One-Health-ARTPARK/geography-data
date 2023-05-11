@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2780064540375,16.33833935173742],[77.24346874587984,16.33717224094394],[77.24329923034702,16.32807522896931],[77.27259894560734,16.31809826744381],[77.2780064540375,16.33833935173742]]]},"properties":{"region_id":"village_600804","name":"MALLAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1651398332124,14.15379503359971],[76.1582895732399,14.16443332424794],[76.13685377783492,14.15240848278461],[76.15294747230575,14.13995710924725],[76.1651398332124,14.15379503359971]]]},"properties":{"region_id":"village_605645","name":"GUNJIGANUR","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7300919648675,13.60881979543533],[77.72245235834718,13.60979397969527],[77.72228971958553,13.58661413518186],[77.73626468970251,13.59242169096953],[77.7300919648675,13.60881979543533]]]},"properties":{"region_id":"village_623470","name":"MANDIKAL","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

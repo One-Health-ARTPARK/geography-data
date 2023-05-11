@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09932873224707,12.46308276310538],[77.10156396991619,12.48344667971761],[77.09138908325463,12.48783422374235],[77.08550714040801,12.46244778406014],[77.09932873224707,12.46308276310538]]]},"properties":{"region_id":"village_614647","name":"THORE BOMMANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

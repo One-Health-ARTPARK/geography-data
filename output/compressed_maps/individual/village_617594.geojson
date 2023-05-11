@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13105122011221,12.77683260069846],[75.11612600773523,12.74185664401671],[75.16268245142041,12.73644546553765],[75.13992499591264,12.75674095291532],[75.13105122011221,12.77683260069846]]]},"properties":{"region_id":"village_617594","name":"VITTALMUDNOOR","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5305011006687,16.02306911755006],[76.53663126725081,16.05627947645642],[76.52191924410565,16.04428040645517],[76.5305011006687,16.02306911755006]]]},"properties":{"region_id":"village_600495","name":"KUNIKELLUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

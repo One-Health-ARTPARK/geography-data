@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54575300024906,12.96139600038473],[77.54842600009631,12.95659799974075],[77.55710799965763,12.96051500019875],[77.55164499987056,12.96443600014923],[77.54575300024906,12.96139600038473]]]},"properties":{"region_id":"ward_bbmp136","name":"WARD NO.136 (JAGAJIVANARAM NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

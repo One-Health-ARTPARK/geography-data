@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00196106936792,12.79932550370415],[75.01644722870525,12.82527010052258],[75.01195264806593,12.8406722231211],[74.97643538848249,12.80889762226308],[75.00196106936792,12.79932550370415]]]},"properties":{"region_id":"village_617566","name":"IRA","parent":"subdistrict_7197","parent_name":"ULLALA"}}
+]}

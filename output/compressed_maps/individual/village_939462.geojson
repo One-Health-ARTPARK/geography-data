@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61862980258364,12.9528658218359],[77.61714154394885,12.96168441409918],[77.61242581004555,12.96100332292016],[77.61120596735124,12.94946637774813],[77.61862980258364,12.9528658218359]]]},"properties":{"region_id":"village_939462","name":"NEELASANDRA S.I","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

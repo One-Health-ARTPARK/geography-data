@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9233353099473,12.62633678569256],[75.91603767033872,12.63111476599006],[75.91186613273467,12.62812402028763],[75.9157817807356,12.62088476274812],[75.9233353099473,12.62633678569256]]]},"properties":{"region_id":"village_923927","name":"CHIKKAKANAGAL","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

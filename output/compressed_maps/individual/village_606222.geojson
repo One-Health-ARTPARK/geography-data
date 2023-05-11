@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71087332940232,14.38191165132835],[75.69757658895149,14.39642253125468],[75.69271855666297,14.37078869338511],[75.70491731465633,14.3653540467153],[75.71087332940232,14.38191165132835]]]},"properties":{"region_id":"village_606222","name":"HALLIHALU","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

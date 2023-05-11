@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41845719754488,15.03818018537781],[75.40153625072998,15.0601445356357],[75.36215947955131,15.04605397790746],[75.3746002429328,15.03153665480719],[75.41845719754488,15.03818018537781]]]},"properties":{"region_id":"village_604004","name":"YELAVIGI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12304780119406,13.19307907595651],[77.10733534619048,13.19629876431062],[77.10805246669838,13.18070421477874],[77.1223788596935,13.18140971039438],[77.12304780119406,13.19307907595651]]]},"properties":{"region_id":"village_611526","name":"BEGUR","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

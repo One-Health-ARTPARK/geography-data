@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88843226043593,12.94468677191916],[77.8739742444089,12.94612666666238],[77.87174907085236,12.93995331749752],[77.88901675280016,12.93899535978164],[77.88843226043593,12.94468677191916]]]},"properties":{"region_id":"village_622241","name":"PURA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

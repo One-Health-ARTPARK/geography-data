@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33482677319785,13.70424124278177],[77.32227504595285,13.70395822851828],[77.31921501068801,13.69270102817402],[77.32947660127212,13.69708302316646],[77.33482677319785,13.70424124278177]]]},"properties":{"region_id":"village_610953","name":"IMMADAGONDANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

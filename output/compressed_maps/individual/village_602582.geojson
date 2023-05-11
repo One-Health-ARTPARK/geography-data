@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.15062605471464,14.87931198999132],[74.14107344733678,14.88424988226948],[74.13036614396002,14.87483793726549],[74.15097572289908,14.86839156720336],[74.15062605471464,14.87931198999132]]]},"properties":{"region_id":"village_602582","name":"KOLAGE","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

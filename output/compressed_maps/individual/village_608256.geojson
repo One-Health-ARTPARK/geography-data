@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37594663733294,13.64431277985169],[75.35208972671101,13.64475903171347],[75.36254527426847,13.63141358034044],[75.37594663733294,13.64431277985169]]]},"properties":{"region_id":"village_608256","name":"SHEDGAR","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47727685279742,13.28939580390913],[76.46769029818878,13.28286855050041],[76.46801643714328,13.2717990564465],[76.47474422696949,13.26764376594654],[76.47727685279742,13.28939580390913]]]},"properties":{"region_id":"village_612073","name":"ANNAPURA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

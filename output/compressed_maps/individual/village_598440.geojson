@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4011093156672,16.52780947646714],[75.37821427673234,16.52704162230567],[75.37487504715017,16.50247456253988],[75.39416919904707,16.49684185162879],[75.4011093156672,16.52780947646714]]]},"properties":{"region_id":"village_598440","name":"JAKANUR","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

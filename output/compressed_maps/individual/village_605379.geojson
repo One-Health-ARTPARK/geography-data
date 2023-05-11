@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85482931513098,14.31996753028314],[76.86707689956626,14.34058770413575],[76.83570618307272,14.36509707177464],[76.82439472375003,14.32522841758382],[76.85482931513098,14.31996753028314]]]},"properties":{"region_id":"village_605379","name":"HARAVIGONDANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

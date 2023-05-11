@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48954557342874,11.92440102189604],[76.48149104901879,11.93842308265474],[76.4722392205829,11.9247150950982],[76.48954557342874,11.92440102189604]]]},"properties":{"region_id":"village_619004","name":"CHILLAHALLI","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

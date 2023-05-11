@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68633909041706,14.94169110454578],[75.70122874188657,14.94693817969335],[75.68876520076563,14.97515638753197],[75.68060681363339,14.96665662843078],[75.68633909041706,14.94169110454578]]]},"properties":{"region_id":"village_604251","name":"TAREDAHALLI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

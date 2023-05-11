@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90791954581628,13.04210696799702],[76.90665495194906,13.04845183319016],[76.90234616986861,13.05015375862287],[76.90255064937737,13.03894026141573],[76.90791954581628,13.04210696799702]]]},"properties":{"region_id":"village_612444","name":"ALALAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

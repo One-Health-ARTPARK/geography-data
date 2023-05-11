@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42236932167204,15.49228204376895],[76.40555017387796,15.50477070341069],[76.39771143897211,15.48281740705409],[76.42048547793875,15.48113113978563],[76.42236932167204,15.49228204376895]]]},"properties":{"region_id":"village_601597","name":"VITHLAPUR","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

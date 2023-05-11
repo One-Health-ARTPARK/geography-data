@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73599264433868,13.2282237664584],[76.72296602478377,13.23182902780928],[76.72173992770001,13.22680799546076],[76.7330555160756,13.22329880861418],[76.73599264433868,13.2282237664584]]]},"properties":{"region_id":"village_612290","name":"JAKKANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

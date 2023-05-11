@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41999957227966,12.88276328332149],[75.40228851583356,12.83150472213763],[75.4289334195049,12.81471165658962],[75.44764498686187,12.84428636467437],[75.41999957227966,12.88276328332149]]]},"properties":{"region_id":"village_617700","name":"KOWKRADI","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

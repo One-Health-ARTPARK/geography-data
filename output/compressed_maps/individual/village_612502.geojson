@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03747355000961,13.09969193096502],[77.0208291915028,13.11417318542669],[77.01468320654001,13.09583394765774],[77.03747355000961,13.09969193096502]]]},"properties":{"region_id":"village_612502","name":"HALUGONAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

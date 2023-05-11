@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9736145858464,13.05302243245355],[77.97687957027887,13.06298844702073],[77.95679039112238,13.05850034037868],[77.96945740204893,13.04433526831572],[77.9736145858464,13.05302243245355]]]},"properties":{"region_id":"village_622119","name":"KANIVENAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

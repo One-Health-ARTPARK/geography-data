@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20597238473857,16.39837760596295],[77.20686780021144,16.42634702889998],[77.18878235179704,16.42848055185331],[77.18716605708367,16.40384040526296],[77.20597238473857,16.39837760596295]]]},"properties":{"region_id":"village_600641","name":"APPRAHAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

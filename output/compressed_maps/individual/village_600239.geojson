@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5396268122692,17.7783061103449],[77.52178802489317,17.77926352864957],[77.52785336322471,17.76165274205703],[77.5396268122692,17.7783061103449]]]},"properties":{"region_id":"village_600239","name":"GOUSPUR","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

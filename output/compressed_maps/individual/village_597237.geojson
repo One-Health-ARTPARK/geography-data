@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69669906777557,16.35631422288102],[74.6738145754029,16.34225373259003],[74.68850608007476,16.33410166419161],[74.69669906777557,16.35631422288102]]]},"properties":{"region_id":"village_597237","name":"BELAGALI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

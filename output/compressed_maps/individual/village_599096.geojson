@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89205544751894,16.7679006184135],[75.90734916028784,16.84857068794257],[75.88034494437387,16.84604850129009],[75.86772010331703,16.7727212383958],[75.89205544751894,16.7679006184135]]]},"properties":{"region_id":"village_599096","name":"KUMATAGI","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

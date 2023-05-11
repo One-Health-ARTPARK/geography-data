@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39413643489273,13.06927476806262],[77.40822987591882,13.07867815200376],[77.39276766642756,13.08295261700733],[77.39413643489273,13.06927476806262]]]},"properties":{"region_id":"village_624884","name":"MALLAPURA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

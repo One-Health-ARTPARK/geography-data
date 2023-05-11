@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93595180621139,13.0088187504],[76.92609968689325,13.00727520005995],[76.92626381110935,12.98456045563854],[76.93516643183287,12.99143214284679],[76.93595180621139,13.0088187504]]]},"properties":{"region_id":"village_612475","name":"AVARAGERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

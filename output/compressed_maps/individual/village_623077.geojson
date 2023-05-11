@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.49997480250569,13.24921775499645],[78.50520307362166,13.24742273153189],[78.50512249388922,13.24865233909297],[78.50212616398383,13.25037533526553],[78.49997480250569,13.24921775499645]]]},"properties":{"region_id":"village_623077","name":"CHEEKUR","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

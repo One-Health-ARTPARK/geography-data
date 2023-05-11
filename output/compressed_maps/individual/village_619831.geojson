@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18588114187786,12.14624246443169],[77.17157473976346,12.14034736131437],[77.1817611240848,12.11532422021019],[77.19690514262813,12.13922881854428],[77.18588114187786,12.14624246443169]]]},"properties":{"region_id":"village_619831","name":"LAKSHMIPURA","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

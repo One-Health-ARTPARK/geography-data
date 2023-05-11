@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.807706330229,13.35687365741656],[76.7742458082023,13.35671252910537],[76.77607795812771,13.34555664551669],[76.807706330229,13.35687365741656]]]},"properties":{"region_id":"village_611763","name":"HANDANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

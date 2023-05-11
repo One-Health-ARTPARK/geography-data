@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61596288619769,13.98431536770821],[74.61072997984296,14.00513889893542],[74.59794565515318,13.99822189721347],[74.61596288619769,13.98431536770821]]]},"properties":{"region_id":"village_603859","name":"KONAR","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

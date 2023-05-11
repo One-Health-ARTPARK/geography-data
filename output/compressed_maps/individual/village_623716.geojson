@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67724646529952,13.65956585123248],[77.65362079139946,13.65848036301601],[77.66560871487842,13.63759641627938],[77.67724646529952,13.65956585123248]]]},"properties":{"region_id":"village_623716","name":"IDDRAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

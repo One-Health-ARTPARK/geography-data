@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20094136093167,17.25443814623593],[77.17491357114402,17.23759069468487],[77.19043542377712,17.21873214771256],[77.20094136093167,17.25443814623593]]]},"properties":{"region_id":"village_620473","name":"TOTTANHALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36114824121815,14.4576104568405],[75.34265133561556,14.45045638116883],[75.35260044464114,14.43214742467599],[75.36651055998357,14.44258007544757],[75.36114824121815,14.4576104568405]]]},"properties":{"region_id":"village_604417","name":"HOLABIKONDA","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

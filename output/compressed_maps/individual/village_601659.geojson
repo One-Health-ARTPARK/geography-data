@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5048373219647,15.6928516159986],[76.52064850541728,15.68465345384037],[76.52764845983502,15.70673327913427],[76.51723472196909,15.71341349829768],[76.5048373219647,15.6928516159986]]]},"properties":{"region_id":"village_601659","name":"EACHANHAL","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

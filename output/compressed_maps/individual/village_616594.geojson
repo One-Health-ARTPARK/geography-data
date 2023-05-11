@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08986220311408,12.79298598880172],[76.09071195146971,12.77467486128194],[76.10162815090389,12.7771834470197],[76.08986220311408,12.79298598880172]]]},"properties":{"region_id":"village_616594","name":"GARIGHATTA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26975953385846,18.3771351494702],[77.24855491223911,18.37443504967856],[77.24836258366997,18.34931853717328],[77.26457531834045,18.34622229491728],[77.26975953385846,18.3771351494702]]]},"properties":{"region_id":"village_599976","name":"GANGANBEED","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

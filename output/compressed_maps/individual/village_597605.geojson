@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68592048855433,16.18415223497751],[74.69801807657217,16.19015474447579],[74.70023817630987,16.20667162042067],[74.67762861852911,16.21463510063289],[74.68592048855433,16.18415223497751]]]},"properties":{"region_id":"village_597605","name":"AWARGOL","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64431967764412,15.34769368194367],[75.59485928249728,15.34070539124274],[75.5968923859347,15.3235674797974],[75.65197324763167,15.33107241398641],[75.64431967764412,15.34769368194367]]]},"properties":{"region_id":"village_602034","name":"BELADHADI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

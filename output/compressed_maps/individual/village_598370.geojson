@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21557596116862,15.90722279547173],[75.2049472959343,15.89676979308135],[75.21465776312967,15.87371737698721],[75.22679608742922,15.87648443717098],[75.21557596116862,15.90722279547173]]]},"properties":{"region_id":"village_598370","name":"MALLAPUR","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

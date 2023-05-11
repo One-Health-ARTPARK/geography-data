@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.34851306886776,13.09375236798091],[78.33655445785824,13.08940019629733],[78.33501683243857,13.08381562453855],[78.3522619746207,13.0872831559591],[78.34851306886776,13.09375236798091]]]},"properties":{"region_id":"village_622949","name":"CHITHERI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59096430919116,14.92828908890804],[76.5781090388602,14.92272810340926],[76.59103401245314,14.91611810994315],[76.59096430919116,14.92828908890804]]]},"properties":{"region_id":"village_604990","name":"SHRO.OBLAPUR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

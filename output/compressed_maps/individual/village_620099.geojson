@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16758557405306,17.26178829454953],[76.12826317657571,17.24397429916665],[76.15252923111403,17.22173967830492],[76.16758557405306,17.26178829454953]]]},"properties":{"region_id":"village_620099","name":"SHIVOOR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

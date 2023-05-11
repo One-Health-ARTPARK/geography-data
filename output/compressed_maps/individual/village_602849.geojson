@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8247914892048,15.34905356073083],[74.8203393848068,15.38489689834193],[74.79595923327312,15.37762588175365],[74.80513526948481,15.350981374183],[74.8247914892048,15.34905356073083]]]},"properties":{"region_id":"village_602849","name":"MAGWAD","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

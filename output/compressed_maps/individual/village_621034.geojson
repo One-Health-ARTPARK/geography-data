@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63009085931868,16.58134991275212],[76.62174238346022,16.56384808542994],[76.64835465950323,16.56393528988509],[76.64850774395241,16.58060908622709],[76.63009085931868,16.58134991275212]]]},"properties":{"region_id":"village_621034","name":"MAVINMATTI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

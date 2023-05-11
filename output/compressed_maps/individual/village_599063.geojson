@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7076449479382,16.99717793965725],[75.66872957411799,17.00992207584473],[75.6657040269349,16.97966240799911],[75.69127475403397,16.97044165354943],[75.7076449479382,16.99717793965725]]]},"properties":{"region_id":"village_599063","name":"SHIRNAL","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

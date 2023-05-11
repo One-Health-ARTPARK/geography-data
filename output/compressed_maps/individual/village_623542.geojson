@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71615006761657,13.4646150483971],[77.72529049056232,13.47016766845314],[77.71270641999364,13.47330858888222],[77.71615006761657,13.4646150483971]]]},"properties":{"region_id":"village_623542","name":"GONDIHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43731708348209,14.5911959822174],[75.4173017902775,14.59125464397439],[75.42540788984857,14.56264211746956],[75.43960973757679,14.57192022985759],[75.43731708348209,14.5911959822174]]]},"properties":{"region_id":"village_604353","name":"WADENAPUR","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14324094161553,16.44911023449412],[76.13045043728036,16.40241770367983],[76.1513247566173,16.41082366698607],[76.14324094161553,16.44911023449412]]]},"properties":{"region_id":"village_599592","name":"TARANAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

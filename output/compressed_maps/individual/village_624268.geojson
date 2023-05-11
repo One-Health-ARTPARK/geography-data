@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82899961488565,13.28952527540955],[77.82221436487598,13.29100840389538],[77.81581982213363,13.28768031324217],[77.82857298599001,13.28397300748663],[77.82899961488565,13.28952527540955]]]},"properties":{"region_id":"village_624268","name":"MITHANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

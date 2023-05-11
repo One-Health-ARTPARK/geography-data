@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23941470216221,13.51040423981285],[75.22920722560525,13.48617324764386],[75.25251525486559,13.47342957705811],[75.27104353177776,13.48883226211084],[75.23941470216221,13.51040423981285]]]},"properties":{"region_id":"village_608978","name":"BILAGADDE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47844942923999,13.55983202061419],[77.45742021729883,13.55082468418704],[77.45729295148071,13.53150504525911],[77.48135116101193,13.54353923356644],[77.47844942923999,13.55983202061419]]]},"properties":{"region_id":"village_623222","name":"SINGANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

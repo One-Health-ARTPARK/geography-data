@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37380505275804,13.42108613047001],[77.39395425347352,13.41070050521072],[77.39338083728353,13.43281909898398],[77.37380505275804,13.42108613047001]]]},"properties":{"region_id":"village_624978","name":"GUMMANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

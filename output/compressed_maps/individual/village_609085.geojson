@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50629188936098,13.58031843279441],[75.48919588770421,13.53667579165073],[75.5138550078558,13.52344059117608],[75.50629188936098,13.58031843279441]]]},"properties":{"region_id":"village_609085","name":"BALE","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

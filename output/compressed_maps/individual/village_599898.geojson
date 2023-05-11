@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36594173525337,18.04008932250895],[77.34880276518582,18.04125513311909],[77.33805721939164,18.03058132061334],[77.36421119136419,18.01926100214522],[77.36594173525337,18.04008932250895]]]},"properties":{"region_id":"village_599898","name":"JAINAPUR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

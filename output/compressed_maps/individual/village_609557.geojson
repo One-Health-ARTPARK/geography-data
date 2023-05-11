@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21419368641061,13.55542540343644],[76.20457808997087,13.55312955954996],[76.19691486161335,13.53965821308056],[76.21001586906844,13.54607635473248],[76.21419368641061,13.55542540343644]]]},"properties":{"region_id":"village_609557","name":"MUDDENAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

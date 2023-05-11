@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96997800971297,15.99848150327577],[76.94676901108583,16.00218154910355],[76.94188086600214,15.97540752825624],[76.973807195995,15.98560661994132],[76.96997800971297,15.99848150327577]]]},"properties":{"region_id":"village_601048","name":"AMARAWATI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

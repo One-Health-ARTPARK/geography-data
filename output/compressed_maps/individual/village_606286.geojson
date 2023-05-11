@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84446857911237,14.44828217194055],[75.83252889640521,14.42649339694349],[75.84669903822503,14.41610396449705],[75.86468683837401,14.43566233524337],[75.84446857911237,14.44828217194055]]]},"properties":{"region_id":"village_606286","name":"SALAKATTE","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69083260091939,12.9250411362474],[76.67281590807534,12.9169424095134],[76.67766216638596,12.89826700057621],[76.69300423382202,12.91092015799138],[76.69083260091939,12.9250411362474]]]},"properties":{"region_id":"village_613779","name":"BETTADAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

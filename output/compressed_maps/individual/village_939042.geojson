@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87128910228289,12.73158899562525],[75.86944496103065,12.72591059620857],[75.87541809896867,12.72667723348935],[75.87128910228289,12.73158899562525]]]},"properties":{"region_id":"village_939042","name":"JABEKODI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

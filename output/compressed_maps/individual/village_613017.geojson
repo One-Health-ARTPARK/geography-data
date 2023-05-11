@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45148128926327,12.91731960956918],[77.42922443417373,12.90665663336053],[77.44515852181136,12.89493527407352],[77.45148128926327,12.91731960956918]]]},"properties":{"region_id":"village_613017","name":"BHEEMANAKUPPE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

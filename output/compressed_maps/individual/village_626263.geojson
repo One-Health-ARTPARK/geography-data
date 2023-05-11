@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21577262477554,12.57699458285512],[77.21747757456104,12.59919884235918],[77.20475070409427,12.59961698245178],[77.20446322535555,12.5783631935153],[77.21577262477554,12.57699458285512]]]},"properties":{"region_id":"village_626263","name":"SANTHEMOGENAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

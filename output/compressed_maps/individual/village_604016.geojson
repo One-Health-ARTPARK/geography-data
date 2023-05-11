@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48379494976278,15.00251464256226],[75.44182115927975,14.9942559925303],[75.44385718229235,14.96901048402665],[75.48047261284847,14.96664497085529],[75.48379494976278,15.00251464256226]]]},"properties":{"region_id":"village_604016","name":"KADAKOLA","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

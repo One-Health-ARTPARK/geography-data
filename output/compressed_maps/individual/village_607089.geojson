@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00172726554918,13.99929427177101],[76.0020774259223,14.01283712490575],[75.98249135537442,14.00940362125455],[75.98311690474583,13.99792431263995],[76.00172726554918,13.99929427177101]]]},"properties":{"region_id":"village_607089","name":"BENAKANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

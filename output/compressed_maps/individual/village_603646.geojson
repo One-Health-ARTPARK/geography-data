@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80105133418644,14.37697654290158],[74.8085341895475,14.389456167209],[74.79460288411467,14.3930414744717],[74.77587701589,14.38826464580146],[74.77953783646761,14.37449143773034],[74.80105133418644,14.37697654290158]]]},"properties":{"region_id":"village_603646","name":"TARAKHANDA","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

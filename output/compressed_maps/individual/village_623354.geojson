@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.502911037364,13.51190508509486],[77.49249179279498,13.53836529072679],[77.4804350150345,13.52741827366912],[77.48562655824502,13.50495246809148],[77.502911037364,13.51190508509486]]]},"properties":{"region_id":"village_623354","name":"MALLASANDRA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

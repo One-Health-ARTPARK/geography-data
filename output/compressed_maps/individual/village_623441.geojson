@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73805853533175,13.65191312825437],[77.71775464648269,13.65865750728927],[77.71467475376997,13.64796788100643],[77.73805853533175,13.65191312825437]]]},"properties":{"region_id":"village_623441","name":"BOMMAGANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

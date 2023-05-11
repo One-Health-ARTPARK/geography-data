@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9417920654471,13.25794453674862],[77.93921986593621,13.27551816649508],[77.92294185026928,13.2753160604408],[77.92437876055247,13.26273389903731],[77.9417920654471,13.25794453674862]]]},"properties":{"region_id":"village_624304","name":"AMARAVATHI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

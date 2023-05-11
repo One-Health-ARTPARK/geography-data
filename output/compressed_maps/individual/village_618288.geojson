@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14436710378216,12.27471246576883],[76.14377954458818,12.28818151730279],[76.12535857736549,12.2873008074592],[76.13392992234492,12.26419359183847],[76.14436710378216,12.27471246576883]]]},"properties":{"region_id":"village_618288","name":"PANCHAVALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

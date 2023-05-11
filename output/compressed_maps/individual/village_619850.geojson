@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24006958979503,12.13224398031331],[77.26318664597365,12.12848972182646],[77.2561673331171,12.15521170998116],[77.23253926049985,12.14688757215652],[77.24006958979503,12.13224398031331]]]},"properties":{"region_id":"village_619850","name":"BOODABALU","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

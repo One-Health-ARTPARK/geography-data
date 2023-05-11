@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67955127356751,12.94371745717223],[76.67131060916985,12.9410869912134],[76.67586381418991,12.92656633077538],[76.68059510864413,12.92685851721523],[76.67955127356751,12.94371745717223]]]},"properties":{"region_id":"village_613780","name":"GONDENAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

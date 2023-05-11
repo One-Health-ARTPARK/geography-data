@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27965535727091,12.61704546082555],[76.2653648306819,12.61336499124375],[76.26694468513514,12.58861277127418],[76.28252314436857,12.59442583898945],[76.27965535727091,12.61704546082555]]]},"properties":{"region_id":"village_618598","name":"THANDRE","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

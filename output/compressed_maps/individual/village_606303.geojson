@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96792078412072,14.84762346755728],[75.94204324793147,14.85032537677479],[75.94164717285601,14.81680756812479],[75.98753656511767,14.81500122743081],[75.96792078412072,14.84762346755728]]]},"properties":{"region_id":"village_606303","name":"MADAPURA","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

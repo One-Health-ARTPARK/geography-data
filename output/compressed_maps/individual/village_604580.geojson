@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62759659793926,14.41715784164992],[75.6155213558478,14.41938674247781],[75.61021982650621,14.40287008111915],[75.62746877237701,14.40441326001246],[75.62759659793926,14.41715784164992]]]},"properties":{"region_id":"village_604580","name":"TUMMINAKATTI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

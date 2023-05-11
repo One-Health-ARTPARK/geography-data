@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62457480725132,17.94607348302932],[77.62418819169433,17.95951550124174],[77.61150219819984,17.9650678561219],[77.60755489447236,17.94047929140385],[77.62457480725132,17.94607348302932]]]},"properties":{"region_id":"village_600165","name":"KAPLAPUR (J)","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

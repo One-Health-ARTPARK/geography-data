@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96657962796813,13.9317004341387],[76.94934745275863,13.93332552591066],[76.95021975236538,13.91926635986666],[76.96575853393027,13.91701990232761],[76.96657962796813,13.9317004341387]]]},"properties":{"region_id":"village_610291","name":"GOPIKUNTE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

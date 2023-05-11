@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20417190724488,12.57159313372719],[76.18632467436174,12.57662296866932],[76.19055697719723,12.55745255719764],[76.20417190724488,12.57159313372719]]]},"properties":{"region_id":"village_618519","name":"HEBSUR","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

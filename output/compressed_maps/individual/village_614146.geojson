@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6068833838231,12.46931744022355],[76.58870493280521,12.47254348908385],[76.5916876114465,12.45445176442036],[76.6049476745727,12.45434490524],[76.6068833838231,12.46931744022355]]]},"properties":{"region_id":"village_614146","name":"HAGANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

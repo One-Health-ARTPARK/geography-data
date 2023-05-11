@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21230170991,13.21031401697827],[77.19462271251976,13.20993144016531],[77.20246306024173,13.19447458278605],[77.21230170991,13.21031401697827]]]},"properties":{"region_id":"village_624752","name":"SRIPATHIHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

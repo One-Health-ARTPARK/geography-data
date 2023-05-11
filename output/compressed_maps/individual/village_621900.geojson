@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.09183410353442,13.25819517647503],[78.07593906467439,13.26052263178886],[78.08423395904067,13.24316046512987],[78.09183410353442,13.25819517647503]]]},"properties":{"region_id":"village_621900","name":"HALERI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

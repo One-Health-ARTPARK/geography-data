@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69699101852719,16.24039711425378],[76.68954732032897,16.23051290087029],[76.68599727461198,16.21100634549958],[76.69518104048475,16.2110326307572],[76.70069239354828,16.23683813636447],[76.69699101852719,16.24039711425378]]]},"properties":{"region_id":"village_600476","name":"KADDONA","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63003087419,12.47628660188924],[76.61044116670695,12.48635605981581],[76.60609230431488,12.472718426208],[76.63003087419,12.47628660188924]]]},"properties":{"region_id":"village_614202","name":"SHYADANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68284992997366,14.942082253367],[75.67999036147708,14.97840870889378],[75.65790062781376,14.9684617288783],[75.66767187355298,14.9477910440571],[75.68284992997366,14.942082253367]]]},"properties":{"region_id":"village_604250","name":"MEUNDI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

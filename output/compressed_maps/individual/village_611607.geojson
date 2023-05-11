@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19408863903335,13.2093742107262],[77.17967286178309,13.21472200206407],[77.17607599983299,13.20718027247851],[77.19408863903335,13.2093742107262]]]},"properties":{"region_id":"village_611607","name":"THAMMADIHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

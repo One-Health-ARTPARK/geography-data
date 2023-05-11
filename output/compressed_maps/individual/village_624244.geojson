@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87850138925295,13.34389876521459],[77.85509426973923,13.34804169622272],[77.85459075056461,13.32568281230633],[77.87019362913422,13.32973918763447],[77.87850138925295,13.34389876521459]]]},"properties":{"region_id":"village_624244","name":"MALAMACHANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

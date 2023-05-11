@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26300629500405,15.16971853982688],[75.282039050397,15.18185491085415],[75.26110460526607,15.18905999972387],[75.26300629500405,15.16971853982688]]]},"properties":{"region_id":"village_602530","name":"CHIKKAHARAKUNI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

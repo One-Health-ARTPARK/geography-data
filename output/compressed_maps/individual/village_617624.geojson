@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2349462762613,13.13962587705002],[75.22011566806046,13.14944954982792],[75.21011889997352,13.10007973590577],[75.22569562666042,13.07630590711554],[75.2349462762613,13.13962587705002]]]},"properties":{"region_id":"village_617624","name":"SULKERIMOGRU","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

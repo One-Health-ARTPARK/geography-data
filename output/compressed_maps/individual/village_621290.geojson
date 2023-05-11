@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04731195017929,16.82733633661903],[77.00204984850065,16.81803815445176],[77.0249447265954,16.79283486053933],[77.04731195017929,16.82733633661903]]]},"properties":{"region_id":"village_621290","name":"HEDGIMADRA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

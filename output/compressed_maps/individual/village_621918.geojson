@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.11622938084987,13.2088411832841],[78.10793765700058,13.21137646911449],[78.10442638921448,13.20682624681657],[78.11049442591334,13.20208552793084],[78.11622938084987,13.2088411832841]]]},"properties":{"region_id":"village_621918","name":"BOMMASANDRA","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

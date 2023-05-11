@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73483912224107,13.38652016568994],[74.72060299635856,13.38662609624536],[74.71194159905176,13.37749024463467],[74.72970445771344,13.37591554577082],[74.73483912224107,13.38652016568994]]]},"properties":{"region_id":"village_608859","name":"KELARKALABETTU (OG)","parent":"subdistrict_5523","parent_name":"UDUPI"}}
+]}

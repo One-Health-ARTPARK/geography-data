@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5359474454765,15.98251586744113],[76.52351315590482,15.96524409990601],[76.54989255576422,15.95949253285235],[76.5514335173346,15.97926222758411],[76.5359474454765,15.98251586744113]]]},"properties":{"region_id":"village_600513","name":"TIRTHABHAVI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

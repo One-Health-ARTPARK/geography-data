@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12028085405566,16.95345577174026],[77.12273646955408,16.96479199065129],[77.09654096554233,16.97413707612622],[77.10182371726488,16.94842168809664],[77.12028085405566,16.95345577174026]]]},"properties":{"region_id":"village_620692","name":"DANDGUND","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

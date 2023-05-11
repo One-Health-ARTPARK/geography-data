@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37709656900942,13.03000726701075],[77.39051493103388,13.02755630528867],[77.3938293482124,13.05322548770105],[77.37254641681831,13.04111832461887],[77.37709656900942,13.03000726701075]]]},"properties":{"region_id":"village_624948","name":"MANTANAKURCHI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

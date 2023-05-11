@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79352908706763,13.1949394368838],[74.77092297894687,13.21147351405821],[74.7571434326534,13.20332186459259],[74.76818778367473,13.18841528390766],[74.79352908706763,13.1949394368838]]]},"properties":{"region_id":"village_608834","name":"BELPU","parent":"subdistrict_7067","parent_name":"KAPU"}}
+]}

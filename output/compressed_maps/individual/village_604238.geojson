@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4580024640184,14.78790936685702],[75.45369509662929,14.8199560915672],[75.44126865098939,14.82584942618324],[75.44498349983454,14.79565940058055],[75.4580024640184,14.78790936685702]]]},"properties":{"region_id":"village_604238","name":"MALAPUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

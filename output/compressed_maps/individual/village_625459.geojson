@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74715930708226,13.1534790787371],[77.73929138673218,13.14997377885512],[77.73004197082504,13.15545396174587],[77.72841222705699,13.14574760434831],[77.74219494297662,13.1448789570555],[77.74715930708226,13.1534790787371]]]},"properties":{"region_id":"village_625459","name":"KOTNATHEVARU","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

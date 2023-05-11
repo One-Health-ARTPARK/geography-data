@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17581923882328,12.61971137559459],[76.16865811766743,12.6298331631264],[76.15874124615331,12.62515522469758],[76.16068205923504,12.61566513869347],[76.17581923882328,12.61971137559459]]]},"properties":{"region_id":"village_616772","name":"JITTENAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

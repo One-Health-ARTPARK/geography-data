@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63147126278591,16.24787149537108],[75.63175407736018,16.27392579767312],[75.6089602444941,16.27280480086993],[75.60558189598027,16.22914787162587],[75.63147126278591,16.24787149537108]]]},"properties":{"region_id":"village_598541","name":"ANAGAWADI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

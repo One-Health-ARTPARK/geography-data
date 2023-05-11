@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19894719340829,12.97364937622597],[76.20754514321284,12.97966075071332],[76.20751311359132,12.98986852878246],[76.19369544549943,12.98291707353083],[76.19894719340829,12.97364937622597]]]},"properties":{"region_id":"village_616193","name":"RANGANATHAPURA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

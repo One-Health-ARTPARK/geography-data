@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54528751510254,13.10181526786374],[75.54020914585611,13.124700709642],[75.53194412721857,13.1205933785298],[75.52803933065358,13.09425829157111],[75.54528751510254,13.10181526786374]]]},"properties":{"region_id":"village_609935","name":"BINNADI","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

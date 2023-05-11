@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49433902749827,13.00841703929782],[76.50839921621377,13.01285408900588],[76.5035607153571,13.02344310543543],[76.49395367841704,13.0197473306414],[76.49433902749827,13.00841703929782]]]},"properties":{"region_id":"village_617288","name":"BASAVANAPURA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

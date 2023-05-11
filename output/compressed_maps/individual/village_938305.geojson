@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41529980616627,15.2783700987535],[76.42423687054031,15.2761669382643],[76.42322365513722,15.29388477529421],[76.41418769344409,15.28768612964888],[76.41529980616627,15.2783700987535]]]},"properties":{"region_id":"village_938305","name":"KONDANAYAKANAHALLI","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

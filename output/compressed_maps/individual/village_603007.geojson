@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00876467276905,15.07039790693918],[74.99175397399107,15.07360699251866],[74.99397068206727,15.05398419370275],[75.00558907576882,15.05479576437424],[75.00876467276905,15.07039790693918]]]},"properties":{"region_id":"village_603007","name":"AGADI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

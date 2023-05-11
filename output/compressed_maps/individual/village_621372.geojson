@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31143962922626,16.55259785020664],[77.29362105052368,16.54653524669952],[77.30561000596397,16.53555523032194],[77.31143962922626,16.55259785020664]]]},"properties":{"region_id":"village_621372","name":"DADAL","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

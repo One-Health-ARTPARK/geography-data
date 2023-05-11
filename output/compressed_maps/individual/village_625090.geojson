@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58591504547893,13.31921690784851],[77.5883849308118,13.29332345634228],[77.61125020345575,13.2997551768279],[77.6047509355586,13.31585535743559],[77.58591504547893,13.31921690784851]]]},"properties":{"region_id":"village_625090","name":"KONAGHATTA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

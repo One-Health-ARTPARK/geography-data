@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31957552498933,13.7671607673922],[76.29813289776502,13.76713976873235],[76.30534060415927,13.74452461524034],[76.32260390165192,13.75586761123071],[76.31957552498933,13.7671607673922]]]},"properties":{"region_id":"village_605904","name":"KELLODU","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

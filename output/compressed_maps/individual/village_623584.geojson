@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81222782872453,13.47044671204045],[77.8066573414678,13.46203002459373],[77.81578154533747,13.45324934234132],[77.8197669452173,13.4642576080322],[77.81222782872453,13.47044671204045]]]},"properties":{"region_id":"village_623584","name":"CHEEMANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

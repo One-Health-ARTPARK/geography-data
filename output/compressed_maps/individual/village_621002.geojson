@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66603437828508,16.46746618260914],[76.66399899672719,16.43284311997866],[76.67382116704292,16.4336998079821],[76.67467719932,16.45951163333278],[76.66603437828508,16.46746618260914]]]},"properties":{"region_id":"village_621002","name":"KONAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

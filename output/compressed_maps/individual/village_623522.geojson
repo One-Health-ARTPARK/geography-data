@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74580281728161,13.516844085551],[77.73851281496724,13.51400652017244],[77.74421823522957,13.50423193390382],[77.74848634851672,13.51333197131425],[77.74580281728161,13.516844085551]]]},"properties":{"region_id":"village_623522","name":"MOGALAKUPPE","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

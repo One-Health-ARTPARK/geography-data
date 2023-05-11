@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71836693929394,14.51941903339566],[75.69591421020849,14.49754395139604],[75.71940420488748,14.485019647118],[75.71836693929394,14.51941903339566]]]},"properties":{"region_id":"village_604567","name":"MUDENUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

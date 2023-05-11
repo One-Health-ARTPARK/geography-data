@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3602148250981,12.49270535792196],[77.34689757334627,12.49426768569433],[77.34757149069867,12.48235651116742],[77.35978135722115,12.48374724089383],[77.3602148250981,12.49270535792196]]]},"properties":{"region_id":"village_626512","name":"BOMMANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

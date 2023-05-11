@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27372089583751,14.40889912761578],[76.26616513864151,14.42330178319371],[76.25138228782443,14.41149077681062],[76.26562987500394,14.39386651720153],[76.27372089583751,14.40889912761578]]]},"properties":{"region_id":"village_605429","name":"NALLIKATTE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

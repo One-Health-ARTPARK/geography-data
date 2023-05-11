@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73693950336936,12.40434806273817],[75.72629416427786,12.38816103177449],[75.73442142847219,12.37604866117655],[75.75400107886593,12.39468997397334],[75.73693950336936,12.40434806273817]]]},"properties":{"region_id":"village_617815","name":"MEKERI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

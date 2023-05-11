@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3943778032166,16.49696647167275],[75.37678577260856,16.46838661153999],[75.41287552179831,16.46679794780906],[75.3943778032166,16.49696647167275]]]},"properties":{"region_id":"village_598442","name":"LINGANUR","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

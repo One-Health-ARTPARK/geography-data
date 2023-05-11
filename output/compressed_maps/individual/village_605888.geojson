@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35434505477323,13.7677534383186],[76.33819465171928,13.77699698608136],[76.34050471157259,13.75874320826958],[76.35434505477323,13.7677534383186]]]},"properties":{"region_id":"village_605888","name":"LINGADHAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

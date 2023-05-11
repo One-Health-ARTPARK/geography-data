@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83703034467017,14.40252372119295],[74.81837127247081,14.40345646404053],[74.80622810709214,14.38305769060243],[74.83738433890692,14.39009012511186],[74.83703034467017,14.40252372119295]]]},"properties":{"region_id":"village_603684","name":"KAVALKOPPA","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

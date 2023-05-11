@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6806638772017,14.66840855083537],[76.62932601623282,14.65837873051222],[76.63684989280041,14.62668143159828],[76.68761809271044,14.64888606959524],[76.6806638772017,14.66840855083537]]]},"properties":{"region_id":"village_605219","name":"KAMARA KAVAL","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40685653091901,16.95870680014773],[77.37658956682525,16.96927574110099],[77.36733639352249,16.94815945160992],[77.40637411669388,16.93829457083176],[77.40685653091901,16.95870680014773]]]},"properties":{"region_id":"village_620577","name":"MOTAKPALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

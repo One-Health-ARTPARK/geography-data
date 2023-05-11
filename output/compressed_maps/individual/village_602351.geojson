@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54176901438545,15.60165750934265],[75.55428627187194,15.64691532782077],[75.5023023055617,15.6474680578867],[75.50933334301979,15.62540371172349],[75.52693308996848,15.62150235235196],[75.54176901438545,15.60165750934265]]]},"properties":{"region_id":"village_602351","name":"DATANAL","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

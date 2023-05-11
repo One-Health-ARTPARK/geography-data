@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.738614846893,13.15910891043666],[77.74777668947614,13.17232755487602],[77.73816865071025,13.1764112724302],[77.7290840022308,13.16184757358333],[77.738614846893,13.15910891043666]]]},"properties":{"region_id":"village_625456","name":"BHATRAMARENAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

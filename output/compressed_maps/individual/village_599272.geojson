@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06647822140143,17.10449828407394],[76.09687966576413,17.10410934582021],[76.10400514791039,17.13611505719483],[76.07318306923602,17.13222263487666],[76.06647822140143,17.10449828407394]]]},"properties":{"region_id":"village_599272","name":"NAAD[B.K.]","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

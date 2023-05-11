@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81606266332223,14.43211314444753],[75.79923398790689,14.43267083378399],[75.80116304719084,14.41882669272706],[75.81606266332223,14.43211314444753]]]},"properties":{"region_id":"village_606283","name":"SALAGANAHALLI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

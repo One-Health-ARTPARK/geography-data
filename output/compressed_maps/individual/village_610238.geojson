@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59033744302292,13.35903921144399],[76.57459803675877,13.37024895478219],[76.57189350200044,13.35835585791605],[76.59033744302292,13.35903921144399]]]},"properties":{"region_id":"village_610238","name":"AJJENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

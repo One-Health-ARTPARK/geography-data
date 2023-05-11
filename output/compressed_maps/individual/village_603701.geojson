@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84812837569692,14.36502554184438],[74.82825548599075,14.34895505311579],[74.84879720850886,14.33896489884597],[74.84812837569692,14.36502554184438]]]},"properties":{"region_id":"village_603701","name":"BHANKULI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

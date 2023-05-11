@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79378934120594,13.34071272278429],[77.77579628686796,13.33518126007259],[77.79778834854658,13.31876624508986],[77.79378934120594,13.34071272278429]]]},"properties":{"region_id":"village_625325","name":"RANGANATHAPURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

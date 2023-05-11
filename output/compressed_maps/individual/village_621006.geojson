@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71222553585699,16.45537886378851],[76.7239848474255,16.45098202764983],[76.7201691822311,16.46937860923117],[76.71059772112537,16.48246908880012],[76.71222553585699,16.45537886378851]]]},"properties":{"region_id":"village_621006","name":"RAJAPUR (D)","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

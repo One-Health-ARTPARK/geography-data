@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83606938930119,12.57705628370309],[75.82734219048487,12.58050849300507],[75.81068909827427,12.56824593299999],[75.82505001509779,12.55454518902435],[75.84388167099354,12.54954682396006],[75.83606938930119,12.57705628370309]]]},"properties":{"region_id":"village_617931","name":"KIRAGANDUR","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

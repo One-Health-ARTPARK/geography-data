@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24540222737784,13.0095203743605],[76.23408697689283,12.99571457544544],[76.24244734614427,12.97722399743795],[76.25416644503434,12.9851040522867],[76.24540222737784,13.0095203743605]]]},"properties":{"region_id":"village_616212","name":"MADENUR","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

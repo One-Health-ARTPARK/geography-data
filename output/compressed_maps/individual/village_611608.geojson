@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19505035997663,13.20679524970003],[77.18710780464173,13.19825313536479],[77.1984723637585,13.19499383832206],[77.19505035997663,13.20679524970003]]]},"properties":{"region_id":"village_611608","name":"CHIKKAKORATAGERE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

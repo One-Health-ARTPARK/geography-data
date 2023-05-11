@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66207315073017,15.28924147668422],[75.65788730633841,15.3060083563306],[75.62179161151363,15.30175527684834],[75.62314630684676,15.28148237826943],[75.66207315073017,15.28924147668422]]]},"properties":{"region_id":"village_602044","name":"KABALAYATA KATTI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

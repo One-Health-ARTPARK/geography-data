@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96645229017753,12.89999581976676],[77.95643820803633,12.88368447305079],[77.96814565462898,12.88581796665807],[77.96645229017753,12.89999581976676]]]},"properties":{"region_id":"village_622283","name":"BALIGANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

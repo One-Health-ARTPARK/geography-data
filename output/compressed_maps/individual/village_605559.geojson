@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31342390884461,14.19698764295179],[76.28036016964761,14.18640935947712],[76.32096949508632,14.15981353518598],[76.32665192380853,14.18976031116563],[76.31342390884461,14.19698764295179]]]},"properties":{"region_id":"village_605559","name":"HULLUR","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

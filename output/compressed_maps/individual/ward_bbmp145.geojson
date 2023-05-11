@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58527500019602,12.95401500038384],[77.59157499958208,12.95116800003704],[77.59728300038132,12.94318799959429],[77.6004389996101,12.94968400034221],[77.58689599998485,12.95920600025934],[77.58527500019602,12.95401500038384]]]},"properties":{"region_id":"ward_bbmp145","name":"WARD NO.145 (HOMBEGOWDA NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

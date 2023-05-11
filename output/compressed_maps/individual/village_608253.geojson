@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40576018482514,13.65980921842629],[75.39057623636117,13.67685811886777],[75.3676610060653,13.66442563288077],[75.38413244256249,13.64239377154389],[75.40576018482514,13.65980921842629]]]},"properties":{"region_id":"village_608253","name":"MRUGAVADHE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

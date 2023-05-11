@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87816749344304,11.91175087533209],[76.8521224334994,11.91020397521812],[76.8469901208145,11.8930993256296],[76.87194162292815,11.89069317313165],[76.87816749344304,11.91175087533209]]]},"properties":{"region_id":"village_619701","name":"VEERANAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

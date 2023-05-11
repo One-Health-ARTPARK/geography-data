@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99225498446654,12.05145293259707],[76.97888765702628,12.05011201198604],[76.97663938530502,12.03785634133774],[76.99684044651211,12.03784931634298],[76.99225498446654,12.05145293259707]]]},"properties":{"region_id":"village_619618","name":"SANTHEMARAHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

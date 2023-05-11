@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3870288181008,12.55843518707298],[76.37222825621932,12.55252463307746],[76.37753196398018,12.54301753746775],[76.3870288181008,12.55843518707298]]]},"properties":{"region_id":"village_618578","name":"DODDAVADDARAGUDI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

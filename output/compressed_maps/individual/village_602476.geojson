@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91528607481709,15.16800262203717],[74.90709294946394,15.18635623956115],[74.88556957063156,15.1741646622905],[74.90053964272819,15.16050022071691],[74.91528607481709,15.16800262203717]]]},"properties":{"region_id":"village_602476","name":"HATAKINHAL","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

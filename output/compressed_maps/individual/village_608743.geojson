@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77649637218876,13.57370062744582],[74.76212421671767,13.58636765739614],[74.74557404386374,13.56620032693086],[74.77348993567479,13.54713039698145],[74.77649637218876,13.57370062744582]]]},"properties":{"region_id":"village_608743","name":"KORGI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

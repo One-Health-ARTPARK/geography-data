@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90739856111412,13.31498780093662],[77.92078915128258,13.32713001272013],[77.91247141280405,13.33668641585897],[77.89844076414401,13.32650329736601],[77.90739856111412,13.31498780093662]]]},"properties":{"region_id":"village_624259","name":"NARAYANADASARAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01917158465805,16.54377876904236],[77.04287673671526,16.57859916555978],[77.02657407666025,16.58382443130905],[77.01917158465805,16.54377876904236]]]},"properties":{"region_id":"village_621191","name":"KURIHAL","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

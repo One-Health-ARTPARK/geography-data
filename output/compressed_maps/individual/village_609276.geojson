@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99872542435433,13.75485793748989],[75.98030693460326,13.76558333213813],[75.9683043065633,13.75073896518764],[75.99451169778321,13.74658384897964],[75.99872542435433,13.75485793748989]]]},"properties":{"region_id":"village_609276","name":"HANNE","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8907439112287,14.18318909016012],[75.87806409508696,14.18349415427515],[75.87711266719265,14.17426628568107],[75.89442370515879,14.17477012266677],[75.8907439112287,14.18318909016012]]]},"properties":{"region_id":"village_606937","name":"SIDDAPURA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

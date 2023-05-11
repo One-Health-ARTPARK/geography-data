@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40764590513733,12.91024681810658],[77.39429828056858,12.91151583048355],[77.39436328248738,12.89861108082895],[77.40907282983527,12.89995500744975],[77.40764590513733,12.91024681810658]]]},"properties":{"region_id":"village_612998","name":"KETHOHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

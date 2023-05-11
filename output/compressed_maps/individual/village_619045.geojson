@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30354963203725,11.93973797354475],[76.29226545803873,11.94118225306002],[76.29689946990024,11.92508669645447],[76.30354963203725,11.93973797354475]]]},"properties":{"region_id":"village_619045","name":"KANAKANAHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

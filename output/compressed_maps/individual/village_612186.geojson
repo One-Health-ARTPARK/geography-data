@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51450909285012,13.10695568773443],[76.49981815513786,13.10462291373404],[76.49509173744426,13.0944351577812],[76.51019552317476,13.09445437863247],[76.51450909285012,13.10695568773443]]]},"properties":{"region_id":"village_612186","name":"BISALEHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43872870386484,16.23960964022464],[77.42478957282678,16.23114148272181],[77.43878403602363,16.22541974892915],[77.43872870386484,16.23960964022464]]]},"properties":{"region_id":"village_600772","name":"KADGAMDODDI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

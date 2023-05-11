@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61461700927366,14.14794172892353],[75.6029032852577,14.12522381800636],[75.62151362737293,14.12702767634907],[75.61461700927366,14.14794172892353]]]},"properties":{"region_id":"village_606832","name":"KANKANAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

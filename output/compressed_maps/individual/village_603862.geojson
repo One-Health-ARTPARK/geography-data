@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.67728519934984,14.03522951420986],[74.65559287683624,14.03947973752463],[74.63896949043274,14.03270465124225],[74.67642997155393,14.0259003405838],[74.67728519934984,14.03522951420986]]]},"properties":{"region_id":"village_603862","name":"HADAVALLI","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

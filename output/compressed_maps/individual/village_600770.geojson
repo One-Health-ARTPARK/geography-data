@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38834883019487,16.26618883913043],[77.39613358141777,16.25571013412997],[77.40771640516093,16.25831210888803],[77.40076657782272,16.27509138484294],[77.38834883019487,16.26618883913043]]]},"properties":{"region_id":"village_600770","name":"POLKAMDODDI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

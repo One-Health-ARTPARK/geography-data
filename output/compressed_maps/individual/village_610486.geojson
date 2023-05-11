@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02982327606998,13.61237628239107],[77.02909609395655,13.62417510218142],[77.00068913728951,13.61623440132496],[77.02982327606998,13.61237628239107]]]},"properties":{"region_id":"village_610486","name":"HOSABURJU","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

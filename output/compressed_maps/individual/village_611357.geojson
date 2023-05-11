@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1639968911681,13.45909053153248],[77.17009138859726,13.46147407776788],[77.17023453825917,13.46443729794891],[77.16278522434837,13.4646379300633],[77.1639968911681,13.45909053153248]]]},"properties":{"region_id":"village_611357","name":"KENCHANAPALYA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

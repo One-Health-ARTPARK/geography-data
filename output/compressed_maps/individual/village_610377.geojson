@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0037197955941,13.70313162980148],[76.97977590207518,13.69180621209022],[77.0072606773383,13.67540275158785],[77.0037197955941,13.70313162980148]]]},"properties":{"region_id":"village_610377","name":"MUGANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

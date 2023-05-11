@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67185086676302,12.12104478761484],[75.66137598343595,12.14227356371113],[75.6397088974179,12.1424416057366],[75.64659350077065,12.11585580340426],[75.67185086676302,12.12104478761484]]]},"properties":{"region_id":"village_617858","name":"KARADA","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

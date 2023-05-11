@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6893740014131,11.86546958119454],[76.67610620319572,11.83532769319721],[76.69445941017423,11.83645363198711],[76.70183747914234,11.85907064783297],[76.6893740014131,11.86546958119454]]]},"properties":{"region_id":"village_619492","name":"VEERANAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

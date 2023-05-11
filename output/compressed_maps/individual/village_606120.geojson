@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.886806020199,14.04637013491175],[76.87039019732761,14.05409224929143],[76.83802719727512,14.03848868560964],[76.84481234572947,14.0283119184588],[76.886806020199,14.04637013491175]]]},"properties":{"region_id":"village_606120","name":"BENKANAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

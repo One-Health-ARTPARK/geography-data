@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32961795220243,15.38741548997294],[75.27825637556944,15.38275306981252],[75.27151931914595,15.34389632826917],[75.28412688503737,15.33505942480917],[75.33899255563763,15.35078451806134],[75.32961795220243,15.38741548997294]]]},"properties":{"region_id":"village_602398","name":"SHIRGUPPI","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

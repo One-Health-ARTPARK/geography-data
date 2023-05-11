@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.37153764066635,14.58331741638583],[74.354450604906,14.58719012290285],[74.3517374711031,14.57292396796491],[74.37153764066635,14.58331741638583]]]},"properties":{"region_id":"village_603384","name":"DEVIGADDE","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

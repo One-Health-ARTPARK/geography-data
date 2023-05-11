@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16341569061511,17.00941708452939],[77.1234823746554,17.00539755087262],[77.15564762726856,16.97942022883604],[77.16341569061511,17.00941708452939]]]},"properties":{"region_id":"village_620687","name":"ALLUR (K)","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

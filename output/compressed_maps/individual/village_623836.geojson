@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78725424471403,13.82049727436166],[77.75330252657798,13.81173909215346],[77.75946862654669,13.79340138527696],[77.78502802382651,13.7980138504941],[77.78725424471403,13.82049727436166]]]},"properties":{"region_id":"village_623836","name":"HOSAHUDYA","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

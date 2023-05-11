@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89308500626302,15.99523580648268],[75.91085240723527,15.99899815513371],[75.9145550187073,16.01658302605199],[75.88742598373439,16.0042463604171],[75.89308500626302,15.99523580648268]]]},"properties":{"region_id":"village_598892","name":"CHILAPUR","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

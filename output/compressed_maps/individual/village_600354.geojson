@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36470292746924,16.08207148350951],[76.3671521411462,16.0877177771027],[76.3528251064038,16.11342325408501],[76.34741541673816,16.08538883387076],[76.36470292746924,16.08207148350951]]]},"properties":{"region_id":"village_600354","name":"BAIYAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

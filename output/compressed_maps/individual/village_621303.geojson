@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27355604234667,16.73093436806646],[77.26926576034009,16.74419136347334],[77.27255351830145,16.75722458248493],[77.26205093866739,16.76131256272303],[77.25876649548104,16.74989978539028],[77.27355604234667,16.73093436806646]]]},"properties":{"region_id":"village_621303","name":"PANCHASHEELANAGAR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

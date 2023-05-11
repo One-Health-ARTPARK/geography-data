@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52439596555332,13.40191024027709],[76.51366129004487,13.3868617400411],[76.541520747901,13.37492962187747],[76.54037423995491,13.3989232261586],[76.52439596555332,13.40191024027709]]]},"properties":{"region_id":"village_610231","name":"MADIHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

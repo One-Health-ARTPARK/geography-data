@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05539390274042,16.03248717405359],[76.04965537506033,16.05116456422452],[76.03413431328364,16.04082051068517],[76.05539390274042,16.03248717405359]]]},"properties":{"region_id":"village_598938","name":"CHICKBADAWADGI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

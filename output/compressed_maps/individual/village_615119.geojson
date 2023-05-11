@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80374817737847,13.11234276678473],[75.78144033409625,13.10156672751176],[75.79392916743552,13.0917095651677],[75.80374817737847,13.11234276678473]]]},"properties":{"region_id":"village_615119","name":"HIRIHASADE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

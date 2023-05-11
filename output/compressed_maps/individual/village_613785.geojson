@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63843141530232,12.9387764874225],[76.63298174529602,12.95310496839066],[76.61757967592011,12.95364411753576],[76.61558664156021,12.93679970731054],[76.63843141530232,12.9387764874225]]]},"properties":{"region_id":"village_613785","name":"LALANKERE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

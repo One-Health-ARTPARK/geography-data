@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62887074278554,13.45601758416859],[75.59561822224069,13.4813755830796],[75.55734607802374,13.45535339427127],[75.5853949040571,13.42221146740935],[75.62887074278554,13.45601758416859]]]},"properties":{"region_id":"village_609683","name":"SUGUDUVANI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

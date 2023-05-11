@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90045235086241,14.23319523318288],[74.88086988534756,14.23292734693691],[74.87853720657411,14.21412242674539],[74.89467737124339,14.21698807335358],[74.90045235086241,14.23319523318288]]]},"properties":{"region_id":"village_603678","name":"MANMANE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55013224206155,15.15665053325574],[75.50659906998993,15.1545177076882],[75.51123903583965,15.13227990751932],[75.55013224206155,15.15665053325574]]]},"properties":{"region_id":"village_602066","name":"BATTUR","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

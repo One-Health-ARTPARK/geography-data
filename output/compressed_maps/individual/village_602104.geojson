@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71796198516878,15.13965036244158],[75.70411302580109,15.16614562993283],[75.67275550495808,15.14299324327217],[75.71796198516878,15.13965036244158]]]},"properties":{"region_id":"village_602104","name":"TEGGINABHAVANUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

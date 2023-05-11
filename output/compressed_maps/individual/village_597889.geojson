@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60877400439799,15.66247453175495],[74.60130889373208,15.66434347963984],[74.59515456974026,15.65446303175645],[74.615137682689,15.64535786050504],[74.60877400439799,15.66247453175495]]]},"properties":{"region_id":"village_597889","name":"KODACHWAD","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

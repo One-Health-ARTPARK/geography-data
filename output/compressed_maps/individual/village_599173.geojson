@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6970879843922,17.29022606014797],[75.65263966727923,17.29339921398294],[75.65783518673621,17.25809481602651],[75.70827355071697,17.26237677685779],[75.6970879843922,17.29022606014797]]]},"properties":{"region_id":"village_599173","name":"JEERANKALGI","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

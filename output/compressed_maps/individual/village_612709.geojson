@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0807065892381,12.86487130287948],[77.07594600939673,12.87319298135562],[77.06765036134685,12.87292789116056],[77.0729990509913,12.86201069045637],[77.0807065892381,12.86487130287948]]]},"properties":{"region_id":"village_612709","name":"GUDDETHIPPASANDRA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77402206947956,12.93992497432629],[77.78156314318187,12.94263588669262],[77.77050528747267,12.94941253786423],[77.76528225970495,12.94229949381435],[77.77402206947956,12.93992497432629]]]},"properties":{"region_id":"village_625737","name":"GULLAKAIPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

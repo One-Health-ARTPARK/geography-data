@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9148501369319,14.93871611937365],[75.88022355228827,14.93920869915577],[75.88231850453356,14.90138676766879],[75.90386525991931,14.9024930773439],[75.91490890878626,14.88699913250109],[75.9148501369319,14.93871611937365]]]},"properties":{"region_id":"village_604624","name":"MANNERA MASALAVADA","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

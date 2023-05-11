@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31545839806539,13.40596763057693],[77.30657813011914,13.40583880084673],[77.3055005542835,13.39707405763217],[77.31519629510129,13.39765437175052],[77.31545839806539,13.40596763057693]]]},"properties":{"region_id":"village_611198","name":"VEERASAGARA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

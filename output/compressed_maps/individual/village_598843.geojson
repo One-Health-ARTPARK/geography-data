@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95929803292584,16.25346714096312],[75.95229961539312,16.23098184115716],[75.95163275320762,16.22045447895144],[75.95864232251449,16.22017242439592],[75.96057864707801,16.24077253214416],[75.95929803292584,16.25346714096312]]]},"properties":{"region_id":"village_598843","name":"DEVALAPUR (S.M.)","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

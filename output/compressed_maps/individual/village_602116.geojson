@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60902493774678,15.06260237186864],[75.59495369022342,15.06831072660543],[75.58452912191652,15.05618976583026],[75.5992188311595,15.05286960970599],[75.60902493774678,15.06260237186864]]]},"properties":{"region_id":"village_602116","name":"BUDIHAL","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

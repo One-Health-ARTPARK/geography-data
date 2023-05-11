@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4139350325853,16.43854303609201],[74.39295820415983,16.43917585237214],[74.40195181164907,16.42085250600777],[74.4139350325853,16.43854303609201]]]},"properties":{"region_id":"village_597127","name":"LAKHANAPUR","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

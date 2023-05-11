@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22022842306576,16.32364520758499],[75.19839049736848,16.33181030973993],[75.1932714794078,16.27455409857036],[75.20761732190884,16.27168657781634],[75.22022842306576,16.32364520758499]]]},"properties":{"region_id":"village_598567","name":"RANJANAGI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

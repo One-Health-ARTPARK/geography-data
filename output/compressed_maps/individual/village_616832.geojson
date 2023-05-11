@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24330835222172,12.87645277609215],[76.23325367582541,12.86121528299261],[76.2439631144523,12.85458343842852],[76.24987510690019,12.86988497026571],[76.24330835222172,12.87645277609215]]]},"properties":{"region_id":"village_616832","name":"HARIHARAPURA","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

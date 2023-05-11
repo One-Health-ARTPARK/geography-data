@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51250224145925,12.37751923097024],[76.49581871125018,12.38334522033191],[76.4926580761931,12.35916883849827],[76.51478305310397,12.35864113256187],[76.51250224145925,12.37751923097024]]]},"properties":{"region_id":"village_618706","name":"RATTANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

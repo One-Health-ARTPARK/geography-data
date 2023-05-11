@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30275044071941,16.16096305632888],[75.2925575666638,16.17248123589633],[75.27574413869523,16.12041219108584],[75.28534627480687,16.11923073527126],[75.30275044071941,16.16096305632888]]]},"properties":{"region_id":"village_598612","name":"HOSAKOTI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

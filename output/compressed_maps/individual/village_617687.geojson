@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17313517969012,12.76098365134345],[75.15943214541048,12.78101293970419],[75.14592056766651,12.76939482605685],[75.15744084397257,12.75048281169481],[75.17313517969012,12.76098365134345]]]},"properties":{"region_id":"village_617687","name":"KUDIPPADI","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

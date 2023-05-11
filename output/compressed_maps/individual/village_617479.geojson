@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86785768583914,12.98775733565747],[74.8528119506931,12.99244024727457],[74.84545630380822,12.98173533537427],[74.85769141389113,12.97446626209446],[74.86785768583914,12.98775733565747]]]},"properties":{"region_id":"village_617479","name":"KALAVAR","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

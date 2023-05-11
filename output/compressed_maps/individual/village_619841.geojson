@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1162677801235,12.18104170518154],[77.11820087759156,12.19320701502385],[77.10139133557315,12.18521022329145],[77.10506889221742,12.17231895107067],[77.1162677801235,12.18104170518154]]]},"properties":{"region_id":"village_619841","name":"HARALE","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

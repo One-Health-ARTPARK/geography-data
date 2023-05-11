@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48964909438162,16.52760365509988],[76.47540602600574,16.54172322451904],[76.44893017364095,16.53520056772907],[76.4518405873172,16.51695342448393],[76.48964909438162,16.52760365509988]]]},"properties":{"region_id":"village_620932","name":"GUNDALGARE","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

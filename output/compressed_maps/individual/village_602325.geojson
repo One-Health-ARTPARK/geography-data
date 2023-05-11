@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35185368633567,15.63255203522881],[75.33649890260483,15.58726199741631],[75.38577687071569,15.58668545054985],[75.3889328851695,15.62551014988096],[75.35185368633567,15.63255203522881]]]},"properties":{"region_id":"village_602325","name":"BELAVATAGI","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

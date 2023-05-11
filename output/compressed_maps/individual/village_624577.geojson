@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.03845198083944,13.3890536279982],[78.02674179423772,13.39424341721323],[78.02023334130205,13.3834588243187],[78.03770676686138,13.38187866759374],[78.03845198083944,13.3890536279982]]]},"properties":{"region_id":"village_624577","name":"KAVALAGANAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

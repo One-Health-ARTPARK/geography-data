@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87050945797108,14.21584126140256],[75.86318488063249,14.22111302106346],[75.8643673017496,14.20920416696078],[75.87050945797108,14.21584126140256]]]},"properties":{"region_id":"village_606910","name":"LAXMISAGARA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9501854115114,13.46614464710544],[77.94187459157024,13.46494578338148],[77.94332173443524,13.44390622522053],[77.95785645268141,13.45639338928642],[77.9501854115114,13.46614464710544]]]},"properties":{"region_id":"village_624154","name":"KUNDALAGURKI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

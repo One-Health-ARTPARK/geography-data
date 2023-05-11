@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.02334194022377,13.71744774490166],[78.00160023648628,13.71903059779006],[78.00350905320028,13.70752696650753],[78.02207898335892,13.7071196258999],[78.02334194022377,13.71744774490166]]]},"properties":{"region_id":"village_623996","name":"MUDALAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

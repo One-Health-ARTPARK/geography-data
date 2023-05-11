@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40142670581547,13.33018726091075],[77.38736082759708,13.33164308891712],[77.3763112176191,13.32201546408111],[77.39401290008696,13.31593992044936],[77.40142670581547,13.33018726091075]]]},"properties":{"region_id":"village_625161","name":"SAKKAREGOLLAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

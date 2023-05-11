@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35258446630097,16.99258348194944],[76.32986151512799,16.98232464914157],[76.34032645771788,16.95144792893351],[76.36635726832773,16.95666904789551],[76.35258446630097,16.99258348194944]]]},"properties":{"region_id":"village_599329","name":"GABASAVALGI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

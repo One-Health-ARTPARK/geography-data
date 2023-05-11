@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63745400008581,13.04343699968627],[77.62485700025528,13.04177499966701],[77.62006400034275,13.02620099956375],[77.63270000012008,13.02767899979516],[77.64442400013456,13.03626899992688],[77.63745400008581,13.04343699968627]]]},"properties":{"region_id":"ward_bbmp24","name":"WARD NO. 24 (HBR LAYOUT)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

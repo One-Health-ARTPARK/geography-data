@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38379028303716,13.30435785948803],[75.39470694481275,13.30513892923084],[75.39750115951236,13.31522602233807],[75.38448851806183,13.31777955319166],[75.38379028303716,13.30435785948803]]]},"properties":{"region_id":"village_609041","name":"HONNAGUNDI","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

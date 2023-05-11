@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49966999980809,13.07195799976165],[77.4925639996023,13.05165700012204],[77.50730900011482,13.04528800003554],[77.51227400009861,13.05300900006594],[77.49966999980809,13.07195799976165]]]},"properties":{"region_id":"ward_bbmp14","name":"WARD NO.14 (BAGALAKUNTE)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

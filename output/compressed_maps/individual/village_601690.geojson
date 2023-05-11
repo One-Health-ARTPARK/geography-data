@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73402532728328,15.59225413454413],[76.70114664733805,15.59426003018],[76.70366441624658,15.57007300561806],[76.7238932575168,15.57347780486226],[76.73402532728328,15.59225413454413]]]},"properties":{"region_id":"village_601690","name":"BUDUGUMPA","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

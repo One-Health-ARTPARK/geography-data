@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71902458953018,16.36620459171224],[75.68528006249666,16.35809118092999],[75.67009886558836,16.33616765243813],[75.7011375022763,16.33222614422672],[75.73140329155474,16.33676006674647],[75.71902458953018,16.36620459171224]]]},"properties":{"region_id":"village_598520","name":"GIRISAGAR","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

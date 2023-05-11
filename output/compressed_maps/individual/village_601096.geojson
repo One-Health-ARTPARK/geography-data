@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70070466863966,15.95243717419262],[76.68313596598534,15.9474539385154],[76.6775851520865,15.93671491040423],[76.69405846504812,15.92857524851427],[76.70070466863966,15.95243717419262]]]},"properties":{"region_id":"village_601096","name":"CHIKKKADBUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

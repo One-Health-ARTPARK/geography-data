@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32558826507427,13.3695292135088],[77.31461674736052,13.3694907032788],[77.3144350735107,13.36260356150362],[77.32474694083282,13.35829529627689],[77.32558826507427,13.3695292135088]]]},"properties":{"region_id":"village_611228","name":"RANGAPURA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91068937608394,16.26480365935436],[76.90888027714242,16.28122194550799],[76.87793928797595,16.27092280877831],[76.90274719262504,16.25789741719593],[76.91068937608394,16.26480365935436]]]},"properties":{"region_id":"village_600700","name":"MALLAPUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

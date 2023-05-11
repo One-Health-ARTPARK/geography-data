@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14744048234547,15.81459213548504],[75.14379827497645,15.78228507572136],[75.16239931250404,15.7809853064531],[75.16461262017091,15.81457883086639],[75.14744048234547,15.81459213548504]]]},"properties":{"region_id":"village_598272","name":"KATAMALLI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

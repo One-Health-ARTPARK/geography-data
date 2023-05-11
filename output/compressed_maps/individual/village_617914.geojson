@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95274159942844,12.70641369572888],[75.9455485863788,12.70352424746956],[75.94879954315569,12.69432110781297],[75.9541158005836,12.69988966036812],[75.95274159942844,12.70641369572888]]]},"properties":{"region_id":"village_617914","name":"ANKANALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

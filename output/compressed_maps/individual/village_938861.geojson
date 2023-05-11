@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72590416079302,14.9391563160659],[74.72775375311036,14.94869337701693],[74.71298822456045,14.96192546788594],[74.70598692715808,14.95165502763067],[74.7216715157894,14.94884185552123],[74.72590416079302,14.9391563160659]]]},"properties":{"region_id":"village_938861","name":"SABAGERI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

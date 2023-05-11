@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04885086156077,14.02271263832567],[75.03286659017736,14.01315078108497],[75.0417238824134,14.00244749132799],[75.05909977416468,14.01570698642652],[75.04885086156077,14.02271263832567]]]},"properties":{"region_id":"village_607886","name":"KANAGODU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

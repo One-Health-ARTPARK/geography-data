@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74975588895597,14.22538091760255],[75.7173929955553,14.22692651875239],[75.72222262028566,14.21597179592978],[75.73793637026554,14.21621646106802],[75.74975588895597,14.22538091760255]]]},"properties":{"region_id":"village_606852","name":"HUNESEHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

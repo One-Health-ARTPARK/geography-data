@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.36309545406672,12.94658811071649],[78.35591317769754,12.94013646590204],[78.3673127691819,12.92782887257478],[78.37203708383322,12.94112696537752],[78.36309545406672,12.94658811071649]]]},"properties":{"region_id":"village_622831","name":"MARADAGATTA","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

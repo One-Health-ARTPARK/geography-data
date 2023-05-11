@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63645798043034,12.43076652462718],[75.63995683969495,12.39706552984561],[75.66534997145047,12.40422829842084],[75.63645798043034,12.43076652462718]]]},"properties":{"region_id":"village_617800","name":"BETTATHUR","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

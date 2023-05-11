@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87504162330332,15.85639273951105],[75.86782917718527,15.85761864108545],[75.86334525103815,15.83187823313757],[75.8743480918831,15.83254724518521],[75.88275617144511,15.84943974439222],[75.87504162330332,15.85639273951105]]]},"properties":{"region_id":"village_601388","name":"RANGAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

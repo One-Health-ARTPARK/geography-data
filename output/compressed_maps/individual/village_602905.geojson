@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.56288780438906,14.87118612351738],[74.53412158200788,14.88498943944388],[74.50074650884335,14.81768203366681],[74.50371973634792,14.78473105418695],[74.56891746335505,14.79415411868648],[74.56288780438906,14.87118612351738]]]},"properties":{"region_id":"village_602905","name":"MAVINAMANE","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

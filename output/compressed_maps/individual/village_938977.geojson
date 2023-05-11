@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92064088125493,12.74535383790025],[75.91570108964773,12.74582745369397],[75.91395551627298,12.7397491545062],[75.92080560514111,12.74079275144911],[75.92064088125493,12.74535383790025]]]},"properties":{"region_id":"village_938977","name":"BETTADHAHALLI.","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

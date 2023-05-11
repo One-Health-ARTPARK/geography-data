@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05272266147713,15.26736253299523],[75.04537482626252,15.28715766918657],[75.026965486122,15.27890338824657],[75.0314485613276,15.26078053214977],[75.05272266147713,15.26736253299523]]]},"properties":{"region_id":"village_602453","name":"KADANKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

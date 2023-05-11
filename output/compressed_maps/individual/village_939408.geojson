@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6275524168529,12.98775603358031],[77.62171294208575,12.9785862033705],[77.6327017099387,12.9772463933537],[77.63255334949298,12.98607704559679],[77.6275524168529,12.98775603358031]]]},"properties":{"region_id":"village_939408","name":"ALASURU","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

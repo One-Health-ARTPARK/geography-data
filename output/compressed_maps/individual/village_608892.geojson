@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88697696349969,13.26688080238359],[74.84789543238155,13.27379893480396],[74.85665213468222,13.25027030874979],[74.88697696349969,13.26688080238359]]]},"properties":{"region_id":"village_608892","name":"NINJOOR","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56581990228273,13.15461919157834],[76.54812118634659,13.14869698709394],[76.55138182476934,13.13683791492676],[76.56714475992595,13.13856846731069],[76.56581990228273,13.15461919157834]]]},"properties":{"region_id":"village_612171","name":"MAKANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

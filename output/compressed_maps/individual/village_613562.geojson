@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5098949866866,12.67898928115962],[76.49844003334847,12.67774724862942],[76.49826765903595,12.67218188839803],[76.5100993088505,12.66930306699316],[76.5098949866866,12.67898928115962]]]},"properties":{"region_id":"village_613562","name":"BANDABOYANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

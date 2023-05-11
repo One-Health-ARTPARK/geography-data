@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54253434095344,16.02700742074619],[76.52521957019836,16.01039866671989],[76.53201781987634,16.00060884334783],[76.5462065672077,16.01809022241198],[76.54253434095344,16.02700742074619]]]},"properties":{"region_id":"village_600505","name":"DABBERMADU","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

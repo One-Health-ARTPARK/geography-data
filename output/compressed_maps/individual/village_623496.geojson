@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70672786162068,13.40594345266254],[77.70687276780579,13.41186800220491],[77.70133407319814,13.40824902273223],[77.70672786162068,13.40594345266254]]]},"properties":{"region_id":"village_623496","name":"BANDAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

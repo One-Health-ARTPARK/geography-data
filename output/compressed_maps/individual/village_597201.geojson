@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42508726141718,16.41963279028532],[74.41285595087804,16.43066860827419],[74.40203339664839,16.41811593783904],[74.40675037049084,16.40782520715557],[74.42508726141718,16.41963279028532]]]},"properties":{"region_id":"village_597201","name":"RAMPUR","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

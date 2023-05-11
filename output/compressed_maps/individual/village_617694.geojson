@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28684903453617,12.81848401876881],[75.24387141183254,12.80906528670465],[75.25617939705349,12.79250027115548],[75.28684903453617,12.81848401876881]]]},"properties":{"region_id":"village_617694","name":"HIREBANDADI","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

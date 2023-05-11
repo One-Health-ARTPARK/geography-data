@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91614257087564,12.70802432263223],[75.90456284230017,12.70701974561354],[75.89988484694864,12.69692982956398],[75.91258781966276,12.69842747629532],[75.91614257087564,12.70802432263223]]]},"properties":{"region_id":"village_617897","name":"HITHLUKERI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19295666838916,12.49267436534092],[77.17652366461203,12.49647965155834],[77.17587301272583,12.47954372281113],[77.1979004280142,12.48337110832608],[77.19295666838916,12.49267436534092]]]},"properties":{"region_id":"village_626309","name":"NELAMAKANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62713727914807,14.61509204707471],[76.58570526718391,14.61818251363807],[76.58901827826752,14.59129397493445],[76.62713727914807,14.61509204707471]]]},"properties":{"region_id":"village_605233","name":"MUSTALAGUMMI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

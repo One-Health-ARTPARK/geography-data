@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.62173294574559,16.1861841111448],[74.62061819002776,16.20535548107746],[74.60306110786662,16.20000958625102],[74.60364621196388,16.18655120826907],[74.62173294574559,16.1861841111448]]]},"properties":{"region_id":"village_597609","name":"MADAMAKKANAL","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

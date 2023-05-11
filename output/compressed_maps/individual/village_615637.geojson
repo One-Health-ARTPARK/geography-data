@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37887524265352,13.51366057033192],[76.36011576420088,13.51618899937554],[76.349103976032,13.49825681264802],[76.37285033508742,13.49643806972255],[76.37887524265352,13.51366057033192]]]},"properties":{"region_id":"village_615637","name":"KITTANAKERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44329795564884,16.13294463585021],[77.4483263093361,16.15884499132111],[77.43380139643315,16.15292124424488],[77.44329795564884,16.13294463585021]]]},"properties":{"region_id":"village_600800","name":"RAJALBANDA","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

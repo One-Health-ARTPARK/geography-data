@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85867257163912,13.87431241004692],[76.84009155225591,13.8670040004676],[76.8413206647478,13.84665254129247],[76.87575194515311,13.86324251483664],[76.85867257163912,13.87431241004692]]]},"properties":{"region_id":"village_610338","name":"HONNENAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

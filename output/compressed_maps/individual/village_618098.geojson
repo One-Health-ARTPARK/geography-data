@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04188030504058,12.55344428091128],[76.02494537347833,12.55053909556054],[76.02396177807913,12.54162006078252],[76.03083008024386,12.53100906532805],[76.04799594227292,12.53296210793718],[76.04188030504058,12.55344428091128]]]},"properties":{"region_id":"village_618098","name":"GARIGUDDAKAVAL","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

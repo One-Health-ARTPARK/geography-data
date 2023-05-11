@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7325011089922,14.14987335021657],[76.6870304201941,14.14181991645004],[76.68780974193766,14.11938030164159],[76.73826446075999,14.11817369058653],[76.7325011089922,14.14987335021657]]]},"properties":{"region_id":"village_605411","name":"HULIKUNTE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

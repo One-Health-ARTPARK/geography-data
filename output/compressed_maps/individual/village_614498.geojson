@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99872093043449,12.77707568652473],[76.97946424252069,12.79122454930381],[76.974757991054,12.76852246443251],[76.99872093043449,12.77707568652473]]]},"properties":{"region_id":"village_614498","name":"KIRANGUR","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

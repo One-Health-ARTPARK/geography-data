@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23111570081002,12.39838634292693],[77.2209125795549,12.39222407752045],[77.21890669597568,12.37566927228616],[77.22647195968995,12.3643297005829],[77.23719494356911,12.38675999604444],[77.23111570081002,12.39838634292693]]]},"properties":{"region_id":"village_614785","name":"BYDARAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

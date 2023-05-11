@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45115584204044,16.97230894886476],[77.45515119830598,16.99320119303506],[77.43965745602281,16.99203322637917],[77.4374662448589,16.97454686397569],[77.45115584204044,16.97230894886476]]]},"properties":{"region_id":"village_620572","name":"SHANKERAJPUR","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

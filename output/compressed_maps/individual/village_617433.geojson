@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80096115315425,13.05241502305561],[74.8134633946882,13.05902057772773],[74.81025746337048,13.07125072677917],[74.79163504735978,13.06373320350756],[74.80096115315425,13.05241502305561]]]},"properties":{"region_id":"village_617433","name":"BELLAIRU","parent":"subdistrict_7198","parent_name":"MULKI"}}
+]}

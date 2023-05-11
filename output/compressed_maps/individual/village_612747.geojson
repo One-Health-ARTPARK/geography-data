@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10027319546978,12.77722881824422],[77.08332850589349,12.77648931737255],[77.09128721289423,12.76401333252359],[77.10027319546978,12.77722881824422]]]},"properties":{"region_id":"village_612747","name":"SHIVANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

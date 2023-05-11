@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98396641083255,12.74758761728875],[76.98248595200846,12.76779012874807],[76.96778022140536,12.76326471983769],[76.96656503687292,12.749496586912],[76.98396641083255,12.74758761728875]]]},"properties":{"region_id":"village_614499","name":"HALEHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

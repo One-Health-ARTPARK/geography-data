@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12688797159768,14.74422462215051],[75.11042176339659,14.7440385834799],[75.12749916101168,14.72239366403676],[75.13645416616318,14.72446525408145],[75.12688797159768,14.74422462215051]]]},"properties":{"region_id":"village_604108","name":"GEJJIHALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

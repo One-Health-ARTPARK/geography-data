@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6415774132696,12.76245855862104],[77.62897200638436,12.76403781600848],[77.63236191235961,12.75597190186203],[77.6415774132696,12.76245855862104]]]},"properties":{"region_id":"village_613170","name":"KONASANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

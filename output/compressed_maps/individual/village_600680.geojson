@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9671319150857,16.36542790050997],[76.95164122084637,16.36084349016046],[76.94581328950821,16.3488307489255],[76.9337684878587,16.33827376931148],[76.97127217817749,16.33669231775581],[76.9671319150857,16.36542790050997]]]},"properties":{"region_id":"village_600680","name":"HEMNUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

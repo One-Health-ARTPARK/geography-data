@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44947376922872,12.34411630715648],[77.43490296216825,12.34922465720557],[77.42750045271418,12.36335216101697],[77.41255248664007,12.35950134592478],[77.42243464118393,12.34701761895611],[77.44947376922872,12.34411630715648]]]},"properties":{"region_id":"village_626576","name":"HAROSHIVANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

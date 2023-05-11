@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45603672134867,15.76686993450945],[75.42848062997331,15.78062213894205],[75.4377926965787,15.75357757407388],[75.45603672134867,15.76686993450945]]]},"properties":{"region_id":"village_601892","name":"BHAIRANA HATTI","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15316702198379,14.83544069621074],[75.12630427111718,14.8286162340638],[75.14228563629892,14.81981012830913],[75.15316702198379,14.83544069621074]]]},"properties":{"region_id":"village_604075","name":"MAHARAJPET","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

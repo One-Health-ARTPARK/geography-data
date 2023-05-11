@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79442359187395,13.966768810951],[74.75926993632712,13.95216760781895],[74.77144391008474,13.92645267142593],[74.8002526820119,13.9365675185159],[74.79442359187395,13.966768810951]]]},"properties":{"region_id":"village_607350","name":"KODANAVALLI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

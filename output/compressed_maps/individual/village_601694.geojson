@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58456139668529,15.5644279601884],[76.57946095050168,15.52200252210075],[76.61033548312908,15.51970031092423],[76.62250799911287,15.55730438952171],[76.58456139668529,15.5644279601884]]]},"properties":{"region_id":"village_601694","name":"GUNDUR","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

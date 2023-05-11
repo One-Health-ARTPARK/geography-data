@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62709514806463,12.36726486730249],[76.59509551049354,12.36780406125919],[76.58799999586662,12.36088986574198],[76.59151710740316,12.3438565302298],[76.62402593898047,12.33717915187641],[76.62709514806463,12.36726486730249]]]},"properties":{"region_id":"village_618833","name":"HEBBALU (OG)","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

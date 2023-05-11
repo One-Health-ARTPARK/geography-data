@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99305768927748,15.39646990014594],[74.95586257730248,15.39310776796988],[74.94401874697891,15.36650875133046],[74.9552743312443,15.34775814364173],[74.98740878094074,15.35931527985731],[74.99305768927748,15.39646990014594]]]},"properties":{"region_id":"village_602287","name":"MANAGUNDI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

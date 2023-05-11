@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82851792003396,17.37594003286891],[75.79857812356676,17.36161389800075],[75.79656400823842,17.3425090323023],[75.83380702568527,17.34634829593847],[75.82851792003396,17.37594003286891]]]},"properties":{"region_id":"village_599179","name":"MARAGUR","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

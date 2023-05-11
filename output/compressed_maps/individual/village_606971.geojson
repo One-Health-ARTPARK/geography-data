@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88604858165931,14.17066482692545],[75.86894402274288,14.15311719533275],[75.87987055949363,14.14028176201292],[75.90018090336339,14.16179249940651],[75.88604858165931,14.17066482692545]]]},"properties":{"region_id":"village_606971","name":"SULEKERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

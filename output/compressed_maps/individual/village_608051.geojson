@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08611288729377,13.6176177210858],[75.09061703635055,13.62758639075029],[75.07987697544361,13.62942629153895],[75.06617199377213,13.62405248808285],[75.07982625042801,13.60851677977283],[75.08611288729377,13.6176177210858]]]},"properties":{"region_id":"village_608051","name":"KORANAKOTE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

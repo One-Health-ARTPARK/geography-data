@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1140626189059,13.50877461204874],[77.10538683269313,13.51284192045404],[77.0990502242391,13.50380906813793],[77.11239602486543,13.50395268056012],[77.1140626189059,13.50877461204874]]]},"properties":{"region_id":"village_611309","name":"GOWRAGONDANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.48058984804541,15.97265262074021],[74.46898620294864,15.96050414630939],[74.47208095164962,15.94364604707784],[74.48182233645088,15.94800684301485],[74.48058984804541,15.97265262074021]]]},"properties":{"region_id":"village_597684","name":"KEDANUR","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

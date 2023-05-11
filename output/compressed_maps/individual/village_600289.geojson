@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26983993417768,17.80335375316977],[77.2435148510028,17.79795110851537],[77.24974619724883,17.77302481085283],[77.26577514081632,17.77626735929457],[77.26983993417768,17.80335375316977]]]},"properties":{"region_id":"village_600289","name":"NIMBURA","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

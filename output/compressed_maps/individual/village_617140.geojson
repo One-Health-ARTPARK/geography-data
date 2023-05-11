@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41643684803032,13.115472617278],[76.42427355700983,13.12266404986516],[76.42028903705017,13.13217072872099],[76.40817695636235,13.12837966860468],[76.41643684803032,13.115472617278]]]},"properties":{"region_id":"village_617140","name":"BEECHAGONDANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

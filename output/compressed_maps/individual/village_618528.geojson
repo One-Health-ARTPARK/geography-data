@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29428763823088,12.57203984791623],[76.28259387006959,12.57419532286802],[76.28436109087787,12.561167961757],[76.29428763823088,12.57203984791623]]]},"properties":{"region_id":"village_618528","name":"KALLIMUDDANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

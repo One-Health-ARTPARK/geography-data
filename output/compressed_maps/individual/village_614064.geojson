@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72418560921865,12.64896388919085],[76.70287411049871,12.66295387307721],[76.7068849289539,12.64514397083286],[76.72418560921865,12.64896388919085]]]},"properties":{"region_id":"village_614064","name":"ARAKANAKERE","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50600900000914,12.99889899955885],[77.50609799967535,13.0098859999694],[77.49841300003473,13.00902800008457],[77.49759399974971,13.00384300043337],[77.50600900000914,12.99889899955885]]]},"properties":{"region_id":"ward_bbmp71","name":"WARD NO.71(HEGGANAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

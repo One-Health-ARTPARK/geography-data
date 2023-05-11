@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74332048274373,13.47809293247759],[77.72791718881902,13.47098138612665],[77.74179888655623,13.45994713728246],[77.74332048274373,13.47809293247759]]]},"properties":{"region_id":"village_623556","name":"HAROBANDE","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

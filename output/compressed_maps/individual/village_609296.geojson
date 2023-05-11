@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10278558733826,13.84886114958098],[76.09921188679853,13.86412740766627],[76.07471250925836,13.8708876950778],[76.07564479558336,13.84727973999317],[76.10278558733826,13.84886114958098]]]},"properties":{"region_id":"village_609296","name":"RANGAPURA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08897322937858,13.37166507519815],[76.0800397505378,13.36438509313168],[76.08475910328094,13.34851297378162],[76.09615323883415,13.36115698460959],[76.08897322937858,13.37166507519815]]]},"properties":{"region_id":"village_615460","name":"SAVANTHANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

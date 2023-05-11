@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7436412070856,13.52379915021465],[77.74713558587123,13.53897718632272],[77.73033491695493,13.54603369588559],[77.72432612228395,13.53291582407994],[77.7436412070856,13.52379915021465]]]},"properties":{"region_id":"village_623503","name":"KARIGANAPALYA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

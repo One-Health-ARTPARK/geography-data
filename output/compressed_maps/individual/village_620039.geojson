@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39633835262894,17.41484902091132],[76.39432197590169,17.43811802241509],[76.37150457988277,17.43604917118702],[76.37015482799812,17.41654557174323],[76.39633835262894,17.41484902091132]]]},"properties":{"region_id":"village_620039","name":"CHALGERA","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

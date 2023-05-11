@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34012147425801,13.51056857749302],[77.32924500129285,13.51076218265579],[77.33106108038878,13.50125357551305],[77.33798350154116,13.50064613460367],[77.34012147425801,13.51056857749302]]]},"properties":{"region_id":"village_611126","name":"SIRIGONAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

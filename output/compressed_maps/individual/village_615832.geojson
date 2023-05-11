@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36927404691971,13.20996956070689],[76.37993677327803,13.22234575681913],[76.37301788794333,13.23379499971622],[76.36422324042549,13.22172582306841],[76.36927404691971,13.20996956070689]]]},"properties":{"region_id":"village_615832","name":"SANNENAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

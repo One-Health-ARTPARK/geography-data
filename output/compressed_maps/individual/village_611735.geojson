@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79358977572795,13.40077658274319],[76.77453807661628,13.40676478426943],[76.77770186436808,13.38155919842052],[76.79965510799532,13.3859901206845],[76.79358977572795,13.40077658274319]]]},"properties":{"region_id":"village_611735","name":"BHOGASANDRA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

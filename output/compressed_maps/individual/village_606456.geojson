@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26946792126462,14.50833083913519],[76.27502847439135,14.52818956081598],[76.25635899141176,14.52469091988744],[76.26946792126462,14.50833083913519]]]},"properties":{"region_id":"village_606456","name":"CHANNAPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

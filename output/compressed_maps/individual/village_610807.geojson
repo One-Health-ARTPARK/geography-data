@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23316281669165,13.72865423783066],[77.2144567374887,13.7301688076248],[77.21526513601559,13.70399131733772],[77.2302864805631,13.71373242447234],[77.23316281669165,13.72865423783066]]]},"properties":{"region_id":"village_610807","name":"GOPAGONDNAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

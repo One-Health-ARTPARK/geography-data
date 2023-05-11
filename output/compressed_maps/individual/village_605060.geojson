@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26473346421314,14.8290059588796],[76.25203173199016,14.83748777762863],[76.2375972346468,14.82701535855161],[76.26473346421314,14.8290059588796]]]},"properties":{"region_id":"village_605060","name":"SIRINAYAKANAHALLI","parent":"subdistrict_7108","parent_name":"KOTTURU"}}
+]}

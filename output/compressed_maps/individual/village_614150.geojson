@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60641552125315,12.43405661530138],[76.60051374008356,12.42308024409172],[76.60883561933852,12.42636320876607],[76.60641552125315,12.43405661530138]]]},"properties":{"region_id":"village_614150","name":"KATTERINALA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

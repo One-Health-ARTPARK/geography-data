@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01817918235737,12.58418532914711],[76.98649379070997,12.5810683105831],[76.99180304184075,12.5641380727524],[77.01977102730062,12.56819488478349],[77.01817918235737,12.58418532914711]]]},"properties":{"region_id":"village_614583","name":"GEJJALAGERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

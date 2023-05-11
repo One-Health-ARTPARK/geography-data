@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30176525846345,14.00081890172654],[76.27323850693521,13.99313626795446],[76.27935216262651,13.9789364786084],[76.30176525846345,14.00081890172654]]]},"properties":{"region_id":"village_605805","name":"GHATTIHOSAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

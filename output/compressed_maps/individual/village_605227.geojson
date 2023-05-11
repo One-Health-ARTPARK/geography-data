@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77081264787361,14.67530848005005],[76.73264656339536,14.66834791477407],[76.72905736666881,14.60519056478076],[76.76576079964816,14.60625917133548],[76.77081264787361,14.67530848005005]]]},"properties":{"region_id":"village_605227","name":"KONSAGARA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

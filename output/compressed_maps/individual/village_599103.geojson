@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81948684246265,16.73587431064009],[75.7862473379082,16.73826580081953],[75.78192509489323,16.71324769874568],[75.82125664234482,16.71216942906061],[75.81948684246265,16.73587431064009]]]},"properties":{"region_id":"village_599103","name":"UTNAL","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85399266504096,12.49770906079728],[75.84408103883908,12.47665829136734],[75.87228397531662,12.47120833088678],[75.87063680057321,12.48601780733178],[75.85399266504096,12.49770906079728]]]},"properties":{"region_id":"village_617960","name":"NAKUR SIRANGALA","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

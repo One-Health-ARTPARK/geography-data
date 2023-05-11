@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50220188095368,14.24722998346615],[74.49022898320268,14.24849341980534],[74.48322654304484,14.23276791826638],[74.48846594604458,14.23303602636168],[74.49342504955499,14.2415104977521],[74.50220188095368,14.24722998346615]]]},"properties":{"region_id":"village_603752","name":"KELGIN-IDGUNJI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

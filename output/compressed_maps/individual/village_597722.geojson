@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.39789650371438,15.85087733432293],[74.38253396168668,15.8603557341817],[74.37861409775385,15.88019196680663],[74.3632480039381,15.87509273808731],[74.34344458049328,15.85095892190264],[74.39789650371438,15.85087733432293]]]},"properties":{"region_id":"village_597722","name":"KUDREMANI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

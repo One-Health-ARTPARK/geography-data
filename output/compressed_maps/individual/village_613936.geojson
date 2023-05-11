@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84932917252713,12.78746955455246],[76.82749910202558,12.82746202821986],[76.82249693323229,12.79836083446701],[76.83201553329026,12.78082609210985],[76.84932917252713,12.78746955455246]]]},"properties":{"region_id":"village_613936","name":"H.N.KAVAL","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

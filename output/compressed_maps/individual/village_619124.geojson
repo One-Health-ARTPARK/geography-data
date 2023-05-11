@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53005214363702,12.10151846386754],[76.49706561269818,12.10487179473993],[76.50826065100888,12.08155846089497],[76.53005214363702,12.10151846386754]]]},"properties":{"region_id":"village_619124","name":"KANENUR","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86989119608293,13.63827302478962],[77.85362243263725,13.6249648527282],[77.86311301998015,13.60634344814766],[77.87635094491048,13.60424215094891],[77.87876902336826,13.62710851169688],[77.86989119608293,13.63827302478962]]]},"properties":{"region_id":"village_624034","name":"SADALI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

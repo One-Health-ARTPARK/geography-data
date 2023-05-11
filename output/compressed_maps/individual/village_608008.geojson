@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28124568254673,13.95145053867575],[75.25902501728017,13.94916332482158],[75.25383396516963,13.93361478502165],[75.26423967542597,13.9216735649605],[75.28124568254673,13.95145053867575]]]},"properties":{"region_id":"village_608008","name":"MUGADTHI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

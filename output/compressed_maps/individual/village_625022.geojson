@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55752504584562,13.39024476247799],[77.55246012371678,13.41052337873125],[77.54374536117943,13.40304682295014],[77.54657942127281,13.38984453783317],[77.55752504584562,13.39024476247799]]]},"properties":{"region_id":"village_625022","name":"GEDLAPALYA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

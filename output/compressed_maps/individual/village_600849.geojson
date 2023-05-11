@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37899304062898,16.02386284974668],[77.38342659120069,16.04443269242659],[77.34686917729162,16.03794495588426],[77.37899304062898,16.02386284974668]]]},"properties":{"region_id":"village_600849","name":"GODIHAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86933519500035,17.09812356274547],[76.84404127885993,17.10083457815899],[76.85435284566925,17.06508800503993],[76.86933519500035,17.09812356274547]]]},"properties":{"region_id":"village_620319","name":"NADVINHALLI","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19632477398265,16.34179391021535],[76.1981705813507,16.36905302884033],[76.18561067997474,16.3697526088909],[76.18088487888542,16.34290611255575],[76.19632477398265,16.34179391021535]]]},"properties":{"region_id":"village_599622","name":"ABBIHAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

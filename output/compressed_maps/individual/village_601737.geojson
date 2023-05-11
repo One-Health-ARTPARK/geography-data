@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0541451833137,15.18809125984258],[76.03300882104405,15.18157499812041],[76.03918172679217,15.14374875405652],[76.05603389708462,15.15688730955591],[76.0541451833137,15.18809125984258]]]},"properties":{"region_id":"village_601737","name":"HUNKUNTIAKKAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

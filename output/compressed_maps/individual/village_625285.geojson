@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61180126198373,13.24373422008435],[77.61780916049057,13.25515449550267],[77.60456904396047,13.25867810051157],[77.60343170877361,13.24442711154037],[77.61180126198373,13.24373422008435]]]},"properties":{"region_id":"village_625285","name":"LINGADEERAGOLLAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

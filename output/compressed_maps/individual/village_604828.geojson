@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0667717373912,15.67390181294859],[77.0565535479235,15.68976102053384],[77.00648246104143,15.68776133368749],[77.02711144227904,15.65839486523046],[77.06150788684353,15.66186363494662],[77.0667717373912,15.67390181294859]]]},"properties":{"region_id":"village_604828","name":"AGASANUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

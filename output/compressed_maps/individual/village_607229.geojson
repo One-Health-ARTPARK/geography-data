@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19076537641989,14.20791783703218],[75.19567410062129,14.2267345811581],[75.1528301612219,14.20794863872454],[75.16251035601535,14.19937163941907],[75.19076537641989,14.20791783703218]]]},"properties":{"region_id":"village_607229","name":"LAVIGGERE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

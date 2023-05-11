@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27295038441349,13.956712353262],[76.25202641800426,13.93742028736458],[76.27912172276525,13.92883601780169],[76.27295038441349,13.956712353262]]]},"properties":{"region_id":"village_605907","name":"GOOLIHATTI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

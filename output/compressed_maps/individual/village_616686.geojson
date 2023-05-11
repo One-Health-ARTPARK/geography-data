@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99127271452356,12.65956812707992],[75.97244397330242,12.65858114885533],[75.97511723532777,12.64700052458707],[75.99221968882554,12.64818360052484],[75.99127271452356,12.65956812707992]]]},"properties":{"region_id":"village_616686","name":"HEGGATHUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27269299979196,12.02735283816861],[77.24493767150273,12.03347975466415],[77.26841943461591,11.99233889516471],[77.27269299979196,12.02735283816861]]]},"properties":{"region_id":"village_619874","name":"LOKKANAHALLI","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

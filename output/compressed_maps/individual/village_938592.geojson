@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92011322332618,13.98500139554742],[74.928522527918,13.99543103673848],[74.92726250394531,14.00771404586351],[74.90944729269268,13.99816378870567],[74.92011322332618,13.98500139554742]]]},"properties":{"region_id":"village_938592","name":"KUDUVARI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

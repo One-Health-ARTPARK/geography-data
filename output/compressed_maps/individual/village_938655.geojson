@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13163208241612,13.37040790602485],[77.11034349748431,13.36464205123873],[77.11601694729542,13.3527081394111],[77.13686348778563,13.36176953500923],[77.13163208241612,13.37040790602485]]]},"properties":{"region_id":"village_938655","name":"SATYAMANGALA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

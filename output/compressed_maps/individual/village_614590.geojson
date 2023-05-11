@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08337183556606,12.5860899274826],[77.06897083182899,12.58918717335324],[77.06298263581014,12.58775013192941],[77.06168983476181,12.58012657574471],[77.08363759040172,12.57828631360916],[77.08337183556606,12.5860899274826]]]},"properties":{"region_id":"village_614590","name":"BUDDAGUPPE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1230575745227,15.98740222191591],[76.09246639108336,15.99224872585512],[76.09000801559714,15.98090292903772],[76.116369117204,15.97175400586122],[76.1230575745227,15.98740222191591]]]},"properties":{"region_id":"village_599008","name":"TONDIHAL","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

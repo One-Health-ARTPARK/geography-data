@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05902287726583,12.98716198165973],[76.0479013442216,12.98870529555341],[76.0374650935871,12.97934601069352],[76.04935862563352,12.97602705928521],[76.05902287726583,12.98716198165973]]]},"properties":{"region_id":"village_616015","name":"KANDALI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

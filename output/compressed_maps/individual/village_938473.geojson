@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54127331108523,12.86756617570282],[77.53447348221295,12.87301506550768],[77.52740402463584,12.86793130714173],[77.53479075490057,12.85932101866744],[77.54127331108523,12.86756617570282]]]},"properties":{"region_id":"village_938473","name":"TALAGHATTAPURA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

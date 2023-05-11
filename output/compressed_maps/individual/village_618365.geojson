@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14901067816658,12.25888681810151],[76.1404159124102,12.26844233413905],[76.12286311494714,12.25909380191621],[76.13469030383159,12.24716525714612],[76.14901067816658,12.25888681810151]]]},"properties":{"region_id":"village_618365","name":"KADEMANUGANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8584967315458,17.79706877547922],[76.83792254235576,17.81285094664863],[76.82762800522,17.7809337006171],[76.84589995050028,17.77756616989998],[76.8584967315458,17.79706877547922]]]},"properties":{"region_id":"village_599787","name":"URKI","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

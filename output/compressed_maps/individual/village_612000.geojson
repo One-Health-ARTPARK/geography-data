@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43018136178812,13.34827631500258],[76.41000861865926,13.35098245313629],[76.41442080375406,13.34031273783424],[76.4286134237784,13.33952474902738],[76.43018136178812,13.34827631500258]]]},"properties":{"region_id":"village_612000","name":"PATAREHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

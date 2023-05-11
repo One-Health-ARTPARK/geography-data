@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19676299424151,16.35300333496067],[77.16778746119437,16.36020034582326],[77.16288928158588,16.34478552544492],[77.1920686094196,16.33881340423043],[77.19676299424151,16.35300333496067]]]},"properties":{"region_id":"village_600653","name":"HONNATAGI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

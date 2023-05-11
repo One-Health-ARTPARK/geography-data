@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.748443323743,13.35867275793819],[77.74514262053758,13.35221196017139],[77.755286894271,13.34099830470121],[77.75770898886921,13.3520039536867],[77.748443323743,13.35867275793819]]]},"properties":{"region_id":"village_625318","name":"GOLLAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

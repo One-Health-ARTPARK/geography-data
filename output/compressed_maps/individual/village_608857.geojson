@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75920745414705,13.19856961901119],[74.74417049659185,13.19579424873057],[74.7528829354847,13.16848845544976],[74.76646514278286,13.17626480296309],[74.75920745414705,13.19856961901119]]]},"properties":{"region_id":"village_608857","name":"BADA (CT)","parent":"subdistrict_7067","parent_name":"KAPU"}}
+]}

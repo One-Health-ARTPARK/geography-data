@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62503925741805,12.46290806169334],[76.6049476745727,12.45434490524],[76.61770354643924,12.44259271616353],[76.62503925741805,12.46290806169334]]]},"properties":{"region_id":"village_614152","name":"ARALAKUPPE","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

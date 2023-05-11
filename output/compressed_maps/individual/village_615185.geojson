@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81998403053346,13.19081593902127],[75.81168154011839,13.19112883321283],[75.81277148160328,13.17350452897333],[75.82354981143757,13.17799079939888],[75.81998403053346,13.19081593902127]]]},"properties":{"region_id":"village_615185","name":"CHIKKAMEDUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53587999007304,14.12890937755713],[75.53232177809824,14.113212663626],[75.54587774066445,14.11067770118464],[75.53587999007304,14.12890937755713]]]},"properties":{"region_id":"village_606744","name":"VEERAPURA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

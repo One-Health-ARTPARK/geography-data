@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02719175874786,12.51329476278292],[76.01691362979861,12.51393232083202],[76.02086731606148,12.49542047022],[76.03618995823996,12.50676688119928],[76.02719175874786,12.51329476278292]]]},"properties":{"region_id":"village_618107","name":"AMBALARE","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

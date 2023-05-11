@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19851141568574,12.70730189999068],[77.19370388942073,12.72516281937503],[77.18166052489258,12.7207133267888],[77.19851141568574,12.70730189999068]]]},"properties":{"region_id":"village_626243","name":"YELEHOSAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

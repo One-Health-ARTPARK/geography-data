@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36498492377923,15.15768555495683],[76.41330574307268,15.17416216462578],[76.39226160026894,15.19228800045799],[76.3525220512968,15.19071511256348],[76.36498492377923,15.15768555495683]]]},"properties":{"region_id":"village_604701","name":"DANAPURAM","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8552907064823,14.32298276069789],[74.83971086864426,14.3393876548872],[74.82492331738295,14.32510891184099],[74.83531191630748,14.30963050363521],[74.8552907064823,14.32298276069789]]]},"properties":{"region_id":"village_603705","name":"BEDKANI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

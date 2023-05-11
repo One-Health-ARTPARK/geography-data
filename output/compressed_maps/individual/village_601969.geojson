@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91149691692449,15.78960759020668],[75.8934936773351,15.79405563328093],[75.89167812039884,15.76749018707052],[75.91734187976601,15.76585078471642],[75.91149691692449,15.78960759020668]]]},"properties":{"region_id":"village_601969","name":"LAKKALAKATTI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

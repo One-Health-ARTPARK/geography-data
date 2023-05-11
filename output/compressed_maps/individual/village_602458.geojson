@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9496922493567,15.26673522136709],[74.93484855351451,15.25945564829231],[74.94758141788337,15.22518548850869],[74.97485738881393,15.2428372928698],[74.9496922493567,15.26673522136709]]]},"properties":{"region_id":"village_602458","name":"HULLAMBI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

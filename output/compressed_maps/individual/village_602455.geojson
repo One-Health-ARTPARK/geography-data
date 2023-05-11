@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01498921314943,15.26383723655232],[74.9904751908889,15.27217217975334],[74.98922976818314,15.23606466056067],[75.02258210047633,15.23161074593302],[75.01498921314943,15.26383723655232]]]},"properties":{"region_id":"village_602455","name":"HIREHONNIHALLI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

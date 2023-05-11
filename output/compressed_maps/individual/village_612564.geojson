@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05812981524748,12.94886742203408],[77.06042826753854,12.94190112356546],[77.07755829216148,12.95142264386701],[77.07318774340284,12.95815148998043],[77.06762398988688,12.952288070365],[77.05812981524748,12.94886742203408]]]},"properties":{"region_id":"village_612564","name":"HOSAKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

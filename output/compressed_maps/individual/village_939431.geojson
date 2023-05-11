@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57350908583682,13.02863970050194],[77.56852016360222,13.02396836388689],[77.57324940912564,13.02093312939975],[77.57350908583682,13.02863970050194]]]},"properties":{"region_id":"village_939431","name":"DYAVASANDRA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

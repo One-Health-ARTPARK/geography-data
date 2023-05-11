@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8522692010718,13.18516752052165],[76.85678932179366,13.19580323135203],[76.84527262993018,13.18900861472826],[76.8522692010718,13.18516752052165]]]},"properties":{"region_id":"village_611912","name":"PENDARANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

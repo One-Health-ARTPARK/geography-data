@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99922126693001,17.33805815375084],[75.95163863314056,17.33193161113618],[75.94734662836905,17.30730921964014],[76.0005624365679,17.30037010745873],[75.99922126693001,17.33805815375084]]]},"properties":{"region_id":"village_599212","name":"PADANUR","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

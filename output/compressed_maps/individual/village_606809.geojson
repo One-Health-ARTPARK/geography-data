@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81122461647998,14.28341529703491],[75.79533254025003,14.28542450329095],[75.79325673170302,14.26559547086986],[75.81193452312863,14.26605531603703],[75.81122461647998,14.28341529703491]]]},"properties":{"region_id":"village_606809","name":"NELAHONNE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

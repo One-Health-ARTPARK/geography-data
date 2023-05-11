@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73243791576951,14.5366118846037],[74.72770612249649,14.52407464592985],[74.74971146398643,14.5329288303028],[74.73243791576951,14.5366118846037]]]},"properties":{"region_id":"village_603196","name":"KUKRI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

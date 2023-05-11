@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39743424574243,13.40430593877147],[76.4185681756162,13.40383506084896],[76.41199342995323,13.43078572888764],[76.40066217072415,13.42300556289447],[76.39743424574243,13.40430593877147]]]},"properties":{"region_id":"village_611963","name":"RUDRAPURA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

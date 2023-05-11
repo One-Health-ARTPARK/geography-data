@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47096018899985,17.02308769181832],[76.43775499819677,17.02689269768103],[76.43956721895381,17.00013437379923],[76.46188500339301,16.99208739466285],[76.47096018899985,17.02308769181832]]]},"properties":{"region_id":"village_620742","name":"JERATGI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

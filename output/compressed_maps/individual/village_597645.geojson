@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42059755075434,16.08261651397926],[74.41439197595236,16.07082388650122],[74.42740883084176,16.07239438177863],[74.42059755075434,16.08261651397926]]]},"properties":{"region_id":"village_597645","name":"KHAVANEWADI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

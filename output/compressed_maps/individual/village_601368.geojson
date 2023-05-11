@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93028119886668,15.40031807513575],[75.90261138749256,15.35930724748097],[75.95659238221953,15.35580543684178],[75.93028119886668,15.40031807513575]]]},"properties":{"region_id":"village_601368","name":"BANNIKOPPA","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

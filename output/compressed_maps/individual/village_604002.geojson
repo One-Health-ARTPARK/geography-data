@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33387419010243,14.8809182806639],[75.31264245563041,14.88486169864752],[75.31380975225782,14.86796012258242],[75.33633882589989,14.85971451236017],[75.33387419010243,14.8809182806639]]]},"properties":{"region_id":"village_604002","name":"KUNIMELLIHALLI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

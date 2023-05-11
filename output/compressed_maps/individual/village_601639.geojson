@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49289699987813,15.37461335125652],[76.47996712175674,15.35941775658923],[76.49007143370878,15.3441670802273],[76.51325516940413,15.36132306912196],[76.49289699987813,15.37461335125652]]]},"properties":{"region_id":"village_601639","name":"ANEGUNDI","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

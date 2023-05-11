@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36588671058186,12.76131632959992],[77.36169584196725,12.75476582844631],[77.36742417196373,12.75405886210356],[77.36588671058186,12.76131632959992]]]},"properties":{"region_id":"village_626135","name":"IVAGILU","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36418934291297,11.8760273379699],[76.33794357335702,11.88661833893005],[76.31775226143075,11.85712968064703],[76.33459695662582,11.8329319802414],[76.35007028277799,11.8707638089348],[76.36418934291297,11.8760273379699]]]},"properties":{"region_id":"village_619108","name":"BANKAVADI","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

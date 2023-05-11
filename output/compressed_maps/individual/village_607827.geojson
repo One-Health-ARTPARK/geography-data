@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34065123964054,14.18534128192502],[75.31001265215194,14.1669810428762],[75.29445054030647,14.13399318847041],[75.33490327115851,14.15880505106034],[75.34065123964054,14.18534128192502]]]},"properties":{"region_id":"village_607827","name":"MADRAVALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

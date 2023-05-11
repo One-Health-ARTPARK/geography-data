@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6879031107597,12.52922043373168],[76.68066064421465,12.53707927206097],[76.67297181745175,12.52788907608218],[76.68083070061333,12.52118718477951],[76.6879031107597,12.52922043373168]]]},"properties":{"region_id":"village_614191","name":"BEVINAKUPPE","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

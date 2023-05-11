@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77640576235802,16.65706502466512],[76.75336344538854,16.64455752173293],[76.77767564464519,16.63437380695191],[76.77640576235802,16.65706502466512]]]},"properties":{"region_id":"village_621128","name":"DARIYAPUR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98954510565036,12.74845827561561],[75.9832667956002,12.76092764561504],[75.9757557554199,12.76192029060855],[75.98146566846533,12.74555595342049],[75.98954510565036,12.74845827561561]]]},"properties":{"region_id":"village_616521","name":"CHOWRAGALLU","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

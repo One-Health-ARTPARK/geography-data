@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58889954256293,12.39218355425278],[75.58918526296043,12.4272575066662],[75.5534670710474,12.42930126074175],[75.53515439771961,12.40818250493232],[75.55825809608965,12.3870893638423],[75.58889954256293,12.39218355425278]]]},"properties":{"region_id":"village_617798","name":"KUNDACHERI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63854191869451,12.69310959201865],[76.63730297126752,12.69657795885389],[76.6146174587383,12.70094986610491],[76.61427511125538,12.69488681126192],[76.62417246655623,12.69176842888301],[76.63854191869451,12.69310959201865]]]},"properties":{"region_id":"village_614048","name":"RAMAPURA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

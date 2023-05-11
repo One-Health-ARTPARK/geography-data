@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60405118331342,14.46101330929553],[75.58134458493478,14.4685403966407],[75.57703595338621,14.45709620538254],[75.60405118331342,14.46101330929553]]]},"properties":{"region_id":"village_604573","name":"CHIKKAMAGANUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

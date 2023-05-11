@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43697032811151,12.78273399992972],[76.43658677915398,12.77075879245181],[76.44656438212091,12.77237472412873],[76.44869738817768,12.78105365234935],[76.43697032811151,12.78273399992972]]]},"properties":{"region_id":"village_613402","name":"MADAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

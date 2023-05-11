@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19021344783705,13.46950957724031],[76.170823231506,13.45654321527493],[76.18220068772172,13.43786878365017],[76.19021344783705,13.46950957724031]]]},"properties":{"region_id":"village_615536","name":"THONDIGANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63785393085499,15.78620944496586],[76.61522743339536,15.78760679248526],[76.61791473649811,15.76092603976911],[76.65299014924501,15.76184585324443],[76.63785393085499,15.78620944496586]]]},"properties":{"region_id":"village_601092","name":"GUNJANALLI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

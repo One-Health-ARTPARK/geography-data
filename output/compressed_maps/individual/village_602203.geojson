@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94443904871915,15.62241630620055],[74.93224143561692,15.62263970951275],[74.93288843205914,15.60888985152558],[74.94735386253127,15.61044044616191],[74.94443904871915,15.62241630620055]]]},"properties":{"region_id":"village_602203","name":"JEERAGIWAD","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

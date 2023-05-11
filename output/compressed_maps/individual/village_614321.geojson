@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83475524249792,12.7379589578832],[76.82062796490199,12.74847763456974],[76.82592284755981,12.72721763729074],[76.83475524249792,12.7379589578832]]]},"properties":{"region_id":"village_614321","name":"MUDDANAGHATTA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

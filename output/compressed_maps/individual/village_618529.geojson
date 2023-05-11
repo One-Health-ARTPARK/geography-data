@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25318800565398,12.49362361979049],[76.22815577250381,12.49574957814024],[76.22564137296423,12.48092476943762],[76.24090416022601,12.48479307467231],[76.25318800565398,12.49362361979049]]]},"properties":{"region_id":"village_618529","name":"ANKANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

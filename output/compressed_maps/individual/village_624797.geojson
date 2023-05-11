@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33657280732552,13.26766767850051],[77.3325338824885,13.25576990413666],[77.3045774442457,13.24921225159961],[77.30617362813636,13.23758161396253],[77.33468491870178,13.24363640175078],[77.33657280732552,13.26766767850051]]]},"properties":{"region_id":"village_624797","name":"OBALAPURA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

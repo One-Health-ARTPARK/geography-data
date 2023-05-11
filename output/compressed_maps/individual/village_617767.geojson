@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4477586309786,12.59143989269073],[75.4043843738606,12.57619388411739],[75.40671573455944,12.54923035386781],[75.44528750228251,12.53673846706473],[75.4477586309786,12.59143989269073]]]},"properties":{"region_id":"village_617767","name":"UBARADKA MITTUR","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

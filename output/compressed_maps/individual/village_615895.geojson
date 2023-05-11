@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0979010079826,13.07395940212123],[76.09145204391024,13.07821214512127],[76.09055689071243,13.07120586311469],[76.0979010079826,13.07395940212123]]]},"properties":{"region_id":"village_615895","name":"GOVINDAPURA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

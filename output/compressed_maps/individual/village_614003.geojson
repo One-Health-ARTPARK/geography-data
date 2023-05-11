@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74107412150259,12.77537128818473],[76.72405753190182,12.77674858392297],[76.72323822019257,12.7625055083598],[76.73345443046999,12.75681239779876],[76.74107412150259,12.77537128818473]]]},"properties":{"region_id":"village_614003","name":"KONANUR","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

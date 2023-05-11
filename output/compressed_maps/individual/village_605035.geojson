@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77905763561687,15.04789998334315],[76.76425307476768,15.06274081596636],[76.7616551653688,15.04532782495291],[76.77905763561687,15.04789998334315]]]},"properties":{"region_id":"village_605035","name":"M. GANGALAPURA","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

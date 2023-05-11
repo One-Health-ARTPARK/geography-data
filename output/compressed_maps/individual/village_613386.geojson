@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45537327731353,12.78030755881806],[76.46876186301154,12.79431769196859],[76.4542538428465,12.80290814617347],[76.44889332682452,12.78861249659532],[76.45537327731353,12.78030755881806]]]},"properties":{"region_id":"village_613386","name":"VENKATARAJAPURA","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

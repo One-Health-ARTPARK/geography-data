@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79639499427567,12.57267795554396],[76.78984595030856,12.56440324745058],[76.8012097953136,12.56416694125174],[76.79639499427567,12.57267795554396]]]},"properties":{"region_id":"village_614435","name":"MALLEGERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

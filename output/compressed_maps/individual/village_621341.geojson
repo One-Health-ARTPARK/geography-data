@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39405237117626,16.79913593038632],[77.37773059671937,16.81071810319201],[77.36196967790232,16.80889016607162],[77.36905368149905,16.77536585805376],[77.38912036738839,16.77515787535781],[77.39405237117626,16.79913593038632]]]},"properties":{"region_id":"village_621341","name":"CHINAKHAR","parent":"subdistrict_7094","parent_name":"GURUMITKAL"}}
+]}

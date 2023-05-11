@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64935901518494,17.48881734861677],[76.61013086635816,17.50058507398642],[76.62365675007737,17.46295632192701],[76.64935901518494,17.48881734861677]]]},"properties":{"region_id":"village_620066","name":"LADCHINCHOLI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

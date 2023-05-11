@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3602148250981,12.49270535792196],[77.36719476094662,12.50372688838426],[77.35795431892937,12.51715344900132],[77.34491371821986,12.50900182419942],[77.3602148250981,12.49270535792196]]]},"properties":{"region_id":"village_626510","name":"GERAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

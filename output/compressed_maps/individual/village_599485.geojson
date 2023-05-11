@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9008992022391,16.47104238014343],[75.87536695233818,16.46206197409449],[75.90203387238041,16.44838648566609],[75.9008992022391,16.47104238014343]]]},"properties":{"region_id":"village_599485","name":"BEERALADINNI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

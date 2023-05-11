@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72228494221329,12.99347099006987],[75.69101659724357,12.98151273697095],[75.68893927780466,12.97013596469868],[75.69808573664197,12.96213436644496],[75.72228494221329,12.99347099006987]]]},"properties":{"region_id":"village_614860","name":"JAMBARDI","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

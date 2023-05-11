@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52594802425082,13.35289110314525],[77.51306480688777,13.35260388533929],[77.51506175618516,13.34114493418867],[77.52383079391826,13.34140687524179],[77.52594802425082,13.35289110314525]]]},"properties":{"region_id":"village_625039","name":"TAPASIHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

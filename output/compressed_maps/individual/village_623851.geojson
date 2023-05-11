@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79231617692045,13.76497093061304],[77.7843309965996,13.76567569374513],[77.78208871810185,13.75751994561914],[77.78887166256352,13.75665842289002],[77.79231617692045,13.76497093061304]]]},"properties":{"region_id":"village_623851","name":"MATTEDDALADINNE","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

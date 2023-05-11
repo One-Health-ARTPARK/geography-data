@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78375473919944,15.25987216407187],[74.77193075598923,15.25485035255761],[74.77882679546934,15.23634649401612],[74.78953142449241,15.25280623151344],[74.78375473919944,15.25987216407187]]]},"properties":{"region_id":"village_602818","name":"GUNDOLLI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

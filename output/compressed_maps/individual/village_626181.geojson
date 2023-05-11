@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33911593429544,12.63375684510174],[77.32651645841723,12.63414805077656],[77.32497733711435,12.62586587238281],[77.33454133606972,12.62063947918953],[77.33911593429544,12.63375684510174]]]},"properties":{"region_id":"village_626181","name":"NELAMALE","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

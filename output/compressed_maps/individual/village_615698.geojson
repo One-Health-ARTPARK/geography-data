@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27699157316475,13.32424118865411],[76.27202758486416,13.32597492044902],[76.2655754808077,13.31931152950973],[76.27424939708743,13.31550477691607],[76.27699157316475,13.32424118865411]]]},"properties":{"region_id":"village_615698","name":"KAREHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

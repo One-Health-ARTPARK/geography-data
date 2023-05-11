@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20542641981415,12.44229528786096],[76.19862691318457,12.42416267051779],[76.20648237711177,12.42020694934777],[76.21257874665201,12.43240113700387],[76.20542641981415,12.44229528786096]]]},"properties":{"region_id":"village_618199","name":"KODIHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

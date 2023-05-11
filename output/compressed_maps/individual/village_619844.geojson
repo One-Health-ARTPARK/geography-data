@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13727365646498,12.17079058799644],[77.12224260598553,12.17720203615215],[77.12076621667583,12.15954775538787],[77.13385899976002,12.15482172833747],[77.13727365646498,12.17079058799644]]]},"properties":{"region_id":"village_619844","name":"SIDDAYYANAPURA","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

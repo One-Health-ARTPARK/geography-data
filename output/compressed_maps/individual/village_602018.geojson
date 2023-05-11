@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68310876743863,15.34669659038685],[75.68833843854526,15.37690013536105],[75.66323092691309,15.37319403886702],[75.66323803940291,15.34811042230484],[75.68310876743863,15.34669659038685]]]},"properties":{"region_id":"village_602018","name":"PAPANASHI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

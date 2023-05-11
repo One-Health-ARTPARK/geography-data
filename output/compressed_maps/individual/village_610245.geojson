@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59759587744044,13.34319043555839],[76.59816403728455,13.33520346181457],[76.6159676214224,13.33691962062495],[76.61503537061849,13.34292590653934],[76.59759587744044,13.34319043555839]]]},"properties":{"region_id":"village_610245","name":"GYAREHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

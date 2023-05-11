@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85965381996802,12.88155355236403],[76.86247740290452,12.87346307994279],[76.87142815974954,12.87416818541065],[76.86922321201003,12.88096393916893],[76.85965381996802,12.88155355236403]]]},"properties":{"region_id":"village_613906","name":"MALLEKOPPALU","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

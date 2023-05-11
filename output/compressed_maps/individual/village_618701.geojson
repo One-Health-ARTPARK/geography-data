@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50555563278704,12.39994113255057],[76.49576891240682,12.38336868920932],[76.51250224145925,12.37751923097024],[76.51700416364017,12.39771813166511],[76.50555563278704,12.39994113255057]]]},"properties":{"region_id":"village_618701","name":"GUNGRALCHATRA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

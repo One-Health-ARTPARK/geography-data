@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4120042841587,13.15769087432954],[77.41574996212603,13.17220074130145],[77.40478283183263,13.17448614561001],[77.40001727909608,13.15688482491558],[77.4120042841587,13.15769087432954]]]},"properties":{"region_id":"village_624865","name":"BYRASETTIHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

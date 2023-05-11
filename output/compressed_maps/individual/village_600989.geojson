@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07476685167335,16.06285463086187],[77.04091953677025,16.08403035083318],[77.03711464443154,16.04565214267869],[77.07476685167335,16.06285463086187]]]},"properties":{"region_id":"village_600989","name":"HARVI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47593344776648,13.26648279294995],[77.46650531671192,13.27252775535139],[77.46340516832782,13.26455621707285],[77.47593344776648,13.26648279294995]]]},"properties":{"region_id":"village_625202","name":"BOKIPURA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55470624573762,14.45016261903615],[75.55331758365877,14.46175400939646],[75.53538369191558,14.47128616723756],[75.53758908112977,14.44370037132017],[75.55470624573762,14.45016261903615]]]},"properties":{"region_id":"village_604433","name":"YADAGOD","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

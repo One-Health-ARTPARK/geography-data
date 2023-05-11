@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89448646021053,12.73487828357975],[75.89012031054591,12.73989967680465],[75.88731129021264,12.73794887842091],[75.88895832782904,12.73147455516887],[75.89448646021053,12.73487828357975]]]},"properties":{"region_id":"village_939053","name":"SULUGALALE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

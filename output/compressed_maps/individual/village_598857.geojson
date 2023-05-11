@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83767816178792,16.13997785214002],[75.84264649087115,16.16093196702982],[75.79790499817393,16.16892767711287],[75.79671063414715,16.15645776235222],[75.83767816178792,16.13997785214002]]]},"properties":{"region_id":"village_598857","name":"BENAKATTI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

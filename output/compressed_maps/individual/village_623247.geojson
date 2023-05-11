@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49831160531201,13.66028387250871],[77.48597047546517,13.65793908700021],[77.49110328671934,13.6322252617469],[77.51180606419983,13.64039790731596],[77.49831160531201,13.66028387250871]]]},"properties":{"region_id":"village_623247","name":"H.NAGASANDRA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

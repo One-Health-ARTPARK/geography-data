@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9288613512491,13.1478048873651],[76.92412201032495,13.13661551316443],[76.93533717519239,13.13575944545067],[76.9288613512491,13.1478048873651]]]},"properties":{"region_id":"village_611955","name":"BELLAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52150373468285,16.36746991638344],[74.50863409908413,16.33698688439608],[74.52842070763326,16.33642992378839],[74.52150373468285,16.36746991638344]]]},"properties":{"region_id":"village_597225","name":"BIDRAHALLI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

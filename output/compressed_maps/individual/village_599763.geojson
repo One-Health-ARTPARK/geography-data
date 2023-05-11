@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01838758645496,17.79732120321972],[76.98753731224703,17.80004644279425],[76.99454712690739,17.78031747438488],[77.01838758645496,17.79732120321972]]]},"properties":{"region_id":"village_599763","name":"HANDRIYAL (KALYAN)","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

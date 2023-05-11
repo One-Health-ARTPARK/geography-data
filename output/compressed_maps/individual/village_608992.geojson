@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40656475721748,13.62585245758488],[75.36477914752908,13.60240748808467],[75.39825655099139,13.58045117359084],[75.40656475721748,13.62585245758488]]]},"properties":{"region_id":"village_608992","name":"KELAKULI","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

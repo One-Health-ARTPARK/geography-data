@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90508724503039,14.39050724204976],[75.88416060888923,14.4085257221385],[75.87732562133999,14.38435110755739],[75.90508724503039,14.39050724204976]]]},"properties":{"region_id":"village_606568","name":"BISALERI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

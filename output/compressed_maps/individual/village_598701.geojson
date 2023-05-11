@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61844306363045,15.97325404053959],[75.55872472694472,15.97905895090758],[75.55574932184295,15.94222789706778],[75.60276506903676,15.94400379059945],[75.61844306363045,15.97325404053959]]]},"properties":{"region_id":"village_598701","name":"MUSTIGERI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

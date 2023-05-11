@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54678925905313,13.37869372304908],[76.54559683651918,13.35638505441801],[76.56024969084326,13.3587883706769],[76.55999628391282,13.37284114052475],[76.54678925905313,13.37869372304908]]]},"properties":{"region_id":"village_610240","name":"MAKUVALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

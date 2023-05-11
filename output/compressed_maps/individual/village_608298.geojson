@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22168376404093,13.54059456617585],[75.19449295607969,13.54584678025025],[75.20275529455925,13.50899194717312],[75.22168376404093,13.54059456617585]]]},"properties":{"region_id":"village_608298","name":"MALALUR","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

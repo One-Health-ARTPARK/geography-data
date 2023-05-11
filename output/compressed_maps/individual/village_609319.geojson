@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83054943911922,13.68386936744132],[75.82104001893235,13.68826102049419],[75.82013963248606,13.68152542562877],[75.82914767147525,13.67735090578476],[75.83054943911922,13.68386936744132]]]},"properties":{"region_id":"village_609319","name":"CHANNAPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

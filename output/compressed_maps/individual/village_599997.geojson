@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21342199586452,18.28071937336994],[77.19879040881365,18.27745348382854],[77.20992221177744,18.24581314692567],[77.22915240050712,18.2539814202993],[77.21342199586452,18.28071937336994]]]},"properties":{"region_id":"village_599997","name":"KHATGAON","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

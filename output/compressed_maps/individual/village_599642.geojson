@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20651509504707,16.21834088830991],[76.19576081471983,16.22159896641241],[76.18865270734459,16.17962290796232],[76.19838467194845,16.17741165425414],[76.20651509504707,16.21834088830991]]]},"properties":{"region_id":"village_599642","name":"KAPANUR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86072694799718,17.38620187945571],[75.82848989106405,17.37927384719888],[75.83645070519219,17.35239214996621],[75.85686039122236,17.35417293104372],[75.86072694799718,17.38620187945571]]]},"properties":{"region_id":"village_599181","name":"DHULIKHED (OLD)","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93390272583798,12.62075584722904],[75.92024993487892,12.61605068965155],[75.92733447805996,12.61015380138903],[75.93603906940245,12.61086737177822],[75.93390272583798,12.62075584722904]]]},"properties":{"region_id":"village_923957","name":"SANGAYANAPURA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

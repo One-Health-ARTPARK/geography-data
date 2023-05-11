@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1256252368361,13.21900005842683],[77.11045293300455,13.20678171470505],[77.12860126584371,13.20384169504292],[77.13463987317999,13.21506336129428],[77.1256252368361,13.21900005842683]]]},"properties":{"region_id":"village_611582","name":"HONNUDIKE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

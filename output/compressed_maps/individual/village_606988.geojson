@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97569134041566,14.12324352071822],[75.97723796950524,14.13276193540294],[75.95681144953215,14.12950540693965],[75.95831035940581,14.11804717219858],[75.97569134041566,14.12324352071822]]]},"properties":{"region_id":"village_606988","name":"KONDADAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

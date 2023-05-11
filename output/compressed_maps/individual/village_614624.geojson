@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07981249492467,12.51332779673974],[77.07761458034766,12.51675451385678],[77.06225848767998,12.5131168273884],[77.07180461244401,12.50580807497515],[77.07981249492467,12.51332779673974]]]},"properties":{"region_id":"village_614624","name":"THORE CHAKANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

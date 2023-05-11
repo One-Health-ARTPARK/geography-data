@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25223103843838,17.24826111378984],[77.22611059849947,17.24679036696563],[77.2226409055967,17.22537745931205],[77.25134665427133,17.22582868254645],[77.25223103843838,17.24826111378984]]]},"properties":{"region_id":"village_620475","name":"KUKUNDA","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

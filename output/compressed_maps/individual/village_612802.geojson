@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42971190498518,13.03747778704613],[77.40852053784836,13.02585356152763],[77.43202670846395,13.01770438042744],[77.42971190498518,13.03747778704613]]]},"properties":{"region_id":"village_612802","name":"RAVUTHANAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

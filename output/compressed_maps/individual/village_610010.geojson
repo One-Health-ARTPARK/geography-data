@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67183976141727,13.06697870204456],[75.65442388301963,13.0619623110706],[75.65576327043837,13.04395964305457],[75.67292277612098,13.04515447342552],[75.67183976141727,13.06697870204456]]]},"properties":{"region_id":"village_610010","name":"UGGEHALLI","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

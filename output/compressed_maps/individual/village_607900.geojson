@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13744917295176,14.01251806937392],[75.12615443853568,14.02060271169067],[75.1148149687136,14.00082830283173],[75.13509721330823,14.00233202390966],[75.13744917295176,14.01251806937392]]]},"properties":{"region_id":"village_607900","name":"BANIGA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

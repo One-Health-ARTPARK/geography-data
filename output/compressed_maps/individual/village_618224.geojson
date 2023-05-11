@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05185844314074,12.3904506938613],[76.04466124094813,12.38322598664279],[76.05975221393041,12.38166296515836],[76.0612763535474,12.38886808273984],[76.05185844314074,12.3904506938613]]]},"properties":{"region_id":"village_618224","name":"SENABINAKUPPE","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

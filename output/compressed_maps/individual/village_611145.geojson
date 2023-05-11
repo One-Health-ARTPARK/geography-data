@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36704321688065,13.46965805682342],[77.34838427989904,13.47341435349394],[77.34397924711809,13.4611344823873],[77.36555594195755,13.46208454117437],[77.36704321688065,13.46965805682342]]]},"properties":{"region_id":"village_611145","name":"DODDASAGGERE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

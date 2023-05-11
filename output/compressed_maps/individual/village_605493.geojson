@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3313582996083,14.35930408048951],[76.30949647110207,14.36644108274189],[76.31129034962217,14.34050227716839],[76.3313582996083,14.35930408048951]]]},"properties":{"region_id":"village_605493","name":"MUDDAPURA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04863503664542,16.3953686590251],[76.02946758956007,16.40110727043588],[76.02975011356098,16.38377870432617],[76.05060141195764,16.37662763069802],[76.04863503664542,16.3953686590251]]]},"properties":{"region_id":"village_599581","name":"SIDDAPUR P.TALIKOTI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

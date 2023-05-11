@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78922137103929,13.01246028292901],[77.77745721419588,13.01610031717979],[77.77556954970669,13.00355285295817],[77.78611307300903,13.00268725257098],[77.78922137103929,13.01246028292901]]]},"properties":{"region_id":"village_625712","name":"MALLASANDRA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43331021565324,14.55112805236674],[76.40620713619204,14.5417171569135],[76.42627424532668,14.52067930080759],[76.43331021565324,14.55112805236674]]]},"properties":{"region_id":"village_606511","name":"BANGARAKKANAGUDDA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

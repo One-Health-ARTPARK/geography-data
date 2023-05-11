@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56914099988293,12.97319500034497],[77.56274099955584,12.97562699985274],[77.56027799966688,12.96842699960031],[77.56778099964016,12.96698000019489],[77.56914099988293,12.97319500034497]]]},"properties":{"region_id":"ward_bbmp120","name":"WARD NO.120 (COTTONPETE)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

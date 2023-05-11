@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0023710795531,13.65337602629981],[76.99071874926365,13.6436031035286],[77.00648630150556,13.64131958108218],[77.0023710795531,13.65337602629981]]]},"properties":{"region_id":"village_610479","name":"TALAGUNDA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

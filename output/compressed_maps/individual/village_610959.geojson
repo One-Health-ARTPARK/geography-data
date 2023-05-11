@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31862032491415,13.68725252833445],[77.31163291207056,13.6802137549416],[77.33136487960995,13.67769668933005],[77.33321270647112,13.68392303157563],[77.31862032491415,13.68725252833445]]]},"properties":{"region_id":"village_610959","name":"SANKAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

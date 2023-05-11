@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.48064470602016,15.01432306586144],[74.4752466935213,15.00022213325784],[74.48315138752008,14.98462950702979],[74.49576871792019,14.98742645741361],[74.48064470602016,15.01432306586144]]]},"properties":{"region_id":"village_602739","name":"TULASGERI","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

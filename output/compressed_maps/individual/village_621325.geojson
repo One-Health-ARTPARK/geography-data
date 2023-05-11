@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21836064571913,16.67455560081436],[77.16558351816657,16.65928562895426],[77.17737181792327,16.627393324915],[77.21836064571913,16.67455560081436]]]},"properties":{"region_id":"village_621325","name":"LINGERA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

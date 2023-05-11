@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31192308987804,17.49632051109678],[77.29828201849216,17.503708346953],[77.27164363758109,17.49258155200886],[77.30007094103603,17.4852204368819],[77.31192308987804,17.49632051109678]]]},"properties":{"region_id":"village_620411","name":"KHUDAVANDPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

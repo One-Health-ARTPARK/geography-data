@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00516558259137,17.05554820724798],[76.9792646218215,17.0850188076456],[76.98066327746928,17.04418560940008],[77.00516558259137,17.05554820724798]]]},"properties":{"region_id":"village_938557","name":"WADI","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

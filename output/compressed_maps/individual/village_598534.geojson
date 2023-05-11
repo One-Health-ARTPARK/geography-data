@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65370003118286,16.31118751791227],[75.6318274240584,16.31656494476861],[75.63274767075964,16.27777847446454],[75.64420058354891,16.27554894623182],[75.65370003118286,16.31118751791227]]]},"properties":{"region_id":"village_598534","name":"TUMMARMATTI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

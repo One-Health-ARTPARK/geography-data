@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3881288289353,17.07511636361134],[76.37723145424229,17.05904331483069],[76.39418646694084,17.05477568263707],[76.40114170634952,17.06597287604133],[76.3881288289353,17.07511636361134]]]},"properties":{"region_id":"village_599319","name":"SHIRASGI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.54074729324354,16.33923730882769],[74.54526124745477,16.36022980527577],[74.52938699998813,16.36694069829093],[74.52846917904164,16.33651031339344],[74.54074729324354,16.33923730882769]]]},"properties":{"region_id":"village_597228","name":"WADRAL","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

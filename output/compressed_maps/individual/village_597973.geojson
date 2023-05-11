@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5827700079894,15.44720066865482],[74.56617801133272,15.44848553831937],[74.56788811569092,15.42410676008098],[74.58354011749218,15.42846343938045],[74.5827700079894,15.44720066865482]]]},"properties":{"region_id":"village_597973","name":"TARAWAD","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

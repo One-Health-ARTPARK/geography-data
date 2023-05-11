@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9591478981722,14.34298096529865],[75.95600862772496,14.35879008765106],[75.93025154282701,14.35931472132065],[75.93069949263734,14.3425224864802],[75.9591478981722,14.34298096529865]]]},"properties":{"region_id":"village_606655","name":"KOLKUNTE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

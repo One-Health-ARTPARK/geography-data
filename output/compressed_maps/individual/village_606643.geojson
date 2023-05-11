@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15068105245938,14.37631375413212],[76.14177825123151,14.37824293412855],[76.13861332585387,14.36896335526431],[76.15119650515055,14.36478307715877],[76.15068105245938,14.37631375413212]]]},"properties":{"region_id":"village_606643","name":"LAKKAMUTHENAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

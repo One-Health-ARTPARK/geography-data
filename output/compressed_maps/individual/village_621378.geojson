@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19988586469752,16.51224370852534],[77.23275302715595,16.49366724978686],[77.23376273787528,16.52974950491258],[77.19988586469752,16.51224370852534]]]},"properties":{"region_id":"village_621378","name":"GONDADGI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

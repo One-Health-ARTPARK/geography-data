@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60896147149694,14.87382053845502],[74.6041574334207,14.89773781954692],[74.58972030179574,14.9088335700269],[74.5791357116615,14.88924149523026],[74.60896147149694,14.87382053845502]]]},"properties":{"region_id":"village_602920","name":"VAJRALLI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

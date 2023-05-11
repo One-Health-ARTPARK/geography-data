@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23009289065236,15.92331203747994],[76.22653104803416,15.94089470968469],[76.20035010403416,15.94394449798563],[76.18911314562244,15.91265012295114],[76.23009289065236,15.92331203747994]]]},"properties":{"region_id":"village_601466","name":"GOTAGI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

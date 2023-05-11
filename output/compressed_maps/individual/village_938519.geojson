@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60764926844604,13.10891475513161],[77.60741255247405,13.0981919886243],[77.6345495426116,13.10179058284389],[77.63856486109486,13.11319362680449],[77.60764926844604,13.10891475513161]]]},"properties":{"region_id":"village_938519","name":"KOGILU","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

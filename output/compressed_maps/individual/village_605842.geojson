@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14523742338308,13.82694487448102],[76.12934166385297,13.84422321519897],[76.10391538458278,13.8379497847237],[76.11566986191568,13.81243024259884],[76.14523742338308,13.82694487448102]]]},"properties":{"region_id":"village_605842","name":"BURUDEKATTE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

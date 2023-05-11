@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.63476645241462,15.54623804826113],[74.6200084682498,15.55116413510883],[74.6156652760164,15.53783165761975],[74.62975975689054,15.53275412892905],[74.63476645241462,15.54623804826113]]]},"properties":{"region_id":"village_597990","name":"SAGARE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

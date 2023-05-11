@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98954870215648,16.70773136880937],[76.95892365947263,16.71701861528049],[76.95526557150737,16.6799760138029],[77.01116299451212,16.67155025182767],[76.98954870215648,16.70773136880937]]]},"properties":{"region_id":"village_621163","name":"TADIBIDI","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

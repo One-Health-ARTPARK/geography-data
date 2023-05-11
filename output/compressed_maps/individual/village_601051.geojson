@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9053720041564,15.90597501352474],[76.91329689814452,15.93128385036731],[76.90703000044294,15.92690480214631],[76.90002565666924,15.90780377437522],[76.9053720041564,15.90597501352474]]]},"properties":{"region_id":"village_601051","name":"URALGADDI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31318910243931,14.45022147543724],[75.2881776031268,14.44875109868981],[75.29701814974673,14.43006089187008],[75.31704085620275,14.42949607121674],[75.31318910243931,14.45022147543724]]]},"properties":{"region_id":"village_607697","name":"KORATIGERE","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

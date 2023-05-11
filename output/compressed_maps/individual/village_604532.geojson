@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52919677355217,14.58378351498553],[75.51666636063888,14.60776040105607],[75.50062974802277,14.58756290871836],[75.52919677355217,14.58378351498553]]]},"properties":{"region_id":"village_604532","name":"UKKUND","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

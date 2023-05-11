@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98776046525025,13.23304399201033],[75.98189310839744,13.2042449958634],[76.01297340658232,13.21177259151849],[75.98776046525025,13.23304399201033]]]},"properties":{"region_id":"village_615273","name":"HALEBEEDU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20866361040204,14.29771433824226],[76.19388966354994,14.27421896675685],[76.21934474388017,14.27060048048653],[76.20866361040204,14.29771433824226]]]},"properties":{"region_id":"village_605477","name":"SIRIGERE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

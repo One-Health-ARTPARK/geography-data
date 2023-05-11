@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7905199736124,12.54661121981858],[75.76936800361226,12.55535456697978],[75.75648451820354,12.54127074936504],[75.7640475685395,12.52955519238009],[75.7905199736124,12.54661121981858]]]},"properties":{"region_id":"village_617952","name":"SIRANGALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

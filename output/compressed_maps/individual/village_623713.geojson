@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68943102825017,13.68204569880808],[77.65716252464738,13.67816360504215],[77.6536207904657,13.65848036212265],[77.68025658837298,13.65896266392925],[77.68943102825017,13.68204569880808]]]},"properties":{"region_id":"village_623713","name":"CHADUMANAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

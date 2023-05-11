@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24379243625248,15.86630796284929],[76.22695985477881,15.9084026869598],[76.22357447974298,15.87142814042853],[76.24379243625248,15.86630796284929]]]},"properties":{"region_id":"village_601474","name":"JALIHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

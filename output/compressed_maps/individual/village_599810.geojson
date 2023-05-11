@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73280977911026,17.66552143488546],[76.7079070231593,17.67273847737521],[76.7100013992153,17.6509900926291],[76.73280977911026,17.66552143488546]]]},"properties":{"region_id":"village_599810","name":"CHITKOTA (K)","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

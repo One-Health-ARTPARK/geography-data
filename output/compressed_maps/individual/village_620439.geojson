@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41509180348535,17.39686598409835],[77.4076031221966,17.4042970065558],[77.38893897154676,17.39480229419348],[77.41156177739683,17.37824582749894],[77.41509180348535,17.39686598409835]]]},"properties":{"region_id":"village_620439","name":"PARDARMOTAKPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

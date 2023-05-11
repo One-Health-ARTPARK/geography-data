@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31964107755661,14.56473266424956],[75.29849851332168,14.56889551017532],[75.2975096019873,14.55123606853732],[75.320264025189,14.55110374657196],[75.31964107755661,14.56473266424956]]]},"properties":{"region_id":"village_604360","name":"CHIKKONATI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38563197908964,14.33682100542421],[75.36884359862756,14.33650152446869],[75.35781859253483,14.31414279516029],[75.38552127271728,14.31624546367444],[75.38563197908964,14.33682100542421]]]},"properties":{"region_id":"village_607785","name":"MUGALAGERE","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

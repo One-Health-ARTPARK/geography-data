@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9729150202829,14.01594141892288],[74.959147887413,14.03326191989123],[74.94595000287282,14.01834530626428],[74.95563159034911,14.00063790254785],[74.9729150202829,14.01594141892288]]]},"properties":{"region_id":"village_607307","name":"SEETUR","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

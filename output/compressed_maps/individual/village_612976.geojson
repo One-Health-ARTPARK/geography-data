@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36855641836848,12.96780396493566],[77.35311287682724,12.965980254433],[77.34686633774423,12.93914107173463],[77.36515354069635,12.94033968679394],[77.36855641836848,12.96780396493566]]]},"properties":{"region_id":"village_612976","name":"CHOLANAIKANAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

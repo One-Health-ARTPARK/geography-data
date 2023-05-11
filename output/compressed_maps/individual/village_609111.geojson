@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68029550127476,13.71467870367181],[75.67118750003402,13.7131240992023],[75.67109039260058,13.70603836565368],[75.68234666534309,13.70745247247378],[75.68029550127476,13.71467870367181]]]},"properties":{"region_id":"village_609111","name":"KESARAKOPPA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

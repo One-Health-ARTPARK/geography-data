@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15088630972555,16.35399183337071],[77.14393073400522,16.36664343074183],[77.11925143536476,16.37231103463463],[77.11806019645914,16.35795732702486],[77.15088630972555,16.35399183337071]]]},"properties":{"region_id":"village_600651","name":"HIREKUDALGI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

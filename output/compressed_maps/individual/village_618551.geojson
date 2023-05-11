@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3323225236971,12.58071730547555],[76.3187715594768,12.56646760151973],[76.33442255453673,12.55962690447096],[76.34357395632343,12.56917373274776],[76.3323225236971,12.58071730547555]]]},"properties":{"region_id":"village_618551","name":"KODIYALA","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

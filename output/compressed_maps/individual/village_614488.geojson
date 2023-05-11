@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93428388750021,12.4797625556365],[76.92359447341529,12.46784158726116],[76.9423882116086,12.46697428219916],[76.93428388750021,12.4797625556365]]]},"properties":{"region_id":"village_614488","name":"PURA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.19307111073425,12.89051616821036],[78.18747967138381,12.88178512127905],[78.19639484552187,12.87944421074586],[78.20259182261643,12.88475381132502],[78.19307111073425,12.89051616821036]]]},"properties":{"region_id":"village_622610","name":"VATTIGAL","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

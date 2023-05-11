@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10535003264431,13.53377963998029],[77.08965671342429,13.53301205421315],[77.09658062520735,13.51667411416329],[77.10535003264431,13.53377963998029]]]},"properties":{"region_id":"village_611006","name":"DASALAKUNTE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

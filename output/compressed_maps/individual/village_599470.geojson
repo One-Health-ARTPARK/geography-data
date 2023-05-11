@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88901275064171,16.50288451648774],[75.83473223962437,16.49934382284273],[75.84403644625455,16.47585130323475],[75.90861758386185,16.48122093398815],[75.88901275064171,16.50288451648774]]]},"properties":{"region_id":"village_599470","name":"GOLASANGI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

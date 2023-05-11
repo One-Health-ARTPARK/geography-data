@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48258545264267,13.50786771612572],[76.46836816199033,13.50336884626516],[76.47219894001056,13.49586434994951],[76.48615021563047,13.49552749309327],[76.48258545264267,13.50786771612572]]]},"properties":{"region_id":"village_610054","name":"LINGADAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

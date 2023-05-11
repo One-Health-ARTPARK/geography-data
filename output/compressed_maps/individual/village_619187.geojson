@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66772914078382,12.1787268486107],[76.64368510170253,12.16600270158753],[76.65988646037194,12.15177553239754],[76.67071222456381,12.15433799316456],[76.66772914078382,12.1787268486107]]]},"properties":{"region_id":"village_619187","name":"ECHAGALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

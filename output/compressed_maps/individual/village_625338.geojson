@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8010559166884,13.3160076250583],[77.79506254264109,13.31985204190576],[77.79191083405259,13.3097509915557],[77.79780041544656,13.31136727131874],[77.8010559166884,13.3160076250583]]]},"properties":{"region_id":"village_625338","name":"PURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

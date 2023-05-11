@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87982668081568,13.81049019388063],[77.85693337544602,13.80279370545937],[77.86264865104015,13.78947915229226],[77.88523864576204,13.79247959328654],[77.87982668081568,13.81049019388063]]]},"properties":{"region_id":"village_623863","name":"MAKIREDDYPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

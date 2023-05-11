@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38588692817245,12.48810134083263],[76.3817558063797,12.49275729171487],[76.37118283943637,12.49779534335231],[76.36680734616375,12.48355212617564],[76.37824982592235,12.48179318750277],[76.38588692817245,12.48810134083263]]]},"properties":{"region_id":"village_618634","name":"CHANDAGALHANTHA","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

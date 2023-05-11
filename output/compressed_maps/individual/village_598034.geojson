@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84422898354329,15.98668227034367],[74.77547541888993,15.99111923797088],[74.79192866897176,15.97456776169549],[74.80456389950598,15.94647334652114],[74.83082349484062,15.94855818478675],[74.84422898354329,15.98668227034367]]]},"properties":{"region_id":"village_598034","name":"VANNUR","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

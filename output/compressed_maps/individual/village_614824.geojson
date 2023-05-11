@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0576582821143,12.29248477633466],[77.04404672438673,12.29222291903475],[77.04142455722874,12.2862414512304],[77.05718700929548,12.28223232432696],[77.0576582821143,12.29248477633466]]]},"properties":{"region_id":"village_614824","name":"UDAPE BOOVALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

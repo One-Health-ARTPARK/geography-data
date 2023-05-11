@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.21210080522773,14.89378916979202],[74.17821685911278,14.91196313856482],[74.17737449631684,14.87822369596582],[74.21210080522773,14.89378916979202]]]},"properties":{"region_id":"village_602588","name":"HANKON","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80844756710006,13.6673781801134],[74.78021921742649,13.66006350324217],[74.76632838367908,13.63055460023778],[74.80064708955585,13.63917574278013],[74.80844756710006,13.6673781801134]]]},"properties":{"region_id":"village_608713","name":"KAVRADY","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

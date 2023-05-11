@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46221836546792,17.46627608350388],[76.45395337956128,17.42744981541495],[76.49502557390248,17.43695946721528],[76.46221836546792,17.46627608350388]]]},"properties":{"region_id":"village_620060","name":"ZALKI (K)","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

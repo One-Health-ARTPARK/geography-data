@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0571563885935,12.32038835915379],[76.04640579039497,12.32937745558483],[76.03889000494155,12.31745220080929],[76.04700978378258,12.31312719054886],[76.0571563885935,12.32038835915379]]]},"properties":{"region_id":"village_618264","name":"BEGUR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

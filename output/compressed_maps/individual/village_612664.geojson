@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96346217237067,12.90265706772107],[76.94757818876181,12.90345729463466],[76.94712371941748,12.88976841926669],[76.95633060084275,12.88846591840208],[76.96346217237067,12.90265706772107]]]},"properties":{"region_id":"village_612664","name":"HANDALAGERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

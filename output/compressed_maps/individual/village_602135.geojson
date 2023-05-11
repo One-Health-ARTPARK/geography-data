@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7855215899059,15.00166201598608],[75.75279458425184,14.99897918204186],[75.75376989375835,14.98912802243449],[75.7805305761209,14.99136508895724],[75.7855215899059,15.00166201598608]]]},"properties":{"region_id":"village_602135","name":"TOLALI","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

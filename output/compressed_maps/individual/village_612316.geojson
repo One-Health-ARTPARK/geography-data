@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58980772133232,13.14498451561619],[76.56714475992595,13.13856846731069],[76.58607178771457,13.12815324636632],[76.58980772133232,13.14498451561619]]]},"properties":{"region_id":"village_612316","name":"SADARAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

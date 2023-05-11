@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90258221247305,13.37770029950818],[77.89828867125306,13.39089984800669],[77.88431015631676,13.38347976188262],[77.89324649509688,13.3669958518541],[77.90258221247305,13.37770029950818]]]},"properties":{"region_id":"village_624206","name":"ANUR HUNASENAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

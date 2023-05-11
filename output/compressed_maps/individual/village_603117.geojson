@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66525092496057,14.64757196266956],[74.68152683202672,14.70160285056759],[74.63421392691365,14.68530083398876],[74.66525092496057,14.64757196266956]]]},"properties":{"region_id":"village_603117","name":"KUDRAGOD","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

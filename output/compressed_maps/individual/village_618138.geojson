@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05362532811584,12.41657462145644],[76.03349074316138,12.41859214471239],[76.02970116768631,12.4038349069156],[76.04880107591056,12.40356618925246],[76.05362532811584,12.41657462145644]]]},"properties":{"region_id":"village_618138","name":"P. BASAVANAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

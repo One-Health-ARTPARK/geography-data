@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79155421839165,12.00568897049915],[76.78584841543287,11.98684609378566],[76.79622498046635,11.98903974321269],[76.79155421839165,12.00568897049915]]]},"properties":{"region_id":"village_619298","name":"HARAGANAPUR","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

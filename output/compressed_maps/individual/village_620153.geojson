@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49782117043702,17.21147085671748],[76.5179202434069,17.23446652644249],[76.52488853350972,17.26911159815572],[76.45035342047088,17.27790306624592],[76.44832234966547,17.20891280830745],[76.49782117043702,17.21147085671748]]]},"properties":{"region_id":"village_620153","name":"ATNOOR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

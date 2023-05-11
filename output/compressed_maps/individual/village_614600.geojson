@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08948044393135,12.55290982450745],[77.08415987707076,12.55806833931029],[77.06927927531983,12.55362868693479],[77.06810501433762,12.54455656670895],[77.09012099244022,12.54677092832172],[77.08948044393135,12.55290982450745]]]},"properties":{"region_id":"village_614600","name":"HAGALAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

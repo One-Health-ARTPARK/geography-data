@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3259974854298,13.44359240991354],[77.32592743913114,13.45256474409306],[77.31742375997807,13.45481301166541],[77.31355907671401,13.44216355186163],[77.3259974854298,13.44359240991354]]]},"properties":{"region_id":"village_611152","name":"CHANNAVADERAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

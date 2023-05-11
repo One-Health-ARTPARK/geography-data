@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66256304364963,13.1851025318203],[77.64554145028444,13.19093332270855],[77.65003560173436,13.17296584370581],[77.66256304364963,13.1851025318203]]]},"properties":{"region_id":"village_612899","name":"DODDAJALA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

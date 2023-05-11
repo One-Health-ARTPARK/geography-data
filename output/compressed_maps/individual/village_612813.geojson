@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44806404622155,12.99870006758147],[77.43146339627224,13.00804089656738],[77.42309293238459,12.98681744502276],[77.44187298938763,12.98101638138676],[77.44806404622155,12.99870006758147]]]},"properties":{"region_id":"village_612813","name":"KADABAGERE","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

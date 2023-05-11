@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44730384339285,17.02147907663185],[77.43696223258037,17.03185972268267],[77.42928396631773,17.02375505546491],[77.44301513851671,17.01601533883682],[77.44730384339285,17.02147907663185]]]},"properties":{"region_id":"village_620569","name":"GAJALAPUR","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

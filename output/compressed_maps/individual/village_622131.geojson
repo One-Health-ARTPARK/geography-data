@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95776081049013,13.0517643674905],[77.94681995186123,13.05577995917279],[77.93885042733262,13.04182140084376],[77.9497313085583,13.03892175267332],[77.95776081049013,13.0517643674905]]]},"properties":{"region_id":"village_622131","name":"ABBENAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

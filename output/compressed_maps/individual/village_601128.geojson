@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75573620272749,15.88008922483358],[76.75699790530402,15.89728632853943],[76.74253139635496,15.89909002741294],[76.74048467018685,15.87843784813413],[76.75573620272749,15.88008922483358]]]},"properties":{"region_id":"village_601128","name":"TIPPANHATTI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

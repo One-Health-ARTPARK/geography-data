@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87759150603938,13.72579398619396],[75.86084140388964,13.72935191361465],[75.86531196735639,13.72075851907941],[75.87601284902576,13.71778939934661],[75.87759150603938,13.72579398619396]]]},"properties":{"region_id":"village_609197","name":"SANTEDIBBADAKAVAL","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

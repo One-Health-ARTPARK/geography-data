@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45418665715223,16.68938336356565],[76.4302967579762,16.69852255997063],[76.42545917385598,16.68468503874748],[76.4425072738502,16.66718627432888],[76.45418665715223,16.68938336356565]]]},"properties":{"region_id":"village_620892","name":"CHINCHOLI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

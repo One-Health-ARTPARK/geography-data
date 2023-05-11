@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58540196876501,13.5145880644137],[77.55934097013932,13.49415591667257],[77.58721311081844,13.48205483474557],[77.58540196876501,13.5145880644137]]]},"properties":{"region_id":"village_623414","name":"VARAVANI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

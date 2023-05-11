@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00395818443808,15.59916316945953],[76.97034244559042,15.60286057376572],[76.98205503154729,15.58836752480349],[77.00297249188807,15.5873625743101],[77.00395818443808,15.59916316945953]]]},"properties":{"region_id":"village_604808","name":"KOTEHAL","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

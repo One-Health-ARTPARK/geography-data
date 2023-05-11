@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55744351840562,15.92237031187804],[74.52053902940541,15.91063928633307],[74.523666994246,15.89941616322123],[74.53825550554375,15.90204112215651],[74.55744351840562,15.92237031187804]]]},"properties":{"region_id":"village_938233","name":"YAMANAPURA","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

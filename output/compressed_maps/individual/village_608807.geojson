@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86712691059275,13.45175688193864],[74.86576800181314,13.43495392830985],[74.87132601548446,13.4153120476074],[74.90478516851405,13.41815168994585],[74.90093539666957,13.43310251652873],[74.86712691059275,13.45175688193864]]]},"properties":{"region_id":"village_608807","name":"HOSOOR","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

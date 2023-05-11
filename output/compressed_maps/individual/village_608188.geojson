@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19700575169996,13.74539761870386],[75.19754878841884,13.75146844266563],[75.18486323522089,13.76256143279729],[75.18405555560685,13.7457672436614],[75.19700575169996,13.74539761870386]]]},"properties":{"region_id":"village_608188","name":"KALAMMANA GUDI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

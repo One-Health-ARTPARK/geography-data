@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93185608449052,12.87863379707837],[74.90805593062103,12.8760996928908],[74.91315362101552,12.86152404237312],[74.93727993699814,12.86456860745851],[74.93185608449052,12.87863379707837]]]},"properties":{"region_id":"village_617511","name":"ADYAR (CT)","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

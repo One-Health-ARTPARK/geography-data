@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.258256975223,17.80140190650148],[77.23798969056936,17.813883491932],[77.23475249358864,17.79868545422259],[77.258256975223,17.80140190650148]]]},"properties":{"region_id":"village_600285","name":"ALLURA","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83077350783677,14.04331065048464],[76.76909497155566,14.02876372420122],[76.78478874657966,13.98925752764614],[76.83330810127241,14.0031794734788],[76.83077350783677,14.04331065048464]]]},"properties":{"region_id":"village_606118","name":"VENUKALGUDDA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

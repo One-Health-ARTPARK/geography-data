@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71987787612888,12.52885793089065],[76.70851137040542,12.53239932588508],[76.70458675871565,12.50957576635544],[76.71860704293294,12.51164035719859],[76.71987787612888,12.52885793089065]]]},"properties":{"region_id":"village_614180","name":"CHIKKAMARALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

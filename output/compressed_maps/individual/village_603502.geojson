@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.46986178557412,14.45687460669225],[74.50252994014708,14.44007076794816],[74.50336306608197,14.46190449339152],[74.46986178557412,14.45687460669225]]]},"properties":{"region_id":"village_603502","name":"KALLABBE","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

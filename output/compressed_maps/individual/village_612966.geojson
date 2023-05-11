@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44187298938763,12.98101638138676],[77.42586024503726,12.98462043269808],[77.42168168725567,12.97304401163954],[77.44047489578807,12.96759234181503],[77.44187298938763,12.98101638138676]]]},"properties":{"region_id":"village_612966","name":"CHANNENAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87404110355742,13.30955873260989],[76.85159072253276,13.30895860062608],[76.85458461636253,13.29732451189444],[76.86863983803572,13.29382036531795],[76.87404110355742,13.30955873260989]]]},"properties":{"region_id":"village_611651","name":"PURA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

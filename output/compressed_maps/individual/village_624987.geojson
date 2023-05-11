@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37355059940151,13.40804897006854],[77.38768238106113,13.40379573531918],[77.3944693487465,13.39346061639154],[77.40014141666391,13.4038893567778],[77.38942983376987,13.41158640927765],[77.37355059940151,13.40804897006854]]]},"properties":{"region_id":"village_624987","name":"SASALU","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

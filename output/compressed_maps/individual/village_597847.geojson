@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50385300827384,15.71740593756875],[74.49339748603875,15.71557213070391],[74.50087124219546,15.70799336480325],[74.50385300827384,15.71740593756875]]]},"properties":{"region_id":"village_597847","name":"NITTUR","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

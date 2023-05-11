@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22135667150721,14.04730346802416],[76.2064767469958,14.04886621537779],[76.20214367228942,14.03075767460764],[76.2197003915987,14.0270581014197],[76.22135667150721,14.04730346802416]]]},"properties":{"region_id":"village_605739","name":"KUDINEERAKATTI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

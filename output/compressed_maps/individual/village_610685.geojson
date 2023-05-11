@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22248550361408,13.83832055254394],[77.18878950835425,13.84720162310729],[77.19205851596358,13.81328207234095],[77.22248550361408,13.83832055254394]]]},"properties":{"region_id":"village_610685","name":"MEDIGESHI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

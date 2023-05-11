@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44647481604176,17.83670375915792],[77.43103416145509,17.85379240646219],[77.42297100008226,17.83048684089212],[77.44647481604176,17.83670375915792]]]},"properties":{"region_id":"village_600215","name":"MALIK MIRZAPUR","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52747466324632,18.16024219433686],[77.51046813565655,18.16427088400363],[77.49249224123501,18.13134599884611],[77.50841255714033,18.11300727345956],[77.52747466324632,18.16024219433686]]]},"properties":{"region_id":"village_600101","name":"BORGI (JANWADA)","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34114054124638,17.37472472369252],[77.30605901554506,17.37136330892641],[77.30518826954963,17.35256359946406],[77.33467620484993,17.34607557285167],[77.34114054124638,17.37472472369252]]]},"properties":{"region_id":"village_620447","name":"KUPNOOR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

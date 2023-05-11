@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68097643305711,17.47322742363845],[76.62975317369565,17.45542322547982],[76.6086699203848,17.43035999204638],[76.6333577318275,17.39279072834953],[76.6915692541426,17.4489369008062],[76.68097643305711,17.47322742363845]]]},"properties":{"region_id":"village_620071","name":"KADGANCHI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

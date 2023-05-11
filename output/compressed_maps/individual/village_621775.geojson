@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98580451914916,13.23056764474194],[77.98171142219604,13.21639391851285],[77.99448382501684,13.21706247198483],[77.98580451914916,13.23056764474194]]]},"properties":{"region_id":"village_621775","name":"KAMANDAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

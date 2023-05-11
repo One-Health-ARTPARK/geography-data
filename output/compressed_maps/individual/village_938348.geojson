@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55578500559035,13.04836614090753],[77.54286446123542,13.05042418715814],[77.54790808454214,13.03807234532613],[77.55578500559035,13.04836614090753]]]},"properties":{"region_id":"village_938348","name":"JALAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

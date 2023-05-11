@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82041253990957,14.6326222976377],[74.8113040980545,14.64605833572558],[74.79910601974724,14.64516870282527],[74.80492537509525,14.6222867617443],[74.82041253990957,14.6326222976377]]]},"properties":{"region_id":"village_603147","name":"HUTGAR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

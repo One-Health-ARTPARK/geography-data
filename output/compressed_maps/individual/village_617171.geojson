@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42230437509612,13.04733285566943],[76.40322373577875,13.05245951950864],[76.39932296554882,13.0368410947478],[76.41935872395956,13.03242697710857],[76.42230437509612,13.04733285566943]]]},"properties":{"region_id":"village_617171","name":"OBALAPURA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

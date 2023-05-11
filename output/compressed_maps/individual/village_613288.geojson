@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7754365275978,12.79986512480196],[77.77977326827403,12.81355015933031],[77.7659979552299,12.80914095431664],[77.7754365275978,12.79986512480196]]]},"properties":{"region_id":"village_613288","name":"ARENUR","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

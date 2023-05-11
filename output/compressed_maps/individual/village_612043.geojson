@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58717344794998,13.28573093245117],[76.57560250812703,13.26895718946006],[76.59441554918041,13.2800424510088],[76.58717344794998,13.28573093245117]]]},"properties":{"region_id":"village_612043","name":"MALLENAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.494475895865,13.05732399539461],[76.48993890817272,13.0545396168373],[76.49042763313314,13.04348365525622],[76.49641778770086,13.04390081267962],[76.49416905226772,13.04915975711773],[76.494475895865,13.05732399539461]]]},"properties":{"region_id":"village_617373","name":"HOSUR","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

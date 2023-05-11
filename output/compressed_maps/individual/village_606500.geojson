@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46527718929833,14.55372018944647],[76.48712673938161,14.55397248606386],[76.49046489099213,14.56879479919958],[76.46443314508615,14.57384214548837],[76.46527718929833,14.55372018944647]]]},"properties":{"region_id":"village_606500","name":"YAREHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

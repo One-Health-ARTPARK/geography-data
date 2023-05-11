@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64035724948302,15.85437865498869],[76.61871439386265,15.85483712806958],[76.61429810378932,15.84383137279024],[76.63651427862992,15.83368940915227],[76.64035724948302,15.85437865498869]]]},"properties":{"region_id":"village_601110","name":"HANCHINHAL (U)","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

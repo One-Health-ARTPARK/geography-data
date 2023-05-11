@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02831470601082,13.70145236811942],[76.03405924155433,13.65795134270813],[76.05505296627437,13.67565856457442],[76.03131803575711,13.68849624598195],[76.02831470601082,13.70145236811942]]]},"properties":{"region_id":"village_609404","name":"HIRENALLURU","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

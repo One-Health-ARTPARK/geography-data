@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41868842049723,18.0377766454007],[77.4188708745875,18.06230058683591],[77.40618670204394,18.05222538322385],[77.41868842049723,18.0377766454007]]]},"properties":{"region_id":"village_600122","name":"SANGVI","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

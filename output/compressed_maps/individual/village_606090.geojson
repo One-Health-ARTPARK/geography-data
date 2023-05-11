@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72312870853848,14.07639852259568],[76.74064177557167,14.08504933210077],[76.73822612666604,14.11816722682285],[76.71698347430863,14.11130516291518],[76.72312870853848,14.07639852259568]]]},"properties":{"region_id":"village_606090","name":"SHIDLAIAHNAKOTE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

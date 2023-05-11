@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91855854312367,13.41871936910298],[77.90966614698713,13.42079000642426],[77.90493157230729,13.40485095077891],[77.91891219676188,13.40542934537557],[77.91855854312367,13.41871936910298]]]},"properties":{"region_id":"village_624180","name":"DEVARAMALLUR","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

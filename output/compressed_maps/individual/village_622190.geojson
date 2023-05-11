@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99999941888329,13.01102686211206],[77.98965422536259,13.01358773085486],[77.98277031874197,13.00963736754137],[77.99152248901505,13.00188351900715],[77.99999941888329,13.01102686211206]]]},"properties":{"region_id":"village_622190","name":"SONNAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

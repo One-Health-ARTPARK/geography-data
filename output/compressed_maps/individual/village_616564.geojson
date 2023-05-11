@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04357937290759,12.76823872303349],[76.02447981688566,12.76885403131971],[76.02447832690736,12.76457876227501],[76.03659342276856,12.76119956923696],[76.04357937290759,12.76823872303349]]]},"properties":{"region_id":"village_616564","name":"ADIKE BOMMANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

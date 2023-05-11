@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09909594489913,13.2387675758281],[76.0870967489678,13.23498591573624],[76.09060831411794,13.22279085388788],[76.10129632122575,13.22218379340849],[76.09909594489913,13.2387675758281]]]},"properties":{"region_id":"village_615307","name":"CHATNAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

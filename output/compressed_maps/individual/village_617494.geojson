@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96200185384696,12.91257223540269],[74.95250000436245,12.91703037716857],[74.94981320610015,12.90495001563756],[74.96411936680495,12.90117857612593],[74.96200185384696,12.91257223540269]]]},"properties":{"region_id":"village_617494","name":"MALLUR","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

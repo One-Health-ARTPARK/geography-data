@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02713789548909,15.14403658434909],[75.00890891098157,15.15650292135163],[75.00444404875239,15.13176858301115],[75.02713789548909,15.14403658434909]]]},"properties":{"region_id":"village_602503","name":"DYAVANKONDA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

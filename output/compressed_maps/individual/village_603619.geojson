@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72267170078882,14.36094278628766],[74.72048095957355,14.37212966296303],[74.69879669679062,14.36491810242326],[74.72267170078882,14.36094278628766]]]},"properties":{"region_id":"village_603619","name":"KALKAI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75558134962303,15.57895369681022],[76.75973369954892,15.56591725738567],[76.81266485583474,15.54675624698793],[76.83360252850628,15.58364301137973],[76.75558134962303,15.57895369681022]]]},"properties":{"region_id":"village_601229","name":"SINGAPUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

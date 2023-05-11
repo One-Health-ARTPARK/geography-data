@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89167812039884,15.76749018707052],[75.86963146941002,15.7437564611558],[75.89267344568312,15.73911407037383],[75.89167812039884,15.76749018707052]]]},"properties":{"region_id":"village_601953","name":"BEVINAKATTI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

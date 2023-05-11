@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94823332186311,13.49317954549166],[76.93895291925361,13.49252557051516],[76.93718202776009,13.4806123340695],[76.94679992430439,13.47861325063434],[76.94823332186311,13.49317954549166]]]},"properties":{"region_id":"village_611695","name":"ANUPANAKUNTE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

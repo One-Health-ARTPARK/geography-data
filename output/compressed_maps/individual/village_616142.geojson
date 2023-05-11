@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14582712817227,12.8645764933342],[76.13069488503317,12.86451964754324],[76.12654835303978,12.85188108585621],[76.14595848297945,12.84632490290855],[76.14582712817227,12.8645764933342]]]},"properties":{"region_id":"village_616142","name":"MALLEDEVARAPURA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48401536604656,14.74987223318584],[75.47704780645493,14.75542062068438],[75.4675680493438,14.74978636938824],[75.467653441631,14.74523384530955],[75.48401536604656,14.74987223318584]]]},"properties":{"region_id":"village_604322","name":"SHIVAPUR","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

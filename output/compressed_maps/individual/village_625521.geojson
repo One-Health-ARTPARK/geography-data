@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79848883636014,13.11433851151735],[77.81585683888885,13.13429811110271],[77.8032007984542,13.1426074985762],[77.79848883636014,13.11433851151735]]]},"properties":{"region_id":"village_625521","name":"KAMBLIPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

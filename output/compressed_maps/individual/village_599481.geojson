@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83493684944256,16.41003381565914],[75.83776783998346,16.42345234057077],[75.8299348419561,16.43850208072223],[75.82220113963179,16.41410372166412],[75.83493684944256,16.41003381565914]]]},"properties":{"region_id":"village_599481","name":"AKALWADI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

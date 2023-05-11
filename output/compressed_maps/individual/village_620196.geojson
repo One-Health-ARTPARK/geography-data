@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01593330651303,17.61730496307494],[76.98744107504878,17.62053256455274],[76.97792699023313,17.60086177218908],[77.0013966438621,17.59937161816977],[77.01593330651303,17.61730496307494]]]},"properties":{"region_id":"village_620196","name":"RAJANHAL","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

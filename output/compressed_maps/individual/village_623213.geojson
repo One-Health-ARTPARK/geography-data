@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42699385321569,13.58590648650534],[77.41303628094802,13.58390872508084],[77.41467973964133,13.57008363545944],[77.42682156910976,13.57696948979442],[77.42699385321569,13.58590648650534]]]},"properties":{"region_id":"village_623213","name":"JODIGURRAPPANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

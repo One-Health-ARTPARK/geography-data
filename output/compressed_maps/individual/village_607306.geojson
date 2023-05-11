@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92739095668952,14.07484792156904],[74.8967319405337,14.06243061886568],[74.92640119025396,14.03598163677341],[74.92739095668952,14.07484792156904]]]},"properties":{"region_id":"village_607306","name":"KAGARASU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

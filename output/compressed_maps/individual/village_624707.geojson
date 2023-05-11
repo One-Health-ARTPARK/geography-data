@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23869228069469,13.28418283059027],[77.22230690988557,13.28759966930143],[77.21977935484082,13.27459833270859],[77.24566130205015,13.2751758174702],[77.23869228069469,13.28418283059027]]]},"properties":{"region_id":"village_624707","name":"HALENAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

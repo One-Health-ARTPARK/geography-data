@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4561665824398,12.32429429943831],[76.44080895843949,12.3321653749815],[76.4246396052901,12.32695879146825],[76.42340979693549,12.31501870348088],[76.43956325104678,12.31479034289766],[76.4561665824398,12.32429429943831]]]},"properties":{"region_id":"village_618461","name":"JEENAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

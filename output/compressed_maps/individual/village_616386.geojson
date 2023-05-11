@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97903830250108,12.98255252200088],[75.97682633951224,12.99304809274851],[75.96796460804087,12.98740799459306],[75.97903830250108,12.98255252200088]]]},"properties":{"region_id":"village_616386","name":"HOSAHALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

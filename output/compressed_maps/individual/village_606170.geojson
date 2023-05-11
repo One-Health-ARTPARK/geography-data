@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72111222927637,13.89505534571045],[76.75129653330599,13.90698192075078],[76.74963374345195,13.9162046237723],[76.71077876334759,13.91354507552937],[76.72111222927637,13.89505534571045]]]},"properties":{"region_id":"village_606170","name":"BORANAKUNTE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

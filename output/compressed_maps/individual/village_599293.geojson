@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.221060456557,17.17627439362491],[76.19505904637211,17.18401197711392],[76.16766273315206,17.1500292706502],[76.21204136877877,17.14561670694365],[76.221060456557,17.17627439362491]]]},"properties":{"region_id":"village_599293","name":"KADANI","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

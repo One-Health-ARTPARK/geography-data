@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9007411141945,13.03433706340183],[76.8849632106384,13.03727937329517],[76.88382817562665,13.02558304665421],[76.90042390064256,13.02152222965874],[76.9007411141945,13.03433706340183]]]},"properties":{"region_id":"village_612456","name":"HULIPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

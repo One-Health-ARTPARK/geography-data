@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00931926262197,12.34394488803125],[75.98426760095393,12.34208377085138],[76.00702012345145,12.32739420793382],[76.00931926262197,12.34394488803125]]]},"properties":{"region_id":"village_618146","name":"LINGAPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

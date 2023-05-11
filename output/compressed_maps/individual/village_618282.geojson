@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11976594423079,12.29729897492474],[76.10495047034308,12.28979365492609],[76.1129573657051,12.27764924252696],[76.12541720694588,12.28735909271914],[76.11976594423079,12.29729897492474]]]},"properties":{"region_id":"village_618282","name":"CHOWKUR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

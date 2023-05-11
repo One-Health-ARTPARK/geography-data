@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70049392175557,12.88254552420414],[76.68664041174631,12.88586498261409],[76.68973530780303,12.86857306718188],[76.70049392175557,12.88254552420414]]]},"properties":{"region_id":"village_613869","name":"MAYIGONAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

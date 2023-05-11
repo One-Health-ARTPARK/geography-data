@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42489502258198,12.62782869796754],[76.41919492087021,12.6164092490033],[76.43039078314757,12.61469135252738],[76.42489502258198,12.62782869796754]]]},"properties":{"region_id":"village_613568","name":"KURNENAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

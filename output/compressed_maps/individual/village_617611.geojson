@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16598069879291,13.08576609917462],[75.15003513294873,13.0900280603621],[75.13823336168753,13.06601158601459],[75.16135891914311,13.06315449949374],[75.16598069879291,13.08576609917462]]]},"properties":{"region_id":"village_617611","name":"SAVYA","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

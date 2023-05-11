@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05219541772362,13.76200315009583],[77.04365292055154,13.77080546840434],[77.03667966788827,13.7555848907999],[77.05103201783835,13.75620785898402],[77.05219541772362,13.76200315009583]]]},"properties":{"region_id":"village_610723","name":"SINGIRAVATHANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

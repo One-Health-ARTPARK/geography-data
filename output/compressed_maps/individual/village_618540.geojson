@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30635297589664,12.60940099032533],[76.3092783090498,12.62231157041069],[76.30480362396476,12.62539110666448],[76.29759218158917,12.61009863093738],[76.30635297589664,12.60940099032533]]]},"properties":{"region_id":"village_618540","name":"MUDIGUPPE","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

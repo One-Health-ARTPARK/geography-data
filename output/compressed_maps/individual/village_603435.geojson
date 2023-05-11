@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.39137712588615,14.46539182870785],[74.38886644803499,14.47287855291363],[74.37367860489591,14.47134620997287],[74.37614415021152,14.46059761315527],[74.39137712588615,14.46539182870785]]]},"properties":{"region_id":"village_603435","name":"GUDEANGADI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

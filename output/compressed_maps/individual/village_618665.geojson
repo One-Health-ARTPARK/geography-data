@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39753589776912,12.46231262678321],[76.39333193564104,12.44938742896676],[76.40177304167402,12.44801578078279],[76.40285265474135,12.45763103248413],[76.39753589776912,12.46231262678321]]]},"properties":{"region_id":"village_618665","name":"MUDALAKOPPALU","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

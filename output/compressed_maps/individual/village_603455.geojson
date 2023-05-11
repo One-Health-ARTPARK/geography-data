@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.40459547922886,14.50277463424351],[74.3930345992695,14.51206965278661],[74.3852526136298,14.50639660736654],[74.39339728581523,14.49114722835815],[74.40459547922886,14.50277463424351]]]},"properties":{"region_id":"village_603455","name":"PADUVANI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

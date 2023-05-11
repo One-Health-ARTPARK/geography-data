@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95227188433157,15.54017131922451],[74.93795398864005,15.53680670549088],[74.91452469903898,15.55420002018019],[74.93003348016788,15.51755322073561],[74.96371088783681,15.52601159693859],[74.95227188433157,15.54017131922451]]]},"properties":{"region_id":"village_602221","name":"NEERALAKATTI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

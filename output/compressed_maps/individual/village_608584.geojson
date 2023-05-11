@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74147086627737,13.88461577144816],[75.72909629692565,13.88410795564445],[75.72733893382417,13.87149403441567],[75.74261446460618,13.86977702442634],[75.74147086627737,13.88461577144816]]]},"properties":{"region_id":"village_608584","name":"VEERAPURA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

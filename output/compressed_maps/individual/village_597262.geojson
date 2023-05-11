@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06613158554804,16.86036678233904],[75.051762565065,16.82559471805965],[75.09391338532903,16.84024771651758],[75.06613158554804,16.86036678233904]]]},"properties":{"region_id":"village_597262","name":"KIRANAGI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

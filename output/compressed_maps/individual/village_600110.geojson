@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54827240861658,18.09588933591515],[77.52863217987496,18.10133094085774],[77.53116496598521,18.06626189921724],[77.54630130223384,18.06427577260596],[77.54827240861658,18.09588933591515]]]},"properties":{"region_id":"village_600110","name":"SORHALLI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

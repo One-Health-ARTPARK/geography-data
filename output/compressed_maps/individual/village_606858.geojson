@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70518753675263,14.17161479473138],[75.6802637892938,14.1752999042353],[75.6814523824947,14.15303777389904],[75.70518753675263,14.17161479473138]]]},"properties":{"region_id":"village_606858","name":"RAMPURA","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

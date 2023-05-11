@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41420872251659,12.98896431610027],[77.39782503475585,12.97794095116887],[77.41632831298759,12.94836115645474],[77.41990451849658,12.9685891764031],[77.41420872251659,12.98896431610027]]]},"properties":{"region_id":"village_612967","name":"KURUBARAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

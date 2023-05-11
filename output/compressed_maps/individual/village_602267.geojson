@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93393418910149,15.36867445375415],[74.90468330326259,15.36431144830437],[74.90860985235129,15.34055760694461],[74.92896086860976,15.32984454667258],[74.93393418910149,15.36867445375415]]]},"properties":{"region_id":"village_602267","name":"HALLIGERI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

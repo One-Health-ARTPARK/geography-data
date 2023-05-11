@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00067414859156,13.16342329325853],[77.00602867885118,13.17671564697884],[76.99065009369508,13.17902428810668],[76.99164164291912,13.16423282617499],[77.00067414859156,13.16342329325853]]]},"properties":{"region_id":"village_611510","name":"KANAKUPPE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

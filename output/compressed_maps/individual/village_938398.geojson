@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90373690656205,14.49774413624455],[75.89299171063797,14.49709084996075],[75.89199325562214,14.47165365373832],[75.89899910651187,14.4712415033252],[75.90373690656205,14.49774413624455]]]},"properties":{"region_id":"village_938398","name":"YARAGUNTE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

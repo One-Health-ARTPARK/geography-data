@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.574460066282,18.17448413807524],[77.56337232700095,18.19364427037466],[77.55711508306129,18.17030124853972],[77.574460066282,18.17448413807524]]]},"properties":{"region_id":"village_600093","name":"SUNKNAL","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

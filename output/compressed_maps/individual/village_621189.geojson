@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9726225512187,16.52579480166879],[76.94372950349053,16.52744631950747],[76.94613387596735,16.49830117299091],[76.97394175716406,16.51087220996325],[76.9726225512187,16.52579480166879]]]},"properties":{"region_id":"village_621189","name":"GOUDOOR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

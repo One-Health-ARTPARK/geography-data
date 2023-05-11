@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40576018482514,13.65980921842629],[75.4028779608603,13.68043285571857],[75.39458289812573,13.68590216108977],[75.39243311782947,13.66257331424171],[75.40576018482514,13.65980921842629]]]},"properties":{"region_id":"village_608252","name":"HASANDUR","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

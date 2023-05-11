@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54851963648679,13.61581919747202],[76.54848221003061,13.59588328963777],[76.5708652116372,13.59936668749661],[76.54851963648679,13.61581919747202]]]},"properties":{"region_id":"village_610108","name":"GOWDAGERE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

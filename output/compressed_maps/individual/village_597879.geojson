@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6309799661398,15.6933220195568],[74.5977137171847,15.69645131451937],[74.60131710924864,15.67671504576724],[74.61409269841603,15.67457189850653],[74.62808277304622,15.68208426994268],[74.6309799661398,15.6933220195568]]]},"properties":{"region_id":"village_597879","name":"PARISHWAD","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

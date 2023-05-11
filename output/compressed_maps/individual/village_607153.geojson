@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85860816659208,14.18553751631173],[74.84653822664727,14.17336179114981],[74.85960852726522,14.1636995974959],[74.86959067123071,14.17111499868171],[74.85860816659208,14.18553751631173]]]},"properties":{"region_id":"village_607153","name":"HEBBEBYLU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

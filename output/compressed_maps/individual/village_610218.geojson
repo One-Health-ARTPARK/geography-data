@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5893086718114,13.37737638389051],[76.5728210373294,13.37068422872996],[76.59033744302292,13.35903921144399],[76.5893086718114,13.37737638389051]]]},"properties":{"region_id":"village_610218","name":"CHUNGANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

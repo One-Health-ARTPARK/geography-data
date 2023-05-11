@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66857195760352,15.53804095032313],[76.64133886060286,15.50983457810065],[76.66135992402506,15.49631217259736],[76.66857195760352,15.53804095032313]]]},"properties":{"region_id":"village_601700","name":"KOTTANKAL","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

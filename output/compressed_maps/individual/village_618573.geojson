@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37737013554008,12.57562984761263],[76.36794896032661,12.58782802662909],[76.36160885722559,12.58643969856093],[76.36623026368599,12.57080727565887],[76.37737013554008,12.57562984761263]]]},"properties":{"region_id":"village_618573","name":"MANDIGANAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

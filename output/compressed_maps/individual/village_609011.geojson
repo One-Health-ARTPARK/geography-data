@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37374627242899,13.459150937299],[75.37120150444923,13.47443425549426],[75.35481074060097,13.47071879800072],[75.35404319273819,13.45470053758385],[75.37374627242899,13.459150937299]]]},"properties":{"region_id":"village_609011","name":"MACHIKOPPA","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

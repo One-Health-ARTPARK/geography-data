@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9838331118265,12.41634626729402],[75.97625216617072,12.41924354145115],[75.9750364920536,12.4071031086111],[75.98601887165563,12.40574497585641],[75.9838331118265,12.41634626729402]]]},"properties":{"region_id":"village_618144","name":"KAILASAPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

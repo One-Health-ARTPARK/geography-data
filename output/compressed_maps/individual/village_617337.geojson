@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60233461662226,12.99005456714547],[76.58535547987418,12.99043183809976],[76.5914317372925,12.98070649412537],[76.60119126152433,12.97802563322885],[76.60233461662226,12.99005456714547]]]},"properties":{"region_id":"village_617337","name":"KABBINAKERE","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

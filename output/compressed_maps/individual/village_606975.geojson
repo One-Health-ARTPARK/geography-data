@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92093913200934,14.17770369672765],[75.90582440210233,14.17852890833597],[75.90021643521561,14.16178293286217],[75.92147562597722,14.16845873657526],[75.92093913200934,14.17770369672765]]]},"properties":{"region_id":"village_606975","name":"KASHIPURA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

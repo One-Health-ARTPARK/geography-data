@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23183987114975,15.84350729725562],[76.2255944144074,15.8589431791224],[76.20178781601848,15.85866472439501],[76.19864601350619,15.8459806204521],[76.23183987114975,15.84350729725562]]]},"properties":{"region_id":"village_601483","name":"HESRUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

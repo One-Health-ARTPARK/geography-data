@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45986372622077,12.64654518693542],[76.4571604088121,12.66483605955146],[76.42381350440763,12.66269793362298],[76.42322501325638,12.65146339562794],[76.43479642495889,12.64367101236377],[76.45986372622077,12.64654518693542]]]},"properties":{"region_id":"village_613551","name":"BELLIBETTADAKAVAL","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

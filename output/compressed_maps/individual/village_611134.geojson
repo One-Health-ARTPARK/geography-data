@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33836695879877,13.50160120862441],[77.32360105470944,13.49824746907107],[77.32965789734052,13.48981003971294],[77.34471770073642,13.49039015972193],[77.33836695879877,13.50160120862441]]]},"properties":{"region_id":"village_611134","name":"LANKENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

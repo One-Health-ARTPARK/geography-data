@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78966050683914,11.94124276009103],[76.76570356585766,11.94283212026317],[76.764164087326,11.9171385674893],[76.78802381117004,11.92498409097964],[76.78966050683914,11.94124276009103]]]},"properties":{"region_id":"village_619692","name":"MUDNAKODU","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

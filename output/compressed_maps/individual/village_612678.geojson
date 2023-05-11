@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92724810856616,12.85061744538927],[76.93418072358854,12.86740349689531],[76.91279038187749,12.86184551414833],[76.92724810856616,12.85061744538927]]]},"properties":{"region_id":"village_612678","name":"KANTANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9934259378458,16.29992545912465],[75.98353390070571,16.30065841367708],[75.96832375419768,16.21966504016638],[75.9916809923865,16.27056955491032],[75.9934259378458,16.29992545912465]]]},"properties":{"region_id":"village_598835","name":"SUTAGUNDAR","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

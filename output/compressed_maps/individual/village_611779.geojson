@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83065592367264,13.34848008643795],[76.82127676832965,13.35511188774578],[76.82361418830219,13.33146723779647],[76.83065592367264,13.34848008643795]]]},"properties":{"region_id":"village_611779","name":"SAGARANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

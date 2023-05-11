@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45197821486633,13.34745911045618],[76.43807249889497,13.33328539604107],[76.45117919771282,13.32170530600613],[76.4667447769628,13.32804789609634],[76.46498170705048,13.33684339966868],[76.45197821486633,13.34745911045618]]]},"properties":{"region_id":"village_612008","name":"SARATHAVALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

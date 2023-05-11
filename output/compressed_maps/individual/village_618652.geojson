@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31437136218396,12.41971978425248],[76.30436514723831,12.42245187433891],[76.30082299022814,12.40619897342113],[76.31065005109572,12.40002853344607],[76.31437136218396,12.41971978425248]]]},"properties":{"region_id":"village_618652","name":"MADAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

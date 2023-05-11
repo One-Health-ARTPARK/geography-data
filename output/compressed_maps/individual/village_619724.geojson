@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87442064349436,11.80576134037108],[76.85512135562713,11.81452517747595],[76.84739843636095,11.80012250401753],[76.86656379894208,11.79692491691438],[76.87442064349436,11.80576134037108]]]},"properties":{"region_id":"village_619724","name":"NARASAMANGALA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

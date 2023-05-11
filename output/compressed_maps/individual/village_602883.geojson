@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.63563529715083,15.03219062671639],[74.61684474550694,15.06528858447417],[74.60108981307621,15.04083965749542],[74.63563529715083,15.03219062671639]]]},"properties":{"region_id":"village_602883","name":"NAGARAKHAN","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

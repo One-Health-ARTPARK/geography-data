@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53530182215201,13.21379623986586],[77.52593540702769,13.19694241500625],[77.54456563156096,13.19189916777741],[77.53530182215201,13.21379623986586]]]},"properties":{"region_id":"village_612835","name":"ARAKERE","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.959147887413,14.03326191989123],[74.94306756292539,14.04854470610403],[74.93503862177236,14.02088901057426],[74.959147887413,14.03326191989123]]]},"properties":{"region_id":"village_607308","name":"HEBBASE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

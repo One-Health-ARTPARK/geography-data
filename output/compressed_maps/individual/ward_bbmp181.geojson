@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5596679997249,12.89417999997511],[77.57019800005052,12.9087530002309],[77.55894799966293,12.91360400017939],[77.55541500033999,12.89664900027722],[77.5596679997249,12.89417999997511]]]},"properties":{"region_id":"ward_bbmp181","name":"WARD NO.181 (KUMARA SWAMY LAYOUT)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19369730822402,13.35043174405556],[76.17289290945173,13.34984061926972],[76.18165295723486,13.33179386512249],[76.20348334870582,13.34327717637567],[76.19369730822402,13.35043174405556]]]},"properties":{"region_id":"village_615550","name":"HIRIYUR","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

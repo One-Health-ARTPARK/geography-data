@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89013884204695,13.13331329127718],[75.87436078360761,13.14134283461749],[75.87784257589112,13.12008146231307],[75.89013884204695,13.13331329127718]]]},"properties":{"region_id":"village_615241","name":"HIRIKOLE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

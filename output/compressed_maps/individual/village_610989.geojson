@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3617779211444,13.62195633223216],[77.34691108053154,13.62079914187275],[77.34371148050846,13.60633827007024],[77.36240715992376,13.60573159804164],[77.3617779211444,13.62195633223216]]]},"properties":{"region_id":"village_610989","name":"NAVELADAKU","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

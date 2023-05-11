@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70163593603293,13.68697721837902],[75.69255760073428,13.69685266378371],[75.68620483929352,13.68820257522138],[75.69476686114523,13.68186393231881],[75.70163593603293,13.68697721837902]]]},"properties":{"region_id":"village_609123","name":"HIRIGAPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

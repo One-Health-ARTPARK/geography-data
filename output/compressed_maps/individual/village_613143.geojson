@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6123804950796,12.82422281923719],[77.60433719103267,12.82881844785789],[77.59783886337088,12.82493054080877],[77.60248198931257,12.8167119800661],[77.6123804950796,12.82422281923719]]]},"properties":{"region_id":"village_613143","name":"SAKALAWARA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

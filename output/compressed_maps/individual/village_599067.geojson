@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77824053490329,17.02310663691225],[75.76802365167809,16.99666475791144],[75.80027069439325,16.98376615049802],[75.79604489304585,17.01415471339577],[75.77824053490329,17.02310663691225]]]},"properties":{"region_id":"village_599067","name":"BOMMANALLI","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

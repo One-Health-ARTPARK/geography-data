@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66670429579024,12.86618019075647],[77.67532488951636,12.87257866596945],[77.66577145147322,12.8788419223306],[77.65846405731148,12.87043470486224],[77.66670429579024,12.86618019075647]]]},"properties":{"region_id":"village_938424","name":"NAGANATHAPURA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

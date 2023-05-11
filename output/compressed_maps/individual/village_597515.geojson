@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22278129828544,16.26360078927415],[75.20493502393616,16.27245286469865],[75.17872580116156,16.26373965590766],[75.2185382355178,16.25226046748641],[75.22278129828544,16.26360078927415]]]},"properties":{"region_id":"village_597515","name":"KAMANKATTI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

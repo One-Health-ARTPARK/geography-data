@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40924167456392,13.232772446937],[76.39967852428941,13.24351420980307],[76.38010063772428,13.23370902289445],[76.39976293730612,13.2205256315589],[76.40924167456392,13.232772446937]]]},"properties":{"region_id":"village_612108","name":"GURUGADAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

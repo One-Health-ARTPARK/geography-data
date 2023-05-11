@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95270100776683,13.45764325113006],[74.9373843140648,13.43491488555501],[74.96531541305464,13.4354709148679],[74.95270100776683,13.45764325113006]]]},"properties":{"region_id":"village_608870","name":"KEREBETTU","parent":"subdistrict_7065","parent_name":"HEBRI"}}
+]}

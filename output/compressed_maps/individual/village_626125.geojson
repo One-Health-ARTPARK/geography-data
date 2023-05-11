@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46179060825017,12.80773347352777],[77.44923846772174,12.81873350382214],[77.44376627843944,12.80597867374358],[77.45440737797423,12.79868217959677],[77.46179060825017,12.80773347352777]]]},"properties":{"region_id":"village_626125","name":"DODDAKUNTANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

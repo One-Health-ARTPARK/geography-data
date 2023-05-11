@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75249460338391,14.99909470810212],[75.73320603739828,14.99797633982872],[75.74586218736651,14.98338040403565],[75.75249460338391,14.99909470810212]]]},"properties":{"region_id":"village_602134","name":"CHAVADAL","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

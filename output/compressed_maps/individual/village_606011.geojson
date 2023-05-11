@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39622240678894,13.7871275226922],[76.38446473145534,13.78493531949329],[76.3923743180524,13.77363329877055],[76.39622240678894,13.7871275226922]]]},"properties":{"region_id":"village_606011","name":"THIPPENAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

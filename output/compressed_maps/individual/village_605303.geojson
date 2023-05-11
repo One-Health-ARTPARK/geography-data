@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70333520403032,14.45165751840604],[76.67732111826903,14.45631238084995],[76.67739714203988,14.43603410875186],[76.70907164168679,14.42677840384576],[76.70333520403032,14.45165751840604]]]},"properties":{"region_id":"village_605303","name":"THALAKU","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

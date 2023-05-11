@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46728933814504,13.25149800907291],[77.4545025460161,13.25173800340631],[77.45172361616856,13.23582358057576],[77.46714054077286,13.23940848808299],[77.46728933814504,13.25149800907291]]]},"properties":{"region_id":"village_625215","name":"KADANUR","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

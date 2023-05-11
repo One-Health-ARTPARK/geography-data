@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7101506684062,13.66646784965377],[77.70141579580277,13.6605809811074],[77.71255366869704,13.66019513379369],[77.7101506684062,13.66646784965377]]]},"properties":{"region_id":"village_623721","name":"HALE GUDIBANDA","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

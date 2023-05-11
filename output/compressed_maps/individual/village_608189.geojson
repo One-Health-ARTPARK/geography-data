@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20873815306558,13.75289851192337],[75.19641667444661,13.75519330747387],[75.19817514674999,13.74190444101561],[75.21271853758977,13.74494684982017],[75.20873815306558,13.75289851192337]]]},"properties":{"region_id":"village_608189","name":"ARAGA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

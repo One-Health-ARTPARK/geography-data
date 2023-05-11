@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89445953362876,13.2227225676872],[77.88223890352994,13.22714503479658],[77.87056301226268,13.21695477773251],[77.88610669030307,13.207987883129],[77.89445953362876,13.2227225676872]]]},"properties":{"region_id":"village_625534","name":"ITTASANDRA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

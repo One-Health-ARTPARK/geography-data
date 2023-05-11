@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56779179435493,14.59980862617847],[75.56129274889355,14.58304065091336],[75.56650219098954,14.58210587311464],[75.57103122212823,14.59648144200477],[75.56779179435493,14.59980862617847]]]},"properties":{"region_id":"village_604529","name":"LAXMAPUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

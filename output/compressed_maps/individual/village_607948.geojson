@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28584320091488,14.03201897891085],[75.27687780173432,14.03205674626427],[75.28158113588354,14.01829000620211],[75.29268817409164,14.02403993830172],[75.28584320091488,14.03201897891085]]]},"properties":{"region_id":"village_607948","name":"KENCHANALA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

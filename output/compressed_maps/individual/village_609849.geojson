@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61859062537538,13.24875870630554],[75.59085472947427,13.23587097660875],[75.60426714633452,13.22617712086744],[75.61859062537538,13.24875870630554]]]},"properties":{"region_id":"village_609849","name":"KESAVINAHAKLU","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

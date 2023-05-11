@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74436757849872,12.65921177857621],[75.71112873125816,12.65712022912014],[75.70306895826295,12.6317405257609],[75.73279658294113,12.62764387810747],[75.74436757849872,12.65921177857621]]]},"properties":{"region_id":"village_617919","name":"KOTHANALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

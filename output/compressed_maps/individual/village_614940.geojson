@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8654672251016,13.01601102681325],[75.85012291583946,13.01268048311269],[75.85090925481194,13.00145034069921],[75.8643399841949,13.00453848187556],[75.8654672251016,13.01601102681325]]]},"properties":{"region_id":"village_614940","name":"LAKKUNDA","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

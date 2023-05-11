@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65389860005331,13.24481483044009],[75.60832885681283,13.23550911606428],[75.61866420724606,13.21711638355655],[75.65127317811987,13.2327274457602],[75.65389860005331,13.24481483044009]]]},"properties":{"region_id":"village_609855","name":"HAWALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

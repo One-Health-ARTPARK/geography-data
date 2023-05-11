@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05048507748711,13.25548355498203],[77.03811872734285,13.25464257764984],[77.03824404973956,13.23345680685038],[77.05751475755852,13.23547609830814],[77.05048507748711,13.25548355498203]]]},"properties":{"region_id":"village_611483","name":"DOMMANAKUPPE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

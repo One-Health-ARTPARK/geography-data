@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90383330154185,13.05506216639073],[75.89127284181963,13.0644174597783],[75.88244450122312,13.05255996723015],[75.90383330154185,13.05506216639073]]]},"properties":{"region_id":"village_615435","name":"INTITHOLALU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

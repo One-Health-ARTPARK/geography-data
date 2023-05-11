@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00947466123073,14.43478245181319],[75.98240057294245,14.44341152332944],[75.9853450421921,14.41044993299776],[76.00817788414929,14.40950659117772],[76.00947466123073,14.43478245181319]]]},"properties":{"region_id":"village_606611","name":"HONNUR","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

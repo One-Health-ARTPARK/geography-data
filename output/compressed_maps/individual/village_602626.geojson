@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.19647440340897,14.77278028559244],[74.24080710394081,14.79894296086098],[74.22543641479707,14.81206734435738],[74.19647440340897,14.77278028559244]]]},"properties":{"region_id":"village_602626","name":"TODUR","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

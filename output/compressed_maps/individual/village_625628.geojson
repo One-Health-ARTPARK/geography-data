@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91527630658958,13.06433295814624],[77.90400182088754,13.05827025530967],[77.90548891903347,13.05103757610689],[77.91874204874983,13.05108974383925],[77.91527630658958,13.06433295814624]]]},"properties":{"region_id":"village_625628","name":"ALAGONDAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

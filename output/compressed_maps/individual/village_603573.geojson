@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81922020813492,14.49698464211356],[74.79857121542895,14.49595576908042],[74.80772138131046,14.48554041866016],[74.81922020813492,14.49698464211356]]]},"properties":{"region_id":"village_603573","name":"BANNIGE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

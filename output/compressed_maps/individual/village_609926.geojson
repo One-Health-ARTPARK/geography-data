@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52780315129613,13.16558595372632],[75.5007266829216,13.16456808205168],[75.4869690668256,13.13731775218697],[75.50371915194944,13.11833345850598],[75.52780315129613,13.16558595372632]]]},"properties":{"region_id":"village_609926","name":"BALUR","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

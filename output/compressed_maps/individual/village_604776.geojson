@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94204889662748,15.5784951064378],[76.92987706209104,15.5749018450108],[76.91209709579059,15.57956311113763],[76.91031363497554,15.57004871432408],[76.94158657702332,15.56876722724835],[76.94204889662748,15.5784951064378]]]},"properties":{"region_id":"village_604776","name":"POPPANAHAL","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.51337087361438,15.69286144492547],[74.5000498090503,15.68137260410428],[74.52489794262823,15.68240137928588],[74.51337087361438,15.69286144492547]]]},"properties":{"region_id":"village_597851","name":"ANKALE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

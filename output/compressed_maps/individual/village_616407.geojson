@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02408849898404,13.00162066675349],[76.02305090824797,13.01740758422007],[76.01187792296953,13.01467433080497],[76.01032819948941,13.00110736155875],[76.02408849898404,13.00162066675349]]]},"properties":{"region_id":"village_616407","name":"MUDIGERE","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

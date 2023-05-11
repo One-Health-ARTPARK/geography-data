@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6011178483907,15.31174259303111],[75.56721553399493,15.30396820574876],[75.5850984397207,15.28615994365036],[75.6011178483907,15.31174259303111]]]},"properties":{"region_id":"village_602041","name":"HOSUR","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

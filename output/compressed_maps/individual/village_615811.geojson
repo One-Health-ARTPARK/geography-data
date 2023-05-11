@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34070602815599,13.12604346678805],[76.32874106453473,13.12858876006574],[76.32968607035271,13.11609386275331],[76.3428007870907,13.11873585753931],[76.34070602815599,13.12604346678805]]]},"properties":{"region_id":"village_615811","name":"VADAGARAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55210380513013,13.24527889554477],[77.55167606878129,13.23468886123034],[77.5590106262817,13.2321755856375],[77.56195464242293,13.24316303385543],[77.55210380513013,13.24527889554477]]]},"properties":{"region_id":"village_625130","name":"BISUVANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

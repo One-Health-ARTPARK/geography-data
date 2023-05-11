@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88310003489153,15.56186466662825],[74.8712703082417,15.56190672050056],[74.87456343480054,15.54348799621292],[74.88152816534813,15.55203875778146],[74.88310003489153,15.56186466662825]]]},"properties":{"region_id":"village_602222","name":"KUMMANAYAKANAKOPPA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53607476821695,14.23556000093028],[76.45215327901579,14.24122953220718],[76.46229775981267,14.16201543975373],[76.51117157581751,14.16281762751919],[76.53607476821695,14.23556000093028]]]},"properties":{"region_id":"village_605578","name":"DODDASIDDAVVANAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

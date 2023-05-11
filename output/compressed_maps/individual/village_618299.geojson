@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35704447016612,12.42572110444117],[76.32912955463985,12.42877260663434],[76.32483319517105,12.4125395997046],[76.3561837939224,12.41721822817294],[76.35704447016612,12.42572110444117]]]},"properties":{"region_id":"village_618299","name":"JABAGERE","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

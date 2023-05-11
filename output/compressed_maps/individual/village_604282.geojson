@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38187376049507,14.71612140545567],[75.35827883448532,14.71002952516344],[75.37496149876053,14.69500486261424],[75.38460546592638,14.70235551678491],[75.38187376049507,14.71612140545567]]]},"properties":{"region_id":"village_604282","name":"BANNIHALLI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

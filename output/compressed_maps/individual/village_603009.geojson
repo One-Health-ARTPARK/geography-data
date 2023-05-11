@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95757814182232,15.03111925739813],[74.94369585636571,15.00454940565059],[74.97218234632149,15.01393259513931],[74.95757814182232,15.03111925739813]]]},"properties":{"region_id":"village_603009","name":"UGGINKERI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

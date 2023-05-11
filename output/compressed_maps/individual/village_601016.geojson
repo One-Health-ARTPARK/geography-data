@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27239072930445,15.98744154940067],[77.24486716620581,15.99244122620203],[77.24421867544804,15.95837775329904],[77.26174002885435,15.95742676334945],[77.27239072930445,15.98744154940067]]]},"properties":{"region_id":"village_601016","name":"RAJOLI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

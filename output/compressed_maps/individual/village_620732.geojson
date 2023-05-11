@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63798082851743,17.05388366900785],[76.56846789086798,17.06380495134453],[76.57584271013795,17.01403490129462],[76.63404858404449,17.01142101823743],[76.63798082851743,17.05388366900785]]]},"properties":{"region_id":"village_620732","name":"NELOGI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

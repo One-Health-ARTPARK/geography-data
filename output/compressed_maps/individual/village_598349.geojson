@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18962705755192,16.06142886048235],[75.16950299647243,16.02215667931166],[75.18606947358136,15.98361570126014],[75.21646969516468,15.99519829876132],[75.21387239108968,16.02762713649757],[75.18962705755192,16.06142886048235]]]},"properties":{"region_id":"village_598349","name":"GODACHI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

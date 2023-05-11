@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83234334540067,12.1677641353197],[75.82158543061949,12.16564210264927],[75.81787901549556,12.15226458770361],[75.82304098917923,12.14022195824558],[75.8389765708974,12.14950079076389],[75.83234334540067,12.1677641353197]]]},"properties":{"region_id":"village_618014","name":"NANGALA","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

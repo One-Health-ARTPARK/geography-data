@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17152070428838,13.42894838360988],[77.15567747595877,13.42559016887131],[77.14924994459955,13.41505942581452],[77.15866401334065,13.40016807060261],[77.16921326534953,13.41138496831523],[77.17152070428838,13.42894838360988]]]},"properties":{"region_id":"village_611365","name":"CHINIGA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

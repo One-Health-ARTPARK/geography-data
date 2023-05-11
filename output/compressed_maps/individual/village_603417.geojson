@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.34396652483663,14.57340279318288],[74.3390443588636,14.56563167952918],[74.34940208247902,14.56282230949145],[74.34835789037467,14.57242305078474],[74.34396652483663,14.57340279318288]]]},"properties":{"region_id":"village_603417","name":"GONEHALLI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

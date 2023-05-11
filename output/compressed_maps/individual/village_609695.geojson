@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8068272070411,13.45509046637642],[75.78353635260241,13.45255652168893],[75.79863536441121,13.44199871856957],[75.8068272070411,13.45509046637642]]]},"properties":{"region_id":"village_609695","name":"GALIPOOJE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97109522729114,12.08337345236883],[76.94697539722968,12.09284716592395],[76.93948210688545,12.0742563275079],[76.97127477455814,12.07038098571254],[76.97109522729114,12.08337345236883]]]},"properties":{"region_id":"village_619609","name":"KAMARAVADI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40207282267995,12.83259588790501],[77.40479727988091,12.85802314634715],[77.36968561127647,12.84891968917312],[77.36951730248794,12.83581420021739],[77.40207282267995,12.83259588790501]]]},"properties":{"region_id":"village_626101","name":"BANNIKUPPE","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

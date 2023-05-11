@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18859573594894,17.0174486084194],[76.16313103569132,16.99267416766356],[76.17881077094694,16.98006671328448],[76.2085159608986,16.99104317288447],[76.18859573594894,17.0174486084194]]]},"properties":{"region_id":"village_599341","name":"HIKKANGUTTI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

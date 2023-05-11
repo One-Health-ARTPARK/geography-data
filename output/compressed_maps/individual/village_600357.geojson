@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34747749729006,16.08529582454962],[76.33277138714047,16.09626462666511],[76.32327113981606,16.06318498395835],[76.35220322495441,16.06025836015752],[76.34747749729006,16.08529582454962]]]},"properties":{"region_id":"village_600357","name":"BOMMANHAL","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

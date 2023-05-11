@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77278516730941,17.58396651816494],[76.75038541966681,17.60144351179236],[76.73263936644675,17.57872787558013],[76.76039628846279,17.5702298258671],[76.77278516730941,17.58396651816494]]]},"properties":{"region_id":"village_619994","name":"KAMALANAGAR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

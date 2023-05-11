@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04628530522369,13.75958867010378],[76.04653059004437,13.77878034169107],[76.03731340576442,13.77905657677912],[76.03761123630082,13.76236791589963],[76.04628530522369,13.75958867010378]]]},"properties":{"region_id":"village_609279","name":"ASUNDE","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85465156122251,14.01319780952727],[74.82093354900647,14.03373465368559],[74.80003634756373,14.01939220373687],[74.83144715746741,13.9735809092739],[74.85465156122251,14.01319780952727]]]},"properties":{"region_id":"village_607351","name":"KUDARURU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

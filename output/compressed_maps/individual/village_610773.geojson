@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09989492345034,13.6522659700154],[77.09940147763587,13.65615445578458],[77.0927257875688,13.65837767041883],[77.09262485521712,13.65130808425103],[77.09989492345034,13.6522659700154]]]},"properties":{"region_id":"village_610773","name":"BANAGARAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

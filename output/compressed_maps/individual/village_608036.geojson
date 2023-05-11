@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06835724076986,13.80532696811236],[75.0430603139202,13.80232410106167],[75.03811101924603,13.76995065730797],[75.04824622836294,13.75426048665256],[75.06835724076986,13.80532696811236]]]},"properties":{"region_id":"village_608036","name":"ANADAGADODURU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

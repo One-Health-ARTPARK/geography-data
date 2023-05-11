@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35125380981457,14.88563645048662],[75.33342216728292,14.87049625265332],[75.35287932701593,14.8623214812489],[75.35125380981457,14.88563645048662]]]},"properties":{"region_id":"village_604003","name":"MANNANGI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

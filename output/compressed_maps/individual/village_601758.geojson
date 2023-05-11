@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27021321818044,15.36207872254567],[76.24354162449629,15.36873943257236],[76.23172512112984,15.34677771556855],[76.24435838436695,15.33764384744606],[76.27021321818044,15.36207872254567]]]},"properties":{"region_id":"village_601758","name":"GINIGERA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

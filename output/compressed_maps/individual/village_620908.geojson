@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62929399846017,16.61549245523039],[76.61904707260129,16.61959834290549],[76.61367506173278,16.60420652355086],[76.63009067877665,16.60456582117594],[76.62929399846017,16.61549245523039]]]},"properties":{"region_id":"village_620908","name":"JAINAPUR","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

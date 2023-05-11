@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55325617768885,12.29342119103475],[76.55233168667482,12.30072877161387],[76.537265910547,12.29893888333168],[76.5422785204986,12.28952055867869],[76.55325617768885,12.29342119103475]]]},"properties":{"region_id":"village_618715","name":"JETTIHUNDI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

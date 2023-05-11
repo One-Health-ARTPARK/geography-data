@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5432981435681,13.29821446361797],[77.53879375530242,13.29748460334805],[77.53819403207564,13.29126546635404],[77.54382239286012,13.29451040228323],[77.5432981435681,13.29821446361797]]]},"properties":{"region_id":"village_939731","name":"KASABA DODDABALLAPUR","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

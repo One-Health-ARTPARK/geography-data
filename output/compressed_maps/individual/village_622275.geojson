@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92436649617586,12.85075128239497],[77.91767726125133,12.83834809289815],[77.94114664496675,12.82322734477391],[77.94068142865389,12.84555801532804],[77.92436649617586,12.85075128239497]]]},"properties":{"region_id":"village_622275","name":"BANTAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.03044787198124,13.3051375403073],[78.01915849841633,13.30568007542145],[78.01854633182715,13.2995308448657],[78.0302609235269,13.2959796400254],[78.03044787198124,13.3051375403073]]]},"properties":{"region_id":"village_624630","name":"MADARAKALLU","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22626815920664,13.5995250030273],[77.20139325291449,13.59717718626892],[77.19751839404972,13.57733403391888],[77.229190650415,13.57915454909195],[77.22626815920664,13.5995250030273]]]},"properties":{"region_id":"village_611035","name":"CHANNARAYANADURGA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

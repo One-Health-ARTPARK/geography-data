@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9707388051568,13.59332765687638],[75.9812226274326,13.60059029866364],[75.98129134986483,13.61465011266081],[75.96172905718691,13.60964033436569],[75.9707388051568,13.59332765687638]]]},"properties":{"region_id":"village_609371","name":"BIRUR (RURAL)","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

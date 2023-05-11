@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09533842004113,12.32647343050789],[76.08662613980052,12.32677169094407],[76.08300168537775,12.31708006916995],[76.09668242799172,12.31416926111721],[76.09533842004113,12.32647343050789]]]},"properties":{"region_id":"village_618270","name":"ANKANAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

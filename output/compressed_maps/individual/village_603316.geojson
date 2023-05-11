@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02305685863078,14.56176150407411],[75.00756347196467,14.55936663959253],[75.01688541407117,14.54737179299879],[75.02305685863078,14.56176150407411]]]},"properties":{"region_id":"village_603316","name":"KADGOD","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01405288909976,17.14606758989153],[77.00044006321762,17.16722507230178],[76.98045100672164,17.16104953133184],[76.98684810976096,17.14111624546345],[77.01405288909976,17.14606758989153]]]},"properties":{"region_id":"village_620664","name":"JEEVANGI","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

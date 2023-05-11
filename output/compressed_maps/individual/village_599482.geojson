@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85029740255666,16.43002714983034],[75.83532960953069,16.43705506677309],[75.83657455397864,16.40506847854773],[75.8495600844815,16.41160468687536],[75.85029740255666,16.43002714983034]]]},"properties":{"region_id":"village_599482","name":"SEEKALWADI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43220679828673,12.06551913938227],[76.43560803966828,12.08378841959599],[76.42341924682451,12.08428150877271],[76.4159231937025,12.07275305397046],[76.43220679828673,12.06551913938227]]]},"properties":{"region_id":"village_618971","name":"ADAHALLI","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

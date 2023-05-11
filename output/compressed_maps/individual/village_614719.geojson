@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15751786690464,12.44822705276803],[77.15106852177676,12.46367016802895],[77.1321933621959,12.45684662930739],[77.1397754888787,12.43627009623681],[77.15232735782557,12.43875347192022],[77.15751786690464,12.44822705276803]]]},"properties":{"region_id":"village_614719","name":"HUSKUR","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

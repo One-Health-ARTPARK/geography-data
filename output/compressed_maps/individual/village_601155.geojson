@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83538072360506,15.89365319496604],[76.81248914966295,15.89400621905524],[76.80769094081559,15.85881099368414],[76.82785325988256,15.85699053479662],[76.83538072360506,15.89365319496604]]]},"properties":{"region_id":"village_601155","name":"JAWALGERA","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

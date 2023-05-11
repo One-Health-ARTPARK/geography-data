@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71673835318227,16.73993354165881],[76.6997372411014,16.73943352616368],[76.68055159542254,16.71491026421101],[76.71434903742332,16.72190371711887],[76.71673835318227,16.73993354165881]]]},"properties":{"region_id":"village_621083","name":"RABBANHALLI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

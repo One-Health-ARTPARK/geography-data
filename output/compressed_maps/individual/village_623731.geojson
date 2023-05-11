@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76556955053506,13.71651362914248],[77.75316504691426,13.70151251958688],[77.77649538676786,13.6972697247511],[77.77841370767871,13.70660924697172],[77.76556955053506,13.71651362914248]]]},"properties":{"region_id":"village_623731","name":"DHUMAKUNTAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

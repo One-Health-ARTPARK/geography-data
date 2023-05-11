@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59553230854317,13.52289145603596],[76.58599756327975,13.53909765778318],[76.57176658006249,13.52609317056256],[76.59553230854317,13.52289145603596]]]},"properties":{"region_id":"village_610129","name":"BYRAPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

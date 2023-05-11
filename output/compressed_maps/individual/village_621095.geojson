@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66395222667414,16.67927050187769],[76.63879805642905,16.67713692298586],[76.64485089083772,16.65481868716414],[76.66629095417727,16.65586604858967],[76.66395222667414,16.67927050187769]]]},"properties":{"region_id":"village_621095","name":"BUDNOOR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

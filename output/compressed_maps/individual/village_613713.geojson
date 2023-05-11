@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72429224423624,12.97754114810256],[76.71253212487284,12.97926188232675],[76.70711706911592,12.97264091212696],[76.71531896453884,12.96355756300203],[76.72429224423624,12.97754114810256]]]},"properties":{"region_id":"village_613713","name":"AGACHAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

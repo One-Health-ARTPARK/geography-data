@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.922572856299,12.63808402835767],[75.91288773625048,12.63994458554415],[75.91108591446188,12.62987107266784],[75.92542111356626,12.62684236506954],[75.922572856299,12.63808402835767]]]},"properties":{"region_id":"village_617907","name":"DODDAKANAGALU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

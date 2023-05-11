@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78274431758601,13.32338049173818],[77.78142483372496,13.33276827632069],[77.77211284375089,13.32784255565326],[77.77600816106882,13.3194573495122],[77.78274431758601,13.32338049173818]]]},"properties":{"region_id":"village_625327","name":"GUDLA MUDDENAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

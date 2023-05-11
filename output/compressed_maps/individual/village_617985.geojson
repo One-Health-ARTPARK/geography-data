@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94548510539958,12.45604489039881],[75.94658409932325,12.44956213196738],[75.9589904497156,12.45193989837388],[75.95225651319397,12.45959577365422],[75.94548510539958,12.45604489039881]]]},"properties":{"region_id":"village_617985","name":"BAICHANALLI","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

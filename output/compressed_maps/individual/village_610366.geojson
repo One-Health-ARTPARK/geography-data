@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89555300708916,13.77633992301616],[76.86936984252428,13.75782875115017],[76.90004331695746,13.74469009646912],[76.89555300708916,13.77633992301616]]]},"properties":{"region_id":"village_610366","name":"KALLUKOTE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

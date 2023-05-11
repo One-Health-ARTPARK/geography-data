@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31131418250516,14.97240789903948],[75.29227805460447,14.97490552313319],[75.29447342567148,14.9564320696768],[75.3066004834961,14.94680996607685],[75.31131418250516,14.97240789903948]]]},"properties":{"region_id":"village_603985","name":"TEGGIHALLI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

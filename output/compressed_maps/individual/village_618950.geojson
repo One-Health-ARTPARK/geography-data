@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40920148476243,12.12123517483296],[76.40514077813442,12.13015295436911],[76.39219030576888,12.13444023964844],[76.39608376157138,12.11628522460362],[76.40920148476243,12.12123517483296]]]},"properties":{"region_id":"village_618950","name":"CHOOTNAHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

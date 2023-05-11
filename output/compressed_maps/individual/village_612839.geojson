@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48914254676353,13.19236336646543],[77.47811170783994,13.19488548925002],[77.47871415102543,13.18376881600468],[77.48914254676353,13.19236336646543]]]},"properties":{"region_id":"village_612839","name":"SEERESANDRA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

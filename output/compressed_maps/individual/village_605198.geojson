@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70889009611832,14.75573979836067],[76.69063299856296,14.76449254940417],[76.67575044559622,14.7522594987621],[76.70889009611832,14.75573979836067]]]},"properties":{"region_id":"village_605198","name":"BOMMALINGANAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

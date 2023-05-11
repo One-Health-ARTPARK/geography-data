@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88866768695488,15.73800969961492],[74.86465467487439,15.74663404429177],[74.87125231257583,15.72012876993359],[74.88866768695488,15.73800969961492]]]},"properties":{"region_id":"village_598135","name":"KENGANOOR","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

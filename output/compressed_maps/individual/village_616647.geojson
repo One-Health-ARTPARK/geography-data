@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11567934785754,12.68444926203342],[76.09791225061474,12.68976945672519],[76.09917909257331,12.67234984776915],[76.11567934785754,12.68444926203342]]]},"properties":{"region_id":"village_616647","name":"KORATIKERE","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

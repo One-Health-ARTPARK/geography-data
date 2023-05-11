@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9652773313049,15.85947389340457],[75.9441537178003,15.86634993048466],[75.9471267688237,15.85456154561598],[75.9652773313049,15.85947389340457]]]},"properties":{"region_id":"village_601393","name":"PARAMANHATTI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

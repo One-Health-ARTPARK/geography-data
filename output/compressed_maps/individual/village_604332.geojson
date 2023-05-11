@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5475879218934,14.70566575623938],[75.52012243906157,14.70337034003884],[75.51545259332187,14.68406900852704],[75.54424041003129,14.68892709748599],[75.5475879218934,14.70566575623938]]]},"properties":{"region_id":"village_604332","name":"CHATTRA","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

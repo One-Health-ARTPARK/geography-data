@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61006781564328,12.8091683822047],[77.60159081086515,12.81062244000751],[77.6017340941971,12.79929278338759],[77.60883708436988,12.79862364195318],[77.61006781564328,12.8091683822047]]]},"properties":{"region_id":"village_613141","name":"NALLASANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

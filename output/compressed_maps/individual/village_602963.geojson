@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84064538543673,14.85812690809697],[74.8218612505632,14.86101489468862],[74.82364861788807,14.83196698245463],[74.84029701424576,14.82858298007752],[74.84064538543673,14.85812690809697]]]},"properties":{"region_id":"village_602963","name":"HASANAGI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

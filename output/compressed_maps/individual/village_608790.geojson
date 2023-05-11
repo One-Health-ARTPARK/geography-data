@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77216338083755,13.43736356672092],[74.7535457825788,13.454761686081],[74.74923647776053,13.44420038431467],[74.77216338083755,13.43736356672092]]]},"properties":{"region_id":"village_608790","name":"MATPADY","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

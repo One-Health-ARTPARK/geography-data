@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84627380331061,13.27606394005668],[75.8553244088032,13.25856867813098],[75.8930458820017,13.26435803133872],[75.87030905409978,13.27846448579856],[75.84627380331061,13.27606394005668]]]},"properties":{"region_id":"village_609891","name":"NAGARAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

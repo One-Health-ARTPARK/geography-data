@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44545826215348,16.58000003608131],[76.418784337561,16.5834900836068],[76.42250177962968,16.56807463033831],[76.44545826215348,16.58000003608131]]]},"properties":{"region_id":"village_620913","name":"AMLIHAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

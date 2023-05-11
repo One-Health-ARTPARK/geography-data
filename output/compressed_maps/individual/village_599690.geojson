@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33056182883523,16.57089641602935],[76.3193106140743,16.57042758212391],[76.31884415723,16.54631124174162],[76.33002783487511,16.55082940454285],[76.33056182883523,16.57089641602935]]]},"properties":{"region_id":"village_599690","name":"KYATANAL","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

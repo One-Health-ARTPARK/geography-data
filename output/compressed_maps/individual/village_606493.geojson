@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34726583502577,14.54955002613599],[76.31455422501732,14.52714808672547],[76.31970262039488,14.50123815396475],[76.36134670838422,14.50999633108426],[76.34726583502577,14.54955002613599]]]},"properties":{"region_id":"village_606493","name":"JAGALUR RURAL","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

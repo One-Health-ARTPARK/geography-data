@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9122303298871,14.38187213471836],[75.9049733015125,14.38861588999258],[75.8997377330327,14.37502307034445],[75.91338137278542,14.37136782791947],[75.9122303298871,14.38187213471836]]]},"properties":{"region_id":"village_606570","name":"JAVALAGATTA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

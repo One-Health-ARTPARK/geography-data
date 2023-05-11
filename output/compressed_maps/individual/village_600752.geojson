@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46630320023235,16.28451305121569],[77.47277925551668,16.30287444228378],[77.45728935940419,16.30947888232611],[77.45683142110296,16.29103526936563],[77.46630320023235,16.28451305121569]]]},"properties":{"region_id":"village_600752","name":"RALDODDI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33379720791788,14.9139604548381],[75.32922600477069,14.93062286039997],[75.30873352045998,14.92620197844682],[75.32228593683878,14.91245158757123],[75.33379720791788,14.9139604548381]]]},"properties":{"region_id":"village_603992","name":"CHALLAL","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

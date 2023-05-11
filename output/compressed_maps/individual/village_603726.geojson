@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.49546806217404,14.42918286230171],[74.47711242048399,14.4226450026999],[74.47981295596432,14.40134832426011],[74.49546806217404,14.42918286230171]]]},"properties":{"region_id":"village_603726","name":"CHANDAVAR","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

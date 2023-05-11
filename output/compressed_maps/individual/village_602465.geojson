@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94451924194259,15.29286233802821],[74.94542086271868,15.30873711176962],[74.90076859355744,15.29226787428824],[74.9065871675342,15.27823171604385],[74.94451924194259,15.29286233802821]]]},"properties":{"region_id":"village_602465","name":"KUDALGI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

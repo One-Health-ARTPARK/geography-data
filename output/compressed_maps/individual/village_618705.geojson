@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53961770047752,12.37060338168774],[76.5174319176319,12.37404664348142],[76.51470648279067,12.35824745558948],[76.53682992893852,12.36040960932752],[76.53961770047752,12.37060338168774]]]},"properties":{"region_id":"village_618705","name":"KARAKANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

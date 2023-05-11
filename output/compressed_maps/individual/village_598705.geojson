@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53442871833431,15.93574844366248],[75.51568028126029,15.93457826110187],[75.51272918417355,15.9270105414285],[75.53293190078006,15.9240605578772],[75.53442871833431,15.93574844366248]]]},"properties":{"region_id":"village_598705","name":"HANAMASAGAR","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

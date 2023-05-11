@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35960731437427,13.54382493327074],[75.34176504120171,13.53641572737655],[75.35556377497453,13.51761070494345],[75.37325577668196,13.52686539587599],[75.35960731437427,13.54382493327074]]]},"properties":{"region_id":"village_609002","name":"KOPPA (RURAL)","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

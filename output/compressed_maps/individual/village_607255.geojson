@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14449846704566,14.11511680726839],[75.1591465172985,14.13486500250815],[75.13932953316255,14.140912111855],[75.14449846704566,14.11511680726839]]]},"properties":{"region_id":"village_607255","name":"NEDARAVALLI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

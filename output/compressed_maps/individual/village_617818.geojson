@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78709237373059,12.36379750075082],[75.78683232430352,12.3799072329717],[75.75841043751528,12.36486721912215],[75.77407343287908,12.33918085621737],[75.78709237373059,12.36379750075082]]]},"properties":{"region_id":"village_617818","name":"HAKATHOOR","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

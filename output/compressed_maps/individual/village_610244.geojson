@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61327632573881,13.35003158756169],[76.60811608330508,13.36060798547932],[76.59888891891816,13.35342662280889],[76.59759587744044,13.34319043555839],[76.61327632573881,13.35003158756169]]]},"properties":{"region_id":"village_610244","name":"AGASARAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

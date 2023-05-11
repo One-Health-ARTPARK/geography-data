@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04071494388285,14.213176218671],[75.03249105546469,14.21385174846361],[75.02536626943018,14.20109114304183],[75.03422575928508,14.19448305926235],[75.04071494388285,14.213176218671]]]},"properties":{"region_id":"village_607191","name":"SANGALA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

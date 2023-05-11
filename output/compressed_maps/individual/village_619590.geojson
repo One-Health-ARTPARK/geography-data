@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69305622178808,11.66669216510032],[76.70627314405107,11.69300332036792],[76.70101450359924,11.71198753711679],[76.66827359464428,11.66585239856135],[76.69305622178808,11.66669216510032]]]},"properties":{"region_id":"village_619590","name":"KEBBEPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

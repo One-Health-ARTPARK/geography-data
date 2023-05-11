@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44080620564529,12.67733402905389],[76.42747146351414,12.67886099483316],[76.42865478464495,12.66450140121061],[76.44480266370573,12.66717881371068],[76.44080620564529,12.67733402905389]]]},"properties":{"region_id":"village_613454","name":"MALLENAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

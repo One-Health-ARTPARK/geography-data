@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14523714013352,12.6836051401122],[76.14395060125403,12.69204583447067],[76.13436763548286,12.69116089442077],[76.13346754803116,12.6808221997001],[76.14523714013352,12.6836051401122]]]},"properties":{"region_id":"village_616668","name":"VADDARAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

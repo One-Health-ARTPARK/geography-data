@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01440774682428,14.6869042028648],[75.00199695749906,14.68766217403285],[75.00769339345692,14.66775655002501],[75.01988236309012,14.67221282081572],[75.01440774682428,14.6869042028648]]]},"properties":{"region_id":"village_603267","name":"BELLANKERI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

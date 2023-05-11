@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03730504851428,13.24788660801819],[77.02553567159009,13.24856281338799],[77.02663036489922,13.23227509322872],[77.03824404973956,13.23345680685038],[77.03730504851428,13.24788660801819]]]},"properties":{"region_id":"village_611482","name":"BIDARAKATTE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

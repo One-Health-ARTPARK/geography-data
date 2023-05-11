@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42926023674532,15.99062026987605],[76.4563540424119,15.97892033812061],[76.48710220317943,16.02230638320328],[76.42926023674532,15.99062026987605]]]},"properties":{"region_id":"village_600367","name":"MUDGAL(RURAL)","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0984031881236,12.85959929661529],[77.0807065892381,12.86487130287948],[77.08131275326852,12.85553531043348],[77.09258705605203,12.85205681116236],[77.0984031881236,12.85959929661529]]]},"properties":{"region_id":"village_612707","name":"CHOWDANAKUPPE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

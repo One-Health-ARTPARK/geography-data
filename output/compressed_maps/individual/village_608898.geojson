@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88501580345829,13.21844852614871],[74.87111658016705,13.22444394040749],[74.85674930643651,13.20574608785051],[74.87106087349554,13.18918524019438],[74.88501580345829,13.21844852614871]]]},"properties":{"region_id":"village_608898","name":"SOODA","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

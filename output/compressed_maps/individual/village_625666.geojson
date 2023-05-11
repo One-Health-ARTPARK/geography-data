@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.811390551587,12.98766581698385],[77.81858412501998,12.9981583818915],[77.80687313526101,13.00103502181855],[77.811390551587,12.98766581698385]]]},"properties":{"region_id":"village_625666","name":"KACHARAKANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

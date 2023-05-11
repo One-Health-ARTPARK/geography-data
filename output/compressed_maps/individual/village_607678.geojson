@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32879115007428,14.49525924155801],[75.31741897418836,14.51328772930164],[75.29518909408233,14.51126196682374],[75.29611416680781,14.49283435304985],[75.3086450820072,14.48517620038797],[75.32879115007428,14.49525924155801]]]},"properties":{"region_id":"village_607678","name":"MALLENAHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

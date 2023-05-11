@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91125014276018,12.78246934933549],[76.91128206738318,12.79054050935017],[76.89726391852211,12.7945222811028],[76.89629327207172,12.78953160296235],[76.91125014276018,12.78246934933549]]]},"properties":{"region_id":"village_613979","name":"KALLENAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

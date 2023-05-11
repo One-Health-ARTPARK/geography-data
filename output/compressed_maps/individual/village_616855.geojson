@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31460402632202,12.87266751951847],[76.32105835755998,12.87534069554501],[76.31644620462461,12.89052764151127],[76.30433656764603,12.88116815085457],[76.31460402632202,12.87266751951847]]]},"properties":{"region_id":"village_616855","name":"KURUBARAHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

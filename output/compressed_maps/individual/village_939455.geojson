@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58597975167498,12.95347405499384],[77.58338293672921,12.94715182246724],[77.59093440607157,12.94646979675309],[77.59017769477542,12.95168050294518],[77.58597975167498,12.95347405499384]]]},"properties":{"region_id":"village_939455","name":"LALBAGH","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

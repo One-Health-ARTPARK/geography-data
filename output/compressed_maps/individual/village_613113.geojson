@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7554355303286,13.01014509003297],[77.7582266153517,13.02103650294046],[77.75256245933535,13.02551856635551],[77.74930340362948,13.01628161608007],[77.7554355303286,13.01014509003297]]]},"properties":{"region_id":"village_613113","name":"CHIKKABANAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

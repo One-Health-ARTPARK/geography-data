@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86142483226695,12.68476700944112],[76.85473047371305,12.69263320252457],[76.8432492151498,12.67775655870976],[76.85751998403371,12.67259928395866],[76.86142483226695,12.68476700944112]]]},"properties":{"region_id":"village_614359","name":"BABY","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

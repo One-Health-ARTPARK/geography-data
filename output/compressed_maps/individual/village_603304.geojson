@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96029399260851,14.56904928819728],[74.94220497297837,14.57378403260761],[74.93877965657005,14.56292612122276],[74.95574260930944,14.55553044545793],[74.96029399260851,14.56904928819728]]]},"properties":{"region_id":"village_603304","name":"NAVANAGERI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

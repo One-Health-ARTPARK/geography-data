@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26507853060832,12.61921782750942],[76.23842570772952,12.62233770544642],[76.2350275609306,12.60277055695942],[76.2613358157039,12.59953929539995],[76.26507853060832,12.61921782750942]]]},"properties":{"region_id":"village_618510","name":"MUNDURU","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

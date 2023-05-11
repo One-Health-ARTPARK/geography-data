@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5385148866793,12.06497351797645],[76.5276588768631,12.06771081716809],[76.51773438128554,12.06523235948963],[76.52168935351753,12.0572292768073],[76.5385148866793,12.06497351797645]]]},"properties":{"region_id":"village_619142","name":"YALEHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

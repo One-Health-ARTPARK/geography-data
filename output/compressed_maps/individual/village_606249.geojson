@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75776291605722,14.47394515337442],[75.7521502338872,14.50360426597018],[75.74207932516686,14.50105135236844],[75.75776291605722,14.47394515337442]]]},"properties":{"region_id":"village_606249","name":"THIMLAPURA","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

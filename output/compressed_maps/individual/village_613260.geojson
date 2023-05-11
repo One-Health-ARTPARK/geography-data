@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71457409669675,12.81166537713608],[77.71208056980666,12.82487604368326],[77.70090123138125,12.8187665382798],[77.70365747861366,12.80619992174815],[77.71457409669675,12.81166537713608]]]},"properties":{"region_id":"village_613260","name":"HEELALIGE","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

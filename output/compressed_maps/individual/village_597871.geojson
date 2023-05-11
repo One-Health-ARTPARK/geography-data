@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.53829929173664,15.61546298977999],[74.5471328719268,15.62981243538969],[74.53453204424592,15.62846766774698],[74.53829929173664,15.61546298977999]]]},"properties":{"region_id":"village_597871","name":"JALAGE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

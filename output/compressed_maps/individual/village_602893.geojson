@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66150554970186,15.02044353276998],[74.63316538633245,15.01449613732341],[74.64768771605428,14.99941136848091],[74.66150554970186,15.02044353276998]]]},"properties":{"region_id":"village_602893","name":"GERAL","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

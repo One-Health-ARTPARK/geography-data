@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14165610062823,13.27482841427892],[77.13471704462128,13.26757779551962],[77.13712784313151,13.24878587490137],[77.14738279853123,13.25617607535291],[77.14881072429434,13.27138434660103],[77.14165610062823,13.27482841427892]]]},"properties":{"region_id":"village_611588","name":"KOWTHAMARANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

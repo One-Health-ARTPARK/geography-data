@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42762882118342,13.33461836675258],[76.44732508893561,13.33788612084745],[76.43180193987888,13.35236183334529],[76.42762882118342,13.33461836675258]]]},"properties":{"region_id":"village_612001","name":"NELAGONDANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

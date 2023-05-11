@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13233567679757,12.94026113487689],[76.12439682182168,12.92935666988759],[76.13251167800274,12.92456947668745],[76.13697798503345,12.93293240074058],[76.13233567679757,12.94026113487689]]]},"properties":{"region_id":"village_616155","name":"KONTHAGODANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

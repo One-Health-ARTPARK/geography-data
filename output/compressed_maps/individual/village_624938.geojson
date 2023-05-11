@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34056893302153,12.99501647827873],[77.32612266181928,12.99288514556167],[77.32870040302323,12.97699873332023],[77.33832793779956,12.97821059412011],[77.34056893302153,12.99501647827873]]]},"properties":{"region_id":"village_624938","name":"HOSAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

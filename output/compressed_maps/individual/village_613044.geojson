@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48336038602687,12.79652819956271],[77.4700049970045,12.7939417605321],[77.47649500485618,12.78502233144148],[77.48336038602687,12.79652819956271]]]},"properties":{"region_id":"village_613044","name":"NAGANAYAKANAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35589582424943,12.51210268583621],[76.34735225749483,12.51208872649037],[76.34495675333834,12.50703903351936],[76.35144757716341,12.50378852780184],[76.35589582424943,12.51210268583621]]]},"properties":{"region_id":"village_618591","name":"CHANGA","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

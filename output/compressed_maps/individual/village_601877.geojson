@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3844612969838,15.69025321964724],[75.35838019609383,15.68969531301206],[75.36181243817182,15.66928127353549],[75.38737518860643,15.66426781216197],[75.3844612969838,15.69025321964724]]]},"properties":{"region_id":"village_601877","name":"KALAKERI","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45517743769706,15.3528046366597],[76.46558966093261,15.34820144873797],[76.46363526099479,15.35572571145528],[76.45517743769706,15.3528046366597]]]},"properties":{"region_id":"village_601622","name":"HANMANHALLI","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

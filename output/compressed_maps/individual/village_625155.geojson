@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43911800412478,13.33585919927382],[77.42492892863662,13.33872880199137],[77.41930695580542,13.32885596343972],[77.42881586726337,13.3234663162357],[77.43911800412478,13.33585919927382]]]},"properties":{"region_id":"village_625155","name":"MADESWARA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

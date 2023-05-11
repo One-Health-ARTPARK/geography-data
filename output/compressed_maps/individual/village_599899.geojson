@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39717064302715,18.04043641978159],[77.36849504341643,18.04804792677373],[77.36520012791618,18.02959617462567],[77.39044729992993,18.03070895332093],[77.39717064302715,18.04043641978159]]]},"properties":{"region_id":"village_599899","name":"KHASIMPUR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

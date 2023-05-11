@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47020484761252,14.60641078943407],[76.4353429979841,14.61595906823791],[76.42370379831961,14.58092013188982],[76.46174188685117,14.57650146466725],[76.47020484761252,14.60641078943407]]]},"properties":{"region_id":"village_605131","name":"ALUR","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

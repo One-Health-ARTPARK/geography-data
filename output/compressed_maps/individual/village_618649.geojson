@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30593213459093,12.4433762824433],[76.27572818301933,12.44347567780964],[76.2863891378167,12.42686314004867],[76.30593213459093,12.4433762824433]]]},"properties":{"region_id":"village_618649","name":"MAVATHUR","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

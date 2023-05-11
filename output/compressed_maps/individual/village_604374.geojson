@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28691244306984,14.53001508563402],[75.27305781879105,14.53117821702787],[75.26722332789933,14.51433889314816],[75.28217232885885,14.51402409016977],[75.28691244306984,14.53001508563402]]]},"properties":{"region_id":"village_604374","name":"JYAVALLI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

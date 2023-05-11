@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50332674680378,15.59022947042459],[76.45522040331511,15.57096681996277],[76.48036633372034,15.55247089595818],[76.51226946226436,15.56276221738129],[76.50332674680378,15.59022947042459]]]},"properties":{"region_id":"village_601588","name":"KALKERA","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

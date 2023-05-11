@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88458121640664,16.13999522450109],[76.86260710690745,16.13349381032685],[76.85881351719514,16.10828198686148],[76.88525254860856,16.12377073191611],[76.88458121640664,16.13999522450109]]]},"properties":{"region_id":"village_600944","name":"POTAPUR","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

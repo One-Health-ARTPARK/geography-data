@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55287393438641,15.67208297798396],[74.53630326341201,15.67498067962521],[74.53492868292332,15.65761506596332],[74.55062442621552,15.66370674039384],[74.55287393438641,15.67208297798396]]]},"properties":{"region_id":"village_597861","name":"BARAGAON","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

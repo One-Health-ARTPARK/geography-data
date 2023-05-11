@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69870835616244,13.63132072706355],[76.65868383194115,13.62572182054226],[76.66399253196738,13.59180106972595],[76.69971590679103,13.59664632700825],[76.69870835616244,13.63132072706355]]]},"properties":{"region_id":"village_610117","name":"BELLARA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

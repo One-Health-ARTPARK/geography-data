@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59227418244984,14.2874407953748],[75.5985304182762,14.25455000078844],[75.62741589858186,14.24735808577299],[75.59227418244984,14.2874407953748]]]},"properties":{"region_id":"village_606774","name":"GOPAGONDANAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

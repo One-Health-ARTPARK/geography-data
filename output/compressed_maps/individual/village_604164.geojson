@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17046811830795,14.71393995491866],[75.16250134681316,14.71441535149689],[75.1478777002493,14.69361073746886],[75.16630685644238,14.69671884336329],[75.17046811830795,14.71393995491866]]]},"properties":{"region_id":"village_604164","name":"HANAMAPUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

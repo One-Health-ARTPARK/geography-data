@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22560311408921,13.46627455943642],[77.19941555490192,13.47407840852998],[77.197001517376,13.46281689601711],[77.22316566901547,13.45519034452421],[77.22560311408921,13.46627455943642]]]},"properties":{"region_id":"village_611159","name":"HOSKOTE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

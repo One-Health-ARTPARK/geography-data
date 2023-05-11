@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64341397668902,13.21193316003573],[76.63105442458529,13.21032743029331],[76.62969277418205,13.19828553482231],[76.65038923224716,13.19931819648081],[76.64341397668902,13.21193316003573]]]},"properties":{"region_id":"village_612213","name":"N.MAVINAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

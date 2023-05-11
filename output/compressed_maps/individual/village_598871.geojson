@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90494232452625,16.15699932768446],[75.89736071922037,16.15697872780988],[75.90229040621388,16.1254918751203],[75.90901540832617,16.12621660825052],[75.91003877916066,16.1476146487533],[75.90494232452625,16.15699932768446]]]},"properties":{"region_id":"village_598871","name":"BASAWANAL","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

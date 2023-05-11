@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22917840619705,14.82061229044181],[75.22180676061708,14.84312229772952],[75.21362879188071,14.82225490983204],[75.22917840619705,14.82061229044181]]]},"properties":{"region_id":"village_604062","name":"CHANDRAGIRI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

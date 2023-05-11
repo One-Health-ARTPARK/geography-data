@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65386524650671,14.21895758889056],[75.64706880213556,14.22975931842735],[75.63257630278545,14.22054896675829],[75.65386524650671,14.21895758889056]]]},"properties":{"region_id":"village_606823","name":"MARAGONDANAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

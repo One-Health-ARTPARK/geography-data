@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01796909920188,12.66220090740671],[77.02104896503734,12.67252084985036],[77.01108057931779,12.67250803986668],[77.00999195411464,12.66259063252753],[77.01796909920188,12.66220090740671]]]},"properties":{"region_id":"village_614526","name":"MULLAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

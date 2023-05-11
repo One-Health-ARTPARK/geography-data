@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42024073986666,14.86255723885244],[76.38158126385133,14.87541427319641],[76.37624561572534,14.83888239029412],[76.42192335489756,14.83825392292421],[76.42024073986666,14.86255723885244]]]},"properties":{"region_id":"village_605080","name":"MORABA","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

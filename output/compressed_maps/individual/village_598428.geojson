@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27007939395497,16.59943026044105],[75.24512361062118,16.58018282517379],[75.25473292030591,16.54702242933871],[75.2785901838364,16.5526681595046],[75.27007939395497,16.59943026044105]]]},"properties":{"region_id":"village_598428","name":"KANKANAWADI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

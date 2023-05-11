@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4613233912663,16.409923550663],[74.44769429382526,16.44435463551206],[74.4174589620857,16.4371344122323],[74.43425970636176,16.41162520285378],[74.4613233912663,16.409923550663]]]},"properties":{"region_id":"village_597202","name":"CHIKALWAL","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

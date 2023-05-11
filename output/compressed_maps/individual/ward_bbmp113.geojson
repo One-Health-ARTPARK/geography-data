@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66000400010594,12.96172500012516],[77.64252600012959,12.96049099974526],[77.64478199998912,12.95076600003177],[77.66000400010594,12.96172500012516]]]},"properties":{"region_id":"ward_bbmp113","name":"WARD NO.113 (KONENA AGRAHARA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

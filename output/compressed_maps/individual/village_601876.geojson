@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36256774266568,15.6689548515782],[75.34001982226114,15.68928940584932],[75.3360262297137,15.64794255851263],[75.35994888179269,15.64569736119629],[75.36256774266568,15.6689548515782]]]},"properties":{"region_id":"village_601876","name":"HUNASHIKATTI","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84697858564041,12.89169837210859],[77.84030634581178,12.90276380565358],[77.83009938093744,12.88989005125954],[77.84130429877271,12.88188532410949],[77.84697858564041,12.89169837210859]]]},"properties":{"region_id":"village_625754","name":"BAGUR","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

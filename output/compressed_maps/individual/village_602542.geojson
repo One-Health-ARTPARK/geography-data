@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19616510205074,15.11909387794863],[75.18933248917523,15.13902111186333],[75.16753021780262,15.13306144184336],[75.16338026420127,15.11566683216052],[75.19616510205074,15.11909387794863]]]},"properties":{"region_id":"village_602542","name":"KUNKUR","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

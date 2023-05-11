@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16833315153367,12.79955969268053],[75.14643554983955,12.78933565374252],[75.18835781906395,12.76613776038548],[75.1872660147033,12.77883746207235],[75.16833315153367,12.79955969268053]]]},"properties":{"region_id":"village_617686","name":"KABAKA (RURAL)","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

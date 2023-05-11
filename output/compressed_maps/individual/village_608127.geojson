@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45700032470351,13.81398221536968],[75.42575713997314,13.81968925233747],[75.4398371065898,13.79620659266926],[75.45700032470351,13.81398221536968]]]},"properties":{"region_id":"village_608127","name":"SINGANABIDARE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

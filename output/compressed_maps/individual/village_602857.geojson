@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77680594933399,15.30000863835126],[74.7622993205779,15.29773119491455],[74.7685081893838,15.28147630307392],[74.7814451966093,15.27877987453323],[74.77680594933399,15.30000863835126]]]},"properties":{"region_id":"village_602857","name":"KHAMDOLLI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

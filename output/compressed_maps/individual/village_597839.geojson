@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45450892817473,15.69766887377338],[74.4497399867443,15.70994824889253],[74.42190118518909,15.69538618142073],[74.43771857731751,15.68917496860664],[74.45450892817473,15.69766887377338]]]},"properties":{"region_id":"village_597839","name":"MODEKOP","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

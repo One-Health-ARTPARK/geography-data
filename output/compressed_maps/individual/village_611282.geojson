@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04279284357278,13.37783060613915],[77.0247721650297,13.37848100777127],[77.02429155637131,13.35993979883438],[77.04551590727485,13.36832849037442],[77.04279284357278,13.37783060613915]]]},"properties":{"region_id":"village_611282","name":"MUDIGERE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

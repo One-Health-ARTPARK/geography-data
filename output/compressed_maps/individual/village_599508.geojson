@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91212628373516,16.66712944677471],[75.88448898230796,16.67242798303055],[75.89102672786092,16.643959100903],[75.91212628373516,16.66712944677471]]]},"properties":{"region_id":"village_599508","name":"HATTARKIHAL","parent":"subdistrict_5452","parent_name":"BASAVANA BAGEVADI"}}
+]}

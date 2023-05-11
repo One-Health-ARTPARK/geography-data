@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06741503929841,15.42508832410863],[75.05450344891753,15.41752382326912],[75.0732854313704,15.40046462758588],[75.07712259223223,15.41815873741595],[75.06741503929841,15.42508832410863]]]},"properties":{"region_id":"village_602277","name":"RAYAPUR","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

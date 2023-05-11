@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.57348787833791,14.77425221129444],[74.53547855650822,14.75173383534656],[74.52997552648868,14.68466560918494],[74.55385246063773,14.68889553494683],[74.57348787833791,14.77425221129444]]]},"properties":{"region_id":"village_603352","name":"DONGRI","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

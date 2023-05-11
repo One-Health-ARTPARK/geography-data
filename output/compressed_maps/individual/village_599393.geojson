@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05710995570863,16.98438975325245],[75.99906481526979,16.96877873936532],[76.00523156306113,16.91919774478205],[76.06035547464721,16.94927333833618],[76.05710995570863,16.98438975325245]]]},"properties":{"region_id":"village_599393","name":"CHIKKARUGI","parent":"subdistrict_7071","parent_name":"DEVARA HIPPARAGI"}}
+]}

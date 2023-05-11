@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74914117498614,13.62540462448966],[74.74227146611321,13.64430237088497],[74.72211385313065,13.64051424667677],[74.73648920813076,13.62030742166397],[74.74914117498614,13.62540462448966]]]},"properties":{"region_id":"village_608739","name":"BASRUR","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

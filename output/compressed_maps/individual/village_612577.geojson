@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13108959067972,12.91668216982973],[77.10933702628763,12.91083198655765],[77.11321475594943,12.89631395911815],[77.1321400478932,12.8980373178185],[77.13837286343593,12.91035970419374],[77.13108959067972,12.91668216982973]]]},"properties":{"region_id":"village_612577","name":"NAGANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

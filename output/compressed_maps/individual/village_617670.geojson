@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25171539938512,12.90419989361696],[75.24761681326511,12.8923663046895],[75.25626039168985,12.86719317169451],[75.27149522879368,12.87667213512427],[75.25171539938512,12.90419989361696]]]},"properties":{"region_id":"village_617670","name":"URVALU","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

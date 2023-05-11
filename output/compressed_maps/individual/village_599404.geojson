@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09739524264441,16.73672816630739],[76.10750561656404,16.79221830377628],[76.07344749071034,16.78608232719625],[76.074823830348,16.73795688736261],[76.09739524264441,16.73672816630739]]]},"properties":{"region_id":"village_599404","name":"DEVOOR","parent":"subdistrict_7071","parent_name":"DEVARA HIPPARAGI"}}
+]}

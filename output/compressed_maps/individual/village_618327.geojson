@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41163242801709,12.39577373089302],[76.39354079965715,12.38572699430584],[76.40715581934177,12.37393775322087],[76.42723218162982,12.38265565799846],[76.41163242801709,12.39577373089302]]]},"properties":{"region_id":"village_618327","name":"KRISHNAPURA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

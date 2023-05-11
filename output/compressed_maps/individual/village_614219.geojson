@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67672156123082,12.43116753889129],[76.67152974163508,12.43385425962785],[76.66895158887307,12.42817580782494],[76.67603421995412,12.42741454679855],[76.67672156123082,12.43116753889129]]]},"properties":{"region_id":"village_614219","name":"AGRAHARA","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

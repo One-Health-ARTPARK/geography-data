@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87517539463305,12.50260791102855],[75.86864648360462,12.51456811960339],[75.85355815820385,12.49923760411065],[75.86496467247606,12.49003451132237],[75.87517539463305,12.50260791102855]]]},"properties":{"region_id":"village_939265","name":"HARANGI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

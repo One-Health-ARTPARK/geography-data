@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08867445412481,17.22715673325521],[77.05982250606843,17.22353472678828],[77.06280311572316,17.19447525722299],[77.08237533195897,17.20333176273498],[77.08867445412481,17.22715673325521]]]},"properties":{"region_id":"village_620641","name":"EVANI","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

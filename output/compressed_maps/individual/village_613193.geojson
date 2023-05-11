@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7186314933992,12.8773086367716],[77.70737108120399,12.87725514042633],[77.70896665468489,12.86703370756587],[77.71676883110833,12.86764674461229],[77.7186314933992,12.8773086367716]]]},"properties":{"region_id":"village_613193","name":"AVALAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

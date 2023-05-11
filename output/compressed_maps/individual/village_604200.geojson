@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.323625595914,14.77355920319483],[75.30348611081018,14.75275557066592],[75.31727348450745,14.74306847289697],[75.33683349775025,14.75588648363087],[75.323625595914,14.77355920319483]]]},"properties":{"region_id":"village_604200","name":"KULENUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

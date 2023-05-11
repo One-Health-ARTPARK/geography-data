@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69755485780173,13.5954603465321],[77.69571800299587,13.61444350400336],[77.67976378536086,13.60236114041887],[77.69755485780173,13.5954603465321]]]},"properties":{"region_id":"village_623475","name":"GUDISIHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

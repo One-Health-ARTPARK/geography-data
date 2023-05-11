@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87976277716132,15.79015075058091],[75.8681639094079,15.78252365899494],[75.86563902055363,15.76302993035194],[75.87855600584217,15.76654225109275],[75.87976277716132,15.79015075058091]]]},"properties":{"region_id":"village_601967","name":"RUDRAPUR","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

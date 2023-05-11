@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3287048704436,13.70798661759649],[75.31534732583535,13.72098109048059],[75.30888350895711,13.70473396697491],[75.3287048704436,13.70798661759649]]]},"properties":{"region_id":"village_608231","name":"HALUMAHISHI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

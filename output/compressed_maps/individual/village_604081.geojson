@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13621110449606,14.82449176737502],[75.1375706186714,14.81696823891769],[75.14583750264883,14.81642268407179],[75.14774663628994,14.82034450072773],[75.13621110449606,14.82449176737502]]]},"properties":{"region_id":"village_604081","name":"RATHNAPUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

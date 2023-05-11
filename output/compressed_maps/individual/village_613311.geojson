@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68070183187486,12.7401331185925],[77.68055640580384,12.73154353415057],[77.68706103550616,12.72433342529936],[77.69306501583301,12.73336856888164],[77.68070183187486,12.7401331185925]]]},"properties":{"region_id":"village_613311","name":"SIDIHOSAKOTE","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

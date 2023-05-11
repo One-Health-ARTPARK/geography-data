@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4485281209027,12.51346497706216],[77.42694468783566,12.51084191951142],[77.43370707030628,12.49877247033507],[77.44992711684665,12.4988409423976],[77.4485281209027,12.51346497706216]]]},"properties":{"region_id":"village_626478","name":"BEKUPPE","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

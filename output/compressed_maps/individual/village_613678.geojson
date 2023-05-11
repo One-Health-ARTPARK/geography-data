@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64872499825063,12.99539685079825],[76.63208291531673,12.99738755199977],[76.63539941609538,12.98156979497593],[76.64970488999889,12.98018189245704],[76.64872499825063,12.99539685079825]]]},"properties":{"region_id":"village_613678","name":"DEVARAMAVINAKERE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1718461692241,12.7919838802643],[76.16171163086089,12.79092792988799],[76.16278668930532,12.78406696508457],[76.17046147128228,12.78613801774427],[76.1718461692241,12.7919838802643]]]},"properties":{"region_id":"village_616623","name":"BASAVANAHALLI KAVAL","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

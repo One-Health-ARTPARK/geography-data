@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3629037403213,15.91160612502208],[76.3398904886416,15.9263291488398],[76.341074507081,15.90136766138502],[76.3629037403213,15.91160612502208]]]},"properties":{"region_id":"village_600379","name":"TURADGI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

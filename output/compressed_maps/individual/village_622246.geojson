@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89733965492532,12.92252768935816],[77.90407867133746,12.92716428017183],[77.90447475536781,12.93484369000774],[77.89423848825126,12.9335247102302],[77.89733965492532,12.92252768935816]]]},"properties":{"region_id":"village_622246","name":"KODIHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

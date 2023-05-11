@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28327818472388,13.47823669810627],[75.26453157867111,13.48218894105552],[75.26148831444627,13.46394330260669],[75.28197043790614,13.45733659703193],[75.28327818472388,13.47823669810627]]]},"properties":{"region_id":"village_608944","name":"KELAKOPPA","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07351808236892,14.20188778101194],[75.06465128397011,14.20265385734926],[75.0504308634599,14.18923316061226],[75.06674098522849,14.18292538166907],[75.07351808236892,14.20188778101194]]]},"properties":{"region_id":"village_607203","name":"MARASA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

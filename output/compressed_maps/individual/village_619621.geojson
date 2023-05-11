@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93526426853357,12.00207761887593],[76.91851127577199,12.00731828494227],[76.91226864939331,11.98905328235763],[76.93479952322353,11.98874421350513],[76.93526426853357,12.00207761887593]]]},"properties":{"region_id":"village_619621","name":"KASTURU","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

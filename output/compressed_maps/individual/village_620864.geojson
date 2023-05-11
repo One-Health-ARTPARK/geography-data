@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75897463861418,16.84534606507971],[76.75235956670453,16.87786194418859],[76.73303068231344,16.87266151451764],[76.73637669033347,16.83897403857427],[76.75897463861418,16.84534606507971]]]},"properties":{"region_id":"village_620864","name":"KODCHI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

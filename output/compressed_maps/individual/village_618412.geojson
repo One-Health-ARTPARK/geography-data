@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3392713571067,12.35764510702937],[76.34381956822028,12.34042158716616],[76.38039166126167,12.33360298833946],[76.36499893268729,12.3503844752917],[76.3392713571067,12.35764510702937]]]},"properties":{"region_id":"village_618412","name":"MARADURU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53360928005438,12.89962858121035],[77.51601228582808,12.89330093228942],[77.51875814158913,12.88307062242438],[77.53271726462005,12.88506028555086],[77.53360928005438,12.89962858121035]]]},"properties":{"region_id":"village_938485","name":"TURAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

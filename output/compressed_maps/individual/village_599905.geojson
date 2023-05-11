@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25682908476878,18.07340272769762],[77.23357155410959,18.07339948710308],[77.2326093808773,18.05246500834863],[77.25399945461078,18.05263465916639],[77.25682908476878,18.07340272769762]]]},"properties":{"region_id":"village_599905","name":"GANESHPURWADI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

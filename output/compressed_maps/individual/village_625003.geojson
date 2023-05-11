@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42537881142123,13.37973900209954],[77.41425053051138,13.38603709407093],[77.41150737133805,13.3681030033532],[77.42310495791139,13.36728250505643],[77.42537881142123,13.37973900209954]]]},"properties":{"region_id":"village_625003","name":"CHANNAVEERANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

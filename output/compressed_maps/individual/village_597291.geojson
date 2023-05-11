@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96026733883429,16.75082457618261],[74.92473210205269,16.75586951163472],[74.92353028820611,16.74392388146711],[74.96026733883429,16.75082457618261]]]},"properties":{"region_id":"village_597291","name":"KOULGUDD","parent":"subdistrict_7100","parent_name":"KAGWAD"}}
+]}

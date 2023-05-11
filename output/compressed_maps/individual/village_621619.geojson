@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.16898071209481,13.37149544560652],[78.14636113896127,13.37320682973835],[78.14523347693259,13.36160709732373],[78.16814236119578,13.35504749343102],[78.16898071209481,13.37149544560652]]]},"properties":{"region_id":"village_621619","name":"ALAMBAGIRI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

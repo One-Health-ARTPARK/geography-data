@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17880422613655,16.79296880542365],[75.17317587044374,16.74854189362492],[75.21546379708941,16.75180286212822],[75.2088529826506,16.77789892036231],[75.17880422613655,16.79296880542365]]]},"properties":{"region_id":"village_597335","name":"YELIHADALAGI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

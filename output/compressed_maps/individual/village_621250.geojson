@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13559919044887,16.82698248916951],[77.10013923261265,16.83386546349482],[77.10237367092077,16.80214318923643],[77.12792862729913,16.79501507360882],[77.13559919044887,16.82698248916951]]]},"properties":{"region_id":"village_621250","name":"CHAMENHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

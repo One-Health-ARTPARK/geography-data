@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20639822285348,16.49662384272092],[77.2010324826253,16.50799384706162],[77.18368495346347,16.50742074509545],[77.19759697770165,16.4889821150865],[77.20639822285348,16.49662384272092]]]},"properties":{"region_id":"village_621213","name":"SHIVENOOR","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

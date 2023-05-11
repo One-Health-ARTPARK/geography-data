@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54606530253268,14.54709498493651],[75.5146234132607,14.549392507636],[75.52636048307122,14.52114089747033],[75.54606530253268,14.54709498493651]]]},"properties":{"region_id":"village_604539","name":"HEDIYAL","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

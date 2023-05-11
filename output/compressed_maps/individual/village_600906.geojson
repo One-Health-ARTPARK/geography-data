@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7444357559789,16.03311288634436],[76.71384644750106,16.03849497426759],[76.71598435673563,16.01938078138674],[76.7444357559789,16.03311288634436]]]},"properties":{"region_id":"village_600906","name":"JOLADARASI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

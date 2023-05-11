@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02793090961801,16.39719662732508],[76.00982284322455,16.37335998377581],[76.03442284202707,16.36666347325959],[76.02793090961801,16.39719662732508]]]},"properties":{"region_id":"village_599570","name":"KOPPA","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

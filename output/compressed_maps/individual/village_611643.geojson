@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77676469467866,13.4901593956653],[76.75973930555777,13.47041209772172],[76.77681874967337,13.45788071577958],[76.77676469467866,13.4901593956653]]]},"properties":{"region_id":"village_611643","name":"SHIVAPURA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

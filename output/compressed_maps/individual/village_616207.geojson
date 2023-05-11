@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24244734614427,12.97722399743795],[76.23801547364468,12.98574670015669],[76.23227030069167,12.98284637171457],[76.23135618356525,12.97522473371352],[76.24244734614427,12.97722399743795]]]},"properties":{"region_id":"village_616207","name":"ADDIHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

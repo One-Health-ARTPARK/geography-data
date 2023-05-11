@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47383580945434,12.85776012279619],[76.45978378446289,12.85747450065742],[76.46058488385684,12.85299759418558],[76.46882693602771,12.85209437940762],[76.47383580945434,12.85776012279619]]]},"properties":{"region_id":"village_617367","name":"JINNENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

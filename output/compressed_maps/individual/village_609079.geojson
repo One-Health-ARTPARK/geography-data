@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42332734357441,13.58650334004767],[75.40548069733943,13.59566146786153],[75.40575641392266,13.57718205199454],[75.42332734357441,13.58650334004767]]]},"properties":{"region_id":"village_609079","name":"KAMALAPURA","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

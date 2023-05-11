@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9035461492917,16.13422458759112],[76.88533450911943,16.11875391459859],[76.90184937079937,16.10725930270163],[76.9035461492917,16.13422458759112]]]},"properties":{"region_id":"village_600945","name":"GOLDINNI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

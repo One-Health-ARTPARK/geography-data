@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39892071962261,13.61802189146405],[76.39850344421077,13.63176139860463],[76.39371421769272,13.63683568386401],[76.38336749893557,13.61417508795077],[76.39892071962261,13.61802189146405]]]},"properties":{"region_id":"village_605993","name":"SUJIKAL","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

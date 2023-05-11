@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90579876658965,15.08173733011697],[75.89164293335378,15.09286212637816],[75.86772274041122,15.08576003218381],[75.88164937338635,15.0761928562359],[75.90579876658965,15.08173733011697]]]},"properties":{"region_id":"village_602196","name":"SHEERNAHALLI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

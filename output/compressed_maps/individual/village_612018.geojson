@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46843477375263,13.31060326653854],[76.46263651017905,13.2885759326018],[76.47727685279742,13.28939580390913],[76.46843477375263,13.31060326653854]]]},"properties":{"region_id":"village_612018","name":"GEDLAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

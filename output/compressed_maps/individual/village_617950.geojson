@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74024095854529,12.59875558286299],[75.73118757217846,12.59499438605638],[75.73787953198749,12.56004099793457],[75.76011307303042,12.58503637671203],[75.74024095854529,12.59875558286299]]]},"properties":{"region_id":"village_617950","name":"SURLABI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

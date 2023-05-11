@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6186379498211,13.32723618021323],[76.6159676214224,13.33691962062495],[76.59816403728455,13.33520346181457],[76.59701868418975,13.32395827386415],[76.6186379498211,13.32723618021323]]]},"properties":{"region_id":"village_610246","name":"THIGALANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

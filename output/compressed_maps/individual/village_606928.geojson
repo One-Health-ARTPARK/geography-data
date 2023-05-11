@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91307531203739,14.25828127200487],[75.89618946169337,14.22848258982266],[75.92065579121217,14.21959529638941],[75.91307531203739,14.25828127200487]]]},"properties":{"region_id":"village_606928","name":"NALKUDRE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

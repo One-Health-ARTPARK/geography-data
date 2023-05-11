@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70308854721168,11.98524776173167],[76.69969801082111,11.99820131030239],[76.6740530579694,12.00138213620832],[76.67775978823732,11.98466135500401],[76.70308854721168,11.98524776173167]]]},"properties":{"region_id":"village_619448","name":"CHIKKATI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

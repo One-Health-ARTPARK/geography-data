@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1246269107519,13.64509551385204],[77.11794960164256,13.65376099873884],[77.1106016424676,13.64052488640162],[77.12484097112376,13.63299283514982],[77.1246269107519,13.64509551385204]]]},"properties":{"region_id":"village_610768","name":"THIMMALAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

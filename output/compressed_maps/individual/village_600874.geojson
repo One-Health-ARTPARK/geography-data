@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40246657115341,15.94192711500102],[77.40134795332091,15.96580322084963],[77.39190141254461,15.96816186604401],[77.38804794029026,15.93876575050031],[77.40246657115341,15.94192711500102]]]},"properties":{"region_id":"village_600874","name":"BULLAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

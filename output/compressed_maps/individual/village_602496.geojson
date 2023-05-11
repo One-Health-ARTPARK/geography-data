@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10588295305891,15.17098296390076],[75.08986600379434,15.16178125147055],[75.10729133428117,15.14940921048001],[75.10588295305891,15.17098296390076]]]},"properties":{"region_id":"village_602496","name":"PARASAPUR","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

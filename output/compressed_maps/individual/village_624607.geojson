@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93526876663364,13.29084843532802],[77.93755639654681,13.30448717088585],[77.92564658678158,13.3004468970066],[77.92293194763494,13.28507078390865],[77.93526876663364,13.29084843532802]]]},"properties":{"region_id":"village_624607","name":"AKKIMANGALA","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

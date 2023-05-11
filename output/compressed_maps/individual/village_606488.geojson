@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39885065759205,14.60843655688922],[76.40121525642432,14.62749293836518],[76.37342461439701,14.62116607609849],[76.39885065759205,14.60843655688922]]]},"properties":{"region_id":"village_606488","name":"DODDABOMMANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

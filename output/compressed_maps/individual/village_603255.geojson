@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83641844714991,14.54451957091748],[74.84317893115171,14.52790144629872],[74.86154621545734,14.53466965332524],[74.84770521274066,14.54587917816728],[74.83641844714991,14.54451957091748]]]},"properties":{"region_id":"village_603255","name":"BISLAKOPPA","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

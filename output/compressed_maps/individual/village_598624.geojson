@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47019148036449,16.15316523488698],[75.45321202090643,16.13328179750282],[75.49091397854674,16.12164011356013],[75.502267070766,16.14507765534335],[75.47019148036449,16.15316523488698]]]},"properties":{"region_id":"village_598624","name":"YANDIGERI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

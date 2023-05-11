@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60386458333028,14.23434689474013],[75.60681469112794,14.21087626557472],[75.62110330617928,14.21018964831377],[75.62172696082297,14.23218295601754],[75.60386458333028,14.23434689474013]]]},"properties":{"region_id":"village_606768","name":"H.KADADAKATTE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

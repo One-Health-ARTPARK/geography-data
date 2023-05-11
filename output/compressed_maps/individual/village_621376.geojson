@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23539539132751,16.57723546925728],[77.20001326693131,16.57333704341672],[77.21604629189335,16.54380832181694],[77.24270585646929,16.55491683521809],[77.23539539132751,16.57723546925728]]]},"properties":{"region_id":"village_621376","name":"BELGUNDA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

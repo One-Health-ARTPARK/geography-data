@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94364701365106,13.31758325434811],[76.95523546436102,13.31743199899898],[76.94311843898821,13.3311303044759],[76.93887351212848,13.32191660211774],[76.94364701365106,13.31758325434811]]]},"properties":{"region_id":"village_611826","name":"RAYAVARA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

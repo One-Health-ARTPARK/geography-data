@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17416564495814,16.5056952332549],[75.15213180820398,16.50793563754684],[75.1551549164947,16.48776955531096],[75.17505121795233,16.48835093543521],[75.17416564495814,16.5056952332549]]]},"properties":{"region_id":"village_598412","name":"YALLATTI","parent":"subdistrict_7063","parent_name":"RABAKAVI BANAHATTI"}}
+]}

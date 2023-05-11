@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88538106967893,12.99685637582235],[75.8920525808799,13.00346791886655],[75.88680234127753,13.00849132498216],[75.87985000437469,13.00196491243707],[75.88538106967893,12.99685637582235]]]},"properties":{"region_id":"village_616308","name":"HULLAHALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

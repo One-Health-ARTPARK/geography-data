@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45335660981229,13.13057097291545],[77.45479237665477,13.14252414766314],[77.44093494900892,13.15047320607582],[77.43699724385769,13.13443473024142],[77.45335660981229,13.13057097291545]]]},"properties":{"region_id":"village_612752","name":"TOTAGERE","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

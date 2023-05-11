@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81125585925305,16.01543249321147],[75.7760659987191,16.00613066515406],[75.78541659854096,15.97646766051819],[75.81125585925305,16.01543249321147]]]},"properties":{"region_id":"village_598687","name":"HULLIKERI.S.P.","parent":"subdistrict_7061","parent_name":"GULEDGUDDA"}}
+]}

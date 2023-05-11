@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08415068656524,15.63835751788277],[76.06964913912411,15.6396692791015],[76.07298948824966,15.62688736755364],[76.08415068656524,15.63835751788277]]]},"properties":{"region_id":"village_601252","name":"LAGALUR","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52666700035235,12.94629500007775],[77.53450300017948,12.93629999985767],[77.54006099955527,12.94671399974124],[77.52666700035235,12.94629500007775]]]},"properties":{"region_id":"ward_bbmp158","name":"WARD NO.158 (DEEPANJALI NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

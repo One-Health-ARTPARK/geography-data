@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86797038590176,13.05056814332691],[76.84890986986042,13.05372984258273],[76.85569714848296,13.0357245625619],[76.86797038590176,13.05056814332691]]]},"properties":{"region_id":"village_612402","name":"NARIGEHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

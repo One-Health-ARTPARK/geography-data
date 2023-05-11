@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75913300126203,16.77589248842567],[76.73653947927677,16.77629714143861],[76.7460501167554,16.76572678786074],[76.75913300126203,16.77589248842567]]]},"properties":{"region_id":"village_621085","name":"NEGGINHAL","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

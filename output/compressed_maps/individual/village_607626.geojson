@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1294186618238,14.30498803161781],[75.12815424312714,14.31544421384734],[75.10455345159215,14.3066958848462],[75.11746031950798,14.29009632445468],[75.1294186618238,14.30498803161781]]]},"properties":{"region_id":"village_607626","name":"KOLISALU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

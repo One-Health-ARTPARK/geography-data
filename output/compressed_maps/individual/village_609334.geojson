@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86560305630404,13.61746402370432],[75.84399628949981,13.62954305812],[75.81485947675259,13.62893111373754],[75.82510604029078,13.61015734984764],[75.86560305630404,13.61746402370432]]]},"properties":{"region_id":"village_609334","name":"LINGADAHALLI (KAVAL)","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

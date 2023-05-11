@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89297624678707,13.13559835062741],[77.87292993323314,13.14153637682167],[77.87949226009731,13.12328369889297],[77.89297624678707,13.13559835062741]]]},"properties":{"region_id":"village_625583","name":"KEMBALIGANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

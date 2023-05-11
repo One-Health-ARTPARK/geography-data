@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24208355710039,16.05795069390267],[75.2414243033335,16.10157201222136],[75.21998127576133,16.10660684415273],[75.22331880091738,16.05919172825673],[75.24208355710039,16.05795069390267]]]},"properties":{"region_id":"village_598307","name":"BOODANUR","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

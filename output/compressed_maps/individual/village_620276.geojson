@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7124738862347,17.38508083058959],[76.6951040635885,17.38905499822053],[76.66121054030704,17.37128740109144],[76.69025547418305,17.35698852942972],[76.7124738862347,17.38508083058959]]]},"properties":{"region_id":"village_620276","name":"HATKUNDA","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

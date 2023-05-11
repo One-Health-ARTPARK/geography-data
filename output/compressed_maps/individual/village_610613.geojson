@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09631597297596,14.10907192506065],[77.08107798879838,14.11658614703176],[77.07627143461279,14.10512785294378],[77.09631597297596,14.10907192506065]]]},"properties":{"region_id":"village_610613","name":"BUDASANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

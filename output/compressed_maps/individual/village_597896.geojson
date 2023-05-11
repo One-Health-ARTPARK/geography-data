@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.54366347680858,15.5801142899193],[74.54624659587039,15.60391704377322],[74.52633337790994,15.59921493428203],[74.52554960392612,15.58244214366179],[74.54366347680858,15.5801142899193]]]},"properties":{"region_id":"village_597896","name":"NAVAGE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

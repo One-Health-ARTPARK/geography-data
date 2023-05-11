@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19121005504287,13.30856274455028],[76.16576437330673,13.30442777120672],[76.16543993680544,13.28234791481648],[76.18641199330408,13.27976386353214],[76.19121005504287,13.30856274455028]]]},"properties":{"region_id":"village_615507","name":"MOODNAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

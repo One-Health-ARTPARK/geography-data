@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49656327368915,15.29940030274322],[75.44153017155533,15.3009870839183],[75.44185437786405,15.28300043964388],[75.4799852282453,15.2830842016649],[75.49656327368915,15.29940030274322]]]},"properties":{"region_id":"village_602039","name":"CHINCHALLI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

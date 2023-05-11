@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75113801295643,15.32236589123108],[74.74294617958304,15.32568456066797],[74.7403101764751,15.31833460373103],[74.75113801295643,15.32236589123108]]]},"properties":{"region_id":"village_602766","name":"BABLIKOP","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

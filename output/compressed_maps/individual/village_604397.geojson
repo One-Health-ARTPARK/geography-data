@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48588689150813,14.56868483762277],[75.49012620998396,14.58725347178416],[75.47655885644329,14.58305209541398],[75.48588689150813,14.56868483762277]]]},"properties":{"region_id":"village_604397","name":"HIREBUDIHAL","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

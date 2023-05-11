@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.741253373642,16.63423621561042],[76.71299139113219,16.64298028434283],[76.71695021007483,16.6112189884871],[76.75819260692475,16.61314966932024],[76.741253373642,16.63423621561042]]]},"properties":{"region_id":"village_621100","name":"SHETTIKERA","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

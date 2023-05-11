@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29616019163899,16.41848945773146],[76.28384256094783,16.4188077359606],[76.28221338965076,16.37992042909886],[76.30974060108598,16.39621547709216],[76.29616019163899,16.41848945773146]]]},"properties":{"region_id":"village_599719","name":"SHIVAPUR","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

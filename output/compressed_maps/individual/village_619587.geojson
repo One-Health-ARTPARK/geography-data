@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65665087525954,11.72327502986812],[76.65040512552319,11.7042076007201],[76.66600187521539,11.71054204422786],[76.65665087525954,11.72327502986812]]]},"properties":{"region_id":"village_619587","name":"KALIGOWDANAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

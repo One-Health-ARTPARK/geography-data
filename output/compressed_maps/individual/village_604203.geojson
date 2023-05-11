@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31727348450745,14.74306847289697],[75.29876928333411,14.75339902530593],[75.29822606905101,14.74121339061351],[75.30680711921443,14.72994335524669],[75.31727348450745,14.74306847289697]]]},"properties":{"region_id":"village_604203","name":"TIMMAPUR-M-ADUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

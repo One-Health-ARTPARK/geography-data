@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89373298909717,17.34243140017252],[76.86847966897437,17.35061094727732],[76.87362984296497,17.32380598488723],[76.89950479978755,17.31529804326581],[76.89373298909717,17.34243140017252]]]},"properties":{"region_id":"village_620265","name":"AZADPUR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

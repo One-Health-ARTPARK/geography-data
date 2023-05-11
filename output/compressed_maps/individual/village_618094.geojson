@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01230221938025,12.55639716974668],[75.99817159719959,12.54579419247087],[76.00953938215191,12.53450159121573],[76.0202737675186,12.55121723819867],[76.01230221938025,12.55639716974668]]]},"properties":{"region_id":"village_618094","name":"CHAMARAYANAKOTE","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

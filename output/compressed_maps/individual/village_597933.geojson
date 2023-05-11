@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.47918323539268,15.55900980716117],[74.48787016939129,15.54770796892458],[74.49577745022007,15.56085426499701],[74.47918323539268,15.55900980716117]]]},"properties":{"region_id":"village_597933","name":"SANGARGALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57388938660903,13.93338716963996],[76.54873210143664,13.9170218469637],[76.56941843847751,13.88706237418225],[76.58731160796691,13.89948843397372],[76.57388938660903,13.93338716963996]]]},"properties":{"region_id":"village_606142","name":"DODDAGHATTA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

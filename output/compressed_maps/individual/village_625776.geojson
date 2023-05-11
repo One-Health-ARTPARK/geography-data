@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13197833956741,13.07862333873085],[77.12914204902553,13.08426784375651],[77.12099230989708,13.08035623999281],[77.12754090669148,13.07635706698434],[77.13197833956741,13.07862333873085]]]},"properties":{"region_id":"village_625776","name":"PALYADAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80722883860827,15.85877293329701],[74.8246987759408,15.86082633836283],[74.82840089380794,15.89598596873861],[74.80172167142982,15.88320964094466],[74.80722883860827,15.85877293329701]]]},"properties":{"region_id":"village_598197","name":"MUTAWAD","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

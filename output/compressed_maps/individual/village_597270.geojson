@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03447494400459,16.79912544317376],[75.01157274640018,16.79239285582955],[75.02055898061512,16.77760345520563],[75.03447494400459,16.79912544317376]]]},"properties":{"region_id":"village_597270","name":"AGRANI-INGALGAON","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

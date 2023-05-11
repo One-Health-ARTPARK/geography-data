@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08942684161005,12.77576401708091],[76.08358133756367,12.78671025270939],[76.07627488530994,12.78019617141197],[76.07774423884946,12.7735183229365],[76.08942684161005,12.77576401708091]]]},"properties":{"region_id":"village_616593","name":"NELAMANE","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

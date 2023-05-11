@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38621099523216,16.36256758046976],[76.36084355991532,16.36291308199905],[76.36835166405734,16.31322247931273],[76.40154210028288,16.31439388961649],[76.37993596615242,16.34168243625656],[76.38621099523216,16.36256758046976]]]},"properties":{"region_id":"village_620970","name":"BARDEVANHAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

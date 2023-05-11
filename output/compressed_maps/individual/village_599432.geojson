@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33175590752582,16.6336475998315],[76.29935053725663,16.63821009914088],[76.2975761347965,16.61642746469721],[76.32650315118765,16.62039694746733],[76.33175590752582,16.6336475998315]]]},"properties":{"region_id":"village_599432","name":"BINJALBHAVI","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

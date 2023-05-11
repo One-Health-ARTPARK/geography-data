@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20021509012825,12.22729722404689],[76.1987646877427,12.2181274937752],[76.22233397913884,12.19363780317574],[76.22440207427363,12.2156746660008],[76.21432523433865,12.21402642420527],[76.20021509012825,12.22729722404689]]]},"properties":{"region_id":"village_618381","name":"HINDUGODLU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

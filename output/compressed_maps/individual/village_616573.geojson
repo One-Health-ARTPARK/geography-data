@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06887719572974,12.77302650761504],[76.04360470724909,12.77435872742815],[76.04703582129423,12.75208517331192],[76.06887719572974,12.77302650761504]]]},"properties":{"region_id":"village_616573","name":"ARAKALGUD (RURAL)","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

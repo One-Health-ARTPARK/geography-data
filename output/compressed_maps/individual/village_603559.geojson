@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78971773816333,14.51886466636599],[74.7698006531152,14.51560867614386],[74.77173517826957,14.49844983362283],[74.78746022361875,14.50384955233015],[74.78971773816333,14.51886466636599]]]},"properties":{"region_id":"village_603559","name":"KEREGADDE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

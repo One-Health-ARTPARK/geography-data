@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38017149683441,14.19256132229989],[77.35107173516943,14.19939387853554],[77.34884645337607,14.17924889971131],[77.36607115716096,14.16735898145413],[77.38017149683441,14.19256132229989]]]},"properties":{"region_id":"village_610568","name":"NAGALAMADIKE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

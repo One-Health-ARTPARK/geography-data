@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74437802222012,17.69815247511665],[76.72243090004793,17.69630879968465],[76.71810893623316,17.67111648638788],[76.77221046970577,17.66626729065879],[76.74437802222012,17.69815247511665]]]},"properties":{"region_id":"village_599808","name":"BATGERA","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

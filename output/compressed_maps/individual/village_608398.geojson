@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55069651833989,13.98982082899215],[75.55193132878964,14.01611139548616],[75.52654905803185,14.01591479488354],[75.52735768567807,13.99239885243567],[75.55069651833989,13.98982082899215]]]},"properties":{"region_id":"village_608398","name":"GEJJENAHALLI","parent":"subdistrict_5520","parent_name":"SHIVAMOGGA"}}
+]}

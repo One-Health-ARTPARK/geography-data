@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45405706391546,18.23146616529485],[77.43027975309147,18.23455976897689],[77.4377538735689,18.21047342552965],[77.45733891741436,18.20505659934965],[77.45405706391546,18.23146616529485]]]},"properties":{"region_id":"village_600061","name":"EKLORA","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

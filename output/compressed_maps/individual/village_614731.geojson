@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19247200115056,12.4172054090036],[77.170189781957,12.4150903966084],[77.17649987013043,12.39372271412918],[77.19999598483965,12.39066494727656],[77.19247200115056,12.4172054090036]]]},"properties":{"region_id":"village_614731","name":"BANASAMUDRA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

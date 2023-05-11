@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97878118805131,12.46388148685103],[76.96692709806086,12.46049356049357],[76.96442446386719,12.44433309735232],[76.97287748416134,12.44267063294052],[76.97878118805131,12.46388148685103]]]},"properties":{"region_id":"village_614637","name":"GOPANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

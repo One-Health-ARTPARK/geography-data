@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94233723785636,12.72074500119946],[75.9366765886852,12.73025681660641],[75.92586405311049,12.72772641343024],[75.92573460542333,12.7186924160264],[75.94233723785636,12.72074500119946]]]},"properties":{"region_id":"village_939009","name":"SAMPIGEDALU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

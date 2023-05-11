@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78676220241483,13.09304746743322],[77.79454572581712,13.09775627524731],[77.79868644505076,13.11886063828793],[77.7823533462864,13.11116991847137],[77.78676220241483,13.09304746743322]]]},"properties":{"region_id":"village_625688","name":"KALLAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

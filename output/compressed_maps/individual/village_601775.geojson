@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23178424002725,15.32835271576099],[76.2045984414214,15.3322603197102],[76.20317408538057,15.30795231991841],[76.23349353142711,15.30346873694246],[76.23178424002725,15.32835271576099]]]},"properties":{"region_id":"village_601775","name":"HALWARTI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

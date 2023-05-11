@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48808457756525,14.88296893672926],[75.46495848904878,14.88647327689028],[75.46546324748832,14.87064069656768],[75.48808457756525,14.88296893672926]]]},"properties":{"region_id":"village_604035","name":"ARALIHALLI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95512872024366,13.94955964111337],[74.94386845547443,13.96208655060441],[74.93478633430723,13.94834364670022],[74.94859084989108,13.93743788386638],[74.95512872024366,13.94955964111337]]]},"properties":{"region_id":"village_607853","name":"KALLODI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

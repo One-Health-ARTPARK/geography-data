@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24833504478703,13.04983349983235],[76.24793624123025,13.05602584200564],[76.24043773892687,13.06784951303318],[76.23761928960785,13.06502519618163],[76.23938274310495,13.05438161678015],[76.24833504478703,13.04983349983235]]]},"properties":{"region_id":"village_615983","name":"KRISHNAPURA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

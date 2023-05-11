@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9854468875066,15.82846071133277],[74.97199420293947,15.82960902960786],[74.97183330971116,15.82166757645109],[74.98594040230586,15.8181325535408],[74.9854468875066,15.82846071133277]]]},"properties":{"region_id":"village_939192","name":"BELAVALAKOPPA","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

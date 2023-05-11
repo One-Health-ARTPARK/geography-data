@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6511094728889,15.84561118519488],[74.62812464683967,15.85734806129739],[74.62062251349091,15.84957357583384],[74.62291734682081,15.83347542268964],[74.6511094728889,15.84561118519488]]]},"properties":{"region_id":"village_597768","name":"MAVINAKATTI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

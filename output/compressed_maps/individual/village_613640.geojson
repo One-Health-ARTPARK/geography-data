@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51233374894045,12.5988163040433],[76.51312178440372,12.58357191870473],[76.52310766682777,12.59250746951626],[76.51233374894045,12.5988163040433]]]},"properties":{"region_id":"village_613640","name":"AREBUVANAHALLY","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

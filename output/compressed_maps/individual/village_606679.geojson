@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04853370453189,14.30386157719708],[76.03299082733388,14.32052741506849],[76.00271500724801,14.31679786274697],[76.00786842680291,14.29231831342859],[76.04853370453189,14.30386157719708]]]},"properties":{"region_id":"village_606679","name":"KABBURU","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

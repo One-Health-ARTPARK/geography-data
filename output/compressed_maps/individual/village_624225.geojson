@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8872895179308,13.35504826883869],[77.87839752135957,13.34105244865575],[77.89091882329974,13.32588573128795],[77.90474203987046,13.3285853066272],[77.8872895179308,13.35504826883869]]]},"properties":{"region_id":"village_624225","name":"CHIKKADASARAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

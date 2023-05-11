@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56408063918064,17.03648789792167],[76.56846789086798,17.06380495134453],[76.53088644566654,17.05177236939226],[76.53020385348238,17.03493667841329],[76.56408063918064,17.03648789792167]]]},"properties":{"region_id":"village_620731","name":"KALLUR (K)","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

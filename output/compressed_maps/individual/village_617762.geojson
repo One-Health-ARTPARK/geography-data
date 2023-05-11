@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35717077983695,12.57557685877395],[75.34991226797156,12.58668321091181],[75.27134013353853,12.57118710140341],[75.2801014130297,12.52567081289718],[75.35717077983695,12.57557685877395]]]},"properties":{"region_id":"village_617762","name":"MANDEKOLU","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

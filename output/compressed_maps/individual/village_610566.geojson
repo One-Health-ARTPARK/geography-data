@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23537321576201,14.30213299838438],[77.22685190071316,14.303087935355],[77.21174010425571,14.29267406556115],[77.22250360302164,14.29034006940352],[77.23537321576201,14.30213299838438]]]},"properties":{"region_id":"village_610566","name":"THIMMAMMANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

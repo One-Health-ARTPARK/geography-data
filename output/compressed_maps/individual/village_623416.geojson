@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59523154123687,13.50177238849432],[77.58732195285396,13.47992613459937],[77.60583861943248,13.48583747619066],[77.59523154123687,13.50177238849432]]]},"properties":{"region_id":"village_623416","name":"GOWDAGERE","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26453955684413,14.67971533633713],[75.23165784983486,14.67072615394681],[75.24149211976781,14.65429292935757],[75.26453955684413,14.67971533633713]]]},"properties":{"region_id":"village_604176","name":"KAREKYATHANAHALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

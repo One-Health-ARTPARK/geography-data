@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56838267151981,13.71304432896351],[77.54910141454309,13.7410550766527],[77.53439199917996,13.70934121865063],[77.56838267151981,13.71304432896351]]]},"properties":{"region_id":"village_623272","name":"MYALYA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

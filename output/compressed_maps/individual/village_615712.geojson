@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27731324886425,13.28076908796585],[76.2696085789555,13.28695392985952],[76.26896429387956,13.27941497461789],[76.27731324886425,13.28076908796585]]]},"properties":{"region_id":"village_615712","name":"NARAYANAGHATTAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

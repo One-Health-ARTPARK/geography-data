@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43674769562328,13.42295292617483],[75.40477399882842,13.43381163235243],[75.41019772564329,13.3944243172429],[75.43674769562328,13.42295292617483]]]},"properties":{"region_id":"village_609025","name":"HIREGADDE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

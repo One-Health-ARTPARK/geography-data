@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41754556676582,14.16199762137783],[75.38405050316261,14.12939631136605],[75.40081908552656,14.12719887824474],[75.4227146035598,14.14986215722279],[75.41754556676582,14.16199762137783]]]},"properties":{"region_id":"village_607843","name":"HIREKORALAHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

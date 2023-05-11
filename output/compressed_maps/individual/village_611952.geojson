@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94863351221078,13.10624126461444],[76.94486733228207,13.12444360473194],[76.9291955148087,13.12038683909457],[76.92765179853635,13.10582080740332],[76.94863351221078,13.10624126461444]]]},"properties":{"region_id":"village_611952","name":"IDAGOOR","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61852184360056,13.04489823203824],[76.60441487490537,13.04517136947852],[76.60899104453843,13.03091116326477],[76.62041410919821,13.03623428236363],[76.61852184360056,13.04489823203824]]]},"properties":{"region_id":"village_612365","name":"HINDUMARANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

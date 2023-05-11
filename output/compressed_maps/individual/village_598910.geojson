@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00971725212293,16.16528633939207],[76.02475926748068,16.17614848271322],[76.01024897831721,16.18586319717663],[76.00971725212293,16.16528633939207]]]},"properties":{"region_id":"village_598910","name":"HUVANUR","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9552767237761,13.14655529115218],[76.93255696819847,13.15143123017851],[76.93535256133532,13.13584329054303],[76.9552767237761,13.14655529115218]]]},"properties":{"region_id":"village_611935","name":"MAVINAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

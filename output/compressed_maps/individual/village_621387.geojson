@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36596570166833,16.55479479541874],[77.36183959188519,16.51684451479415],[77.38779703768617,16.52987846938164],[77.36596570166833,16.55479479541874]]]},"properties":{"region_id":"village_621387","name":"CHANDAPUR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

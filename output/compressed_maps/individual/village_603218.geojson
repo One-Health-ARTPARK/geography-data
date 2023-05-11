@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90157932366915,14.63894852867318],[74.87647096006448,14.61793203862729],[74.90418564683256,14.61290333812249],[74.90157932366915,14.63894852867318]]]},"properties":{"region_id":"village_603218","name":"HUSRI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

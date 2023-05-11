@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89395777769539,14.53021629752835],[75.91012857223787,14.55614535461714],[75.89094785869509,14.55061025140216],[75.89395777769539,14.53021629752835]]]},"properties":{"region_id":"village_606549","name":"ARASAPURA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

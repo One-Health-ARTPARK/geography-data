@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64225257513117,13.3283951867673],[77.62969671897211,13.3295489445564],[77.63012318989045,13.31820371559163],[77.6446270120759,13.31956473816856],[77.64225257513117,13.3283951867673]]]},"properties":{"region_id":"village_625248","name":"RABBANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

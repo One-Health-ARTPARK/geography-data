@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95115034087615,13.87877055272211],[75.95097954712455,13.86835561536276],[75.9578847744225,13.8700455761086],[75.957190959474,13.87914018662611],[75.95115034087615,13.87877055272211]]]},"properties":{"region_id":"village_607123","name":"NELLIHANKLU","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

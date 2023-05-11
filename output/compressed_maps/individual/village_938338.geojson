@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61030974472592,13.02817318091742],[77.60067013619387,13.01540993429999],[77.608447471036,13.01429791725536],[77.61030974472592,13.02817318091742]]]},"properties":{"region_id":"village_938338","name":"KAVAL BAIRASANDRA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

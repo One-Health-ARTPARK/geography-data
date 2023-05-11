@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5052226086517,13.62231255645082],[75.48970871615465,13.61822419726228],[75.48974705327262,13.60122766879955],[75.51071174307846,13.61114179042991],[75.5052226086517,13.62231255645082]]]},"properties":{"region_id":"village_609061","name":"MENSUR","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

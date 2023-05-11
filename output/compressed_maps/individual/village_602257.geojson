@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84772191881997,15.41895313718807],[74.83142203583803,15.41485560077447],[74.83847251436424,15.39795247337273],[74.8594340061567,15.40263306813021],[74.84772191881997,15.41895313718807]]]},"properties":{"region_id":"village_602257","name":"KALAKERI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

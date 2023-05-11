@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32519165129139,11.92669383209318],[76.32356581260325,11.95920785625308],[76.31336686390512,11.93245796071497],[76.32519165129139,11.92669383209318]]]},"properties":{"region_id":"village_619078","name":"SINGAPATNA","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

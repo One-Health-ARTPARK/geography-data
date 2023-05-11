@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62797777580643,15.83406908478628],[75.6295078358056,15.85910943725075],[75.59224490897128,15.86374780648907],[75.58611309257805,15.83467651633644],[75.62797777580643,15.83406908478628]]]},"properties":{"region_id":"village_598732","name":"HEBBALLI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

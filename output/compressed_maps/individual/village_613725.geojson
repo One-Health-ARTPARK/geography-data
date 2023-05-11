@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78642674691248,12.98947940495242],[76.76719616349897,12.99146697987722],[76.76692986136392,12.9710384733154],[76.78390367100349,12.96910552215211],[76.78642674691248,12.98947940495242]]]},"properties":{"region_id":"village_613725","name":"KOPPA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57554399830089,12.36083861779017],[77.54509133600757,12.36196607671233],[77.54331641692418,12.33493867948301],[77.5728615607695,12.32435647346017],[77.57554399830089,12.36083861779017]]]},"properties":{"region_id":"village_626627","name":"BANNIMUKKODLU","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

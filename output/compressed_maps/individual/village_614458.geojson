@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97052429442914,12.52912342354458],[76.99512229264259,12.51475604813828],[77.0125262304605,12.52608081207134],[76.99164804443207,12.54073549646259],[76.97052429442914,12.52912342354458]]]},"properties":{"region_id":"village_614458","name":"KANNALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

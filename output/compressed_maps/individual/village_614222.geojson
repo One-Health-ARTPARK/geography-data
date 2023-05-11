@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69654218424823,12.45734036166352],[76.68781047682377,12.4633670140792],[76.6856585185751,12.45748791531177],[76.69011030336756,12.45122479827691],[76.69654218424823,12.45734036166352]]]},"properties":{"region_id":"village_614222","name":"DARASAGUPPE","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

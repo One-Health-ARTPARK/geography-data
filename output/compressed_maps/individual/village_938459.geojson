@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56683918142812,12.8762652162243],[77.55918064919372,12.89134313577674],[77.54895578288122,12.8877242930298],[77.551868571809,12.87645763762069],[77.56683918142812,12.8762652162243]]]},"properties":{"region_id":"village_938459","name":"DODDAKALLASANDRA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

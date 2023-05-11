@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77533986282369,13.23347991114986],[74.76248215069569,13.23786531981546],[74.75866683483459,13.22565862416876],[74.77585149911255,13.22576671745904],[74.77533986282369,13.23347991114986]]]},"properties":{"region_id":"village_608828","name":"MAJOOR","parent":"subdistrict_7067","parent_name":"KAPU"}}
+]}

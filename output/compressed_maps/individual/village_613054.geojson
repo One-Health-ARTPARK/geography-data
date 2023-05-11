@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53350824102762,12.77873468976521],[77.52416232823514,12.77217264130343],[77.5458263822607,12.76663463342316],[77.54711732950172,12.77420156968518],[77.53350824102762,12.77873468976521]]]},"properties":{"region_id":"village_613054","name":"THATTAGUPPE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

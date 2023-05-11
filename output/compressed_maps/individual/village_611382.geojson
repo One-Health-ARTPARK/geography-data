@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18580183122145,13.31673765689334],[77.1911051591561,13.32313977970533],[77.184014875183,13.33431388429134],[77.1779724670802,13.33211203564356],[77.18580183122145,13.31673765689334]]]},"properties":{"region_id":"village_611382","name":"KONDANAYAKANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

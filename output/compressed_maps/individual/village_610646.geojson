@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2317591673937,14.13376166943377],[77.19951305244707,14.12945200491409],[77.20027247457551,14.1059089854478],[77.2219108063335,14.09997318185361],[77.2317591673937,14.13376166943377]]]},"properties":{"region_id":"village_610646","name":"GUNDLAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

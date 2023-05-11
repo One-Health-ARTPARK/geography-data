@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01625245591268,16.10895371801185],[75.9928464685494,16.11997777654775],[75.97755923490001,16.10276364673205],[76.01203807755924,16.08903856241247],[76.01625245591268,16.10895371801185]]]},"properties":{"region_id":"village_598927","name":"CHITTARAGI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

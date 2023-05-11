@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6213899998774,13.03870800016867],[77.61026800036927,13.03816100018204],[77.61949899969964,13.0219799999837],[77.62269100006895,13.03416599997183],[77.6213899998774,13.03870800016867]]]},"properties":{"region_id":"ward_bbmp23","name":"WARD NO. 23 (NAGAVARA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

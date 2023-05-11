@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75639516709424,13.89308621996393],[75.74289451586701,13.88371386685455],[75.75873514662834,13.87562894705121],[75.75639516709424,13.89308621996393]]]},"properties":{"region_id":"village_608586","name":"ARALIHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

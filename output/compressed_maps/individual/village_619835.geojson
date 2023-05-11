@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02387007647407,12.1151065858187],[77.02126444581097,12.12425040988522],[77.00859055776037,12.12605775206326],[77.00470068756682,12.11400569844224],[77.02387007647407,12.1151065858187]]]},"properties":{"region_id":"village_619835","name":"CHILAKAVADI","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

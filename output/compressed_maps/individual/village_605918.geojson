@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45500909019188,13.90592996980238],[76.47809264129717,13.95935086802822],[76.43634345444681,14.00760253654742],[76.41278499042619,13.91512891173115],[76.45500909019188,13.90592996980238]]]},"properties":{"region_id":"village_605918","name":"LAKKIHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

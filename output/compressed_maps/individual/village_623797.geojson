@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84831358571175,13.90332758433107],[77.83849859335508,13.88839062946071],[77.84872377146267,13.87420137983277],[77.85876203237554,13.88763765143158],[77.84831358571175,13.90332758433107]]]},"properties":{"region_id":"village_623797","name":"MARGANAKUNTE","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

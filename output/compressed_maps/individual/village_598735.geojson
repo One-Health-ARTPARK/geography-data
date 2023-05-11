@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6855565185814,15.99561644121863],[75.67310700477647,15.99927102229687],[75.66730206949465,15.97281503557822],[75.67790834270691,15.97597550170542],[75.6855565185814,15.99561644121863]]]},"properties":{"region_id":"village_598735","name":"CHIKKAMUCHALAGUDDA","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40431424844108,13.01029394765017],[77.38679413418659,13.00427496685211],[77.38515824096507,12.99409943126142],[77.40200844989856,12.99619664270212],[77.40431424844108,13.01029394765017]]]},"properties":{"region_id":"village_612800","name":"MALLASANDRA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

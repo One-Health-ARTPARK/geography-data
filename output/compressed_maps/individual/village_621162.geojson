@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95225001168976,16.70557087249313],[76.93225884734399,16.69724700631422],[76.92942041400413,16.67042176323924],[76.95526557150737,16.6799760138029],[76.95225001168976,16.70557087249313]]]},"properties":{"region_id":"village_621162","name":"TOKAPUR","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

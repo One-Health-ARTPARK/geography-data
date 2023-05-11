@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.20326911503794,13.12273425416054],[78.19817840017878,13.12842197431618],[78.19275628628175,13.11605796737242],[78.20429566714853,13.11346437651827],[78.20326911503794,13.12273425416054]]]},"properties":{"region_id":"village_622072","name":"THIMMASANDRA","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

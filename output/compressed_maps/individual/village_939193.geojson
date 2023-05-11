@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12374664363028,15.78692996540251],[75.10951649350054,15.79132912475472],[75.10451509802334,15.7826798370443],[75.12007424904746,15.77561227840391],[75.12374664363028,15.78692996540251]]]},"properties":{"region_id":"village_939193","name":"GUNJALARAKOPPA","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

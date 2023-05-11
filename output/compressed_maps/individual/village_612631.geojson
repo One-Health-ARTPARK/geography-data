@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0182401858857,12.87384488961371],[77.0171454553716,12.89251897503383],[77.005197745391,12.88930500172587],[77.00545389930595,12.87483243308779],[77.0182401858857,12.87384488961371]]]},"properties":{"region_id":"village_612631","name":"PAVASANDRA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

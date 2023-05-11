@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5136201625136,14.52302874883071],[76.53387577891294,14.54001734183235],[76.52409529352911,14.55272131183398],[76.50828688824437,14.54212920161676],[76.5136201625136,14.52302874883071]]]},"properties":{"region_id":"village_606502","name":"TUMMARAGUDDU","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

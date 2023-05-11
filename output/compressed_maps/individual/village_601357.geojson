@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04721850302865,15.47908019823948],[76.01813243384213,15.48196150486434],[76.01472305577184,15.46487523786961],[76.03362020890879,15.46075912531337],[76.04721850302865,15.47908019823948]]]},"properties":{"region_id":"village_601357","name":"GAVARHAL","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

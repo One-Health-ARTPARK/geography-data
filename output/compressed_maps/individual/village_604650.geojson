@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13853300154051,15.01878681930061],[76.12128112777413,15.02037620407244],[76.10185477222173,15.03511059857292],[76.09964115638259,14.98500000105154],[76.1364761485285,14.98256505204732],[76.13853300154051,15.01878681930061]]]},"properties":{"region_id":"village_604650","name":"SONNA","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

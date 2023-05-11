@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02040686822654,16.68241522664812],[77.02630052206852,16.61560380760771],[77.04972403741327,16.60929223463427],[77.05891072318234,16.66567828272766],[77.02040686822654,16.68241522664812]]]},"properties":{"region_id":"village_621157","name":"KURKUNDA","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

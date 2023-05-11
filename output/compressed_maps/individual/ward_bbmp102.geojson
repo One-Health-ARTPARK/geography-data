@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52384100026173,12.99573699988677],[77.52005699982907,12.98788800013262],[77.52908400027385,12.98620100026644],[77.53022800039713,12.99273999972863],[77.52384100026173,12.99573699988677]]]},"properties":{"region_id":"ward_bbmp102","name":"WARD NO.102 (VRISAHBHAVATHI NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

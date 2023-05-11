@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3473528585571,13.49850137440101],[76.33997748044283,13.4987568904238],[76.33662582750782,13.48471306050673],[76.34324515964623,13.48390030251983],[76.3473528585571,13.49850137440101]]]},"properties":{"region_id":"village_615620","name":"YACHAGONDANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

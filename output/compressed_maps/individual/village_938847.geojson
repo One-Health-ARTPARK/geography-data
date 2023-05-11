@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.395633136525,14.43040435338608],[74.3794849212846,14.42483296667024],[74.38554297352331,14.41571316380699],[74.39494886664228,14.41682404084989],[74.395633136525,14.43040435338608]]]},"properties":{"region_id":"village_938847","name":"VANNALLI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89618320181239,12.64176086506799],[75.90241028290221,12.65505571229467],[75.88572324953111,12.65293783638942],[75.89618320181239,12.64176086506799]]]},"properties":{"region_id":"village_939046","name":"KUGURU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

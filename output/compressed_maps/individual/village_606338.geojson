@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81239086889023,14.68619378298722],[75.80666065629603,14.709848521069],[75.76372891683418,14.69076878673665],[75.7632879924367,14.67538095850217],[75.81239086889023,14.68619378298722]]]},"properties":{"region_id":"village_606338","name":"NITTUR","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

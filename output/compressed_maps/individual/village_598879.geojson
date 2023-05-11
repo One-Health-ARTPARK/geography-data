@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90871783874643,16.09444209426942],[75.8889874611286,16.11252311721869],[75.86716628125008,16.09527907662896],[75.89445983993143,16.06456397631073],[75.90871783874643,16.09444209426942]]]},"properties":{"region_id":"village_598879","name":"RAMATHAL","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

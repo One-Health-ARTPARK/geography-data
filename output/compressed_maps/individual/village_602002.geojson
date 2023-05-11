@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65248671314072,15.50685709743063],[75.63908971364008,15.47907328909338],[75.67032308772333,15.47131862972253],[75.6846988701798,15.50400402653237],[75.65248671314072,15.50685709743063]]]},"properties":{"region_id":"village_602002","name":"HIREKOPPA","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

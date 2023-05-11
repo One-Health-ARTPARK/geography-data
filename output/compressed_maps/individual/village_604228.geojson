@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52588782625604,14.8791049172419],[75.49702568960683,14.88309671164787],[75.49271217774853,14.85131702390539],[75.52894727302315,14.85055217243927],[75.52588782625604,14.8791049172419]]]},"properties":{"region_id":"village_604228","name":"YALAGACHI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

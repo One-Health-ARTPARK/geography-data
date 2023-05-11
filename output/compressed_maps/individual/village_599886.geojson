@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38933933100685,18.07967412427193],[77.3957737366061,18.10565691807511],[77.37405609415968,18.1045259264407],[77.38933933100685,18.07967412427193]]]},"properties":{"region_id":"village_599886","name":"HAJNAL","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

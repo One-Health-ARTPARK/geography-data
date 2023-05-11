@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34731975327806,15.9530233500214],[76.32788058132982,15.95831822057099],[76.33358185676182,15.94535750037543],[76.34731975327806,15.9530233500214]]]},"properties":{"region_id":"village_600375","name":"KOMLAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72713824898236,13.84039152995005],[75.70887256069058,13.84158908517276],[75.7141391227358,13.83114726652379],[75.72713824898236,13.84039152995005]]]},"properties":{"region_id":"village_608600","name":"KODIHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

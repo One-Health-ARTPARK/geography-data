@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65947237110493,15.58619568106189],[76.64056612798109,15.58677072312781],[76.64862346337432,15.56297530694395],[76.65947237110493,15.58619568106189]]]},"properties":{"region_id":"village_601688","name":"MARLANAHALLI","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

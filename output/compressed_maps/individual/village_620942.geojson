@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49501136678288,16.48412365089675],[76.48159581197771,16.48216263136872],[76.48025093258708,16.4731990097916],[76.4996731269042,16.47022815142765],[76.49501136678288,16.48412365089675]]]},"properties":{"region_id":"village_620942","name":"DEVAPUR JAGIR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

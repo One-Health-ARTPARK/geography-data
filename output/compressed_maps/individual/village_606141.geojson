@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60073893843388,13.92224361047373],[76.59865261896904,13.95069306928853],[76.57244624572053,13.93969559222046],[76.58366621592207,13.91000269802039],[76.60073893843388,13.92224361047373]]]},"properties":{"region_id":"village_606141","name":"LAKKAVVANAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

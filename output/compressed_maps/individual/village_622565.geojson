@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.13544825993219,12.89780303639002],[78.12939466951741,12.89559794411731],[78.14215214865298,12.89234454972347],[78.14171138368764,12.89616333412744],[78.13544825993219,12.89780303639002]]]},"properties":{"region_id":"village_622565","name":"CHINTAGUMNAHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

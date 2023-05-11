@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79169984347558,12.2053759942216],[76.77718778928997,12.21376599787669],[76.79489553604684,12.18131060669625],[76.80656296213004,12.18845868336023],[76.79169984347558,12.2053759942216]]]},"properties":{"region_id":"village_619203","name":"THUMNERALE","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

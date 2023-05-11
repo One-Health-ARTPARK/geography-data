@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6372529976461,13.40916897887783],[76.62674369427499,13.41188664529374],[76.62442291443529,13.4019204251361],[76.63280084202137,13.40123871373568],[76.6372529976461,13.40916897887783]]]},"properties":{"region_id":"village_610223","name":"JOGIHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

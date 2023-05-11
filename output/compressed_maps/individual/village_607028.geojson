@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87114512693054,14.06607536882489],[75.85594987210565,14.0655955630494],[75.85681234224012,14.05750719608397],[75.87079752363071,14.0552699417936],[75.87114512693054,14.06607536882489]]]},"properties":{"region_id":"village_607028","name":"BYRANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

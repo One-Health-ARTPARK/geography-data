@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78741539689267,12.6028930328047],[76.7771635086496,12.59100773309098],[76.79584020818413,12.58777256212053],[76.80223136546428,12.5984283513313],[76.78741539689267,12.6028930328047]]]},"properties":{"region_id":"village_614431","name":"KANNAHATTI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

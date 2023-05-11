@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82983640103308,13.51032378369774],[75.81305508517727,13.43407849390302],[75.88547307814258,13.43332655841519],[75.88933249978608,13.47360106972596],[75.84310844608534,13.47706316234029],[75.82983640103308,13.51032378369774]]]},"properties":{"region_id":"village_609752","name":"KAMENAHALLIKAVAL","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

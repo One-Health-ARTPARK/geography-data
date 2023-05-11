@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5756280020312,15.10491726758194],[76.55838513400977,15.11364953444003],[76.54581160200591,15.1116345969596],[76.54615633133287,15.09259837950884],[76.56375124442798,15.09325992904174],[76.5756280020312,15.10491726758194]]]},"properties":{"region_id":"village_605001","name":"KRISHNANAGAR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

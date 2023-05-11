@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54154465485362,13.12930805379262],[76.5389706887363,13.13799109309738],[76.52556374933843,13.14025711753239],[76.52542238030499,13.12947146613903],[76.54154465485362,13.12930805379262]]]},"properties":{"region_id":"village_612177","name":"BIDARAKERE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

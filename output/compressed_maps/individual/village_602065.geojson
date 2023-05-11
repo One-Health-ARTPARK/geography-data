@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57849149428294,15.14871696252684],[75.55698456972429,15.17686271788221],[75.54793415015432,15.13976293759441],[75.57849149428294,15.14871696252684]]]},"properties":{"region_id":"village_602065","name":"KUNDRALLI","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

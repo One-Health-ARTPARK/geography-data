@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92079708380422,13.09064128522767],[75.9196920010133,13.08043790549966],[75.93053714323278,13.08130411468133],[75.92764023966637,13.09053998386688],[75.92079708380422,13.09064128522767]]]},"properties":{"region_id":"village_615441","name":"ANDUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

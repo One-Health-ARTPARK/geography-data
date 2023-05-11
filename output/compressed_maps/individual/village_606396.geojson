@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27074541578568,14.59337929174479],[76.24195013713407,14.59598689292766],[76.2547082385289,14.55914772609251],[76.27462264388765,14.53185587662114],[76.3022622803284,14.53748295816716],[76.27074541578568,14.59337929174479]]]},"properties":{"region_id":"village_606396","name":"KANAKUPPE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

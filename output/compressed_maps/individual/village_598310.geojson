@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25501009568418,16.07622950992533],[75.27470522049296,16.12043956909815],[75.26193173463868,16.12322108122204],[75.25501009568418,16.07622950992533]]]},"properties":{"region_id":"village_598310","name":"BEEDAKI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

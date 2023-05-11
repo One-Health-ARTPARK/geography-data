@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39259155935379,15.61993798605465],[76.37917935785848,15.62979072541135],[76.36230588862233,15.62428636167238],[76.37890383977849,15.60684405718423],[76.39259155935379,15.61993798605465]]]},"properties":{"region_id":"village_601560","name":"BAILAKAMPUR","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

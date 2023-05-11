@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72415317127472,16.78538140917848],[76.74530433453538,16.77818328052062],[76.74485920893416,16.81626529899248],[76.72919436396458,16.81974826635789],[76.72415317127472,16.78538140917848]]]},"properties":{"region_id":"village_620868","name":"PADGADHALLI","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

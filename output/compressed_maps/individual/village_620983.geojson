@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47435033097933,16.31770152474761],[76.45712573733002,16.30485633884164],[76.46350779604384,16.28108326253063],[76.47953716761882,16.29201109633982],[76.47435033097933,16.31770152474761]]]},"properties":{"region_id":"village_620983","name":"DHARAMPUR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

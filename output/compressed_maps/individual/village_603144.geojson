@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79164221774903,14.6757727810403],[74.77645229040778,14.67990985674411],[74.76807385706924,14.66804822279187],[74.78319730004183,14.65909416679724],[74.79164221774903,14.6757727810403]]]},"properties":{"region_id":"village_603144","name":"KOPPA","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

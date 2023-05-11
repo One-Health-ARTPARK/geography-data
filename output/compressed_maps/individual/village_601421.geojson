@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05161880959534,16.00337787665677],[76.02316695820824,16.00875779408035],[76.02023647705407,15.99810895366412],[76.05161880959534,16.00337787665677]]]},"properties":{"region_id":"village_601421","name":"HUCHNOOR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

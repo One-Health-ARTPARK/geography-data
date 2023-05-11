@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81159237210876,13.40434283175678],[77.80468031126601,13.40876184425693],[77.79933590851837,13.39711639674359],[77.8043337512959,13.39094012183934],[77.81159237210876,13.40434283175678]]]},"properties":{"region_id":"village_623670","name":"DODDAKIRUGUMBI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

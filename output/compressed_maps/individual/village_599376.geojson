@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31327567728381,16.82387026128445],[76.28655736598431,16.8259545067454],[76.2700696408648,16.78660982428715],[76.29558810620026,16.78373494783272],[76.31327567728381,16.82387026128445]]]},"properties":{"region_id":"village_599376","name":"GUBBEWAD","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

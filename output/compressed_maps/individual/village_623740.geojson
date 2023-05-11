@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7987068151863,13.70203419989976],[77.78529215977123,13.70784213486951],[77.78463885504272,13.67888776289049],[77.80137265183183,13.68263100355249],[77.7987068151863,13.70203419989976]]]},"properties":{"region_id":"village_623740","name":"YERRALAKKENAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81220808492333,11.83264932896302],[76.82201606482253,11.84287428373257],[76.80439264812685,11.85478740512755],[76.79843845521422,11.83780926088078],[76.81220808492333,11.83264932896302]]]},"properties":{"region_id":"village_619523","name":"LAKKUR","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

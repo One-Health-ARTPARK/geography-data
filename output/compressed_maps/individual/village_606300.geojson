@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9472848224045,14.74220442082382],[75.96203301212655,14.76763255640703],[75.94873216682149,14.77116049658267],[75.93590724708825,14.75818176654047],[75.9472848224045,14.74220442082382]]]},"properties":{"region_id":"village_606300","name":"ANANTHANAHALLI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

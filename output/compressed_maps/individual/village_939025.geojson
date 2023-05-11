@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98442135557087,12.57368527243134],[75.97256915640105,12.57736513852233],[75.97621901443902,12.56061953063659],[75.98321844808505,12.56050230830627],[75.98442135557087,12.57368527243134]]]},"properties":{"region_id":"village_939025","name":"CHIKKANAYAKANA HOSALLI","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8342058559646,12.43464056311602],[76.81822713721621,12.4336147614348],[76.82073101196221,12.42112839413694],[76.83383076613504,12.42509562576926],[76.8342058559646,12.43464056311602]]]},"properties":{"region_id":"village_614269","name":"GARAKAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.39862959626302,15.68138059519876],[74.38641860698702,15.68141129605532],[74.37471717823433,15.6729576169905],[74.39035231330591,15.66522262930895],[74.39862959626302,15.68138059519876]]]},"properties":{"region_id":"village_597825","name":"OLAMANI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

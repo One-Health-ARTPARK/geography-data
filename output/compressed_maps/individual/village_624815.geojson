@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38970654508762,13.19619527662755],[77.37307876207042,13.2076179100198],[77.37164113566418,13.19240313704454],[77.38970654508762,13.19619527662755]]]},"properties":{"region_id":"village_624815","name":"BYRANAIKANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

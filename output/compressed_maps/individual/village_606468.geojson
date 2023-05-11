@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19911763214432,14.48649638080315],[76.18576729204428,14.50373538332519],[76.17531897693972,14.48619177119627],[76.19911763214432,14.48649638080315]]]},"properties":{"region_id":"village_606468","name":"NARENAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1414094858626,16.89150581585611],[77.12797270971753,16.91745662216903],[77.10767552678719,16.9037376212161],[77.12071492650975,16.88236164178315],[77.1414094858626,16.89150581585611]]]},"properties":{"region_id":"village_621230","name":"BACHWAR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

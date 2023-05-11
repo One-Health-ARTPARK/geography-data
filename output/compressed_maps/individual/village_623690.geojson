@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75597496966695,13.77470129260362],[77.74102369688471,13.77316332457171],[77.7414157389873,13.75825121611416],[77.75738658522019,13.75806563307773],[77.75597496966695,13.77470129260362]]]},"properties":{"region_id":"village_623690","name":"KADEHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

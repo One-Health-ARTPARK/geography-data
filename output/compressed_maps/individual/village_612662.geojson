@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97366062746806,12.92086609454133],[76.95605477395438,12.91220483189058],[76.95286625671386,12.90274965793461],[76.97633837577075,12.90811186733527],[76.97366062746806,12.92086609454133]]]},"properties":{"region_id":"village_612662","name":"RAGHAVANA HOSUR","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

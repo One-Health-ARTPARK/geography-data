@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68310762329308,14.72435145508281],[74.6453936586322,14.72196925028361],[74.6398104500416,14.69424547384349],[74.68169833760047,14.70158360913807],[74.68310762329308,14.72435145508281]]]},"properties":{"region_id":"village_603106","name":"GONSAR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20398924640557,13.77646450848787],[77.18872385178219,13.76549964738379],[77.19708381336818,13.76087198103761],[77.19149831806186,13.7476886742214],[77.20435742440472,13.75044421625512],[77.20398924640557,13.77646450848787]]]},"properties":{"region_id":"village_610707","name":"HOSAKERE","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

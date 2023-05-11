@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75398333723064,13.0000740513519],[76.73183717795779,13.00406572170447],[76.73571378516486,12.99258335185367],[76.75398333723064,13.0000740513519]]]},"properties":{"region_id":"village_613701","name":"AMBALJEERANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55230233774952,15.0709423987589],[76.54676123593974,15.06231978931965],[76.55503331127397,15.05986356845881],[76.55230233774952,15.0709423987589]]]},"properties":{"region_id":"village_938317","name":"HULIKUNTA-18","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

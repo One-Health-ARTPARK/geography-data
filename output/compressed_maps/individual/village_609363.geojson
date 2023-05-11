@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96830707541419,13.50164537281181],[75.94596907858094,13.5029766307435],[75.95097697347627,13.48863703881388],[75.97102532963143,13.4846253531298],[75.96830707541419,13.50164537281181]]]},"properties":{"region_id":"village_609363","name":"RAMANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2749875998391,14.99694708543478],[75.28208624868029,15.01145033636905],[75.24848483780767,15.00815070863659],[75.2507735788287,14.99686853094641],[75.2749875998391,14.99694708543478]]]},"properties":{"region_id":"village_603934","name":"CHIKMALLUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24581568664625,13.19901553581879],[77.23295140065818,13.20200914643954],[77.22724139774212,13.1899663399476],[77.2404887372813,13.18578343647718],[77.24581568664625,13.19901553581879]]]},"properties":{"region_id":"village_624754","name":"BARGENAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

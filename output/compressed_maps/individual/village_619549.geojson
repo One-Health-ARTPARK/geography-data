@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83222075691411,11.71540969008281],[76.81570218741753,11.7165977362551],[76.83055808324416,11.67378348586611],[76.84096044285779,11.7096505720328],[76.83222075691411,11.71540969008281]]]},"properties":{"region_id":"village_619549","name":"KADABUR","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

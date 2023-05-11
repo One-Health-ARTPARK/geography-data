@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69727753554902,13.04872484854439],[77.6867288398728,13.06164542898442],[77.67980999661314,13.05248531667771],[77.69727753554902,13.04872484854439]]]},"properties":{"region_id":"village_613076","name":"RAMPURA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

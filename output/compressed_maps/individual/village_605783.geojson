@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25401664208081,14.02968454256333],[76.22786932938149,14.02874161980076],[76.23692820716518,14.01419408286313],[76.25401664208081,14.02968454256333]]]},"properties":{"region_id":"village_605783","name":"SIRAPPANAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

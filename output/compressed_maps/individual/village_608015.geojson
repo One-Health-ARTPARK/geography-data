@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94442353600914,13.91555939991143],[74.94812028453732,13.8919152832],[74.96552946826733,13.9085921455466],[74.9676647991966,13.92960346411086],[74.9475257593159,13.93773916354125],[74.94442353600914,13.91555939991143]]]},"properties":{"region_id":"village_608015","name":"ADAGODI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

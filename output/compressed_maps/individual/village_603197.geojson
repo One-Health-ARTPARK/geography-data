@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74883594460275,14.52610405536005],[74.734683578385,14.52873150376066],[74.73166678903745,14.51557836825162],[74.74974517696944,14.51927847402842],[74.74883594460275,14.52610405536005]]]},"properties":{"region_id":"village_603197","name":"ADALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07377050732255,13.15823897825007],[77.0578226346405,13.15644454056097],[77.06902361443635,13.14370365051114],[77.07377050732255,13.15823897825007]]]},"properties":{"region_id":"village_611540","name":"NARAYANAKERE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

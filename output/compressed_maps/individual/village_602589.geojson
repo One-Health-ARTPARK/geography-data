@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.21961939320984,14.94723689607374],[74.19847969293174,14.92213097198112],[74.23065530959245,14.91170715189485],[74.21961939320984,14.94723689607374]]]},"properties":{"region_id":"village_602589","name":"GOPASHITTA","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

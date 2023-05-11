@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15676859314681,13.7172518828378],[77.16806240333722,13.74579361869884],[77.15673868965139,13.76462885613692],[77.14103702530778,13.76527191363311],[77.14161652125055,13.74007840041073],[77.15676859314681,13.7172518828378]]]},"properties":{"region_id":"village_610713","name":"NERALEKERE","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

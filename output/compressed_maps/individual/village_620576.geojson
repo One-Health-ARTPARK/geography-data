@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36077311143966,16.98024091466052],[77.36159299738837,16.95784832094446],[77.37132777022232,16.95687953291767],[77.37666214221389,16.97637521594278],[77.36077311143966,16.98024091466052]]]},"properties":{"region_id":"village_620576","name":"GADDANNA","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

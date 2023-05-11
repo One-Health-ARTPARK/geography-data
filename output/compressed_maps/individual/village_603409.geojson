@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.31802639198732,14.65713051577816],[74.30973042631722,14.65639696571502],[74.30447907216457,14.64719993478271],[74.3100245891615,14.64092373602756],[74.31802639198732,14.65713051577816]]]},"properties":{"region_id":"village_603409","name":"VANDIGE (OG)","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

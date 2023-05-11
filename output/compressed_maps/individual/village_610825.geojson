@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24576676087483,13.68627192822201],[77.22925026684916,13.68483083887823],[77.22489370779984,13.67084835491199],[77.24147030530831,13.67535829852899],[77.24576676087483,13.68627192822201]]]},"properties":{"region_id":"village_610825","name":"BIJAVARA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

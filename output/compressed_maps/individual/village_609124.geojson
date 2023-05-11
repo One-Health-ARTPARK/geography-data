@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69032428981363,13.68463125525242],[75.68492664569115,13.69431014180654],[75.67453729969768,13.69456868712045],[75.67470802101361,13.68605947811632],[75.69032428981363,13.68463125525242]]]},"properties":{"region_id":"village_609124","name":"MANDARAVALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

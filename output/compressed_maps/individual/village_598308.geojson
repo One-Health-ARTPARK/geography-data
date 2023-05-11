@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23691288778234,16.12826538602825],[75.21804198167125,16.12869743445597],[75.21957228723791,16.11272011554232],[75.2414243033335,16.10157201222136],[75.23691288778234,16.12826538602825]]]},"properties":{"region_id":"village_598308","name":"KULLUR","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

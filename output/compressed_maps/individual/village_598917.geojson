@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99658185325774,16.20878379011706],[76.01529112627107,16.20726972122467],[76.0547539226855,16.20859916957657],[76.04590041603018,16.2123537042479],[76.0191810459586,16.21153811775807],[75.99658185325774,16.20878379011706]]]},"properties":{"region_id":"village_598917","name":"CHOWDAKAMALADINNI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

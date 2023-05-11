@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71542644898281,16.68280684211843],[76.69324940191962,16.67413079786476],[76.7124312028451,16.64305608949458],[76.74305255416637,16.65795837218382],[76.71542644898281,16.68280684211843]]]},"properties":{"region_id":"village_621104","name":"HOSKERA","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

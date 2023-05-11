@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64707700206847,14.23022039601937],[75.64079337493361,14.2361447917779],[75.62172696082297,14.23218295601754],[75.63257630278545,14.22054896675829],[75.64707700206847,14.23022039601937]]]},"properties":{"region_id":"village_606820","name":"HIREMATA","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

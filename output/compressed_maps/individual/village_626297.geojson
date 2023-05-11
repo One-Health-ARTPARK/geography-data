@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16757385678282,12.55159017450297],[77.16675132250488,12.55941833742885],[77.15004821268874,12.5614902180016],[77.15234257097843,12.54717401304904],[77.16757385678282,12.55159017450297]]]},"properties":{"region_id":"village_626297","name":"SADAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

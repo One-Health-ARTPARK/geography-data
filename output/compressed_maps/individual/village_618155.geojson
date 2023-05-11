@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13467584100147,12.52957927385296],[76.11581854854492,12.52872381264745],[76.11901248512085,12.51854302535489],[76.13285424309441,12.51519243081863],[76.13467584100147,12.52957927385296]]]},"properties":{"region_id":"village_618155","name":"KOWLANAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

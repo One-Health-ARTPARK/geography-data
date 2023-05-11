@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26979929763418,13.79949275212804],[76.27009411202094,13.82251701953902],[76.24910297271302,13.82391205598135],[76.24842757425148,13.79757179965774],[76.26979929763418,13.79949275212804]]]},"properties":{"region_id":"village_605851","name":"SHIVANEKATTE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18178483621237,13.87001012183532],[77.16737421940174,13.86232372484833],[77.18297204225354,13.84612752952372],[77.18178483621237,13.87001012183532]]]},"properties":{"region_id":"village_610670","name":"SATTIGENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

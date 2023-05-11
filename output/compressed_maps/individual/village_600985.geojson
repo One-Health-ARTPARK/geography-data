@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16804458244451,16.09753842435854],[77.17254183009719,16.13573753507381],[77.13768262256883,16.13900642277137],[77.13799093613638,16.09789419712542],[77.16804458244451,16.09753842435854]]]},"properties":{"region_id":"village_600985","name":"HOKRANI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

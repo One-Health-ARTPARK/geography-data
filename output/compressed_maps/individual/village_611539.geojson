@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06923444688306,13.13425267712021],[77.05364416641228,13.14300445636176],[77.05441246742235,13.12869398945874],[77.06923444688306,13.13425267712021]]]},"properties":{"region_id":"village_611539","name":"DODDAGUNI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

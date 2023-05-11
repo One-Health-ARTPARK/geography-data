@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79665395234849,15.88085817439643],[76.77822758563657,15.88236085836308],[76.77719634202657,15.87278789060651],[76.79567164852125,15.86939311795615],[76.79665395234849,15.88085817439643]]]},"properties":{"region_id":"village_601149","name":"JANGAMERHATTI (A)","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

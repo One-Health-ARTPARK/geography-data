@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74969739840704,16.34044540906864],[75.75545616543124,16.36054492524101],[75.74746934695752,16.36440131433586],[75.74115602268591,16.3429048171588],[75.74969739840704,16.34044540906864]]]},"properties":{"region_id":"village_598522","name":"KOPPA S.R RC","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

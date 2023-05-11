@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29274881277564,12.55432395094805],[77.28799645511451,12.55340459150664],[77.28637639433417,12.54650027849465],[77.29248317323588,12.54632065486007],[77.29274881277564,12.55432395094805]]]},"properties":{"region_id":"village_626327","name":"KODIHOSAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

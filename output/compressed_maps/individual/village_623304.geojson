@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67744802548509,13.71787528197191],[77.67280914871988,13.72251869708688],[77.66285362146256,13.71665440100325],[77.67352761112403,13.70979953754579],[77.67744802548509,13.71787528197191]]]},"properties":{"region_id":"village_623304","name":"KODIHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

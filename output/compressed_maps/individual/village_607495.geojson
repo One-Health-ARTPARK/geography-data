@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20025601871579,14.48053500275913],[75.18379961607052,14.48604324113442],[75.17738463849004,14.46838844214828],[75.19079689601854,14.46790504912104],[75.20025601871579,14.48053500275913]]]},"properties":{"region_id":"village_607495","name":"CHIKKABBURU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94895005330159,14.38011103055846],[75.92474763453171,14.38671870395025],[75.91587261455759,14.36626207991332],[75.94319150897633,14.36178197646002],[75.94895005330159,14.38011103055846]]]},"properties":{"region_id":"village_606584","name":"TURUCHAGATTA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20170938685742,14.08889401876662],[77.17402716734952,14.07782222721752],[77.19859620564489,14.06588394753209],[77.20170938685742,14.08889401876662]]]},"properties":{"region_id":"village_610618","name":"DAVADABETTA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

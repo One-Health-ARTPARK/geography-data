@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34897772603796,12.77600364238889],[77.32766883635486,12.77832867650869],[77.33021235312485,12.75948830264515],[77.34794146527496,12.75710301271902],[77.34897772603796,12.77600364238889]]]},"properties":{"region_id":"village_626094","name":"MAYAGANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

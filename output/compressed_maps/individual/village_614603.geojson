@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02848032667728,12.55085221075275],[76.99809971742863,12.55193490071654],[77.01152296507452,12.53576064300038],[77.02848032667728,12.55085221075275]]]},"properties":{"region_id":"village_614603","name":"SADOLALU","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

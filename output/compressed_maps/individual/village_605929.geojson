@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3022145790943,13.87780705896643],[76.28458493271529,13.88227395564228],[76.284430935745,13.87423652695324],[76.3022145790943,13.87780705896643]]]},"properties":{"region_id":"village_605929","name":"NARASIPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

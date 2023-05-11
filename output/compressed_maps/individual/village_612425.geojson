@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81611860442524,13.07544528224597],[76.80716978804416,13.06784955574913],[76.81496047968113,13.0573869800541],[76.822744839929,13.06420713063441],[76.81611860442524,13.07544528224597]]]},"properties":{"region_id":"village_612425","name":"DUMMANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

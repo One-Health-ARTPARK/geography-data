@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8917827601827,13.38970579073938],[75.8831085817343,13.39083221028061],[75.88623197075067,13.38210754057286],[75.8917827601827,13.38970579073938]]]},"properties":{"region_id":"village_609766","name":"KAREHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

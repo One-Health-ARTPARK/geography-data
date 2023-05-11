@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36478446768422,13.63791377368086],[76.33400922140915,13.63709821222392],[76.3290038224475,13.61946092939626],[76.36861174468886,13.61332635611821],[76.36478446768422,13.63791377368086]]]},"properties":{"region_id":"village_605984","name":"GARAGA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4572982102386,14.02147025524768],[75.45012175927994,14.01703430170008],[75.46135742668129,14.01266823545407],[75.4572982102386,14.02147025524768]]]},"properties":{"region_id":"village_608370","name":"PUGATE KOPPA","parent":"subdistrict_5520","parent_name":"SHIVAMOGGA"}}
+]}

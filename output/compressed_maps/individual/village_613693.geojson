@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83458959901263,12.75071496277026],[76.8327269582431,12.7749502305117],[76.80807651799567,12.77221166425572],[76.83458959901263,12.75071496277026]]]},"properties":{"region_id":"village_613693","name":"HULLENAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

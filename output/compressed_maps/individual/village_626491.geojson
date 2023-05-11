@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25419552171454,12.47090764471308],[77.25396923024648,12.49358211377606],[77.25623868454467,12.50866056702668],[77.24005036041294,12.50698071620028],[77.23629417246403,12.47092705398724],[77.25419552171454,12.47090764471308]]]},"properties":{"region_id":"village_626491","name":"KANCHANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

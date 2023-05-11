@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95115034087615,13.87877055272211],[75.9499691781378,13.89728901601745],[75.93443397325812,13.89594085018262],[75.93825514547811,13.88257659566377],[75.95115034087615,13.87877055272211]]]},"properties":{"region_id":"village_607107","name":"CHIKKASANDI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

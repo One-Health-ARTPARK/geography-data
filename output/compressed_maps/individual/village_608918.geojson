@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20284120475816,13.50911244144196],[75.20261001061468,13.49247213693519],[75.22315298886393,13.4654318481004],[75.231067224472,13.49829745686515],[75.20284120475816,13.50911244144196]]]},"properties":{"region_id":"village_608918","name":"NEELANDUR","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

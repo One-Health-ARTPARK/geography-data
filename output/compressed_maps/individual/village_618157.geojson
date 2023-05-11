@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16257796899518,12.5157895487654],[76.14726126159493,12.51628892602679],[76.14539797884363,12.5037013667467],[76.1576614545554,12.50069759081185],[76.16349898010932,12.51079774413763],[76.16257796899518,12.5157895487654]]]},"properties":{"region_id":"village_618157","name":"SANGARASETTYHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

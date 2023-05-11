@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65589985057126,12.59394119669149],[76.63346049418324,12.60096714776975],[76.64163259046713,12.58395873856191],[76.65589985057126,12.59394119669149]]]},"properties":{"region_id":"village_614103","name":"KODALA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.67930694359549,16.00871276104563],[74.67597919726667,16.01098993605887],[74.66275819673719,16.00068233548028],[74.67695448855133,15.99787754765675],[74.67930694359549,16.00871276104563]]]},"properties":{"region_id":"village_597495","name":"GUJANAL","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

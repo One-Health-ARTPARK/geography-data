@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33741935418952,17.05562409443563],[76.30502770424401,17.02903264457046],[76.32770627100571,17.01245674455614],[76.33741935418952,17.05562409443563]]]},"properties":{"region_id":"village_599323","name":"SOMAJAL","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

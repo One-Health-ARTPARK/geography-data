@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26642049391329,14.08618110855319],[75.26484082846126,14.10620658900434],[75.24681170156421,14.09851995800659],[75.26642049391329,14.08618110855319]]]},"properties":{"region_id":"village_607297","name":"TANGALAVADI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

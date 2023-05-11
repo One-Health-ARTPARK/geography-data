@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6810920753567,16.3774753522546],[76.6654419761345,16.37323466405723],[76.65232941131161,16.3570402828485],[76.68701418369966,16.35821527896792],[76.6810920753567,16.3774753522546]]]},"properties":{"region_id":"village_600536","name":"VEERGOT","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

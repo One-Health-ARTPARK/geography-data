@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93681060922323,12.63560055122897],[76.93238311989492,12.62511841144694],[76.94487756625021,12.61039870594985],[76.94451517891261,12.63450207995539],[76.93681060922323,12.63560055122897]]]},"properties":{"region_id":"village_614379","name":"NALLAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

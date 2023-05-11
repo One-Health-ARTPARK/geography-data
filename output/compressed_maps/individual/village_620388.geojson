@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50332171922317,17.49447519578857],[77.46013773175595,17.4858521756721],[77.48276597296771,17.46384735417407],[77.50332171922317,17.49447519578857]]]},"properties":{"region_id":"village_620388","name":"BHOGLINGDHALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

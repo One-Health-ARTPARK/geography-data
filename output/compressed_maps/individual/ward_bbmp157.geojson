@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53845099976654,12.95086300025512],[77.54946899991445,12.94497999991923],[77.54941400019308,12.95492199990893],[77.53845099976654,12.95086300025512]]]},"properties":{"region_id":"ward_bbmp157","name":"WARD NO.157 (GALI ANJENAYA TEMPLE WARD)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30308247741429,14.62951506946525],[76.30288855045734,14.61900499549993],[76.31169751137362,14.615096202133],[76.31305714734111,14.62904033307183],[76.30308247741429,14.62951506946525]]]},"properties":{"region_id":"village_606401","name":"BEDARABENAKANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29454456319324,13.69311526052338],[77.28802352361757,13.69208328000824],[77.2872866705034,13.67912012517592],[77.29223048323348,13.68019839694594],[77.29454456319324,13.69311526052338]]]},"properties":{"region_id":"village_610963","name":"HALETHIMMANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

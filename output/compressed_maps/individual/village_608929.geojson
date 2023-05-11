@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22965954721313,13.38606559874635],[75.21579328720851,13.38900307246952],[75.21293919559456,13.370953712835],[75.2352301081957,13.36903642913479],[75.22965954721313,13.38606559874635]]]},"properties":{"region_id":"village_608929","name":"NEMMARU","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

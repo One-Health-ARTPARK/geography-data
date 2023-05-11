@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27151342235398,12.41941506384836],[76.24519907556487,12.42385111426932],[76.23943044786309,12.39897057684071],[76.27056437180039,12.40609433562912],[76.27151342235398,12.41941506384836]]]},"properties":{"region_id":"village_618294","name":"HARAVE","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

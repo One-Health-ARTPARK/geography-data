@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68174424331342,13.93614173499101],[76.68753708775915,13.91666391677015],[76.70634172802419,13.93119686521789],[76.7007792601606,13.94633267890855],[76.68174424331342,13.93614173499101]]]},"properties":{"region_id":"village_606163","name":"PITLALI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

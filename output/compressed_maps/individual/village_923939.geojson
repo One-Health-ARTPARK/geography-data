@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96315205077833,12.69777980547632],[75.95293951325205,12.69837530632513],[75.9465156089508,12.69347705511094],[75.9506834237807,12.68728538519151],[75.96132149317891,12.69230848770334],[75.96315205077833,12.69777980547632]]]},"properties":{"region_id":"village_923939","name":"SIGEMARURU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85303954559436,12.87672381199154],[77.85311783329188,12.88912227989277],[77.84697859297339,12.89169845061304],[77.84147919389085,12.87930615214976],[77.85303954559436,12.87672381199154]]]},"properties":{"region_id":"village_625758","name":"MARAMGERE","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

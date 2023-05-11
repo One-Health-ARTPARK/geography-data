@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56644376674892,16.53714685630357],[76.53056747887413,16.54412184410564],[76.52882568509085,16.51288829293714],[76.56059611184885,16.50382902550611],[76.56644376674892,16.53714685630357]]]},"properties":{"region_id":"village_620931","name":"YEDHALLI","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

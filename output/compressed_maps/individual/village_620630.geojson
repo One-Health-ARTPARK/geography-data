@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10045530678754,17.28191124704193],[77.07808739198445,17.28559848878119],[77.07282252118173,17.26881943199492],[77.09957106459079,17.26075694599351],[77.10045530678754,17.28191124704193]]]},"properties":{"region_id":"village_620630","name":"INDANKAL","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

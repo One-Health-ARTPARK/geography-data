@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94088157305207,17.60667722746735],[76.92191990010099,17.60990841487878],[76.91622597481764,17.59151307942404],[76.94053753498655,17.59657586516726],[76.94088157305207,17.60667722746735]]]},"properties":{"region_id":"village_619985","name":"KUDMUD","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

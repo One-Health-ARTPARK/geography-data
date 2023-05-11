@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48144967187794,13.20350132610137],[76.4623598028303,13.19795466230669],[76.47536270930965,13.18374928922803],[76.48144967187794,13.20350132610137]]]},"properties":{"region_id":"village_612118","name":"NARASIKATTE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

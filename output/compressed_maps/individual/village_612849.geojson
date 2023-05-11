@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54887436782366,13.17445563977578],[77.53664817966626,13.16467326996867],[77.55482726405805,13.1606030253063],[77.54887436782366,13.17445563977578]]]},"properties":{"region_id":"village_612849","name":"ITTAGALLPURA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

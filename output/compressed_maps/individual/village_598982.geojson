@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22924065772015,16.05558049605254],[76.2080792138091,16.07131766324709],[76.20906194098403,16.04960655319721],[76.22924065772015,16.05558049605254]]]},"properties":{"region_id":"village_598982","name":"BENAKANADONI","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

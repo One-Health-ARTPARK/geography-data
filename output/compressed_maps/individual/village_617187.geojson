@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37569496625207,12.83089509819907],[76.38175651295651,12.83011405048146],[76.38802904204127,12.84077872194287],[76.37425622725816,12.84079769212111],[76.37569496625207,12.83089509819907]]]},"properties":{"region_id":"village_617187","name":"DADADAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

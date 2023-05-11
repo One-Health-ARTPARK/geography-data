@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20882316905094,13.09929577508099],[76.19380939266077,13.09759819426278],[76.18249633937545,13.082227862182],[76.20107188247387,13.07126316177249],[76.20882316905094,13.09929577508099]]]},"properties":{"region_id":"village_615951","name":"CHIKKAKADALUR","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

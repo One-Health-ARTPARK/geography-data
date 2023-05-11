@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8009261284581,17.71426384237891],[76.7982139593797,17.73275746258298],[76.78532792446244,17.72852228533808],[76.8009261284581,17.71426384237891]]]},"properties":{"region_id":"village_599801","name":"SIRURI","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

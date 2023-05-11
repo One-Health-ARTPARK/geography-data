@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.59228441049258,13.97571260838209],[74.58060971012677,13.98291264511465],[74.57344387642667,13.97215687823677],[74.57893282985594,13.96007799787819],[74.59228441049258,13.97571260838209]]]},"properties":{"region_id":"village_603854","name":"YELAVADIKAVOOR","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

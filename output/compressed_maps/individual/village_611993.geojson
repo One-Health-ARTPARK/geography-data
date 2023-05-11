@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37950942194736,13.31351635682184],[76.372900094194,13.31673168635785],[76.36324298773903,13.31353158778556],[76.36318996582898,13.30701794773796],[76.37165320041743,13.30832889264923],[76.37950942194736,13.31351635682184]]]},"properties":{"region_id":"village_611993","name":"RAMANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

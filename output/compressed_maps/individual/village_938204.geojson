@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65565595713501,13.046776824008],[77.65649117356486,13.07461299964006],[77.65193115033976,13.07143252922454],[77.65159930695093,13.05881954327294],[77.64748312929333,13.04774964460257],[77.65565595713501,13.046776824008]]]},"properties":{"region_id":"village_938204","name":"BHAIRATI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

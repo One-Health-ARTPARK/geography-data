@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56111194295896,14.1299315171669],[75.54123645939133,14.12903736247248],[75.54445009602262,14.11525146530103],[75.55815367194934,14.11788087963019],[75.56111194295896,14.1299315171669]]]},"properties":{"region_id":"village_606743","name":"SALUBALU","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

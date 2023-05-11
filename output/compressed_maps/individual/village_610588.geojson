@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49214301949728,14.23430357835385],[77.48190763417405,14.29258688858303],[77.44504836393207,14.25033511392159],[77.49214301949728,14.23430357835385]]]},"properties":{"region_id":"village_610588","name":"RAYACHARLU","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

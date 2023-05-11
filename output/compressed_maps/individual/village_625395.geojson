@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69361354374642,13.34214945460212],[77.68296549500143,13.3527599393741],[77.6776771099763,13.34199092717523],[77.69361354374642,13.34214945460212]]]},"properties":{"region_id":"village_625395","name":"KEMPATHIMMANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

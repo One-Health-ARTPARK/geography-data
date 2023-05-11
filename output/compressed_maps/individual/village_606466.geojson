@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21989332570288,14.50811086605622],[76.19902909986568,14.49396308415279],[76.19939993159907,14.48171114018746],[76.22850832223266,14.47808741591063],[76.21989332570288,14.50811086605622]]]},"properties":{"region_id":"village_606466","name":"HIREARAKERE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

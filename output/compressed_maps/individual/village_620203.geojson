@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07845498672803,17.56227654226238],[77.06131890599167,17.56690601846493],[77.04354773812648,17.54774095591533],[77.05500341634843,17.53790522875786],[77.07845498672803,17.56227654226238]]]},"properties":{"region_id":"village_620203","name":"KAWANHALLI","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

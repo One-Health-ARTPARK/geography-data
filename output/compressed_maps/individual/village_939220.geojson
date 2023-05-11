@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.46529821502834,15.25498468961215],[74.44693379118354,15.26620604779707],[74.4246551547452,15.24226803365266],[74.44339554647703,15.23613407682173],[74.46529821502834,15.25498468961215]]]},"properties":{"region_id":"village_939220","name":"DONGARAWADA","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

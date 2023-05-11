@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07600254074256,12.74552951675593],[77.07205265549729,12.73347920801458],[77.07935223960808,12.72205251464245],[77.0819309141957,12.74525358683185],[77.07600254074256,12.74552951675593]]]},"properties":{"region_id":"village_614547","name":"NAGANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

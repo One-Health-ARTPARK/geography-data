@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82187832255669,12.88503298831367],[76.80434153635915,12.90381808792606],[76.79631648351263,12.87784972434381],[76.82187832255669,12.88503298831367]]]},"properties":{"region_id":"village_613911","name":"MYLARAPATNA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

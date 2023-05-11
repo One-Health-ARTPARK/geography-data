@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25837016791974,16.42254104347593],[76.22885067242885,16.42175510803137],[76.22548438416075,16.40177402845828],[76.25117895377043,16.39304506170351],[76.25837016791974,16.42254104347593]]]},"properties":{"region_id":"village_599603","name":"DEVARHULAGABAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

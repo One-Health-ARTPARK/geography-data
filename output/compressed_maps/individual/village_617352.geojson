@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58008600795516,12.87335126249418],[76.5960170257614,12.88024440172146],[76.59096762435229,12.88702889408333],[76.57952706422611,12.88448890188498],[76.58008600795516,12.87335126249418]]]},"properties":{"region_id":"village_617352","name":"KAMARAVALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7788527577499,13.82699248821234],[76.76375100935996,13.82163619692137],[76.77910523433978,13.80264431800222],[76.78815174903356,13.81986703857603],[76.7788527577499,13.82699248821234]]]},"properties":{"region_id":"village_610322","name":"UJJANAKUNTE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

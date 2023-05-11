@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75762523120288,13.61559179236995],[76.75326135978626,13.5938026604064],[76.77394343183103,13.59508865385792],[76.75762523120288,13.61559179236995]]]},"properties":{"region_id":"village_610450","name":"MADENAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

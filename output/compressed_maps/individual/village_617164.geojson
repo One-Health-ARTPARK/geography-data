@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36697389058457,12.98812271077662],[76.35320385374084,12.98631948252028],[76.35627727489134,12.96968575781584],[76.37296928005654,12.97388308631538],[76.36697389058457,12.98812271077662]]]},"properties":{"region_id":"village_617164","name":"MADABA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25791534250892,13.16523873571514],[77.2485888339078,13.16432095129094],[77.2467177363201,13.15320539191635],[77.25750475956445,13.15344600704414],[77.25791534250892,13.16523873571514]]]},"properties":{"region_id":"village_624768","name":"GANTEHOSAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

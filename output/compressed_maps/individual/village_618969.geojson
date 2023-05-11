@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46677532421413,12.10953771205907],[76.45318412055695,12.11630070866289],[76.4530836981083,12.09928608548877],[76.46677532421413,12.10953771205907]]]},"properties":{"region_id":"village_618969","name":"SHANKAHALLI","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

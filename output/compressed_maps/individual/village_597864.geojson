@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.51383309350696,15.67434529512863],[74.49948332427793,15.67689851181377],[74.49827651745782,15.66048097978549],[74.51067149513084,15.66174787083312],[74.51383309350696,15.67434529512863]]]},"properties":{"region_id":"village_597864","name":"HATTAR GUNJI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

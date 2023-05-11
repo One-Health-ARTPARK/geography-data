@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96206016505656,12.68808819870687],[76.94123620371691,12.68457555231983],[76.94493266510851,12.66608105640689],[76.95810977764909,12.66051986295758],[76.96206016505656,12.68808819870687]]]},"properties":{"region_id":"village_614520","name":"GULOORU","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

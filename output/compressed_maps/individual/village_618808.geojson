@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71471746127962,12.25275751605176],[76.70350677966158,12.25166791405014],[76.69668096839916,12.23021283299295],[76.71215613529843,12.23074078241969],[76.71471746127962,12.25275751605176]]]},"properties":{"region_id":"village_618808","name":"MARASHETTYHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

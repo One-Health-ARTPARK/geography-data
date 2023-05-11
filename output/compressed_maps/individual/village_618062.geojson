@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94460751386733,12.07799780209957],[75.90893580263527,12.08026102693454],[75.90287041141279,12.07281612482762],[75.91290869556735,12.05065135468158],[75.95050337429544,12.04682722901553],[75.94460751386733,12.07799780209957]]]},"properties":{"region_id":"village_618062","name":"HYSODLUR","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

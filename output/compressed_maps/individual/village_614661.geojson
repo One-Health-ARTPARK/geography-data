@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98129081245371,12.4164476155156],[76.96783955032728,12.41826800883763],[76.96691513378748,12.3966516907017],[76.98084653936007,12.39635630160718],[76.98129081245371,12.4164476155156]]]},"properties":{"region_id":"village_614661","name":"HITTANAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

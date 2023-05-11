@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66999616787112,13.62364648742672],[77.6514865076392,13.62765421742826],[77.65197994620618,13.59783724696368],[77.67954779346796,13.60752981805864],[77.68534047457847,13.62615199186336],[77.66999616787112,13.62364648742672]]]},"properties":{"region_id":"village_623431","name":"UDAGIRINALLAPPANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93066587182486,13.7807901135729],[74.90956953066059,13.8609907430459],[74.86120821858432,13.83531106659434],[74.85860650588866,13.78861035921762],[74.93066587182486,13.7807901135729]]]},"properties":{"region_id":"village_608684","name":"MUDOOR","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

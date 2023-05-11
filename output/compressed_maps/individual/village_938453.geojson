@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52796362877095,12.9489527498992],[77.51155578953194,12.94235413421508],[77.5167040851138,12.93426174625867],[77.52796362877095,12.9489527498992]]]},"properties":{"region_id":"village_938453","name":"NAYANDAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46439534935674,15.5159143334519],[76.45541057108271,15.48589828456993],[76.48071979899944,15.48442179990538],[76.46439534935674,15.5159143334519]]]},"properties":{"region_id":"village_601599","name":"MALKANMARDI","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

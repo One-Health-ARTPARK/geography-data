@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58178843335342,14.2967444550279],[76.56180361625175,14.30150054695407],[76.53460879082262,14.29067276848881],[76.5378151584331,14.27531874623873],[76.56336338997207,14.27389776317568],[76.58178843335342,14.2967444550279]]]},"properties":{"region_id":"village_605344","name":"RAMAJOGIHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

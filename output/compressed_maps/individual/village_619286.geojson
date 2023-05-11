@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80937673818438,12.04944541423913],[76.78924745299734,12.05585091533149],[76.77890889722791,12.03790910302645],[76.80886007725466,12.04078543081271],[76.80937673818438,12.04944541423913]]]},"properties":{"region_id":"village_619286","name":"CHIKKAKOWLANDE","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

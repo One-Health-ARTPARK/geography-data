@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34011852732533,13.4577833970217],[75.31088092108874,13.46376276775108],[75.32233734278222,13.43839178335312],[75.34011852732533,13.4577833970217]]]},"properties":{"region_id":"village_608986","name":"BHUYANAKOTE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

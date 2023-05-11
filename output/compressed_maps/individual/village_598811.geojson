@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85347550455786,16.30543737324312],[75.84661845691777,16.33323753692062],[75.82965476015521,16.34070334780829],[75.84304996993468,16.29057386985287],[75.85347550455786,16.30543737324312]]]},"properties":{"region_id":"village_598811","name":"HIREGULABAL","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75627317242026,14.58126707422181],[74.75154131190816,14.58848471823474],[74.7418978102569,14.58579182324188],[74.74708772892878,14.57740665283217],[74.75627317242026,14.58126707422181]]]},"properties":{"region_id":"village_603184","name":"HALLUSARGI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

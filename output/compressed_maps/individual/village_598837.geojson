@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02714131098136,16.29961242149051],[76.00586666087722,16.30386005621359],[76.01398027180348,16.27915235483496],[76.02714131098136,16.29961242149051]]]},"properties":{"region_id":"village_598837","name":"BOMMANAGI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

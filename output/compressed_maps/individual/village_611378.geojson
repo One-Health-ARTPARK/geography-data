@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20865736072477,13.3138413581369],[77.20326483784173,13.33344623340803],[77.19129304719587,13.32328135576325],[77.20865736072477,13.3138413581369]]]},"properties":{"region_id":"village_611378","name":"MADAGONDANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

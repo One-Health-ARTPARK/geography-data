@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74885606413238,13.23086721630933],[74.73433024255652,13.23677031500431],[74.7396234030389,13.21273371120464],[74.75074431051716,13.21421537171299],[74.74885606413238,13.23086721630933]]]},"properties":{"region_id":"village_608832","name":"PADU","parent":"subdistrict_7067","parent_name":"KAPU"}}
+]}

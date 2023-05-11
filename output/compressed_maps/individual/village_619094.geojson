@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43436179979459,11.91465215818714],[76.42555832903263,11.91548663741943],[76.42161637310788,11.90332673998229],[76.42689969668082,11.89543714604137],[76.43436179979459,11.91465215818714]]]},"properties":{"region_id":"village_619094","name":"BYRAPURA","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

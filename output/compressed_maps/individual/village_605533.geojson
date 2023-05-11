@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25743557480135,14.29030548905186],[76.24320341215567,14.28572495494033],[76.24819794156478,14.26809905605237],[76.26477426772105,14.27252554759474],[76.25743557480135,14.29030548905186]]]},"properties":{"region_id":"village_605533","name":"CHIKKALAGHATTA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

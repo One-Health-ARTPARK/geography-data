@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75812811329926,13.73169163002198],[74.73420727326737,13.7029688134591],[74.74824407998881,13.69465104995141],[74.77088115676976,13.71223989104385],[74.75812811329926,13.73169163002198]]]},"properties":{"region_id":"village_608705","name":"VANDSE","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

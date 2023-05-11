@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88997544185665,12.81823077390806],[74.8850865331666,12.84417967559368],[74.87461192722691,12.83936953692919],[74.87134801400182,12.82179174157794],[74.88997544185665,12.81823077390806]]]},"properties":{"region_id":"village_617516","name":"MUNNUR (CT)","parent":"subdistrict_7197","parent_name":"ULLALA"}}
+]}

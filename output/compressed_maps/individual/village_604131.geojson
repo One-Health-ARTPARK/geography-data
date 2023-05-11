@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13897901888095,14.6955351296035],[75.12584367201029,14.70145532176259],[75.11836168767714,14.68100062509285],[75.14015085747646,14.68054801188737],[75.13897901888095,14.6955351296035]]]},"properties":{"region_id":"village_604131","name":"JANGINAKOPPA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

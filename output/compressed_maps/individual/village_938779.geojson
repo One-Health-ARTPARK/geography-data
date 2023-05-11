@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90660289479321,12.87721165762135],[74.89662914873543,12.88396597139791],[74.88037776603855,12.87899124960732],[74.89102307756501,12.86359673475465],[74.90660289479321,12.87721165762135]]]},"properties":{"region_id":"village_938779","name":"ALAPE","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

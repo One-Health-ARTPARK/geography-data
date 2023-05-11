@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79731619798993,13.20541290256984],[75.79546636894828,13.21181036624672],[75.78954939902356,13.21434588951371],[75.78904823414561,13.20223011561478],[75.79731619798993,13.20541290256984]]]},"properties":{"region_id":"village_615178","name":"VAGINAKERE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

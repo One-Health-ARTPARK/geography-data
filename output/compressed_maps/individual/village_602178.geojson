@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83675287656979,15.13954531992404],[75.81399816003409,15.14565445131118],[75.81909496334679,15.1301910302001],[75.83675287656979,15.13954531992404]]]},"properties":{"region_id":"village_602178","name":"VIRAPAPUR","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86676906727108,13.17487273111237],[75.86366983794177,13.18241629498019],[75.86052966041747,13.17793494473024],[75.86193786089967,13.17229712710741],[75.86676906727108,13.17487273111237]]]},"properties":{"region_id":"village_615226","name":"ATTALGERE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

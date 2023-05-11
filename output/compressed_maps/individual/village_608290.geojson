@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19502385701904,13.59210716165285],[75.18209447779353,13.58875817061992],[75.19375217384227,13.5651111756628],[75.21168051737625,13.58453241729013],[75.19502385701904,13.59210716165285]]]},"properties":{"region_id":"village_608290","name":"AREHALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

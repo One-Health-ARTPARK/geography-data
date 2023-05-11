@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21872968702748,13.64454370675569],[76.20700703815682,13.66822149301006],[76.18170383002062,13.63885919023523],[76.21108320700078,13.62178606849208],[76.21872968702748,13.64454370675569]]]},"properties":{"region_id":"village_609442","name":"YARADAKERE.G","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

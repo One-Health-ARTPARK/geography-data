@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05174232293696,14.41976216264057],[76.02546975752257,14.42421522329364],[76.02556935947015,14.40913097891651],[76.05174232293696,14.41976216264057]]]},"properties":{"region_id":"village_606623","name":"SIDDANUR","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

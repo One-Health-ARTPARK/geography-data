@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24685288675774,15.84208122009287],[76.24579248607706,15.86628586211619],[76.2255944144074,15.8589431791224],[76.24685288675774,15.84208122009287]]]},"properties":{"region_id":"village_601484","name":"RYAWANKI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

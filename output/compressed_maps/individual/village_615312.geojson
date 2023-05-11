@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0966852665691,13.2699656376734],[76.1040351124692,13.22083014804422],[76.12062248155333,13.20982956360462],[76.10856737292256,13.26968033186583],[76.0966852665691,13.2699656376734]]]},"properties":{"region_id":"village_615312","name":"IDAHALLA KAVAL","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94429418330876,17.45395266579652],[76.91737639788194,17.46525952605023],[76.91034473085098,17.43460938646089],[76.94114989334155,17.42282769354359],[76.94429418330876,17.45395266579652]]]},"properties":{"region_id":"village_620237","name":"ALGUD","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

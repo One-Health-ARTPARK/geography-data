@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38039166126167,12.33360298833946],[76.34917333714988,12.33067168116111],[76.34902583001366,12.30765659440736],[76.39185962641861,12.31285482818963],[76.38039166126167,12.33360298833946]]]},"properties":{"region_id":"village_618414","name":"BANNIKUPPE","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75962271607442,11.74291398930784],[76.74632348326419,11.74587189238614],[76.74019068559019,11.73688526765801],[76.74193005594417,11.72188066849386],[76.75962271607442,11.74291398930784]]]},"properties":{"region_id":"village_619539","name":"KODASOGE","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

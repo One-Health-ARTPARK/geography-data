@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45157132276589,13.58793870635637],[77.44462799356788,13.58832205764492],[77.4416332525768,13.57399343416536],[77.45212667772728,13.5755138913657],[77.45157132276589,13.58793870635637]]]},"properties":{"region_id":"village_623216","name":"HALE UPPARAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

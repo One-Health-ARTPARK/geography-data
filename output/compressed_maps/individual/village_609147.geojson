@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8406742274965,13.73233572241857],[75.82789800091344,13.72394462291034],[75.84126221201404,13.7131843616544],[75.8406742274965,13.73233572241857]]]},"properties":{"region_id":"village_609147","name":"KEREHOSAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

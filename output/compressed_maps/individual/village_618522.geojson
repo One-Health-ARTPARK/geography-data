@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2104967085475,12.54686088653491],[76.19277576492146,12.55255232635164],[76.18231925526018,12.54699907479858],[76.20584925859134,12.53835359460467],[76.2104967085475,12.54686088653491]]]},"properties":{"region_id":"village_618522","name":"PASHUPATHI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00502330484865,14.23084840964792],[77.00243791100942,14.198477682101],[77.0240954646399,14.18721990489274],[77.02048976945576,14.20735552947914],[77.00502330484865,14.23084840964792]]]},"properties":{"region_id":"village_610541","name":"KENCHAMMANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

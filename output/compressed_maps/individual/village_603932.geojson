@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18372540767436,14.9755957417684],[75.16511023206131,14.98412636165902],[75.15781131384739,14.97884021166948],[75.16032468086692,14.97031437928428],[75.17134339925354,14.97781487805893],[75.18372540767436,14.9755957417684]]]},"properties":{"region_id":"village_603932","name":"SHIVAPUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

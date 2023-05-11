@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45775181220543,12.43167405126382],[77.44974214286043,12.43743545817101],[77.43713445763152,12.41263943439461],[77.45172281198786,12.41108607782938],[77.45775181220543,12.43167405126382]]]},"properties":{"region_id":"village_626552","name":"KOKKAREHOSAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

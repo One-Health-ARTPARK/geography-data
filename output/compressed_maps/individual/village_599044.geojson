@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63951167279542,16.90171118077403],[75.59808450518747,16.9037815180989],[75.60455527996315,16.86098710722282],[75.63153969630326,16.86198171811631],[75.63951167279542,16.90171118077403]]]},"properties":{"region_id":"village_599044","name":"LOHAGAON","parent":"subdistrict_7074","parent_name":"TIKOTA"}}
+]}

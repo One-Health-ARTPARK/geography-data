@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54980367210092,15.83156111307964],[76.55975717724822,15.83601840985486],[76.55521524474209,15.85550670815691],[76.53916577401547,15.84131396857732],[76.54980367210092,15.83156111307964]]]},"properties":{"region_id":"village_601084","name":"BAGALAPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

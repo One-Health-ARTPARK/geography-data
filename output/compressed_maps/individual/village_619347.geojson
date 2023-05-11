@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93469930978033,12.3078549454129],[76.91796563903924,12.3217617792968],[76.91641985015102,12.29469049970256],[76.93469930978033,12.3078549454129]]]},"properties":{"region_id":"village_619347","name":"KALLIPURA","parent":"subdistrict_5575","parent_name":"TIRUMAKUDAL - NARSIPUR"}}
+]}

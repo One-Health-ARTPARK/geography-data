@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0402911064904,12.9946065342033],[77.02411004764673,12.99227931686968],[77.02412024620742,12.97978758993982],[77.03501847613875,12.97538112848035],[77.0402911064904,12.9946065342033]]]},"properties":{"region_id":"village_612610","name":"KADAMATHIKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

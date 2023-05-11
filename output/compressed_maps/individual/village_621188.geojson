@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94079769206289,16.49764589969599],[76.9448534372926,16.50284625385616],[76.94319052099124,16.52691016870058],[76.93704885370194,16.52749019564828],[76.94079769206289,16.49764589969599]]]},"properties":{"region_id":"village_621188","name":"CHANDRAL","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62316049682609,12.53552407511216],[76.60897996960318,12.53988377808788],[76.60494798224751,12.52841016298042],[76.61965517973539,12.51897896924396],[76.62316049682609,12.53552407511216]]]},"properties":{"region_id":"village_614118","name":"KURUBARAMALLENAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

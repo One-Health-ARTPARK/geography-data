@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34353839996186,14.58981539464117],[75.33010055225984,14.59123165269055],[75.33473842493517,14.57965555208606],[75.34353839996186,14.58981539464117]]]},"properties":{"region_id":"village_604350","name":"MUDDINAKOPPA","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91548872109583,12.77804573499969],[75.90808505094333,12.77900572325602],[75.90504865517148,12.77211076279681],[75.91069894109107,12.76762453158233],[75.91548872109583,12.77804573499969]]]},"properties":{"region_id":"village_939001","name":"LAKANI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

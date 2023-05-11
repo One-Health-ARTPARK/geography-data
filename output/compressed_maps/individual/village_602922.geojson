@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.59806000566964,14.87791021039781],[74.58283847597532,14.86873990996163],[74.59725453348749,14.84160923034664],[74.61422878919066,14.85502184387917],[74.59806000566964,14.87791021039781]]]},"properties":{"region_id":"village_602922","name":"AMBAGAON","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

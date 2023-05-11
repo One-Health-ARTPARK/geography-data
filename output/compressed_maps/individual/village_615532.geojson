@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33188555358555,13.43130731286687],[76.32162554451959,13.43352569054311],[76.32052509366447,13.41163803443833],[76.32735501018992,13.41365263804508],[76.33188555358555,13.43130731286687]]]},"properties":{"region_id":"village_615532","name":"BYRAPURA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

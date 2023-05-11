@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51945624825392,13.16501570640185],[76.5076245681326,13.16488286616505],[76.50425227690278,13.1383996391292],[76.52683093864408,13.14698820204089],[76.51945624825392,13.16501570640185]]]},"properties":{"region_id":"village_612169","name":"BAJAGURU","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43677123675123,14.71808130737458],[75.43953607337261,14.68873446336879],[75.45274634740483,14.69008448322421],[75.45111769223237,14.70671694282799],[75.43677123675123,14.71808130737458]]]},"properties":{"region_id":"village_604329","name":"MALLUR","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

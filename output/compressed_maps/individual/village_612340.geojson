@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71076077266326,13.09848483331566],[76.70016056968565,13.09720825485883],[76.70397344633233,13.08767911354304],[76.71374595237288,13.08847125555543],[76.71076077266326,13.09848483331566]]]},"properties":{"region_id":"village_612340","name":"OBBENAGASANDRA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

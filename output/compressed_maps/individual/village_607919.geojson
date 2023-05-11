@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15773945145571,14.02369422423924],[75.14424975860038,14.02672258231195],[75.13731556260021,14.01573308488237],[75.14247460019625,14.01013236454542],[75.15773945145571,14.02369422423924]]]},"properties":{"region_id":"village_607919","name":"ALAGERI MANDRI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

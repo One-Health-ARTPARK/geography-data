@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34960009685244,13.32681935131653],[77.349808167832,13.33680382266608],[77.33926537463333,13.33424702894944],[77.34077812536923,13.32405792329628],[77.34960009685244,13.32681935131653]]]},"properties":{"region_id":"village_625164","name":"MUDLAKALENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

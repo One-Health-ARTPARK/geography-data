@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45344968953431,17.63603275224606],[77.41762033720828,17.64218032529146],[77.41674416293964,17.62028567027604],[77.43962314270834,17.61977531780217],[77.45344968953431,17.63603275224606]]]},"properties":{"region_id":"village_600343","name":"UDAMNALLI","parent":"subdistrict_7084","parent_name":"CHITAGUPPA"}}
+]}

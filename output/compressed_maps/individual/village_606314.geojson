@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05422856845475,14.8455071262987],[76.08631468879322,14.85543761741762],[76.08065988089945,14.87056084241098],[76.07134850081694,14.86012841752538],[76.05621723711805,14.85342111250468],[76.05422856845475,14.8455071262987]]]},"properties":{"region_id":"village_606314","name":"MYDUR","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

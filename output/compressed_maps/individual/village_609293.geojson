@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00019110278332,13.74198104869591],[75.98727309811446,13.74802121768225],[75.97534577893356,13.73398807451495],[75.99910313671866,13.72779899171241],[76.00019110278332,13.74198104869591]]]},"properties":{"region_id":"village_609293","name":"ATTIMOGGE","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

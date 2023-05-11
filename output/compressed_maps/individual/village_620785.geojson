@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58216069929769,16.92592378822995],[76.55042536419441,16.92948610857059],[76.55489742418973,16.89482293589429],[76.58400012993359,16.89437730604307],[76.58216069929769,16.92592378822995]]]},"properties":{"region_id":"village_620785","name":"KUKNOOR","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

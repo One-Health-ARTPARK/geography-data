@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58545291441487,17.08710854041112],[76.60749420783519,17.09803277613747],[76.60414459802922,17.12043832406506],[76.58233253329153,17.12389481165579],[76.58545291441487,17.08710854041112]]]},"properties":{"region_id":"village_620180","name":"KEKARSAWALGI","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18372540767436,14.9755957417684],[75.17134339925354,14.97781487805893],[75.16918015579708,14.96963803597921],[75.18659575452489,14.96632678004721],[75.18372540767436,14.9755957417684]]]},"properties":{"region_id":"village_603933","name":"JAKKANKATTI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

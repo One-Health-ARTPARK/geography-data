@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03852752048644,14.7277325831847],[75.02230132461538,14.72555399877601],[75.01707392503086,14.71083024874288],[75.03594958458018,14.70979434429996],[75.03852752048644,14.7277325831847]]]},"properties":{"region_id":"village_604112","name":"LAXMIPUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

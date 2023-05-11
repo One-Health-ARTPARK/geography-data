@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7223014558338,16.24657735461545],[75.69983861384098,16.22781911422837],[75.73295603698487,16.22031545657375],[75.7223014558338,16.24657735461545]]]},"properties":{"region_id":"village_598790","name":"YANKACHI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

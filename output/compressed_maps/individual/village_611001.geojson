@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08339486844471,13.56418956921779],[77.0821457257544,13.55213343756198],[77.08734537466061,13.55110070276586],[77.08743008160992,13.56294134464928],[77.08339486844471,13.56418956921779]]]},"properties":{"region_id":"village_611001","name":"UGRANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8642454860884,14.55616491050795],[74.87934586197885,14.56645744420682],[74.86599158290494,14.5718116698564],[74.8642454860884,14.55616491050795]]]},"properties":{"region_id":"village_603248","name":"KULVE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

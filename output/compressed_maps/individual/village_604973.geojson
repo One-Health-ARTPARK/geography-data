@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64512811147218,14.97035254136345],[76.64247233716854,14.99848300970174],[76.61682960256331,14.98020992256203],[76.6193921769051,14.95361026839038],[76.64284828010871,14.94743869548244],[76.64512811147218,14.97035254136345]]]},"properties":{"region_id":"village_604973","name":"TONISIGERI","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

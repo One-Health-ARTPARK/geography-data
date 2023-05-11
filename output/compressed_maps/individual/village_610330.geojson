@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83463766519876,13.8512063642708],[76.83792246610025,13.85927770650363],[76.80633170838405,13.86054106753814],[76.81442463404535,13.85390343581127],[76.83463766519876,13.8512063642708]]]},"properties":{"region_id":"village_610330","name":"GOMARANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

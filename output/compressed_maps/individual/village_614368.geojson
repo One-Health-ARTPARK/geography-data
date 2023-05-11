@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95810977764909,12.66051986295758],[76.94506622392542,12.66615609568309],[76.92967251037517,12.65813474910859],[76.93681060922323,12.63560055122897],[76.95810977764909,12.66051986295758]]]},"properties":{"region_id":"village_614368","name":"MARAGOWDANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

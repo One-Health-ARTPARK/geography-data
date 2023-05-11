@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97946424252069,12.79122454930381],[76.95961056849761,12.78790135356386],[76.94879303660308,12.76510891717307],[76.97466293220275,12.76852062580755],[76.97946424252069,12.79122454930381]]]},"properties":{"region_id":"village_614497","name":"BEKKALALE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

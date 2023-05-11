@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84125226499692,12.52076024420367],[75.83855157633327,12.53148408846716],[75.81287854633149,12.53208425713986],[75.81460329969312,12.51055540082523],[75.84125226499692,12.52076024420367]]]},"properties":{"region_id":"village_617953","name":"KUMBUR","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69445941017423,11.83645363198711],[76.66280798005121,11.83167492469587],[76.6807843421497,11.82073597196318],[76.701651898812,11.82128283179151],[76.69445941017423,11.83645363198711]]]},"properties":{"region_id":"village_619501","name":"PANJANAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

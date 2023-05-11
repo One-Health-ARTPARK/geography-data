@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42035373888002,12.88645509912854],[77.40606761570731,12.8981324937483],[77.39305479434867,12.88648893297787],[77.39461618284072,12.87013135104171],[77.41616102426113,12.87511412196494],[77.42035373888002,12.88645509912854]]]},"properties":{"region_id":"village_613004","name":"KOLUR","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16749979048599,16.42311580747943],[75.12442932705794,16.41390003029143],[75.1204236321865,16.35813896294484],[75.18228097416726,16.36907420804064],[75.16749979048599,16.42311580747943]]]},"properties":{"region_id":"village_598550","name":"BELAGALI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

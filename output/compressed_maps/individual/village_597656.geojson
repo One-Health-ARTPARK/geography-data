@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6228176652908,16.01959199764076],[74.64318380754453,16.01415650201285],[74.64900044113696,16.04580717969205],[74.60915070080243,16.04032903382656],[74.6228176652908,16.01959199764076]]]},"properties":{"region_id":"village_597656","name":"SHIRUR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

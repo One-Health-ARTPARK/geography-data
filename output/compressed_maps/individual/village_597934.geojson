@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.48028408711815,15.59106191127816],[74.45752468665918,15.57986005446329],[74.45751856240015,15.55657508446051],[74.48814964503741,15.5625864818633],[74.48028408711815,15.59106191127816]]]},"properties":{"region_id":"village_597934","name":"TIVOLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

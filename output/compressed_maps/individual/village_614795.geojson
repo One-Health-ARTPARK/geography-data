@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03409511635415,12.3102233020621],[77.026226855893,12.32078220741336],[77.01266283734039,12.31431017317379],[77.0125996315228,12.3006647471065],[77.03816721753834,12.2962938505001],[77.03409511635415,12.3102233020621]]]},"properties":{"region_id":"village_614795","name":"DODDABOOVALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

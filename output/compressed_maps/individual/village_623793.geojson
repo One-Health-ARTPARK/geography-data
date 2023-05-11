@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85749206524117,13.91439649368009],[77.84831358571175,13.90332758433107],[77.85503862009773,13.89783116903442],[77.87116247514483,13.90882930157259],[77.85749206524117,13.91439649368009]]]},"properties":{"region_id":"village_623793","name":"HONNAMPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

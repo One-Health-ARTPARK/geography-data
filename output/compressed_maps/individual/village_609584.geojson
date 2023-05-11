@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17654051321044,13.5685455359281],[76.14692924542912,13.57135549236187],[76.14245926113348,13.54545957720181],[76.17756209605584,13.54786894525416],[76.17654051321044,13.5685455359281]]]},"properties":{"region_id":"village_609584","name":"ANNEGERE","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

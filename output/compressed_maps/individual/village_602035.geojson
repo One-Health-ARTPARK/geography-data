@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65111187140829,15.33097272140886],[75.59832349430489,15.3236381662127],[75.62177622564207,15.30175263186995],[75.65788730633841,15.3060083563306],[75.65111187140829,15.33097272140886]]]},"properties":{"region_id":"village_602035","name":"NABHAPUR","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

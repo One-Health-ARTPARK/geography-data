@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94289397129978,13.44023421277388],[77.93449167053117,13.43536395754855],[77.94268594695806,13.42916839328135],[77.94289397129978,13.44023421277388]]]},"properties":{"region_id":"village_624157","name":"CHIKKAPAPANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

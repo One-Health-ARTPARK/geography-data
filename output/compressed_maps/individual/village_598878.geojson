@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93746320730753,16.08479918416649],[75.95465663215502,16.08713761337294],[75.95605522253362,16.11321693141599],[75.94146856347572,16.10871714089697],[75.93746320730753,16.08479918416649]]]},"properties":{"region_id":"village_598878","name":"MADAPUR","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52065126568762,13.38430544529695],[75.46562997741034,13.41004394940394],[75.4704638137717,13.37316028245154],[75.52065126568762,13.38430544529695]]]},"properties":{"region_id":"village_609096","name":"MUDUGUNI","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

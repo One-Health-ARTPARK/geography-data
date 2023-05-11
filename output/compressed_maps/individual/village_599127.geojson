@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53788397769318,16.63709473357608],[75.50701073519333,16.6148362498521],[75.53943611518814,16.59245501997461],[75.53788397769318,16.63709473357608]]]},"properties":{"region_id":"village_599127","name":"YAKKUNDI","parent":"subdistrict_7069","parent_name":"BABALESHWAR"}}
+]}

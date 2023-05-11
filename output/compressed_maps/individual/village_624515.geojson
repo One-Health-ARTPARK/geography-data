@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.05224330299944,13.50998427241585],[78.03576479909098,13.50807426252631],[78.03773829041518,13.49978959593747],[78.048963126143,13.50247063783534],[78.05224330299944,13.50998427241585]]]},"properties":{"region_id":"village_624515","name":"KURUMARLAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

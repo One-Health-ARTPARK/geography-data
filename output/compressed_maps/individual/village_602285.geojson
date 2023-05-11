@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01009154415269,15.40221742663973],[75.00732216300656,15.39413593145649],[75.00967290852925,15.38726427599345],[75.0172442830277,15.38859620704912],[75.01845790535263,15.39490402504852],[75.01009154415269,15.40221742663973]]]},"properties":{"region_id":"village_602285","name":"JOGA YELLAPUR","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

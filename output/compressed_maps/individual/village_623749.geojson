@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82943422541635,13.68085194071626],[77.82679158410764,13.69054339034347],[77.821399678793,13.68564702746353],[77.82943422541635,13.68085194071626]]]},"properties":{"region_id":"village_623749","name":"THUMMENAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

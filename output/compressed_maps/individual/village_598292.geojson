@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25608350736802,16.12592771649362],[75.25891660487001,16.1750185834848],[75.2423539966793,16.16617717944661],[75.23691288778234,16.12826538602825],[75.25608350736802,16.12592771649362]]]},"properties":{"region_id":"village_598292","name":"HOSAKOTI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58711262145938,13.32090743723315],[75.57342199739115,13.32800094250817],[75.56189832545057,13.31699618225545],[75.57736643794784,13.31089243714029],[75.58711262145938,13.32090743723315]]]},"properties":{"region_id":"village_609708","name":"BASARAVALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

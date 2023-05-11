@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18542826095813,16.01379978986064],[76.20106499277414,16.03381001438841],[76.1888324663693,16.03556087381302],[76.1763321116544,16.02718482325002],[76.18542826095813,16.01379978986064]]]},"properties":{"region_id":"village_598990","name":"GADISUNKAPUR","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9387392199837,16.76422265777017],[76.88132945155449,16.76344131161077],[76.88807138350285,16.70052525127869],[76.95843012208225,16.71238208060004],[76.9387392199837,16.76422265777017]]]},"properties":{"region_id":"village_621145","name":"DORANAHALLI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

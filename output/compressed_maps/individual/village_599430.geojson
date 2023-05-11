@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27103049727695,16.62974693160526],[76.25807516591861,16.63022846363812],[76.25358755421318,16.61938373323681],[76.26301570894789,16.61130628555223],[76.27103049727695,16.62974693160526]]]},"properties":{"region_id":"village_599430","name":"AMBALNUR","parent":"subdistrict_7071","parent_name":"DEVARA HIPPARAGI"}}
+]}

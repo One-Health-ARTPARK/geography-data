@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83860554120797,12.97976801091014],[76.84008759126337,12.98940313840826],[76.8086384075316,12.98793889455687],[76.81436383176418,12.97329291288187],[76.83860554120797,12.97976801091014]]]},"properties":{"region_id":"village_613730","name":"HATNA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

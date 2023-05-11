@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17017400722851,12.76425550639287],[76.15701275539539,12.77005930379525],[76.15731334876322,12.75890477706078],[76.17017400722851,12.76425550639287]]]},"properties":{"region_id":"village_616626","name":"KALLIMUDDANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

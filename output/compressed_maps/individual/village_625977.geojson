@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26290642980724,12.94398910816666],[77.2808706306348,12.95797093890701],[77.27146512533486,12.96537572909151],[77.26290642980724,12.94398910816666]]]},"properties":{"region_id":"village_625977","name":"VENGALAPPANAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

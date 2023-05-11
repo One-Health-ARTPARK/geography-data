@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40092341715969,11.96094258782542],[76.38601815214244,11.9586540202924],[76.39699707250253,11.93563279012551],[76.40419559986354,11.93741588090196],[76.40092341715969,11.96094258782542]]]},"properties":{"region_id":"village_618992","name":"MASAHALLI","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

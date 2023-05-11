@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6213699409042,16.4903419071343],[76.60967887529915,16.48171581205805],[76.59654364418445,16.43928428048903],[76.61819913743349,16.45065964865494],[76.6213699409042,16.4903419071343]]]},"properties":{"region_id":"village_620995","name":"HEBBAL (K)","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

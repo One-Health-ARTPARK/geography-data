@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0065627294666,15.16732339885739],[74.98606291019306,15.1613371175186],[74.99259669309353,15.14623481036364],[75.00890891098157,15.15650292135163],[75.0065627294666,15.16732339885739]]]},"properties":{"region_id":"village_602501","name":"SHIVANAPUR","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

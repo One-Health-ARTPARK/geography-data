@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42267125992696,16.71763937137951],[76.42030878120737,16.70759978594339],[76.43755171005796,16.70296518810373],[76.44234467706252,16.71388795318308],[76.42267125992696,16.71763937137951]]]},"properties":{"region_id":"village_599420","name":"CHATTANAHALLI","parent":"subdistrict_7071","parent_name":"DEVARA HIPPARAGI"}}
+]}

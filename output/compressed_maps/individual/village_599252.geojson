@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02150999011228,17.22609977277479],[76.00228733567722,17.2830448243685],[75.96517652576819,17.24113088503976],[76.02150999011228,17.22609977277479]]]},"properties":{"region_id":"village_599252","name":"ALUR","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

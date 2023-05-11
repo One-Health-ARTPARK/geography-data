@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51330274642471,13.79902611793606],[76.54593793552037,13.80281656424414],[76.54058202769501,13.84436780122999],[76.50314213557803,13.84393348365132],[76.51330274642471,13.79902611793606]]]},"properties":{"region_id":"village_606150","name":"HALADYAMENAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

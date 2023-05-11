@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29309128489528,15.74144091557194],[75.31376931939548,15.73033483281689],[75.31756570051543,15.76420962028757],[75.29845728445389,15.76550683069923],[75.29309128489528,15.74144091557194]]]},"properties":{"region_id":"village_598286","name":"ACHAMATTI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

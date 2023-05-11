@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79820491859087,11.96079548905944],[76.76381082321232,11.96140450738156],[76.76537058368105,11.94304852581313],[76.78966050683914,11.94124276009103],[76.79820491859087,11.96079548905944]]]},"properties":{"region_id":"village_619689","name":"MALIYURU","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98973890664199,15.58238347051967],[74.9734181115039,15.57937968707921],[74.97492303369019,15.56558900916394],[74.99045012449845,15.56542124491017],[74.98973890664199,15.58238347051967]]]},"properties":{"region_id":"village_602217","name":"SHIBARAGATTI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

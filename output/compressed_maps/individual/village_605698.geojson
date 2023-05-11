@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12117607885938,13.93722538858268],[76.10656344538062,13.91013707421374],[76.11947678553351,13.90139524460283],[76.12947623220492,13.92887982488002],[76.12117607885938,13.93722538858268]]]},"properties":{"region_id":"village_605698","name":"TALAGATTA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

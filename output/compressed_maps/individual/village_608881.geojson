@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98896735024694,13.29447320465071],[74.96065799591223,13.26820623267488],[74.99885314467944,13.2511655608361],[75.02228620597141,13.25869690812702],[74.98896735024694,13.29447320465071]]]},"properties":{"region_id":"village_608881","name":"HIRGANA","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

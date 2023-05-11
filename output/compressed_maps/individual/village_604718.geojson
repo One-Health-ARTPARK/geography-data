@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37771617224432,15.31455503601616],[76.37380522963221,15.30951728249656],[76.37768507764841,15.29728288831295],[76.38284025100987,15.30843334115831],[76.37771617224432,15.31455503601616]]]},"properties":{"region_id":"village_604718","name":"KALLIRAMPURA","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

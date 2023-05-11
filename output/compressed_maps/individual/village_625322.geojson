@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76718752969897,13.34026641638814],[77.75363619275917,13.34198575610456],[77.74955762383445,13.33451848616854],[77.76064491633515,13.33046067010568],[77.76718752969897,13.34026641638814]]]},"properties":{"region_id":"village_625322","name":"NARAYANAPURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

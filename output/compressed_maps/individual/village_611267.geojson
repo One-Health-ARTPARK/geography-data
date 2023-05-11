@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00801850478669,13.43241375073539],[76.9948351782462,13.44187840209516],[76.99136378487215,13.420303051863],[77.0084953014567,13.41852136142386],[77.00801850478669,13.43241375073539]]]},"properties":{"region_id":"village_611267","name":"DODDERI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

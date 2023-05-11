@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33457265526705,13.32191385761707],[75.3589993227427,13.33529552455779],[75.34242603361048,13.35975200096059],[75.31618529830179,13.34636957078107],[75.33457265526705,13.32191385761707]]]},"properties":{"region_id":"village_609032","name":"BYREDEVARU","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

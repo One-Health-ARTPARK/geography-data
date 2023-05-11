@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74573466006727,13.22090061742485],[77.74253677705356,13.21118169357556],[77.74697816195803,13.20593857980155],[77.75596985517622,13.21218886757796],[77.74573466006727,13.22090061742485]]]},"properties":{"region_id":"village_625437","name":"CHANNAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

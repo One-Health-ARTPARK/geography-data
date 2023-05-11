@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2742395210571,14.56917005134452],[75.26538586523206,14.58090298344427],[75.24380466010464,14.57757584353116],[75.2511848008849,14.56576036376962],[75.2742395210571,14.56917005134452]]]},"properties":{"region_id":"village_607447","name":"BENNIGERE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

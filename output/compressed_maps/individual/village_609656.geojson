@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99512164017251,13.39011896615763],[75.96544597616561,13.37941521926883],[75.98487380985644,13.36678227290984],[75.99512164017251,13.39011896615763]]]},"properties":{"region_id":"village_609656","name":"KETHUMARANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

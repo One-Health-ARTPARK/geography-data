@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48424702553821,15.65604120597826],[76.48575103126177,15.6679629635325],[76.46028228072998,15.67116028946054],[76.46893022611084,15.655480338279],[76.48424702553821,15.65604120597826]]]},"properties":{"region_id":"village_601665","name":"MALLAPUR","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

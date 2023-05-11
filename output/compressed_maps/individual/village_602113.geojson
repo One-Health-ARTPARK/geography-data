@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74023985136564,15.08015659487323],[75.74713123440017,15.11262477774086],[75.6957185429366,15.09959704050108],[75.70685105050829,15.07143450008341],[75.74023985136564,15.08015659487323]]]},"properties":{"region_id":"village_602113","name":"BANNIKOPPA","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

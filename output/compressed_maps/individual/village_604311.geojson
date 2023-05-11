@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32307282267222,14.6194771916152],[75.32454368670243,14.60150333197783],[75.34679959308185,14.6046069546742],[75.34159239397194,14.61628775424728],[75.32307282267222,14.6194771916152]]]},"properties":{"region_id":"village_604311","name":"HIREANAJI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

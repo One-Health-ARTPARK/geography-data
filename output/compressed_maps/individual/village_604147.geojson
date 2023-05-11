@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23294465224531,14.77437719887778],[75.19311223570566,14.77124063562049],[75.19222495178802,14.75326128926812],[75.22381946141981,14.75770101536209],[75.23294465224531,14.77437719887778]]]},"properties":{"region_id":"village_604147","name":"BALAMBEED","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

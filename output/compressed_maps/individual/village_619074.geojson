@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35899149601714,11.97244336991078],[76.3462835693558,11.97046814323652],[76.35153743897978,11.9585416116839],[76.36378531533218,11.95706608791906],[76.35899149601714,11.97244336991078]]]},"properties":{"region_id":"village_619074","name":"BIDARAHALLI","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

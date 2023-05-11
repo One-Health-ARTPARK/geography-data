@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3520186036695,15.9360051307623],[75.33445136254257,15.89496514191429],[75.36591293676126,15.90165142440343],[75.3520186036695,15.9360051307623]]]},"properties":{"region_id":"village_598382","name":"KOLACHI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

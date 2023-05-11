@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83251857714612,16.20369544422551],[76.81066733364311,16.20233206968082],[76.80276822129596,16.17203589618093],[76.8340902924846,16.17837832349441],[76.83251857714612,16.20369544422551]]]},"properties":{"region_id":"village_600934","name":"HEERA","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

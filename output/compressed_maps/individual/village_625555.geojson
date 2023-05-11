@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9451928198408,13.21141038388024],[77.93457234065427,13.20465281239394],[77.94678633858683,13.19528285150759],[77.9451928198408,13.21141038388024]]]},"properties":{"region_id":"village_625555","name":"K.SETTIHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

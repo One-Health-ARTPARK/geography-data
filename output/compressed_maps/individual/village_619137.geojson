@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50461149406436,12.06000381229434],[76.47583024560464,12.050911251164],[76.47866753455433,12.04351758576383],[76.50515366838195,12.04592803173305],[76.50461149406436,12.06000381229434]]]},"properties":{"region_id":"village_619137","name":"AKALA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

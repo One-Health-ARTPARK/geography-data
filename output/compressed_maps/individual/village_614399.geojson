@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78066808937328,12.6213579990684],[76.75959232739346,12.62466485681359],[76.75922003540026,12.58742162423299],[76.78741539689267,12.6028930328047],[76.78066808937328,12.6213579990684]]]},"properties":{"region_id":"village_614399","name":"BEVAKAL","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

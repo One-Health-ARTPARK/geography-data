@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54681814683231,18.06489239764872],[77.52154528690355,18.04592742945514],[77.5464947276853,18.03609404304753],[77.54681814683231,18.06489239764872]]]},"properties":{"region_id":"village_600117","name":"KANDGOAL","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

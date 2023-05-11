@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52291021299243,13.46291253999455],[75.48009247867458,13.48200734052052],[75.46391972323421,13.43170507910575],[75.50864019316704,13.4353881829562],[75.52291021299243,13.46291253999455]]]},"properties":{"region_id":"village_609092","name":"ADUVALLI","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

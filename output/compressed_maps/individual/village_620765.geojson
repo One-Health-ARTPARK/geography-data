@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73237896579636,16.99497417200794],[76.72876480821792,16.97670804499773],[76.74516914387408,16.96958897944186],[76.7484908352283,16.99448069232612],[76.73237896579636,16.99497417200794]]]},"properties":{"region_id":"village_620765","name":"SHAKAPUR","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

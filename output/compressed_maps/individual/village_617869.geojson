@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86760827838138,12.74764759923255],[75.87032408408723,12.73984399408895],[75.87842945264924,12.7464694937299],[75.86760827838138,12.74764759923255]]]},"properties":{"region_id":"village_617869","name":"MADRE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

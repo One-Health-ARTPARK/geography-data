@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18317945168286,14.60824147948369],[76.17772539326089,14.61513786150257],[76.16400135296954,14.60962242401025],[76.16405249702996,14.60062658322247],[76.18317945168286,14.60824147948369]]]},"properties":{"region_id":"village_606378","name":"GUDDANAIKANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

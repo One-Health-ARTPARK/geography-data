@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71326786222555,14.00575204831574],[76.64577681091986,13.99190161489156],[76.65639130916875,13.96715938897845],[76.71395815273236,13.97928707717871],[76.71326786222555,14.00575204831574]]]},"properties":{"region_id":"village_606137","name":"MASKAL","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

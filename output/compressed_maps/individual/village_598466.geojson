@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4052450887084,16.62172318587269],[75.37332286707826,16.61883509117779],[75.38495046853615,16.58266735925046],[75.41130901496743,16.59496998813756],[75.4052450887084,16.62172318587269]]]},"properties":{"region_id":"village_598466","name":"HIREPADASALGI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

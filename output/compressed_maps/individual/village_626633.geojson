@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61618255074019,12.36812634678092],[77.62131638049522,12.40290279044287],[77.60366532188262,12.39836434426188],[77.60170479931945,12.37667066984394],[77.61618255074019,12.36812634678092]]]},"properties":{"region_id":"village_626633","name":"GANGANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

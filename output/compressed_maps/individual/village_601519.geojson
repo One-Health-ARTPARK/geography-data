@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41678514591491,15.86481902258281],[76.42403762703633,15.88800821611765],[76.37500850229826,15.90217346652218],[76.3985824197092,15.85874842521548],[76.41678514591491,15.86481902258281]]]},"properties":{"region_id":"village_601519","name":"KALMALLI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

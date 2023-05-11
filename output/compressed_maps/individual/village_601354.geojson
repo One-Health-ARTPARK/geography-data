@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99097182616013,15.46368647811084],[75.93750784395661,15.44536645940929],[75.93028119886668,15.40031807513575],[75.95995500556035,15.39818671256312],[75.99999463775532,15.4066421584264],[75.99097182616013,15.46368647811084]]]},"properties":{"region_id":"village_601354","name":"ITAGI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

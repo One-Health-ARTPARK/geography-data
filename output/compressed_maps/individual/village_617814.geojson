@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72066606577283,12.37718617520623],[75.69825920428826,12.37101086452593],[75.7020090047089,12.35811556363758],[75.71407611243382,12.34709952078333],[75.72395557956067,12.36175684550855],[75.72066606577283,12.37718617520623]]]},"properties":{"region_id":"village_617814","name":"ARUVATHOKLU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

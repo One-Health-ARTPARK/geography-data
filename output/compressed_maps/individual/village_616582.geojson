@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07774423884946,12.7735183229365],[76.06377309834896,12.7637451980135],[76.07559072169272,12.75821240401902],[76.07774423884946,12.7735183229365]]]},"properties":{"region_id":"village_616582","name":"KELLUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

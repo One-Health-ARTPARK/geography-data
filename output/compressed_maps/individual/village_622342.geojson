@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98881666024562,12.85761214719633],[77.97473028271995,12.85962881350188],[77.98193402104246,12.84751088555534],[77.98881666024562,12.85761214719633]]]},"properties":{"region_id":"village_622342","name":"KESARAGERE","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

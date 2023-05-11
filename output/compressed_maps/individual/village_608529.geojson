@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71198606074334,14.05460725842975],[75.71052507171441,14.03097161919838],[75.72146458313665,14.02493438799501],[75.72408887148963,14.04736862177638],[75.71198606074334,14.05460725842975]]]},"properties":{"region_id":"village_608529","name":"NAGASAMUDRA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

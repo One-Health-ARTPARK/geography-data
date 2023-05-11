@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54023202031408,12.68068474034307],[76.53535809609659,12.69309464535775],[76.52681832679416,12.6890828590555],[76.52918880486082,12.67803247524994],[76.54023202031408,12.68068474034307]]]},"properties":{"region_id":"village_613490","name":"CHIKKANAYAKANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

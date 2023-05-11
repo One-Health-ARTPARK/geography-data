@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67646488038486,14.27745658098642],[75.64897267993742,14.2771812825173],[75.64857158111326,14.24873072381366],[75.67076348764047,14.2522275227036],[75.67646488038486,14.27745658098642]]]},"properties":{"region_id":"village_606785","name":"BELIMALLUR","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

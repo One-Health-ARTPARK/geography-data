@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51455085209058,13.11456230973814],[77.49987892132876,13.11697335724126],[77.5055330712127,13.10419017313031],[77.51455085209058,13.11456230973814]]]},"properties":{"region_id":"village_612875","name":"KASAGATTAPURA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

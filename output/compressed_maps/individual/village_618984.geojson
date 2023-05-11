@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48014918087556,12.02640899684812],[76.45509205675388,12.01296906915777],[76.47703986591912,11.99906765475508],[76.48014918087556,12.02640899684812]]]},"properties":{"region_id":"village_618984","name":"KUNDUR","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

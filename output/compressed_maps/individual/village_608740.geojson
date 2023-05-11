@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75790692702947,13.63886952895496],[74.7547335534008,13.62078900496715],[74.77171664861562,13.62428294801494],[74.75790692702947,13.63886952895496]]]},"properties":{"region_id":"village_608740","name":"BALKUR","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

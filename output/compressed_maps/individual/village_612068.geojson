@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5470494131301,13.12370099228693],[76.54170223703815,13.12933647229427],[76.52882446478054,13.12079490843133],[76.54387024035425,13.11503656033114],[76.5470494131301,13.12370099228693]]]},"properties":{"region_id":"village_612068","name":"MARAGONDANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

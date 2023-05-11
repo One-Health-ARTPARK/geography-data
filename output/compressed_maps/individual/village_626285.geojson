@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27084610127633,12.57190990063513],[77.27578780795072,12.58221173297744],[77.27067151521084,12.59756731409892],[77.26346472557795,12.57096725658216],[77.27084610127633,12.57190990063513]]]},"properties":{"region_id":"village_626285","name":"DYAVAPATNA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

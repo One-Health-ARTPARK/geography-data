@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70392097992945,13.81178642521797],[76.67247746236305,13.81229555961866],[76.67452741332373,13.78546641567138],[76.71489254954035,13.78573945977934],[76.70392097992945,13.81178642521797]]]},"properties":{"region_id":"village_606189","name":"OBALAPURA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

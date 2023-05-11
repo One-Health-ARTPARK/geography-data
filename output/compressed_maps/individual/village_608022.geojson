@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00544004323801,13.85232740867791],[74.96687171669377,13.84957273193027],[74.97241100971601,13.83359993896931],[75.00798888924226,13.8342279100608],[75.00544004323801,13.85232740867791]]]},"properties":{"region_id":"village_608022","name":"BHRAMANAVADA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

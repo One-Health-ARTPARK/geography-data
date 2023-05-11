@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03274188838326,16.35714544854186],[75.01877104421436,16.35630937130563],[75.00272110195559,16.33651645908183],[75.02750503613436,16.3437521553329],[75.03274188838326,16.35714544854186]]]},"properties":{"region_id":"village_597421","name":"KHANATTI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

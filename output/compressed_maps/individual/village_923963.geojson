@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89994946858805,12.66766187000424],[75.88818909667617,12.67761411521263],[75.88531331919302,12.67267923970299],[75.89994946858805,12.66766187000424]]]},"properties":{"region_id":"village_923963","name":"GONDALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

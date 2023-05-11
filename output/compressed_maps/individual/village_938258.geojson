@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6890401460149,12.99807228751774],[77.68014631788868,12.98858466817109],[77.69060177034538,12.98097810152288],[77.70384990083978,12.99334827488707],[77.6890401460149,12.99807228751774]]]},"properties":{"region_id":"village_938258","name":"MAHADEVAPURA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

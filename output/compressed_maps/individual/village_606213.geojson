@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66206696837007,14.45151687215344],[75.63660550542386,14.46652164417825],[75.6306657122128,14.44592875655292],[75.64678993269389,14.43956752741443],[75.66206696837007,14.45151687215344]]]},"properties":{"region_id":"village_606213","name":"UKKADAGATHRI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

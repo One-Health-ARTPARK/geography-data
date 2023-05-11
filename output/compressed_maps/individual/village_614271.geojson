@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82292741401575,12.38737045496191],[76.83400192420105,12.38450737540593],[76.83499077017392,12.39524312395213],[76.82888564720336,12.40022423605549],[76.82292741401575,12.38737045496191]]]},"properties":{"region_id":"village_614271","name":"MADARAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

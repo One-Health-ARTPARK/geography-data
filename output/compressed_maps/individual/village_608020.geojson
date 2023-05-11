@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92144325263568,13.88241559894965],[74.9132398331052,13.82214753017199],[74.94649034167031,13.84332081459404],[74.92144325263568,13.88241559894965]]]},"properties":{"region_id":"village_608020","name":"KATTINAHOLE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84584252301663,13.66330973103811],[77.81542508664647,13.65369680041733],[77.81798181281172,13.63685013912659],[77.83797481311325,13.64634143090715],[77.84584252301663,13.66330973103811]]]},"properties":{"region_id":"village_623757","name":"SOMENAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79944944560063,13.9109074735489],[74.83779308852553,13.89857977131565],[74.84668571552007,13.91900672823512],[74.81652914932076,13.93136131414756],[74.79944944560063,13.9109074735489]]]},"properties":{"region_id":"village_607360","name":"MARATI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77322543932327,14.56730614830699],[74.76867203249961,14.5466307234087],[74.78580999614832,14.54983743211206],[74.77322543932327,14.56730614830699]]]},"properties":{"region_id":"village_603200","name":"NEGGU","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

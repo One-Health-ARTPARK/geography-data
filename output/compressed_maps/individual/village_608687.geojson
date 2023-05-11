@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6799224355713,13.70408849752158],[74.66462112325993,13.69915527729533],[74.65845071711355,13.68744605162827],[74.68674132306992,13.68689463404555],[74.6799224355713,13.70408849752158]]]},"properties":{"region_id":"village_608687","name":"HOSADU","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

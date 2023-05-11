@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6652304046712,16.89738406610493],[76.61472867095137,16.9101523186152],[76.6156478753295,16.87113400294298],[76.6652304046712,16.89738406610493]]]},"properties":{"region_id":"village_620819","name":"ALUR","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

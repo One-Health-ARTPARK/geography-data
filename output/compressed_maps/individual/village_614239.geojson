@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7281528960744,12.43012687568932],[76.71396202969153,12.43335939380737],[76.71745877236535,12.42256108298547],[76.7281528960744,12.43012687568932]]]},"properties":{"region_id":"village_614239","name":"KALLIKOPPALU","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

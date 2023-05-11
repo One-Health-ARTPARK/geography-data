@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0654746434074,16.35561827261758],[77.02933749682545,16.37225733925085],[77.02273439935658,16.33767624297877],[77.0654746434074,16.35561827261758]]]},"properties":{"region_id":"village_600632","name":"MASARKAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

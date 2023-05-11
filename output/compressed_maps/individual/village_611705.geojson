@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89299783945222,13.44656965484191],[76.8826233064064,13.450908968418],[76.88071819204201,13.43676019539626],[76.892127962257,13.43569140549975],[76.89299783945222,13.44656965484191]]]},"properties":{"region_id":"village_611705","name":"KACHENAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

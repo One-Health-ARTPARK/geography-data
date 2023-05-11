@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51826422178871,13.5313026172606],[76.50072499307208,13.54332571711078],[76.500004145343,13.53078926605438],[76.51826422178871,13.5313026172606]]]},"properties":{"region_id":"village_610051","name":"LAKSHMIPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

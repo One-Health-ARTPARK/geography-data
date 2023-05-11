@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60238057595274,12.40219656962004],[76.58872751172979,12.40639912079063],[76.58968615295022,12.3901087481477],[76.59922618179085,12.39183619716369],[76.60238057595274,12.40219656962004]]]},"properties":{"region_id":"village_614280","name":"MAJJIGEPURA","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

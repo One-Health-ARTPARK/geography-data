@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.25281191014604,13.27112527620457],[78.22694313567847,13.27643919047474],[78.23646499484688,13.25495429144178],[78.25281191014604,13.27112527620457]]]},"properties":{"region_id":"village_621948","name":"JADERI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93161469233715,13.20739515781444],[76.92810321759232,13.21841301891656],[76.91792136936127,13.21868105944521],[76.91637711232798,13.20688819040757],[76.93161469233715,13.20739515781444]]]},"properties":{"region_id":"village_611895","name":"CHAKENAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41785553343445,13.50801078684251],[77.39385206110637,13.52187684441928],[77.38260127539547,13.5009474914517],[77.39846423996902,13.49329069672607],[77.41785553343445,13.50801078684251]]]},"properties":{"region_id":"village_623226","name":"SOMASETTYHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

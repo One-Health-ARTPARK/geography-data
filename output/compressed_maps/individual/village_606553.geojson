@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91613696113058,14.49845017279869],[75.89784540700418,14.51175221929772],[75.89748155466572,14.49943988318128],[75.91613696113058,14.49845017279869]]]},"properties":{"region_id":"village_606553","name":"CHIKKABUDIHALU","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98250558532945,16.96202359428019],[75.99209064469441,16.9969867603432],[75.97121821334265,16.9895902895673],[75.9668741526743,16.9677602796245],[75.98250558532945,16.96202359428019]]]},"properties":{"region_id":"village_599290","name":"GANDHINAGAR","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

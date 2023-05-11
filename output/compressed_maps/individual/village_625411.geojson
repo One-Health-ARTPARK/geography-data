@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77144515724873,13.25909373529524],[77.75695536893294,13.26066927666475],[77.75593151225063,13.2469813750826],[77.77516504807066,13.24852784389189],[77.77144515724873,13.25909373529524]]]},"properties":{"region_id":"village_625411","name":"YALEYUR","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

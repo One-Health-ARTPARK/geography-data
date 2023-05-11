@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49789973177297,16.22929738461983],[76.48282489505455,16.20099370777523],[76.50167476161583,16.20019604440847],[76.49789973177297,16.22929738461983]]]},"properties":{"region_id":"village_600417","name":"MINCHERI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

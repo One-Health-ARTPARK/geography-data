@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.59643771498477,15.81338296297005],[74.58048194521298,15.82069664068135],[74.5767167639243,15.80460061992156],[74.59255168433737,15.80431101946068],[74.59643771498477,15.81338296297005]]]},"properties":{"region_id":"village_597774","name":"SHAGANAMATTI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

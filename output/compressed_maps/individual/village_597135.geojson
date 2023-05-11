@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.34913744791393,16.43671942815083],[74.32823391087742,16.41911626983113],[74.33520551475478,16.40208442720402],[74.36275056136944,16.40544826071722],[74.34913744791393,16.43671942815083]]]},"properties":{"region_id":"village_597135","name":"KODNI","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

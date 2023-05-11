@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11810391838075,12.71979380114994],[76.1119199158193,12.72461169069184],[76.10080353248655,12.71901526493268],[76.11343067076776,12.71545635316328],[76.11810391838075,12.71979380114994]]]},"properties":{"region_id":"village_616643","name":"ILLAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

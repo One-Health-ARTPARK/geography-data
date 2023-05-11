@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66851098811662,13.70395247093307],[75.65349734289582,13.69900972861928],[75.65518897813557,13.67880427307151],[75.67470802101361,13.68605947811632],[75.66851098811662,13.70395247093307]]]},"properties":{"region_id":"village_609116","name":"KENCHIKOPPA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

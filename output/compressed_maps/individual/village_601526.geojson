@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38552133524206,15.82572832168077],[76.35561331075394,15.84100062957681],[76.34988501522818,15.81478895363505],[76.38140608383931,15.80735596612609],[76.38552133524206,15.82572832168077]]]},"properties":{"region_id":"village_601526","name":"HAGALDHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

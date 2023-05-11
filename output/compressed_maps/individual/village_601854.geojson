@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32845414970771,15.31524097967154],[76.33203238192534,15.32542213275488],[76.31881708909724,15.32300959247758],[76.31674389052797,15.31590340207852],[76.32845414970771,15.31524097967154]]]},"properties":{"region_id":"village_601854","name":"BULLAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

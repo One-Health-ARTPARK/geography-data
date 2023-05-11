@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02468337602869,13.63808970341895],[77.00400711631934,13.64166305023746],[77.00206795992881,13.63208297441706],[77.01642641145759,13.63111979104105],[77.02468337602869,13.63808970341895]]]},"properties":{"region_id":"village_610478","name":"MUCHAVEERANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

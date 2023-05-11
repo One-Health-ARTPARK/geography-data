@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53067996164914,18.24704472397718],[77.50538668329582,18.25533545660054],[77.50563213220018,18.24338339916664],[77.52863215801894,18.23716450633354],[77.53067996164914,18.24704472397718]]]},"properties":{"region_id":"village_600076","name":"ITGIYAL","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

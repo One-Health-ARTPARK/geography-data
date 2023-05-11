@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60140067440075,14.17007390767754],[75.58999952598485,14.17734296079828],[75.58376021292621,14.1501955162831],[75.59970277160109,14.15144883279617],[75.60140067440075,14.17007390767754]]]},"properties":{"region_id":"village_606738","name":"DANIHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

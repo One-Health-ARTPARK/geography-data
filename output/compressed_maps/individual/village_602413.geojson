@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09776824299072,15.28900696396262],[75.07970244469327,15.28332305834016],[75.08849678728257,15.25975768663266],[75.10270152860183,15.27032671001875],[75.09776824299072,15.28900696396262]]]},"properties":{"region_id":"village_602413","name":"CHANNAPUR","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

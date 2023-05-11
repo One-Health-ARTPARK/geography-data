@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05406937283085,12.53145818364757],[77.02757879255756,12.52029206150861],[77.04130358971547,12.50395299004298],[77.05490735802883,12.50103436606724],[77.05406937283085,12.53145818364757]]]},"properties":{"region_id":"village_614623","name":"CHIKKARASINAKERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

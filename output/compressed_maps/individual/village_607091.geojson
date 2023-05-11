@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04303391841339,13.9903621868044],[76.04584956645395,14.01272058320606],[76.02146748874544,14.00744193447791],[76.04303391841339,13.9903621868044]]]},"properties":{"region_id":"village_607091","name":"HARALAKATTA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

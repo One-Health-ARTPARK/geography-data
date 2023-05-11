@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25232484698459,12.78799738585685],[77.24051213059273,12.79380320096061],[77.2144827754546,12.77534544517685],[77.23507106240282,12.76216667149109],[77.25232484698459,12.78799738585685]]]},"properties":{"region_id":"village_626064","name":"KUTAGAL","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

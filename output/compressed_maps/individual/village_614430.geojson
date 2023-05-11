@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80514843971845,12.61736122180972],[76.7915078006363,12.61461780107025],[76.78741811206243,12.60281421732923],[76.80642219060279,12.60049549659247],[76.80514843971845,12.61736122180972]]]},"properties":{"region_id":"village_614430","name":"DUDDA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

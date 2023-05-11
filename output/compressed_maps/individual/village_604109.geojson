@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10068325850006,14.73431360565403],[75.09839888647696,14.74748331509362],[75.07933234848524,14.74473312327408],[75.088160491579,14.72652361141063],[75.10068325850006,14.73431360565403]]]},"properties":{"region_id":"village_604109","name":"HALE KAMANHALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

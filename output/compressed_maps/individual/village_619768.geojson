@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09023740469821,11.91680857126833],[77.06716756748196,11.9401821102904],[77.05049654391966,11.92321945922236],[77.07187113662812,11.89730532668159],[77.09023740469821,11.91680857126833]]]},"properties":{"region_id":"village_619768","name":"HONDARABALU","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

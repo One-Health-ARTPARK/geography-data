@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62557453695584,12.16098685536547],[76.6071218336804,12.16188513186083],[76.60662450075426,12.14831703307755],[76.62599036588225,12.14871516638209],[76.62557453695584,12.16098685536547]]]},"properties":{"region_id":"village_618779","name":"CHIKKAKATURU","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

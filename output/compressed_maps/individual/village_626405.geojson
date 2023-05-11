@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52895253822449,12.65130646159022],[77.51268023337055,12.66001468350714],[77.49393568959027,12.65736030990234],[77.49771113144612,12.62945806801026],[77.52895253822449,12.65130646159022]]]},"properties":{"region_id":"village_626405","name":"AVAREMALA","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

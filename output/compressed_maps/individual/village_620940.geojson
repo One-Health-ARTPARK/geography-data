@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55339844013452,16.50330060484495],[76.52121729034901,16.49540043748069],[76.54340178724954,16.44875473495008],[76.55774796825806,16.45260164151432],[76.55339844013452,16.50330060484495]]]},"properties":{"region_id":"village_620940","name":"WAJJAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

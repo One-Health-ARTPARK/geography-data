@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81834098765063,12.56578627072467],[76.79468360846109,12.56345703704045],[76.79826606629956,12.54934786060822],[76.81897310998676,12.55465899091742],[76.81834098765063,12.56578627072467]]]},"properties":{"region_id":"village_614437","name":"MADCHAKANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

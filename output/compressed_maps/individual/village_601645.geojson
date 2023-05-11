@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54698836370392,15.48032513649707],[76.53412502119828,15.48292751837451],[76.52338118909594,15.45886009456787],[76.54972145801499,15.45731759536833],[76.54698836370392,15.48032513649707]]]},"properties":{"region_id":"village_601645","name":"BATTERHANCHNAL","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

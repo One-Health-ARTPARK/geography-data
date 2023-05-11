@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65286533454288,13.64931441228484],[77.63966649970271,13.64781002946295],[77.62829609477612,13.64955429538283],[77.63217072143163,13.64086322375988],[77.63831894853611,13.64149058155575],[77.65286533454288,13.64931441228484]]]},"properties":{"region_id":"village_623319","name":"BACHAREDDYHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

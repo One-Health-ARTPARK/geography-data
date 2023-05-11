@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9782949385689,13.95628420446286],[76.95414168553341,13.95606536207322],[76.95258594476748,13.94833552154463],[76.96626344742009,13.9478752429868],[76.9782949385689,13.95628420446286]]]},"properties":{"region_id":"village_610288","name":"KATANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

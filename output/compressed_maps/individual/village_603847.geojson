@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.63492150825098,14.05831397366478],[74.63499839354,14.0363173514687],[74.67721932324721,14.03527336970685],[74.67385695175058,14.05788358166754],[74.63492150825098,14.05831397366478]]]},"properties":{"region_id":"village_603847","name":"HALLYANI","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

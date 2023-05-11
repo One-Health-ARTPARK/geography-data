@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85975355723268,15.8598586139364],[75.84521707805591,15.83945992685667],[75.86334525103815,15.83187823313757],[75.85975355723268,15.8598586139364]]]},"properties":{"region_id":"village_601387","name":"KODATGERI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.31167619849663,13.55332278919044],[78.30706889170456,13.55423816481551],[78.30311108238499,13.54873506210272],[78.3084095994216,13.54370480531575],[78.31167619849663,13.55332278919044]]]},"properties":{"region_id":"village_621424","name":"YERAMVARIPALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59950558891059,13.38331430312673],[75.56100375421215,13.38235305573496],[75.5711119365594,13.34914839974302],[75.59950558891059,13.38331430312673]]]},"properties":{"region_id":"village_609666","name":"KADAVANTHI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56743915112425,14.24450807910954],[76.53499711634164,14.23061232615032],[76.55100358832183,14.20529340317621],[76.56743915112425,14.24450807910954]]]},"properties":{"region_id":"village_605574","name":"CHIKKENAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

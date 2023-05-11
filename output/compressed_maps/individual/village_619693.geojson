@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76389196270395,11.91653585320005],[76.7624439584741,11.92895051942429],[76.74797322194999,11.92860210211028],[76.74796169094414,11.91575942937477],[76.76389196270395,11.91653585320005]]]},"properties":{"region_id":"village_619693","name":"HARAGANAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

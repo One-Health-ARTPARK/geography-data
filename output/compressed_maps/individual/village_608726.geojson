@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72685666799973,13.60161166755575],[74.71985697047985,13.60950142166907],[74.71024143121831,13.59907601814484],[74.72448927552429,13.58990175169054],[74.72685666799973,13.60161166755575]]]},"properties":{"region_id":"village_608726","name":"KONI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55665900039223,12.95334100011369],[77.55922100023763,12.95939399965113],[77.54842600009631,12.95659799974075],[77.54915499960404,12.95232300009818],[77.55665900039223,12.95334100011369]]]},"properties":{"region_id":"ward_bbmp141","name":"WARD NO.141 (AZAD NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

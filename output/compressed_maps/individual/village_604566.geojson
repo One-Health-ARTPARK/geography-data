@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72366590337549,14.47853512224228],[75.73204569317961,14.52014614981663],[75.71842913817416,14.52372871811769],[75.72366590337549,14.47853512224228]]]},"properties":{"region_id":"village_604566","name":"NAGENAHALLI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

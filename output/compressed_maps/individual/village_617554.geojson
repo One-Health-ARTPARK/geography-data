@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01305021965369,12.93909561823108],[74.99549876848465,12.95452343052174],[74.97302967537523,12.94404272604579],[74.99670780173798,12.9261708315724],[75.01305021965369,12.93909561823108]]]},"properties":{"region_id":"village_617554","name":"BADAGA BELLUR","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

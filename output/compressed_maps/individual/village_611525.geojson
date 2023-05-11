@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09904747743195,13.18719123366353],[77.08787629704136,13.19302832792368],[77.08367393928961,13.17878217369707],[77.09744995757724,13.17538520964818],[77.09904747743195,13.18719123366353]]]},"properties":{"region_id":"village_611525","name":"CHIKKAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

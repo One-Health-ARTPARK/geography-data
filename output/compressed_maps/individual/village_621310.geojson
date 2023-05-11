@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21218578437082,16.71560498909067],[77.21219419686784,16.72270910706699],[77.16426027268511,16.71446560478765],[77.1883815105879,16.70717034868808],[77.21218578437082,16.71560498909067]]]},"properties":{"region_id":"village_621310","name":"POGLAPUR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

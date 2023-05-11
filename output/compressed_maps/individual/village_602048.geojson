@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52009315858727,15.25718743499115],[75.50667955239807,15.23856120901261],[75.54125287276595,15.2375595588624],[75.5370847112801,15.26333804617039],[75.52009315858727,15.25718743499115]]]},"properties":{"region_id":"village_602048","name":"SEETHALAHARI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

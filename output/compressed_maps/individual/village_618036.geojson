@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90417493338437,12.23812883885952],[75.92132858258064,12.23990773979645],[75.92340386837417,12.27101042068094],[75.89228879343338,12.26706142206537],[75.88345509881495,12.24810512184784],[75.90417493338437,12.23812883885952]]]},"properties":{"region_id":"village_618036","name":"MEKUR HOSAKERI","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

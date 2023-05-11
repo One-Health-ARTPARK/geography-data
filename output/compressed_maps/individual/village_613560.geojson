@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51887931266485,12.66578288689002],[76.510112617424,12.66930297877977],[76.50981575029014,12.65582768819848],[76.52116020398503,12.65712411816712],[76.51887931266485,12.66578288689002]]]},"properties":{"region_id":"village_613560","name":"GUDDENAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76826494555677,16.3592742682863],[75.75545616543124,16.36054492524101],[75.74969739840704,16.34044540906864],[75.76419202594775,16.34060564795554],[75.76826494555677,16.3592742682863]]]},"properties":{"region_id":"village_598523","name":"HADARIHAL","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

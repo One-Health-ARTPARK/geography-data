@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73272006714606,12.44000011131277],[75.71136388896113,12.44010082555175],[75.71743280773774,12.42411678914702],[75.73667391897892,12.4327810290876],[75.73272006714606,12.44000011131277]]]},"properties":{"region_id":"village_923899","name":"K.BADAGA","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65783317611307,11.75086279093984],[76.63684536486538,11.75461623914202],[76.63798687629227,11.72399518269073],[76.65377930162946,11.7364872244237],[76.65783317611307,11.75086279093984]]]},"properties":{"region_id":"village_619574","name":"HANGALA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

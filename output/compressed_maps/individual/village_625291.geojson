@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5590106262817,13.2321755856375],[77.55873531582388,13.21886121019589],[77.57357055332379,13.21251165804609],[77.57635278480348,13.22871041461334],[77.5590106262817,13.2321755856375]]]},"properties":{"region_id":"village_625291","name":"ARADESHAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

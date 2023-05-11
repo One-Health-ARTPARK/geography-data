@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75856934228143,13.19213702768797],[77.756624167322,13.20515965700809],[77.74497445763501,13.20223232557765],[77.7439595562202,13.1918704235254],[77.75856934228143,13.19213702768797]]]},"properties":{"region_id":"village_625442","name":"HOSAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

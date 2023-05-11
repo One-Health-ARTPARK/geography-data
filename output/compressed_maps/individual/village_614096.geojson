@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62587727450357,12.62913619620699],[76.60506179260307,12.63018150274732],[76.61835234194533,12.61139953134471],[76.62587727450357,12.62913619620699]]]},"properties":{"region_id":"village_614096","name":"MARAMAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25139498519917,16.53601646402099],[75.24970620613126,16.55767763771744],[75.22671532919394,16.54846073058933],[75.25139498519917,16.53601646402099]]]},"properties":{"region_id":"village_598430","name":"HANCHINAL","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69237691597311,12.64127976119146],[76.69835682731592,12.62240979435431],[76.7090229169959,12.62762544724189],[76.69237691597311,12.64127976119146]]]},"properties":{"region_id":"village_614069","name":"BORAPURA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

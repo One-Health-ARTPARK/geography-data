@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.825513077758,15.83850718502479],[75.81054701823282,15.84974099342521],[75.79308135155277,15.82969916697363],[75.81648547845748,15.82655910413286],[75.825513077758,15.83850718502479]]]},"properties":{"region_id":"village_601929","name":"BOMMASAGAR","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71008791053032,13.31709088577146],[76.7004773511494,13.34264688059524],[76.6754926519304,13.32760937375844],[76.6911513045273,13.30240338492907],[76.71008791053032,13.31709088577146]]]},"properties":{"region_id":"village_612031","name":"RAJATHADRIPURA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

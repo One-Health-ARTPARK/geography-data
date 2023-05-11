@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09625383853354,14.63009719636909],[75.08292940581663,14.62645650526455],[75.09215284767477,14.61838025563184],[75.09625383853354,14.63009719636909]]]},"properties":{"region_id":"village_607384","name":"ARETHELAGADDE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

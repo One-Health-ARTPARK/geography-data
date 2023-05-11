@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76721912262573,13.3075685676943],[75.7454655684158,13.31149450686302],[75.75446545755865,13.29821728710495],[75.76533593358894,13.29900641356044],[75.76721912262573,13.3075685676943]]]},"properties":{"region_id":"village_609745","name":"NALLUR","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

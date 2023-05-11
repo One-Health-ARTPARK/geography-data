@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91384150147728,12.57236973756119],[75.91087617039099,12.57961651038774],[75.9038139192311,12.57302267451854],[75.90723026309176,12.56812980862247],[75.91384150147728,12.57236973756119]]]},"properties":{"region_id":"village_923955","name":"MOORIKALLUBASAVANLLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

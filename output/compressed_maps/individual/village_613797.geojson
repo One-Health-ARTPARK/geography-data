@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6493909537713,12.89065291382721],[76.64462588028982,12.88124348707403],[76.64845581432613,12.87988655676446],[76.6493909537713,12.89065291382721]]]},"properties":{"region_id":"village_613797","name":"PURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49098055508989,15.76169104075409],[76.45884423202416,15.79076200114205],[76.45135343426213,15.75762410452549],[76.49098055508989,15.76169104075409]]]},"properties":{"region_id":"village_601070","name":"GORLOTI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

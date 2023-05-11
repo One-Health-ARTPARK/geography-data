@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7145276668645,13.38926991465552],[77.70491187757692,13.37787968293207],[77.71891498323126,13.37663857205906],[77.7145276668645,13.38926991465552]]]},"properties":{"region_id":"village_623629","name":"KUPPAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

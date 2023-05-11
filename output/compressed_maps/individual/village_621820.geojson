@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.00840409572379,13.13667260638433],[78.00014824583735,13.15125646725745],[77.99699269276442,13.13750064146515],[78.00840409572379,13.13667260638433]]]},"properties":{"region_id":"village_621820","name":"NARASAPURA","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69072865887166,13.71818924670433],[75.68655810292852,13.70365582815833],[75.6987462386888,13.70136885644586],[75.69792037937235,13.71067205035231],[75.69072865887166,13.71818924670433]]]},"properties":{"region_id":"village_609118","name":"MUDUGODU","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

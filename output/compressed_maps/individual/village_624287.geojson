@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90934061564539,13.28439760740434],[77.90094612339068,13.27527457735187],[77.92125551696485,13.2700679632527],[77.91978413646713,13.28162073246439],[77.90934061564539,13.28439760740434]]]},"properties":{"region_id":"village_624287","name":"HEMARLAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

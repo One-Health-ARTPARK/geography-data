@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20544463984096,15.62318456516189],[76.21044593700543,15.6445043963147],[76.18610339198466,15.63629285351714],[76.20544463984096,15.62318456516189]]]},"properties":{"region_id":"village_601290","name":"NILOGAL","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

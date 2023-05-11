@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39163462589111,13.51126473852536],[76.3933060429384,13.53078628263479],[76.38420982151449,13.53044718749828],[76.37967372482008,13.51098062802352],[76.39163462589111,13.51126473852536]]]},"properties":{"region_id":"village_615643","name":"BENNIGUNDIHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43946421774932,13.7420227164984],[77.41503347795947,13.74484834926807],[77.40862383819399,13.72882958811545],[77.43764331977029,13.71639227539684],[77.43946421774932,13.7420227164984]]]},"properties":{"region_id":"village_610924","name":"GUNDAGAL","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77122706828114,13.67394701061549],[76.75417083051954,13.67100594800691],[76.76396542273629,13.65879786987836],[76.77122706828114,13.67394701061549]]]},"properties":{"region_id":"village_610420","name":"LINGASETTIHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

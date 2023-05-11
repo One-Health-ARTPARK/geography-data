@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91037026603982,15.73812172694885],[74.87896988821937,15.72457302718147],[74.88551393614148,15.69781556962148],[74.9392512683373,15.70426234338688],[74.93717605527507,15.73791343261593],[74.91037026603982,15.73812172694885]]]},"properties":{"region_id":"village_598142","name":"BELAWADI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

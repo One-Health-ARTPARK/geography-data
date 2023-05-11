@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62968389739666,12.50885240792202],[76.6189756984673,12.51511171593741],[76.61102466619415,12.50059745028293],[76.62489390951689,12.49900159598853],[76.62968389739666,12.50885240792202]]]},"properties":{"region_id":"village_614158","name":"HULKERE","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

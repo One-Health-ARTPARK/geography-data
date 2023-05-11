@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14703333133133,14.79873871298664],[75.13210877603814,14.79701262442475],[75.13250393402593,14.78207925068772],[75.14891681803141,14.79175090375917],[75.14703333133133,14.79873871298664]]]},"properties":{"region_id":"village_604090","name":"MALLIGAR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

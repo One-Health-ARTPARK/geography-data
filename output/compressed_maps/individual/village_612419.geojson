@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77017218330363,13.05627517703818],[76.7707320607567,13.06799349788014],[76.76192218338517,13.06740389548639],[76.7607890329028,13.05667554601473],[76.77017218330363,13.05627517703818]]]},"properties":{"region_id":"village_612419","name":"CHIKKABEERANAKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

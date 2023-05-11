@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25834657970934,13.03197213048812],[76.24990406264696,13.02792396121303],[76.26469280479272,13.01630375813595],[76.27569107547527,13.01930283071133],[76.26525256894843,13.03112463491382],[76.25834657970934,13.03197213048812]]]},"properties":{"region_id":"village_615986","name":"HAMPANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

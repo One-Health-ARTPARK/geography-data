@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75909872960182,13.1683533578949],[75.74954258112096,13.16959689663864],[75.75057250338583,13.15809622156058],[75.75909872960182,13.1683533578949]]]},"properties":{"region_id":"village_615073","name":"KEETHUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

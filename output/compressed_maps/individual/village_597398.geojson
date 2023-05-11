@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83201110128556,16.53625689456535],[74.81006731556836,16.53858137000191],[74.80519669102337,16.50568587800208],[74.83420830395895,16.51602036681392],[74.83201110128556,16.53625689456535]]]},"properties":{"region_id":"village_597398","name":"BEKKERI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

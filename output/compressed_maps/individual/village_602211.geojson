@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8243986741947,15.56764038592642],[74.79705714540329,15.54758646129567],[74.82141695120512,15.5339654732273],[74.8420883849414,15.53947755886272],[74.84120502018975,15.55810403933169],[74.8243986741947,15.56764038592642]]]},"properties":{"region_id":"village_602211","name":"TEGUR","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

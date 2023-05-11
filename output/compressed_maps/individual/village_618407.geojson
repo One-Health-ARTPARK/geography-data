@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33056552249367,12.34461611414876],[76.34420256200508,12.34911067120807],[76.33617572982705,12.35495746933203],[76.3247857716987,12.35365879761042],[76.33056552249367,12.34461611414876]]]},"properties":{"region_id":"village_618407","name":"KIRASODLU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

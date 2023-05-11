@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64213806185357,12.1670355207706],[76.62557453695584,12.16098685536547],[76.63646088514741,12.14089331510947],[76.65558630690487,12.14934308717355],[76.64213806185357,12.1670355207706]]]},"properties":{"region_id":"village_619186","name":"GODDANAPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

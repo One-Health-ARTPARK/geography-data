@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47938548742603,15.56813682238418],[75.43740078468252,15.56730117291223],[75.4406871278463,15.53716513783863],[75.48733268897954,15.53696429499937],[75.47938548742603,15.56813682238418]]]},"properties":{"region_id":"village_602355","name":"NAVALLI","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

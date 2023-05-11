@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8177757784125,12.91369556575363],[77.80299642362067,12.91295657425053],[77.80084589446564,12.89909819886528],[77.8104283990487,12.89698866100872],[77.8177757784125,12.91369556575363]]]},"properties":{"region_id":"village_613245","name":"KUGUR","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

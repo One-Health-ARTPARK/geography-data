@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78406386789767,12.96673008425879],[77.77532637904334,12.95514508194372],[77.79165207548307,12.95155997464524],[77.78406386789767,12.96673008425879]]]},"properties":{"region_id":"village_625733","name":"HAROHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

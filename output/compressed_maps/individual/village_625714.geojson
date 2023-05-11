@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79348627541482,12.99384901485996],[77.79935529921859,12.99477662333791],[77.79802539051322,13.00158169550587],[77.79154552398965,13.00162202594391],[77.79348627541482,12.99384901485996]]]},"properties":{"region_id":"village_625714","name":"APPAJIPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

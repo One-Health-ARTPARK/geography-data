@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23734985179571,12.71056535342704],[75.21112277568626,12.69175949464357],[75.22297990462923,12.67166594733956],[75.24727103714655,12.67781114468823],[75.23734985179571,12.71056535342704]]]},"properties":{"region_id":"village_617740","name":"OLAMOGRU","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

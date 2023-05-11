@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08192778497794,17.00528978661253],[77.04823416651631,16.99950926977888],[77.06562770061365,16.97332707903953],[77.09397662905889,16.97303421041173],[77.08192778497794,17.00528978661253]]]},"properties":{"region_id":"village_620685","name":"HANNIKERE","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

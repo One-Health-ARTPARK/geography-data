@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96288865784217,15.18765496877598],[75.97204943421728,15.2096001806153],[75.96158086030768,15.21586354055043],[75.94720441698178,15.20092406412408],[75.96288865784217,15.18765496877598]]]},"properties":{"region_id":"village_601731","name":"KALHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

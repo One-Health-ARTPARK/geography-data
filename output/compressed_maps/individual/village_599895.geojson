@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.371766733413,18.07451329863685],[77.33881764833706,18.06766224327712],[77.33562539398535,18.03877414176532],[77.36594173525337,18.04008932250895],[77.371766733413,18.07451329863685]]]},"properties":{"region_id":"village_599895","name":"BALUR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

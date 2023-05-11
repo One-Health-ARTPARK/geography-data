@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14216724373937,17.86916502558702],[77.10364858394314,17.86750922522224],[77.10656860476658,17.85310497601138],[77.13220146983106,17.85712520754053],[77.14216724373937,17.86916502558702]]]},"properties":{"region_id":"village_600267","name":"SONKHERA","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

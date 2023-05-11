@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47714725077026,16.41289087040226],[76.44378350746462,16.41855507098861],[76.44128033781051,16.36900318630395],[76.48272072651305,16.36152082257635],[76.47714725077026,16.41289087040226]]]},"properties":{"region_id":"village_620958","name":"RAJANKOLLUR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

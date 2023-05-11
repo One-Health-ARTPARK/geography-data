@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90597908173402,16.09082642288449],[76.88521859381723,16.08349274635487],[76.92258143347648,16.06038890941309],[76.92331139442167,16.08976303094164],[76.90597908173402,16.09082642288449]]]},"properties":{"region_id":"village_600962","name":"HIRE-BADARDINNI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

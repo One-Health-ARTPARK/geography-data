@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17130111501183,16.7553321481798],[75.16436613228389,16.777802784889],[75.12913642893751,16.77173355823292],[75.13320932966458,16.75058993598076],[75.17130111501183,16.7553321481798]]]},"properties":{"region_id":"village_597336","name":"YAKKANCHI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

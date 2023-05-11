@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41394682413787,13.22177581668629],[76.41925972523418,13.23028836923908],[76.40939118769022,13.23425147538421],[76.4068589836468,13.22479488196846],[76.41394682413787,13.22177581668629]]]},"properties":{"region_id":"village_612109","name":"BENNENAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

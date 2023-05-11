@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73803217884092,11.94377606975403],[76.73779684824756,11.93584422109854],[76.7439031380993,11.9377615243051],[76.73803217884092,11.94377606975403]]]},"properties":{"region_id":"village_619461","name":"BALLAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

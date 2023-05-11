@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14760532674373,15.22959920905394],[76.12375920910092,15.23267094915554],[76.12933880372083,15.21366087826126],[76.14760532674373,15.22959920905394]]]},"properties":{"region_id":"village_601743","name":"KATARKIGUDLANUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

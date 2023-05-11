@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87731172500573,13.0860403181264],[75.86037037653048,13.06988864584156],[75.8874683430398,13.06461762571033],[75.87731172500573,13.0860403181264]]]},"properties":{"region_id":"village_615401","name":"BIKKODU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

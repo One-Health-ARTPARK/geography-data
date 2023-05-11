@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64874163461013,17.97940906543315],[77.60910677449615,18.00927883644784],[77.60504829055861,17.96885285533756],[77.62567447139149,17.96017667299067],[77.64874163461013,17.97940906543315]]]},"properties":{"region_id":"village_600149","name":"CHILLARGI","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

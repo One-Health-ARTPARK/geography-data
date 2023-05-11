@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41879774110305,14.27055083705043],[75.42538725061503,14.26090471129459],[75.43794382757557,14.25903148690365],[75.43647975692927,14.26678445798748],[75.4230009519635,14.26666305176597],[75.41879774110305,14.27055083705043]]]},"properties":{"region_id":"village_607800","name":"BALEKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

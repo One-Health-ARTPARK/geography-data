@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86090759524964,14.49716096823838],[76.83324804025571,14.52203706203304],[76.8314522302856,14.49134156827172],[76.86090759524964,14.49716096823838]]]},"properties":{"region_id":"village_605294","name":"BASAPURA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

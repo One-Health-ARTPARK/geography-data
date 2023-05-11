@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38014249778449,13.64692902472745],[75.35930830998919,13.66728173344594],[75.34705183067761,13.64346301915448],[75.38014249778449,13.64692902472745]]]},"properties":{"region_id":"village_608250","name":"ANGALAGODIGE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

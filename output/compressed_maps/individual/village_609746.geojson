@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77272800261655,13.29991551577019],[75.76542586979944,13.28769837881005],[75.77861191749729,13.28422809064532],[75.78099656622892,13.2952265534891],[75.77272800261655,13.29991551577019]]]},"properties":{"region_id":"village_609746","name":"THEGUR","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

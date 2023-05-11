@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44177847169586,16.07196954403686],[75.4162893140549,16.05309455428476],[75.43596677014908,16.03632839924347],[75.44177847169586,16.07196954403686]]]},"properties":{"region_id":"village_598640","name":"JANGAWAD","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79225794561039,12.93910538435523],[76.77384611447506,12.94048700129321],[76.77756589219881,12.9203201330307],[76.79209458555712,12.92102516570645],[76.79225794561039,12.93910538435523]]]},"properties":{"region_id":"village_613747","name":"DODDAJATAKA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

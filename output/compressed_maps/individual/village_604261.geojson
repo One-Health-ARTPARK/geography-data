@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61415471216539,14.93009090332],[75.60051926941134,14.92104801385296],[75.58517988441966,14.9232875155507],[75.5864532398928,14.90676136507831],[75.60946137233834,14.90900575374229],[75.61415471216539,14.93009090332]]]},"properties":{"region_id":"village_604261","name":"KODABAL","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

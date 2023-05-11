@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99931227304324,12.50854553345391],[76.97660040093952,12.50993580032672],[76.98046140106656,12.48586654946487],[76.99931227304324,12.50854553345391]]]},"properties":{"region_id":"village_614615","name":"MADARAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

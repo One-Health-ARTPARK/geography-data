@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29155310717927,14.94521050671712],[75.26941191196433,14.94409823814633],[75.24358883285437,14.9182710236769],[75.25134007533772,14.89989869280389],[75.28802819344459,14.91149431681158],[75.29155310717927,14.94521050671712]]]},"properties":{"region_id":"village_938212","name":"BANKAPURA","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

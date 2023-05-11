@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03996036072243,13.98659450434673],[75.03468534449927,13.98532628696539],[75.03226806288228,13.98099962864416],[75.03926120271021,13.97997007014824],[75.03996036072243,13.98659450434673]]]},"properties":{"region_id":"village_607864","name":"HALETHOTA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

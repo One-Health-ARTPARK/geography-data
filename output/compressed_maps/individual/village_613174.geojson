@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65264738853912,12.75370638850152],[77.64809342589618,12.76325666010622],[77.64168589599304,12.76169183356763],[77.64286077771214,12.75326186110511],[77.65264738853912,12.75370638850152]]]},"properties":{"region_id":"village_613174","name":"DYAVASANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

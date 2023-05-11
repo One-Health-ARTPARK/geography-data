@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29021446017381,12.57417138094989],[77.27943907673377,12.57576920542671],[77.26989486016198,12.56971726386907],[77.27984202405483,12.56340447111933],[77.29021446017381,12.57417138094989]]]},"properties":{"region_id":"village_626288","name":"VITALENAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

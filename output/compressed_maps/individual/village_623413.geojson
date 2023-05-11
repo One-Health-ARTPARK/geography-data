@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59148459258725,13.52259923022323],[77.5849464085736,13.51301112248808],[77.5904929901049,13.50866100698504],[77.59573800625252,13.52206550772537],[77.59148459258725,13.52259923022323]]]},"properties":{"region_id":"village_623413","name":"GIDAGANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08799771736653,15.5068740809314],[76.060704249529,15.49737283969148],[76.07116637538583,15.47656359444374],[76.08799771736653,15.5068740809314]]]},"properties":{"region_id":"village_601325","name":"BEDWATTI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

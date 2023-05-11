@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09794384157028,13.09469848096017],[76.09357191822359,13.09050244607951],[76.0941047317731,13.08196636452073],[76.09721079228042,13.08237198500455],[76.09668258781043,13.08734132548474],[76.09794384157028,13.09469848096017]]]},"properties":{"region_id":"village_615896","name":"NARSIPURA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8098593043984,13.23637712681999],[76.79136965163117,13.22715229123556],[76.79490988292869,13.21329654583488],[76.81445439618237,13.21314552311076],[76.8098593043984,13.23637712681999]]]},"properties":{"region_id":"village_612301","name":"SAMPIGEHOSAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

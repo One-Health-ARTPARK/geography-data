@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86184765952648,13.54330731827356],[77.85872003175292,13.53362018697045],[77.87485968498086,13.53761062805601],[77.873930369422,13.54303201143074],[77.86184765952648,13.54330731827356]]]},"properties":{"region_id":"village_624068","name":"VALASENAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

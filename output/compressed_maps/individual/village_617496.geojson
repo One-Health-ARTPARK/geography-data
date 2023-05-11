@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95487835035551,12.86999345273281],[74.91888060412074,12.86228804396102],[74.92248405673783,12.84519279787747],[74.95027299534041,12.84624639380499],[74.95487835035551,12.86999345273281]]]},"properties":{"region_id":"village_617496","name":"PAVOOR","parent":"subdistrict_7197","parent_name":"ULLALA"}}
+]}

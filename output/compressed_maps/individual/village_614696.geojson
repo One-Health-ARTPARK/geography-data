@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9928907725598,12.30178494484025],[76.97732284994002,12.30763993893406],[76.9712631879932,12.29066489050604],[76.98948374437504,12.28764647936838],[76.9928907725598,12.30178494484025]]]},"properties":{"region_id":"village_614696","name":"HANAKOLA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02966085493132,15.17051352394664],[75.0065627294666,15.16732339885739],[75.00890891098157,15.15650292135163],[75.03583047914606,15.15773781447175],[75.02966085493132,15.17051352394664]]]},"properties":{"region_id":"village_602500","name":"JINNUR","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72540762711336,12.70642856144689],[77.70951194831888,12.7047176448809],[77.72446521802787,12.6948765802285],[77.72540762711336,12.70642856144689]]]},"properties":{"region_id":"village_613342","name":"MUTHAGATTI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24478181661092,16.57854498984757],[75.21382050293089,16.57449824675464],[75.21339912368546,16.55059152008032],[75.24970620613126,16.55767763771744],[75.24478181661092,16.57854498984757]]]},"properties":{"region_id":"village_598429","name":"ALBAL","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

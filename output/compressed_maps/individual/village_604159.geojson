@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24482744643,14.70875011364591],[75.25785443536562,14.72138298105105],[75.24298969250206,14.72545286042277],[75.24482744643,14.70875011364591]]]},"properties":{"region_id":"village_604159","name":"TAVARGOPPA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77150035581255,13.31993290331249],[74.75279552535696,13.31869957126356],[74.76195650655103,13.29488658827754],[74.77274015348509,13.3029391771457],[74.77150035581255,13.31993290331249]]]},"properties":{"region_id":"village_608849","name":"KORANGRAPADY (CT)","parent":"subdistrict_5523","parent_name":"UDUPI"}}
+]}

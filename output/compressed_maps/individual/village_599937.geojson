@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2406012569671,17.95329647018235],[77.21067825234965,17.95618608998062],[77.21416605461829,17.93694968157094],[77.23460607255099,17.93138894220661],[77.2406012569671,17.95329647018235]]]},"properties":{"region_id":"village_599937","name":"DAWARGAON","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

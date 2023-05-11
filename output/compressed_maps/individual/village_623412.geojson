@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60632468341406,13.51536337705754],[77.5962575599028,13.51685602298696],[77.59710540160627,13.5086273918279],[77.60632468341406,13.51536337705754]]]},"properties":{"region_id":"village_623412","name":"BUDIVANTHANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

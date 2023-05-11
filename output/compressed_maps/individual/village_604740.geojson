@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52261088076034,15.2570623511493],[76.50554123481142,15.25347369449769],[76.50472392932436,15.235705395825],[76.52542576917067,15.23498019876987],[76.52261088076034,15.2570623511493]]]},"properties":{"region_id":"village_604740","name":"BYLUVADIGERI","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

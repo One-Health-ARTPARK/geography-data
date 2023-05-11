@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9666569185696,12.40503600201384],[75.93610613395283,12.37916855909154],[75.98127897248658,12.36325602050477],[75.9666569185696,12.40503600201384]]]},"properties":{"region_id":"village_618148","name":"DODDAHARVE","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

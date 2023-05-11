@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35489300665749,15.32854061425543],[76.34398929755558,15.32773238074407],[76.35075927548735,15.30913584750284],[76.35887459596456,15.31997352717781],[76.35489300665749,15.32854061425543]]]},"properties":{"region_id":"village_601856","name":"HULGI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

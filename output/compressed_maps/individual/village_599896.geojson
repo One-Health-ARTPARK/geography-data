@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38694026037071,18.06853924960569],[77.37318604008303,18.06243012957486],[77.37077513755274,18.04812887663388],[77.39707815386483,18.04042451626258],[77.38694026037071,18.06853924960569]]]},"properties":{"region_id":"village_599896","name":"CHANDAPUR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

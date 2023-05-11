@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33036049203557,16.58682099926199],[77.30231797674996,16.58750996509485],[77.3000640198026,16.55570744330225],[77.33578740045313,16.562197970611],[77.33036049203557,16.58682099926199]]]},"properties":{"region_id":"village_621368","name":"BALCHED","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

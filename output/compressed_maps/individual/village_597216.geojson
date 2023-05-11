@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6421868611385,16.42872522792251],[74.60417716461825,16.4314393822883],[74.61214217669547,16.38641307776426],[74.64193228809481,16.38563018911031],[74.6421868611385,16.42872522792251]]]},"properties":{"region_id":"village_597216","name":"UMRANI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30618288356082,17.98617887861628],[77.29022635429547,17.96907154371402],[77.31483698064748,17.95962879031672],[77.31649715627728,17.9789649288322],[77.30618288356082,17.98617887861628]]]},"properties":{"region_id":"village_599954","name":"TARNALLI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90229358024754,17.56334077226723],[76.91714691724677,17.59115833708312],[76.90477266459133,17.59954859711135],[76.88019897270975,17.57425983140368],[76.90229358024754,17.56334077226723]]]},"properties":{"region_id":"village_619987","name":"DHAMMUR","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

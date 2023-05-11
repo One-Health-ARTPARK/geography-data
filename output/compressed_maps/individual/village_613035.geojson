@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51562313452337,12.86800451424125],[77.5081801946343,12.86368148628227],[77.50658128726572,12.85625241891643],[77.51100267197245,12.85472849198428],[77.5121390992357,12.8656227150396],[77.51562313452337,12.86800451424125]]]},"properties":{"region_id":"village_613035","name":"RACHANAMADU","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

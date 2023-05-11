@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59061580055636,13.63603116281057],[76.57517692315143,13.6342096504406],[76.59796112252498,13.61077800242583],[76.59061580055636,13.63603116281057]]]},"properties":{"region_id":"village_610111","name":"YAGACHIHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

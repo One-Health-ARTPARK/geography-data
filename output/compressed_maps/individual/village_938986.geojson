@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92279053619917,12.72406114795119],[75.92131617715533,12.73445185694609],[75.90904374624841,12.72943719059493],[75.91197185585037,12.72309012781625],[75.92279053619917,12.72406114795119]]]},"properties":{"region_id":"village_938986","name":"HANDLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

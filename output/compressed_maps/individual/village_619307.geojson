@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89001981725814,12.04981548418994],[76.88069020600835,12.03738524827152],[76.89585177620845,12.03197958600971],[76.90070264212454,12.04692344071804],[76.89001981725814,12.04981548418994]]]},"properties":{"region_id":"village_619307","name":"DASANOORU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

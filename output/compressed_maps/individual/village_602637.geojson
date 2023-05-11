@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.3391059556929,15.43897738603025],[74.27485733970649,15.44837610950498],[74.28142946907096,15.4214802989743],[74.32313649666277,15.417937463368],[74.3391059556929,15.43897738603025]]]},"properties":{"region_id":"village_602637","name":"ANAMOD","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

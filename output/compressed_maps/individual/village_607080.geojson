@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04831744633731,14.03826443604376],[76.03345857975226,14.03725179609255],[76.03849041162701,14.01456975864043],[76.04795265819456,14.01266018781178],[76.04831744633731,14.03826443604376]]]},"properties":{"region_id":"village_607080","name":"MADAPURA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3896956901729,17.09577560593427],[76.40178643843089,17.0742332708323],[76.42764916505794,17.10008546781488],[76.40089603345785,17.11524277875745],[76.3896956901729,17.09577560593427]]]},"properties":{"region_id":"village_620140","name":"GHATTERGA","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

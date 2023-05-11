@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63332521100155,14.88243108262616],[76.5971783556797,14.88230402430147],[76.6165698266694,14.85010821819415],[76.63332521100155,14.88243108262616]]]},"properties":{"region_id":"village_605092","name":"GUDEKOTA","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

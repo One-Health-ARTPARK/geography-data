@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29179167011716,18.16752138539868],[77.2669487330513,18.16013773659904],[77.28790718863829,18.14302690287884],[77.29179167011716,18.16752138539868]]]},"properties":{"region_id":"village_600026","name":"BALAD (K)","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

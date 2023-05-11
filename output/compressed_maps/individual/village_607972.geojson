@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08382917054814,13.86410532330911],[75.06624217128245,13.86615394164703],[75.07001378490857,13.85684406418906],[75.08234472524715,13.85517522347113],[75.08382917054814,13.86410532330911]]]},"properties":{"region_id":"village_607972","name":"NELLUNDE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

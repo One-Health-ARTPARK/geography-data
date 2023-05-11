@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05057459491853,16.33805329180941],[76.03542187697317,16.3447490168],[76.02994718737614,16.32806122785377],[76.04530113941341,16.32410213164429],[76.05057459491853,16.33805329180941]]]},"properties":{"region_id":"village_599575","name":"CHALAMI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

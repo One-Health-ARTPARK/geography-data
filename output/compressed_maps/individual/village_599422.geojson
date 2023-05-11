@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42676218897742,16.68867367957734],[76.39749196657397,16.68992120083551],[76.39649517153116,16.67288338987914],[76.41706258890099,16.6687164895939],[76.42676218897742,16.68867367957734]]]},"properties":{"region_id":"village_599422","name":"HALAGUNDAKNAL","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

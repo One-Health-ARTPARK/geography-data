@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98145960802071,16.10365031140179],[76.91465205614436,16.10143228321187],[76.9291434775714,16.06369072553356],[76.9729508671379,16.06231295037831],[76.98145960802071,16.10365031140179]]]},"properties":{"region_id":"village_600961","name":"BALLATGI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

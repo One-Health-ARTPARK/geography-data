@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82776824051733,12.96112297106983],[77.82637573311743,12.9706584284219],[77.81988167609366,12.96647044726065],[77.82084287158148,12.95740354787528],[77.82776824051733,12.96112297106983]]]},"properties":{"region_id":"village_625729","name":"OBALAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

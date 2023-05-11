@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19849678257548,12.80737016313322],[75.18869970421933,12.78003058836552],[75.20719593984818,12.77476807933335],[75.21113617669955,12.79759466707653],[75.19849678257548,12.80737016313322]]]},"properties":{"region_id":"village_617689","name":"BANNUR (RURAL)","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

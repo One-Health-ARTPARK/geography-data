@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5112094380847,13.3166820108322],[77.49697186945926,13.31944804606077],[77.50444261860524,13.30213809609807],[77.51658461409595,13.30902176345172],[77.5112094380847,13.3166820108322]]]},"properties":{"region_id":"village_625107","name":"TALAGAVARA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

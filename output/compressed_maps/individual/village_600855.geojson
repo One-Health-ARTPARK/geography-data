@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49707526443785,16.05647638695987],[77.50713305611914,16.08033309007808],[77.48549212893803,16.08686272587752],[77.47635452655328,16.05805042015636],[77.49707526443785,16.05647638695987]]]},"properties":{"region_id":"village_600855","name":"KOTHDODDI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

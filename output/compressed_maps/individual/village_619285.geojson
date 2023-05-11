@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85301243618699,12.0607977579492],[76.83119608606997,12.06904985007318],[76.80937673818438,12.04944541423913],[76.83677642929804,12.02912865925311],[76.85301243618699,12.0607977579492]]]},"properties":{"region_id":"village_619285","name":"CHUNCHANAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

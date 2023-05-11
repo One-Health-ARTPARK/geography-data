@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36656218683062,12.13924970200152],[77.35288356167179,12.12757768253002],[77.33847129980987,12.12601314289292],[77.33980861585248,12.10754448049397],[77.35361414865183,12.11268384365844],[77.36656218683062,12.13924970200152]]]},"properties":{"region_id":"village_619857","name":"BYRANATHA","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

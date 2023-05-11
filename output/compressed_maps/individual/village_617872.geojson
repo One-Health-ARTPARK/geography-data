@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92636677911729,12.78750337354308],[75.92043399106245,12.7901380397059],[75.91621849786893,12.77302429536715],[75.92298689797387,12.77229690189456],[75.93210183817305,12.78293237461245],[75.92636677911729,12.78750337354308]]]},"properties":{"region_id":"village_617872","name":"IST KUDLUR","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

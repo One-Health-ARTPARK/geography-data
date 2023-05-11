@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64318081857742,12.85049604898307],[77.6412589455824,12.86497091478784],[77.62862818375757,12.85207886349355],[77.64318081857742,12.85049604898307]]]},"properties":{"region_id":"village_613057","name":"VITTASANDRA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

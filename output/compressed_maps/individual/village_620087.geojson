@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65802299188836,17.37590525788946],[76.6317445541055,17.38134252500453],[76.63096711221583,17.36576900897954],[76.660448456076,17.36139149099281],[76.65802299188836,17.37590525788946]]]},"properties":{"region_id":"village_620087","name":"VAIJAPUR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

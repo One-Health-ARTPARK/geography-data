@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74920928140304,12.8022536260129],[77.74467020459204,12.80944792087332],[77.73475632348227,12.80379866386783],[77.74018030897307,12.79757439099846],[77.74920928140304,12.8022536260129]]]},"properties":{"region_id":"village_613272","name":"GUDDAHATTI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

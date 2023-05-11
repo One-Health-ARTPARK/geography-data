@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57965425967086,12.85828897627911],[77.57077603095108,12.86024765234632],[77.5655927236764,12.83966743841295],[77.57263602550212,12.83905048310588],[77.57965425967086,12.85828897627911]]]},"properties":{"region_id":"village_938462","name":"KEMBATTAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76129875705526,13.62063980272035],[77.74979326243746,13.62473978189881],[77.75198228498756,13.61104807448685],[77.76861360323531,13.61095228390963],[77.76129875705526,13.62063980272035]]]},"properties":{"region_id":"village_623449","name":"JONNALAKUNTE","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

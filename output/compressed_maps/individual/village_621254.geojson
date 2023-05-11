@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25730155816336,16.83035579888205],[77.21444402226884,16.83511969387212],[77.20173709343388,16.80963221773927],[77.23982818568601,16.81601847573249],[77.25730155816336,16.83035579888205]]]},"properties":{"region_id":"village_621254","name":"BELGERA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

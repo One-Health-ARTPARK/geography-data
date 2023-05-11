@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70080872967871,15.32440737189676],[76.67365370915098,15.32072899192494],[76.68000116342823,15.30883943308727],[76.7189419316507,15.30993935782267],[76.7213444366588,15.32493823208376],[76.70080872967871,15.32440737189676]]]},"properties":{"region_id":"village_604765","name":"GONAHAL","parent":"subdistrict_7107","parent_name":"KAMPLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13439742193593,13.52284312141491],[76.1433978471471,13.52514402214806],[76.15099854906636,13.54167058226322],[76.13445662301798,13.53385642132536],[76.13439742193593,13.52284312141491]]]},"properties":{"region_id":"village_609554","name":"ALAGATTA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

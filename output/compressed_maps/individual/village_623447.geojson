@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75910030086779,13.631668904574],[77.75301202464368,13.62419050966711],[77.76129875705526,13.62063980272035],[77.76466895641752,13.63086664687474],[77.75910030086779,13.631668904574]]]},"properties":{"region_id":"village_623447","name":"HIRENAGAVALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

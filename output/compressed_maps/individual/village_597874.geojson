@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.54736661205185,15.65205897099739],[74.54129062563524,15.65951682179721],[74.53499197784042,15.65752704606113],[74.53987468278338,15.64696916780186],[74.54736661205185,15.65205897099739]]]},"properties":{"region_id":"village_597874","name":"DODDAHOSUR","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

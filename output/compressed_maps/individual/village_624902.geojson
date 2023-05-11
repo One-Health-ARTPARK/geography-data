@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35367295504807,13.11027547294024],[77.35750491377878,13.12047083830047],[77.3458183411292,13.12698171691014],[77.34786235510623,13.11303226188344],[77.35367295504807,13.11027547294024]]]},"properties":{"region_id":"village_624902","name":"HURALIHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

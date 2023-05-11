@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50050681868821,15.07065701172868],[75.4824695356157,15.0700148132246],[75.48389351159402,15.04400950261317],[75.49471705819357,15.04640231730253],[75.50050681868821,15.07065701172868]]]},"properties":{"region_id":"village_602083","name":"SHYABALA","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

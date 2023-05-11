@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70460220395417,12.14820841769318],[76.69667494285072,12.14365806975283],[76.69846625226394,12.12155425738804],[76.71077168899532,12.13596179422235],[76.70460220395417,12.14820841769318]]]},"properties":{"region_id":"village_619194","name":"THOREMAVU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

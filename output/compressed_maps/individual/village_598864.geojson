@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68658067787848,16.13567716234766],[75.67881637430706,16.11172802608702],[75.73181720649059,16.11101159040835],[75.73587243055016,16.12922512274407],[75.68658067787848,16.13567716234766]]]},"properties":{"region_id":"village_598864","name":"NIRALKERI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

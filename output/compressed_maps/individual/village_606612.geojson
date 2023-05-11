@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98524217886434,14.41202387878057],[75.9810601886241,14.42641329216417],[75.96745937055026,14.42280757591641],[75.97330719544291,14.41001901460865],[75.98524217886434,14.41202387878057]]]},"properties":{"region_id":"village_606612","name":"KALAPANAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

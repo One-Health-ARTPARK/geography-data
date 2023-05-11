@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11454423378215,12.97645174023182],[76.10688302797338,12.97904324695556],[76.1061269968864,12.98407100139532],[76.0950149314333,12.97651765477345],[76.1051673726466,12.97360371854968],[76.11454423378215,12.97645174023182]]]},"properties":{"region_id":"village_616028","name":"SANKALAPURA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

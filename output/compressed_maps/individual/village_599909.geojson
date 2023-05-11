@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1236539906807,18.02520331597359],[77.11418067428397,18.02592285269706],[77.10009589913314,18.00907903391128],[77.12762344193388,17.99982608349235],[77.1236539906807,18.02520331597359]]]},"properties":{"region_id":"village_599909","name":"KOTGIRA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

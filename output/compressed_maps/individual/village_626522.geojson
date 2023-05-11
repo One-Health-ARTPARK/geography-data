@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29681936613954,12.45505506261582],[77.2887624122063,12.4764788354605],[77.2694273332905,12.46476046765734],[77.28831162101308,12.43518182473299],[77.29681936613954,12.45505506261582]]]},"properties":{"region_id":"village_626522","name":"SASALAPURA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

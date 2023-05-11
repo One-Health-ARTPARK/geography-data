@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09787419679463,12.42239910973987],[76.09177639310009,12.43189073153454],[76.07814552980494,12.42178819734734],[76.09293117295213,12.41722710752774],[76.09787419679463,12.42239910973987]]]},"properties":{"region_id":"village_618183","name":"SEEGEKOREKAVAL","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2817058083719,16.22854456202196],[77.248510524836,16.23115867630747],[77.22601797005416,16.21737971096059],[77.2274530270546,16.19990471369381],[77.27398531558015,16.21701473585379],[77.2817058083719,16.22854456202196]]]},"properties":{"region_id":"village_600819","name":"GONHAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

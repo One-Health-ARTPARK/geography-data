@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53316778010583,15.48820431766577],[75.48735584844303,15.48813274998033],[75.5317812072353,15.43888042436947],[75.53316778010583,15.48820431766577]]]},"properties":{"region_id":"village_601998","name":"CHIKKAHANDIGOL","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

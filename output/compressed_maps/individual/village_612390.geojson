@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80027264439957,13.12378715472609],[76.78627642087984,13.1080682447784],[76.80367076058003,13.1089462424404],[76.80027264439957,13.12378715472609]]]},"properties":{"region_id":"village_612390","name":"DODDAMALLIGEREI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

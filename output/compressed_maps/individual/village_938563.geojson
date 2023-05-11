@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81093871833446,17.32717784821168],[76.79965246260089,17.33786931314902],[76.7964757598439,17.32332452976183],[76.81093871833446,17.32717784821168]]]},"properties":{"region_id":"village_938563","name":"HEERAPURA","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

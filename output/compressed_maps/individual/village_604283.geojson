@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39895805191823,14.70174996173802],[75.3859510757964,14.70887656137541],[75.36901626509905,14.693572652912],[75.38972239128778,14.67670557224751],[75.39895805191823,14.70174996173802]]]},"properties":{"region_id":"village_604283","name":"HEDIGONDA","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

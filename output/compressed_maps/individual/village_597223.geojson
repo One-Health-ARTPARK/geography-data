@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55732071547871,16.4019113923426],[74.54285131754041,16.39873628744031],[74.54526124745477,16.36022980527577],[74.56400661089326,16.36283200349699],[74.55732071547871,16.4019113923426]]]},"properties":{"region_id":"village_597223","name":"JAINAPUR","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

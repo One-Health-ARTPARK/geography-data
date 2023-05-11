@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09638897899974,12.6139311546913],[77.09462686841815,12.6060378579935],[77.10999381413887,12.59734846395177],[77.11086399367053,12.61482993801099],[77.09638897899974,12.6139311546913]]]},"properties":{"region_id":"village_614568","name":"THIPPUR","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

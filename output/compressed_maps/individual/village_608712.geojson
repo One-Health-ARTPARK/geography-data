@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81953054112918,13.69796934394039],[74.81490143572879,13.66249551751871],[74.85264114448256,13.66174814038415],[74.8479941808426,13.68551697294461],[74.81953054112918,13.69796934394039]]]},"properties":{"region_id":"village_608712","name":"KODLADI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

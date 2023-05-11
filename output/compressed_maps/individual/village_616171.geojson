@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17326065033858,12.93768117896406],[76.15510397558401,12.93382999578717],[76.15730121158035,12.92381494576926],[76.16917888208997,12.92577420210879],[76.17326065033858,12.93768117896406]]]},"properties":{"region_id":"village_616171","name":"GUDUGANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

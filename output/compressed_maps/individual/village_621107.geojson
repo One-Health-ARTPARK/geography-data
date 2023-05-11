@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84861118719999,16.75921672589548],[76.83982746243692,16.77106065475489],[76.82563060645708,16.76414616411205],[76.82589167997811,16.75637303950765],[76.84861118719999,16.75921672589548]]]},"properties":{"region_id":"village_621107","name":"MAKTAPUR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

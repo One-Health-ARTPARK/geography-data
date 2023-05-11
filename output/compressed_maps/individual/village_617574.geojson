@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1603931942441,12.85272470059457],[75.15131207601307,12.83103813270114],[75.18090828698637,12.825532643629],[75.19129497664501,12.84302420880695],[75.1603931942441,12.85272470059457]]]},"properties":{"region_id":"village_617574","name":"KADESHWALYA","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

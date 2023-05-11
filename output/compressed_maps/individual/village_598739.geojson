@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77353166437672,15.94612139662162],[75.7394257574494,15.97798196241935],[75.729900989627,15.93555944585129],[75.77353166437672,15.94612139662162]]]},"properties":{"region_id":"village_598739","name":"NANDIKESHWAR","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

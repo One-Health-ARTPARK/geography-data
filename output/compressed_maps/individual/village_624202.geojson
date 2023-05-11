@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96140416489,13.35416854513566],[77.9630988638976,13.37109498384157],[77.93510368005376,13.38038077933991],[77.93851603494512,13.35582513231451],[77.96140416489,13.35416854513566]]]},"properties":{"region_id":"village_624202","name":"GORAMADAGU","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

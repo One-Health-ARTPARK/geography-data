@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10414717316793,15.44058137394978],[76.09904158294833,15.40757295434651],[76.14941360953553,15.4131650273427],[76.10414717316793,15.44058137394978]]]},"properties":{"region_id":"village_601746","name":"MADINUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

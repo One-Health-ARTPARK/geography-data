@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90912650828999,14.09948881284203],[75.89049071267023,14.09835722578298],[75.89254006048776,14.08355947850166],[75.90926880354405,14.08571320646461],[75.90912650828999,14.09948881284203]]]},"properties":{"region_id":"village_607018","name":"MANTRAGHATTA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

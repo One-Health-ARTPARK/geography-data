@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99470771526587,16.57467988855919],[74.96875537847525,16.58293780830804],[74.96335414966288,16.55848144546519],[75.004548774478,16.5520811883337],[74.99470771526587,16.57467988855919]]]},"properties":{"region_id":"village_597390","name":"KOLIGUDDA","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

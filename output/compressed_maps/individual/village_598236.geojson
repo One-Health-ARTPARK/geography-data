@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0558521042163,15.79342560488872],[75.0379221935329,15.79496892183409],[75.04361005751858,15.75522993968962],[75.05827371562343,15.75666650995984],[75.0558521042163,15.79342560488872]]]},"properties":{"region_id":"village_598236","name":"SHINGARKOP","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

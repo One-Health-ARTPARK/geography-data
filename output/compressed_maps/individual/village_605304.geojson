@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69421494308784,14.42101271298186],[76.67739714203988,14.43603410875186],[76.65908166768517,14.4182134136176],[76.69899045974537,14.40193148162705],[76.69421494308784,14.42101271298186]]]},"properties":{"region_id":"village_605304","name":"GIRIYAMMANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

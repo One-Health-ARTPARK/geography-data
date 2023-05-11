@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17545846706238,12.49905131117879],[77.15544391053398,12.51276495653785],[77.1330216194444,12.50402967963403],[77.15414837148212,12.4902662372868],[77.17545846706238,12.49905131117879]]]},"properties":{"region_id":"village_626306","name":"NERALUR","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

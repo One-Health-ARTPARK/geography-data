@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7097386177402,12.69532371948943],[77.69461022631864,12.69787824407966],[77.69494600552652,12.69037671637766],[77.7097386177402,12.69532371948943]]]},"properties":{"region_id":"village_613337","name":"HOMPALAGHATTA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.15763311952263,14.84314127132903],[74.15531411543454,14.82868973142833],[74.16248897850967,14.82809040354618],[74.16533026539953,14.83604921822311],[74.15763311952263,14.84314127132903]]]},"properties":{"region_id":"village_938832","name":"KATINAKONA","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

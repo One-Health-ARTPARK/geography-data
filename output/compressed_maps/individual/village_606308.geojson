@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03805940392084,14.8051890222216],[76.03905636893118,14.81860787906069],[76.01170444024763,14.81811173176737],[76.02427571305005,14.79729726569575],[76.03805940392084,14.8051890222216]]]},"properties":{"region_id":"village_606308","name":"KAYAKADAHALLI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08510896998592,12.4412096204288],[77.07270897095881,12.44053385344393],[77.07197772114432,12.42893567142841],[77.08635036254668,12.43156987337821],[77.08510896998592,12.4412096204288]]]},"properties":{"region_id":"village_614701","name":"KALUVEERANAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

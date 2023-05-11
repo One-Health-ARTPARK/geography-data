@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76584925397557,13.66066512036035],[77.75389868771198,13.66131579307467],[77.75463307491553,13.65452126506725],[77.76302353728249,13.65401393346694],[77.76584925397557,13.66066512036035]]]},"properties":{"region_id":"village_623769","name":"SADASIVANAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

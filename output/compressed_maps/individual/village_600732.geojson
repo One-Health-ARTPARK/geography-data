@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30178127248894,16.35508554744656],[77.2780064540375,16.33833935173742],[77.30425075864434,16.33223802629409],[77.30178127248894,16.35508554744656]]]},"properties":{"region_id":"village_600732","name":"BEVIN BENCHI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

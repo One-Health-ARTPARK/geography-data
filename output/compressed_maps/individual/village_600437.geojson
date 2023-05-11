@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61096510161309,16.11147904902982],[76.58466339245926,16.12215985601931],[76.5848829280833,16.06248596679539],[76.61272281658542,16.09082540449439],[76.61096510161309,16.11147904902982]]]},"properties":{"region_id":"village_600437","name":"GONWAR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

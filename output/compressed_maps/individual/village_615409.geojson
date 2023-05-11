@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80494520728693,13.1681411415947],[75.7985618847296,13.17707361539309],[75.79358968610451,13.17563412235634],[75.79811051848905,13.16154166255481],[75.80494520728693,13.1681411415947]]]},"properties":{"region_id":"village_615409","name":"SOMANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

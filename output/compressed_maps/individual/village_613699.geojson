@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70643826986537,12.99066574341385],[76.71598889608094,12.99575115137432],[76.70795980914218,13.00160722783956],[76.70643826986537,12.99066574341385]]]},"properties":{"region_id":"village_613699","name":"SRIRANGAPURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

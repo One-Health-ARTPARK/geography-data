@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0921669785278,14.61833648729374],[75.08197829761558,14.61879005106484],[75.0896046983179,14.60802040165414],[75.0921669785278,14.61833648729374]]]},"properties":{"region_id":"village_607382","name":"KODIKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

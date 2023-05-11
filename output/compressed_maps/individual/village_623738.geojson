@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81123519953836,13.69817487600411],[77.80515222898804,13.70380886950322],[77.80070230207563,13.70140387030737],[77.80474207395507,13.69300441845356],[77.81123519953836,13.69817487600411]]]},"properties":{"region_id":"village_623738","name":"KAMBALAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

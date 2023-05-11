@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48593177876471,16.16520082289221],[77.46811308957906,16.16412140170403],[77.46957729591071,16.13316363753347],[77.49090402666194,16.12625180376897],[77.48593177876471,16.16520082289221]]]},"properties":{"region_id":"village_600803","name":"UNDRAL DODDI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

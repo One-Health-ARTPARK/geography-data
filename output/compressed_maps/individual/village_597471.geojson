@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69169530646181,16.05769097571278],[74.6973391431737,16.05951167132472],[74.69641866558402,16.06176833730153],[74.68949324492915,16.0600441741015],[74.69169530646181,16.05769097571278]]]},"properties":{"region_id":"village_597471","name":"KUNDARGI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

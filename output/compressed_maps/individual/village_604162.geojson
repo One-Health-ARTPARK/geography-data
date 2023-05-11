@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2244481770768,14.71155922998818],[75.1971102711842,14.71376220992456],[75.22137604332005,14.6883337676084],[75.2244481770768,14.71155922998818]]]},"properties":{"region_id":"village_604162","name":"MALAGUND","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46811308957906,16.16412140170403],[77.4483263093361,16.15884499132111],[77.44409461224542,16.12766989897882],[77.46202639031759,16.13028653683677],[77.46811308957906,16.16412140170403]]]},"properties":{"region_id":"village_600801","name":"AYAZPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95270100776683,13.45764325113006],[74.9420378034407,13.46728834978716],[74.90812518751285,13.45143776901218],[74.93061809201166,13.43262616406959],[74.95270100776683,13.45764325113006]]]},"properties":{"region_id":"village_608806","name":"38 KALTHUR","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

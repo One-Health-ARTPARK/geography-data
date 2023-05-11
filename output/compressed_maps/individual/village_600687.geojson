@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0330263033097,16.31486551621475],[77.01653730687498,16.31621754957932],[77.01318047377242,16.29670751477475],[77.0330263033097,16.31486551621475]]]},"properties":{"region_id":"village_600687","name":"GAJJIBHAVI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

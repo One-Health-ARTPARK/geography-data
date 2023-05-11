@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13697588275166,12.39946289992693],[77.12484543312291,12.40133384725064],[77.12244392116807,12.39045538076022],[77.13768429351592,12.38381967375233],[77.13697588275166,12.39946289992693]]]},"properties":{"region_id":"village_614740","name":"MEGALAPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

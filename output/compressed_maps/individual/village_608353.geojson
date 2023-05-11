@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5038531576727,14.05070108647772],[75.4906359270944,14.05777485808648],[75.48459022224273,14.04948910306028],[75.49208679519943,14.0389314757659],[75.5038531576727,14.05070108647772]]]},"properties":{"region_id":"village_608353","name":"MUDUVALA","parent":"subdistrict_5520","parent_name":"SHIVAMOGGA"}}
+]}

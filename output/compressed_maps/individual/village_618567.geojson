@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34454856060906,12.60572311204736],[76.33708003774963,12.59824440599224],[76.34674393216584,12.59551613056005],[76.34454856060906,12.60572311204736]]]},"properties":{"region_id":"village_618567","name":"VALAGEREHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99712899835227,12.92472884066861],[76.97376895071872,12.92644591428163],[76.99364938304635,12.89107704617724],[76.99712899835227,12.92472884066861]]]},"properties":{"region_id":"village_612627","name":"HEGGADATHIHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

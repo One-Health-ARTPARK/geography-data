@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99445979035661,16.03312447742928],[76.96547348562466,16.03298837687592],[76.96919316834355,16.00700291453355],[76.99296432937977,16.00852777982146],[76.99445979035661,16.03312447742928]]]},"properties":{"region_id":"village_600991","name":"MALLIGE MADUGU","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

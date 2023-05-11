@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78480753452929,15.35804190202052],[76.76630187245141,15.35888103190946],[76.75876601406334,15.31988344123946],[76.76906328827047,15.31882042953108],[76.78480753452929,15.35804190202052]]]},"properties":{"region_id":"village_604868","name":"KALLUKAMBA","parent":"subdistrict_7109","parent_name":"KURUGODU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18108560818965,12.75661296970671],[75.17824466918654,12.72448543526943],[75.16075773264716,12.68100860309614],[75.18954977641938,12.68938417990823],[75.18108560818965,12.75661296970671]]]},"properties":{"region_id":"village_617731","name":"BALNADU (RURAL)","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

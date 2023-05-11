@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4555255436166,15.79851672517265],[74.44324147431942,15.79827158010868],[74.44890058551194,15.77741741032048],[74.45732133535446,15.78126753435981],[74.4555255436166,15.79851672517265]]]},"properties":{"region_id":"village_597741","name":"KUTTALAWADI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6046385758058,11.75324252228392],[76.59003333851108,11.72409059570646],[76.59943368850959,11.70845994065236],[76.6145607514766,11.74859324370285],[76.6046385758058,11.75324252228392]]]},"properties":{"region_id":"village_619566","name":"KALLIPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

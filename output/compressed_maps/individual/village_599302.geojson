@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31244203173631,17.09483424783602],[76.31747535015857,17.12402826439688],[76.29234844317915,17.12214252597635],[76.29034120183799,17.09560664196799],[76.31244203173631,17.09483424783602]]]},"properties":{"region_id":"village_599302","name":"BOMMANAHALLI","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

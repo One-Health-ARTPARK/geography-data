@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05674846198745,13.6138132824003],[76.03237203153368,13.61481572419515],[76.03663594833321,13.58628024449048],[76.0547334193498,13.58655047245404],[76.05674846198745,13.6138132824003]]]},"properties":{"region_id":"village_609498","name":"UPPUNSE","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

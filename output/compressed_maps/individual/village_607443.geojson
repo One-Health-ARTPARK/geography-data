@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25183696593125,14.49611047658582],[75.23335862868572,14.49829613653697],[75.23156230006036,14.48625929062777],[75.2442787208681,14.4878998772382],[75.25183696593125,14.49611047658582]]]},"properties":{"region_id":"village_607443","name":"GANGAVALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

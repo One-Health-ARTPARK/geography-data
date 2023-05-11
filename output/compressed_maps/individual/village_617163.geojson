@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35372212629017,12.97993555937486],[76.33975896921139,12.97999588680291],[76.34721880949854,12.96514885398808],[76.35539069210216,12.96888800249101],[76.35372212629017,12.97993555937486]]]},"properties":{"region_id":"village_617163","name":"DARASIGHATTA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

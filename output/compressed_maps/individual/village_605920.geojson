@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41249658092615,13.91441912414803],[76.41912511837556,13.9434223285572],[76.34343679817513,13.93297853551118],[76.36140082024832,13.91110927439107],[76.41249658092615,13.91441912414803]]]},"properties":{"region_id":"village_605920","name":"KENKERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

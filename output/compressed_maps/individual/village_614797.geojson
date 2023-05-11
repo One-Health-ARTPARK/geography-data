@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0685546252742,12.31872269148995],[77.06480638975847,12.33867626822065],[77.04943090809424,12.32812025454199],[77.05302304328107,12.31556168192593],[77.0685546252742,12.31872269148995]]]},"properties":{"region_id":"village_614797","name":"KUNDUR","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

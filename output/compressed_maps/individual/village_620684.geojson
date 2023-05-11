@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19011503456463,17.27128591500786],[77.18667591634237,17.29946666467029],[77.15877829058697,17.30227984279312],[77.17001739604507,17.27079162779203],[77.19011503456463,17.27128591500786]]]},"properties":{"region_id":"village_620684","name":"SULHALLI","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

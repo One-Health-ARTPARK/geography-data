@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80704829012475,15.53028269235399],[76.79221393967228,15.52780928626081],[76.7565563944545,15.56789219066824],[76.74537007429736,15.55228567259925],[76.790407075078,15.49898434377477],[76.80704829012475,15.53028269235399]]]},"properties":{"region_id":"village_601706","name":"KAKKARGOL","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

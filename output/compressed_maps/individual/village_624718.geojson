@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31122344492155,13.31603113612505],[77.31888039212552,13.30395138981233],[77.32935155464521,13.31434316507158],[77.31122344492155,13.31603113612505]]]},"properties":{"region_id":"village_624718","name":"MADAGA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

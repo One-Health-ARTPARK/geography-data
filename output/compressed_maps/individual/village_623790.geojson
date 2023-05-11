@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7843309965996,13.76567569374513],[77.77340195820865,13.7588655893339],[77.79044002138954,13.74988824729354],[77.80689982791267,13.75030031676629],[77.80422449496488,13.756891799415],[77.7843309965996,13.76567569374513]]]},"properties":{"region_id":"village_623790","name":"KOTHAKOTI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

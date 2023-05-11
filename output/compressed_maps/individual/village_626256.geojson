@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21193131046645,12.63844030549386],[77.21789751493964,12.63729293993127],[77.2304750419391,12.65329301378657],[77.22438913191709,12.65804458411307],[77.21193131046645,12.63844030549386]]]},"properties":{"region_id":"village_626256","name":"LALAGHATTA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

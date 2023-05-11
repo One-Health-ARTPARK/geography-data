@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80185675248119,15.36020018686956],[76.78533323482958,15.36269964379091],[76.7790183586665,15.33672241376725],[76.79318893836007,15.32590971571673],[76.80185675248119,15.36020018686956]]]},"properties":{"region_id":"village_604869","name":"LAKSHMIPURA","parent":"subdistrict_7109","parent_name":"KURUGODU"}}
+]}

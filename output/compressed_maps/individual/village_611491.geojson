@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01264946549712,13.1989152226715],[77.02210733906328,13.19940388539766],[77.01718507543505,13.21635016882436],[77.0127090724286,13.21592505515262],[77.01264946549712,13.1989152226715]]]},"properties":{"region_id":"village_611491","name":"KODIMUDDANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

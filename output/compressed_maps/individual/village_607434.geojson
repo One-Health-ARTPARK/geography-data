@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21887088931773,14.55922143417829],[75.20762831676355,14.55968318317565],[75.20290226284,14.54693036119518],[75.21767808782477,14.54438201916301],[75.21887088931773,14.55922143417829]]]},"properties":{"region_id":"village_607434","name":"KAMANAVALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

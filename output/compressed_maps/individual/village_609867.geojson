@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84318332983841,13.30894719059036],[75.82705809174361,13.30489234104422],[75.8321699497929,13.27715943882736],[75.85058787363575,13.28842963724855],[75.84318332983841,13.30894719059036]]]},"properties":{"region_id":"village_609867","name":"ARADAVALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

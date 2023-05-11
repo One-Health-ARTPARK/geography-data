@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84972206379156,12.94710798138771],[76.85251534586203,12.95931738518746],[76.84184108426327,12.96595258065909],[76.83695276597233,12.9433936841359],[76.84972206379156,12.94710798138771]]]},"properties":{"region_id":"village_612487","name":"Y. HAMPAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

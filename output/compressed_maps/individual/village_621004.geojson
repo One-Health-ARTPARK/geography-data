@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69760725088584,16.46106838253008],[76.68566427319715,16.48160116853623],[76.67477991508483,16.46164076497955],[76.69760725088584,16.46106838253008]]]},"properties":{"region_id":"village_621004","name":"GONAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

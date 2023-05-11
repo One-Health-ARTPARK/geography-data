@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.54016724532802,14.31908908060807],[74.5678809641066,14.32971144049548],[74.57314320080194,14.36569350936885],[74.52295351542499,14.36089158188535],[74.54016724532802,14.31908908060807]]]},"properties":{"region_id":"village_603742","name":"SALKOD","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

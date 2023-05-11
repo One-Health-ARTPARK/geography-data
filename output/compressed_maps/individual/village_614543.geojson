@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0492507476959,12.74844021364328],[77.04410328336931,12.7773731573006],[77.03969318964158,12.75481998782739],[77.0492507476959,12.74844021364328]]]},"properties":{"region_id":"village_614543","name":"LINGASANDRA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

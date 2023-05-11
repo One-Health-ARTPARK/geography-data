@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2217537903267,13.99516359747583],[75.2048575995275,13.98992692195864],[75.21632165501212,13.97421092229653],[75.23008513401614,13.97610398744837],[75.2217537903267,13.99516359747583]]]},"properties":{"region_id":"village_607940","name":"BILKI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

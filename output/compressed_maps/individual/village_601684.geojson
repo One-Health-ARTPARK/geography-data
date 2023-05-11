@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58538800772068,15.597059666499],[76.5669772695233,15.57225129650629],[76.6011239051561,15.56247299622472],[76.58538800772068,15.597059666499]]]},"properties":{"region_id":"village_601684","name":"TONDIHAL","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

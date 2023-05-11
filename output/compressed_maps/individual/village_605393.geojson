@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81580308763532,14.25273395185994],[76.81203489908597,14.27426393173834],[76.77908238136004,14.26497474800883],[76.79222599615244,14.23765272742658],[76.81580308763532,14.25273395185994]]]},"properties":{"region_id":"village_605393","name":"SURANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

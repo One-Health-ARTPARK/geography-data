@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51577855288569,12.24666716721942],[76.49277636606094,12.23815364084659],[76.48558054533642,12.2167270138075],[76.51630016221245,12.21687766040154],[76.51577855288569,12.24666716721942]]]},"properties":{"region_id":"village_618924","name":"KANIYANAHUNDI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

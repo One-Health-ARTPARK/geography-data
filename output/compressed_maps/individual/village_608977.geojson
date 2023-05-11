@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24855467136359,13.50545693113316],[75.25053589269682,13.51474017370371],[75.240051913485,13.51619960764548],[75.23914656723638,13.50745810847734],[75.24855467136359,13.50545693113316]]]},"properties":{"region_id":"village_608977","name":"SHANUVALLI","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

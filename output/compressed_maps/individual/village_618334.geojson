@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24795176574123,12.33659806400365],[76.24524521067123,12.35099185796495],[76.21498221190382,12.34612493718896],[76.22177637453437,12.32787899433491],[76.24795176574123,12.33659806400365]]]},"properties":{"region_id":"village_618334","name":"KOTHEGALA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

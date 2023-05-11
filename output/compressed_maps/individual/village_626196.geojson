@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10760174704953,12.71834163211606],[77.10268371409795,12.73333355329055],[77.09249604105338,12.72172867609874],[77.10760174704953,12.71834163211606]]]},"properties":{"region_id":"village_626196","name":"GOWDAGERE","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

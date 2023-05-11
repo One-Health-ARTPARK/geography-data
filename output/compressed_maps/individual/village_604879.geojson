@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9396689130438,15.32542698312924],[76.93810650616662,15.3572100992982],[76.88623574448783,15.35245669628814],[76.88671578725673,15.3307801564149],[76.9396689130438,15.32542698312924]]]},"properties":{"region_id":"village_604879","name":"BYLURU","parent":"subdistrict_7109","parent_name":"KURUGODU"}}
+]}

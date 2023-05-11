@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82857041954624,13.71824248370281],[75.82418681432085,13.7281194023848],[75.81848051571534,13.72221854793896],[75.82857041954624,13.71824248370281]]]},"properties":{"region_id":"village_609146","name":"RANGAPURA (KAVAL)","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

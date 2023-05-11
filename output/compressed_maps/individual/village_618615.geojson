@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29018377831765,12.50486461965239],[76.27612975200124,12.51328693161816],[76.27396702318163,12.49746859999924],[76.29018377831765,12.50486461965239]]]},"properties":{"region_id":"village_618615","name":"HOSUR","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

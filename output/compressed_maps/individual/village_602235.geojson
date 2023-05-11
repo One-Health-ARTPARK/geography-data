@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00345019974668,15.49909546559552],[75.0037754937694,15.50966955685045],[74.99203986373635,15.50865410663549],[74.99362449561326,15.49823628332073],[75.00345019974668,15.49909546559552]]]},"properties":{"region_id":"village_602235","name":"KHANAPUR-M-NARENDRA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

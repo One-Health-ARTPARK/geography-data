@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76455140720537,13.17859409924523],[75.75783456062433,13.18359521556681],[75.7585842749807,13.16915330813156],[75.76604303891547,13.17258317962432],[75.76455140720537,13.17859409924523]]]},"properties":{"region_id":"village_615169","name":"BIRANAGODU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25906447566516,17.92739329879672],[77.23460607255099,17.93138894220661],[77.23461008507314,17.91141056348489],[77.25287309913435,17.91180107197573],[77.25906447566516,17.92739329879672]]]},"properties":{"region_id":"village_599942","name":"MASIMADU","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

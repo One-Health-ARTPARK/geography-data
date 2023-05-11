@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82857542737152,17.36639054946349],[76.80407759742694,17.37289275423621],[76.81174969764648,17.34619597424552],[76.82322542592014,17.34256540220626],[76.83647150380742,17.35838497623219],[76.82857542737152,17.36639054946349]]]},"properties":{"region_id":"village_620260","name":"SHEKAROJA","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

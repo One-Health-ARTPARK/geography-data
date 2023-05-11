@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61115207994857,16.48918628562421],[74.57025947293829,16.49070088513052],[74.5488006414578,16.45080937531296],[74.59858530183149,16.43276313572462],[74.61581793492262,16.43802823608068],[74.61115207994857,16.48918628562421]]]},"properties":{"region_id":"village_597192","name":"HIREKUDI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

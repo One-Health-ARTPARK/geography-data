@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68542081599703,15.06873541275298],[75.67571953334401,15.08164559794145],[75.6479892840862,15.0768713887238],[75.65158847978108,15.05883694892237],[75.68542081599703,15.06873541275298]]]},"properties":{"region_id":"village_602114","name":"NARAYANAPURA","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

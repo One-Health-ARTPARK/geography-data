@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99689057386087,13.12170311921113],[75.99476194009843,13.12962900963839],[75.98180203640028,13.13521362932893],[75.98112483804391,13.12228155248004],[75.99689057386087,13.12170311921113]]]},"properties":{"region_id":"village_615348","name":"HAGARE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

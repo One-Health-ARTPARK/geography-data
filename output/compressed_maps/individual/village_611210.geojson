@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27214207169305,13.36383434593077],[77.26877588651026,13.37522707661052],[77.24443796326908,13.37597025783066],[77.24227540470592,13.36561530349135],[77.27214207169305,13.36383434593077]]]},"properties":{"region_id":"village_611210","name":"CHIKKADODDAVADI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

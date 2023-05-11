@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67757776388757,13.66329494087554],[76.68381008393061,13.6916718621364],[76.66265568733643,13.72145873924176],[76.6314653556435,13.71353527025122],[76.64064053111163,13.68039255130927],[76.67757776388757,13.66329494087554]]]},"properties":{"region_id":"village_610090","name":"MARENADU","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

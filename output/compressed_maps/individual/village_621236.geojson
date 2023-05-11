@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25328930630627,16.91296071245308],[77.22891493000188,16.90405480310865],[77.2317619604029,16.88713451780704],[77.25274696976092,16.8862216420329],[77.25328930630627,16.91296071245308]]]},"properties":{"region_id":"village_621236","name":"KOTGERA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

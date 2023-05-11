@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40653847240249,12.63769112538262],[76.40193643416526,12.63573634720381],[76.40479362543977,12.63422866440141],[76.40653847240249,12.63769112538262]]]},"properties":{"region_id":"village_613549","name":"GATTIGANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

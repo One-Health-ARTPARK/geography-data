@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73877103735761,13.483354887471],[77.71741406073974,13.4789062661127],[77.72645110199664,13.46997853407317],[77.73877103735761,13.483354887471]]]},"properties":{"region_id":"village_623541","name":"KAVARANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

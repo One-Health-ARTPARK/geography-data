@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83055713948997,17.42324187416809],[75.81965601407335,17.42142397822395],[75.81336160068423,17.37589570395545],[75.82851792003396,17.37594003286891],[75.83055713948997,17.42324187416809]]]},"properties":{"region_id":"village_599180","name":"SHIRNAL","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

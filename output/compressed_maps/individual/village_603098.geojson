@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75228250779348,14.81264259941316],[74.73876653867399,14.83771659227622],[74.6934656818239,14.83329905616041],[74.72117397070649,14.80923087475891],[74.75228250779348,14.81264259941316]]]},"properties":{"region_id":"village_603098","name":"SONAGINMANE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

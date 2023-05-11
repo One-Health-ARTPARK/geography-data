@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43334768487992,12.48163561305652],[76.42527065954317,12.48308962286349],[76.42096446309222,12.4742444409317],[76.42952006794344,12.4709911025832],[76.43334768487992,12.48163561305652]]]},"properties":{"region_id":"village_618658","name":"CHAMALAPURA","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

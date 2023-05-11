@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15294582195281,15.84962551805072],[76.12529973830883,15.86526026565621],[76.11453976558595,15.83377179406665],[76.13154464483306,15.83085748269028],[76.15294582195281,15.84962551805072]]]},"properties":{"region_id":"village_601444","name":"ADVIBHAVI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

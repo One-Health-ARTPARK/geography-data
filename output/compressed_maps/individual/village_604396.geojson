@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45244104932189,14.56444560275137],[75.46011203497683,14.58413801628152],[75.45347601590532,14.60430423863722],[75.43923191364779,14.60791667513443],[75.43960973757679,14.57192022985759],[75.45244104932189,14.56444560275137]]]},"properties":{"region_id":"village_604396","name":"ARALIKATTI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.37472052684195,14.57404385291942],[74.36963637012674,14.58286338179798],[74.3558654309355,14.57172915784322],[74.36887848961965,14.56143260229077],[74.37472052684195,14.57404385291942]]]},"properties":{"region_id":"village_603425","name":"MADANGERI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

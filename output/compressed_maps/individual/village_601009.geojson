@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08453035728296,15.98570533380764],[77.08682816984202,16.00949157686186],[77.06478332862103,16.00122118863112],[77.08453035728296,15.98570533380764]]]},"properties":{"region_id":"village_601009","name":"BAPUR","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

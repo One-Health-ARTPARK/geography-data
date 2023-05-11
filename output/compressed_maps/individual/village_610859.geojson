@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25239419070817,13.66099565425313],[77.2425328278749,13.66141347791146],[77.23823069662984,13.65252701552418],[77.24544772535019,13.65122821751697],[77.25239419070817,13.66099565425313]]]},"properties":{"region_id":"village_610859","name":"PUJARAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

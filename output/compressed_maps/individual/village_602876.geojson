@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8522644882421,15.22586329862294],[74.86520714435179,15.24039653180932],[74.84815225075806,15.24543122479895],[74.83994531471835,15.23252495310261],[74.8522644882421,15.22586329862294]]]},"properties":{"region_id":"village_602876","name":"NANDIGADDA","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

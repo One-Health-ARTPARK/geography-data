@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35529933464805,15.45154364482684],[75.32526309047925,15.46587286119666],[75.32150534026567,15.44648839192913],[75.35529933464805,15.45154364482684]]]},"properties":{"region_id":"village_602364","name":"BALLARAWAD","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

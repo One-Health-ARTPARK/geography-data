@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61925800005943,12.98723100019896],[77.6138569996266,12.97374799958645],[77.62728299989604,12.97745600003688],[77.61925800005943,12.98723100019896]]]},"properties":{"region_id":"ward_bbmp90","name":"WARD NO.90 (HALSOOR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

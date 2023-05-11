@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16292910032384,12.73501717320034],[75.13654560261641,12.72129806729389],[75.1159477940601,12.68131665352192],[75.16074455271705,12.68104886283904],[75.16292910032384,12.73501717320034]]]},"properties":{"region_id":"village_617596","name":"PUNACHA","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

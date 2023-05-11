@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85840539694969,13.80280823188548],[77.86430510143322,13.80232509057431],[77.87386060877533,13.81076719448902],[77.86696456523448,13.81365106650036],[77.85840539694969,13.80280823188548]]]},"properties":{"region_id":"village_623862","name":"KAMMARAVARIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

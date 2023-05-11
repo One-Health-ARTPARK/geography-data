@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94592783713713,13.15586875371078],[75.93633998670978,13.15762040154093],[75.9300991288959,13.14689662915132],[75.93895767780276,13.14211822731643],[75.94592783713713,13.15586875371078]]]},"properties":{"region_id":"village_615324","name":"BALLENAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

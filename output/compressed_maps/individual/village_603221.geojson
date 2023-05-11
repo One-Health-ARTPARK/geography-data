@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85422956526892,14.63298383498686],[74.82239381683236,14.6212718371908],[74.82887891843096,14.60407555637334],[74.85892538498696,14.60062517537459],[74.85422956526892,14.63298383498686]]]},"properties":{"region_id":"village_603221","name":"SIRSI (RURAL)","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

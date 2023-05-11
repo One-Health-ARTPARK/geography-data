@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5879899885049,13.12681573479171],[77.57933319238306,13.12094135079185],[77.58605323722944,13.11603978275677],[77.58970603865289,13.11915102938686],[77.5879899885049,13.12681573479171]]]},"properties":{"region_id":"village_938518","name":"KENCHENAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

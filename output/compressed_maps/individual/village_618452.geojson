@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48829514122423,12.3515370771399],[76.48992886582843,12.37508145392082],[76.47752825283409,12.37532548150154],[76.47949920665499,12.35218409324833],[76.48829514122423,12.3515370771399]]]},"properties":{"region_id":"village_618452","name":"BETTADUR","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

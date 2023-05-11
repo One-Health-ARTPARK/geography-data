@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55370792546086,16.5330366335788],[75.52972274866674,16.51422547822321],[75.55516456258765,16.50130557188493],[75.55370792546086,16.5330366335788]]]},"properties":{"region_id":"village_599149","name":"DEVAPUR","parent":"subdistrict_7069","parent_name":"BABALESHWAR"}}
+]}

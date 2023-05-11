@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09468517036736,13.33518113874956],[77.08554895829987,13.34113668570269],[77.08591762280892,13.33087217867643],[77.09468517036736,13.33518113874956]]]},"properties":{"region_id":"village_938666","name":"VEERASAGARA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

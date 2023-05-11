@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70219732468827,13.65329832890209],[77.7006741640784,13.64002820206017],[77.7071383383469,13.64108764900745],[77.70219732468827,13.65329832890209]]]},"properties":{"region_id":"village_623725","name":"PULAVAMAKALAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

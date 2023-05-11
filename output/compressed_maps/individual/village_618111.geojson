@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.081038882303,12.46499172147016],[76.07797781983925,12.48131602969826],[76.06009254546049,12.48044852876158],[76.0602812476701,12.4654370310421],[76.081038882303,12.46499172147016]]]},"properties":{"region_id":"village_618111","name":"BYADARABILAGULI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

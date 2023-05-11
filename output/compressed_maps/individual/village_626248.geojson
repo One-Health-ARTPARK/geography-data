@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20512569745999,12.67159798159472],[77.19380635514278,12.67344257289015],[77.19561222673997,12.66419502354355],[77.20512569745999,12.67159798159472]]]},"properties":{"region_id":"village_626248","name":"RAMPURA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

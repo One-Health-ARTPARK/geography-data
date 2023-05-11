@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47037752227276,14.75232760925966],[75.4607730669112,14.73610610713271],[75.48681188484572,14.73814294668069],[75.47037752227276,14.75232760925966]]]},"properties":{"region_id":"village_604316","name":"GUNDENAHALLI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

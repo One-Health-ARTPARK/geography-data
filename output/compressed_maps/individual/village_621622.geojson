@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.15770717186085,13.39764663293122],[78.14703754595413,13.40913696971537],[78.1336981963919,13.3964060711771],[78.14132628868558,13.3838262985937],[78.15770717186085,13.39764663293122]]]},"properties":{"region_id":"village_621622","name":"ALAVATTA","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16125484374446,14.36412601688994],[75.16740265399959,14.38747204201593],[75.14667519632987,14.38507907411966],[75.16125484374446,14.36412601688994]]]},"properties":{"region_id":"village_607571","name":"ANDIGE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

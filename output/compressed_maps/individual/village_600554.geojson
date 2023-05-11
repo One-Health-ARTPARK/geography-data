@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76853730527415,16.33992949537202],[76.73633250643275,16.34303165499468],[76.7332717759726,16.32506164806163],[76.7570890766648,16.3271292307728],[76.76853730527415,16.33992949537202]]]},"properties":{"region_id":"village_600554","name":"BOMMANHALLI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8416448329488,14.70200348163979],[74.83759900560226,14.713482766656],[74.82082670404769,14.70559834236217],[74.82890028253428,14.69018933356683],[74.8416448329488,14.70200348163979]]]},"properties":{"region_id":"village_603131","name":"BHAIRUMBE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

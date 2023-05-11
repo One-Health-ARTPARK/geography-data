@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86424183794875,14.28076599911192],[75.85172416249402,14.27970176157112],[75.85036708090736,14.26853449710971],[75.87016225338812,14.26809918898661],[75.86424183794875,14.28076599911192]]]},"properties":{"region_id":"village_606923","name":"AREHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

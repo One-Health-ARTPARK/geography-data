@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31667356115736,17.25404303305395],[77.29025173266662,17.2451048572637],[77.30570307540026,17.22618128897139],[77.31667356115736,17.25404303305395]]]},"properties":{"region_id":"village_620478","name":"MUGNOOR","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

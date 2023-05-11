@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.751930242735,12.1107828067119],[76.73697829816793,12.10916871335094],[76.73490831578057,12.09864493791309],[76.74979649269801,12.09942847670314],[76.751930242735,12.1107828067119]]]},"properties":{"region_id":"village_619248","name":"BENDAGAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

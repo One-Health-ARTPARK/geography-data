@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.64325971743594,15.64331872518393],[74.63412782458532,15.65456376438082],[74.61076809423369,15.64356423946312],[74.63335184262098,15.6271293466224],[74.64325971743594,15.64331872518393]]]},"properties":{"region_id":"village_597904","name":"AVAROLLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

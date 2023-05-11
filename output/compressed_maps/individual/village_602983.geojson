@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81760095878577,14.77589211775601],[74.79866751920743,14.76874420369514],[74.7981322603687,14.75132494558875],[74.81812689747446,14.75871865563221],[74.81760095878577,14.77589211775601]]]},"properties":{"region_id":"village_602983","name":"CHAVATTI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36464981475456,15.15742832328568],[76.34994036572525,15.14685992392056],[76.34394460022824,15.11425200904866],[76.38069871839214,15.11525939835575],[76.38447046403238,15.15283895384671],[76.36464981475456,15.15742832328568]]]},"properties":{"region_id":"village_604705","name":"DANAYAKANAKERE","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

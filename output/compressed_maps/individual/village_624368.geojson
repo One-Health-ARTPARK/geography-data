@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.07448673962455,13.546130635619],[78.05200003152531,13.55359276032182],[78.04953008378412,13.53499155474469],[78.07040492721161,13.53510030859079],[78.07448673962455,13.546130635619]]]},"properties":{"region_id":"village_624368","name":"GONENAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

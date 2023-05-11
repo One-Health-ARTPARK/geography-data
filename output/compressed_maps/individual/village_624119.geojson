@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85879144951254,13.52489314496781],[77.85116603710036,13.5310176129257],[77.8489001975233,13.52536688305268],[77.85507551962012,13.51828195556066],[77.85879144951254,13.52489314496781]]]},"properties":{"region_id":"village_624119","name":"GOWDANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

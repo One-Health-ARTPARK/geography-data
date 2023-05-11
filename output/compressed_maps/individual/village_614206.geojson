@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70097209892202,12.65347209277069],[76.69237691597311,12.64127976119146],[76.7090229169959,12.62762544724189],[76.7152543701344,12.6415361712232],[76.70097209892202,12.65347209277069]]]},"properties":{"region_id":"village_614206","name":"SHAMBOONAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

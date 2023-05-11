@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55203078375605,13.03279574453543],[77.54055318552253,13.03242977563458],[77.54677257033957,13.01317191164152],[77.56077231591686,13.02293210151649],[77.55203078375605,13.03279574453543]]]},"properties":{"region_id":"village_939448","name":"KASABA YESHAWANTHAPURA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

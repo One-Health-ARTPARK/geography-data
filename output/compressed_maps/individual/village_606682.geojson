@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0151436402131,14.32920571849088],[76.0100247154162,14.35119072177106],[76.00050554410673,14.34501904167406],[76.00339454488245,14.32621479537279],[76.0151436402131,14.32920571849088]]]},"properties":{"region_id":"village_606682","name":"KALURU","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

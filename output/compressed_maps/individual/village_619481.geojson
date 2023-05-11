@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60635621948377,11.86401073186522],[76.55727717936715,11.89339320407861],[76.55432381079416,11.85831460788381],[76.60635621948377,11.86401073186522]]]},"properties":{"region_id":"village_619481","name":"ALATHUR","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

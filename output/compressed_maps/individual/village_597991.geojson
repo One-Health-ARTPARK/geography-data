@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61884194820166,15.56616454306899],[74.6078341738427,15.56648344109759],[74.61252552266417,15.54947775753764],[74.6200084682498,15.55116413510883],[74.61884194820166,15.56616454306899]]]},"properties":{"region_id":"village_597991","name":"NANJANKODAL","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

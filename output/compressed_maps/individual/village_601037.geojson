@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80728241909743,15.97591030960587],[76.79775731620182,15.97724183814759],[76.79351983479627,15.96686870130546],[76.80806434279256,15.96500848304052],[76.80728241909743,15.97591030960587]]]},"properties":{"region_id":"village_601037","name":"BADLAPUR","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

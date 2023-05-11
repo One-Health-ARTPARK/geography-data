@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79980034756764,14.93467403605617],[74.78618178063353,14.96589980195032],[74.74430037886528,14.93892118607198],[74.77007299392986,14.90896231056044],[74.79980034756764,14.93467403605617]]]},"properties":{"region_id":"village_602943","name":"HUTKHANDA","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

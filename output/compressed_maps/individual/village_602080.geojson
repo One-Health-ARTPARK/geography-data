@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4561910600823,15.09881978726251],[75.43402343298214,15.1079300998875],[75.43556438589236,15.08592882257365],[75.4561910600823,15.09881978726251]]]},"properties":{"region_id":"village_602080","name":"GULAGANJIKOPPA","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

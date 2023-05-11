@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04563452851067,12.01689028182354],[77.04178347295021,12.00037033754098],[77.05595679435692,12.00197410814666],[77.05581672818138,12.01635695799358],[77.04563452851067,12.01689028182354]]]},"properties":{"region_id":"village_619627","name":"SUTHUR","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

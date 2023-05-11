@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37082858877878,13.491023681358],[76.34843280129614,13.49238609247972],[76.34094667795898,13.47805279650244],[76.37463158704239,13.46839502277952],[76.37082858877878,13.491023681358]]]},"properties":{"region_id":"village_615635","name":"MADALU","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

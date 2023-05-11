@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43068921772412,18.19245683109337],[77.42392688265488,18.22845313282069],[77.40910882379858,18.22489239435087],[77.4124906577846,18.19109169565472],[77.43068921772412,18.19245683109337]]]},"properties":{"region_id":"village_600063","name":"BORAL","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68057249315439,14.66640334138813],[75.61320995118537,14.66506420717882],[75.62921173594312,14.64384484969521],[75.67337501038902,14.64983342169034],[75.68057249315439,14.66640334138813]]]},"properties":{"region_id":"village_604520","name":"HULLATTI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24265118122786,16.2019396809708],[76.22456259877781,16.21773125063363],[76.20674787469862,16.17509443260809],[76.23413361577136,16.16650780161282],[76.24265118122786,16.2019396809708]]]},"properties":{"region_id":"village_599669","name":"RAKKASAGI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

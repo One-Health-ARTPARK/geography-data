@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23474146632142,14.08217717990946],[77.22099600630216,14.09549519344396],[77.20170938685742,14.08889401876662],[77.19861834905252,14.06588614039229],[77.22913496402583,14.05477916825885],[77.23474146632142,14.08217717990946]]]},"properties":{"region_id":"village_610647","name":"BYADANUR","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5575853017386,12.73094520962451],[77.59794981916062,12.75798151242746],[77.57971853225348,12.78778548350565],[77.54081287355044,12.7494091009136],[77.5575853017386,12.73094520962451]]]},"properties":{"region_id":"village_626351","name":"RAGIHALLI STATE FOREST","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

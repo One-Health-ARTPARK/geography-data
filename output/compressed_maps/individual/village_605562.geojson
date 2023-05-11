@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22891261278366,14.18802641139376],[76.24216094189,14.20047137895783],[76.22089512499272,14.20817158659586],[76.21321025313853,14.191462755413],[76.22891261278366,14.18802641139376]]]},"properties":{"region_id":"village_605562","name":"DINDADAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

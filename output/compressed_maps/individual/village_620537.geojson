@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2835656405687,17.0657201015374],[77.2959710037888,17.08716037731426],[77.26871580771913,17.08069385489362],[77.2835656405687,17.0657201015374]]]},"properties":{"region_id":"village_620537","name":"SINDHANMADU","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

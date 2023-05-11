@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3100910435659,15.53489205735555],[76.28459861322516,15.53384170930581],[76.29022080045702,15.51544504459311],[76.30867517844766,15.51263559999784],[76.3100910435659,15.53489205735555]]]},"properties":{"region_id":"village_601796","name":"HASGAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

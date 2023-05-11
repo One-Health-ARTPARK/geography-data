@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60948000017842,13.01095299998327],[77.60199000002729,12.99976300029961],[77.61214400042425,13.00171399970671],[77.60948000017842,13.01095299998327]]]},"properties":{"region_id":"ward_bbmp61","name":"WARD NO.61(SK GARDEN)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

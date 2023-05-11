@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52830895471372,13.73118319719864],[75.48809782732765,13.75915922539817],[75.48669866686376,13.72133856730827],[75.52830895471372,13.73118319719864]]]},"properties":{"region_id":"village_609047","name":"K.KANABUR","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

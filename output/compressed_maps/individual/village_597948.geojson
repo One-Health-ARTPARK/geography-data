@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5330941803453,15.52297454660374],[74.51512794171539,15.520480861668],[74.52140986089358,15.51238873812928],[74.5330941803453,15.52297454660374]]]},"properties":{"region_id":"village_597948","name":"JATAGE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

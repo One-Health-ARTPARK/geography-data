@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26745439028832,13.51919379663953],[77.25678237950659,13.52125025364762],[77.25751053483631,13.51108794430652],[77.26521754559273,13.50956491075931],[77.26745439028832,13.51919379663953]]]},"properties":{"region_id":"village_611078","name":"HULUGONAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

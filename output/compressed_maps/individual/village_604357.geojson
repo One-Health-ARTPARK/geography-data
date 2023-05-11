@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33844548004697,14.58027227533884],[75.32309745345005,14.59295264392775],[75.29262570236386,14.57773154159394],[75.30122438046591,14.56663496545389],[75.31964107755661,14.56473266424956],[75.33844548004697,14.58027227533884]]]},"properties":{"region_id":"village_604357","name":"SATENAHALLI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

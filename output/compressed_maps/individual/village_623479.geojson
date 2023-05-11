@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6940681926466,13.59536868115847],[77.68712751965164,13.5979116110655],[77.68364070233568,13.59124998357501],[77.68968354162789,13.58651048125247],[77.6940681926466,13.59536868115847]]]},"properties":{"region_id":"village_623479","name":"PARENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

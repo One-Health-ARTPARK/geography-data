@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25134007533772,14.89989869280389],[75.23547608763178,14.90216115204812],[75.23293204046352,14.8830790421263],[75.25523529710583,14.8856091652286],[75.25134007533772,14.89989869280389]]]},"properties":{"region_id":"village_603968","name":"GUDDADACHANNAPUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7772608471068,15.87307581438296],[76.76873899132481,15.87928060072284],[76.76603355869545,15.85764069536559],[76.7772608471068,15.87307581438296]]]},"properties":{"region_id":"village_601145","name":"JUJULAPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

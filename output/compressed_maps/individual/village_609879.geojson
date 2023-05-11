@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75549522962454,13.21556057914274],[75.74255286081994,13.22107223015952],[75.73898050649375,13.21133932753768],[75.75092056118741,13.20703915513214],[75.75549522962454,13.21556057914274]]]},"properties":{"region_id":"village_609879","name":"BOODANIKE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

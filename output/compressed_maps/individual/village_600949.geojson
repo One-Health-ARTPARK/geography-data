@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.868191602034,16.15301727916526],[76.84270915323793,16.16142901306345],[76.84658184502098,16.13099185272927],[76.868191602034,16.15301727916526]]]},"properties":{"region_id":"village_600949","name":"KALAMGERE","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

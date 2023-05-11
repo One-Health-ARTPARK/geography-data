@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16883427855967,15.03599708046339],[75.14633495854872,15.04761999882448],[75.1473872606948,15.0270314554377],[75.16883427855967,15.03599708046339]]]},"properties":{"region_id":"village_603894","name":"MADLI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

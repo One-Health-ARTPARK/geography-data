@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70505301870324,12.7294114624398],[76.6989694169958,12.73348718226623],[76.69249374818905,12.72372997746323],[76.7021704956145,12.72066319158735],[76.70505301870324,12.7294114624398]]]},"properties":{"region_id":"village_614015","name":"VADDARAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

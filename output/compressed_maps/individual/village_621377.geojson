@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1985086233186,16.52619781815048],[77.21751938067602,16.52773590728036],[77.20764355441568,16.544510937791],[77.1985086233186,16.52619781815048]]]},"properties":{"region_id":"village_621377","name":"BHIMENHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

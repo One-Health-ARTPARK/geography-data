@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16303622236299,15.13208217886447],[75.1371691755418,15.12940459181366],[75.13739136693894,15.11986403314727],[75.16341255027567,15.11554567611498],[75.16303622236299,15.13208217886447]]]},"properties":{"region_id":"village_602543","name":"JIGALUR","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

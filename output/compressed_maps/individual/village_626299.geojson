@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12824113921214,12.55407449379166],[77.12533246822197,12.52364717524697],[77.13572831269828,12.51503609339172],[77.16167470184008,12.52306389706568],[77.15175474777354,12.54568786902564],[77.12824113921214,12.55407449379166]]]},"properties":{"region_id":"village_626299","name":"GARAKAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

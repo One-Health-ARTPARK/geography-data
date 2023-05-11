@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52992277760367,13.48148627261751],[76.52580725249169,13.47461922422814],[76.53166976435149,13.46677335405786],[76.5391959150853,13.47873940337649],[76.52992277760367,13.48148627261751]]]},"properties":{"region_id":"village_610073","name":"ANKASANDRA KAVALU","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

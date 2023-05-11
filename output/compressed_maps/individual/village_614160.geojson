@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64357209827057,12.54136455082203],[76.63123922429102,12.54539842444516],[76.62345601746468,12.53602261090862],[76.64307240520365,12.53497993572825],[76.64357209827057,12.54136455082203]]]},"properties":{"region_id":"village_614160","name":"DESAVAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58123488871938,13.2917239272271],[77.57288132685419,13.29007575377635],[77.57322776483532,13.28446756388265],[77.58177568228983,13.28275578288476],[77.58123488871938,13.2917239272271]]]},"properties":{"region_id":"village_625093","name":"RAGUNATHAPURA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

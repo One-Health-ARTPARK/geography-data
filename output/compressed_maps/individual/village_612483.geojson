@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90812285848806,12.9860361796012],[76.88317579351539,12.98969088499076],[76.89048313781377,12.97497366504181],[76.90812285848806,12.9860361796012]]]},"properties":{"region_id":"village_612483","name":"THIPPUR","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

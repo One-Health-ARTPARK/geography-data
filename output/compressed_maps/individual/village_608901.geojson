@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89173584455189,13.14766699474949],[74.85726492771323,13.13900722408093],[74.86962742068864,13.1296374091568],[74.88757231261329,13.13287120741225],[74.89173584455189,13.14766699474949]]]},"properties":{"region_id":"village_608901","name":"MULLADKA","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

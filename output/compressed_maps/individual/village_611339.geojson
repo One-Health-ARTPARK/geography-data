@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06064373100345,13.42719991210166],[77.05561810997463,13.43238845307056],[77.04629631136271,13.42730729848754],[77.04966060531548,13.41998921207182],[77.06064373100345,13.42719991210166]]]},"properties":{"region_id":"village_611339","name":"SINGRIHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

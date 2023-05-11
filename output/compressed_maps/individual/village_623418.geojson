@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61206581128647,13.47965268223131],[77.60456579192672,13.48613289839181],[77.59849496483602,13.47854170506812],[77.61005018965044,13.4750861124165],[77.61206581128647,13.47965268223131]]]},"properties":{"region_id":"village_623418","name":"ADDEKOPPA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

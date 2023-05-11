@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31500892575772,13.35113412056329],[75.28695126873137,13.34604820286236],[75.30052639967646,13.32821685251684],[75.31500892575772,13.35113412056329]]]},"properties":{"region_id":"village_609033","name":"HARALANE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

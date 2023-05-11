@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.508344589419,15.16906331514704],[75.49626283675869,15.15147403291636],[75.4996144426686,15.12724450239724],[75.51086496106957,15.12772437480547],[75.508344589419,15.16906331514704]]]},"properties":{"region_id":"village_602062","name":"HULGERIBAN","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

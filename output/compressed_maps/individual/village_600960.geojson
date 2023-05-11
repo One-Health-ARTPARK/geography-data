@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90736294842633,16.10317765188018],[76.94415202309108,16.1082031941483],[76.93745596051792,16.12502875423525],[76.90334419044805,16.11868400013723],[76.90736294842633,16.10317765188018]]]},"properties":{"region_id":"village_600960","name":"NUGDONI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

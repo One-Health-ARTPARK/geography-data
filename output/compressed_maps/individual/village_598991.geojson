@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23431538179612,16.02535152824456],[76.22864909616835,16.0501334588558],[76.19381363359994,16.05132918858338],[76.1888324663693,16.03556087381302],[76.23431538179612,16.02535152824456]]]},"properties":{"region_id":"village_598991","name":"CHIKADAPUR","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

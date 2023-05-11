@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32287750471778,13.72344634544033],[76.3216054705255,13.75545486493018],[76.3058481857099,13.74415383500848],[76.30380710534261,13.72663708843934],[76.32287750471778,13.72344634544033]]]},"properties":{"region_id":"village_605948","name":"HOSURAL","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

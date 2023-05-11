@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4728755218314,15.53387388613766],[76.4290096003439,15.53643918228634],[76.43873073043814,15.51032670311665],[76.4728755218314,15.53387388613766]]]},"properties":{"region_id":"village_601590","name":"SULEKAL","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

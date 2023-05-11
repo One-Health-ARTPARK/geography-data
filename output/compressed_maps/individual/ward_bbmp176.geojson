@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62175199976922,12.91271700003851],[77.59989299986057,12.91667800042771],[77.60028299991073,12.90848800012409],[77.61264299972774,12.9044870002103],[77.62175199976922,12.91271700003851]]]},"properties":{"region_id":"ward_bbmp176","name":"WARD NO.176 (BTM LAYOUT)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24445219855026,12.81222945466057],[75.2225092155923,12.81852153765217],[75.22569136330905,12.79441146647115],[75.24709233466488,12.7927379812693],[75.24445219855026,12.81222945466057]]]},"properties":{"region_id":"village_617692","name":"BELLIPADI","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64646847828186,14.54416424621164],[75.60705956851915,14.53789903333927],[75.60918993665364,14.51127755954958],[75.64734060489286,14.52390078231695],[75.64646847828186,14.54416424621164]]]},"properties":{"region_id":"village_604551","name":"ANTARAVALLI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

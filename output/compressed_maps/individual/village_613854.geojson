@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74872193431224,12.91472844032808],[76.73533788298514,12.91641860329419],[76.73167175442397,12.90437877518723],[76.7451085143338,12.90058423437563],[76.74872193431224,12.91472844032808]]]},"properties":{"region_id":"village_613854","name":"ANCHEBUVANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

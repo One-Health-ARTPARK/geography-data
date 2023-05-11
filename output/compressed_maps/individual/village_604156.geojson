@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28313077581728,14.73526149260618],[75.27829671935962,14.7519632343427],[75.26832074776837,14.74826253869169],[75.26659921495383,14.73804604682241],[75.28313077581728,14.73526149260618]]]},"properties":{"region_id":"village_604156","name":"CHIKKAHULLAL","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

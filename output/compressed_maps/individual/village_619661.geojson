@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93976291057842,11.96264004959973],[76.9317087091795,11.95913620487767],[76.93990012047288,11.95395881150265],[76.93976291057842,11.96264004959973]]]},"properties":{"region_id":"village_619661","name":"MASAGAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44896016521473,12.79037751119238],[76.44181431151601,12.79148870578281],[76.43904080147719,12.78198685817257],[76.45229980805131,12.78070412380329],[76.44896016521473,12.79037751119238]]]},"properties":{"region_id":"village_613387","name":"DEVARAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29786841563558,13.314574574852],[76.2780180419396,13.32819190873542],[76.27435627523057,13.30934737425417],[76.29786841563558,13.314574574852]]]},"properties":{"region_id":"village_615498","name":"BOMMENAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

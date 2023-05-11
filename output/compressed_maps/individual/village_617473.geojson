@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.825754760416,13.02415861254567],[74.81178593270913,13.01871954610707],[74.8243820663303,13.01157142482162],[74.825754760416,13.02415861254567]]]},"properties":{"region_id":"village_617473","name":"MADYA","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

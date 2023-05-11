@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27214402005333,12.83274367731879],[77.23870972774024,12.83537674245972],[77.25025852038051,12.81279906516452],[77.27214402005333,12.83274367731879]]]},"properties":{"region_id":"village_626053","name":"ANKANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

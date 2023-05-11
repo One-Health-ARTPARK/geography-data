@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64449260464465,15.87530047665891],[76.6220297579511,15.88217935158834],[76.61645560634449,15.86767805318335],[76.63000387978056,15.85730578351758],[76.64449260464465,15.87530047665891]]]},"properties":{"region_id":"village_601112","name":"HEDIGIBAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

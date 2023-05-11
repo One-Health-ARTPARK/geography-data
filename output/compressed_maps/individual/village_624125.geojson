@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8982570574438,13.5029409421054],[77.89406759260231,13.49618026678235],[77.88064539333196,13.49243859111803],[77.87423585984058,13.48314988194242],[77.89504139787287,13.49122076428438],[77.8982570574438,13.5029409421054]]]},"properties":{"region_id":"village_624125","name":"BANDAMMANAKERE","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

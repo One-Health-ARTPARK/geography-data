@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0840303905387,13.18072004198754],[77.06799793942676,13.18305884552446],[77.066042096192,13.17988526326057],[77.07770143215903,13.17548360491159],[77.0840303905387,13.18072004198754]]]},"properties":{"region_id":"village_611522","name":"BALAGERE KAVAL","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

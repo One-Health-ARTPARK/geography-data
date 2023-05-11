@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.63316538633245,15.01449613732341],[74.61238054650045,15.01488264292652],[74.6306640777783,14.99338355725272],[74.64768771605428,14.99941136848091],[74.63316538633245,15.01449613732341]]]},"properties":{"region_id":"village_602882","name":"BISGOD","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

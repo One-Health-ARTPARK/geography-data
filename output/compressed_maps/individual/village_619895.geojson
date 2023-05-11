@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38126831120407,11.98843823269765],[77.362921682129,11.98711912940569],[77.35200890946666,12.00108776421562],[77.33355520882074,11.99041406936931],[77.3631423545576,11.98536863806442],[77.38126831120407,11.98843823269765]]]},"properties":{"region_id":"village_619895","name":"GANGANADODDI","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

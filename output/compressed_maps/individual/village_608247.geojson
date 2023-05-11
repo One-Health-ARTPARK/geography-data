@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31370137688478,13.64477829941797],[75.32251290798241,13.65972632779927],[75.30847907072959,13.66023458379663],[75.31370137688478,13.64477829941797]]]},"properties":{"region_id":"village_608247","name":"KULURU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

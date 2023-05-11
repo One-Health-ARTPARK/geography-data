@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.51777767778853,14.28806337015979],[74.5264879696471,14.2825510413791],[74.53641049397764,14.29020013379058],[74.53956249345971,14.30270862831359],[74.52005156138824,14.29385065626964],[74.51777767778853,14.28806337015979]]]},"properties":{"region_id":"village_603794","name":"CHIKKANKOD","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95078749262828,16.25202334320654],[76.91351296263366,16.24170801339951],[76.98047175360563,16.22042825112272],[76.98228100282161,16.23881441011448],[76.95078749262828,16.25202334320654]]]},"properties":{"region_id":"village_600707","name":"KYADIGERA","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

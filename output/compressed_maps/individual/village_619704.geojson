@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83034395369867,11.89550110251173],[76.80253861838905,11.90386280973725],[76.80757161237192,11.86853934247746],[76.82487450302355,11.86955732778847],[76.83034395369867,11.89550110251173]]]},"properties":{"region_id":"village_619704","name":"THAMMADAHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

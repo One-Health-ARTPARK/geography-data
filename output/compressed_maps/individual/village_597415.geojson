@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89247336087159,16.29467918199479],[74.86494061875173,16.32205749375937],[74.84234145396297,16.31423388561226],[74.86008612584388,16.28471709334103],[74.89247336087159,16.29467918199479]]]},"properties":{"region_id":"village_597415","name":"TUKKANATTI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

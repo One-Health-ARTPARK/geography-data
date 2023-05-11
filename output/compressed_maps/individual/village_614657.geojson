@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96784706352337,12.4180827336155],[76.94044186730733,12.40462818800021],[76.94614020658341,12.39266649969426],[76.9667954798731,12.3976734263278],[76.96784706352337,12.4180827336155]]]},"properties":{"region_id":"village_614657","name":"MIKKERE","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

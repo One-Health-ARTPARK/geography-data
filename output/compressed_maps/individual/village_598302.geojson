@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17461011892784,16.07124429374083],[75.1835952535711,16.09154692820695],[75.17473402110488,16.11097503857957],[75.15750590153019,16.10289257463755],[75.17258795673334,16.08819634799526],[75.17461011892784,16.07124429374083]]]},"properties":{"region_id":"village_598302","name":"KAMANAKOPPA","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

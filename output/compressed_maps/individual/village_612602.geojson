@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99896688862107,12.99506161376144],[76.98917544788074,12.99274210239944],[76.98682334705558,12.97715498497551],[77.00272755625977,12.97966751971806],[76.99896688862107,12.99506161376144]]]},"properties":{"region_id":"village_612602","name":"THEPPASANDRA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

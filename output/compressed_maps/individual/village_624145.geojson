@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8870621349375,13.44660335543035],[77.86639918665168,13.4504061504439],[77.86244786185996,13.44276456020251],[77.88284545957444,13.44019751521069],[77.8870621349375,13.44660335543035]]]},"properties":{"region_id":"village_624145","name":"KEMPENAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

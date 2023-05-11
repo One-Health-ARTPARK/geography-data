@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31530774989811,13.77046415012022],[75.30848152262207,13.74755398874417],[75.32608634282016,13.74555407663041],[75.31530774989811,13.77046415012022]]]},"properties":{"region_id":"village_608145","name":"BHANDYA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

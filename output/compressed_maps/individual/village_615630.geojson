@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32151076182078,13.43288568695007],[76.3007068401821,13.43400318079917],[76.30047073657602,13.41216796633689],[76.32009373998422,13.41360320015565],[76.32151076182078,13.43288568695007]]]},"properties":{"region_id":"village_615630","name":"NAGAVEDI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

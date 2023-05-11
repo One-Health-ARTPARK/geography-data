@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50730900011482,13.04528800003554],[77.51857000018114,13.04030500029103],[77.51832000040677,13.04858200031287],[77.50730900011482,13.04528800003554]]]},"properties":{"region_id":"ward_bbmp15","name":"WARD NO.15 (T DASARAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

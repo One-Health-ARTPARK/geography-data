@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86862371313347,14.39047817437186],[74.85547287190974,14.38393423357198],[74.86656888676714,14.37256781261083],[74.87673565155744,14.38323563172658],[74.86862371313347,14.39047817437186]]]},"properties":{"region_id":"village_603695","name":"KOLSIRSI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

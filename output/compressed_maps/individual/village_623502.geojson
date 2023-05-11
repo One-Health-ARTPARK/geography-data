@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8385586856036,13.55839141220893],[77.81352618327574,13.55406410898857],[77.8226763183663,13.53566141241604],[77.8385586856036,13.55839141220893]]]},"properties":{"region_id":"village_623502","name":"REDDIHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

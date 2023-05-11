@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42298693886241,15.42213547015886],[74.39600451982916,15.40193689858127],[74.40144831704434,15.38428337412683],[74.42825143673595,15.39965326871775],[74.42298693886241,15.42213547015886]]]},"properties":{"region_id":"village_602648","name":"DURG","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

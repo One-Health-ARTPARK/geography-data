@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43475722788818,14.69217106897136],[75.42522977406803,14.69252656609444],[75.41747324004501,14.67595621965273],[75.43352898822168,14.67938145329787],[75.43475722788818,14.69217106897136]]]},"properties":{"region_id":"village_604284","name":"KHURDA VEERAPURA","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

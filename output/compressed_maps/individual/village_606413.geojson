@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35921992755291,14.58214543817404],[76.36620136886535,14.60954775354709],[76.35241640093999,14.61095970024343],[76.35921992755291,14.58214543817404]]]},"properties":{"region_id":"village_606413","name":"LAKKENAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

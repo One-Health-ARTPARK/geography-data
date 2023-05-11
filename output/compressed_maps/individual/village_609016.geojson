@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37915619798804,13.45402106895032],[75.35302607706132,13.45411876033067],[75.36630759173853,13.43858073760667],[75.37915619798804,13.45402106895032]]]},"properties":{"region_id":"village_609016","name":"KARIMANE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

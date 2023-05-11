@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69537337493256,12.52947346437357],[76.68018487450773,12.51824176613659],[76.68784802642469,12.50656809612735],[76.70458675871565,12.50957576635544],[76.70663005153145,12.52428426423679],[76.69537337493256,12.52947346437357]]]},"properties":{"region_id":"village_614181","name":"HIREMARALI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

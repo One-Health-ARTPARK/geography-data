@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81836880476882,12.64958086407447],[76.8058546372866,12.65747715726065],[76.80267359110314,12.64346763090269],[76.81707530691249,12.64311352323898],[76.81836880476882,12.64958086407447]]]},"properties":{"region_id":"village_614406","name":"MUDAGANDUR","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

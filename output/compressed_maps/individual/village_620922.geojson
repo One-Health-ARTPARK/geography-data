@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52486420476596,16.58632576388806],[76.52924381749534,16.56848910108575],[76.5404044096248,16.57906530184793],[76.52486420476596,16.58632576388806]]]},"properties":{"region_id":"village_620922","name":"TEGGIHALLI","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

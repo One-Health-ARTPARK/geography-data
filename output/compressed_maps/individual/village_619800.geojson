@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03603603835752,12.03279939547712],[77.0278253021519,12.03271697646839],[77.02770729199798,12.02934866217275],[77.0343776305819,12.02619150311681],[77.03603603835752,12.03279939547712]]]},"properties":{"region_id":"village_619800","name":"JODIMELLAHALLI","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

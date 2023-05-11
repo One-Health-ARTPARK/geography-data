@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87461207871274,17.38026650257262],[76.88719616882598,17.39623460375528],[76.87505161023049,17.41819685668204],[76.86420878897893,17.40784556372787],[76.87461207871274,17.38026650257262]]]},"properties":{"region_id":"village_620263","name":"UPLAON","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

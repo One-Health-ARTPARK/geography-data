@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93800840675974,15.38213235063492],[74.93028792614201,15.38354467652255],[74.93393418910149,15.36867445375415],[74.93800840675974,15.38213235063492]]]},"properties":{"region_id":"village_602281","name":"NIGADI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

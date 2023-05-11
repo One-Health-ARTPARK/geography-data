@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17793622778551,13.82097229195622],[76.16018008117449,13.81351206928466],[76.16449590698107,13.80698318771491],[76.18208615653708,13.80875306338956],[76.17793622778551,13.82097229195622]]]},"properties":{"region_id":"village_605856","name":"SRIRANGAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

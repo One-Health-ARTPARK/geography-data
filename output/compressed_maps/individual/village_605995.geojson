@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41092929289542,13.608378391233],[76.40158956789395,13.61756125848051],[76.39561366467642,13.60164795598803],[76.40068478772234,13.59929898320981],[76.40391384418798,13.60729597623684],[76.41092929289542,13.608378391233]]]},"properties":{"region_id":"village_605995","name":"GOOLIHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

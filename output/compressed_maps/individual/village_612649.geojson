@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97974694655251,12.94285180988361],[76.94214344505045,12.92669505415269],[76.95368240154347,12.9184109486009],[76.97319386094175,12.92718483217501],[76.97974694655251,12.94285180988361]]]},"properties":{"region_id":"village_612649","name":"SONDEKOPPE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

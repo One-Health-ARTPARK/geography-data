@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.3425886818795,16.29088121127029],[74.32108766341294,16.28435387445885],[74.32925484589057,16.26779887722883],[74.34920863694384,16.27683948052603],[74.3425886818795,16.29088121127029]]]},"properties":{"region_id":"village_597551","name":"HADALGA","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

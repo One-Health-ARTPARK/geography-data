@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13266406923148,13.20044568570517],[77.12739476258918,13.19052762210282],[77.13778531392087,13.18944083463794],[77.13266406923148,13.20044568570517]]]},"properties":{"region_id":"village_611599","name":"KODIHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49189520937804,14.38303431261071],[75.48903605209188,14.40609293368484],[75.4751273483087,14.39554093906501],[75.48490655822775,14.39467137892385],[75.48526382838007,14.38463847285467],[75.49189520937804,14.38303431261071]]]},"properties":{"region_id":"village_604443","name":"CHIKKAMORABA","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

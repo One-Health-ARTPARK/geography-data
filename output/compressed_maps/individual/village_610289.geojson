@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97158214268042,13.94125991622596],[76.97890041689527,13.94444120372304],[76.9782949385689,13.95628420446286],[76.96626344742009,13.9478752429868],[76.97158214268042,13.94125991622596]]]},"properties":{"region_id":"village_610289","name":"KALIGONAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

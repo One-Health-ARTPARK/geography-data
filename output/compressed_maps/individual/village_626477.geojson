@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42920571606827,12.50472996815413],[77.40993547910143,12.51443263218375],[77.40684812555233,12.50486331216768],[77.42920571606827,12.50472996815413]]]},"properties":{"region_id":"village_626477","name":"CHOKASANDRA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

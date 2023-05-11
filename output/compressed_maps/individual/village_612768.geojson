@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45445327181011,13.12076221708325],[77.44861450840222,13.11097028260334],[77.4616022149886,13.10383153817987],[77.45998749005597,13.11636989837764],[77.45445327181011,13.12076221708325]]]},"properties":{"region_id":"village_612768","name":"MATHAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

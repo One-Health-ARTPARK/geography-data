@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52667931930696,14.22865682924462],[75.49907600408427,14.23642310285781],[75.5072834252778,14.21891342431455],[75.52089786343446,14.20295983606253],[75.52860953859927,14.21415781470272],[75.52667931930696,14.22865682924462]]]},"properties":{"region_id":"village_607815","name":"ARALEHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

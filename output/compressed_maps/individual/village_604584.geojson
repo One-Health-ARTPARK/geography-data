@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71619017372565,14.92711574084264],[75.68345808254605,14.92756089218555],[75.69674429816803,14.89133460633818],[75.72780835597851,14.89726345571324],[75.71619017372565,14.92711574084264]]]},"properties":{"region_id":"village_604584","name":"HIRABANNIMATTI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80316272777209,12.5474225244033],[76.79649238359545,12.53155089697228],[76.80871700968137,12.52992264450902],[76.8121499052526,12.54161044408278],[76.80316272777209,12.5474225244033]]]},"properties":{"region_id":"village_614439","name":"MARADEVANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80205747511721,16.95516888857868],[76.79211124758658,16.95619669339315],[76.79117588593732,16.93169051121323],[76.80053514876302,16.93193724957744],[76.80205747511721,16.95516888857868]]]},"properties":{"region_id":"village_620853","name":"JAINAPUR","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

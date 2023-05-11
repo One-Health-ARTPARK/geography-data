@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73193441356858,17.18886025546754],[75.71808796443025,17.22228156830087],[75.68834124496152,17.21505936586737],[75.7003130157194,17.17323361260927],[75.73193441356858,17.18886025546754]]]},"properties":{"region_id":"village_599199","name":"SATALAGAON[P.B.]","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

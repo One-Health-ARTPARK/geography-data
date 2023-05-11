@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2048575995275,13.98992692195864],[75.17950190131762,13.99335490715232],[75.17549431911338,13.97490752454415],[75.20676980538082,13.96898638408677],[75.2048575995275,13.98992692195864]]]},"properties":{"region_id":"village_607932","name":"HIREMAITHE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

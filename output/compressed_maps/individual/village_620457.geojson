@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42238625651551,17.33207508816009],[77.39195004158,17.32276303325981],[77.40775695235023,17.29138649225324],[77.42291982755245,17.30788072507566],[77.42238625651551,17.33207508816009]]]},"properties":{"region_id":"village_620457","name":"KARACHKHED","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

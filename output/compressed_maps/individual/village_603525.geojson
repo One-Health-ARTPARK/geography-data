@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.63730148182748,14.43188032413121],[74.6291074987062,14.43918779216587],[74.60969625119006,14.43198643991732],[74.62727511691104,14.4147257484786],[74.63730148182748,14.43188032413121]]]},"properties":{"region_id":"village_603525","name":"SOPPINAHOSALLI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

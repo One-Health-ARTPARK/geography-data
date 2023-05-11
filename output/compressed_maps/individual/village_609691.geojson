@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72647676712042,13.44086074092878],[75.71620337450588,13.45594806691029],[75.70085998345779,13.44944050528974],[75.7156622875224,13.43235126098788],[75.72647676712042,13.44086074092878]]]},"properties":{"region_id":"village_609691","name":"MALAGARU","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

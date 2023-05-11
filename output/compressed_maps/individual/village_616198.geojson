@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19909048252016,12.89810865940946],[76.18287231947151,12.91047800040364],[76.18144236630569,12.89076148524564],[76.19909048252016,12.89810865940946]]]},"properties":{"region_id":"village_616198","name":"MUTHIGE","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

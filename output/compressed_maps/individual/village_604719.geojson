@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37771617224432,15.31455503601616],[76.39689668686086,15.32191465712074],[76.39821258166597,15.32662946936043],[76.38809260213225,15.33116292218241],[76.37896495849168,15.32582506626089],[76.37771617224432,15.31455503601616]]]},"properties":{"region_id":"village_604719","name":"NARASAPURA","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

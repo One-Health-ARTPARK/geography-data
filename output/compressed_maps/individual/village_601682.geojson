@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59097176015501,15.5947615459239],[76.6265675928351,15.6014562166494],[76.622546307242,15.62729563830036],[76.58385856265633,15.61471361347848],[76.59097176015501,15.5947615459239]]]},"properties":{"region_id":"village_601682","name":"CHALLUR","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

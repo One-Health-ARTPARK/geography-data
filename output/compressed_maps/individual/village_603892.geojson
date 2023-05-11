@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14513004708094,15.02720355966681],[75.13314074889793,15.01677502759622],[75.10252925894987,15.01923397886158],[75.0859273874768,14.99236093955909],[75.14738109773845,15.00882819844077],[75.14513004708094,15.02720355966681]]]},"properties":{"region_id":"village_603892","name":"ARATAL","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

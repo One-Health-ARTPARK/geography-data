@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46325191029082,13.05826744730847],[77.45220050118988,13.06053561385214],[77.45209388963887,13.05288006571594],[77.46219306301995,13.05322970268969],[77.46325191029082,13.05826744730847]]]},"properties":{"region_id":"village_612792","name":"SIDDANAHOSAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

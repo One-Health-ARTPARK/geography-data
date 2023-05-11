@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05081039624547,11.96487086629855],[77.03958185544748,11.94663018204254],[77.06716756748196,11.9401821102904],[77.09023740469821,11.91680857126833],[77.08943240541596,11.94365642939911],[77.05081039624547,11.96487086629855]]]},"properties":{"region_id":"village_619758","name":"JYOTHIGOWDANAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

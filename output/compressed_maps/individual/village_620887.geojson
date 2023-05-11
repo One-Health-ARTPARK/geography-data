@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61911630762059,16.64876850082746],[76.59517808980254,16.6506802260524],[76.60032917539343,16.61555401993143],[76.6324698904908,16.61701042503986],[76.61911630762059,16.64876850082746]]]},"properties":{"region_id":"village_620887","name":"KIRDHALLI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

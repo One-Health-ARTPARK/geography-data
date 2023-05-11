@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58118624609826,13.60058820006464],[77.56647786948807,13.58799099934797],[77.58680016128521,13.5827728031507],[77.58118624609826,13.60058820006464]]]},"properties":{"region_id":"village_623330","name":"KADABUR","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

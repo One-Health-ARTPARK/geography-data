@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.21764414877484,13.32051858339934],[78.21238425725137,13.29827984640591],[78.23051452923644,13.301388954174],[78.21764414877484,13.32051858339934]]]},"properties":{"region_id":"village_621660","name":"HEBBATA","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62813933786316,12.50179186230218],[76.61102466619415,12.50059745028293],[76.61107261088323,12.48911033979398],[76.6245899986196,12.48461212456185],[76.62813933786316,12.50179186230218]]]},"properties":{"region_id":"village_614201","name":"CHAGASETTIHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

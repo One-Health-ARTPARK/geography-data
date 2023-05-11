@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95897006703062,16.82126444429927],[76.94905975376318,16.82928231205589],[76.94463289134065,16.81455853805123],[76.95435993086701,16.81393920803801],[76.95897006703062,16.82126444429927]]]},"properties":{"region_id":"village_621137","name":"HABBALLI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

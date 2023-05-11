@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72770556934667,15.89918399274283],[76.72224387981682,15.90031844329397],[76.71798418190023,15.88207535210358],[76.72419376991692,15.88219135431538],[76.72770556934667,15.89918399274283]]]},"properties":{"region_id":"village_601100","name":"BHIRAMGONDAL (D)","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

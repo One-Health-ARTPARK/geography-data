@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61147983554159,12.90508175270039],[77.6028242462479,12.90886354919658],[77.59242909605923,12.89155077369391],[77.60930925264056,12.88820748372569],[77.61147983554159,12.90508175270039]]]},"properties":{"region_id":"village_938430","name":"BILEKAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

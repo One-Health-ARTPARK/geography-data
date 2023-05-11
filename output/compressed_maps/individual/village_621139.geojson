@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97229507484694,16.77721329994164],[76.99078649847385,16.78311770830343],[76.99974279590117,16.8131232511237],[76.97491719487695,16.80430369047235],[76.97229507484694,16.77721329994164]]]},"properties":{"region_id":"village_621139","name":"TANGADGI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

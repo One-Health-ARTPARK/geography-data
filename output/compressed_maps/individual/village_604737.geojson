@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48062190415429,15.26094520966566],[76.46386908389003,15.27066771365006],[76.43874305553094,15.26587807975782],[76.43267970537052,15.23223631406546],[76.48062190415429,15.26094520966566]]]},"properties":{"region_id":"village_604737","name":"INGALIGI","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

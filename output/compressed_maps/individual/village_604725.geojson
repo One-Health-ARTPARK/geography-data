@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40936777404416,15.19414109772082],[76.39920392968507,15.22207823401323],[76.38553786727296,15.22132715807038],[76.40936777404416,15.19414109772082]]]},"properties":{"region_id":"village_604725","name":"KALLAHALLI","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

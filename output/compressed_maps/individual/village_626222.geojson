@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15498582141772,12.6338966022069],[77.13957972965683,12.63279921003393],[77.13603368336001,12.61897210332972],[77.1522646050042,12.62098328986647],[77.15498582141772,12.6338966022069]]]},"properties":{"region_id":"village_626222","name":"KADUKOTHANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

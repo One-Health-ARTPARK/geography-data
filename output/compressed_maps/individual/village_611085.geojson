@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24026502835535,13.50548131955427],[77.22810583077917,13.51140577611314],[77.22786505596771,13.48668950674048],[77.23355820702892,13.48438275116428],[77.24026502835535,13.50548131955427]]]},"properties":{"region_id":"village_611085","name":"MALLESHAPURA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

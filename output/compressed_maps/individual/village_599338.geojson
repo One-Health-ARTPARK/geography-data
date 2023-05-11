@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0995371425421,16.93968265704578],[76.09346033868388,16.98028863163622],[76.05909153229562,16.96702125404806],[76.05614202098869,16.90533235612077],[76.09542404209874,16.90192007727383],[76.0995371425421,16.93968265704578]]]},"properties":{"region_id":"village_599338","name":"CHATTARKI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

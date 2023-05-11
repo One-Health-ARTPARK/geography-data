@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59961013439387,16.05961854927714],[76.58629535092372,16.06197220913606],[76.5779636085997,16.03113308868612],[76.58917035508642,16.02615721227536],[76.59961013439387,16.05961854927714]]]},"properties":{"region_id":"village_600499","name":"BENDARKARLKUNTI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

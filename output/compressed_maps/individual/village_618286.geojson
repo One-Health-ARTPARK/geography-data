@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15727073313018,12.29759794415822],[76.15764517876268,12.30726606395158],[76.14818873564737,12.31224894010701],[76.14486783458707,12.28904187376848],[76.15727073313018,12.29759794415822]]]},"properties":{"region_id":"village_618286","name":"BEKYA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

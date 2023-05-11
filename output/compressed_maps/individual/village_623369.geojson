@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50857203777923,13.46883744268774],[77.49460536534632,13.47022000886417],[77.4942127066863,13.45844453909262],[77.50582600180174,13.45649985833941],[77.50857203777923,13.46883744268774]]]},"properties":{"region_id":"village_623369","name":"BASAVANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

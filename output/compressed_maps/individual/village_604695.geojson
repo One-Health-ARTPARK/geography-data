@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21229027450964,14.89817913216247],[76.16494622079824,14.91213903264908],[76.16242774081066,14.88298667522071],[76.21229027450964,14.89817913216247]]]},"properties":{"region_id":"village_604695","name":"AMBLI","parent":"subdistrict_7108","parent_name":"KOTTURU"}}
+]}

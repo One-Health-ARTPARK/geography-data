@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52838680341894,12.52569867895758],[76.52012463780514,12.52937812179591],[76.50364565312148,12.52389144686638],[76.52402054559069,12.51638108561332],[76.52838680341894,12.52569867895758]]]},"properties":{"region_id":"village_613664","name":"MACHAGONAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

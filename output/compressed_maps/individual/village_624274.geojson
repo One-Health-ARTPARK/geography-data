@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8527052236355,13.26407713575874],[77.84705537692001,13.26465970297255],[77.84435445328232,13.26039813897141],[77.85338786759065,13.2604336719029],[77.8527052236355,13.26407713575874]]]},"properties":{"region_id":"village_624274","name":"JANGAMAKOTE","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

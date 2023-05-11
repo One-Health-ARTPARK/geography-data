@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59115702776047,12.96271653561769],[77.59278653567867,12.97444820468724],[77.58604908657034,12.97389607266366],[77.59115702776047,12.96271653561769]]]},"properties":{"region_id":"village_939465","name":"SAMPIGEHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06837394374863,12.95906194548755],[75.07346948822725,12.93193007822102],[75.08302974694887,12.93865305273551],[75.06837394374863,12.95906194548755]]]},"properties":{"region_id":"village_617539","name":"BUDOLI","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

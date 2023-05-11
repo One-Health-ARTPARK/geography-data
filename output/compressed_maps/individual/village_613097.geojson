@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75894040743174,13.07740579319981],[77.74506627302111,13.07999441016078],[77.73594667720947,13.0620116552926],[77.7507354259836,13.06234721440043],[77.75894040743174,13.07740579319981]]]},"properties":{"region_id":"village_613097","name":"BOMMENAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

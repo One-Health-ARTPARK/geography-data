@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94757076135427,13.13108443164098],[77.94098526056102,13.13132337818551],[77.94007774540262,13.12504647006491],[77.9463265302205,13.123415536054],[77.94757076135427,13.13108443164098]]]},"properties":{"region_id":"village_625592","name":"GERAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

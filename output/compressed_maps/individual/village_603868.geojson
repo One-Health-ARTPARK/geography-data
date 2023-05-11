@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.64277268104485,13.99786330397483],[74.64765254647742,13.99131703541833],[74.66138102074673,13.98925379859846],[74.66297763225748,13.99684919494175],[74.64277268104485,13.99786330397483]]]},"properties":{"region_id":"village_603868","name":"KEREHITTAL","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

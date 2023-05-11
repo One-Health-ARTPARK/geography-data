@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83076803535228,16.05683560122869],[75.81682382532117,16.05769828376288],[75.81611150293985,16.04367227602334],[75.83197527672769,16.04576828970464],[75.83076803535228,16.05683560122869]]]},"properties":{"region_id":"village_598674","name":"PADANAKATTI","parent":"subdistrict_7061","parent_name":"GULEDGUDDA"}}
+]}

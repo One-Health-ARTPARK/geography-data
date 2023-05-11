@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29853508088087,14.40984262782249],[75.29581743065931,14.42957915952486],[75.27403183721322,14.4174537378415],[75.28108960478542,14.40362740258732],[75.29853508088087,14.40984262782249]]]},"properties":{"region_id":"village_607718","name":"BASAVANANDIHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

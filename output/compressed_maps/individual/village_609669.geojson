@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5544594678712,13.36768182547137],[75.53431309848204,13.35959012601591],[75.54229797230005,13.34122888809229],[75.56718568879172,13.34885772774695],[75.5544594678712,13.36768182547137]]]},"properties":{"region_id":"village_609669","name":"HYARAMBI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

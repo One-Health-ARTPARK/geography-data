@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54797330830203,16.96020552674208],[76.5259375088629,16.96790032362373],[76.45542860714788,16.94904322266039],[76.4652201323875,16.90278849485957],[76.55039884794752,16.92729749899438],[76.54797330830203,16.96020552674208]]]},"properties":{"region_id":"village_620782","name":"ARALGUNDGI","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

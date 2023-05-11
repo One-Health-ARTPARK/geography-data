@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82856279481395,14.91762322250391],[76.80863373446637,14.92064668781608],[76.80722327993598,14.89649088826848],[76.81682696223272,14.89434828335681],[76.82856279481395,14.91762322250391]]]},"properties":{"region_id":"village_605159","name":"MURUDI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34059155750869,14.06026706940739],[77.36333043606624,14.07252125262746],[77.32661555562447,14.08336003297713],[77.31906601391276,14.06491589262151],[77.34059155750869,14.06026706940739]]]},"properties":{"region_id":"village_610640","name":"SUNKARLAKUNTE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

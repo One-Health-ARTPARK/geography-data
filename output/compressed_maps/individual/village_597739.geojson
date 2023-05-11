@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.44599830913876,15.80527619688696],[74.40716033656426,15.80069958003924],[74.41298222561434,15.78204329911458],[74.44890058551194,15.77741741032048],[74.44599830913876,15.80527619688696]]]},"properties":{"region_id":"village_597739","name":"NAVAGE","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

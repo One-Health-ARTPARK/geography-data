@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73466335705251,13.03970193277082],[77.73337613758923,13.05602162963279],[77.7121106707416,13.0459320076706],[77.72790411835483,13.03037300474713],[77.73466335705251,13.03970193277082]]]},"properties":{"region_id":"village_613082","name":"HIRANDAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

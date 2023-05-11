@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04592158356952,15.500449763124],[76.03001143659469,15.48476026290973],[76.0570109805935,15.47774454143672],[76.06068555453722,15.4974257814707],[76.04592158356952,15.500449763124]]]},"properties":{"region_id":"village_601328","name":"TIPPARASANHALU","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

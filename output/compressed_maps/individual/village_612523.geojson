@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99950903505207,13.03888706525729],[76.98861105311438,13.05539916567248],[76.98339424081139,13.04007068520766],[76.99950903505207,13.03888706525729]]]},"properties":{"region_id":"village_612523","name":"MADIKEHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

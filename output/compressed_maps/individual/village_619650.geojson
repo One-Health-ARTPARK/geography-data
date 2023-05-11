@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83696577889276,11.99985176274539],[76.827478828821,12.00850329972905],[76.81222775303462,12.00770816076162],[76.81746597916342,11.9793534463073],[76.83696577889276,11.99985176274539]]]},"properties":{"region_id":"village_619650","name":"BENDARAVADY","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

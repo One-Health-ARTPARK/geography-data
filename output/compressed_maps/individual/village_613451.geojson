@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51092567757264,12.76794154382599],[76.5013509575976,12.76968289609388],[76.4918384343175,12.75315154371858],[76.50692511541014,12.74995016890263],[76.51092567757264,12.76794154382599]]]},"properties":{"region_id":"village_613451","name":"BARATHIPURAKOPPALU","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

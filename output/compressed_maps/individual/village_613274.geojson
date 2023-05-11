@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75770202090509,12.78394398062832],[77.74967905723824,12.78639701630895],[77.74777354433905,12.78077443365546],[77.75728056107316,12.77737214976035],[77.75770202090509,12.78394398062832]]]},"properties":{"region_id":"village_613274","name":"KRISHNASAGARA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

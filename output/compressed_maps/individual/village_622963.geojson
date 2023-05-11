@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.4424372592232,13.08028178653106],[78.42762469788332,13.08367715315788],[78.4172380019886,13.08022283365948],[78.42177963901081,13.07009745633791],[78.43673079587985,13.07340541817306],[78.4424372592232,13.08028178653106]]]},"properties":{"region_id":"village_622963","name":"TIRUMANAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

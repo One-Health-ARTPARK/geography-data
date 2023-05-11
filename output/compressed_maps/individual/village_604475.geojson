@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58752851864018,14.28870220914816],[75.5854495929133,14.31385854936954],[75.54575999849705,14.3005120419248],[75.53513865794574,14.27753712856268],[75.58318658280292,14.27814859216828],[75.58752851864018,14.28870220914816]]]},"properties":{"region_id":"village_604475","name":"GUDDADAMADAPUR","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02300958395617,12.79890627989108],[76.02685221271236,12.80059059566999],[76.02289100474931,12.80959867754212],[76.01807124059667,12.80258289486933],[76.02300958395617,12.79890627989108]]]},"properties":{"region_id":"village_616502","name":"BASAVANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

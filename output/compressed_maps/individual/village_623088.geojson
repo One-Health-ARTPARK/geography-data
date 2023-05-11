@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.54420119143198,13.20746471885176],[78.50384199264361,13.21286587269979],[78.49885891297379,13.19184423363526],[78.53936712698321,13.20171350686357],[78.54420119143198,13.20746471885176]]]},"properties":{"region_id":"village_623088","name":"NANGALI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

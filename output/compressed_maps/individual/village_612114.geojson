@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45830432851209,13.41181629005957],[76.44520082360387,13.41971017583737],[76.43620629055654,13.4056428663159],[76.45830432851209,13.41181629005957]]]},"properties":{"region_id":"village_612114","name":"RANGAPURA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

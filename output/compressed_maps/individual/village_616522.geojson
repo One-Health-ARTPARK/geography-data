@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99243776523983,12.74866650833032],[75.9698189818535,12.73351635352353],[75.99098977064456,12.72338299483059],[75.99243776523983,12.74866650833032]]]},"properties":{"region_id":"village_616522","name":"MUSAVATHUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

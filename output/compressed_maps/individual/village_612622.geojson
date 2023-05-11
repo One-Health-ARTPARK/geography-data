@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03997215994677,12.93420799761802],[77.02549610193091,12.94771725256354],[77.02547721514011,12.9272840378056],[77.03997215994677,12.93420799761802]]]},"properties":{"region_id":"village_612622","name":"SANTHEMAVATHUR","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

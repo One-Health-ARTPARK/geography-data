@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97557569256125,12.76187154085993],[75.96394581658768,12.76051779846614],[75.96805861688428,12.74646759055285],[75.97880491290978,12.74815934872643],[75.97557569256125,12.76187154085993]]]},"properties":{"region_id":"village_616504","name":"SHIRADANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

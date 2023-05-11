@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77209978218042,13.25824779128194],[76.75865619051865,13.25994786827265],[76.76595883744399,13.24784361466051],[76.77209978218042,13.25824779128194]]]},"properties":{"region_id":"village_612272","name":"HALUGONDANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

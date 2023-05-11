@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03810469314476,12.97904546992368],[75.02642582069949,12.9778155589837],[75.01951833269702,12.96043581437016],[75.04267027091197,12.96065067326276],[75.03810469314476,12.97904546992368]]]},"properties":{"region_id":"village_617529","name":"RAYEE","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

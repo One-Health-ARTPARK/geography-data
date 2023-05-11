@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56302799957409,12.91970499989688],[77.55631399955435,12.92295699995262],[77.55052000042924,12.91537299991983],[77.55581599991693,12.91148600037632],[77.56302799957409,12.91970499989688]]]},"properties":{"region_id":"ward_bbmp182","name":"WARD NO.182 (PADMANABHA NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

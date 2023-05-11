@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27277024001289,15.34883378618481],[76.2446810647474,15.33441729862699],[76.26897215570933,15.32078927359364],[76.27277024001289,15.34883378618481]]]},"properties":{"region_id":"village_601762","name":"KANAKAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

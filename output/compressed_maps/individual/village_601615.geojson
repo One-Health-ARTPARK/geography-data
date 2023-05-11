@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49312130915969,15.45167518354173],[76.47069736607777,15.44974948290713],[76.47416112425242,15.41186474616554],[76.49507247762506,15.41908805763671],[76.49312130915969,15.45167518354173]]]},"properties":{"region_id":"village_601615","name":"BASAPATTANA","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

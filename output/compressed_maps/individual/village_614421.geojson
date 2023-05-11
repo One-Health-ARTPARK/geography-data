@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86140004874441,12.52243548923744],[76.86841007438174,12.50129710948836],[76.88092501060177,12.51812977743764],[76.86140004874441,12.52243548923744]]]},"properties":{"region_id":"village_614421","name":"KIRAGANDUR","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

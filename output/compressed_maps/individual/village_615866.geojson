@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02852305274584,13.05345414123887],[76.01870548289656,13.05573644622326],[76.02002556751316,13.04758275628414],[76.02852305274584,13.05345414123887]]]},"properties":{"region_id":"village_615866","name":"MALLENAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

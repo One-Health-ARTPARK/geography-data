@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93329141655026,13.40875780193291],[77.92746747297386,13.41153425437735],[77.91612258836243,13.40268321387751],[77.93124576704237,13.39761354992547],[77.93329141655026,13.40875780193291]]]},"properties":{"region_id":"village_624196","name":"PINDIPAPANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

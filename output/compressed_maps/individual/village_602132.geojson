@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71267990320194,14.9843981019708],[75.71359266330836,14.99600221096477],[75.70577536045606,15.02679693157992],[75.69966467291991,15.02606532933275],[75.70126186570373,14.99821695326544],[75.71267990320194,14.9843981019708]]]},"properties":{"region_id":"village_602132","name":"KANAKAWAD","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

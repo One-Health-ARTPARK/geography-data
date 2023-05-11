@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26292097568626,12.80966834960311],[77.25785288111736,12.79159749979747],[77.27895639685869,12.78915546288216],[77.28541593356306,12.80263654289851],[77.26292097568626,12.80966834960311]]]},"properties":{"region_id":"village_626059","name":"IBBALAKAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

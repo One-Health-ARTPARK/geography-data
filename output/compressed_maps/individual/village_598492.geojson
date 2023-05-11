@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5540260976093,16.43146848242388],[75.55075073167222,16.44268493634255],[75.52331580432758,16.44259481900852],[75.52601052832115,16.428022822278],[75.5540260976093,16.43146848242388]]]},"properties":{"region_id":"village_598492","name":"GUDADINNI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

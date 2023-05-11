@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80478445809764,15.85530468280345],[76.81244592547696,15.88103495484775],[76.80038040163627,15.88045290100489],[76.80478445809764,15.85530468280345]]]},"properties":{"region_id":"village_601151","name":"SIVAJAWALGERA","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

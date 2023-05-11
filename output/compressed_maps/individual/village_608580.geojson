@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71020525937723,13.89115299535131],[75.73375773330667,13.8893983278201],[75.73047430574506,13.90431297752584],[75.71395250422142,13.90729771523432],[75.71020525937723,13.89115299535131]]]},"properties":{"region_id":"village_608580","name":"KAGEKODAMAGGE","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

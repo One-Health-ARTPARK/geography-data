@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.098780487208,12.97016580199891],[77.07318774340284,12.95815148998043],[77.09459491246925,12.94572104307935],[77.098780487208,12.97016580199891]]]},"properties":{"region_id":"village_612561","name":"NITTUR","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

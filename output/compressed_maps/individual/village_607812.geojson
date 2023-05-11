@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5306710710628,14.27659155596854],[75.51477235191173,14.30301384930007],[75.48948759138003,14.28791337107927],[75.5306710710628,14.27659155596854]]]},"properties":{"region_id":"village_607812","name":"KAGINALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

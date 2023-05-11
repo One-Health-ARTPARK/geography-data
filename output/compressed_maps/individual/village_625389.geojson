@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70014039208498,13.2353774958182],[77.70111129916691,13.23879985323562],[77.69547826145127,13.24078131432324],[77.69496841745897,13.23678931056492],[77.70014039208498,13.2353774958182]]]},"properties":{"region_id":"village_625389","name":"UPPARAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

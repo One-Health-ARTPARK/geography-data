@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74159870401284,13.28534641677441],[75.72252214004496,13.29033517321322],[75.7276332438116,13.27490890834739],[75.74159870401284,13.28534641677441]]]},"properties":{"region_id":"village_609740","name":"DAMBADAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

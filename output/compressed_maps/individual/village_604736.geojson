@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45110504671774,15.31331875498712],[76.43026264152805,15.31400002794773],[76.42423687054031,15.2761669382643],[76.44594195389962,15.278481722231],[76.45110504671774,15.31331875498712]]]},"properties":{"region_id":"village_604736","name":"MALAPANAGUDI","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

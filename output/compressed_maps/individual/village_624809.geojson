@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3234958036558,13.23714430908924],[77.3075135777347,13.22876264876879],[77.32274301557193,13.21940295716933],[77.3234958036558,13.23714430908924]]]},"properties":{"region_id":"village_624809","name":"THIGALARAPALYA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

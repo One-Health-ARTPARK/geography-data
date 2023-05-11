@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11455861169125,15.83897436950891],[76.1265688768431,15.86706046600683],[76.10738006042867,15.85957077556013],[76.11455861169125,15.83897436950891]]]},"properties":{"region_id":"village_601445","name":"HULSEGERI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

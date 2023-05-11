@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17509054376268,14.0592923123722],[75.15709246890015,14.05308688048318],[75.16951827200769,14.04213789329508],[75.17509054376268,14.0592923123722]]]},"properties":{"region_id":"village_607276","name":"SARAGUNDA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

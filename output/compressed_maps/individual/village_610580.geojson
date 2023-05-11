@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36606661769599,14.1673596659292],[77.34383601159375,14.1793478965095],[77.34069974675117,14.16478919894317],[77.36606661769599,14.1673596659292]]]},"properties":{"region_id":"village_610580","name":"THAPPAGANADODDI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

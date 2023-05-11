@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64211788917439,12.74580179567887],[76.63156141641062,12.74667658596911],[76.63096774715389,12.72145104159518],[76.64491796578521,12.73684669332702],[76.64211788917439,12.74580179567887]]]},"properties":{"region_id":"village_613978","name":"MADAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

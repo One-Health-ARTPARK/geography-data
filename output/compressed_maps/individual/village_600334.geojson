@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37462303084943,17.72192491896679],[77.35747566335347,17.71514392363008],[77.33922517213351,17.71812439082297],[77.3451467286221,17.69809282416631],[77.3643276679647,17.70211349880632],[77.37462303084943,17.72192491896679]]]},"properties":{"region_id":"village_600334","name":"BORAL","parent":"subdistrict_7084","parent_name":"CHITAGUPPA"}}
+]}

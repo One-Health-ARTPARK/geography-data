@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7282374252655,13.40310901014884],[77.71654556628003,13.40653817998043],[77.71466381889672,13.39923792464213],[77.72271667347957,13.39677354350041],[77.7282374252655,13.40310901014884]]]},"properties":{"region_id":"village_623627","name":"JADALATHIMMANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

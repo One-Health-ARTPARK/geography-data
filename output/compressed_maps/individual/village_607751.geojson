@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3050319972401,14.34001932346087],[75.2883203191802,14.32008193387803],[75.30359311363921,14.30981952143293],[75.31478199046883,14.33008698168884],[75.3050319972401,14.34001932346087]]]},"properties":{"region_id":"village_607751","name":"NAGIHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

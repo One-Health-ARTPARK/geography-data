@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43768016634019,18.13023862126206],[77.41802156733621,18.15196121404309],[77.40712196566842,18.12741169349963],[77.43768016634019,18.13023862126206]]]},"properties":{"region_id":"village_600095","name":"CHATNAL","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

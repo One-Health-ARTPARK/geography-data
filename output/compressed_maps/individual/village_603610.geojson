@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68559165797329,14.38012453356203],[74.66143736781986,14.38712608152193],[74.64603492836127,14.37243560717475],[74.67586585887187,14.36645420974976],[74.68559165797329,14.38012453356203]]]},"properties":{"region_id":"village_603610","name":"BILEGOD","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

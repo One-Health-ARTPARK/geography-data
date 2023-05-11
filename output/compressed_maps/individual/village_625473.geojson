@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88816427223432,13.25004496895914],[77.87977244826372,13.2521042650498],[77.87411632072485,13.24434770039719],[77.88635642851146,13.24168588253176],[77.88816427223432,13.25004496895914]]]},"properties":{"region_id":"village_625473","name":"RALKUNTE","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

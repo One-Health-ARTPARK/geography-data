@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83824102227865,15.19334699090263],[74.82475571562809,15.21096266440042],[74.81164838482019,15.2020058413249],[74.82580182280905,15.18741969012504],[74.83824102227865,15.19334699090263]]]},"properties":{"region_id":"village_602828","name":"JATGAHOSUR","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

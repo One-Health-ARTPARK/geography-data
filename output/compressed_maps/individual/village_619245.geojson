@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71790489496615,12.10026252652026],[76.71921195675321,12.12112758814619],[76.70970225719161,12.11534286401615],[76.71790489496615,12.10026252652026]]]},"properties":{"region_id":"village_619245","name":"GEEKAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16967773543621,14.09920547242308],[77.13718233834189,14.09774105242344],[77.15473121235509,14.07212081596692],[77.16967773543621,14.09920547242308]]]},"properties":{"region_id":"village_610615","name":"GUJJANADU","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

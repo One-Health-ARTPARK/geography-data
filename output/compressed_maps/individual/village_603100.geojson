@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71900334659382,14.77604118516057],[74.70477349496032,14.77823101475753],[74.69768496661389,14.73761442663243],[74.72942241434725,14.74840997023888],[74.71900334659382,14.77604118516057]]]},"properties":{"region_id":"village_603100","name":"MENSI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

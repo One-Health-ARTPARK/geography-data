@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81220311640962,15.92259991785256],[75.77713366899738,15.91912389785861],[75.78354150019884,15.89856826297933],[75.81106970350372,15.89415620813076],[75.81220311640962,15.92259991785256]]]},"properties":{"region_id":"village_601374","name":"RAMPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

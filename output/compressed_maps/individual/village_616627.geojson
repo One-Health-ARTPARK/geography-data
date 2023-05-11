@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04344154575257,12.68582579074773],[76.0303811243129,12.6859322296448],[76.03899373281818,12.67409502495579],[76.04344154575257,12.68582579074773]]]},"properties":{"region_id":"village_616627","name":"ANKANATHAPURA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

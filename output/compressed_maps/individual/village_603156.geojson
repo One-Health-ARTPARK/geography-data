@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60005482506487,14.57027331224947],[74.61382265760808,14.60914863567523],[74.58095961174807,14.61076516805941],[74.60005482506487,14.57027331224947]]]},"properties":{"region_id":"village_603156","name":"BENAGAON","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

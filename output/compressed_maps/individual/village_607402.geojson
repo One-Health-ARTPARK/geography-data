@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06900753958205,14.56704234883463],[75.05371166653303,14.56786903531916],[75.06023845269624,14.55700796345428],[75.06900753958205,14.56704234883463]]]},"properties":{"region_id":"village_607402","name":"HANAJI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

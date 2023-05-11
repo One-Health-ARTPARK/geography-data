@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91243824025534,14.04360942318874],[74.89405962999052,14.01486779025162],[74.90025464929832,13.98861012364012],[74.92782985196969,14.03478682790112],[74.91243824025534,14.04360942318874]]]},"properties":{"region_id":"village_607366","name":"KIRUVASE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

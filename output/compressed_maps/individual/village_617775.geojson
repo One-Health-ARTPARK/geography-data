@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42152934469644,12.73837793058404],[75.42158435674895,12.68264728980677],[75.44767484094645,12.70811260278638],[75.45315765079938,12.73018883514566],[75.42152934469644,12.73837793058404]]]},"properties":{"region_id":"village_617775","name":"YEDAMANGALA","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

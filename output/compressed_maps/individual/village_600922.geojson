@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.797995225255,15.99553583103472],[76.7933388403318,16.00738555981547],[76.76516242236777,15.99534030574431],[76.79005657598104,15.98697271465974],[76.797995225255,15.99553583103472]]]},"properties":{"region_id":"village_600922","name":"MALKAPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5930314220999,17.61905636250533],[76.56420507564047,17.62797911339702],[76.5594623252016,17.61056025680832],[76.57779055247786,17.60290262810899],[76.5930314220999,17.61905636250533]]]},"properties":{"region_id":"village_620012","name":"TELEKUNI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

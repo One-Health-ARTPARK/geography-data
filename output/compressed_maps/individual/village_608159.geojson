@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3975799329556,13.74226128937651],[75.38987252589025,13.74815511313956],[75.3769021021655,13.7428747790088],[75.3889668646656,13.73506043426683],[75.3975799329556,13.74226128937651]]]},"properties":{"region_id":"village_608159","name":"GUTHIYADEHALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

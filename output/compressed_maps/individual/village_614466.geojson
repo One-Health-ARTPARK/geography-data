@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83340550205108,12.51358555305323],[76.82823577415243,12.48767668688436],[76.83962800543691,12.48641979513831],[76.84711760041253,12.48993674444446],[76.84426749367088,12.51079954645845],[76.83340550205108,12.51358555305323]]]},"properties":{"region_id":"village_614466","name":"SUNDAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

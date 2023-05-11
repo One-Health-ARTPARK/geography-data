@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93465763520548,12.73483250982933],[75.9304142651955,12.73495697989082],[75.92179859490551,12.74058300234276],[75.92586405311049,12.72772641343024],[75.93416974122941,12.72823444443576],[75.93465763520548,12.73483250982933]]]},"properties":{"region_id":"village_617886","name":"HEBBULSE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75401722001197,13.53810391952751],[77.74632062561761,13.530678248112],[77.75572866267984,13.5265505832756],[77.75401722001197,13.53810391952751]]]},"properties":{"region_id":"village_623504","name":"BEERAGANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

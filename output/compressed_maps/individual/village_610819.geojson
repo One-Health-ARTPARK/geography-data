@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25332953928431,13.7125321955969],[77.23316281669165,13.72865423783066],[77.23344227257519,13.70637420975695],[77.25332953928431,13.7125321955969]]]},"properties":{"region_id":"village_610819","name":"BANDREHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

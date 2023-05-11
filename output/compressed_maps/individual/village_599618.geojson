@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08501552856026,16.27290574086936],[76.08874456968346,16.30908393691455],[76.08118730922047,16.3118112704216],[76.06666984599582,16.28092825934753],[76.08501552856026,16.27290574086936]]]},"properties":{"region_id":"village_599618","name":"NAGARAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

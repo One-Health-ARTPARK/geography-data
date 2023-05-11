@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1090025733612,15.6356873133613],[76.09368355376111,15.64194312561547],[76.08800107723461,15.61839245189436],[76.10140978615087,15.61730375393793],[76.1090025733612,15.6356873133613]]]},"properties":{"region_id":"village_601307","name":"TALUR","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

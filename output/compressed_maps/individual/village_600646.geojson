@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11005953702869,16.40216424989839],[77.10807680991272,16.38654931035626],[77.13542143444312,16.38585457788625],[77.15171877087396,16.40379681933568],[77.11005953702869,16.40216424989839]]]},"properties":{"region_id":"village_600646","name":"SHAVANTGERA","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

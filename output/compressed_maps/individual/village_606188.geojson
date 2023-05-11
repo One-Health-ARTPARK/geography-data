@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76375100935996,13.82163619692137],[76.71884750978629,13.82396198254455],[76.73054398090939,13.78408787475124],[76.76462628725866,13.78226775800034],[76.76375100935996,13.82163619692137]]]},"properties":{"region_id":"village_606188","name":"KARIYALA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

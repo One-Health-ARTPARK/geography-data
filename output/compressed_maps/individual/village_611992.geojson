@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37337059721833,13.33199630298904],[76.3603205141658,13.32608345372209],[76.3643685474304,13.31393404811161],[76.37381759944168,13.31709847653762],[76.37337059721833,13.33199630298904]]]},"properties":{"region_id":"village_611992","name":"GYARAGHATTA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

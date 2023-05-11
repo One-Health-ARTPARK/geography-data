@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3550525482426,14.90385056636279],[75.3300150884432,14.90326845835733],[75.33313298744295,14.88391138386994],[75.35125380981457,14.88563645048662],[75.3550525482426,14.90385056636279]]]},"properties":{"region_id":"village_603998","name":"KURUBARAMALLUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

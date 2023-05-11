@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99852690969948,15.21414350654097],[74.96691772152802,15.20631523497884],[74.97835398404337,15.18771281345789],[75.0094088785806,15.19960202866436],[74.99852690969948,15.21414350654097]]]},"properties":{"region_id":"village_602468","name":"DASTIKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

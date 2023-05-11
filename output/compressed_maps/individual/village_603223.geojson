@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77859123086627,14.64188987782259],[74.78759742604984,14.62301193753809],[74.7989867049315,14.63363199839805],[74.77859123086627,14.64188987782259]]]},"properties":{"region_id":"village_603223","name":"KALGAR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

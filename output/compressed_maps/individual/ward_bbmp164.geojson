@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55335999994264,12.92387700034046],[77.5640910002704,12.93238600007398],[77.55791600044766,12.9416239997943],[77.55335999994264,12.92387700034046]]]},"properties":{"region_id":"ward_bbmp164","name":"WARD NO.164 (VIDYA PEETA WARD)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

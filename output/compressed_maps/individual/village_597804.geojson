@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.18967306791835,15.75266555165175],[74.23351381009107,15.74473853656737],[74.22888973502434,15.78915104715245],[74.18967306791835,15.75266555165175]]]},"properties":{"region_id":"village_597804","name":"CHIGULE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

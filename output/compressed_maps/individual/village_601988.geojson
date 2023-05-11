@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98217187043377,15.66406239918517],[76.01087182546445,15.6621600418323],[76.01645478362562,15.67848562295083],[75.99436890860702,15.67892299923481],[75.98217187043377,15.66406239918517]]]},"properties":{"region_id":"village_601988","name":"HIREKOPPA","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.49480356582312,13.13953738216217],[78.49339798941686,13.13006349390004],[78.49738830514463,13.12368035833594],[78.50391163951814,13.1305224684888],[78.49480356582312,13.13953738216217]]]},"properties":{"region_id":"village_623123","name":"KAMMASANDRA","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

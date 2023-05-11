@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91787577121603,12.36847350534977],[76.92118241110474,12.38210402840971],[76.91070968991923,12.38402429842624],[76.90815663786861,12.37591650187746],[76.91787577121603,12.36847350534977]]]},"properties":{"region_id":"village_614681","name":"DESHAVALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

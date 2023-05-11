@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63735330702237,13.25321511052485],[75.63496135641009,13.25909838093169],[75.622222519977,13.25541260273049],[75.6305536751705,13.2477755760744],[75.63735330702237,13.25321511052485]]]},"properties":{"region_id":"village_609854","name":"DONAGUDIGE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

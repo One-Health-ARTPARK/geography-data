@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82220113963179,16.41410372166412],[75.79803547991976,16.41453115485495],[75.7929050078084,16.37286606734305],[75.80998752678062,16.37020284761947],[75.82220113963179,16.41410372166412]]]},"properties":{"region_id":"village_599477","name":"GANI R.C","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69372150840125,14.07887284230716],[76.68412482003943,14.06104861774955],[76.70049313873561,14.06141236741084],[76.69372150840125,14.07887284230716]]]},"properties":{"region_id":"village_606094","name":"UPPARAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

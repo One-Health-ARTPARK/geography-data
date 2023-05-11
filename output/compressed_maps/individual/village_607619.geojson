@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12299821981071,14.32945042865084],[75.11373215447672,14.33987238092909],[75.10058656235205,14.33196935654531],[75.12299821981071,14.32945042865084]]]},"properties":{"region_id":"village_607619","name":"BYREKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10728825698162,12.92232072097415],[76.0971109375247,12.92198371944849],[76.09571357882722,12.91367789235213],[76.10741756091632,12.91200443634467],[76.10728825698162,12.92232072097415]]]},"properties":{"region_id":"village_616024","name":"DODDABAGANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

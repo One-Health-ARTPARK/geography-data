@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00016029978282,16.31399502440559],[76.98562766876005,16.29021434718871],[77.01159345934269,16.28287194163719],[77.00016029978282,16.31399502440559]]]},"properties":{"region_id":"village_600689","name":"SHIVANGI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

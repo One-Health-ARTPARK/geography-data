@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09615353182781,17.0169478854103],[76.07523992731707,17.02757521905264],[76.06030636784718,16.99936915558676],[76.09263548919513,16.99221202129694],[76.09615353182781,17.0169478854103]]]},"properties":{"region_id":"village_599337","name":"SURGIHALLI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

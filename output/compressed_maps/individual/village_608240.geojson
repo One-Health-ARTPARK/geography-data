@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27931041679226,13.65187020619105],[75.26372720900619,13.65765645756341],[75.25678998505983,13.64411265077402],[75.27739375470235,13.64059986930046],[75.27931041679226,13.65187020619105]]]},"properties":{"region_id":"village_608240","name":"BALAGATTE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

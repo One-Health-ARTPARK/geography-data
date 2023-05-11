@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76681103128948,15.2896929419728],[76.74856147972866,15.2808080867528],[76.74729190231682,15.25259092271449],[76.80950543331458,15.24632871299606],[76.81639336275374,15.27371538507155],[76.76681103128948,15.2896929419728]]]},"properties":{"region_id":"village_604872","name":"SIDDAMMANAHALLI","parent":"subdistrict_7109","parent_name":"KURUGODU"}}
+]}

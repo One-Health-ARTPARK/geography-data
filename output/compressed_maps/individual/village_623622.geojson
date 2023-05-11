@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69996037308478,13.34695130193657],[77.69876629396218,13.35879361618804],[77.6925049301766,13.36634359729217],[77.68296549500143,13.3527599393741],[77.69326628850318,13.34270674925038],[77.69996037308478,13.34695130193657]]]},"properties":{"region_id":"village_623622","name":"KUDUVATHI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

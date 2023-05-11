@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96619620832146,12.87318719617184],[75.967121585981,12.88404004730215],[75.95503149767198,12.88334921894182],[75.95430165741337,12.87311987680774],[75.96619620832146,12.87318719617184]]]},"properties":{"region_id":"village_616423","name":"KUDURAVALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

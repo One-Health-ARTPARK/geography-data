@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30736529234782,13.89248963150335],[76.30509704248932,13.89245451641566],[76.30533448058371,13.88602153924616],[76.30922604324624,13.88857974765345],[76.30736529234782,13.89248963150335]]]},"properties":{"region_id":"village_605925","name":"BENAKANAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

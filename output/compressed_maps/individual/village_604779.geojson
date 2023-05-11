@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81376700126692,15.54879523511615],[76.81051753300558,15.51881741406421],[76.84151172584401,15.53123997482011],[76.81376700126692,15.54879523511615]]]},"properties":{"region_id":"village_604779","name":"UDEGOLAM","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

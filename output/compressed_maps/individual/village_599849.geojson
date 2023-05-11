@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0818070009965,18.07202001130764],[77.08060063663046,18.08871274825087],[77.07373205872643,18.08668070749195],[77.07385083774318,18.07426206034486],[77.0818070009965,18.07202001130764]]]},"properties":{"region_id":"village_599849","name":"JIRGYAL","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

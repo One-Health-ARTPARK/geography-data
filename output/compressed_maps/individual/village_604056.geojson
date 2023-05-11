@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12169948264334,14.83679267671251],[75.11986661425055,14.84948778749841],[75.09898081005402,14.83998200416006],[75.11232564343338,14.83476160691157],[75.12169948264334,14.83679267671251]]]},"properties":{"region_id":"village_604056","name":"HASANABADI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

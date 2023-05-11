@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70672738705558,15.97951566612695],[76.68826110057358,15.98535086286238],[76.67646198130922,15.95882652912081],[76.69729210287959,15.95679053362365],[76.70672738705558,15.97951566612695]]]},"properties":{"region_id":"village_600912","name":"HIRE KADBOOR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

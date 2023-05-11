@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33773893354488,12.50353010784045],[77.32771896409335,12.50763685915596],[77.3229346624957,12.49426418506908],[77.3360032943383,12.49456739652174],[77.33773893354488,12.50353010784045]]]},"properties":{"region_id":"village_626508","name":"ATTIHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

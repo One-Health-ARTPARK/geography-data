@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10816520790739,13.56021854892945],[77.09535366452812,13.56107111623405],[77.10180509814268,13.5499805302773],[77.10816520790739,13.56021854892945]]]},"properties":{"region_id":"village_611008","name":"BADAMUDDANAPALYA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

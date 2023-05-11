@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28861089907893,13.74898982641087],[76.26991912061268,13.73856721622025],[76.2845974614916,13.73648446304604],[76.29340945769856,13.74006146964304],[76.28861089907893,13.74898982641087]]]},"properties":{"region_id":"village_605902","name":"METTINAHOLE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

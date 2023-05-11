@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25681467872883,14.82726704726492],[75.22736934659561,14.81608008605245],[75.24965294323508,14.80268988019675],[75.25681467872883,14.82726704726492]]]},"properties":{"region_id":"village_604070","name":"NELLIBEED","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

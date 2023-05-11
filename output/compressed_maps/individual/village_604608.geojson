@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90861575908593,15.03944336854734],[75.88407171241514,15.05281883183021],[75.8610525602426,15.01253828506449],[75.906843522005,15.0212703996539],[75.90861575908593,15.03944336854734]]]},"properties":{"region_id":"village_604608","name":"NOWLI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

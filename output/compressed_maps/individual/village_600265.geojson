@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17934904791639,17.8757940720077],[77.16321744162359,17.8887649572748],[77.14242330452277,17.8776846707975],[77.15366322076544,17.86287559089061],[77.17934904791639,17.8757940720077]]]},"properties":{"region_id":"village_600265","name":"OTHAGI","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

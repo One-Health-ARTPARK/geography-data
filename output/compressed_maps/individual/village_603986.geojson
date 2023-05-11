@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36796685308347,14.98972404306771],[75.35461128735197,14.99739180272819],[75.32108761870221,14.99303077867004],[75.30942413411383,14.93836222340739],[75.36880643525957,14.94018589837467],[75.36796685308347,14.98972404306771]]]},"properties":{"region_id":"village_603986","name":"SHEVALALPURU","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

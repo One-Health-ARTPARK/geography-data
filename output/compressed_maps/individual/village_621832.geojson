@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99270139703589,13.12405743586081],[77.98534082279122,13.12883505478576],[77.98532252520252,13.12076302496747],[77.99270139703589,13.12405743586081]]]},"properties":{"region_id":"village_621832","name":"KRISHNAPURA","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

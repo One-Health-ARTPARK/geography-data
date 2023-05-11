@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58370482816828,13.69018323561803],[75.56065626509012,13.72906660568113],[75.5255310194143,13.70499816962686],[75.5515635465833,13.67625495352226],[75.58370482816828,13.69018323561803]]]},"properties":{"region_id":"village_939538","name":"NELAGADDHE","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

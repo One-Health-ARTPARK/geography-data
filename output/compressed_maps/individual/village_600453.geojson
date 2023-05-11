@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59558892444436,16.31169996567449],[76.56656254404801,16.32966253294433],[76.57173293730897,16.28897100423671],[76.59558892444436,16.31169996567449]]]},"properties":{"region_id":"village_600453","name":"AIDBHAVI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18442683686054,16.03352562155847],[76.1536260140066,16.04170685663274],[76.14783033724648,16.03097679985715],[76.16953617588972,16.01517210352333],[76.18442683686054,16.03352562155847]]]},"properties":{"region_id":"village_598989","name":"JAMBALADINNI","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

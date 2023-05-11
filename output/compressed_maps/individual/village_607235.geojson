@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06831133598861,14.13185437225308],[75.08687460949788,14.13608735593118],[75.06967623903641,14.14628528750748],[75.06831133598861,14.13185437225308]]]},"properties":{"region_id":"village_607235","name":"HENAGERE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

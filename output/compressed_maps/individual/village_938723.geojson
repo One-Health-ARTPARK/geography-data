@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71020950133091,13.27911610815891],[77.70158341235437,13.27114531348967],[77.711398255087,13.26856136732372],[77.71020950133091,13.27911610815891]]]},"properties":{"region_id":"village_938723","name":"NEELERI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

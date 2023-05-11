@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38904406632012,14.15961138525108],[77.36397409453902,14.16137974460757],[77.35534671668437,14.12992430000176],[77.3793300672604,14.13609729768712],[77.38904406632012,14.15961138525108]]]},"properties":{"region_id":"village_610581","name":"GYADIGUNTE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

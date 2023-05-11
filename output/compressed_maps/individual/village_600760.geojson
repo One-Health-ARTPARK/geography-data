@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5758364767797,16.32928171725392],[77.55908048806785,16.3296386140692],[77.55583792932138,16.29979186986042],[77.56923811179519,16.30345839149457],[77.5758364767797,16.32928171725392]]]},"properties":{"region_id":"village_600760","name":"KURTIPLI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

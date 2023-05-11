@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14754855377015,16.08736240873912],[76.12034785084569,16.07748373767832],[76.13018305353593,16.05563961849547],[76.14754855377015,16.08736240873912]]]},"properties":{"region_id":"village_598977","name":"GHATTIGANUR","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

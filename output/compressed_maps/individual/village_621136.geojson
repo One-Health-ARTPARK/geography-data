@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94463289134065,16.81455853805123],[76.89659121925371,16.81294727330316],[76.90505534335622,16.77267251881737],[76.93881427049784,16.78441340470203],[76.94463289134065,16.81455853805123]]]},"properties":{"region_id":"village_621136","name":"HURSGUNDGI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

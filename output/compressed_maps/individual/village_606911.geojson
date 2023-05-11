@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86473841789221,14.20701740001823],[75.85603662144688,14.20562115898006],[75.85630155186134,14.19534765464082],[75.86502024516518,14.19674381971761],[75.86473841789221,14.20701740001823]]]},"properties":{"region_id":"village_606911","name":"HIREKURUBARAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

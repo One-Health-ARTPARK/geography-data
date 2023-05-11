@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10121864446714,13.50005965472016],[76.09492922740863,13.50646242186001],[76.07587378803996,13.49498671092955],[76.08633252506901,13.4661463077512],[76.09397934303621,13.49415852333171],[76.10121864446714,13.50005965472016]]]},"properties":{"region_id":"village_609548","name":"MATHIGATTA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

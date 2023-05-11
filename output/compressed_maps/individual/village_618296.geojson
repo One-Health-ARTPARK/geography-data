@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29074734391511,12.38706810610293],[76.2872075194461,12.41125368219954],[76.27865293537019,12.41018761012546],[76.27842031780084,12.38547546081105],[76.29074734391511,12.38706810610293]]]},"properties":{"region_id":"village_618296","name":"HIRIKYATHANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

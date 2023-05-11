@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31848972103613,14.21174185358929],[77.29679689378615,14.17920638346031],[77.31804547719162,14.18162140357962],[77.31848972103613,14.21174185358929]]]},"properties":{"region_id":"village_610574","name":"DASARAMMANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

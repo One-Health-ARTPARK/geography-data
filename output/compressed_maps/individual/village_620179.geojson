@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6067689928575,17.08075496827015],[76.60749420783519,17.09803277613747],[76.5602984750361,17.07045887532471],[76.59263038350373,17.06332760303543],[76.6067689928575,17.08075496827015]]]},"properties":{"region_id":"village_620179","name":"CHINMALLA","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

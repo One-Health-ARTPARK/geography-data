@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16051866894486,13.07452439267518],[77.14844101117595,13.05921155743106],[77.16695023425417,13.06251837512956],[77.16051866894486,13.07452439267518]]]},"properties":{"region_id":"village_625847","name":"MARUR","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

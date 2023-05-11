@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92099244221919,15.10921323245477],[74.92091544336851,15.12662407335679],[74.90432398108469,15.12697320920693],[74.9051262649329,15.09852925404474],[74.92099244221919,15.10921323245477]]]},"properties":{"region_id":"village_602486","name":"JUNJANBAIL","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

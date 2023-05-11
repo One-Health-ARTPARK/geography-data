@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91480286866825,14.04054173970829],[75.91557776630451,14.05242120850532],[75.89862660494623,14.04978381835106],[75.8978717256142,14.03633566457516],[75.91480286866825,14.04054173970829]]]},"properties":{"region_id":"village_607032","name":"DONIHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

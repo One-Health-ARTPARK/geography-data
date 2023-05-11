@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4524082482921,12.64048231951458],[77.44252996566883,12.63032371647746],[77.4477988818026,12.61324839619639],[77.46292625664475,12.6213088002441],[77.4524082482921,12.64048231951458]]]},"properties":{"region_id":"village_626382","name":"T.HOSAHALLI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

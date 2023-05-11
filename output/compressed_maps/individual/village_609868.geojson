@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85144968113393,13.29066642199857],[75.85402571289704,13.30857134099092],[75.84033410717726,13.30185612398579],[75.85144968113393,13.29066642199857]]]},"properties":{"region_id":"village_609868","name":"RAMANAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

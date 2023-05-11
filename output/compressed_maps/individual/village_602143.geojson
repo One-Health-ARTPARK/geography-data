@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79785941703227,15.38574349474906],[75.80921747723073,15.41405984052025],[75.7605142040795,15.40624129490254],[75.76058438766768,15.34809627575803],[75.79785941703227,15.38574349474906]]]},"properties":{"region_id":"village_602143","name":"SHIRUR","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

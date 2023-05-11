@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47659202542097,14.13618150895748],[76.43541144128898,14.12899392432541],[76.44173484557145,14.09803248333378],[76.48074499354681,14.10929093799969],[76.47659202542097,14.13618150895748]]]},"properties":{"region_id":"village_606046","name":"CHIKKASIDDAVVANAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28983011332272,12.87616173536171],[77.27265029761277,12.87726949480388],[77.28306594104008,12.85766461870025],[77.28983011332272,12.87616173536171]]]},"properties":{"region_id":"village_626028","name":"ATTINGERE","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

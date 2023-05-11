@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68051770532506,12.39095748499135],[75.66534997145047,12.40422829842084],[75.65165833468637,12.38310453960899],[75.67290477146743,12.37888301061306],[75.68051770532506,12.39095748499135]]]},"properties":{"region_id":"village_923908","name":"AVANDURU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

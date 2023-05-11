@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.816079047206,16.39398079325946],[76.80048516703802,16.40867950238638],[76.80369912357789,16.38112872351146],[76.816079047206,16.39398079325946]]]},"properties":{"region_id":"village_600547","name":"MEDINAPUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

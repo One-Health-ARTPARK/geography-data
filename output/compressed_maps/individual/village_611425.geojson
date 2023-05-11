@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30068815824072,13.31010164940285],[77.30907760627196,13.31006792057187],[77.30716212230783,13.3190969929589],[77.30068815824072,13.31010164940285]]]},"properties":{"region_id":"village_611425","name":"LINGANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

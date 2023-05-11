@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9461373435119,17.08367285746198],[75.92908321119499,17.06939989030833],[75.94608436656954,17.01944841785397],[75.9461373435119,17.08367285746198]]]},"properties":{"region_id":"village_599245","name":"GANAVALGA","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

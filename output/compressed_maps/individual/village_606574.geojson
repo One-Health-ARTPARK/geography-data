@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84274174783582,14.38853314391248],[75.8297114444464,14.37270639467635],[75.85306389922194,14.3732825681173],[75.84274174783582,14.38853314391248]]]},"properties":{"region_id":"village_606574","name":"SIRIGANAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

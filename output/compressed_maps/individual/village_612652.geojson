@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91087126453655,12.92720365947176],[76.90374646649384,12.93248481073346],[76.8977526769713,12.92008087224459],[76.91147474705754,12.9186152905835],[76.91087126453655,12.92720365947176]]]},"properties":{"region_id":"village_612652","name":"HANUMAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

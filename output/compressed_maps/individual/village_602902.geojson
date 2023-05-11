@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50920633098448,14.79959763138192],[74.50491311024741,14.85561659072072],[74.45263100886437,14.80041061046085],[74.50920633098448,14.79959763138192]]]},"properties":{"region_id":"village_602902","name":"BARE","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

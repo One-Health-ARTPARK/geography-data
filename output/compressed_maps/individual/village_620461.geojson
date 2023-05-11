@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28825612589245,17.28450194956373],[77.29756850134767,17.30914631073972],[77.26401853581991,17.30996399920255],[77.26343000475974,17.28048179514549],[77.28825612589245,17.28450194956373]]]},"properties":{"region_id":"village_620461","name":"RAIKOD","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

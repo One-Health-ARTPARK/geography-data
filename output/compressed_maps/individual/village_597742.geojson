@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45688196213145,15.77969141446874],[74.43805087042033,15.7718519592251],[74.4447682825518,15.74730623898273],[74.46864804558888,15.76752788566143],[74.45864936621221,15.77316100371399],[74.45688196213145,15.77969141446874]]]},"properties":{"region_id":"village_597742","name":"SANTIBASTAWAD","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58608490839063,16.06259554896836],[76.58332026747217,16.09383308679756],[76.56831757027444,16.06178200341957],[76.58608490839063,16.06259554896836]]]},"properties":{"region_id":"village_600498","name":"MUSLIKARLKUNTI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

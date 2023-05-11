@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98442459695684,13.08623117875478],[74.96060826476828,13.10156422338003],[74.94247666980534,13.09757343097885],[74.93324118547815,13.06230427055701],[74.97447157884082,13.06368212439739],[74.98442459695684,13.08623117875478]]]},"properties":{"region_id":"village_617460","name":"PUTHIGE","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

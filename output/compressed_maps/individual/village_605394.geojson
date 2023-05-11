@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84018003288836,14.27933855203067],[76.82248724393543,14.28123799112583],[76.8166440846092,14.24853575305034],[76.8402277392808,14.24532552966961],[76.84018003288836,14.27933855203067]]]},"properties":{"region_id":"village_605394","name":"CHOWLURU","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

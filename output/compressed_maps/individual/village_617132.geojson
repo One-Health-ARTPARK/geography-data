@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38772861614038,13.07568237712752],[76.3806865854899,13.06633729804831],[76.40064893500728,13.06962939959818],[76.38772861614038,13.07568237712752]]]},"properties":{"region_id":"village_617132","name":"MARAGUR","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

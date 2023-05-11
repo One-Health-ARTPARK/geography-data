@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.32550159786959,15.09278317228627],[74.34128406470607,15.11992861058098],[74.28586333045699,15.14967952395631],[74.28082456007239,15.06850798125894],[74.32550159786959,15.09278317228627]]]},"properties":{"region_id":"village_602711","name":"KUNDAL","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86384350583195,14.21774494282134],[74.86954942275084,14.23672361206231],[74.86044711383822,14.23793266189451],[74.86384350583195,14.21774494282134]]]},"properties":{"region_id":"village_603674","name":"MALAVALLI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

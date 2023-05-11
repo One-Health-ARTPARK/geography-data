@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21003047298521,15.98007141101274],[77.19337431788664,15.98253925790817],[77.19112463679278,15.95427263342776],[77.20353296098274,15.95381635804381],[77.21003047298521,15.98007141101274]]]},"properties":{"region_id":"village_601014","name":"TAMMAPUR","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

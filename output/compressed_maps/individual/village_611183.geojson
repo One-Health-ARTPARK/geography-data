@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29650545733193,13.43367749335316],[77.29123309169016,13.42719576306809],[77.28806315010273,13.41598009052584],[77.29470373235175,13.41807363635574],[77.29650545733193,13.43367749335316]]]},"properties":{"region_id":"village_611183","name":"BYRASANDRA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

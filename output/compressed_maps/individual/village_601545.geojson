@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37162681364642,15.69034020100218],[76.35942601608433,15.67717909880652],[76.37979539179224,15.67150427643265],[76.37162681364642,15.69034020100218]]]},"properties":{"region_id":"village_601545","name":"VIRUPAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

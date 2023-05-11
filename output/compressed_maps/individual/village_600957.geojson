@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99773687208607,16.19210147606378],[76.98530405943151,16.19840779531901],[76.97482720898192,16.18413790258909],[76.99436112045747,16.17887522022706],[76.99773687208607,16.19210147606378]]]},"properties":{"region_id":"village_600957","name":"MARATA","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

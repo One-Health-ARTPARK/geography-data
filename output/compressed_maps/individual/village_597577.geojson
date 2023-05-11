@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.56920792261856,16.23056729675316],[74.53591723850391,16.23702963227063],[74.535661119172,16.20832446836163],[74.56920792261856,16.23056729675316]]]},"properties":{"region_id":"village_597577","name":"KOCHARI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

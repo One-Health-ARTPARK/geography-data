@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26428079677925,13.1765005483899],[77.25944510389368,13.18791790890973],[77.24814426861096,13.18288006248355],[77.25415411594753,13.16801931957619],[77.26428079677925,13.1765005483899]]]},"properties":{"region_id":"village_624770","name":"MACHENAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

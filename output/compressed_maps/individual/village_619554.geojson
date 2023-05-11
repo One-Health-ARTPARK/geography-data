@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78943795835056,11.70134393307386],[76.76665891983914,11.72011444167369],[76.77048532481015,11.6694382463286],[76.78943795835056,11.70134393307386]]]},"properties":{"region_id":"village_619554","name":"HEGGAVADI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

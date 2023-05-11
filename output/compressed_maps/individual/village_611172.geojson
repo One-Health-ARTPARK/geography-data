@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28679663433888,13.44501269462622],[77.27185633343481,13.44722541597756],[77.26907184052213,13.43063724234337],[77.27955844915651,13.42613307045432],[77.28022614565664,13.44312743750572],[77.28679663433888,13.44501269462622]]]},"properties":{"region_id":"village_611172","name":"K.G.BEVINAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

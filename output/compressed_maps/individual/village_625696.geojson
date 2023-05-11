@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84732531371907,13.1229639433981],[77.83412869739374,13.12478506472503],[77.83635204889868,13.11441824719787],[77.84997207433776,13.11463561449028],[77.84732531371907,13.1229639433981]]]},"properties":{"region_id":"village_625696","name":"CHOLAPPANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

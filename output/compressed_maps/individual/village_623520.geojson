@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74221960124963,13.48974059783152],[77.73839319567479,13.49958485312072],[77.73246523488261,13.4939926453459],[77.74221960124963,13.48974059783152]]]},"properties":{"region_id":"village_623520","name":"SOOLIKUNTE","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

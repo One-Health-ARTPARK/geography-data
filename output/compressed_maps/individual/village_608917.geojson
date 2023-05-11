@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20345542624129,13.49385710118187],[75.18589068809706,13.49976346133025],[75.18962157251558,13.48687579685402],[75.20345542624129,13.49385710118187]]]},"properties":{"region_id":"village_608917","name":"KUMBARAGODU","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

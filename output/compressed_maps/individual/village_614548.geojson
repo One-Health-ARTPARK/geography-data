@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06239571096208,12.70471042644172],[77.07528832993515,12.70804729294097],[77.07205265549729,12.73347920801458],[77.05163256705617,12.72177631441534],[77.06239571096208,12.70471042644172]]]},"properties":{"region_id":"village_614548","name":"DUNDANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76626253990105,15.72153964925363],[76.73420441339553,15.72173959923407],[76.73213206463856,15.69669055180017],[76.76616841489447,15.69845053421839],[76.76626253990105,15.72153964925363]]]},"properties":{"region_id":"village_601216","name":"SASALMARI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

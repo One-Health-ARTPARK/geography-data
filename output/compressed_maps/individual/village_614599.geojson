@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08517464480647,12.56626840642406],[77.06338987777592,12.56449081407046],[77.06861721504974,12.55333752426862],[77.08517464480647,12.56626840642406]]]},"properties":{"region_id":"village_614599","name":"NEELAKANTANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00660789475091,12.87443936476331],[76.9968553223209,12.85468145831592],[77.02520942444646,12.85306956188713],[77.00660789475091,12.87443936476331]]]},"properties":{"region_id":"village_612694","name":"KICHAVADI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

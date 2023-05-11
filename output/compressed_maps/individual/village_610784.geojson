@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09357358468918,13.63490359530295],[77.07266984215565,13.64100569852639],[77.06578941611379,13.63001014133717],[77.09200720415629,13.62891527419394],[77.09357358468918,13.63490359530295]]]},"properties":{"region_id":"village_610784","name":"MADENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3149068536275,17.95959338694147],[77.29413085874404,17.93342575433847],[77.33253285540779,17.92931663371438],[77.33615099396972,17.94380498043447],[77.3149068536275,17.95959338694147]]]},"properties":{"region_id":"village_599956","name":"JANTI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

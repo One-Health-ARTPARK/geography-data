@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91737639788194,17.46525952605023],[76.87655452300143,17.46207706325692],[76.868550750143,17.42042667159536],[76.90975492465319,17.43196660287242],[76.91737639788194,17.46525952605023]]]},"properties":{"region_id":"village_620236","name":"AWRAD (B)","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

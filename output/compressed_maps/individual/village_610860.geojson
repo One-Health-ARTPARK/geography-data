@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25640842417701,13.65682944097991],[77.24865976940882,13.65630649686472],[77.25031714347686,13.64946918124151],[77.25877817625607,13.65298679512762],[77.25640842417701,13.65682944097991]]]},"properties":{"region_id":"village_610860","name":"PUTTENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

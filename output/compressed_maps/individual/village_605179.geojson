@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79105516737322,14.81949961898086],[76.78458936442387,14.82488537541824],[76.78324906079447,14.81420862966845],[76.79105516737322,14.81949961898086]]]},"properties":{"region_id":"village_605179","name":"VEERAPURA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

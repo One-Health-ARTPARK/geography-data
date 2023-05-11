@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45157132276589,13.58793870635637],[77.44937757801013,13.59395341347188],[77.45114419799464,13.60708762069823],[77.44418385338523,13.60395824826614],[77.44368832455386,13.59574361514963],[77.45157132276589,13.58793870635637]]]},"properties":{"region_id":"village_623207","name":"JEERIGEPETE","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

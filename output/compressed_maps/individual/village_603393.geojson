@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.41128605571998,14.57390663386887],[74.39969262839395,14.57466042817973],[74.39587324169425,14.56598402924405],[74.4180250964504,14.56371112448356],[74.41128605571998,14.57390663386887]]]},"properties":{"region_id":"village_603393","name":"TAKATGERI","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

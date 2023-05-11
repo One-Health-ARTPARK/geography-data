@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30388402200366,13.12056625620439],[77.29099958548038,13.12094129391602],[77.2919378560587,13.11062418461655],[77.30304137212548,13.1107045530635],[77.30388402200366,13.12056625620439]]]},"properties":{"region_id":"village_624840","name":"HONNARAYANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

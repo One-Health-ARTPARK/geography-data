@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89996462505819,15.58206343492387],[74.89486034792327,15.59322954265941],[74.87754959131914,15.58886668899406],[74.88210423947373,15.57368596209133],[74.89996462505819,15.58206343492387]]]},"properties":{"region_id":"village_602202","name":"TADAKOD","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

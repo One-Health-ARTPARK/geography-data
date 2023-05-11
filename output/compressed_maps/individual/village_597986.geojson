@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65576156130321,15.47688407765196],[74.62251614038101,15.49072943170535],[74.63685042045174,15.44727208281735],[74.65576156130321,15.47688407765196]]]},"properties":{"region_id":"village_597986","name":"KARAJAGI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77215827250085,13.62126785719832],[74.75636474099443,13.5907583667521],[74.78754277753161,13.59517707867836],[74.77215827250085,13.62126785719832]]]},"properties":{"region_id":"village_608741","name":"JAPTHI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

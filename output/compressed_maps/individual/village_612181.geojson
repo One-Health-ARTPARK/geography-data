@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49840324597533,13.13492961308678],[76.4935299413352,13.14019535257706],[76.48434544822138,13.13644480514658],[76.49258357067042,13.12977595535842],[76.49840324597533,13.13492961308678]]]},"properties":{"region_id":"village_612181","name":"MATANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

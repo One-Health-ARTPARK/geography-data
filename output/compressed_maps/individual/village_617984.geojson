@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9677290888917,12.46532557530969],[75.94931219722868,12.46826098260415],[75.94637309127204,12.46012573388096],[75.95837706985276,12.45688130548331],[75.9677290888917,12.46532557530969]]]},"properties":{"region_id":"village_617984","name":"MULLUSOGE","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

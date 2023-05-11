@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29001253437839,14.84971634574938],[75.28231684501041,14.86382193195444],[75.26771198933827,14.8569359831963],[75.28501752270259,14.84078383118305],[75.29001253437839,14.84971634574938]]]},"properties":{"region_id":"village_604045","name":"HARANAGIRI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

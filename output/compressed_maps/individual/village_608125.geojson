@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38784449735313,13.80789862880098],[75.37406574659755,13.81754137749899],[75.35713994439924,13.80038327257978],[75.37081386798376,13.79083078459741],[75.38784449735313,13.80789862880098]]]},"properties":{"region_id":"village_608125","name":"KANNANGI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

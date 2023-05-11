@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03469089371691,15.31509371585307],[75.02204813615991,15.33336954819803],[75.00250626402298,15.33596414439093],[75.00788310595568,15.29529970549162],[75.03469089371691,15.31509371585307]]]},"properties":{"region_id":"village_602444","name":"DHUMMAWAD","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

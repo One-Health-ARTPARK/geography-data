@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37561413603771,14.55212821038491],[75.35388744535541,14.55122720758393],[75.36265181159004,14.53384185319347],[75.37561413603771,14.55212821038491]]]},"properties":{"region_id":"village_604363","name":"KARGI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

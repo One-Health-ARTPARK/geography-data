@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60304386788864,16.20001110080629],[74.58981766478358,16.20126599179081],[74.58031347048792,16.18756643037705],[74.60364621196388,16.18655120826907],[74.60304386788864,16.20001110080629]]]},"properties":{"region_id":"village_597610","name":"BASTAWAD","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

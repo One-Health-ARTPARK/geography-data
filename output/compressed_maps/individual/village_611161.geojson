@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25278364284323,13.4625698009099],[77.23936267942433,13.46536356521334],[77.23719276345629,13.4486392902126],[77.2524530548014,13.45201995393893],[77.25278364284323,13.4625698009099]]]},"properties":{"region_id":"village_611161","name":"A.VENKATAPURA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

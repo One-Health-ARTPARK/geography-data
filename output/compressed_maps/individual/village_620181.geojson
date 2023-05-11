@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99924812959361,17.65712788794947],[76.95722112315907,17.63443270000428],[76.98158941169393,17.62568255033005],[76.99924812959361,17.65712788794947]]]},"properties":{"region_id":"village_620181","name":"WARNIHAL","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

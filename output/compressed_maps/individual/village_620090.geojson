@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27630505235425,17.33439369229844],[76.228847140128,17.36539883223719],[76.17906847167094,17.3183805258787],[76.2728998219281,17.28807920671813],[76.27630505235425,17.33439369229844]]]},"properties":{"region_id":"village_620090","name":"MASHAL","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

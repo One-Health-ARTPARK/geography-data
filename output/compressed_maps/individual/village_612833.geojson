@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55738023652943,13.21987998907745],[77.55755362697217,13.20356358886251],[77.57090264763134,13.2075057849786],[77.55738023652943,13.21987998907745]]]},"properties":{"region_id":"village_612833","name":"SURADENPURA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75444579932817,13.23039945314217],[77.75547957565213,13.21232412280864],[77.76597815818315,13.21674073338737],[77.75444579932817,13.23039945314217]]]},"properties":{"region_id":"village_625436","name":"HARALUR","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

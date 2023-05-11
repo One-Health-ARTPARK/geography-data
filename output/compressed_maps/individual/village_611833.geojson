@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99732429625301,13.30268003524148],[76.97760844412709,13.30356781191821],[76.96831704564778,13.27976070812813],[76.97935067959385,13.27615743528663],[76.99732429625301,13.30268003524148]]]},"properties":{"region_id":"village_611833","name":"PRABHUVANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

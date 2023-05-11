@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96090555373856,15.14725214435564],[74.9400952709902,15.14478865030237],[74.9416519554033,15.12326201159962],[74.95316712806483,15.12176091742756],[74.96090555373856,15.14725214435564]]]},"properties":{"region_id":"village_602481","name":"GALAGINAKATTI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

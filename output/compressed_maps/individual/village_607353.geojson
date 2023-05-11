@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89298038009692,14.07717845063085],[74.87241282717768,14.08213790117202],[74.86956888115041,14.05850262950151],[74.89298038009692,14.07717845063085]]]},"properties":{"region_id":"village_607353","name":"KALASAVALLI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

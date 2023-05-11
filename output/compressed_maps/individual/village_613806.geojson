@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64312134656335,12.87214764876192],[76.62677522162127,12.86917711014421],[76.63131788214407,12.8481900808039],[76.64312134656335,12.87214764876192]]]},"properties":{"region_id":"village_613806","name":"KAMBADAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

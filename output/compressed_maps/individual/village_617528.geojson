@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06825469667899,12.9864770019708],[75.05379018590044,12.99407250185102],[75.03810469314476,12.97904546992368],[75.07818358988965,12.96476299919487],[75.06825469667899,12.9864770019708]]]},"properties":{"region_id":"village_617528","name":"KUKKIPADY","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

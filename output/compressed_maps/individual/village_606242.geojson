@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75365453529255,14.32374422005943],[75.7530309317682,14.34091900199159],[75.73893466784506,14.33383323421085],[75.75365453529255,14.32374422005943]]]},"properties":{"region_id":"village_606242","name":"DIBBADAHALLI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

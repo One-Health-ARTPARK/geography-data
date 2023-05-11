@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98341909507973,13.64727196578812],[76.98115930878393,13.65713388059433],[76.96868248220031,13.65325595342389],[76.96834852763818,13.64499482596284],[76.98341909507973,13.64727196578812]]]},"properties":{"region_id":"village_610471","name":"MAYASANDRA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

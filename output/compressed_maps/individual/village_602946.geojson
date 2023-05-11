@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89040773630938,15.03638066743338],[74.85892038765971,15.05353226523592],[74.79352208536002,15.01223303074435],[74.79582496560069,14.96835539710148],[74.88592214492873,15.00048910923447],[74.89040773630938,15.03638066743338]]]},"properties":{"region_id":"village_602946","name":"MADNUR","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

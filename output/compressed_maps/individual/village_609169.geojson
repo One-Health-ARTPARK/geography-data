@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84040117073084,13.74909290466478],[75.8427677069596,13.76813735600584],[75.8252963407337,13.81688303718867],[75.815570937753,13.80766809946163],[75.81081665237146,13.78784343448456],[75.84040117073084,13.74909290466478]]]},"properties":{"region_id":"village_609169","name":"HADIKERE","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

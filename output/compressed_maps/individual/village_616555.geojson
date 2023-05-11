@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03261637038443,12.71248774113955],[76.02090245689837,12.70863559941557],[76.02905010673857,12.70038164256473],[76.03261637038443,12.71248774113955]]]},"properties":{"region_id":"village_616555","name":"ALLAPATNA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96608362693088,12.34517758714929],[75.96902496487262,12.35400572969343],[75.94802747548339,12.3698747084357],[75.94302893124639,12.36614521439614],[75.96608362693088,12.34517758714929]]]},"properties":{"region_id":"village_618024","name":"KARADIGODU","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

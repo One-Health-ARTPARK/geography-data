@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3558684695263,11.91466029524079],[76.33705001181039,11.92230978057211],[76.32540224799905,11.903359485439],[76.34088742390304,11.89643318815589],[76.3558684695263,11.91466029524079]]]},"properties":{"region_id":"village_619097","name":"KATAWALU","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

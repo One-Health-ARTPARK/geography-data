@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68662887087294,12.76613192758412],[77.66654767478309,12.76852663298927],[77.66762807237568,12.75473230469186],[77.68258934297585,12.75483799216722],[77.68662887087294,12.76613192758412]]]},"properties":{"region_id":"village_613294","name":"LINGAPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

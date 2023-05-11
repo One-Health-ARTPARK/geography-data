@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99450656578277,18.17518806922544],[76.99141362331521,18.19070325256338],[76.95133240847743,18.18830849973119],[76.97312835381133,18.1722798033812],[76.99450656578277,18.17518806922544]]]},"properties":{"region_id":"village_599838","name":"YELLAMMAWADI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

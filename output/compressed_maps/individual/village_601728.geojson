@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91487326631189,15.22962140835688],[75.92436328411938,15.20575457379965],[75.9325261551396,15.20957459561723],[75.92716167128205,15.23186753131457],[75.91487326631189,15.22962140835688]]]},"properties":{"region_id":"village_601728","name":"BELGATTI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

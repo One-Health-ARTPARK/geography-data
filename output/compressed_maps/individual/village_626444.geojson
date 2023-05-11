@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39065592421767,12.5974172200847],[77.38096947086962,12.59594474975665],[77.3780490959751,12.58460809313048],[77.3871378224024,12.58189495036767],[77.39065592421767,12.5974172200847]]]},"properties":{"region_id":"village_626444","name":"DOLLAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38587398371303,13.67432043789969],[75.36827202255671,13.6830428989711],[75.35930830998919,13.66728173344594],[75.37605949885477,13.6651963554052],[75.38587398371303,13.67432043789969]]]},"properties":{"region_id":"village_608251","name":"MUNNURHALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

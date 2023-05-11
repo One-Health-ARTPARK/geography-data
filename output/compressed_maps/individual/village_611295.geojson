@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02412096365302,13.52765120454236],[77.00865233038316,13.53309032150434],[77.00797655363715,13.52159572767103],[77.02412096365302,13.52765120454236]]]},"properties":{"region_id":"village_611295","name":"KEMPADALIHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

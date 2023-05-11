@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34528313592587,12.61443219276253],[76.32846675089397,12.61372310398717],[76.32981477734198,12.60699322600194],[76.34490913315943,12.60588633969213],[76.34528313592587,12.61443219276253]]]},"properties":{"region_id":"village_618565","name":"MUNJANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

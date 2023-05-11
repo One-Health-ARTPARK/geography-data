@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95844274133722,14.27956394820871],[75.95655582524115,14.30804866889795],[75.93937081727675,14.28677961445039],[75.95844274133722,14.27956394820871]]]},"properties":{"region_id":"village_606696","name":"KODIHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

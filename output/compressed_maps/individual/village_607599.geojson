@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08409890010898,14.3453042565944],[75.07768056731616,14.33080747927136],[75.09078123368879,14.33289175747483],[75.08409890010898,14.3453042565944]]]},"properties":{"region_id":"village_607599","name":"CHILANURU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

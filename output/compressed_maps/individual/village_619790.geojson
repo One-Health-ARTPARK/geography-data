@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.081414086907,12.10955550872608],[77.08093238886332,12.11471307743436],[77.0782447283299,12.11248704589054],[77.081414086907,12.10955550872608]]]},"properties":{"region_id":"village_619790","name":"BANNISARIGE","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

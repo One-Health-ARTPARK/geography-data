@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32290475337378,16.59408627891703],[75.32308105978383,16.62675783734007],[75.30634131542266,16.62868172396995],[75.29519915339567,16.59106712505199],[75.32290475337378,16.59408627891703]]]},"properties":{"region_id":"village_598460","name":"JAMBAGI.(K.D.)","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

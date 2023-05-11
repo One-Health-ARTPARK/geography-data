@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20723887760143,15.73806118471569],[75.20552952227696,15.75236670202467],[75.18896532777009,15.744456543333],[75.19862757877254,15.73427077703538],[75.20723887760143,15.73806118471569]]]},"properties":{"region_id":"village_598251","name":"DUGABAL","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

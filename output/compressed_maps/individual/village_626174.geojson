@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29936003550273,12.65911583070047],[77.29449954108398,12.64813114415586],[77.30303636234468,12.63396665475271],[77.31616246311661,12.64903285922844],[77.29936003550273,12.65911583070047]]]},"properties":{"region_id":"village_626174","name":"KAVANAPURA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

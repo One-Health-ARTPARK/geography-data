@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43475722788818,14.69217106897136],[75.432138913371,14.70842329891392],[75.41840817521465,14.70886325997461],[75.41953111758454,14.69605607059151],[75.43475722788818,14.69217106897136]]]},"properties":{"region_id":"village_604327","name":"SHANKRIPURA","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

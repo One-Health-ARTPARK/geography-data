@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57640733353239,13.48934441210709],[76.55392336586559,13.4908630937779],[76.56765794408757,13.47103306102633],[76.57640733353239,13.48934441210709]]]},"properties":{"region_id":"village_610071","name":"HOSAKERE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

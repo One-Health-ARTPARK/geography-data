@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37039380991055,13.14559417977598],[76.35728133576742,13.14908304804272],[76.35534935162008,13.13471179646801],[76.37221972726108,13.13550190624968],[76.37039380991055,13.14559417977598]]]},"properties":{"region_id":"village_615820","name":"ALADAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

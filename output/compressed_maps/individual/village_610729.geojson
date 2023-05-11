@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11792497420012,13.76434813119772],[77.10153164324625,13.76836144888653],[77.09020388451293,13.76131002624608],[77.1130759635625,13.74669801718291],[77.11792497420012,13.76434813119772]]]},"properties":{"region_id":"village_610729","name":"RANTAVALALU","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

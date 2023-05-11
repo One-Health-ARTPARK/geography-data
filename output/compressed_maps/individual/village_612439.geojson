@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94489443468487,13.09597560904215],[76.9376300466167,13.08250207039406],[76.97090660257861,13.07592848561609],[76.97266537859409,13.09074414762179],[76.94489443468487,13.09597560904215]]]},"properties":{"region_id":"village_612439","name":"SHETTIBEEDU","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

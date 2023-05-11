@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.64824374019786,15.75181614945949],[74.60541992727195,15.74288946260488],[74.63132824669975,15.72217056142672],[74.6443946465925,15.72098032588887],[74.65245414448067,15.73071777637236],[74.64824374019786,15.75181614945949]]]},"properties":{"region_id":"village_597786","name":"BHENDIGERI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82213982063004,12.44622813293537],[75.82169768058864,12.45789839169875],[75.80385631803307,12.46500742674777],[75.8022601071416,12.45191258312454],[75.82213982063004,12.44622813293537]]]},"properties":{"region_id":"village_924011","name":"NARGANE","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

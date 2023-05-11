@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18327757723902,16.65184305336329],[75.16778660603421,16.65176507518084],[75.16637044885313,16.64026786783937],[75.19292742264493,16.63768010519757],[75.18327757723902,16.65184305336329]]]},"properties":{"region_id":"village_597351","name":"BALAWAD","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

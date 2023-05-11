@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2939993478992,13.75082964556052],[76.29340945769856,13.74006146964304],[76.30309383502336,13.74025749509323],[76.30348343357923,13.74936947359607],[76.2939993478992,13.75082964556052]]]},"properties":{"region_id":"village_605903","name":"KANNAGONDI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

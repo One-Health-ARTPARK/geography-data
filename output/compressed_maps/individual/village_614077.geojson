@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6609440770017,12.57066357957502],[76.65436168312317,12.58340470316796],[76.64538878880555,12.57087636380947],[76.6609440770017,12.57066357957502]]]},"properties":{"region_id":"village_614077","name":"LAXMI SAGAR","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65982876442621,13.75551275952394],[76.63582962997158,13.76897683403794],[76.61422929686925,13.75200273169358],[76.6314653556435,13.71353527025122],[76.65982876442621,13.75551275952394]]]},"properties":{"region_id":"village_606199","name":"PILALI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

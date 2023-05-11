@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1446173387999,16.29392601147122],[76.12234375991751,16.32716900739731],[76.10220529103833,16.29256214816421],[76.1446173387999,16.29392601147122]]]},"properties":{"region_id":"village_599625","name":"MUDNAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04579029170203,14.15549465326337],[76.02871023506835,14.15689206089444],[76.0357722540155,14.14162075657892],[76.04579029170203,14.15549465326337]]]},"properties":{"region_id":"village_606965","name":"HANUMANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40363676477504,14.90350642128545],[75.37768746202329,14.91729623089117],[75.375873328897,14.88750365865582],[75.40363676477504,14.90350642128545]]]},"properties":{"region_id":"village_603996","name":"TONDUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

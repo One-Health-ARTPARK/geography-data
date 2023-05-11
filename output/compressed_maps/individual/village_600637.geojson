@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15988295620785,16.45534773563083],[77.15314194864379,16.47476822418633],[77.1216863464635,16.44726521884866],[77.15988295620785,16.45534773563083]]]},"properties":{"region_id":"village_600637","name":"GUGAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

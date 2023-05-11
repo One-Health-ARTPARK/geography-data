@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75707372334526,13.50343526008981],[75.73385333538265,13.51731561952401],[75.7172792416059,13.50198286415484],[75.74126705032984,13.4735146178176],[75.75707372334526,13.50343526008981]]]},"properties":{"region_id":"village_609681","name":"MELINAHULUVATHI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

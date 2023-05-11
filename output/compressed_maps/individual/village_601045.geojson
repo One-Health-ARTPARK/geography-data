@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91686423504503,15.93951769727258],[76.89849089198616,15.9719622001322],[76.88486564390497,15.92147300036598],[76.91686423504503,15.93951769727258]]]},"properties":{"region_id":"village_601045","name":"POTANHAL","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

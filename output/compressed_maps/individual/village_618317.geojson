@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28872608877923,12.32777290810084],[76.28100676372036,12.33680245476829],[76.26508387732206,12.32786152463661],[76.26942392295611,12.32153854647722],[76.28872608877923,12.32777290810084]]]},"properties":{"region_id":"village_618317","name":"BELTHUR","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

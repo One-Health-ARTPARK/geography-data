@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10460324136409,13.67415666598053],[77.09754217519149,13.67512292368364],[77.10056633013494,13.66436352819377],[77.1081063221991,13.66732720631752],[77.10460324136409,13.67415666598053]]]},"properties":{"region_id":"village_610760","name":"BETTADARANGANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

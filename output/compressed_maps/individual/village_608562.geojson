@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7651429088265,13.97121851910084],[75.74672702852105,13.97815855918585],[75.74630369919912,13.96078649426125],[75.7651429088265,13.97121851910084]]]},"properties":{"region_id":"village_608562","name":"DOMBARABYRANAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

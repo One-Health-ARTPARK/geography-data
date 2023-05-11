@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42311905415136,12.98701147986264],[77.41575446209177,12.98891586531907],[77.41358240969767,12.97323238323761],[77.41990451849658,12.9685891764031],[77.42311905415136,12.98701147986264]]]},"properties":{"region_id":"village_612965","name":"HONNIGANAHATTI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

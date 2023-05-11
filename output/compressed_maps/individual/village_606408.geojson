@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3616968539224,14.66501378942882],[76.34063594395255,14.66388707696654],[76.33906381073656,14.64711301154374],[76.36039861196016,14.64746080559224],[76.3616968539224,14.66501378942882]]]},"properties":{"region_id":"village_606408","name":"MARIKATTE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

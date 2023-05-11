@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76148237483397,13.31850852683539],[77.75329456049923,13.3330722792606],[77.74898944441205,13.32154909677451],[77.76148237483397,13.31850852683539]]]},"properties":{"region_id":"village_625331","name":"THIMMAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

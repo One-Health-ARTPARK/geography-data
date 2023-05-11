@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17483102180391,12.66285334975808],[75.16140914310905,12.67169248910238],[75.15016064898934,12.63252831225525],[75.17847207532277,12.63390955382025],[75.17483102180391,12.66285334975808]]]},"properties":{"region_id":"village_617742","name":"PANAJE","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

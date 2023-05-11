@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69271855666297,14.37078869338511],[75.69909203844695,14.40544820435657],[75.690166582386,14.40785344937806],[75.68508625892859,14.37379026191452],[75.69271855666297,14.37078869338511]]]},"properties":{"region_id":"village_606223","name":"KAMBATHANAHALLI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

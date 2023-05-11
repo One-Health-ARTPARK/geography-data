@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86565056473016,17.35633070296498],[76.83647150380742,17.35838497623219],[76.83377056708612,17.34719116021445],[76.86263716518754,17.34876900263044],[76.86565056473016,17.35633070296498]]]},"properties":{"region_id":"village_938565","name":"VAKKALEGERA","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

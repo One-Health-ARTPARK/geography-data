@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74113076530007,13.67040572551405],[74.71170776236036,13.67596398530754],[74.72036192923633,13.6602509536921],[74.74052250578433,13.65669739742719],[74.74113076530007,13.67040572551405]]]},"properties":{"region_id":"village_608693","name":"KANYANA","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

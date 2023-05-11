@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52736483784457,13.28341048370174],[77.5282165677823,13.29160475192959],[77.52236660483426,13.29345045309542],[77.51934924596188,13.28303818389873],[77.52736483784457,13.28341048370174]]]},"properties":{"region_id":"village_625117","name":"KARENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26532490587766,16.20720547802154],[75.26732221959153,16.22614327688412],[75.2430736936286,16.22722855468251],[75.2323817797524,16.20963873223153],[75.26532490587766,16.20720547802154]]]},"properties":{"region_id":"village_598599","name":"HALAKI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

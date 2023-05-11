@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.41151663998384,14.37121188051766],[74.40562666848642,14.3722613877033],[74.40290664883135,14.36798536327246],[74.41103733557958,14.36834519173929],[74.41151663998384,14.37121188051766]]]},"properties":{"region_id":"village_603487","name":"DEVAGIRI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63784023538658,16.27262053650606],[76.6244396475346,16.26751837417285],[76.627807656018,16.25571775971203],[76.6418368447005,16.26211375762441],[76.63784023538658,16.27262053650606]]]},"properties":{"region_id":"village_600463","name":"CHIKALDODDI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

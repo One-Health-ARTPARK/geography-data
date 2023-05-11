@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63375568268529,13.83160559733881],[76.60981112454179,13.82838381820265],[76.61113395511684,13.80638096539423],[76.64390525207992,13.81544309969463],[76.63375568268529,13.83160559733881]]]},"properties":{"region_id":"village_606183","name":"MADENAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

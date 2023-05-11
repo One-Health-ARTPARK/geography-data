@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99666356373443,14.7715494916229],[74.97861547065168,14.75390538458632],[75.00982500352588,14.75113122905927],[74.99666356373443,14.7715494916229]]]},"properties":{"region_id":"village_603083","name":"SIDDAPUR","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

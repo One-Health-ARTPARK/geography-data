@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99789963058723,14.3337222874778],[75.97380477110275,14.33027064836182],[75.97521229387661,14.31554085675761],[76.00243430794586,14.31550980518831],[75.99789963058723,14.3337222874778]]]},"properties":{"region_id":"village_606683","name":"ATTIGERE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85678428603013,14.38615220324965],[76.84311428522412,14.36578379650969],[76.86427236832658,14.3617507905758],[76.87366188924067,14.41130465838473],[76.85205388165924,14.40209929291581],[76.85678428603013,14.38615220324965]]]},"properties":{"region_id":"village_605376","name":"JAJUR","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

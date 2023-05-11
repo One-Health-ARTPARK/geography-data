@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54681877802274,16.03700458751758],[76.53663126725081,16.05627947645642],[76.53038714310163,16.02626987571209],[76.54681877802274,16.03700458751758]]]},"properties":{"region_id":"village_600496","name":"MITTIKELLUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

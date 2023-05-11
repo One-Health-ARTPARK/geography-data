@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62597918398525,13.28593870558896],[77.623565418371,13.2930492978824],[77.61568595671993,13.29028809865293],[77.61763251806794,13.28409597806482],[77.62597918398525,13.28593870558896]]]},"properties":{"region_id":"village_625272","name":"CHIKKOBANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

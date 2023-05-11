@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73573836113,16.40546903914753],[76.7187493015537,16.39205639461689],[76.72143930923752,16.36842321073235],[76.74019128388437,16.36747088449786],[76.73573836113,16.40546903914753]]]},"properties":{"region_id":"village_600538","name":"CHINCHODI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49592459317391,12.5161094762593],[75.48620754464677,12.51898590275765],[75.48516359593872,12.51166995659103],[75.49075358580811,12.50835329135077],[75.49592459317391,12.5161094762593]]]},"properties":{"region_id":"village_617773","name":"SAMPAJE","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

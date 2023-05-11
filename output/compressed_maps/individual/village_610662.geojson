@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41162604433465,13.94551483524624],[77.42693006599126,13.98674699776136],[77.38135252378866,13.97592874427196],[77.41162604433465,13.94551483524624]]]},"properties":{"region_id":"village_610662","name":"GUMMAGATTA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

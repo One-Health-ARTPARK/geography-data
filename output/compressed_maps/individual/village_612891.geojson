@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60968850775754,13.1751909768174],[77.6236470506832,13.17465411507939],[77.62565792989787,13.18161663551687],[77.61410903099444,13.18334333981264],[77.60968850775754,13.1751909768174]]]},"properties":{"region_id":"village_612891","name":"BYANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

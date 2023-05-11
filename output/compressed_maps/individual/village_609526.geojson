@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02304500489754,13.49889978580091],[76.00588243995726,13.51076617358983],[76.0095798727978,13.48998284387149],[76.02304500489754,13.49889978580091]]]},"properties":{"region_id":"village_609526","name":"MARADIHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

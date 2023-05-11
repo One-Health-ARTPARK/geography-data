@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60804245982415,12.33915153546323],[75.58678117628469,12.35545318877766],[75.58745841024205,12.32718849682097],[75.60525350222949,12.33040305090646],[75.60804245982415,12.33915153546323]]]},"properties":{"region_id":"village_923891","name":"DODDAPULIKOTU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

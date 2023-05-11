@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87080124231562,14.05525850053307],[75.89597628375614,14.05772075064131],[75.89467354089643,14.06953011897993],[75.87382755841466,14.06459124125849],[75.87080124231562,14.05525850053307]]]},"properties":{"region_id":"village_607029","name":"GALIHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

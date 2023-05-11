@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90270798312329,12.73180770101535],[75.90030356215047,12.73532969795306],[75.89436402655971,12.73360442336067],[75.89835033461073,12.72977869339264],[75.90270798312329,12.73180770101535]]]},"properties":{"region_id":"village_939738","name":"KEREHALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

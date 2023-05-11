@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78626793642876,14.39156902781611],[75.76201249361296,14.35816595977212],[75.79281403008343,14.35824924960215],[75.78626793642876,14.39156902781611]]]},"properties":{"region_id":"village_606237","name":"NITTUR","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

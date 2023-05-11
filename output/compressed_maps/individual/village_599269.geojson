@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02350870611889,17.05528163046325],[76.01181367846351,17.0761328730067],[75.97324866273334,17.0589657485298],[75.985929673944,17.03329205855918],[76.02350870611889,17.05528163046325]]]},"properties":{"region_id":"village_599269","name":"GORNAL","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

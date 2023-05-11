@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32748863051623,12.3954838493144],[76.30674958397508,12.3897440325689],[76.31258590102856,12.38437951118287],[76.32896799287083,12.38706854992235],[76.32748863051623,12.3954838493144]]]},"properties":{"region_id":"village_618306","name":"MANUGANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

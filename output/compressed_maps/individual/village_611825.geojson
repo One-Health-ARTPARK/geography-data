@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94509309190566,13.33073420218251],[76.92757775918368,13.33282975961774],[76.92980804650368,13.31600454768479],[76.93987762451852,13.31658334103606],[76.94509309190566,13.33073420218251]]]},"properties":{"region_id":"village_611825","name":"CHINNASETTYHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

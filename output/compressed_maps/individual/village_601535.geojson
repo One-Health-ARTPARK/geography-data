@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36730463223721,15.74072863534668],[76.34988519210052,15.74667187848386],[76.34774971791651,15.72987644309931],[76.36500525466236,15.72583224233443],[76.36730463223721,15.74072863534668]]]},"properties":{"region_id":"village_601535","name":"BACHINHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

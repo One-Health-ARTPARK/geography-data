@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.31968173139545,14.6519914260652],[74.33501919028399,14.66505315772165],[74.32894363104766,14.66769222491316],[74.32042362203231,14.66155493673016],[74.31968173139545,14.6519914260652]]]},"properties":{"region_id":"village_603361","name":"HOSGADDE","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

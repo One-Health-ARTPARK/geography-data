@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31320186859857,14.37995591447046],[75.3123672055018,14.38722195282291],[75.29755100726635,14.38707452226597],[75.29772657164372,14.37854613948968],[75.31320186859857,14.37995591447046]]]},"properties":{"region_id":"village_607736","name":"BOGHASAMUDRA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

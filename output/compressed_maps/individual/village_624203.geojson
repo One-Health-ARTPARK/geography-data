@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93400844543667,13.36473087844893],[77.92156281797993,13.37728448167739],[77.91481317092722,13.36047368629273],[77.93400844543667,13.36473087844893]]]},"properties":{"region_id":"village_624203","name":"HUJAGUR","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

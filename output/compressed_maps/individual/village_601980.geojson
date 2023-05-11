@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99740709549145,15.74788026544313],[75.98535888095871,15.74131180738421],[75.99107928773665,15.70708878219914],[76.0042177186644,15.71190965198841],[76.0071568344007,15.73369074473605],[75.99740709549145,15.74788026544313]]]},"properties":{"region_id":"village_601980","name":"GOUDAGERI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

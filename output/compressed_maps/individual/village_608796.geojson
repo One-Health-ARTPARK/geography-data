@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81808498468237,13.45358144523842],[74.80810215268374,13.4633808930707],[74.76194774779731,13.45042585224813],[74.78274940756057,13.42953275664757],[74.80098457563452,13.44641751252552],[74.81808498468237,13.45358144523842]]]},"properties":{"region_id":"village_608796","name":"NEELAVAR","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

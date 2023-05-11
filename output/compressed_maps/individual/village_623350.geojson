@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54978270940471,13.5634184452905],[77.53527027180556,13.56150203143455],[77.53413760442879,13.54773748486811],[77.54938900716178,13.54787482437367],[77.54978270940471,13.5634184452905]]]},"properties":{"region_id":"village_623350","name":"RAYAREKALAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

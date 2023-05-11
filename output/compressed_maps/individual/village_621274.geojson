@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33864885760318,16.83891474814767],[77.28868670449829,16.83162891345637],[77.30942963987765,16.80927124912074],[77.34517570868815,16.80839860145973],[77.33864885760318,16.83891474814767]]]},"properties":{"region_id":"village_621274","name":"CHINTENPALLI","parent":"subdistrict_7094","parent_name":"GURUMITKAL"}}
+]}

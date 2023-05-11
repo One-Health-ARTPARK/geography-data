@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81206950199513,14.53100427926699],[74.80324748460755,14.52702376440655],[74.81116871645969,14.52234061893056],[74.81206950199513,14.53100427926699]]]},"properties":{"region_id":"village_603244","name":"BALGAR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

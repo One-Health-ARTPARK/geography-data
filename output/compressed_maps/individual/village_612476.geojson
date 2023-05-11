@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9598858051779,12.99845468813012],[76.94642756963283,13.00129398356228],[76.94692968253769,12.98871752848473],[76.95389121396082,12.98200390870752],[76.9598858051779,12.99845468813012]]]},"properties":{"region_id":"village_612476","name":"KAGGERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

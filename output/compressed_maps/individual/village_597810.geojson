@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.28437951687147,15.74038683363016],[74.23479180571917,15.74024416066339],[74.24596188082592,15.71283798375387],[74.28437951687147,15.74038683363016]]]},"properties":{"region_id":"village_597810","name":"TALAWADE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

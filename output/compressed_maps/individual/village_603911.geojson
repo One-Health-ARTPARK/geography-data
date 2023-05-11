@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19180759093966,14.9513804765202],[75.19377419290612,14.96497155172472],[75.17532758737119,14.9665193512745],[75.16949486444987,14.94606759452884],[75.19180759093966,14.9513804765202]]]},"properties":{"region_id":"village_603911","name":"CHANDAPUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

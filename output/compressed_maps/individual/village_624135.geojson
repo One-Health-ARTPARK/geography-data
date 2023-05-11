@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97261940076385,13.50657463068007],[77.96689383893147,13.51135199707347],[77.95442806874996,13.49864987588192],[77.96169138589012,13.49472757747933],[77.97261940076385,13.50657463068007]]]},"properties":{"region_id":"village_624135","name":"CHOKKANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

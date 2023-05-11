@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96480683649241,12.90056177729264],[75.95721775319677,12.90843496536989],[75.94886132068225,12.90144336718468],[75.95914221493321,12.89459969069119],[75.96480683649241,12.90056177729264]]]},"properties":{"region_id":"village_616373","name":"SINDHUVALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

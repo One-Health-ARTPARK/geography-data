@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05198636882292,13.02871954678552],[75.03633552288512,13.0356155962804],[75.01458607703921,13.02425969455923],[75.01136583152284,13.0110107203091],[75.04692497274287,13.01807815778616],[75.05198636882292,13.02871954678552]]]},"properties":{"region_id":"village_617458","name":"PUCHHAMOGURU","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

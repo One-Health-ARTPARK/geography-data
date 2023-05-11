@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25110519604989,12.88610226695494],[75.22142242847657,12.87406703004327],[75.23010178706134,12.85835022381293],[75.25626039168985,12.86719317169451],[75.25110519604989,12.88610226695494]]]},"properties":{"region_id":"village_617668","name":"KARAYA","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

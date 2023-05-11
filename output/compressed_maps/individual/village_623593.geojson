@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61927699788168,13.45617454958531],[77.67313467065347,13.46704414958957],[77.65719304690033,13.47150004245212],[77.63486502587277,13.46175380968519],[77.62192085788529,13.46944295101293],[77.61927699788168,13.45617454958531]]]},"properties":{"region_id":"village_623593","name":"POSETTIHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

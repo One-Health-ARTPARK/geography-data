@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98820583225732,16.40623494450974],[76.97366178192938,16.3978558100925],[76.99349462753344,16.38760085078875],[77.00255060589805,16.40244789312322],[76.98820583225732,16.40623494450974]]]},"properties":{"region_id":"village_600629","name":"CHICKHONKUNI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

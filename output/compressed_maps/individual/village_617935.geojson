@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83660432941466,12.60321748810289],[75.84056398002674,12.59465351902793],[75.85501991239644,12.60001361846129],[75.84312336523892,12.61355418144368],[75.83660432941466,12.60321748810289]]]},"properties":{"region_id":"village_617935","name":"CHOUDLU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

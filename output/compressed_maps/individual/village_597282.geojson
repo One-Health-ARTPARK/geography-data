@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80555960071368,16.60498760391411],[74.80736990909992,16.63365668798432],[74.78820101830271,16.63002137281835],[74.77796410596112,16.61055635121064],[74.80555960071368,16.60498760391411]]]},"properties":{"region_id":"village_597282","name":"KUSNAL","parent":"subdistrict_7100","parent_name":"KAGWAD"}}
+]}

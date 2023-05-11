@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79431274578228,13.94347839018291],[75.77906851149692,13.93820133894481],[75.80223652353472,13.91828751950718],[75.80825535823688,13.93857562039981],[75.79431274578228,13.94347839018291]]]},"properties":{"region_id":"village_608570","name":"NAGOLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

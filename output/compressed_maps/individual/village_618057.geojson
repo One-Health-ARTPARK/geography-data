@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02549673338103,12.10914346757859],[76.02027387286851,12.11876007188019],[75.9973779808719,12.10890916308762],[76.01654371878513,12.09337222148057],[76.02549673338103,12.10914346757859]]]},"properties":{"region_id":"village_618057","name":"BEKKE SODLUR","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

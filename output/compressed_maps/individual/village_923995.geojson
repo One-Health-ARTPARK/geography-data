@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95162063858776,12.52403159785384],[75.93817794463733,12.53322830965417],[75.92396248967496,12.51637717726125],[75.94361779524235,12.51485001789763],[75.95162063858776,12.52403159785384]]]},"properties":{"region_id":"village_923995","name":"SEEGEHOSURU","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

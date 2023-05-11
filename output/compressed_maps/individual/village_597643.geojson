@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.39178680204543,16.08144416717833],[74.37236752145378,16.07850146119929],[74.38216989352016,16.05376524230257],[74.39778563180911,16.05937286260943],[74.39178680204543,16.08144416717833]]]},"properties":{"region_id":"village_597643","name":"SHETTIHALLI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

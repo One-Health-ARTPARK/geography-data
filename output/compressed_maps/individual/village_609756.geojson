@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87944034717319,13.4291533456655],[75.86399340911048,13.43503891196957],[75.86608767809112,13.41800144849782],[75.88459102271602,13.41580997730473],[75.87944034717319,13.4291533456655]]]},"properties":{"region_id":"village_609756","name":"GUNGARAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

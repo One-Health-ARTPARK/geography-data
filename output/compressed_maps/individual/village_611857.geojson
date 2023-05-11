@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97580817188161,13.20544695085481],[76.96721519116724,13.21126176319309],[76.95076858404178,13.20937575386784],[76.9545685282655,13.20272266058803],[76.97580817188161,13.20544695085481]]]},"properties":{"region_id":"village_611857","name":"VODDARAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

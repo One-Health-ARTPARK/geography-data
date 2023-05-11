@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76117351452858,12.67507095171403],[75.71329177823225,12.70746109158727],[75.66667612287186,12.69837632349333],[75.64774522062805,12.66548169133294],[75.71112873125816,12.65712022912014],[75.76117351452858,12.67507095171403]]]},"properties":{"region_id":"village_617918","name":"KUMARALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

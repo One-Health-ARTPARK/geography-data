@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80227646567909,16.43173826173961],[75.78559226437471,16.42998400164888],[75.79757500346739,16.41868625041065],[75.80227646567909,16.43173826173961]]]},"properties":{"region_id":"village_599474","name":"SULAKHOD","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

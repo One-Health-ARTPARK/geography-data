@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02022947146861,13.00048933916637],[77.00511470605083,13.00205446976436],[77.0071735105709,12.99276599847026],[77.02022947146861,13.00048933916637]]]},"properties":{"region_id":"village_612605","name":"HERUR","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

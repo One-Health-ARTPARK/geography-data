@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38516636073476,12.65060321377464],[75.3531691083597,12.6123704354492],[75.39966808483409,12.60297698632992],[75.38516636073476,12.65060321377464]]]},"properties":{"region_id":"village_617759","name":"AIVARNADU","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

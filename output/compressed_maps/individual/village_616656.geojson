@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12273688540407,12.69624173279474],[76.11715124350488,12.67869731769],[76.13000389491934,12.66276466032301],[76.12767924199855,12.68786077563605],[76.12273688540407,12.69624173279474]]]},"properties":{"region_id":"village_616656","name":"KORTIKERE KAVAL","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

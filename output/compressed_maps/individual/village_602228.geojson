@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98646778250968,15.53401769160001],[74.96054305191595,15.52476952332428],[74.98122534029102,15.51934429791391],[74.98646778250968,15.53401769160001]]]},"properties":{"region_id":"village_602228","name":"DEVAGIRI-M-NARENDRA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

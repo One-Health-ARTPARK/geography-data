@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88901675280016,12.93899535978164],[77.87456355837337,12.92149320534951],[77.89468975808951,12.91524083777598],[77.88901675280016,12.93899535978164]]]},"properties":{"region_id":"village_622245","name":"LAKKUR","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

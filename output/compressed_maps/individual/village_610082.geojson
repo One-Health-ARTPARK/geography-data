@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5366180576869,13.45145907070568],[76.5089207985793,13.43955774384237],[76.53285480753333,13.43213600720895],[76.5366180576869,13.45145907070568]]]},"properties":{"region_id":"village_610082","name":"BEVINAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16104485932806,15.02264988008009],[76.21439948451805,15.01063842131004],[76.2063373870735,15.03059261096581],[76.16104485932806,15.02264988008009]]]},"properties":{"region_id":"village_604681","name":"HAREGONDANAHALLI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

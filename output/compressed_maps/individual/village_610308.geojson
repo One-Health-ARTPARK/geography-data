@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00613879866332,13.89001340356523],[76.99314236199918,13.8895489407463],[76.99200858211391,13.84903861736772],[77.01843778075995,13.87228786703468],[77.00613879866332,13.89001340356523]]]},"properties":{"region_id":"village_610308","name":"KALLAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

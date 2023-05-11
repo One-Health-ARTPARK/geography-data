@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98326361947817,13.56071555975654],[77.9675044306415,13.55903110874087],[77.96898607586668,13.54594546130141],[77.97439389421761,13.54267540949499],[77.98326361947817,13.56071555975654]]]},"properties":{"region_id":"village_624340","name":"KORLAPARTHI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

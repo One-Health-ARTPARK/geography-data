@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87782399433559,16.74772439083066],[74.79824213127213,16.75375792037649],[74.80141952538949,16.71636949817552],[74.84069216709369,16.69071875294954],[74.8712587850569,16.70718346282939],[74.87782399433559,16.74772439083066]]]},"properties":{"region_id":"village_597288","name":"MANGASULI","parent":"subdistrict_7100","parent_name":"KAGWAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18379797346331,16.45067407395095],[76.15859400772851,16.45161449013357],[76.15470433076686,16.43259459264907],[76.18114959975766,16.42347061541028],[76.18379797346331,16.45067407395095]]]},"properties":{"region_id":"village_599594","name":"BALAWAT","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

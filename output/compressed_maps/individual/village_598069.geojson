@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80701802730928,15.79013994925173],[74.78810519204592,15.7884581943371],[74.78634307418177,15.76565373388981],[74.80868823425301,15.76940129751205],[74.80701802730928,15.79013994925173]]]},"properties":{"region_id":"village_598069","name":"YARADAL","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

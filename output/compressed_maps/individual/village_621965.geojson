@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.28314149523574,13.22159857743008],[78.25310555012734,13.21908909167754],[78.26626468046197,13.20857642737655],[78.28295700029099,13.20955396787826],[78.28314149523574,13.22159857743008]]]},"properties":{"region_id":"village_621965","name":"KAMMASANDRA","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77764866769084,13.20424034037693],[75.7635142547812,13.1972675303341],[75.77914964436616,13.1809435101448],[75.78869749204185,13.18880368102077],[75.77764866769084,13.20424034037693]]]},"properties":{"region_id":"village_615174","name":"AGGADALU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

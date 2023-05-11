@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.43142840226605,14.51344575471724],[74.41084850152382,14.51397697140107],[74.42306195119278,14.49388193608226],[74.43142840226605,14.51344575471724]]]},"properties":{"region_id":"village_603461","name":"YATTINABAIL","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37709656900942,13.03000726701075],[77.36599835657755,13.05283696371335],[77.35129585880965,13.04148835643208],[77.37709656900942,13.03000726701075]]]},"properties":{"region_id":"village_624946","name":"GORINABELE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

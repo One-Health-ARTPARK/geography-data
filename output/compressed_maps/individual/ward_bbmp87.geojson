@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6660350001647,12.97147699968422],[77.64961799985527,12.947334000364],[77.66464600036974,12.94584700005888],[77.68939200019817,12.95022999977784],[77.68155799966554,12.96164699984972],[77.6660350001647,12.97147699968422]]]},"properties":{"region_id":"ward_bbmp87","name":"WARD NO.87 (HAL AIRPORT)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

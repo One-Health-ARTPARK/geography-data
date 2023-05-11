@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48310430049396,17.84176755590316],[77.46277334563507,17.83910752920598],[77.4775651603611,17.82371399871813],[77.48310430049396,17.84176755590316]]]},"properties":{"region_id":"village_600207","name":"QUTUBABAD","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

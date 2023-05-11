@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46716256086776,11.98725461461158],[76.44778799947825,12.00270593643974],[76.44275824934586,11.9783474310611],[76.46716256086776,11.98725461461158]]]},"properties":{"region_id":"village_618994","name":"HALASUR","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

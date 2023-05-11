@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4453621312781,16.18265205828802],[75.44304625796053,16.21881887648674],[75.43319951252128,16.21591379013345],[75.4453621312781,16.18265205828802]]]},"properties":{"region_id":"village_598607","name":"BADNUR","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

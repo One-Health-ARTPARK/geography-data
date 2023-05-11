@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96761752514992,13.23730958515828],[75.95246770824708,13.25033372354327],[75.9447492627928,13.22138241060811],[75.96761752514992,13.23730958515828]]]},"properties":{"region_id":"village_615256","name":"KALLUSETTIHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

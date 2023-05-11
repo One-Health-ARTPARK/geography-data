@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03642010218249,12.93017722156313],[75.01945101214557,12.94149232800099],[74.99670780173798,12.9261708315724],[75.00940136076812,12.91147649348113],[75.03642010218249,12.93017722156313]]]},"properties":{"region_id":"village_617531","name":"KURIYALA","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

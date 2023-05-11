@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53939831118417,16.56853083843652],[76.56598273305538,16.53641519838028],[76.58060170317424,16.56442763623074],[76.53939831118417,16.56853083843652]]]},"properties":{"region_id":"village_620929","name":"BAICHBAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

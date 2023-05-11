@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33158243857608,15.82348311762969],[76.29920340032729,15.80264903614816],[76.32721514687888,15.79901455164167],[76.33158243857608,15.82348311762969]]]},"properties":{"region_id":"village_601528","name":"JUMLAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

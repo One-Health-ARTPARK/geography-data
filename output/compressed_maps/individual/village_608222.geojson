@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19951020129035,13.64134850634151],[75.18417571749119,13.6344328280389],[75.18259301305237,13.62325970704916],[75.20420427559488,13.62966248809822],[75.19951020129035,13.64134850634151]]]},"properties":{"region_id":"village_608222","name":"BOGARUKOPPA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82993987049935,14.48750894874101],[75.815963139524,14.48797492813103],[75.81526745533165,14.47301425981541],[75.82579377487299,14.46293248798096],[75.82993987049935,14.48750894874101]]]},"properties":{"region_id":"village_606542","name":"AGASANAKATTE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

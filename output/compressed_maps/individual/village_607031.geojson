@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92321271995361,14.05663701857878],[75.91572914357249,14.05325186646619],[75.91480379009872,14.04054290612149],[75.92695807316363,14.04213208416185],[75.92321271995361,14.05663701857878]]]},"properties":{"region_id":"village_607031","name":"BUSSENAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

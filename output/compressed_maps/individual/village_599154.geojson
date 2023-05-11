@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5968125125662,16.49654207877972],[75.57547404399567,16.50514138887522],[75.56614069859748,16.48398041476905],[75.59374010475749,16.48270345922148],[75.5968125125662,16.49654207877972]]]},"properties":{"region_id":"village_599154","name":"MANGALUR","parent":"subdistrict_7069","parent_name":"BABALESHWAR"}}
+]}

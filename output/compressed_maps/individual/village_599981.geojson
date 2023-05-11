@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3950646738545,18.36955607235403],[77.40094733603607,18.40228853981858],[77.36670010867542,18.39222414973174],[77.3950646738545,18.36955607235403]]]},"properties":{"region_id":"village_599981","name":"HANGERGA","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

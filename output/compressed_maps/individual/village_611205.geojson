@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24054920124443,13.39815262544034],[77.22139622525009,13.39244116550713],[77.24457586153372,13.37662253270272],[77.24054920124443,13.39815262544034]]]},"properties":{"region_id":"village_611205","name":"D.NAGENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

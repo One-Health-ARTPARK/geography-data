@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02605406588484,16.743390672322],[77.00250744531141,16.72754721721516],[76.99499899342086,16.70575297123438],[77.02040686822654,16.68241522664812],[77.02605406588484,16.743390672322]]]},"properties":{"region_id":"village_621148","name":"KHANAPUR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

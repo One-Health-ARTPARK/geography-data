@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59766699997799,12.93988600004509],[77.59250400005602,12.92847900040593],[77.60052799974706,12.92833500031566],[77.59766699997799,12.93988600004509]]]},"properties":{"region_id":"ward_bbmp153","name":"WARD NO.153 (JAYANAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8914845497041,14.80337646170788],[75.86584063175769,14.83168272214967],[75.84769597616769,14.80417926653691],[75.8914845497041,14.80337646170788]]]},"properties":{"region_id":"village_606294","name":"HULIKATTI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

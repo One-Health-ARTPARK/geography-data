@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88496116347768,12.57870579609555],[75.89136746729878,12.57117646958315],[75.89736361674072,12.57547139879026],[75.89302262751067,12.58076073682186],[75.88496116347768,12.57870579609555]]]},"properties":{"region_id":"village_939058","name":"CHIKKABURU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

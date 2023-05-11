@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33676830317809,13.6844154057329],[77.34076029671785,13.69983802524314],[77.33228680912703,13.69951545802717],[77.33676830317809,13.6844154057329]]]},"properties":{"region_id":"village_610934","name":"KEMPAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

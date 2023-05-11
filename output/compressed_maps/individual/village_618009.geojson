@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83598083077139,12.25152888689394],[75.81066479910291,12.24724877785555],[75.80497854828042,12.2332885833416],[75.82624430485248,12.22095758156216],[75.8277152233735,12.24318847690658],[75.83598083077139,12.25152888689394]]]},"properties":{"region_id":"village_618009","name":"CHEMBE BELLIYUR","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

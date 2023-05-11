@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53199961150041,13.54138123411654],[76.51560482038195,13.56059045534852],[76.49409033528272,13.54640325253086],[76.51826893047941,13.53129965718096],[76.53199961150041,13.54138123411654]]]},"properties":{"region_id":"village_610125","name":"SHEGEBAGI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

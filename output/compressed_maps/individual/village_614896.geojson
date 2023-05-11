@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75679411325494,12.92104526768635],[75.74907618791005,12.92389211967958],[75.73895432240656,12.92300011614681],[75.7545317879168,12.91485227482927],[75.75679411325494,12.92104526768635]]]},"properties":{"region_id":"village_614896","name":"DONIGAL","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79360281988792,16.28536956865011],[74.80397819280715,16.29573345136943],[74.78678002261924,16.31550132559574],[74.77568561118413,16.29309639113983],[74.79360281988792,16.28536956865011]]]},"properties":{"region_id":"village_597434","name":"PAMALADINNI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66995675881289,17.22538834669339],[76.62296289777176,17.21212854423144],[76.63953713108016,17.18814294340363],[76.68645373163444,17.1831986843233],[76.67157232407158,17.20527025699521],[76.66995675881289,17.22538834669339]]]},"properties":{"region_id":"village_620167","name":"BIDNUR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

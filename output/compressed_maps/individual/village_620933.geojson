@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4518405873172,16.51695342448393],[76.44885911740042,16.53309148379408],[76.43070601243019,16.52748776308018],[76.43411829649769,16.51873766359487],[76.4518405873172,16.51695342448393]]]},"properties":{"region_id":"village_620933","name":"SALGUNDA (D)","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

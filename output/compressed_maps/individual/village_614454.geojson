@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96444571434175,12.56673579955309],[76.97198954058403,12.57020360013878],[76.96994568547495,12.58574950792524],[76.96439071792031,12.58565403639609],[76.96444571434175,12.56673579955309]]]},"properties":{"region_id":"village_614454","name":"KACHIGERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

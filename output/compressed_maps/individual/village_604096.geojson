@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16214855904853,14.78244479700854],[75.1446654538926,14.78632687535786],[75.15142252172585,14.76847215350568],[75.16214855904853,14.78244479700854]]]},"properties":{"region_id":"village_604096","name":"KUNTANHOSAHALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

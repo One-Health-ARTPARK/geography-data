@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66282724355983,13.87873411089135],[75.65113711604998,13.86797364079957],[75.66790066515384,13.8584167544797],[75.67731302460379,13.8669456984273],[75.66282724355983,13.87873411089135]]]},"properties":{"region_id":"village_938572","name":"JEDIKATTE","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

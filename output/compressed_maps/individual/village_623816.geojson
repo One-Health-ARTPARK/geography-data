@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80386191940163,13.8428395132566],[77.78226315214516,13.84388716411626],[77.78905083221179,13.82927695618331],[77.80386191940163,13.8428395132566]]]},"properties":{"region_id":"village_623816","name":"JINAJIRLU","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

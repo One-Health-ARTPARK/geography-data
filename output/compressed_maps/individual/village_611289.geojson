@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02413383602423,13.37351182436736],[77.00873058915896,13.37171054466056],[77.00475984832507,13.35834571179588],[77.01879104229208,13.35369411557629],[77.02413383602423,13.37351182436736]]]},"properties":{"region_id":"village_611289","name":"DODDANARAVANGALA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

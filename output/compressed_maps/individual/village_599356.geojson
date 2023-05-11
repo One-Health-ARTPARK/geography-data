@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.388759342712,16.90032048880588],[76.37622411724212,16.85805674346024],[76.40442468904311,16.85864195149517],[76.388759342712,16.90032048880588]]]},"properties":{"region_id":"village_599356","name":"NANDGERI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

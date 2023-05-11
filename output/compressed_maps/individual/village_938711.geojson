@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03985272915843,15.38342215713912],[75.07475104445234,15.39450859582863],[75.05981914783229,15.40533693316887],[75.04189463032174,15.40134839517098],[75.03985272915843,15.38342215713912]]]},"properties":{"region_id":"village_938711","name":"SUTAGATTI","parent":"subdistrict_7079","parent_name":"HUBBALLI URBAN"}}
+]}

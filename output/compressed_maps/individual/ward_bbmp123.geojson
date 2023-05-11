@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53791499994742,12.97204399995353],[77.54952799972612,12.96820100020729],[77.55073999996063,12.97376799978601],[77.53791499994742,12.97204399995353]]]},"properties":{"region_id":"ward_bbmp123","name":"WARD NO.123 (VIJAYANAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

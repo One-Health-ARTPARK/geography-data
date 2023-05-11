@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33321979438313,13.59569772752151],[76.3679531697461,13.58979290633465],[76.3685207977807,13.61334140524941],[76.3290038224475,13.61946092939626],[76.33321979438313,13.59569772752151]]]},"properties":{"region_id":"village_605989","name":"TANDAGA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

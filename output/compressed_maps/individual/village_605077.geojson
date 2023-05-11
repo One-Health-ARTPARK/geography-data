@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37104195906028,14.92402516844237],[76.35359473476412,14.92286772443847],[76.33590640051455,14.891233871439],[76.36408555115193,14.87645255090912],[76.37104195906028,14.92402516844237]]]},"properties":{"region_id":"village_605077","name":"KUPPINAKERI","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

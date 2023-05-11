@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06101736566686,14.22235887722628],[76.07241424222971,14.22651165628132],[76.07941927083127,14.24961278884541],[76.05338931891325,14.24351956222158],[76.06101736566686,14.22235887722628]]]},"properties":{"region_id":"village_606707","name":"KYATANAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

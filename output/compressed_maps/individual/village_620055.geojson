@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39320758908876,17.47209761647247],[76.32951587083693,17.47058471154788],[76.33281504470779,17.43468580767804],[76.38437516453502,17.44001048824064],[76.39320758908876,17.47209761647247]]]},"properties":{"region_id":"village_620055","name":"MADAN HIPPERGA","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16989305843323,18.11699976669556],[77.15827978564943,18.13843667054887],[77.13316022599024,18.11924467703272],[77.15822270937173,18.10438132230421],[77.16989305843323,18.11699976669556]]]},"properties":{"region_id":"village_599869","name":"LANJWADA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

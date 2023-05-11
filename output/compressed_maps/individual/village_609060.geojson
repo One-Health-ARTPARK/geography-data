@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4801015821728,13.61514687320235],[75.44725994810821,13.6061895957682],[75.46313760967448,13.59330777981862],[75.4801015821728,13.61514687320235]]]},"properties":{"region_id":"village_609060","name":"SHIMSE","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

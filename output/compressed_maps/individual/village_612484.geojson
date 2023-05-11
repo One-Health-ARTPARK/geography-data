@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88313300486085,12.98987308283657],[76.86709145772414,12.98772407315717],[76.86701446467113,12.97713030335562],[76.88123802380707,12.97825958023236],[76.88313300486085,12.98987308283657]]]},"properties":{"region_id":"village_612484","name":"CHAKENAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

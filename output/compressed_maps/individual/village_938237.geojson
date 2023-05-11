@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68229880357724,13.05089431946988],[77.66586648510074,13.05016543119727],[77.66491188320694,13.03254304530141],[77.68372504340722,13.0230977638157],[77.68229880357724,13.05089431946988]]]},"properties":{"region_id":"village_938237","name":"KALKERE","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

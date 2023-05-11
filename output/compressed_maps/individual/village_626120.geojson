@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41554783371966,12.81097700505236],[77.40173814851143,12.81295368589516],[77.39514741182711,12.79617172939037],[77.41084949088865,12.7960572021864],[77.41554783371966,12.81097700505236]]]},"properties":{"region_id":"village_626120","name":"BILLAKEMPANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

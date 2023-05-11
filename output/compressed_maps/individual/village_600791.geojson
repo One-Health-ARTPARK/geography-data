@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46565136751822,16.18702977139318],[77.45820354422816,16.20271552698354],[77.44000484616694,16.20865266334749],[77.45047746090283,16.17077841021523],[77.46565136751822,16.18702977139318]]]},"properties":{"region_id":"village_600791","name":"BAIDODDI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

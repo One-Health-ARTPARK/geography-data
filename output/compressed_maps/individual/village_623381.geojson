@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55890090135513,13.49361756718612],[77.53237205074284,13.5003310521182],[77.53249532044079,13.48459762370261],[77.54555844915318,13.4768332484666],[77.55890090135513,13.49361756718612]]]},"properties":{"region_id":"village_623381","name":"BELATHUR","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

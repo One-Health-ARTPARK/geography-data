@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08123389695523,16.31310035633406],[77.06202188561052,16.33580257500007],[77.05152869789643,16.31248093577046],[77.08123389695523,16.31310035633406]]]},"properties":{"region_id":"village_600684","name":"JINNAPUR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

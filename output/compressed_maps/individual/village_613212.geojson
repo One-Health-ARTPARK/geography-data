@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.778889801613,12.93068571660126],[77.77499896399429,12.93953899449521],[77.76528225970495,12.94229949381435],[77.76509842667981,12.930256517513],[77.778889801613,12.93068571660126]]]},"properties":{"region_id":"village_613212","name":"CHIKKANEKKUNDI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

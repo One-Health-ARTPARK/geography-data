@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72877665169781,12.18139771108656],[76.69638693686547,12.16096597438931],[76.70544656590103,12.14028519750526],[76.72309524307187,12.15134458917424],[76.71384586202302,12.17079410318616],[76.72877665169781,12.18139771108656]]]},"properties":{"region_id":"village_619195","name":"IMMAVU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

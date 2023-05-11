@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53892419648562,15.49013777315509],[75.5311504403747,15.51701707488514],[75.50170299318732,15.50661822705224],[75.50837102138757,15.48549071691583],[75.53892419648562,15.49013777315509]]]},"properties":{"region_id":"village_601997","name":"BELAHOD","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

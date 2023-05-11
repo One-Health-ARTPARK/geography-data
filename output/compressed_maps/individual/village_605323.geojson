@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53651978791332,14.32237174048913],[76.52587515504511,14.28914670599794],[76.54752897218499,14.29588393682767],[76.53651978791332,14.32237174048913]]]},"properties":{"region_id":"village_605323","name":"JANNENAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

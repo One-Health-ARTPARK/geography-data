@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91908634318091,13.59935565957992],[75.87611321389801,13.60480961836382],[75.90025157047559,13.57617173946109],[75.91908634318091,13.59935565957992]]]},"properties":{"region_id":"village_609367","name":"BALLIGANUR","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

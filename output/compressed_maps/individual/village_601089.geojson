@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63785393085499,15.78620944496586],[76.64221712626116,15.81447138769937],[76.61870764987233,15.82401867303442],[76.61293286014936,15.7879890873198],[76.63785393085499,15.78620944496586]]]},"properties":{"region_id":"village_601089","name":"TIDGOL","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

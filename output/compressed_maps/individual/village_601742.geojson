@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04532604086994,15.25021288401626],[76.02418381028586,15.25402186454671],[76.01892032840027,15.18355282920465],[76.06836390792246,15.19107661490441],[76.04532604086994,15.25021288401626]]]},"properties":{"region_id":"village_601742","name":"BETGERA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

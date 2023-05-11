@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12104501259314,13.65216319963309],[76.12652446631498,13.67674107624144],[76.10304062841205,13.67440710207745],[76.10297624716479,13.65285305436465],[76.12104501259314,13.65216319963309]]]},"properties":{"region_id":"village_609411","name":"HIREBALLEKERE","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

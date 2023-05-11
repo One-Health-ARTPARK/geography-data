@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39163462589111,13.51126473852536],[76.38246993682657,13.50476086399522],[76.39277163479818,13.48836777562679],[76.39824525218987,13.50931057941164],[76.39163462589111,13.51126473852536]]]},"properties":{"region_id":"village_615645","name":"MADDARAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

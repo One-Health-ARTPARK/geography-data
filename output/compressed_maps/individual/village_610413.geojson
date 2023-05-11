@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81089418235034,13.69901449105866],[76.79295863777635,13.69271858635371],[76.79300439608791,13.66761488002348],[76.81626561185358,13.68710103916831],[76.81089418235034,13.69901449105866]]]},"properties":{"region_id":"village_610413","name":"HUILDORE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

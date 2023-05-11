@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76688762523959,12.2026916618624],[76.73503282389922,12.20059375358159],[76.72571049672412,12.18633391227411],[76.73871345386469,12.15914035809471],[76.76450702624665,12.16386824319603],[76.76688762523959,12.2026916618624]]]},"properties":{"region_id":"village_619198","name":"HADINARU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

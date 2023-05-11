@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76832189571073,12.82936989700434],[77.75926716286548,12.82403396952069],[77.76461571436438,12.81247967125562],[77.77399164430952,12.8156941691719],[77.76832189571073,12.82936989700434]]]},"properties":{"region_id":"village_613224","name":"HANDENAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91406613086218,15.32749766047477],[76.8986854323536,15.32157457201823],[76.9057111402712,15.30069465976063],[76.9148888701742,15.2995673264318],[76.91406613086218,15.32749766047477]]]},"properties":{"region_id":"village_604878","name":"SINGADEVANAHALLI","parent":"subdistrict_7109","parent_name":"KURUGODU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36119863136096,12.85425850338206],[77.34927900777554,12.85623819071064],[77.35201831668299,12.84349591417421],[77.36188049887346,12.84619034684012],[77.36119863136096,12.85425850338206]]]},"properties":{"region_id":"village_626097","name":"GANAKALLU","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

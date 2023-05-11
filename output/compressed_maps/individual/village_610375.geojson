@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02911396453743,13.72422544378487],[77.01361304380306,13.73925225855723],[76.99848913298723,13.71877705799489],[77.00319459703583,13.70206335900076],[77.02953316762239,13.70967989920992],[77.02911396453743,13.72422544378487]]]},"properties":{"region_id":"village_610375","name":"BORASANDRA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

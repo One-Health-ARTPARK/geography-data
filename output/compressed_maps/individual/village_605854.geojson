@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19839133348458,13.84373576485014],[76.18745259778089,13.81552205271278],[76.20029783798469,13.80610990018626],[76.19839133348458,13.84373576485014]]]},"properties":{"region_id":"village_605854","name":"BAGUR","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.63949150714296,16.26982344406309],[74.62478109367629,16.26210337141094],[74.63641276926158,16.24386127913839],[74.65072324933043,16.24987649463148],[74.63949150714296,16.26982344406309]]]},"properties":{"region_id":"village_597597","name":"HULLOLIHATTI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

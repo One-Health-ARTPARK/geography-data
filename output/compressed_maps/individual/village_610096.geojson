@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53991170207243,13.6631625869826],[76.5180850379983,13.64109938798684],[76.5479864810267,13.6153891096842],[76.55675131374281,13.6543302861299],[76.53991170207243,13.6631625869826]]]},"properties":{"region_id":"village_610096","name":"KENKERE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

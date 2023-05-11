@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30274190526283,12.1295490277269],[77.27645794002252,12.14178951705987],[77.26989904288403,12.0928939852509],[77.29262386526719,12.08976906474807],[77.31043610901321,12.09685719302177],[77.30274190526283,12.1295490277269]]]},"properties":{"region_id":"village_619860","name":"HULLEPURA","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

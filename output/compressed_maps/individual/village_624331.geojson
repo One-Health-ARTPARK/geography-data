@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.05237298495017,13.60407464171026],[78.03642001159315,13.59998754813929],[78.03786789595797,13.58925442873389],[78.05237298495017,13.60407464171026]]]},"properties":{"region_id":"village_624331","name":"AMANI THIMMASANIKERE","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

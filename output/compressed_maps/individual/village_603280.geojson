@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0353340917479,14.65797220616424],[75.01988236309012,14.67221282081572],[75.01471155337094,14.65620830228284],[75.0353340917479,14.65797220616424]]]},"properties":{"region_id":"village_603280","name":"WADDAL","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

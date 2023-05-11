@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01017881423857,12.85417327554267],[76.00972471496148,12.86554186097917],[75.98886042200613,12.85694522244297],[76.0006053609984,12.8493481935616],[76.01017881423857,12.85417327554267]]]},"properties":{"region_id":"village_616473","name":"SULAGODU","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

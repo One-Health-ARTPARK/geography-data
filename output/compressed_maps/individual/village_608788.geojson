@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73173735535688,13.44890042873393],[74.72419662425851,13.46627803998145],[74.71815213528464,13.44876645908943],[74.73173735535688,13.44890042873393]]]},"properties":{"region_id":"village_608788","name":"KUMRAGOD","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2648848200155,14.95259311925518],[75.2372075890408,14.94016967762602],[75.24594140644048,14.92949576339785],[75.26995582283377,14.939751315952],[75.2648848200155,14.95259311925518]]]},"properties":{"region_id":"village_603961","name":"MUNAVALLI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

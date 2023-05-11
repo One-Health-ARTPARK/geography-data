@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2101416875976,14.78852342418872],[76.2132133501867,14.80677752182777],[76.2091421219734,14.82160028141687],[76.19098276046412,14.82075710934405],[76.1952555271102,14.79687514078184],[76.2101416875976,14.78852342418872]]]},"properties":{"region_id":"village_605061","name":"CHAPPARADAHALLI","parent":"subdistrict_7108","parent_name":"KOTTURU"}}
+]}

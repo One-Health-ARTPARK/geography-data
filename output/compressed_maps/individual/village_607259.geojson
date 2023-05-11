@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1579326727765,14.08144007593361],[75.16381416253084,14.08930275414436],[75.15040537590691,14.10241863030689],[75.14449837085611,14.08380583791384],[75.1579326727765,14.08144007593361]]]},"properties":{"region_id":"village_607259","name":"HOSAGUNDA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

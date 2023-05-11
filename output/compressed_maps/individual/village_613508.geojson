@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58524883424484,12.65994113212989],[76.57501495933423,12.65448405375587],[76.59032550053358,12.64857917559035],[76.58524883424484,12.65994113212989]]]},"properties":{"region_id":"village_613508","name":"CHOWDA GHATTA","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

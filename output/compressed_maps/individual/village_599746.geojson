@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96488420974468,17.8795458932967],[76.99916793482063,17.88810851069222],[76.99234616110991,17.90351260255072],[76.96488420974468,17.8795458932967]]]},"properties":{"region_id":"village_599746","name":"YEDLAPUR","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

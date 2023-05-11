@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29992793245282,16.76247171484644],[76.27754870275355,16.7695473026378],[76.27687874511773,16.74457600341778],[76.29377286336748,16.74604210095848],[76.29992793245282,16.76247171484644]]]},"properties":{"region_id":"village_599379","name":"BASTIHAL","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

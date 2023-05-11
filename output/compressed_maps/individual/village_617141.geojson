@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4244036631763,13.16491261455711],[76.41309422183332,13.16348916577894],[76.40015189869911,13.13430372502407],[76.4227902469268,13.1355953420309],[76.4244036631763,13.16491261455711]]]},"properties":{"region_id":"village_617141","name":"VALAGEREHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

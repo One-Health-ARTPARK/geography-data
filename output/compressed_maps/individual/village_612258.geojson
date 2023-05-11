@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74264758449995,13.29325472925356],[76.74112104631477,13.30559607509284],[76.7233547088533,13.30748148211429],[76.72319384837981,13.29458277875303],[76.74264758449995,13.29325472925356]]]},"properties":{"region_id":"village_612258","name":"HONNENAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

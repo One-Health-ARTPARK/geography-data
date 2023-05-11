@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77303532571118,16.4489885445877],[75.74889669330108,16.44921161742736],[75.74573710727881,16.43112911732295],[75.76826269912517,16.43233464486363],[75.77303532571118,16.4489885445877]]]},"properties":{"region_id":"village_599464","name":"HANAMAPUR","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

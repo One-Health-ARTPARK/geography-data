@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03918772900333,14.13462890002236],[77.05524302116591,14.10493810022707],[77.07762544303998,14.127655572436],[77.03918772900333,14.13462890002236]]]},"properties":{"region_id":"village_610611","name":"GOLLANAKUNTE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

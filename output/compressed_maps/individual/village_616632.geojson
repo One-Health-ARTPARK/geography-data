@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05671284715315,12.69919596930678],[76.04677753678327,12.68533900315737],[76.06068421999144,12.68143951108369],[76.05671284715315,12.69919596930678]]]},"properties":{"region_id":"village_616632","name":"BETTADAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

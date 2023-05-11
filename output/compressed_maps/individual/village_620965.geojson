@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31103832699826,16.34552847298329],[76.29199912079464,16.33490050636406],[76.30106627064114,16.31841735281153],[76.3102149210964,16.32918512567279],[76.31103832699826,16.34552847298329]]]},"properties":{"region_id":"village_620965","name":"BASSAPUR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

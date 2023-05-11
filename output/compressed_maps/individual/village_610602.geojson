@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19951305244707,14.12945200491409],[77.16188849947325,14.13298710744883],[77.1503727892122,14.10732319103517],[77.20027247457551,14.1059089854478],[77.19951305244707,14.12945200491409]]]},"properties":{"region_id":"village_610602","name":"MUGADALBETTA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

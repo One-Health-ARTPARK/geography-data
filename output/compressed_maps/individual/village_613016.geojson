@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43308361143367,12.91482940853211],[77.41730105296101,12.91480658752319],[77.40986656034146,12.89720768657326],[77.42458106116757,12.89698690566419],[77.43308361143367,12.91482940853211]]]},"properties":{"region_id":"village_613016","name":"RAMOHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

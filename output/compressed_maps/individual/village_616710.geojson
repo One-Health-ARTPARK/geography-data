@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94956719696735,12.59213636966392],[75.9551785239351,12.57673035938373],[75.97357845068495,12.57702769487154],[75.96911966842593,12.59317557146231],[75.94956719696735,12.59213636966392]]]},"properties":{"region_id":"village_616710","name":"KANTENAHALLI KAVAL","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

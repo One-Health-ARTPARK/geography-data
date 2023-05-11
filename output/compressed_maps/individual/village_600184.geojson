@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52360078245059,17.87365615160184],[77.52786523020674,17.87400753160518],[77.53154973747233,17.88315260647839],[77.52777211842111,17.88353160902836],[77.52360078245059,17.87365615160184]]]},"properties":{"region_id":"village_600184","name":"BAGE-E-GORNALLI","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

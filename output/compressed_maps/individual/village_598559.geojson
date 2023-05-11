@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13469056427695,16.35618528800167],[75.10280471224613,16.36918703010517],[75.1060031332306,16.32766250843856],[75.13075050148115,16.33100360423293],[75.13469056427695,16.35618528800167]]]},"properties":{"region_id":"village_598559","name":"NANDAGAVI","parent":"subdistrict_7063","parent_name":"RABAKAVI BANAHATTI"}}
+]}

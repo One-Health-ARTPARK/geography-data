@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50408726181406,15.5007861241792],[74.49226214742423,15.49996575332327],[74.49938921885106,15.46857538521193],[74.50948502394962,15.4641376831643],[74.51209567807808,15.49912549743572],[74.50408726181406,15.5007861241792]]]},"properties":{"region_id":"village_597946","name":"GHOSE (K.H.)","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

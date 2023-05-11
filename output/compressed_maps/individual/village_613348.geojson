@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73119391862025,12.73482342900445],[77.72129289661483,12.73727961864505],[77.72052975931545,12.72778123426002],[77.73315297251364,12.72690091761556],[77.73119391862025,12.73482342900445]]]},"properties":{"region_id":"village_613348","name":"BESTAMMANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

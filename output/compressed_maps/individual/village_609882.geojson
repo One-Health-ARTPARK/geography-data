@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78289322569373,13.24740490675329],[75.7673420634355,13.25039022649317],[75.767620377839,13.23956183083848],[75.77643074479343,13.23786767931288],[75.78289322569373,13.24740490675329]]]},"properties":{"region_id":"village_609882","name":"KAMBIHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

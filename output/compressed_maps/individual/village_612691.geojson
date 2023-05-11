@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9639305619553,12.82200132538643],[76.95632819170753,12.80199173601949],[76.97168752206335,12.80193419460695],[76.9639305619553,12.82200132538643]]]},"properties":{"region_id":"village_612691","name":"UNGRA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

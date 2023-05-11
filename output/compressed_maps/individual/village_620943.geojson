@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48025093258708,16.4731990097916],[76.45775987042238,16.47329996036796],[76.46540333341869,16.45237205740829],[76.48340568732786,16.45758507855007],[76.48025093258708,16.4731990097916]]]},"properties":{"region_id":"village_620943","name":"BANHATTI","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

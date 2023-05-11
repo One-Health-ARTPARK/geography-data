@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78772377429229,13.52363358127733],[77.79393161778552,13.52701946814714],[77.78918024321908,13.53053715172156],[77.78772377429229,13.52363358127733]]]},"properties":{"region_id":"village_623509","name":"GERUMARADAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

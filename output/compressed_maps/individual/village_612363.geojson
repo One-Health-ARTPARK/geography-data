@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62610604544562,13.06256663533043],[76.61874866482317,13.05919798038961],[76.62036311069333,13.04819398099178],[76.62618578935614,13.05147230810253],[76.62610604544562,13.06256663533043]]]},"properties":{"region_id":"village_612363","name":"BURUDEHOSAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

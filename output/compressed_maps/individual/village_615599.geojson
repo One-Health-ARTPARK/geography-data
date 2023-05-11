@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2759534321099,13.36540176309472],[76.25950423915037,13.36657720090689],[76.24845111114955,13.34787235112613],[76.27081432282895,13.34962509506286],[76.2759534321099,13.36540176309472]]]},"properties":{"region_id":"village_615599","name":"VENKATAPURA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

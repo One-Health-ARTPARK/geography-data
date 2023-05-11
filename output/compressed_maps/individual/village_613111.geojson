@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77769591315139,13.03837729251336],[77.75719800433785,13.03909889905262],[77.75398973054965,13.0340428741606],[77.77886085039088,13.02983822833735],[77.77769591315139,13.03837729251336]]]},"properties":{"region_id":"village_613111","name":"KHAJI SONNENAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

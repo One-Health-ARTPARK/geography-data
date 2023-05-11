@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5836195635285,13.60239801267516],[76.57473623944759,13.58163221927792],[76.59393623447762,13.58496163995918],[76.5836195635285,13.60239801267516]]]},"properties":{"region_id":"village_610197","name":"YAREHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

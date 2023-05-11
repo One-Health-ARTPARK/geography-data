@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58532939600984,16.04394463175947],[75.56051364511578,16.00978866487753],[75.58522043447071,15.99829570595352],[75.58532939600984,16.04394463175947]]]},"properties":{"region_id":"village_598651","name":"MATTIKATTI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

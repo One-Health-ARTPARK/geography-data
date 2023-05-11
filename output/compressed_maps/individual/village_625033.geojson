@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54795025011352,13.24611599955181],[77.53944602087086,13.25532534577573],[77.53895785149321,13.26638548060173],[77.52734258024115,13.25247290937553],[77.54795025011352,13.24611599955181]]]},"properties":{"region_id":"village_625033","name":"MAJARAHOSAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

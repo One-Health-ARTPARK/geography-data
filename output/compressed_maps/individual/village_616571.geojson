@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0323409354142,12.73885325795495],[76.02760209592316,12.73087034650409],[76.03710106649194,12.72426934114372],[76.04072782218911,12.73633041004012],[76.0323409354142,12.73885325795495]]]},"properties":{"region_id":"village_616571","name":"KYATHANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49005642098315,12.11685064426975],[76.48190711156712,12.11294877074747],[76.483463964526,12.09618320690115],[76.49706561269818,12.10487179473993],[76.49005642098315,12.11685064426975]]]},"properties":{"region_id":"village_618962","name":"HIRENANDI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

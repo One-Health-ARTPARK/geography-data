@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22971814730975,14.79598444799766],[75.21474463526863,14.80804681267611],[75.19208706566911,14.79988828068868],[75.20960261690959,14.78108645812301],[75.22971814730975,14.79598444799766]]]},"properties":{"region_id":"village_604085","name":"KANCHINEGALUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

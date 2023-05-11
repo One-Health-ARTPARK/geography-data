@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75452998054529,11.94525265438205],[76.74797322194999,11.92860210211028],[76.76101950229331,11.92901491618953],[76.76557951284,11.94423704028776],[76.75452998054529,11.94525265438205]]]},"properties":{"region_id":"village_619691","name":"PADNAKUDUHOSAHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

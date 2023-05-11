@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3916216461455,12.31174409347817],[76.36742687915344,12.3095291898796],[76.37959485300486,12.28998230553871],[76.3916216461455,12.31174409347817]]]},"properties":{"region_id":"village_618380","name":"MADAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

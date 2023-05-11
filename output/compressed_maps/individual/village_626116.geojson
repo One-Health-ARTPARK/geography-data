@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35882668799493,12.79627612232702],[77.35175834832874,12.83141511904259],[77.33939457039168,12.82744289430765],[77.341434355794,12.79348946490436],[77.35882668799493,12.79627612232702]]]},"properties":{"region_id":"village_626116","name":"HULTHAR STATE FOREST","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

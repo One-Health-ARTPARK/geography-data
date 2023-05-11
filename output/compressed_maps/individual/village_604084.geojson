@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21413110209957,14.80804610248164],[75.18293126828846,14.81241624163439],[75.18482320377363,14.79790636828179],[75.21413110209957,14.80804610248164]]]},"properties":{"region_id":"village_604084","name":"KADASHETTIHALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

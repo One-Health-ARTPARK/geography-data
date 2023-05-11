@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77668867427879,12.84698760531518],[77.77277900073882,12.84070318926422],[77.78117934473609,12.83526001595743],[77.78537121126261,12.84497384549516],[77.77668867427879,12.84698760531518]]]},"properties":{"region_id":"village_613232","name":"BURAGUNTE","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

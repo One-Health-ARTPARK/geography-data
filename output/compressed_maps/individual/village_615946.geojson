@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15062911802619,13.06628419770352],[76.15577333747216,13.0872842329038],[76.14627556178773,13.09048670223822],[76.14184425113422,13.07186892006064],[76.15062911802619,13.06628419770352]]]},"properties":{"region_id":"village_615946","name":"KABBALI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

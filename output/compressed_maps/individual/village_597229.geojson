@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55528241430927,16.33283023272857],[74.55394077755557,16.35201271518486],[74.54419049581273,16.34427456610316],[74.54122268212458,16.33368892837559],[74.55528241430927,16.33283023272857]]]},"properties":{"region_id":"village_597229","name":"MAJALATTI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

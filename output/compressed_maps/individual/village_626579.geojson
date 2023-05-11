@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51393824576117,12.37228667207598],[77.4495693432385,12.33223546195168],[77.45240414042173,12.24747609485421],[77.51613322551282,12.26794643226752],[77.54684885044806,12.31444927297868],[77.51393824576117,12.37228667207598]]]},"properties":{"region_id":"village_626579","name":"MUGGURU FOREST","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

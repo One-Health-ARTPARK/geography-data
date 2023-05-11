@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43403548968256,16.94351880051028],[76.402336392169,16.94309747331596],[76.39930587774559,16.93529492294339],[76.42801489147836,16.92723444557641],[76.43403548968256,16.94351880051028]]]},"properties":{"region_id":"village_620745","name":"BADNIHAL","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

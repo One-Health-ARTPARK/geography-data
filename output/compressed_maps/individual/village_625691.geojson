@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80978742283784,13.09149374548398],[77.80161346530447,13.09066508738514],[77.79786664961155,13.08605836751592],[77.81003409540254,13.08731459673934],[77.80978742283784,13.09149374548398]]]},"properties":{"region_id":"village_625691","name":"SONNADENAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93799879593418,13.12582667567204],[77.92608797478456,13.12179675178088],[77.92379668532045,13.11377671985391],[77.93354439593058,13.10825200284575],[77.93799879593418,13.12582667567204]]]},"properties":{"region_id":"village_625591","name":"KALAPPANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

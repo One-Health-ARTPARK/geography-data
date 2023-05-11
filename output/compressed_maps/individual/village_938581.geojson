@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66925828050141,13.84084798189615],[75.63446230800795,13.82621820514846],[75.65673625785108,13.80751025991773],[75.66925828050141,13.84084798189615]]]},"properties":{"region_id":"village_938581","name":"SIDDAPURA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

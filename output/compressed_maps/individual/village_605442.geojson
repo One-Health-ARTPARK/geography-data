@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23701090573056,14.38711599213058],[76.23576398155534,14.35349337335379],[76.25954366940893,14.36053624713591],[76.23701090573056,14.38711599213058]]]},"properties":{"region_id":"village_605442","name":"HARALAKATTE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

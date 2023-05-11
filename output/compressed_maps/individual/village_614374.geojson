@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97558665155248,12.61101689081215],[76.95578480074731,12.60358257595269],[76.95594884782562,12.58920458107611],[76.97498303100753,12.5962435356268],[76.97558665155248,12.61101689081215]]]},"properties":{"region_id":"village_614374","name":"ALAKERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

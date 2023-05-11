@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64020786274648,14.68629450512926],[75.63531566429388,14.6747189908863],[75.65089134304826,14.66900555845106],[75.65911040587602,14.68488908126084],[75.64020786274648,14.68629450512926]]]},"properties":{"region_id":"village_604493","name":"GANGAPUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07474176581992,12.88041352118367],[77.07326938303456,12.89378275307139],[77.04851062785224,12.89157575640065],[77.0508445065441,12.87965117047984],[77.07474176581992,12.88041352118367]]]},"properties":{"region_id":"village_612699","name":"MADAPPANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

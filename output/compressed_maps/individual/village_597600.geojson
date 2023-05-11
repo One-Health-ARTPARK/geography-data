@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.57476510771114,16.24517469095263],[74.59064122440908,16.23408774023132],[74.59331000803196,16.25011525325498],[74.57476510771114,16.24517469095263]]]},"properties":{"region_id":"village_597600","name":"JABAPUR (R)","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29249574835016,16.17468310800137],[77.27936941774642,16.19193258944346],[77.25510498567715,16.19278256976763],[77.24802487650292,16.16392921663074],[77.29249574835016,16.17468310800137]]]},"properties":{"region_id":"village_600784","name":"RAMPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87240563491062,13.40925737727369],[77.86152767015619,13.40463922417087],[77.86121189663733,13.38146335968824],[77.87472042912755,13.38609371508832],[77.87240563491062,13.40925737727369]]]},"properties":{"region_id":"village_624191","name":"SIDLAGHATTA (RURAL)","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

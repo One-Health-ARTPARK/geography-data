@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.64339517134624,15.57181686958272],[74.61806712900955,15.57981230390723],[74.63524934042945,15.54818334958953],[74.64571860943529,15.55509355189487],[74.64339517134624,15.57181686958272]]]},"properties":{"region_id":"village_597993","name":"JUNJWAD (K.G.)","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

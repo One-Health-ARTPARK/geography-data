@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87667701210732,13.19424980322683],[75.86433016497884,13.19825382985641],[75.85526380850821,13.19092091339469],[75.86342351906251,13.18242090856956],[75.87667701210732,13.19424980322683]]]},"properties":{"region_id":"village_615224","name":"DANIKANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

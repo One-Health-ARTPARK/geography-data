@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01255239312879,15.74208884160507],[77.0289828478133,15.73966637157977],[77.03499948790477,15.74679971532049],[77.01761470717967,15.752864505075],[77.01255239312879,15.74208884160507]]]},"properties":{"region_id":"village_604820","name":"AKKATANGIRAHAL","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

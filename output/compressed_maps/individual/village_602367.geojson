@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32682118617859,15.40931693336029],[75.35643775324188,15.41071841552005],[75.35562484577656,15.43557247620743],[75.31831934495942,15.42440671025674],[75.32682118617859,15.40931693336029]]]},"properties":{"region_id":"village_602367","name":"SISWINAHALLI","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

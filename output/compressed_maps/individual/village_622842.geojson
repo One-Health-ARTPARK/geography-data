@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.44554124986169,12.91203900982353],[78.44732705075512,12.89173003171992],[78.46709854225442,12.87696369390222],[78.4664002082774,12.90616046524704],[78.44554124986169,12.91203900982353]]]},"properties":{"region_id":"village_622842","name":"PEELAVARA","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

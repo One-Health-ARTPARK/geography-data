@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10984481783517,14.42853581096647],[75.09706452339188,14.43161473781889],[75.09384089485715,14.40930903447938],[75.11784272466387,14.41844736905995],[75.10984481783517,14.42853581096647]]]},"properties":{"region_id":"village_607557","name":"OTURU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

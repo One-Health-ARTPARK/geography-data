@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65550794904634,15.64570801081605],[74.64808762374005,15.61785713053077],[74.67457426612592,15.62841412818788],[74.65550794904634,15.64570801081605]]]},"properties":{"region_id":"village_597909","name":"TOLAGI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

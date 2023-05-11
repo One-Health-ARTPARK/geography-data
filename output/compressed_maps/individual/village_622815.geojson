@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.35248250986928,12.93838434619071],[78.33942100779196,12.93765711088671],[78.33919784095788,12.93501101367533],[78.35402896245827,12.93006326567539],[78.34961317706907,12.93588685860138],[78.35248250986928,12.93838434619071]]]},"properties":{"region_id":"village_622815","name":"KARADIGANAHALLI","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

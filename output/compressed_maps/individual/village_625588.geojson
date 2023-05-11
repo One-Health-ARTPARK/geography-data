@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90714686299755,13.13457503961085],[77.8971355367852,13.13663974246579],[77.9012566055193,13.12789461473169],[77.90714686299755,13.13457503961085]]]},"properties":{"region_id":"village_625588","name":"CHIKKANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

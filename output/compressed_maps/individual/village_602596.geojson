@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.2753567672597,14.87699831597711],[74.24655807756123,14.89095512703675],[74.25269861869786,14.87362245062213],[74.2753567672597,14.87699831597711]]]},"properties":{"region_id":"village_602596","name":"KATAR","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.43275929587159,15.84386785878775],[74.41312943455704,15.84199874255821],[74.41662707124951,15.82098167886455],[74.4266435199733,15.81624663050401],[74.43275929587159,15.84386785878775]]]},"properties":{"region_id":"village_597725","name":"BOKANUR","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

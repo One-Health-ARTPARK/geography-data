@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50667955239807,15.23856120901261],[75.52161361798369,15.22058272162654],[75.53973252580685,15.23752740035321],[75.50667955239807,15.23856120901261]]]},"properties":{"region_id":"village_602056","name":"HOLALAPUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

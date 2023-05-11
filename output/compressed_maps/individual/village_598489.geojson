@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54840738898609,16.38553636645553],[75.50683803730257,16.39879617449652],[75.49416475120526,16.33911100971912],[75.52826353704441,16.33110879896345],[75.54840738898609,16.38553636645553]]]},"properties":{"region_id":"village_598489","name":"TEGGI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

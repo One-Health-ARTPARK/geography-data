@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42961085166337,17.89842031097226],[77.39632618762482,17.89307590428531],[77.39373902496806,17.87657957209039],[77.43437917141006,17.88170297709822],[77.42961085166337,17.89842031097226]]]},"properties":{"region_id":"village_600200","name":"SECUNDRAPUR","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

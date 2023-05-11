@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93615969929013,13.66996984681871],[76.89174364617816,13.66264221688692],[76.91925698615786,13.64287898366928],[76.93615969929013,13.66996984681871]]]},"properties":{"region_id":"village_610468","name":"CHIKKANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27532100844255,13.29736262817418],[77.26445457738788,13.28646295649681],[77.27537231559567,13.27956161783306],[77.28706870271851,13.28082567970885],[77.27532100844255,13.29736262817418]]]},"properties":{"region_id":"village_624713","name":"BENCHANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

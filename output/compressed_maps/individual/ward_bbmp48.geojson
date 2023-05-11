@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60784599965604,13.01951199979668],[77.61043399975452,13.00906299975454],[77.6131739996199,13.00841300007462],[77.61295200042115,13.01734899966172],[77.60784599965604,13.01951199979668]]]},"properties":{"region_id":"ward_bbmp48","name":"WARD NO.48 (MUNESHWARA NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

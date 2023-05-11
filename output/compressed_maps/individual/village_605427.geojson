@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25292291994815,14.44354011908318],[76.2191764464896,14.44059647397373],[76.23004392378722,14.41336126448673],[76.25292291994815,14.44354011908318]]]},"properties":{"region_id":"village_605427","name":"KALGERE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

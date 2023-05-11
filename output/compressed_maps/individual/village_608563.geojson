@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74672702852105,13.97815855918585],[75.72780825737752,13.97848715584839],[75.72580513482485,13.96046432645825],[75.74630369919912,13.96078649426125],[75.74672702852105,13.97815855918585]]]},"properties":{"region_id":"village_608563","name":"THATTEHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

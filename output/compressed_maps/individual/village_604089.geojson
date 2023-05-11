@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14418327858667,14.80123765640336],[75.13273149384732,14.81267439977339],[75.12721375652903,14.79707014236253],[75.14418327858667,14.80123765640336]]]},"properties":{"region_id":"village_604089","name":"SATENHALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2197152453507,13.94756957652539],[75.22495937227701,13.96642884294177],[75.2086385037068,13.96473649234362],[75.2197152453507,13.94756957652539]]]},"properties":{"region_id":"village_608001","name":"KOTETHARIGA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

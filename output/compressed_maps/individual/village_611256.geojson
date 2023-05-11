@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0565337575936,13.44927674870777],[77.04278272494795,13.44707078158855],[77.0443038092493,13.43084058350271],[77.05596201604486,13.43311391745506],[77.0565337575936,13.44927674870777]]]},"properties":{"region_id":"village_611256","name":"AJJAGONAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

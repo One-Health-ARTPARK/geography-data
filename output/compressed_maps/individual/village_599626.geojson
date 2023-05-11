@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12785711651941,16.29199122890542],[76.10294567262518,16.2923822831002],[76.10487213501028,16.27390592622936],[76.12025359140291,16.26475732735703],[76.12785711651941,16.29199122890542]]]},"properties":{"region_id":"village_599626","name":"NEBAGERI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

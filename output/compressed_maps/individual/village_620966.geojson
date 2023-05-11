@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3638216406476,16.32217801605019],[76.35397839991917,16.34430864143364],[76.32656500370808,16.33083735598012],[76.3638216406476,16.32217801605019]]]},"properties":{"region_id":"village_620966","name":"YERKIHAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

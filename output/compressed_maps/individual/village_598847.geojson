@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80872340122788,16.2142652058403],[75.78485267942627,16.17489949322335],[75.81459350343854,16.16682064770593],[75.80872340122788,16.2142652058403]]]},"properties":{"region_id":"village_598847","name":"BHAGAVATI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

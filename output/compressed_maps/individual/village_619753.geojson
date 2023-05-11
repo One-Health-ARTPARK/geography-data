@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99446463218014,11.97938797006983],[76.98182676389429,11.96621112874883],[76.980974037179,11.95990247764764],[76.99719277527167,11.95680510346369],[76.99446463218014,11.97938797006983]]]},"properties":{"region_id":"village_619753","name":"ALUR","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

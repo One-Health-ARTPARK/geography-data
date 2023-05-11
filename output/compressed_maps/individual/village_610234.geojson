@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58955569146245,13.38994284074259],[76.5971675944138,13.40531915343003],[76.5871463129979,13.40805958234573],[76.57975777845694,13.40014548845583],[76.58955569146245,13.38994284074259]]]},"properties":{"region_id":"village_610234","name":"SIDDARAMANAGARA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

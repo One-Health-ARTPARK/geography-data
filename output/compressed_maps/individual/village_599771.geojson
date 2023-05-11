@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02019289743549,17.73388279425663],[76.98611354446716,17.71417523939668],[77.01814553539823,17.6793729894517],[77.03462204214604,17.68312020214643],[77.01693988001155,17.71870111861664],[77.02019289743549,17.73388279425663]]]},"properties":{"region_id":"village_599771","name":"KHERDA (B)","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

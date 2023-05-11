@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74573559880992,13.69128223892333],[77.73710852239526,13.68334201422796],[77.74345932481035,13.68024056903664],[77.74573559880992,13.69128223892333]]]},"properties":{"region_id":"village_623707","name":"DAPPARTHI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

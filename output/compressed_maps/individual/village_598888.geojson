@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97239722400406,16.03750138763566],[75.93109674391563,16.0304525774657],[75.9515396355795,16.01304621883282],[75.97383617289003,16.016611075604],[75.97239722400406,16.03750138763566]]]},"properties":{"region_id":"village_598888","name":"SULIBHAVI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

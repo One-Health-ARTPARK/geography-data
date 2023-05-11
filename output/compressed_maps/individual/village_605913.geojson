@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36006062369586,13.98608270750771],[76.31880076615634,13.98088714311868],[76.32608550560387,13.96063330995469],[76.35662109740035,13.96761855752109],[76.36006062369586,13.98608270750771]]]},"properties":{"region_id":"village_605913","name":"NAKIKERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

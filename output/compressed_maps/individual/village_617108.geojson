@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34832929420452,12.86429994094419],[76.33253535029287,12.86015522228384],[76.33532146457239,12.84674389652523],[76.34687877364335,12.84829246742122],[76.34832929420452,12.86429994094419]]]},"properties":{"region_id":"village_617108","name":"A.KALENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42625169854885,12.40727420845062],[76.41267875173885,12.40515932314454],[76.41163242801709,12.39577373089302],[76.42601454670067,12.39492732424528],[76.42625169854885,12.40727420845062]]]},"properties":{"region_id":"village_618682","name":"BASAVAPATNA","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38925285431223,12.55175316621308],[76.37629047977504,12.54194717604665],[76.38899093115415,12.53592436236633],[76.38925285431223,12.55175316621308]]]},"properties":{"region_id":"village_618583","name":"KANCHINAKERE","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

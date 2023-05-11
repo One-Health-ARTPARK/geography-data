@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60945274326095,13.37357089295729],[77.58881319156197,13.37958565270781],[77.59962714923235,13.36663110670318],[77.60945274326095,13.37357089295729]]]},"properties":{"region_id":"village_625050","name":"KAVALAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

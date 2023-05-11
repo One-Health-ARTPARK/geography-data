@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77418141441052,12.35208494503114],[76.78414546422033,12.36402466128623],[76.7791931731753,12.37544523247119],[76.76418935595659,12.35883116473627],[76.77418141441052,12.35208494503114]]]},"properties":{"region_id":"village_614300","name":"CHANNAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

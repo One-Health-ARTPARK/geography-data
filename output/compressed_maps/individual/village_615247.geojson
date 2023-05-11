@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90972872698748,13.18059669971474],[75.90234675687319,13.18408197054914],[75.89836814317589,13.1768740148423],[75.90723191622119,13.17239524098322],[75.90972872698748,13.18059669971474]]]},"properties":{"region_id":"village_615247","name":"SOMPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

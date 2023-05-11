@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38014477045105,12.69208587036472],[76.35896981935412,12.6902620340123],[76.36644963614738,12.67968295892041],[76.378324640928,12.67973916747264],[76.38014477045105,12.69208587036472]]]},"properties":{"region_id":"village_613590","name":"ALENAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

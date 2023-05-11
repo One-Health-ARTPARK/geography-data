@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07236533508267,13.80158157417772],[76.0741646870869,13.8173426556336],[76.05688650717768,13.81110141135636],[76.05618713074941,13.79937734562023],[76.07236533508267,13.80158157417772]]]},"properties":{"region_id":"village_609281","name":"BANDRE","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

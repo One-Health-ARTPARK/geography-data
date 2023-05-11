@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37507586911677,13.15831750780553],[77.36221017344357,13.1626293299193],[77.35888171827347,13.14875616577235],[77.37486645796858,13.14538944175147],[77.37507586911677,13.15831750780553]]]},"properties":{"region_id":"village_624875","name":"KACHANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

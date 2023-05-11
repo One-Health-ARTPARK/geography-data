@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18311694210719,13.1185402073304],[77.18975220910025,13.13077811254006],[77.17404270169219,13.12998522470453],[77.18311694210719,13.1185402073304]]]},"properties":{"region_id":"village_625825","name":"KAGIMADU","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

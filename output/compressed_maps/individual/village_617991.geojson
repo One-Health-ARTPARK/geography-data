@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85801337739065,12.34844312537238],[75.84736174253665,12.35522281643013],[75.83183776575207,12.33299156868298],[75.8642614558688,12.32034474346887],[75.85801337739065,12.34844312537238]]]},"properties":{"region_id":"village_617991","name":"ABYATHAMANGALA","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

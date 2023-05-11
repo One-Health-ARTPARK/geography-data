@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13700616572072,12.90200530526823],[76.13930621750457,12.90579217773133],[76.13477312802783,12.91062375029713],[76.1322633405138,12.90681192595766],[76.13700616572072,12.90200530526823]]]},"properties":{"region_id":"village_615940","name":"THIMMANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

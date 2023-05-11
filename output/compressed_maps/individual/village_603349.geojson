@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.49135582688481,14.72646173762939],[74.51633013019067,14.75055405158081],[74.49670594851676,14.79023652196634],[74.47010071235086,14.75387796417882],[74.49135582688481,14.72646173762939]]]},"properties":{"region_id":"village_603349","name":"KATTINHAKKAL","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

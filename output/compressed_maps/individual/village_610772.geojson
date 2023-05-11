@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09754217519149,13.67512292368364],[77.0871988631505,13.6720849197979],[77.08781493157083,13.66472384223438],[77.09865116157997,13.66507188534931],[77.09754217519149,13.67512292368364]]]},"properties":{"region_id":"village_610772","name":"GIRIGONDANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

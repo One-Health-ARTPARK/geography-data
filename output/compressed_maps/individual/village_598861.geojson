@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70977174291778,16.16608435654145],[75.68658302283416,16.13577524507463],[75.72146940954097,16.13276341062237],[75.70977174291778,16.16608435654145]]]},"properties":{"region_id":"village_598861","name":"SIGIKERI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

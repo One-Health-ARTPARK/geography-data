@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43434152598887,13.65691052925769],[76.41936245995085,13.6704211175751],[76.41143294835082,13.64544104527008],[76.42593493165646,13.64113444013523],[76.43434152598887,13.65691052925769]]]},"properties":{"region_id":"village_605975","name":"SADARAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96684671369482,12.55597786361177],[76.94926876691972,12.56118755845879],[76.93938898034345,12.53610767991053],[76.966731976681,12.53648482773143],[76.96684671369482,12.55597786361177]]]},"properties":{"region_id":"village_614451","name":"HALEBUDANUR","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

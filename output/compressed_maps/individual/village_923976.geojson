@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.922613152722,12.42803341644218],[75.91927021588887,12.43459742612204],[75.91197784276501,12.43485684482206],[75.91140967008367,12.42807844568707],[75.922613152722,12.42803341644218]]]},"properties":{"region_id":"village_923976","name":"DODDABETAGERI","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

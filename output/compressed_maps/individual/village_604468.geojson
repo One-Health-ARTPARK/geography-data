@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5125242112044,14.34691830277472],[75.50155420010806,14.32596753585283],[75.51354210211859,14.31762955387593],[75.52347023801013,14.34017533156996],[75.5125242112044,14.34691830277472]]]},"properties":{"region_id":"village_604468","name":"HOSAKATTI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

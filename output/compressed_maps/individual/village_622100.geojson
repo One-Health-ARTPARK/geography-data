@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93941616705906,13.10941230021928],[77.92899694340795,13.10131216742806],[77.94045277726741,13.09717330049753],[77.93941616705906,13.10941230021928]]]},"properties":{"region_id":"village_622100","name":"BYRANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

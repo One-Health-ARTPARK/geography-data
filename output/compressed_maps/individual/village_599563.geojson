@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99606429887012,16.44477029844575],[75.97450213760106,16.44785164463786],[75.97359741002256,16.42195581052495],[75.99406947080442,16.42389297073163],[75.99606429887012,16.44477029844575]]]},"properties":{"region_id":"village_599563","name":"BIDANAL","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

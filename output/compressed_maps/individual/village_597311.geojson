@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06725602627877,16.63389017506528],[75.02749750908266,16.64052426503624],[75.02880885625828,16.61887076809053],[75.06725602627877,16.63389017506528]]]},"properties":{"region_id":"village_597311","name":"AVARKHOD","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

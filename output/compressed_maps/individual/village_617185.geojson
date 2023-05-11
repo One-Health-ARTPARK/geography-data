@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37625852519356,12.8580246150272],[76.36468368421198,12.86279237673139],[76.36334227839306,12.84606204023764],[76.37884993974754,12.84242708099961],[76.37625852519356,12.8580246150272]]]},"properties":{"region_id":"village_617185","name":"NALLUR","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

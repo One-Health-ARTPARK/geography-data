@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53132248860936,12.99391175685717],[76.50300066644486,12.99915647395253],[76.50304657027372,12.98703721262132],[76.52906172209826,12.98211403286539],[76.53132248860936,12.99391175685717]]]},"properties":{"region_id":"village_617289","name":"KATTIGEHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

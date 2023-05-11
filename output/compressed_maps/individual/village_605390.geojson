@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78918895343753,14.29637903244398],[76.807039774937,14.29427076455355],[76.80760647251475,14.31825774021853],[76.78104939769153,14.31539519442998],[76.78918895343753,14.29637903244398]]]},"properties":{"region_id":"village_605390","name":"CHANNAMMANAGATHIHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

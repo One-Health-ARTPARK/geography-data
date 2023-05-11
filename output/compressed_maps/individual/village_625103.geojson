@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5367231783663,13.31287395454279],[77.52748456905528,13.31753029413117],[77.51891519806777,13.31202845139557],[77.53114071096124,13.30665868303988],[77.5367231783663,13.31287395454279]]]},"properties":{"region_id":"village_625103","name":"GANGADHARAPURA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77476337958801,13.21354817050545],[77.76833801450077,13.20887484452544],[77.78058491403807,13.20527444820321],[77.77947461041158,13.21234634945158],[77.77476337958801,13.21354817050545]]]},"properties":{"region_id":"village_625445","name":"NALLAPPANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

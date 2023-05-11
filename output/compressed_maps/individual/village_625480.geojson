@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83961348861776,13.21673336140149],[77.82667184369484,13.22197225897709],[77.82504918231942,13.20514842290759],[77.83233426337432,13.20370121965495],[77.83961348861776,13.21673336140149]]]},"properties":{"region_id":"village_625480","name":"BENDIGANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

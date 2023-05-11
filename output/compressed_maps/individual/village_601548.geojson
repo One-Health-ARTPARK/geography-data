@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33757528252195,15.69318145803],[76.31111966091667,15.675615117247],[76.36008138484686,15.66511755805314],[76.35554764843418,15.68898075345428],[76.33757528252195,15.69318145803]]]},"properties":{"region_id":"village_601548","name":"LINGADHALLI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

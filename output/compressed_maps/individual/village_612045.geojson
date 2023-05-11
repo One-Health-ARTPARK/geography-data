@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57639195384417,13.27589640678351],[76.57486774602839,13.29049784852315],[76.56255648912311,13.28557430563315],[76.56273762142494,13.26841770152175],[76.57639195384417,13.27589640678351]]]},"properties":{"region_id":"village_612045","name":"SHETTIHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

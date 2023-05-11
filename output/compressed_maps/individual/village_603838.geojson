@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.58839755225345,14.00035660455824],[74.57918043393806,14.01792740680589],[74.56395690181509,13.99693189746054],[74.58839755225345,14.00035660455824]]]},"properties":{"region_id":"village_603838","name":"TALAN","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

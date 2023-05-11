@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08251880798234,13.44300655419845],[77.08956723345017,13.4444529722749],[77.08959691064454,13.45079363696095],[77.08263444042802,13.45041523891339],[77.08251880798234,13.44300655419845]]]},"properties":{"region_id":"village_611344","name":"MUDDENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

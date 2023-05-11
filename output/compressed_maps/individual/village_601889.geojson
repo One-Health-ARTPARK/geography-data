@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53406469070978,15.76448286880771],[75.49082498307999,15.79537029467834],[75.48694277095258,15.76964257571837],[75.53406469070978,15.76448286880771]]]},"properties":{"region_id":"village_601889","name":"RADDER NAGANUR","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

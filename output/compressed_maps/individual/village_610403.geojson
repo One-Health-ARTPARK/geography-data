@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79830194975493,13.73324320416153],[76.77411475609144,13.73008684440811],[76.77758785155439,13.71910645386319],[76.79859015501579,13.72431154558182],[76.79830194975493,13.73324320416153]]]},"properties":{"region_id":"village_610403","name":"SHAKADADU","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57188685522993,12.92655730721614],[77.56269613454657,12.92199063246073],[77.56455936103214,12.91607148675736],[77.57258110399523,12.91726248724531],[77.57188685522993,12.92655730721614]]]},"properties":{"region_id":"village_938493","name":"KAREESANDRA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

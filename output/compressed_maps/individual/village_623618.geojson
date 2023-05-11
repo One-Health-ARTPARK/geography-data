@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69208817999339,13.38442614772796],[77.69342775047247,13.38839821036378],[77.68687260244565,13.39644888437823],[77.68078637543582,13.39093669188014],[77.69208817999339,13.38442614772796]]]},"properties":{"region_id":"village_623618","name":"SINGADIKADIRENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

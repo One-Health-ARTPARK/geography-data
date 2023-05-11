@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4230505642283,12.75938813334187],[77.41313763324649,12.76431011569207],[77.3967081407856,12.75839142590881],[77.38492761812856,12.75043754989737],[77.40693305088183,12.74727065067395],[77.4230505642283,12.75938813334187]]]},"properties":{"region_id":"village_626142","name":"ITTAMADU","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

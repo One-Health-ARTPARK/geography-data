@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4202510261273,15.20035924454883],[75.43357846060512,15.20965077420633],[75.42278302889699,15.22629844798931],[75.40466709105493,15.23604686867802],[75.4202510261273,15.20035924454883]]]},"properties":{"region_id":"village_602563","name":"CHIKKAGUNJAL","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

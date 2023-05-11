@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02630052206852,16.61560380760771],[76.99357814142132,16.62160847761464],[76.97038216292067,16.57085904539315],[77.00290959137149,16.55579295882245],[77.02630052206852,16.61560380760771]]]},"properties":{"region_id":"village_621173","name":"ALKUR","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

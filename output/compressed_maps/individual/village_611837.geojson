@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93344651681875,13.29321291749972],[76.92569026575848,13.28796772740406],[76.92799491226019,13.27857437986162],[76.93604814986091,13.28048063509476],[76.93344651681875,13.29321291749972]]]},"properties":{"region_id":"village_611837","name":"BYADAGERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

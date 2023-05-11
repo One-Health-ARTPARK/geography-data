@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30812566269317,13.14585111977855],[77.30144915058754,13.14260536427927],[77.30298927421828,13.1363032169379],[77.31260638778203,13.13760125948573],[77.30812566269317,13.14585111977855]]]},"properties":{"region_id":"village_624843","name":"PALLARAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

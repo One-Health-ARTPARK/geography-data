@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05080267617244,14.13151832569486],[77.0514574282408,14.14857616472386],[77.04081751603596,14.14756510111819],[77.03918772900333,14.13462890002236],[77.05080267617244,14.13151832569486]]]},"properties":{"region_id":"village_610609","name":"KODIGEHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

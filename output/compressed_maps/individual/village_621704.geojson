@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.40135477874104,13.3153893045188],[78.38807193499728,13.33223048560366],[78.3734777562066,13.31588366240221],[78.39860798782345,13.30508381005082],[78.40135477874104,13.3153893045188]]]},"properties":{"region_id":"village_621704","name":"KANNAMPALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

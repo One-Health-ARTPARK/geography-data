@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92117293897716,15.7224860232089],[76.93845354533427,15.75732817034358],[76.90592252730414,15.75795869819685],[76.8751933050594,15.75032127972884],[76.87634199011401,15.73410608668389],[76.92117293897716,15.7224860232089]]]},"properties":{"region_id":"village_601193","name":"UPPAL","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18851638200948,14.40676240930642],[76.1870226882048,14.41634485525388],[76.15930505444891,14.41380501451155],[76.15062468755983,14.4022425075831],[76.18851638200948,14.40676240930642]]]},"properties":{"region_id":"village_605436","name":"NANDIHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

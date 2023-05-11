@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06248836750186,15.37185385342934],[76.03416676499899,15.37459452906742],[76.0383208033473,15.34127967153874],[76.05521227871208,15.34296841782853],[76.06248836750186,15.37185385342934]]]},"properties":{"region_id":"village_601371","name":"LAKMAPUR","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

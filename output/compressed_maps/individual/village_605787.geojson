@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33327704304304,14.05349605798742],[76.30181628380916,14.05505768065703],[76.30589160062284,14.02926908389608],[76.33327704304304,14.05349605798742]]]},"properties":{"region_id":"village_605787","name":"MATHIGATTA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

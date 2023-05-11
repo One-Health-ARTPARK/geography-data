@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98100038300755,15.01108430966519],[74.95737747259872,15.00401402366157],[74.96423008230552,14.98396164524109],[74.9812558626699,14.99267159867936],[74.98100038300755,15.01108430966519]]]},"properties":{"region_id":"village_603012","name":"BALEHALLI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

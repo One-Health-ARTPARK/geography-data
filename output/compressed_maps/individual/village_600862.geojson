@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27937126904497,15.98502735791614],[77.26171268485344,15.95714274702303],[77.276467699729,15.95312010930054],[77.27937126904497,15.98502735791614]]]},"properties":{"region_id":"village_600862","name":"KATAKNUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

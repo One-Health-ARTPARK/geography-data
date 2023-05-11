@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38069871839214,15.11525939835575],[76.3663246971101,15.11884300705533],[76.36916726126677,15.10430818548085],[76.38179001011969,15.09959302141802],[76.38069871839214,15.11525939835575]]]},"properties":{"region_id":"village_604707","name":"GOLLARAHALLI","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

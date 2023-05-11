@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65544908807674,12.26476388746579],[76.63495641689592,12.2730042757271],[76.63806961374446,12.25445670016042],[76.65544908807674,12.26476388746579]]]},"properties":{"region_id":"village_939295","name":"NACHANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

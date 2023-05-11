@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81721748503972,13.25536358690528],[77.81486977521061,13.2610514305589],[77.80775112744071,13.25940882340337],[77.81721748503972,13.25536358690528]]]},"properties":{"region_id":"village_625414","name":"HIRIGANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

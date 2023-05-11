@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5176138736323,12.93476382846958],[77.51131325209572,12.92511254043977],[77.51533120297256,12.90481464553172],[77.53041887358211,12.91722356199299],[77.5176138736323,12.93476382846958]]]},"properties":{"region_id":"village_938451","name":"HALAGEVADERAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

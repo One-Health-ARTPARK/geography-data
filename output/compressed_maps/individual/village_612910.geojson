@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64268154754282,13.15694670007247],[77.62993896349492,13.15357453424562],[77.6375909780166,13.14704274957315],[77.64268154754282,13.15694670007247]]]},"properties":{"region_id":"village_612910","name":"BILMARANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

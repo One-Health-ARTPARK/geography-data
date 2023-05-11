@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89566528332871,13.3993142495656],[76.88090953812289,13.40858419526696],[76.87115864312719,13.39571890398066],[76.88582445199292,13.39352220253319],[76.89566528332871,13.3993142495656]]]},"properties":{"region_id":"village_611743","name":"IDAKANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

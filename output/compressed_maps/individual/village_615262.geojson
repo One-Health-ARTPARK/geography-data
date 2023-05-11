@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9573502510699,13.19977701192191],[75.94114703404985,13.19555094572364],[75.95331629898618,13.17885074091314],[75.96140801192044,13.18713437399084],[75.9573502510699,13.19977701192191]]]},"properties":{"region_id":"village_615262","name":"VEERADEVANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01202121475062,12.5349125001026],[75.9725689485751,12.49894772256168],[75.97753339081896,12.46839630966356],[76.00946925113206,12.47492001873585],[76.02193985556997,12.52237501343991],[76.01202121475062,12.5349125001026]]]},"properties":{"region_id":"village_618119","name":"CHANNAKALKAVAL","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

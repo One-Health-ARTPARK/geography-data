@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42712221320359,12.48288520565023],[77.41968571782502,12.45508200538761],[77.44202972563136,12.46304164558901],[77.42712221320359,12.48288520565023]]]},"properties":{"region_id":"village_626483","name":"KUNURU","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

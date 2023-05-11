@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7441675061534,12.9442869204727],[76.73711044666658,12.95309019993483],[76.73369608079085,12.93955613083655],[76.7441675061534,12.9442869204727]]]},"properties":{"region_id":"village_613719","name":"SURANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

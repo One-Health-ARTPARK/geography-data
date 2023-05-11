@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.23815380725256,15.67633674987849],[74.21256405308263,15.69310684645334],[74.18888779169986,15.66583608775531],[74.22277387584816,15.65585700901167],[74.23815380725256,15.67633674987849]]]},"properties":{"region_id":"village_597807","name":"PARWAD","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

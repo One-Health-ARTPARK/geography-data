@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89879300269065,13.19953689912503],[75.88104640867415,13.20070724612255],[75.87509755266699,13.19073539804456],[75.89905767755118,13.19355902575205],[75.89879300269065,13.19953689912503]]]},"properties":{"region_id":"village_615223","name":"MACHANAIKANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

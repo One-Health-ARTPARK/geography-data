@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.407902774572,13.59604891277222],[77.40382058200078,13.58570516070783],[77.43074286684595,13.58578027911725],[77.42395488583973,13.59969331749219],[77.407902774572,13.59604891277222]]]},"properties":{"region_id":"village_623210","name":"BHAKTARAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

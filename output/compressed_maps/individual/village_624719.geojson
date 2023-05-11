@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31559531380493,13.30788925750644],[77.31349869948666,13.29686860348225],[77.3202943952346,13.30329890260755],[77.31559531380493,13.30788925750644]]]},"properties":{"region_id":"village_624719","name":"CHIKKANAPALYA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24257273427298,13.90485250774377],[76.22173839026016,13.91360957440807],[76.2195464131187,13.90105864749949],[76.24257273427298,13.90485250774377]]]},"properties":{"region_id":"village_605826","name":"MAVINAKATTE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

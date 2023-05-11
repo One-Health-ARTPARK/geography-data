@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00277902365605,12.40479495105636],[76.98083593605122,12.4003070927247],[76.98823866699186,12.38841791249976],[77.00281296022976,12.3835785279324],[77.00974918683025,12.40001423869094],[77.00277902365605,12.40479495105636]]]},"properties":{"region_id":"village_614675","name":"BANDURU","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

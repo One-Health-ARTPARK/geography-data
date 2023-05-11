@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90213764615324,16.48124890168754],[75.86577945606426,16.47858883908402],[75.87429138426991,16.462191266604],[75.90213764615324,16.48124890168754]]]},"properties":{"region_id":"village_599471","name":"BUDNI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

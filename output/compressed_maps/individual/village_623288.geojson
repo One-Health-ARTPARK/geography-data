@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63639631478837,13.72366103947681],[77.62539359656604,13.72438921160634],[77.62117619685243,13.71269067754192],[77.62962696234304,13.70989371955813],[77.63639631478837,13.72366103947681]]]},"properties":{"region_id":"village_623288","name":"CHANNARAYANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

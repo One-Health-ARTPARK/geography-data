@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26832074776837,14.74826253869169],[75.25484436337395,14.75570503747337],[75.24393430813026,14.74864541069423],[75.25576248599897,14.74130195252975],[75.26832074776837,14.74826253869169]]]},"properties":{"region_id":"village_604145","name":"TUMARIKOPPA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

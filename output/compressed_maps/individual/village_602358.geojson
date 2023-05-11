@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4735983532347,15.51972074992101],[75.42336205706468,15.51243936635263],[75.44705021859681,15.5049115743548],[75.47290440914759,15.50286980016444],[75.4735983532347,15.51972074992101]]]},"properties":{"region_id":"village_602358","name":"ADNUR","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

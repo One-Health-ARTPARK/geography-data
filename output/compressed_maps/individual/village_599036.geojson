@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60782752135727,16.97140251452943],[75.60687602701718,17.00495891906681],[75.56706395284583,17.00900024291189],[75.56728797442938,16.96606789445234],[75.60782752135727,16.97140251452943]]]},"properties":{"region_id":"village_599036","name":"YATNAL","parent":"subdistrict_7074","parent_name":"TIKOTA"}}
+]}

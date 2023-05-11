@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92118266129488,12.690777406878],[76.91895193396324,12.70077333435145],[76.9068048349233,12.69766163901031],[76.9147137852863,12.68834662535378],[76.92118266129488,12.690777406878]]]},"properties":{"region_id":"village_614334","name":"CHALLANAYAKANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

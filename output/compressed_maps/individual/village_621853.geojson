@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.05992548124146,13.12173027469013],[78.05482741412706,13.12457089100191],[78.05101106136476,13.1137605977644],[78.05857293983038,13.11111838556776],[78.05992548124146,13.12173027469013]]]},"properties":{"region_id":"village_621853","name":"CHUNCHEDENAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

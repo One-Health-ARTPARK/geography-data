@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56487699972415,12.91678599983078],[77.57054800032616,12.90826599974528],[77.57301099990106,12.91663700022703],[77.56487699972415,12.91678599983078]]]},"properties":{"region_id":"ward_bbmp180","name":"WARD NO.180(BANASHANKARI TEMPLE WARD)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

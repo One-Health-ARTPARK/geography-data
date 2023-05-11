@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95862402064647,12.86399933772759],[77.95226209160998,12.85669034081673],[77.96277738601155,12.85046768701502],[77.9646705077919,12.85904489914968],[77.95862402064647,12.86399933772759]]]},"properties":{"region_id":"village_622276","name":"AHANYA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

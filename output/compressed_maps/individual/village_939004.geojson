@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8728261351731,12.79499551324768],[75.86985180878592,12.80093783921427],[75.86307427107435,12.79764429221355],[75.86453647919464,12.79356604898158],[75.8728261351731,12.79499551324768]]]},"properties":{"region_id":"village_939004","name":"MALLEPURA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

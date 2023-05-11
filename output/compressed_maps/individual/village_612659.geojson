@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93055604764771,12.92667623160644],[76.92896132314266,12.93005968706674],[76.91912940051286,12.92733264629213],[76.92865453261116,12.92089944456264],[76.93055604764771,12.92667623160644]]]},"properties":{"region_id":"village_612659","name":"YACHANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89695865754864,13.38594722936762],[75.88690360192288,13.35871118798252],[75.90583728574589,13.34740469138843],[75.90501499862908,13.36759655127404],[75.89695865754864,13.38594722936762]]]},"properties":{"region_id":"village_609770","name":"SADARAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

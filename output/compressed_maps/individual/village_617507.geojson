@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93471191176528,12.94935358436091],[74.91530701036423,12.94668249338239],[74.91027797923051,12.93264187353389],[74.93017150855982,12.92730550362242],[74.93471191176528,12.94935358436091]]]},"properties":{"region_id":"village_617507","name":"MULUR (CT)","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

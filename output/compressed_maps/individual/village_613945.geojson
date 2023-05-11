@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87314046316122,12.81004387951198],[76.86107209500422,12.80735873818443],[76.8623915379661,12.7934597261944],[76.87348783329776,12.79274683001712],[76.87314046316122,12.81004387951198]]]},"properties":{"region_id":"village_613945","name":"KASALAGERE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

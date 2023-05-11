@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14829971841644,13.09634659132261],[77.12196043798154,13.08897653948184],[77.14779424511026,13.07133312812078],[77.14829971841644,13.09634659132261]]]},"properties":{"region_id":"village_625844","name":"BISKURU","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

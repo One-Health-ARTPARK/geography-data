@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91695488917162,17.16146838752376],[75.85661662551114,17.13423607474866],[75.88332920808078,17.09402461963566],[75.92933760988136,17.11742309198621],[75.91695488917162,17.16146838752376]]]},"properties":{"region_id":"village_599231","name":"HANJAGI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

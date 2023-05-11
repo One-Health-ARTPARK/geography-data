@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02602335479367,12.76253235185953],[77.01181435853447,12.76331792651911],[77.01547490150506,12.74605347510549],[77.02893076919523,12.74118141669196],[77.02602335479367,12.76253235185953]]]},"properties":{"region_id":"village_614541","name":"ANKANATHAPURA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

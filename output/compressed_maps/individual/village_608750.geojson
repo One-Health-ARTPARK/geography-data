@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90275841788873,13.57358197111738],[74.86151627243221,13.58376495919141],[74.85612803660771,13.55261008046379],[74.88098360810362,13.55866130684167],[74.90275841788873,13.57358197111738]]]},"properties":{"region_id":"village_608750","name":"HALADY (76)","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

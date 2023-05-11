@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39189443847862,12.51506414713176],[76.3968140235824,12.53332128753914],[76.3804130605964,12.53791423379836],[76.37778057013618,12.52405489677817],[76.37989336250428,12.5141154115571],[76.39189443847862,12.51506414713176]]]},"properties":{"region_id":"village_618587","name":"ARJUNAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.697898072298,13.99038965890525],[75.70161731722558,14.00697171123659],[75.68354944392931,13.99213385488191],[75.697898072298,13.99038965890525]]]},"properties":{"region_id":"village_608540","name":"KANNEKOPPA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

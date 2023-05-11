@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72111222927637,13.89505534571045],[76.69275080078012,13.8849319885554],[76.71081790559315,13.86588946513548],[76.72111222927637,13.89505534571045]]]},"properties":{"region_id":"village_606171","name":"KASTURIRANGAPPENAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

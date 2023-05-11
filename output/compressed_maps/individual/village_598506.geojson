@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7587106107193,16.36136945164576],[75.77610277394002,16.37994939751566],[75.76267598945721,16.38371254186606],[75.7587106107193,16.36136945164576]]]},"properties":{"region_id":"village_598506","name":"HEGGUR","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

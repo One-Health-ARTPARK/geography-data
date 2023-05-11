@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31244203173631,17.09483424783602],[76.32252409609225,17.05564406450411],[76.35241495673786,17.08615196957622],[76.31244203173631,17.09483424783602]]]},"properties":{"region_id":"village_599317","name":"DEVARANAVADGI","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

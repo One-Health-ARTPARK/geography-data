@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05200208143637,12.36114589502408],[76.03682521964578,12.35347817908183],[76.0425828923195,12.34211870761938],[76.0580514011783,12.34960541842758],[76.05200208143637,12.36114589502408]]]},"properties":{"region_id":"village_618250","name":"BELATHUR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

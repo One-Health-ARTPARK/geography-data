@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64355725341491,12.09179730103708],[76.61693516690217,12.10044686758338],[76.60965212767441,12.0834594471653],[76.63545643038947,12.07586615396745],[76.64355725341491,12.09179730103708]]]},"properties":{"region_id":"village_619256","name":"HARATHALE","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

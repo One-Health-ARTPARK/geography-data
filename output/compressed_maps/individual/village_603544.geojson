@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77180749911375,14.49867551966681],[74.74711805758979,14.50213087646732],[74.74402526438439,14.49092046468398],[74.76742207956993,14.48684057737893],[74.77180749911375,14.49867551966681]]]},"properties":{"region_id":"village_603544","name":"UMBALMANE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92724810856616,12.85061744538927],[76.91813493888914,12.84299389621517],[76.92965203190151,12.8334370689918],[76.92724810856616,12.85061744538927]]]},"properties":{"region_id":"village_612680","name":"VALAGEREPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

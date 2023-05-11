@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3619059481551,11.81162902810643],[76.38587842634932,11.82556356489827],[76.35921646267278,11.85608556225749],[76.34518008232175,11.82314226139933],[76.3619059481551,11.81162902810643]]]},"properties":{"region_id":"village_619112","name":"MOLEYURU","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

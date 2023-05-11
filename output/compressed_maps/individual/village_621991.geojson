@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.14142551206979,13.17842525143119],[78.13539193800254,13.18235410804061],[78.13250059212639,13.17642392881394],[78.1428065697314,13.17203278608601],[78.14142551206979,13.17842525143119]]]},"properties":{"region_id":"village_621991","name":"GANESHAPURA","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

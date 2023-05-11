@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26960127131142,18.12106703143063],[77.27681639027887,18.12233832176932],[77.27384792148285,18.13157322243544],[77.26550071156701,18.12720301576898],[77.26960127131142,18.12106703143063]]]},"properties":{"region_id":"village_599873","name":"HACHI KAMATH","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

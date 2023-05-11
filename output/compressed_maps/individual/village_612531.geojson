@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02980403003544,13.07126886461495],[77.03134300226073,13.08112013236635],[77.0253278123226,13.07844494957972],[77.02368259014632,13.07154757759075],[77.02980403003544,13.07126886461495]]]},"properties":{"region_id":"village_612531","name":"KURUDIHALLI CHATHURBAGA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03104813263447,13.17858474897815],[76.02226571282627,13.17283282893502],[76.02546157777648,13.12669917284872],[76.05356853688356,13.12943763419452],[76.05030499180002,13.14480570574307],[76.03104813263447,13.17858474897815]]]},"properties":{"region_id":"village_615364","name":"SHIVAPURA KAVAL","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99006548357474,13.32909261018263],[77.00048281703882,13.3234082330917],[77.0043762295321,13.3329167471409],[76.99586476633984,13.33865323758142],[76.99006548357474,13.32909261018263]]]},"properties":{"region_id":"village_611830","name":"KALLIPALYA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

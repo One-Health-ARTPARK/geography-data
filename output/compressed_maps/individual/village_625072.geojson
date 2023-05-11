@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52103530781767,13.30092435692648],[77.53114071096124,13.30665868303988],[77.51882810769094,13.3119721956551],[77.52103530781767,13.30092435692648]]]},"properties":{"region_id":"village_625072","name":"KURUBARAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

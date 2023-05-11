@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57052367805339,15.45674289503089],[76.57226700034997,15.4443119290537],[76.59029353724604,15.44627219145432],[76.58357579334437,15.466081216986],[76.57052367805339,15.45674289503089]]]},"properties":{"region_id":"village_601652","name":"DANAPUR","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

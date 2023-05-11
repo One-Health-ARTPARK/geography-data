@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19233987751498,16.12245403314675],[76.17294148581328,16.1140038785249],[76.18486545854054,16.10836996629147],[76.19233987751498,16.12245403314675]]]},"properties":{"region_id":"village_598964","name":"MANMATHANAL","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

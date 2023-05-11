@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63131788214407,12.8481900808039],[76.62797672700768,12.85684232022933],[76.62308878943762,12.8615307926128],[76.62695375075162,12.84758816752492],[76.63131788214407,12.8481900808039]]]},"properties":{"region_id":"village_613813","name":"JENNENAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

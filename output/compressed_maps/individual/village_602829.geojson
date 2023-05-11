@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84840214580643,15.16708086428765],[74.86515273959769,15.18239465753695],[74.85668290145226,15.19726320684339],[74.83827786987914,15.19328436565823],[74.84840214580643,15.16708086428765]]]},"properties":{"region_id":"village_602829","name":"MAVINKOP","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

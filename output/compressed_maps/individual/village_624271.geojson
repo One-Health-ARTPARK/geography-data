@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8411668111596,13.26677767431441],[77.82217250957719,13.25074655452356],[77.84640542946188,13.24171801661344],[77.8411668111596,13.26677767431441]]]},"properties":{"region_id":"village_624271","name":"SUGATUR","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

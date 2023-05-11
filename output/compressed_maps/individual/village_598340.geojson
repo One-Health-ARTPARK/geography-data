@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40093169943793,15.93425987718067],[75.38334446844894,15.93764707473897],[75.3803545048197,15.92605098216521],[75.39868948076972,15.91859919630882],[75.40093169943793,15.93425987718067]]]},"properties":{"region_id":"village_598340","name":"HIREMULANGI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

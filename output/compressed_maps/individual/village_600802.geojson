@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49039053508034,16.18027940583978],[77.47592288316461,16.18783061784579],[77.45737338671026,16.16195257846154],[77.48622556961962,16.16520220809621],[77.49039053508034,16.18027940583978]]]},"properties":{"region_id":"village_600802","name":"BAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

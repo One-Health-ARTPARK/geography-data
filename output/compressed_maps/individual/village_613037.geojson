@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.479638359017,12.81864470169576],[77.46187720836852,12.83663387309053],[77.45442074177848,12.82192187358724],[77.4649907480995,12.80938265575999],[77.479638359017,12.81864470169576]]]},"properties":{"region_id":"village_613037","name":"CHINNAKURCHI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

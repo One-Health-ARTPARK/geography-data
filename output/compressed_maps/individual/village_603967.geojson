@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2108626087602,14.89370451491211],[75.19644819244145,14.89661855136336],[75.18010405148001,14.87645518108108],[75.20506851817437,14.86622327974197],[75.2108626087602,14.89370451491211]]]},"properties":{"region_id":"village_603967","name":"HOTANAHALLI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

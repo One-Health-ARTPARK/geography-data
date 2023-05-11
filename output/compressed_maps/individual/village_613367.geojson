@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38195432008959,12.83043187904956],[76.37086865116464,12.82991809222017],[76.37085154082908,12.81528880017952],[76.38791545257132,12.81660887002598],[76.38195432008959,12.83043187904956]]]},"properties":{"region_id":"village_613367","name":"KADAHEMMIGE","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

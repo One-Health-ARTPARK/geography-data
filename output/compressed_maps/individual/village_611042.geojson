@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21852355744166,13.49251614768082],[77.20882066779804,13.49362188364107],[77.19981235749097,13.47390747222373],[77.21301839408714,13.47086914813426],[77.21852355744166,13.49251614768082]]]},"properties":{"region_id":"village_611042","name":"NAVILAKURIKE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

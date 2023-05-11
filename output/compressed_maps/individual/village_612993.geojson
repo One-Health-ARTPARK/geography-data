@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38964430274046,12.91442158076104],[77.38212035174821,12.88924942608413],[77.39567165912102,12.89192937695212],[77.38964430274046,12.91442158076104]]]},"properties":{"region_id":"village_612993","name":"CHUNCHANAKUPPE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

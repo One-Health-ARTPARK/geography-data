@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76148549321474,12.44435942289779],[76.75661209825262,12.44666652552859],[76.75554038243415,12.44013636876837],[76.76203164077012,12.43871786810136],[76.76148549321474,12.44435942289779]]]},"properties":{"region_id":"village_614233","name":"NAGARAGHATTA","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

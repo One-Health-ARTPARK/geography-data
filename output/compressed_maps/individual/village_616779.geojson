@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1342960108805,12.54642620275695],[76.10857242106376,12.53906965520806],[76.11448780658434,12.5296497901865],[76.13467584100147,12.52957927385296],[76.1342960108805,12.54642620275695]]]},"properties":{"region_id":"village_616779","name":"LAKKUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

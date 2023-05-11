@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91381571006724,13.67394826748296],[75.91484258194255,13.65465527382374],[75.9365534040454,13.65797408440216],[75.93835253401615,13.66703681510951],[75.91381571006724,13.67394826748296]]]},"properties":{"region_id":"village_609220","name":"SHIVAPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

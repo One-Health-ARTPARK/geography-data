@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50001881852465,15.68130605574884],[74.48247784989096,15.68723436486039],[74.47459794301668,15.66428401959952],[74.49220958508796,15.65788628296094],[74.50001881852465,15.68130605574884]]]},"properties":{"region_id":"village_597845","name":"RAMGURWADI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

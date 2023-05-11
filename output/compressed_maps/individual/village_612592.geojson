@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05503003962065,13.01544862162631],[77.0377655376191,13.00280216316173],[77.05624847240856,12.9973323311477],[77.05503003962065,13.01544862162631]]]},"properties":{"region_id":"village_612592","name":"BEGUR","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

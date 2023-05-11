@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24784859046076,12.3088970449686],[76.22707396844784,12.3115297782561],[76.22697941764083,12.29699307549784],[76.23957277363994,12.29769039949382],[76.24784859046076,12.3088970449686]]]},"properties":{"region_id":"village_618346","name":"ADIGANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

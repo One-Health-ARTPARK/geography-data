@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3307390977481,15.53842365408666],[76.31197075055246,15.54505669684694],[76.31478897255624,15.52242708654982],[76.3307390977481,15.53842365408666]]]},"properties":{"region_id":"village_601571","name":"MUSLAPUR","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

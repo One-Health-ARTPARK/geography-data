@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47800461302212,13.34923607603269],[75.51188734025256,13.34739828950179],[75.53367608461807,13.30413182908655],[75.56195058538201,13.32724670280049],[75.51525423930856,13.37590925216358],[75.47800461302212,13.34923607603269]]]},"properties":{"region_id":"village_609668","name":"DEVADANA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56433855489509,17.75092921376269],[76.52735113173891,17.73814165697892],[76.52374663697582,17.71352833776838],[76.57016902499653,17.71443178320711],[76.56433855489509,17.75092921376269]]]},"properties":{"region_id":"village_619954","name":"ALANGA","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

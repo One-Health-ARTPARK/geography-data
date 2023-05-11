@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99916303195214,13.30506432580606],[77.98523912333185,13.30056609468194],[77.98416663659958,13.28627256721779],[78.00014041250304,13.28330477215971],[77.99916303195214,13.30506432580606]]]},"properties":{"region_id":"village_621738","name":"AMMANALLUR","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

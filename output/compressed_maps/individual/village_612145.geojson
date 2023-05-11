@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58268158668315,13.1828540660043],[76.56589508760656,13.18438228946972],[76.56573960692216,13.17774166980482],[76.57667295841486,13.17327892462958],[76.58268158668315,13.1828540660043]]]},"properties":{"region_id":"village_612145","name":"KUDUVANAGHATTA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

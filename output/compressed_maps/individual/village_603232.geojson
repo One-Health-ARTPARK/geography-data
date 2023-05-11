@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87787476536874,14.57711188362886],[74.86007543736515,14.58125027618603],[74.8546253733473,14.56897109923377],[74.87676865444085,14.57093401658641],[74.87787476536874,14.57711188362886]]]},"properties":{"region_id":"village_603232","name":"KAGERI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

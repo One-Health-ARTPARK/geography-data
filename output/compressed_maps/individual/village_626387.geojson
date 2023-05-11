@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49260781814074,12.65742083973691],[77.48416252877733,12.63743349454439],[77.49809978801466,12.63902995883028],[77.49260781814074,12.65742083973691]]]},"properties":{"region_id":"village_626387","name":"CHAKKASADENAHALLI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

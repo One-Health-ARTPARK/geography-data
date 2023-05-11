@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30186111775336,13.89354755839248],[76.30792902681445,13.87122367187894],[76.32008301308448,13.87807948284954],[76.30186111775336,13.89354755839248]]]},"properties":{"region_id":"village_605924","name":"DEVAPURA KAVALU","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

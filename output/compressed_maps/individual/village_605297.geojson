@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79473466882966,14.45799805671043],[76.80503909468474,14.47871890012588],[76.7886739224669,14.48408172074225],[76.79473466882966,14.45799805671043]]]},"properties":{"region_id":"village_605297","name":"BANAVIGONDANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60654102211201,13.94073421996442],[74.5822458702693,13.92646988224695],[74.59666853868711,13.88526402809588],[74.62364418913612,13.88885425244964],[74.60654102211201,13.94073421996442]]]},"properties":{"region_id":"village_608660","name":"SHIROOR","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

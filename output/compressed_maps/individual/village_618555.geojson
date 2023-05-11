@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30937493704667,12.56305688581291],[76.30124143691441,12.54877698445566],[76.31286510684788,12.54678107012448],[76.30937493704667,12.56305688581291]]]},"properties":{"region_id":"village_618555","name":"NATANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

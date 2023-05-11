@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.05233279731515,13.46746849398798],[78.04193754426528,13.47254180912194],[78.03928093416712,13.46550117401714],[78.04609204839868,13.46313970727437],[78.05233279731515,13.46746849398798]]]},"properties":{"region_id":"village_624539","name":"CHOWDADENAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

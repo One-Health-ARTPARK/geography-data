@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23060058967742,16.3738683215689],[76.22472462516669,16.38296286249864],[76.19842227915285,16.38252481858463],[76.19830296540475,16.37318213342634],[76.23060058967742,16.3738683215689]]]},"properties":{"region_id":"village_599644","name":"INCHAGAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

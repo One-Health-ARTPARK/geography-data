@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11396754693291,16.93273053256871],[77.08684367781191,16.93006229840788],[77.0930595296633,16.9054849354419],[77.12611804271543,16.91745257763956],[77.11396754693291,16.93273053256871]]]},"properties":{"region_id":"village_620703","name":"YAGAPUR","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

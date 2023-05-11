@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2929511813188,15.38465029078184],[76.27011075191598,15.36218325794275],[76.2936954745826,15.35280981392698],[76.2929511813188,15.38465029078184]]]},"properties":{"region_id":"village_601837","name":"GULDAHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

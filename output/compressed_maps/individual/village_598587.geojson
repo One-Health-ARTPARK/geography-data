@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39958766546711,16.29181338637672],[75.41926326909046,16.32869485544639],[75.39849110203632,16.33683170424502],[75.38498171774091,16.30339724205997],[75.39958766546711,16.29181338637672]]]},"properties":{"region_id":"village_598587","name":"VAJJARAMATTI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3088805305355,16.19140812949887],[75.28871440370699,16.19166798619796],[75.28469805540784,16.1767671892156],[75.3048954619837,16.16856377367906],[75.3088805305355,16.19140812949887]]]},"properties":{"region_id":"village_598610","name":"KANASAGERI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

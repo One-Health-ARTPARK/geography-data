@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99506332695974,12.59971237593238],[77.01688088734811,12.59277740208136],[77.0207431903828,12.61263667255595],[77.00204270226388,12.61426226322614],[76.99506332695974,12.59971237593238]]]},"properties":{"region_id":"village_614573","name":"VOLAGAREHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

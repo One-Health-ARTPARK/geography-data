@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2431115668331,12.96887387099665],[76.23304155240587,12.97370668710432],[76.22788970601634,12.96311001614289],[76.23792044222328,12.96037744974808],[76.2431115668331,12.96887387099665]]]},"properties":{"region_id":"village_616111","name":"DEVIHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

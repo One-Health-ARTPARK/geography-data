@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37948868728743,13.99012682443891],[77.36061730528449,13.99044276281671],[77.35070593128684,13.95822773765174],[77.37140907607096,13.95373791650977],[77.37948868728743,13.99012682443891]]]},"properties":{"region_id":"village_610661","name":"DOMMATHAMARI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

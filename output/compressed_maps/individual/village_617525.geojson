@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03274330997138,12.97943764714226],[75.01708211339145,12.99620625354211],[75.00956584661944,12.97045782824433],[75.03274330997138,12.97943764714226]]]},"properties":{"region_id":"village_617525","name":"KARPE","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

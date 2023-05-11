@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17581775998933,17.30073257568784],[76.13750368013292,17.3102420339879],[76.13455869132997,17.27245813543048],[76.17093160500855,17.27335850774935],[76.17581775998933,17.30073257568784]]]},"properties":{"region_id":"village_620097","name":"RAMNAGAR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

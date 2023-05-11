@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53898196008235,15.89745943823344],[76.52400413009401,15.87980608418487],[76.4927361417714,15.86819896096771],[76.57115566745921,15.85158856519393],[76.5776299814085,15.87236367593983],[76.53898196008235,15.89745943823344]]]},"properties":{"region_id":"village_600534","name":"TALEKHAN","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

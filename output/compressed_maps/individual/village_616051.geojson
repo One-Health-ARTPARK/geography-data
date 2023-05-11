@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09768499604027,13.05283695802261],[76.11616706018218,13.06106599986066],[76.10947052380752,13.07586997522531],[76.10014645351492,13.06790821597415],[76.09768499604027,13.05283695802261]]]},"properties":{"region_id":"village_616051","name":"KANCHAMARANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

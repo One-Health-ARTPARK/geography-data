@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02467356808437,13.31360856278202],[76.99966300510911,13.31421291742188],[77.00938701382451,13.29379672554847],[77.02467356808437,13.31360856278202]]]},"properties":{"region_id":"village_611451","name":"HALANUR","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15934692635707,12.64993550553699],[76.14655436508788,12.6491355564771],[76.14214477430761,12.62286662741501],[76.15870023647703,12.62519499455826],[76.15934692635707,12.64993550553699]]]},"properties":{"region_id":"village_616676","name":"HANAGALLU","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

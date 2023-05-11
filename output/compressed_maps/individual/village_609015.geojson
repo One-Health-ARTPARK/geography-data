@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35323598379232,13.44694935839954],[75.34710497109462,13.45227408573963],[75.33850390250412,13.45029959023275],[75.34024804330828,13.44156997912407],[75.35323598379232,13.44694935839954]]]},"properties":{"region_id":"village_609015","name":"BELAWADI","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

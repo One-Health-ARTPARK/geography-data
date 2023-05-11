@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.667067156175,13.29381744319718],[77.68069295159,13.29003581941063],[77.68403262231685,13.30267868006697],[77.66474756766671,13.3006196561988],[77.667067156175,13.29381744319718]]]},"properties":{"region_id":"village_625259","name":"MUDDANAYAKANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

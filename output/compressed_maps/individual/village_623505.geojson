@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76720988747783,13.53651011440816],[77.75401722001197,13.53810391952751],[77.75590655883433,13.52638948612165],[77.76720988747783,13.53651011440816]]]},"properties":{"region_id":"village_623505","name":"REDDY GOLLAVARAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

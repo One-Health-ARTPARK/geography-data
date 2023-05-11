@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51835291831283,13.20940900439392],[77.5115340602275,13.21441974819637],[77.50584932173055,13.20689919526572],[77.51574561761687,13.20498960854418],[77.51835291831283,13.20940900439392]]]},"properties":{"region_id":"village_612828","name":"HANIYUR","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

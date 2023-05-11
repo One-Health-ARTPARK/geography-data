@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.06553544972836,13.35573943055321],[78.04055429943577,13.35727065610488],[78.04222040785143,13.34460239363739],[78.06050356103769,13.3370378677696],[78.06553544972836,13.35573943055321]]]},"properties":{"region_id":"village_624684","name":"ALAMBAGIRI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

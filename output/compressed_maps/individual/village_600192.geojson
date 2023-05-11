@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45517091728196,17.93686565669091],[77.4473174298062,17.9680913873054],[77.43515861026565,17.94494611652549],[77.45517091728196,17.93686565669091]]]},"properties":{"region_id":"village_600192","name":"CHONDI","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

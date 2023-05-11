@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61981831019948,14.07839263974099],[74.61456548204079,14.06979147422244],[74.61819248876675,14.05083790671498],[74.62809584302518,14.06480329966221],[74.61981831019948,14.07839263974099]]]},"properties":{"region_id":"village_603843","name":"BADABAG","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

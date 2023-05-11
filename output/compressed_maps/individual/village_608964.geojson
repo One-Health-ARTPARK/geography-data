@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23629823716793,13.57694225635806],[75.25089297691548,13.59230159861043],[75.24469125503126,13.60544509249602],[75.21191172449917,13.58502675313876],[75.23629823716793,13.57694225635806]]]},"properties":{"region_id":"village_608964","name":"CHAVALAMANE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

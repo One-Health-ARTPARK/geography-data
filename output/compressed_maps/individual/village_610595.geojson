@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09562501631524,14.16785188805629],[77.07311060752241,14.1373654539497],[77.10078246576666,14.13372963158765],[77.09562501631524,14.16785188805629]]]},"properties":{"region_id":"village_610595","name":"NIDAGAL","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

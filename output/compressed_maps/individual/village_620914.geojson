@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46190307872892,16.59262476537051],[76.43887025365531,16.56977450671913],[76.44446817143621,16.5321051801982],[76.47540602600574,16.54172322451904],[76.46190307872892,16.59262476537051]]]},"properties":{"region_id":"village_620914","name":"AGNI","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

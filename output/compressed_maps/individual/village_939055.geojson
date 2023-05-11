@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89588165685753,12.72220519672036],[75.89370458689487,12.71244054847234],[75.9023199095059,12.71495578300471],[75.89588165685753,12.72220519672036]]]},"properties":{"region_id":"village_939055","name":"VADAYANAPURA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

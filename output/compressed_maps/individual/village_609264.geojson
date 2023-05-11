@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99858751593027,13.76432257380641],[76.00005158497645,13.77530411955705],[75.99748198096017,13.77977212962594],[75.9956198025038,13.76539945846136],[75.99858751593027,13.76432257380641]]]},"properties":{"region_id":"village_609264","name":"HOSAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

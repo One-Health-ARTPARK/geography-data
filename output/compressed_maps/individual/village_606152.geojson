@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56984797546875,13.88709784777275],[76.54773589358679,13.88659131362321],[76.55956422888283,13.85892968807916],[76.56984797546875,13.88709784777275]]]},"properties":{"region_id":"village_606152","name":"PAREMENAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

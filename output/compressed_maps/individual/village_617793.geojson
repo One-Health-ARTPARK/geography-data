@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42951521506731,12.47090948259523],[75.37558643244981,12.45897307918586],[75.36016177717971,12.40598189063144],[75.47116449230386,12.39402327858779],[75.4734761824538,12.45787747884058],[75.42951521506731,12.47090948259523]]]},"properties":{"region_id":"village_617793","name":"KARIKE","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

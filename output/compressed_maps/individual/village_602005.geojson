@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74240790002811,15.49736959850922],[75.73894998317837,15.52829147783117],[75.71534498288769,15.51340233419617],[75.74240790002811,15.49736959850922]]]},"properties":{"region_id":"village_602005","name":"NEERALAGI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

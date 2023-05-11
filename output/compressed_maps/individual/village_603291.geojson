@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91205810899271,14.60554486748271],[74.89302452993697,14.60634913924695],[74.90112111814676,14.58937590256538],[74.91205810899271,14.60554486748271]]]},"properties":{"region_id":"village_603291","name":"KABBE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

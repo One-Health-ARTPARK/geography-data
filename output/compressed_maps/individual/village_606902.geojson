@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85575453909793,14.11760612059664],[75.84716767531178,14.13971695593511],[75.8320458601895,14.14151286171649],[75.83080881938659,14.11575343439979],[75.85575453909793,14.11760612059664]]]},"properties":{"region_id":"village_606902","name":"MADHURANAIKANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

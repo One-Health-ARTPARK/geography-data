@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03346405757014,13.90650082903346],[75.01263713939179,13.90531929543214],[75.02416294023564,13.88480760404485],[75.03346405757014,13.90650082903346]]]},"properties":{"region_id":"village_607871","name":"L.GUDDEKOPPA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

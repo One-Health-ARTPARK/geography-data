@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86239514048549,16.18336357627926],[76.84353537420958,16.19151846264871],[76.83699188950126,16.17324781330022],[76.85715387380236,16.17333314158498],[76.86239514048549,16.18336357627926]]]},"properties":{"region_id":"village_600933","name":"DONMARDI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

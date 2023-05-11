@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99415908522751,12.25095318577451],[76.9969287368177,12.25228468308912],[76.99196180659379,12.25457797784993],[76.991905097499,12.25293865835582],[76.99415908522751,12.25095318577451]]]},"properties":{"region_id":"village_614831","name":"HULLAMBALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

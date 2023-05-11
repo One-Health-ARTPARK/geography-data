@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24752039128887,14.05116413396423],[77.21780128161555,14.01357049131755],[77.24532754237607,14.01171238815127],[77.24752039128887,14.05116413396423]]]},"properties":{"region_id":"village_610654","name":"VEERALAGONDI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

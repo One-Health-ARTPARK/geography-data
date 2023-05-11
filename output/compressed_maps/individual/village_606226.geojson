@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65445872462885,14.39947789520853],[75.63950141046534,14.40807517808689],[75.63386548669747,14.3795201851761],[75.65511949193336,14.37897776163546],[75.65445872462885,14.39947789520853]]]},"properties":{"region_id":"village_606226","name":"GOVINAHALU","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

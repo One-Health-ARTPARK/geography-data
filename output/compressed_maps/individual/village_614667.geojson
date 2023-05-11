@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0463802883546,12.3973994712406],[77.02533524588502,12.40333913563999],[77.02421519792456,12.39129273462439],[77.04179232025245,12.38752720330363],[77.0463802883546,12.3973994712406]]]},"properties":{"region_id":"village_614667","name":"MAGANUR","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91716763269712,12.76016667180688],[75.91833767994338,12.7693406770203],[75.91044758852216,12.76508917990182],[75.91716763269712,12.76016667180688]]]},"properties":{"region_id":"village_617880","name":"KORAGALLU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

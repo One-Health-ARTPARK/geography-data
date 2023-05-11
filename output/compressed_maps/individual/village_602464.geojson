@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06602168306975,15.21227992972043],[75.05912975729821,15.22621098117148],[75.04000593010873,15.21257339765659],[75.05418234296864,15.20469903437053],[75.06602168306975,15.21227992972043]]]},"properties":{"region_id":"village_602464","name":"BHOGENAGARKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

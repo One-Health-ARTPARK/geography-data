@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86564493715949,14.43022573039583],[74.8488933073269,14.44178763292974],[74.84509437602647,14.42160444253636],[74.86564493715949,14.43022573039583]]]},"properties":{"region_id":"village_603586","name":"SAMPAGOD","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

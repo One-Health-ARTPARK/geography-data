@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83075164368637,17.02229889911944],[75.82738114837832,17.03984644837974],[75.78939612835232,17.0399991756796],[75.79869271718805,17.00111288958423],[75.83075164368637,17.02229889911944]]]},"properties":{"region_id":"village_599237","name":"KOTNAL","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

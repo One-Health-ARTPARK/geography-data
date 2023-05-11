@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24168038900734,14.59632141206614],[76.21558762053704,14.6001318336922],[76.20984968754786,14.5782799564649],[76.2497232338708,14.58090556652549],[76.24168038900734,14.59632141206614]]]},"properties":{"region_id":"village_606426","name":"THAREHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

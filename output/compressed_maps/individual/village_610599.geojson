@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16097532490234,14.17091432574528],[77.14117328369501,14.17910639781292],[77.1351372928075,14.1386799521367],[77.15071341766667,14.14168201648092],[77.16097532490234,14.17091432574528]]]},"properties":{"region_id":"village_610599","name":"SHILAPURA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

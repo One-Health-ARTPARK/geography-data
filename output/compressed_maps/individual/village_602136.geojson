@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70673898320416,14.98460333371898],[75.70122874188657,14.94693817969335],[75.73430413407942,14.94432916867468],[75.73058640759292,14.98398285345957],[75.70673898320416,14.98460333371898]]]},"properties":{"region_id":"village_602136","name":"ITAGI","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

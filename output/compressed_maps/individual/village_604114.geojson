@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0634695046444,14.72405618813548],[75.0529833033445,14.7241840671713],[75.0524877602206,14.70693762270112],[75.05647702418206,14.70175823874285],[75.0634695046444,14.72405618813548]]]},"properties":{"region_id":"village_604114","name":"SRINGERI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

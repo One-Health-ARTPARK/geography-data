@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51386844335278,18.26863238108945],[77.49918552171775,18.27258115229611],[77.49293833051696,18.2657845815527],[77.50756710709213,18.25777236894502],[77.51386844335278,18.26863238108945]]]},"properties":{"region_id":"village_600069","name":"JAKNAL","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

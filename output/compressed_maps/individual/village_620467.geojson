@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3686616222228,17.25501851277072],[77.35412711051349,17.2683581587748],[77.32703534515603,17.27077169233234],[77.33999975675977,17.24221242144761],[77.3686616222228,17.25501851277072]]]},"properties":{"region_id":"village_620467","name":"SIROLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

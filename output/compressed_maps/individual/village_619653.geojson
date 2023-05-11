@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88299916356775,11.94408993811898],[76.88984359742051,11.95566007061755],[76.88966472195618,11.97568274842922],[76.87730539018264,11.97121923365056],[76.87342012522583,11.94962543622269],[76.88299916356775,11.94408993811898]]]},"properties":{"region_id":"village_619653","name":"BEDARAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

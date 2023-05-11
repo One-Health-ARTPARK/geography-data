@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18637486847904,13.72592936104697],[77.17564064614503,13.7437921513559],[77.16213989384326,13.72440312635473],[77.18637486847904,13.72592936104697]]]},"properties":{"region_id":"village_610719","name":"DASENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

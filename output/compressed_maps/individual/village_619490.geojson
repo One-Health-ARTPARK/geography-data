@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71321710645009,11.86165318567556],[76.6960229481872,11.87351090968086],[76.70294740308505,11.85393274830082],[76.71321710645009,11.86165318567556]]]},"properties":{"region_id":"village_619490","name":"VADDARAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

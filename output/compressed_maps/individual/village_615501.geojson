@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29765965535512,13.25074873180963],[76.31200798419961,13.25001397292203],[76.31326890147425,13.26358838968668],[76.29822842488724,13.2566675069574],[76.29765965535512,13.25074873180963]]]},"properties":{"region_id":"village_615501","name":"THIMMALAPURA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

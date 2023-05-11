@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59340792010453,14.25185009478307],[75.5702448016632,14.25837717711434],[75.5790608923147,14.24718252166917],[75.58760854989822,14.24278850286701],[75.59340792010453,14.25185009478307]]]},"properties":{"region_id":"village_606772","name":"CHIKKERAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

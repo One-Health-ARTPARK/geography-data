@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97300788939562,12.49658005210578],[75.96465146502587,12.47407642023414],[75.97753339081896,12.46839630966356],[75.97300788939562,12.49658005210578]]]},"properties":{"region_id":"village_618122","name":"DINDAGADU","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

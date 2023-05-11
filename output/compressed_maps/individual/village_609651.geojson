@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96050682559164,13.41700088905091],[75.94052033105322,13.41280972897172],[75.95928219456427,13.40042804706207],[75.96050682559164,13.41700088905091]]]},"properties":{"region_id":"village_609651","name":"KANCHUGARANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8620051499745,12.94565218955618],[74.85854335939557,12.92517703799748],[74.8674102590116,12.92692910813805],[74.86962574680368,12.93685595518995],[74.8620051499745,12.94565218955618]]]},"properties":{"region_id":"village_938799","name":"50 MARAKADA","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

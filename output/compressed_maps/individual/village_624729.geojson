@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20032577752426,13.2668862596724],[77.18861342102399,13.27520137355588],[77.18554242686591,13.25893650894413],[77.18923900622995,13.2473679044394],[77.19413934606703,13.24709023666973],[77.20032577752426,13.2668862596724]]]},"properties":{"region_id":"village_624729","name":"DEVARAHOSAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

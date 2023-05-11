@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58318099965535,13.04455000013287],[77.57165500003477,13.03513199983886],[77.58058500037036,13.029691000333],[77.58318099965535,13.04455000013287]]]},"properties":{"region_id":"ward_bbmp19","name":"WARD NO.19 (SANJAYANAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

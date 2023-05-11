@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44939326815805,12.95423209153229],[76.4450204832029,12.96969432383331],[76.43530671521044,12.95409863738067],[76.44939326815805,12.95423209153229]]]},"properties":{"region_id":"village_617228","name":"SOPPINAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

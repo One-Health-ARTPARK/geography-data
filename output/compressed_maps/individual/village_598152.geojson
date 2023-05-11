@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96437972475445,15.65427926405085],[74.94358595575122,15.66763338956502],[74.94297694085344,15.64585240644083],[74.96526961147701,15.63222173961196],[74.96437972475445,15.65427926405085]]]},"properties":{"region_id":"village_598152","name":"GUDIKATTI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

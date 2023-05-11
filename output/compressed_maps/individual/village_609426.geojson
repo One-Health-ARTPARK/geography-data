@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06295699055002,13.64263840749758],[76.05255952174622,13.64260712983523],[76.05295338340377,13.61780408213508],[76.07120935931377,13.62470073079644],[76.06295699055002,13.64263840749758]]]},"properties":{"region_id":"village_609426","name":"BASURU","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

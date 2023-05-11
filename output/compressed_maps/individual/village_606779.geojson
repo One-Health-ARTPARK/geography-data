@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66783478175338,14.30518871704689],[75.63434228860478,14.31124895370884],[75.63457707333346,14.29217433686454],[75.66783478175338,14.30518871704689]]]},"properties":{"region_id":"village_606779","name":"CHICKAGONIGERE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

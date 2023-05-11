@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90433182891002,16.26675112558567],[75.91355741681699,16.32161109058553],[75.90213301728068,16.32377149787825],[75.89692991080352,16.28696897243761],[75.90433182891002,16.26675112558567]]]},"properties":{"region_id":"village_598829","name":"MANAHALLI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

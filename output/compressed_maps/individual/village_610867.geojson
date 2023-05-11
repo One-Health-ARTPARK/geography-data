@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2890684165891,13.83953964455155],[77.30668895043446,13.82298158752275],[77.30935283878216,13.83559238948009],[77.2890684165891,13.83953964455155]]]},"properties":{"region_id":"village_610867","name":"CHOWLAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

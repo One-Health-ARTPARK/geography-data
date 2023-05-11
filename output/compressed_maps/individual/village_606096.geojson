@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7204528637109,14.05160560285549],[76.70534867328348,14.0370480684011],[76.72480599498627,14.03217023131534],[76.7204528637109,14.05160560285549]]]},"properties":{"region_id":"village_606096","name":"TOREOBENAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

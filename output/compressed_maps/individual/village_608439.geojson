@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56798312569165,13.98991674667903],[75.55069651833989,13.98982082899215],[75.55308587819869,13.97069367386608],[75.56982825131054,13.97137942047811],[75.56798312569165,13.98991674667903]]]},"properties":{"region_id":"village_608439","name":"BASAVANA GANGURU","parent":"subdistrict_5520","parent_name":"SHIVAMOGGA"}}
+]}

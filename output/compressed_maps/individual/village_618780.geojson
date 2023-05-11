@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62037896441367,12.18443020971936],[76.59308960702457,12.17401912983704],[76.60667271076694,12.15854759472225],[76.62037896441367,12.18443020971936]]]},"properties":{"region_id":"village_618780","name":"DODDAKATURU","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87178075193975,16.18511221380157],[75.8480580959405,16.18732733611373],[75.84228762148285,16.15714272072724],[75.86883950617342,16.15643976601716],[75.87178075193975,16.18511221380157]]]},"properties":{"region_id":"village_598856","name":"BHAIRAMATTI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

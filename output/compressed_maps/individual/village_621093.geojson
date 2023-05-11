@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71930113724966,16.70724710152735],[76.71669192492807,16.72289244540093],[76.68367872349324,16.70678500988035],[76.69755837744067,16.69768096078626],[76.71930113724966,16.70724710152735]]]},"properties":{"region_id":"village_621093","name":"KARKIHALLI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90066661260602,12.76790497605689],[75.89011842805888,12.76161796243441],[75.8967221710396,12.75296951802779],[75.9035863319158,12.7575123497943],[75.90066661260602,12.76790497605689]]]},"properties":{"region_id":"village_617871","name":"SIVARALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

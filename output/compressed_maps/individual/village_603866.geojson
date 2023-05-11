@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.64843019955435,14.02426818361981],[74.64793112060927,14.01309351608186],[74.66461039371102,14.00026427906613],[74.66901092779149,14.00840720606671],[74.64843019955435,14.02426818361981]]]},"properties":{"region_id":"village_603866","name":"KULAWADI","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

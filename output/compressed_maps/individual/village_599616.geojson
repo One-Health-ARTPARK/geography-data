@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07593250943823,16.30185246965392],[76.08118730922047,16.3118112704216],[76.06577490962479,16.31874642286657],[76.06375475405325,16.30619009197268],[76.07593250943823,16.30185246965392]]]},"properties":{"region_id":"village_599616","name":"YARAZERI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

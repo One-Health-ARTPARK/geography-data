@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1153769385836,12.7288429756596],[77.11583292462848,12.74053510967839],[77.10373758531786,12.74045496814552],[77.1044314487461,12.73263560933394],[77.1153769385836,12.7288429756596]]]},"properties":{"region_id":"village_626195","name":"AMMALLYDODDI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

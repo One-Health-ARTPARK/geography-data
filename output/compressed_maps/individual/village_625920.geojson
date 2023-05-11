@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32553040897497,12.97600296885011],[77.32604521106728,12.99336661835015],[77.30973176638315,12.9901286922116],[77.31357956788844,12.97669919411679],[77.32553040897497,12.97600296885011]]]},"properties":{"region_id":"village_625920","name":"MUMMENAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

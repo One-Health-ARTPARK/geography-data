@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8068272070411,13.45509046637642],[75.79324545465889,13.47121620986558],[75.76132899792199,13.48372946218889],[75.75874895377065,13.45385366818575],[75.8068272070411,13.45509046637642]]]},"properties":{"region_id":"village_609688","name":"GONAKAL","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

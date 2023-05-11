@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6658212516576,14.98747891703485],[75.63219038135732,14.9914191199435],[75.62461331742273,14.96099996082155],[75.65275023456175,14.96679334896058],[75.6658212516576,14.98747891703485]]]},"properties":{"region_id":"village_604249","name":"KERIKOP","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53726447418083,12.68090241178306],[77.51952480271343,12.68564336457125],[77.51985315169158,12.66897832968148],[77.53726447418083,12.68090241178306]]]},"properties":{"region_id":"village_626409","name":"ATTHIGUPPE","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

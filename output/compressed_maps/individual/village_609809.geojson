@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.011852426382,13.27897738337199],[76.00534241363705,13.28078272278984],[76.00401401290894,13.26049790868403],[76.00835031735586,13.26038378206718],[76.011852426382,13.27897738337199]]]},"properties":{"region_id":"village_609809","name":"VADDARAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

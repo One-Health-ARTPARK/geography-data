@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50152373797336,16.45474636360797],[75.51643396988747,16.46060683559496],[75.50394572616312,16.49030608056842],[75.49123109554041,16.46364144813982],[75.50152373797336,16.45474636360797]]]},"properties":{"region_id":"village_599147","name":"SUTAGUNDI","parent":"subdistrict_7069","parent_name":"BABALESHWAR"}}
+]}

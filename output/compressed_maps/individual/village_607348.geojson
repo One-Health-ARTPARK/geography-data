@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77849080047487,14.00896122050806],[74.74916982538362,14.01896684604126],[74.74194658193818,13.9620083482342],[74.77500503154523,13.97163533136363],[74.77849080047487,14.00896122050806]]]},"properties":{"region_id":"village_607348","name":"BOBBIGE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

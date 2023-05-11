@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00601601914656,13.29013443871722],[75.99255300172723,13.28753259835662],[75.98358799090781,13.26826937503123],[76.00345450813808,13.27290772107017],[76.00601601914656,13.29013443871722]]]},"properties":{"region_id":"village_609803","name":"BELAWADI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

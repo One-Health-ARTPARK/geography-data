@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13789494178332,14.47639664266748],[75.1185111850789,14.4923655543395],[75.07215960009763,14.4678783294595],[75.09338288776696,14.45496572842501],[75.13789494178332,14.47639664266748]]]},"properties":{"region_id":"village_607484","name":"KUPPAGADDE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

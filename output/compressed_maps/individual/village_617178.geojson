@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44433769634918,13.11790320611407],[76.45755914752569,13.11613369167812],[76.45791815063717,13.12033924662978],[76.44378755131801,13.12638529571296],[76.44433769634918,13.11790320611407]]]},"properties":{"region_id":"village_617178","name":"B.BYRAPURA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

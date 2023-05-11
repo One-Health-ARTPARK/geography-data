@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34029289299747,14.77684477348812],[75.32413136075509,14.77251286790517],[75.33687131111444,14.75583610655214],[75.35244271615355,14.76219723195812],[75.34029289299747,14.77684477348812]]]},"properties":{"region_id":"village_604199","name":"GOURAPUR-M-ADUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

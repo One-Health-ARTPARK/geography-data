@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63249263738545,12.21730922632264],[76.62313847643252,12.21066029170923],[76.62750788343847,12.18902496902188],[76.6420359801075,12.1918982907832],[76.6418650477783,12.20632545584153],[76.63249263738545,12.21730922632264]]]},"properties":{"region_id":"village_618761","name":"SINDHUVALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

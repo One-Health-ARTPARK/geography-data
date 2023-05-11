@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58198813139468,13.38434685833416],[77.56878874926686,13.38748598821021],[77.568604303738,13.3813289738095],[77.58019107216946,13.37893599410909],[77.58198813139468,13.38434685833416]]]},"properties":{"region_id":"village_625048","name":"SOTHENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30636936688657,12.43129270054004],[77.29653729974099,12.42164455541447],[77.31584611298814,12.41048404718906],[77.31802061635388,12.42083375418489],[77.30636936688657,12.43129270054004]]]},"properties":{"region_id":"village_626534","name":"KADAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

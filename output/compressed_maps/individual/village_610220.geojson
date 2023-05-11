@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6181228623643,13.37416922672529],[76.60354474467036,13.3857569787715],[76.59325468186465,13.36865390607516],[76.6156737052971,13.36507825016186],[76.6181228623643,13.37416922672529]]]},"properties":{"region_id":"village_610220","name":"KODALAGARA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

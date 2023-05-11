@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.56240617371125,13.27432083311047],[78.54926475280038,13.26423578519518],[78.56569931216053,13.25215639439424],[78.56240617371125,13.27432083311047]]]},"properties":{"region_id":"village_623058","name":"H.KODIHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

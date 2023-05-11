@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79652982606493,14.88052121895545],[75.80657461063889,14.90392755812636],[75.79205303430149,14.90052666997154],[75.79652982606493,14.88052121895545]]]},"properties":{"region_id":"village_604588","name":"THUMBINAKERI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

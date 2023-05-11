@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05775615610999,13.36800948971218],[76.05843729417258,13.33303601486809],[76.0790215797866,13.33673915804411],[76.05775615610999,13.36800948971218]]]},"properties":{"region_id":"village_615461","name":"NERLIGE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

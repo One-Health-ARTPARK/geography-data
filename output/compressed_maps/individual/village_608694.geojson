@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71375049792192,13.69224745496592],[74.70511339988752,13.68265064969186],[74.72669607511521,13.68277834753897],[74.71375049792192,13.69224745496592]]]},"properties":{"region_id":"village_608694","name":"KATTABELTHOOR","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

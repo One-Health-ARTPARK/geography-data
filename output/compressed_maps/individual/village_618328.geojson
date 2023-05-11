@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40253594963262,12.37771440201256],[76.38874371672648,12.37537293126804],[76.3942232515417,12.36455052204306],[76.40253594963262,12.37771440201256]]]},"properties":{"region_id":"village_618328","name":"SIRIYURU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

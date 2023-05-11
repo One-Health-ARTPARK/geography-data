@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61502345826314,16.39550828821064],[75.60139065860093,16.44749377973098],[75.57543880235276,16.4080898361255],[75.61502345826314,16.39550828821064]]]},"properties":{"region_id":"village_598496","name":"SONNA","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

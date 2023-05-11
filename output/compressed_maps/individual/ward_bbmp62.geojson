@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60089499954809,13.00836700006964],[77.59594599959614,13.01074799966932],[77.59337600017984,13.00546999956362],[77.60231800045861,13.00128900043268],[77.60089499954809,13.00836700006964]]]},"properties":{"region_id":"ward_bbmp62","name":"WARD NO.62 (RAMASWAMY PALYA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

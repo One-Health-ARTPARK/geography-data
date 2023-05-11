@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94749469273698,12.18860898628838],[75.93737519245298,12.18906423054444],[75.93230509093307,12.1828449840649],[75.94270807043087,12.18190688138468],[75.94749469273698,12.18860898628838]]]},"properties":{"region_id":"village_618050","name":"ARUVATH0KLU","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

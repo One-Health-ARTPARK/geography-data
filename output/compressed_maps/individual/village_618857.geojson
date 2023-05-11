@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3556800135553,12.13740196731748],[76.3508985959758,12.15682442809423],[76.32870685231485,12.16369571062483],[76.31849811373732,12.15203094352914],[76.3556800135553,12.13740196731748]]]},"properties":{"region_id":"village_618857","name":"PADUKOTE","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

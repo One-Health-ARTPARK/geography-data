@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45489117618833,14.18986057052678],[76.43322912959218,14.1911632487626],[76.43078132240439,14.15621507552537],[76.45889792934739,14.17044690520698],[76.45489117618833,14.18986057052678]]]},"properties":{"region_id":"village_605601","name":"INGALADALU","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

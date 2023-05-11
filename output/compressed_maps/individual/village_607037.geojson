@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87051312511046,14.05383115805849],[75.86097326217836,14.04756749859699],[75.87296111302493,14.04306406315591],[75.87051312511046,14.05383115805849]]]},"properties":{"region_id":"village_607037","name":"CHIKKAMALALI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

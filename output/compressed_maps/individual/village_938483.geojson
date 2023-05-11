@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55737848353486,12.93543645383567],[77.54765714344276,12.9336056514823],[77.54955424455096,12.92066150226908],[77.55722242358486,12.91825290952178],[77.55737848353486,12.93543645383567]]]},"properties":{"region_id":"village_938483","name":"KATTARIGUPPE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

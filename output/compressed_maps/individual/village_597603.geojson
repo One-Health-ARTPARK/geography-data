@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66937260329543,16.23582927642837],[74.66251744251478,16.25217562695885],[74.63173140515289,16.24354029201412],[74.63412927172025,16.23068491507254],[74.66937260329543,16.23582927642837]]]},"properties":{"region_id":"village_597603","name":"RAXI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

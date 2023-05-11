@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42349650832742,13.69436782366592],[77.4156368701616,13.69666349327993],[77.4046044234744,13.69081637439114],[77.4097760467425,13.6886491495211],[77.4139815648531,13.69290193763009],[77.42349650832742,13.69436782366592]]]},"properties":{"region_id":"village_610940","name":"BOMMENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

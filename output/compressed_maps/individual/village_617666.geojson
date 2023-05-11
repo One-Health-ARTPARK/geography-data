@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1976124734566,12.86065270604635],[75.16948759805635,12.86287681358235],[75.16142413182878,12.85206139519856],[75.19045141165942,12.84293549444821],[75.1976124734566,12.86065270604635]]]},"properties":{"region_id":"village_617666","name":"THEKKARU","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

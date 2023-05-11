@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32657450169269,15.90396449690824],[76.32730540966499,15.9322021161539],[76.31285865876696,15.92894486433995],[76.30717439556749,15.90355289602748],[76.32657450169269,15.90396449690824]]]},"properties":{"region_id":"village_600377","name":"BYALIHAL","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

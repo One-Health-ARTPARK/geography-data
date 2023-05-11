@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22545968259487,16.2397709679473],[76.19756342738806,16.23661134062762],[76.19734304852759,16.21858940402362],[76.2219212517414,16.22140351648798],[76.22545968259487,16.2397709679473]]]},"properties":{"region_id":"village_599643","name":"ALUR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

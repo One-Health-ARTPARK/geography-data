@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29099860304301,13.47863931772346],[76.26921448196069,13.47999855471567],[76.253075352818,13.46127023394116],[76.26797708312337,13.44686658500454],[76.27259669749107,13.46741963219906],[76.29099860304301,13.47863931772346]]]},"properties":{"region_id":"village_615610","name":"KALLUGUNDI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

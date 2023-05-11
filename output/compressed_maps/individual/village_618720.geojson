@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55325617768885,12.29342119103475],[76.54655065665452,12.29313654590064],[76.5383353616896,12.2784044586725],[76.55467631466992,12.27714092162569],[76.55325617768885,12.29342119103475]]]},"properties":{"region_id":"village_618720","name":"KUMARABEEDU","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

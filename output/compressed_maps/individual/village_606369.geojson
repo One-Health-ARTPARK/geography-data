@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11526451740565,14.56806938703275],[76.08723271197776,14.56534544718306],[76.09716500684792,14.52357462440679],[76.12880575314367,14.52704828861421],[76.11526451740565,14.56806938703275]]]},"properties":{"region_id":"village_606369","name":"RAMAGHATTA","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42606028814785,16.37195746944447],[75.39651927100293,16.33755874274323],[75.43054507797616,16.3309302672294],[75.42606028814785,16.37195746944447]]]},"properties":{"region_id":"village_598576","name":"MELLIGERI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

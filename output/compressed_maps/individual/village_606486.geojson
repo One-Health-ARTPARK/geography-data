@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39373906213763,14.59683384087977],[76.36695481622893,14.60029003343914],[76.37172466471178,14.5848458469724],[76.38544175471378,14.58026072792335],[76.39373906213763,14.59683384087977]]]},"properties":{"region_id":"village_606486","name":"BYATAGARANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

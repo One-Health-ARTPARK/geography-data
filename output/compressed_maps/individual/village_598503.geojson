@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69869851074489,16.40806817118794],[75.68628214005837,16.41344640489983],[75.67186802202363,16.38699140971401],[75.68294812356099,16.38587456872888],[75.69869851074489,16.40806817118794]]]},"properties":{"region_id":"village_598503","name":"HOSA TAKKALAKI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

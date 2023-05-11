@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77263906741321,12.22961969175947],[76.75962005574912,12.23571784125679],[76.74489401034799,12.23144357723781],[76.76520871010779,12.22465084760715],[76.77263906741321,12.22961969175947]]]},"properties":{"region_id":"village_618820","name":"MOSAMBAYANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

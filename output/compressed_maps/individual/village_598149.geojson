@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91609404108358,15.66861374927855],[74.89944454192171,15.67281422104732],[74.8994748308687,15.65933457029239],[74.91609404108358,15.66861374927855]]]},"properties":{"region_id":"village_598149","name":"BUDRAKATTI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

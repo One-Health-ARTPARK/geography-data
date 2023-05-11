@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01988502158721,13.44684103582632],[77.0250440293459,13.45658614681224],[77.01967094933302,13.4660192874249],[77.01175629898326,13.45240132975651],[77.01988502158721,13.44684103582632]]]},"properties":{"region_id":"village_611261","name":"HARIVANAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

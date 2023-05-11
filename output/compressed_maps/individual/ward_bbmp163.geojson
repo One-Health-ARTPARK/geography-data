@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55335999994264,12.92387700034046],[77.55544499959876,12.93835199996858],[77.54557699988304,12.92861800026453],[77.55335999994264,12.92387700034046]]]},"properties":{"region_id":"ward_bbmp163","name":"WARD NO.163 (KATRIGUPPE)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

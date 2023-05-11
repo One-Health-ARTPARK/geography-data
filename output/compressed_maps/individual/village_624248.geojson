@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86008721229874,13.32597804987554],[77.85190307505688,13.32474251039122],[77.85910799940102,13.30706537802486],[77.86429607419984,13.31555315724922],[77.86008721229874,13.32597804987554]]]},"properties":{"region_id":"village_624248","name":"THADURU","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10170724944852,18.00019038555732],[77.08593974022916,17.98686023256471],[77.10367082711238,17.97507861613303],[77.10170724944852,18.00019038555732]]]},"properties":{"region_id":"village_599929","name":"MORAMBI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67331824888221,12.76238290102864],[76.66958996250885,12.76415845915379],[76.66378163759342,12.75753194543195],[76.67215715841888,12.757521476697],[76.67331824888221,12.76238290102864]]]},"properties":{"region_id":"village_613982","name":"KARIKYATHANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

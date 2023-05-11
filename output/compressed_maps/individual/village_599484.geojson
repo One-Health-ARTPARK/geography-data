@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90203387238041,16.44838648566609],[75.87366648374055,16.45254021830748],[75.88084343008852,16.42655510900674],[75.90203387238041,16.44838648566609]]]},"properties":{"region_id":"village_599484","name":"HUNASHYAL (P.C.)","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

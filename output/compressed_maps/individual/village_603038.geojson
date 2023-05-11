@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01969938210273,14.92401042159405],[75.00521368694857,14.9101309087367],[75.0209772441904,14.90152937782337],[75.03710573011668,14.90502210463323],[75.01969938210273,14.92401042159405]]]},"properties":{"region_id":"village_603038","name":"KAVALAKOPPA","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49046469487816,15.36784162484642],[75.4686288033654,15.38555330452349],[75.44529503464341,15.38630093224827],[75.44847122493724,15.35924872643202],[75.49046469487816,15.36784162484642]]]},"properties":{"region_id":"village_602029","name":"ANTUR","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

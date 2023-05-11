@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7340624176489,12.87359825135597],[77.73981268848112,12.89429062932161],[77.72489453112439,12.90039582613475],[77.72151112654153,12.8779404855291],[77.7340624176489,12.87359825135597]]]},"properties":{"region_id":"village_613123","name":"SULIKUNTE","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

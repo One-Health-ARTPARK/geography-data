@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92441775540546,17.18102223914182],[76.87957049357982,17.16837229012982],[76.91331950758251,17.14864429046986],[76.92441775540546,17.18102223914182]]]},"properties":{"region_id":"village_620652","name":"TARANHALLI","parent":"subdistrict_7088","parent_name":"SHAHABAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73879687181729,13.58330481279494],[77.72826425638654,13.57361239932564],[77.73983239288738,13.56714179728245],[77.73879687181729,13.58330481279494]]]},"properties":{"region_id":"village_623486","name":"GUMMALAPURA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

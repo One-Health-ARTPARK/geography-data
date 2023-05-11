@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19284224070418,14.39477158727455],[76.18300694073044,14.40421014241157],[76.15565231066287,14.40138868223143],[76.1534536299708,14.3928685444761],[76.18558123977414,14.38920675365],[76.19284224070418,14.39477158727455]]]},"properties":{"region_id":"village_605438","name":"ARASURU","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

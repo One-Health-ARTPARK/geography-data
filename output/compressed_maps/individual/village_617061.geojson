@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32758503814111,13.03599698881088],[76.30783109151793,13.0314270202942],[76.32139291228867,13.01228618483068],[76.33658860547702,13.02488024165245],[76.32758503814111,13.03599698881088]]]},"properties":{"region_id":"village_617061","name":"KUNDUR","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

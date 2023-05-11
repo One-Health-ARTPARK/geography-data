@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72483153689318,13.82947275564],[74.67119656811467,13.82417664708109],[74.69205412105788,13.7826432936935],[74.75112132463128,13.77666303101787],[74.74161483837469,13.81073977830105],[74.72483153689318,13.82947275564]]]},"properties":{"region_id":"village_608676","name":"KALTHODU","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

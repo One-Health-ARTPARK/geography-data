@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69208106651965,16.03302893385758],[75.66991250996622,16.02518755688189],[75.67287484850115,15.99939328870087],[75.69895560251639,16.01347765072744],[75.69208106651965,16.03302893385758]]]},"properties":{"region_id":"village_598736","name":"BEDARABUDIHAL","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

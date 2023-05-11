@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07546403907538,12.82842278764395],[76.06457554218186,12.83549261184051],[76.0592460945928,12.81827069578774],[76.07376505463168,12.81882836924651],[76.07546403907538,12.82842278764395]]]},"properties":{"region_id":"village_616108","name":"GORUR","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

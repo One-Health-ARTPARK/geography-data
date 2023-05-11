@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87266086488385,13.84481249106699],[77.86555313952097,13.85814606430017],[77.87187854361656,13.86663766351761],[77.8556767221135,13.86938360294328],[77.85813386040124,13.85423192581563],[77.87266086488385,13.84481249106699]]]},"properties":{"region_id":"village_623811","name":"MADDALAKHANE","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

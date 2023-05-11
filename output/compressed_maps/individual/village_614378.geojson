@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93545122931425,12.61131059292457],[76.9080851283254,12.61223677468221],[76.90610388870896,12.60601505974379],[76.93101545729665,12.60125801633845],[76.93545122931425,12.61131059292457]]]},"properties":{"region_id":"village_614378","name":"DODDABANASAVADI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

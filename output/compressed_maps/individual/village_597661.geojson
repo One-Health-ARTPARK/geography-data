@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.63481266703317,16.07872433707875],[74.67239060617203,16.07817673594646],[74.67477340265148,16.08879002754107],[74.626146787255,16.09050889460286],[74.62538543885752,16.07974317969872],[74.63481266703317,16.07872433707875]]]},"properties":{"region_id":"village_597661","name":"KARGUPPI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

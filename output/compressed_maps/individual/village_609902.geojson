@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38434883813864,13.21940320102949],[75.36922416770302,13.18271439057408],[75.42071636589449,13.1674671017046],[75.41049583449683,13.20287710280699],[75.38434883813864,13.21940320102949]]]},"properties":{"region_id":"village_609902","name":"MARASANIGE","parent":"subdistrict_7194","parent_name":"KALASA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4806522871148,12.40829138361145],[76.47349238281365,12.41535034066933],[76.46683305266251,12.41083574997162],[76.46748249086667,12.40169363878214],[76.4806522871148,12.40829138361145]]]},"properties":{"region_id":"village_618698","name":"HUNNAVALLI S.I","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

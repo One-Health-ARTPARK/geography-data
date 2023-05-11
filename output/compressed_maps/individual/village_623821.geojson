@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85834849703222,13.8207014622525],[77.83644641469262,13.81008482615462],[77.84999336495858,13.79574493555294],[77.85834849703222,13.8207014622525]]]},"properties":{"region_id":"village_623821","name":"MOTAKAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

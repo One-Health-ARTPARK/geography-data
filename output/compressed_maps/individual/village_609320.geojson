@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07895350516937,13.72781754116942],[76.07125010885339,13.71529648296874],[76.08269923797303,13.70891942923011],[76.07895350516937,13.72781754116942]]]},"properties":{"region_id":"village_609320","name":"CHINNAPURA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

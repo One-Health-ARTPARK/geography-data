@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53367608461807,13.30413182908655],[75.49140324857919,13.31705835977454],[75.4890277093776,13.28065195257952],[75.52157304753237,13.27575808187792],[75.53367608461807,13.30413182908655]]]},"properties":{"region_id":"village_609670","name":"HUIGERE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

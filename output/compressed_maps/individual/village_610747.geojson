@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15100090546431,13.68680061728066],[77.16488679846896,13.70466249324262],[77.14786949599929,13.71125218705988],[77.13878244024578,13.69576045055836],[77.15100090546431,13.68680061728066]]]},"properties":{"region_id":"village_610747","name":"BELLADAMADU","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57646420071842,12.34859684223615],[76.55549309899399,12.34699390352945],[76.55992025209699,12.32168797814342],[76.58180383943504,12.33341939840734],[76.57646420071842,12.34859684223615]]]},"properties":{"region_id":"village_618707","name":"BELAVADI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

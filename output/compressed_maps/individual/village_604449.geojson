@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52357419143421,14.39789544283932],[75.52231031261674,14.37400884716627],[75.53810594227932,14.36910981052045],[75.52357419143421,14.39789544283932]]]},"properties":{"region_id":"village_604449","name":"KANVISHIDGERI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

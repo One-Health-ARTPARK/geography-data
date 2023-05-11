@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92889296922016,12.93004736905072],[76.92532011500597,12.93716342330104],[76.90865332123504,12.93428638072336],[76.91087126453655,12.92720365947176],[76.92889296922016,12.93004736905072]]]},"properties":{"region_id":"village_612651","name":"CHINNAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

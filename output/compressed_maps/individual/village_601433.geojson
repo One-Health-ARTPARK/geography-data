@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0033952206162,15.87566802781388],[75.99631307561174,15.89723538283804],[75.9771523428301,15.89490016150088],[75.97886067194806,15.87083552597636],[76.0033952206162,15.87566802781388]]]},"properties":{"region_id":"village_601433","name":"CHANDRAGIRI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

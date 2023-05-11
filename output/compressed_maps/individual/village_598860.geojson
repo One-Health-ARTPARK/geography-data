@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73543011498018,16.12789061628468],[75.74661412812124,16.14966760046082],[75.72192731914552,16.16140384974416],[75.72146940954097,16.13276341062237],[75.73543011498018,16.12789061628468]]]},"properties":{"region_id":"village_598860","name":"BEVINAMATTI-S.HAVELI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

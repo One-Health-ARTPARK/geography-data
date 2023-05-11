@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49217670941698,13.58169839243561],[76.46508529763388,13.57050674390656],[76.49055941428907,13.54662780873447],[76.49217670941698,13.58169839243561]]]},"properties":{"region_id":"village_610103","name":"KORAGERE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

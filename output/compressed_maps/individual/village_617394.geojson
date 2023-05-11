@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49169521349633,12.80548819505676],[76.50163488695542,12.82214822596015],[76.48185995288966,12.81972038405112],[76.49169521349633,12.80548819505676]]]},"properties":{"region_id":"village_617394","name":"MAJJANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

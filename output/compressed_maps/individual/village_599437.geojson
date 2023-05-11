@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40716589402541,16.65673992281773],[76.36788721752012,16.65933056893957],[76.37140318128505,16.64175346689954],[76.4020205756483,16.64045117013006],[76.40716589402541,16.65673992281773]]]},"properties":{"region_id":"village_599437","name":"WANAKIHAL","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

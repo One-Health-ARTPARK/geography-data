@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87772617190139,15.11799488447503],[74.86077793694143,15.1310055959717],[74.85401819841196,15.10994844271754],[74.87772617190139,15.11799488447503]]]},"properties":{"region_id":"village_602488","name":"TAMBUR","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

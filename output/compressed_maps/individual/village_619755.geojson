@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00616094114875,11.96825895935711],[76.9916087636215,11.94677910406791],[76.99859920511415,11.93683425460813],[77.0143707200523,11.93276443793424],[77.017261436329,11.94957163254646],[77.00616094114875,11.96825895935711]]]},"properties":{"region_id":"village_619755","name":"SARAGURU","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45760227248358,12.74374657804824],[76.44699131407125,12.74433282942186],[76.44059108313117,12.7303494969642],[76.4605796890312,12.72632960219302],[76.45760227248358,12.74374657804824]]]},"properties":{"region_id":"village_613415","name":"CHIKKALALE","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

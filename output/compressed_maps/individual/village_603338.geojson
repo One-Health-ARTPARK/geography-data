@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.3640879731504,14.78239279597803],[74.3805179465813,14.83703224576337],[74.32728344595759,14.8202237439467],[74.3640879731504,14.78239279597803]]]},"properties":{"region_id":"village_603338","name":"KENDIGE","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

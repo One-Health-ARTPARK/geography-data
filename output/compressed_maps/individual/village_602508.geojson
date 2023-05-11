@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07631738527732,15.11026126295745],[75.06225464190963,15.12562626799641],[75.04521248874069,15.11231189978876],[75.05758087932944,15.09790014900606],[75.07631738527732,15.11026126295745]]]},"properties":{"region_id":"village_602508","name":"BEERAVALLI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

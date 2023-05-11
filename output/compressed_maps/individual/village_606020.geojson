@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51379196994809,13.79033437290122],[76.49011632950345,13.7875652908322],[76.48870627917074,13.76668992726892],[76.5146762847862,13.7741076750586],[76.51379196994809,13.79033437290122]]]},"properties":{"region_id":"village_606020","name":"KASAPPANAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

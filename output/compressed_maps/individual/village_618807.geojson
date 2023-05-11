@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73401916954624,12.24844734221843],[76.72240980754002,12.25757859197966],[76.71428872206909,12.24887058781585],[76.73401916954624,12.24844734221843]]]},"properties":{"region_id":"village_618807","name":"MADHAPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10813257717419,12.63791438183012],[76.0887782358654,12.63872236388629],[76.09161492719299,12.61791094639123],[76.10480974437307,12.61887817022505],[76.10813257717419,12.63791438183012]]]},"properties":{"region_id":"village_616741","name":"BILAGULI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

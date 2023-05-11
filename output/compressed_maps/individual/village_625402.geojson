@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67870295699652,13.20567212072285],[77.67101008787755,13.1917492228648],[77.68689934277437,13.19376029259314],[77.67870295699652,13.20567212072285]]]},"properties":{"region_id":"village_625402","name":"YERTHIGANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

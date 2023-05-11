@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52377587270445,15.61588966203763],[76.49591004049208,15.59852883090962],[76.52319161936502,15.58782044606242],[76.52377587270445,15.61588966203763]]]},"properties":{"region_id":"village_601669","name":"WADKI","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

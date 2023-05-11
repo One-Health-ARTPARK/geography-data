@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17217935510064,16.06351718705579],[77.15501390475394,16.09379614216175],[77.1171492862991,16.07472578321903],[77.14666717797483,16.04920160010274],[77.17217935510064,16.06351718705579]]]},"properties":{"region_id":"village_600996","name":"KAPGAL","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

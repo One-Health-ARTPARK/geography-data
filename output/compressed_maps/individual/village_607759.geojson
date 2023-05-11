@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26926663251594,14.28478185690241],[75.26020218799903,14.28702732614527],[75.2457787996481,14.27929723064095],[75.24907164211575,14.27640017903111],[75.26196295681247,14.27931925120409],[75.26926663251594,14.28478185690241]]]},"properties":{"region_id":"village_607759","name":"HONAKINAKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

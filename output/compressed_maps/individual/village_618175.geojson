@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.028609514131,12.456101301721],[76.03602718074984,12.46703137343741],[76.01486130937958,12.47996293730918],[76.0059632904336,12.46038083374382],[76.028609514131,12.456101301721]]]},"properties":{"region_id":"village_618175","name":"NILAVADI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07406382926852,17.92043525287984],[77.07529785996269,17.93470717974222],[77.05327516973654,17.93894779980841],[77.05347132730118,17.91874384368999],[77.07406382926852,17.92043525287984]]]},"properties":{"region_id":"village_599735","name":"GADIRAIPALLI","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

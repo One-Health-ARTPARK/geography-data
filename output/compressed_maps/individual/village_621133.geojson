@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84794887473409,16.56369765050341],[76.83098638660272,16.58443837520071],[76.82123406752089,16.56603230221299],[76.84794887473409,16.56369765050341]]]},"properties":{"region_id":"village_621133","name":"MANDGALLI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

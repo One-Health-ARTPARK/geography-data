@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88254094822912,16.03205049994966],[74.86322211169127,16.05942360669301],[74.85113308015464,16.03009569944728],[74.88254094822912,16.03205049994966]]]},"properties":{"region_id":"village_597488","name":"PUDAKALKATTI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39935167115367,14.24713227498223],[76.38478532251685,14.24824472691371],[76.38520971854965,14.23617905318029],[76.39449835511053,14.22529334942383],[76.39935167115367,14.24713227498223]]]},"properties":{"region_id":"village_605585","name":"MEDEHALLI(PART)","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

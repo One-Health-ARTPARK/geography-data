@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89864384255434,13.75266064694502],[75.88806448615269,13.75395331927461],[75.88232441532767,13.74428475938315],[75.89824047244642,13.74684041447834],[75.89864384255434,13.75266064694502]]]},"properties":{"region_id":"village_609190","name":"SIREHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.13122108601425,13.34091137615317],[78.1170692453533,13.34287953682826],[78.12174390617452,13.3315411543412],[78.13122108601425,13.34091137615317]]]},"properties":{"region_id":"village_624702","name":"DODDAPURA","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

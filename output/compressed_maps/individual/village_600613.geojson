@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88341380353215,16.42118244970844],[76.85002808955242,16.40703477589446],[76.85440351218297,16.38270377290795],[76.88047875601758,16.37871805434345],[76.88341380353215,16.42118244970844]]]},"properties":{"region_id":"village_600613","name":"KAREGUD","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

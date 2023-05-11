@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32821135967406,15.54970564886362],[75.26075881016727,15.55784573003388],[75.26036780576027,15.53457332584885],[75.32461719458166,15.53325920766558],[75.32821135967406,15.54970564886362]]]},"properties":{"region_id":"village_602335","name":"YAMANUR","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

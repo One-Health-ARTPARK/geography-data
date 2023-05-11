@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77096558999197,13.36137754027029],[75.77597022641913,13.35945152769513],[75.78254924147666,13.37358905029549],[75.77197625371353,13.37017428094276],[75.77096558999197,13.36137754027029]]]},"properties":{"region_id":"village_609727","name":"HULIYARAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

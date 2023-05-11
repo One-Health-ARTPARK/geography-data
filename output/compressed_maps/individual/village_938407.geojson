@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66849468118681,12.93877849033217],[77.6540307298609,12.93430406464],[77.6600438368687,12.91515136473312],[77.66886693525726,12.92322683377789],[77.66849468118681,12.93877849033217]]]},"properties":{"region_id":"village_938407","name":"IBBALURU","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

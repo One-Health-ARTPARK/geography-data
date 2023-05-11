@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90571479741351,12.1963655844672],[75.8809000209436,12.21250103888406],[75.87421906070499,12.1924086258085],[75.89387067210664,12.18714531670034],[75.90571479741351,12.1963655844672]]]},"properties":{"region_id":"village_618039","name":"KALATHMADU","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

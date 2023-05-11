@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19237831760535,13.87151826542875],[75.16633781110573,13.87168861220946],[75.18751657157253,13.83786440402605],[75.20818249414607,13.84445337333686],[75.19237831760535,13.87151826542875]]]},"properties":{"region_id":"village_607989","name":"HONNE BYLU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

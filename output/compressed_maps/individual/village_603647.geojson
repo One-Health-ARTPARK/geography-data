@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80036135008933,14.37032785645947],[74.80656600439367,14.36290269339599],[74.82658464582366,14.38304728956854],[74.80622810709214,14.38305769060243],[74.80036135008933,14.37032785645947]]]},"properties":{"region_id":"village_603647","name":"KATTEKAI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

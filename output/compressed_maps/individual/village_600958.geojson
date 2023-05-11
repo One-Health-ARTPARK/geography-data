@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95817060117201,16.17190132834621],[76.9671512448161,16.13945402178013],[77.0018567680382,16.14603314885467],[76.98847457336231,16.17002764021953],[76.95817060117201,16.17190132834621]]]},"properties":{"region_id":"village_600958","name":"NAWALKAL","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

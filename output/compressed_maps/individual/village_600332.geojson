@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36659037247634,17.62215556431712],[77.34011903845932,17.62918028437586],[77.33335041946663,17.60616506156332],[77.36146403568738,17.60437085317697],[77.36659037247634,17.62215556431712]]]},"properties":{"region_id":"village_600332","name":"DEVGIR THANADA","parent":"subdistrict_7084","parent_name":"CHITAGUPPA"}}
+]}

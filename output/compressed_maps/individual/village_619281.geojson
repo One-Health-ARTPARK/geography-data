@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85184318011787,12.09453519001169],[76.84201822327931,12.09311074185055],[76.83482052258132,12.079738873826],[76.8520730455562,12.0769852683416],[76.85184318011787,12.09453519001169]]]},"properties":{"region_id":"village_619281","name":"BANOORU","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

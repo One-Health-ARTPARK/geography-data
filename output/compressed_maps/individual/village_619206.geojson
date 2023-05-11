@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81711960228911,12.19450167747611],[76.80283273642745,12.20768426646559],[76.79190590017404,12.20540711520651],[76.80546201615078,12.19005753453715],[76.81711960228911,12.19450167747611]]]},"properties":{"region_id":"village_619206","name":"NANDIGUNDA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

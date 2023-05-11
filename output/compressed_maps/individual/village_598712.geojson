@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53235640087019,15.91157220382325],[75.53300590063014,15.92404262481154],[75.512814822802,15.92690764617815],[75.5069797287243,15.91579849689927],[75.53235640087019,15.91157220382325]]]},"properties":{"region_id":"village_598712","name":"SOMANAKOPPA","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

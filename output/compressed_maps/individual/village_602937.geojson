@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72636905872403,14.88148982765377],[74.70052646836349,14.87192216726116],[74.68218157174569,14.88010602053232],[74.67517097339861,14.85197217404873],[74.72636905872403,14.88148982765377]]]},"properties":{"region_id":"village_602937","name":"HEGGUMBALE","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

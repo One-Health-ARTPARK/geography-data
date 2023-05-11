@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14523742338308,13.82694487448102],[76.13086279711506,13.81988241971118],[76.14212092900192,13.8042790801766],[76.15484546641702,13.81898440317148],[76.14523742338308,13.82694487448102]]]},"properties":{"region_id":"village_605858","name":"BALLEKERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

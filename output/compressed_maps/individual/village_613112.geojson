@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77780497423417,13.02981354982259],[77.76266934474309,13.03325496394064],[77.7582266153517,13.02103650294046],[77.7716720739396,13.01514052110917],[77.77780497423417,13.02981354982259]]]},"properties":{"region_id":"village_613112","name":"KANNAMANGALA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

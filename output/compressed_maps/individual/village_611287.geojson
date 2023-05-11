@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01999861766231,13.35110790833251],[77.00496259775466,13.33796739919493],[77.02411183085525,13.33786143657434],[77.01999861766231,13.35110790833251]]]},"properties":{"region_id":"village_611287","name":"KOTNAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

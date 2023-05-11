@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8686850502124,12.39342970216089],[75.8409204727074,12.39775132512428],[75.81815324350534,12.37894532767319],[75.84778717967573,12.36271412597804],[75.8686850502124,12.39342970216089]]]},"properties":{"region_id":"village_617967","name":"CHERALA SRIMANGALA","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

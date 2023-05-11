@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54119549520979,14.13667402629188],[75.54260982662768,14.1517900525445],[75.51595628057919,14.14262742220612],[75.53587999007304,14.12890937755713],[75.54119549520979,14.13667402629188]]]},"properties":{"region_id":"village_606734","name":"KUDUREKONDA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

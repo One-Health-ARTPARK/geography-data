@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76026708316854,13.51724983846409],[74.75452708241089,13.53016415509898],[74.73872935459289,13.52249260242852],[74.74764022949219,13.5138436627529],[74.76026708316854,13.51724983846409]]]},"properties":{"region_id":"village_608771","name":"ACHALADY","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

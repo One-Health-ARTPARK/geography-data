@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66893047897594,16.06818178896168],[76.64958895955156,16.08468515884013],[76.64096147072654,16.06318993841133],[76.66893047897594,16.06818178896168]]]},"properties":{"region_id":"village_600896","name":"TUPDOOR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17029731904687,14.01620524262483],[77.141610958357,14.01806948137829],[77.14147601577693,14.00376549182095],[77.17317954695935,14.00095552314585],[77.17029731904687,14.01620524262483]]]},"properties":{"region_id":"village_610631","name":"THIMMALANAIKANAKOTE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

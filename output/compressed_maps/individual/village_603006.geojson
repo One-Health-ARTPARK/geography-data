@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97485430200484,15.0701077887778],[74.95073561676067,15.06766211470446],[74.9423491896593,15.05040987028309],[74.97299804865716,15.05172006051377],[74.97485430200484,15.0701077887778]]]},"properties":{"region_id":"village_603006","name":"HULIHONDA","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

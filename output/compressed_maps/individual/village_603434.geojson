@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.38373000119556,14.48237343334143],[74.36574642673901,14.48091020306552],[74.36999619364259,14.46989935183657],[74.38886644803499,14.47287855291363],[74.38373000119556,14.48237343334143]]]},"properties":{"region_id":"village_603434","name":"BAAD","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

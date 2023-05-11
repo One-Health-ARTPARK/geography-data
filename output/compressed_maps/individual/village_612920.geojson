@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7187001117917,13.1765524860434],[77.72933692861508,13.18582269165315],[77.71354951862358,13.19629949498113],[77.70532328285374,13.1763192951179],[77.7187001117917,13.1765524860434]]]},"properties":{"region_id":"village_612920","name":"HUNACHUR","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

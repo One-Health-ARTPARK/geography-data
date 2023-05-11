@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65819120985833,13.76762255490539],[77.66033064284906,13.78486693915409],[77.64226026433106,13.77693081225793],[77.65819120985833,13.76762255490539]]]},"properties":{"region_id":"village_623282","name":"MATTAVALAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78444631862324,13.37195035809902],[77.77282613850493,13.35498909334874],[77.79113761604893,13.3520927733596],[77.78444631862324,13.37195035809902]]]},"properties":{"region_id":"village_623646","name":"KANITHAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

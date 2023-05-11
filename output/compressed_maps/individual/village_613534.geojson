@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49995783883728,12.76892703987097],[76.49087699661213,12.76522553212812],[76.49850579072877,12.76157451731765],[76.49995783883728,12.76892703987097]]]},"properties":{"region_id":"village_613534","name":"GANGENAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

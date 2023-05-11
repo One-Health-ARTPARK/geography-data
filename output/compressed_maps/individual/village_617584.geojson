@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12836691996863,12.82365899137515],[75.11828399556217,12.82214351689536],[75.11882104692928,12.79865019047616],[75.1313818286346,12.80495663474232],[75.12836691996863,12.82365899137515]]]},"properties":{"region_id":"village_617584","name":"NETLAMUDNUR","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

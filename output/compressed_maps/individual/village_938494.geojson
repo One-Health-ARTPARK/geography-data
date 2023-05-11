@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61553097709655,13.13116797370527],[77.61077712225826,13.11111901318068],[77.63847926330999,13.11319984217352],[77.61553097709655,13.13116797370527]]]},"properties":{"region_id":"village_938494","name":"KATTIGENAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

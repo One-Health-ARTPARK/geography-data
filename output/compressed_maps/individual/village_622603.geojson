@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.2580247704695,12.90607996554703],[78.25808234882851,12.92197882034103],[78.23688558709627,12.92110543868481],[78.22343345132145,12.91136875458715],[78.2580247704695,12.90607996554703]]]},"properties":{"region_id":"village_622603","name":"BOYISONNENAHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

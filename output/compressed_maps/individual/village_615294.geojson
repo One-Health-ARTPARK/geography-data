@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0589824798091,13.25044722427376],[76.03909998713824,13.25994819186686],[76.03703107563892,13.23159964249565],[76.05743265941848,13.2295066816719],[76.0589824798091,13.25044722427376]]]},"properties":{"region_id":"village_615294","name":"MATHIGHATTA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2566391599824,15.08539749909226],[76.23580668194319,15.0885577452635],[76.23485920363692,15.06086975434786],[76.27114213572627,15.06365969670221],[76.2566391599824,15.08539749909226]]]},"properties":{"region_id":"village_604674","name":"KACHINABANDI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30764628528603,18.07473421581947],[77.28752555413405,18.09264082825236],[77.27327355472616,18.07693473560946],[77.28023202775941,18.05946595027778],[77.30764628528603,18.07473421581947]]]},"properties":{"region_id":"village_599890","name":"WALSANG","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50118595768697,14.79459106388732],[74.52620836931571,14.79075662956345],[74.52402016015743,14.80926072152547],[74.50118595768697,14.79459106388732]]]},"properties":{"region_id":"village_602904","name":"BENADAGULI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

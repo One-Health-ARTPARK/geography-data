@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03185484597704,12.83380912435464],[77.01579342607067,12.8289363266835],[77.01826656395889,12.81497696586426],[77.0321094453314,12.82237838838449],[77.03185484597704,12.83380912435464]]]},"properties":{"region_id":"village_612727","name":"SHRINGARASAGRA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

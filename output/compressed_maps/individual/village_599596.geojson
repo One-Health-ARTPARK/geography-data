@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20711103848181,16.45978467976634],[76.18347650349415,16.45358911919276],[76.18353685518548,16.43635462747012],[76.2102037491611,16.43516032296696],[76.20711103848181,16.45978467976634]]]},"properties":{"region_id":"village_599596","name":"HANDRAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

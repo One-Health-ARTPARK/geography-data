@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71632966059198,16.01917334074777],[76.69593989432576,16.01921329189715],[76.69493188588466,16.01320824794162],[76.72113091765635,16.00563220090848],[76.71632966059198,16.01917334074777]]]},"properties":{"region_id":"village_600910","name":"HALAPUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00956584661944,12.97045782824433],[74.98620036759966,12.96924489950569],[74.98584290428838,12.95855581259521],[75.00486084615393,12.95451851023243],[75.00956584661944,12.97045782824433]]]},"properties":{"region_id":"village_617489","name":"KOLAVOORU","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

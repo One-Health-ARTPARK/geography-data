@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97565888025424,12.36245747088363],[76.96549897680289,12.36593974829139],[76.95824728878709,12.35459946965055],[76.97655141311516,12.35459216058192],[76.97565888025424,12.36245747088363]]]},"properties":{"region_id":"village_614685","name":"HUVINAKOPPALU","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8316989635367,12.8769581871483],[77.8305324381977,12.88735919434523],[77.81515161191767,12.88330278161955],[77.81449816468117,12.8742189057012],[77.8316989635367,12.8769581871483]]]},"properties":{"region_id":"village_613252","name":"PANDITANA AGRAHARA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

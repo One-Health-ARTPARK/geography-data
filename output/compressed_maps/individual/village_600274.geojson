@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2280206271886,17.86136863515201],[77.206480140181,17.8345706960439],[77.23413884884089,17.82727024842713],[77.23955703905074,17.85709519034689],[77.2280206271886,17.86136863515201]]]},"properties":{"region_id":"village_600274","name":"KABEERABAD WADI","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

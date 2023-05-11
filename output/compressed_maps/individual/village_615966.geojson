@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19124531131366,13.06437210616759],[76.18077167041407,13.06028507632374],[76.1862923641796,13.0456691364054],[76.19666713655114,13.05135801408952],[76.19124531131366,13.06437210616759]]]},"properties":{"region_id":"village_615966","name":"JAKKENAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

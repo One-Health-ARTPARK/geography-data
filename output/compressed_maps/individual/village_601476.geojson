@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2111354184059,15.85851831642328],[76.2120079611315,15.89727376063977],[76.20494652946392,15.8966771517028],[76.2111354184059,15.85851831642328]]]},"properties":{"region_id":"village_601476","name":"DOTIHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

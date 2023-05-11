@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11679128848625,13.10743182491208],[76.11673111232821,13.12588694425276],[76.10648572699382,13.12231026288616],[76.11679128848625,13.10743182491208]]]},"properties":{"region_id":"village_615900","name":"HARUVANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

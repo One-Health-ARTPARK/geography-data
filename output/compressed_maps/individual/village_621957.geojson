@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.15660669860299,13.21779693949183],[78.1466510304468,13.21988716592385],[78.14341331634864,13.20976075958164],[78.15600395555045,13.20536887938903],[78.15660669860299,13.21779693949183]]]},"properties":{"region_id":"village_621957","name":"ARINAGANAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

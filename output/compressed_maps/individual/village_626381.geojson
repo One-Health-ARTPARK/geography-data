@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46552648224839,12.64600509656903],[77.4545729081305,12.64438522065597],[77.45395252481892,12.63920189479715],[77.46640295769629,12.6386141400812],[77.46552648224839,12.64600509656903]]]},"properties":{"region_id":"village_626381","name":"CHIKKADEVARAHALLI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

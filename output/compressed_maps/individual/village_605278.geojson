@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71546039680725,14.58837127677912],[76.68965166278193,14.58201840094162],[76.68506819802961,14.54792845741971],[76.71864707583485,14.57089245680949],[76.71546039680725,14.58837127677912]]]},"properties":{"region_id":"village_605278","name":"OBANNANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

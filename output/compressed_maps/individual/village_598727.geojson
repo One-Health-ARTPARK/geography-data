@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50922772248826,15.86024693673429],[75.5185587990985,15.88230425733589],[75.49733473754122,15.89611985916802],[75.4925333737961,15.8736582642358],[75.50922772248826,15.86024693673429]]]},"properties":{"region_id":"village_598727","name":"GOVANAKOPPA","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

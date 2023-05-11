@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07249848420074,17.75113906541922],[77.08297612332333,17.75790067956935],[77.0856339431199,17.78764688567043],[77.06167936748352,17.7766241937418],[77.07249848420074,17.75113906541922]]]},"properties":{"region_id":"village_600291","name":"MOLKHERA","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

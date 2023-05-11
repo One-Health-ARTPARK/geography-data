@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65365331079632,16.03008028636041],[75.62551439988137,16.01762341895483],[75.6224587011845,15.97202791642413],[75.65552810401554,15.9719876110811],[75.65365331079632,16.03008028636041]]]},"properties":{"region_id":"village_598658","name":"HALAKURKI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25881108713588,14.47054151264965],[75.24755278723696,14.44606360785838],[75.27237042819111,14.44390989708454],[75.2881776031268,14.44875109868981],[75.28239238297786,14.46067825091881],[75.25881108713588,14.47054151264965]]]},"properties":{"region_id":"village_607691","name":"BILAKI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

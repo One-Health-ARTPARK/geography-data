@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03478842435499,14.25764082386106],[76.0122160491192,14.26240589899653],[76.01362267188841,14.24832939148994],[76.03478842435499,14.25764082386106]]]},"properties":{"region_id":"village_606705","name":"GUDLAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

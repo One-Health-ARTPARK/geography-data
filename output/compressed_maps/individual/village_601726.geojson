@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93317810289737,15.25073936678227],[75.92914604441596,15.25904751434033],[75.89921969896952,15.25190620457645],[75.90391166404865,15.23929844259695],[75.93317810289737,15.25073936678227]]]},"properties":{"region_id":"village_601726","name":"ALLIPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

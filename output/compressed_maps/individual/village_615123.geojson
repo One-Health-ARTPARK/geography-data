@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80334454831033,13.12761345207515],[75.7969884468951,13.11415186621572],[75.80374817737847,13.11234276678473],[75.80334454831033,13.12761345207515]]]},"properties":{"region_id":"village_615123","name":"BELLOTTE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

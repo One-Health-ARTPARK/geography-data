@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18957355846814,14.54684987606726],[76.165337433142,14.54631082790874],[76.16619247482227,14.51760940626968],[76.1783772381813,14.51677849304023],[76.18957355846814,14.54684987606726]]]},"properties":{"region_id":"village_606441","name":"MARIKUNTE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

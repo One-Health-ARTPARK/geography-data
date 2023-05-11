@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3445008268841,15.3303148962995],[76.32886446178001,15.33430570551046],[76.33326015640209,15.31931638807498],[76.3445008268841,15.3303148962995]]]},"properties":{"region_id":"village_601855","name":"KAMPASAGAR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

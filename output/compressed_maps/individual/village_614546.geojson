@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05199621950486,12.72338890119066],[77.05949453479383,12.74112302547528],[77.04539707536894,12.74290763436567],[77.05199621950486,12.72338890119066]]]},"properties":{"region_id":"village_614546","name":"MALLANAKUPPE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

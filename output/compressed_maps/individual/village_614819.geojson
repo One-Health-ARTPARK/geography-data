@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0685546252742,12.31872269148995],[77.05636204907002,12.31547824311505],[77.05783956124006,12.30026356232598],[77.07452165494733,12.30180929196054],[77.0685546252742,12.31872269148995]]]},"properties":{"region_id":"village_614819","name":"THENKAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

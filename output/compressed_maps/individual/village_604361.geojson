@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34209063352344,14.55964583025456],[75.31964107755661,14.56473266424956],[75.32242578218552,14.54661503589544],[75.34209063352344,14.55964583025456]]]},"properties":{"region_id":"village_604361","name":"HIREKONATI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

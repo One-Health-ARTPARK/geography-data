@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41365198010294,16.22297970915196],[75.38407486990843,16.21755687132041],[75.3889358852177,16.18790242231986],[75.40954626890766,16.17191619774266],[75.41365198010294,16.22297970915196]]]},"properties":{"region_id":"village_598604","name":"CHIKKUR","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

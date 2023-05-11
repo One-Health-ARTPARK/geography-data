@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33062242167092,16.14326077366418],[76.30404061696431,16.13877573099153],[76.31041059468866,16.13009038057968],[76.32996159788037,16.12645726464925],[76.33062242167092,16.14326077366418]]]},"properties":{"region_id":"village_600351","name":"RAMPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

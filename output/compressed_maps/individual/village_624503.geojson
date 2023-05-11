@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.13532069813114,13.41758766355566],[78.13314753759755,13.40861079311186],[78.14113210215305,13.40842311064622],[78.13532069813114,13.41758766355566]]]},"properties":{"region_id":"village_624503","name":"DANDAPALYA","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01967902238295,12.03884797578797],[77.01799492012937,12.04202838008858],[77.0122957152197,12.03459151123947],[77.01967902238295,12.03884797578797]]]},"properties":{"region_id":"village_619806","name":"DUYAMKANDALLI","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

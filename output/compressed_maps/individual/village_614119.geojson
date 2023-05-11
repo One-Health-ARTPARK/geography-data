@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60279423753842,12.54843522144494],[76.58741929243148,12.54678429947678],[76.58232027522693,12.53299329453915],[76.60492980254848,12.52980802219888],[76.60279423753842,12.54843522144494]]]},"properties":{"region_id":"village_614119","name":"CHINAKURALI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

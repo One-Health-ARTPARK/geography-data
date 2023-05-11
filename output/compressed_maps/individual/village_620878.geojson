@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57991378286438,16.72817052795851],[76.58119447928449,16.75858815880324],[76.55365498116491,16.75299367496924],[76.57991378286438,16.72817052795851]]]},"properties":{"region_id":"village_620878","name":"MALLA (K)","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

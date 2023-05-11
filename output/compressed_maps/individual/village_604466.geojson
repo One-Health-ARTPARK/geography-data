@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47673782392724,14.34509301631713],[75.46327647408175,14.3409444258486],[75.46330420588787,14.3258539792101],[75.47991111330907,14.32603175313041],[75.47673782392724,14.34509301631713]]]},"properties":{"region_id":"village_604466","name":"GANGAIKOPPA","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

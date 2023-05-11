@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05862761134433,13.21587075393846],[76.03747961508378,13.23160445863608],[76.01877630501973,13.21779221227151],[76.04905034590898,13.18863476736464],[76.05862761134433,13.21587075393846]]]},"properties":{"region_id":"village_615293","name":"GHATTADAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

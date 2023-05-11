@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73984383226231,13.5947112139782],[75.70201848132334,13.58625020079308],[75.72230695008109,13.56699511709517],[75.73984383226231,13.5947112139782]]]},"properties":{"region_id":"village_609340","name":"TANIGEBYLU","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

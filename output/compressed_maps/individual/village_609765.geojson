@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8823750528503,13.39081083916723],[75.87361098934362,13.39270647003166],[75.87303384677948,13.38511048624532],[75.88130389817263,13.38318763737375],[75.8823750528503,13.39081083916723]]]},"properties":{"region_id":"village_609765","name":"KENGENAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

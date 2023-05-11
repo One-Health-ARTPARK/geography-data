@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34034598642253,13.47293804824089],[76.34312990058618,13.48402305157509],[76.32565100700977,13.48698864343409],[76.32272365599418,13.47169566827767],[76.34034598642253,13.47293804824089]]]},"properties":{"region_id":"village_615622","name":"CHIKKONDIHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

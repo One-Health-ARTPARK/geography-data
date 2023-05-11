@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52256991655089,12.9945061629299],[77.50769190192749,13.00450122574296],[77.49302981852097,12.97968650389889],[77.50939938254547,12.98316632816406],[77.52256991655089,12.9945061629299]]]},"properties":{"region_id":"village_938515","name":"SHREEGANDHAKAVAL","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37024304529245,14.21765815074096],[76.36169012512708,14.22176338954955],[76.35903369554583,14.20649999124489],[76.36756072385147,14.20224759926815],[76.37024304529245,14.21765815074096]]]},"properties":{"region_id":"village_605596","name":"JALIKATTE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

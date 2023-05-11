@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6875628285947,12.88236451719956],[77.67735380420686,12.89426032115408],[77.67223537855637,12.88462186696236],[77.6875628285947,12.88236451719956]]]},"properties":{"region_id":"village_613184","name":"CHOODASANDRA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

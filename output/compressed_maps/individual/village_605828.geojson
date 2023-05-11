@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24294132171012,13.90439079593529],[76.21766238913622,13.90075721854623],[76.22837170429781,13.88846891403515],[76.24294132171012,13.90439079593529]]]},"properties":{"region_id":"village_605828","name":"HERUR","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01397475115176,17.44750143410344],[77.00034859023522,17.45329607230036],[76.99979076011599,17.43897231855268],[77.00791707471204,17.43423908753535],[77.01397475115176,17.44750143410344]]]},"properties":{"region_id":"village_620589","name":"KANNADAGI","parent":"subdistrict_7087","parent_name":"KALAGI"}}
+]}

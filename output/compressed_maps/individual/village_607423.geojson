@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13259747012088,14.56153550913434],[75.11251500382305,14.56697948701956],[75.11723584678016,14.55192564136617],[75.13259747012088,14.56153550913434]]]},"properties":{"region_id":"village_607423","name":"HOSAHALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

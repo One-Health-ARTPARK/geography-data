@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46119920235247,15.72693371493038],[75.45749254196632,15.75670223286611],[75.4377926965787,15.75357757407388],[75.43155819615497,15.72209311692408],[75.46119920235247,15.72693371493038]]]},"properties":{"region_id":"village_601893","name":"MADAGUNAKI","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

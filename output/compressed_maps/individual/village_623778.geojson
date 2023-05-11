@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78753349577991,13.64574109761045],[77.77881516674465,13.64020995674318],[77.79266901561355,13.63445507437486],[77.79968487969035,13.63776373653361],[77.78753349577991,13.64574109761045]]]},"properties":{"region_id":"village_623778","name":"LAKSHMISAGARA","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

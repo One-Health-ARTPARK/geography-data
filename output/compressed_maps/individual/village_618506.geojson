@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23665741225676,12.63899555485289],[76.2182134475445,12.64410284756733],[76.20672909568404,12.63030079674815],[76.23424696623952,12.62182814940359],[76.23665741225676,12.63899555485289]]]},"properties":{"region_id":"village_618506","name":"BETTAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

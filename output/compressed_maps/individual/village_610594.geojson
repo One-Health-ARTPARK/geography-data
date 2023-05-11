@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0393266559391,14.17697546422741],[77.03202719947957,14.16482914924076],[77.0626902701949,14.15303361135689],[77.07298654220988,14.16534679601396],[77.05042085970486,14.16670595408682],[77.0393266559391,14.17697546422741]]]},"properties":{"region_id":"village_610594","name":"HOTTEBOMMANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

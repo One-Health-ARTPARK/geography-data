@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33013957758895,13.04007678768787],[76.32963421844207,13.04836726534185],[76.29796109209974,13.0437440637707],[76.3066072345044,13.0316503635471],[76.33013957758895,13.04007678768787]]]},"properties":{"region_id":"village_617053","name":"BELAGULI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

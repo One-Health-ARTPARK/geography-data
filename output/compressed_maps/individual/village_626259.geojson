@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1922375425528,12.65310080700168],[77.1915498526069,12.64880114383287],[77.19560254491878,12.6482616790878],[77.19747426217201,12.6511058722619],[77.1922375425528,12.65310080700168]]]},"properties":{"region_id":"village_626259","name":"CHIKKA MALURU","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

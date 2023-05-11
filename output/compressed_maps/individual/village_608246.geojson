@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30602905585633,13.64513714839363],[75.29811658054896,13.64421797942095],[75.28832275835366,13.63116168977334],[75.29715358521798,13.62371557663786],[75.30389078996127,13.63145453081582],[75.30602905585633,13.64513714839363]]]},"properties":{"region_id":"village_608246","name":"INGLADI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33296168501009,13.59862302110671],[76.29286837663244,13.60186927831998],[76.29242794965042,13.59040723984364],[76.33104497283252,13.59487559973846],[76.33296168501009,13.59862302110671]]]},"properties":{"region_id":"village_605987","name":"HARIYANAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

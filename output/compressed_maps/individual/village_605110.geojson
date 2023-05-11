@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62714045071615,14.72036132009625],[76.59280531242261,14.72514356364059],[76.58544938788633,14.69446406467778],[76.60797913497962,14.6870208094802],[76.63921028298208,14.71155586321341],[76.62714045071615,14.72036132009625]]]},"properties":{"region_id":"village_605110","name":"MEENAKERI","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

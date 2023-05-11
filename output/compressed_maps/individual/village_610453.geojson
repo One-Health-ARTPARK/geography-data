@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80085172125037,13.58527035578057],[76.83121692812281,13.59266549060071],[76.82896915383702,13.6115500536728],[76.79805857990591,13.60679177817732],[76.80085172125037,13.58527035578057]]]},"properties":{"region_id":"village_610453","name":"MARAGONDANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

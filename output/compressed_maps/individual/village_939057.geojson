@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89710330249463,12.57443727751653],[75.88434279281145,12.56628447232253],[75.88783385321094,12.55770707337931],[75.90585525496273,12.56409906901051],[75.89710330249463,12.57443727751653]]]},"properties":{"region_id":"village_939057","name":"AREYURU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

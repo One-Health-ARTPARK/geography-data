@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51885837316033,17.60549037542112],[76.4914643717503,17.60775100445722],[76.4918958517924,17.57633411094208],[76.51795398122123,17.5708250809646],[76.51885837316033,17.60549037542112]]]},"properties":{"region_id":"village_620011","name":"HEBLI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

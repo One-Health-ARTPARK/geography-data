@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68628214005837,16.41344640489983],[75.65611702875188,16.43272893698651],[75.63742849851312,16.39609983287178],[75.66427063693563,16.3894445561123],[75.68628214005837,16.41344640489983]]]},"properties":{"region_id":"village_598500","name":"HOSA KORTI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

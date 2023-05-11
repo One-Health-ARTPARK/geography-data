@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33905572779003,17.09018240437411],[77.31399859208692,17.08210782794334],[77.32057210816046,17.05234201170455],[77.34498325306075,17.07198491077504],[77.33905572779003,17.09018240437411]]]},"properties":{"region_id":"village_620522","name":"CHITKANPALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

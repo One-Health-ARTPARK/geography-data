@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77685648579221,13.58640871115425],[76.77394343183103,13.59508865385792],[76.74678513932673,13.59317359754682],[76.74777256264998,13.58281884222805],[76.76087320357912,13.58716223812288],[76.77685648579221,13.58640871115425]]]},"properties":{"region_id":"village_610451","name":"MUDDAPPANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

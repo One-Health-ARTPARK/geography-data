@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34292713093375,15.43415926728466],[75.30572731824617,15.43454043260441],[75.31831934495942,15.42440671025674],[75.34292713093375,15.43415926728466]]]},"properties":{"region_id":"village_602366","name":"DUNDUR","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

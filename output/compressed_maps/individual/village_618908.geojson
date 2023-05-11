@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47849624068508,12.25978543271402],[76.48661141518484,12.2829863164471],[76.46347668347238,12.28991660054302],[76.4573987556288,12.26342914976376],[76.47849624068508,12.25978543271402]]]},"properties":{"region_id":"village_618908","name":"HALLADAMANUGANAHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

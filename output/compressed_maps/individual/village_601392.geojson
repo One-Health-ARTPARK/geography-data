@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94446954267244,15.86634371774702],[75.9292119578024,15.87513215371139],[75.92974176130885,15.85910583447863],[75.94446954267244,15.86634371774702]]]},"properties":{"region_id":"village_601392","name":"KONAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

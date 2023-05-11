@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47578884696304,12.76255544375516],[77.48464700620083,12.74793070619962],[77.51083864597283,12.75705832136107],[77.49945758300525,12.76239347373016],[77.47578884696304,12.76255544375516]]]},"properties":{"region_id":"village_613051","name":"NETTIGERE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

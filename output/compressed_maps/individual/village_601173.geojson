@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98330127482721,15.84078710914454],[76.99573667982169,15.80752164650551],[77.01213468918256,15.8196470885934],[76.98631777433765,15.83715013946695],[76.98330127482721,15.84078710914454]]]},"properties":{"region_id":"village_601173","name":"CHITRALI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

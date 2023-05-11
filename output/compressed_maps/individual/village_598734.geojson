@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67279800987636,15.99940112548609],[75.65723562747878,16.00156278133395],[75.65552810401554,15.9719876110811],[75.66730206949465,15.97281503557822],[75.67279800987636,15.99940112548609]]]},"properties":{"region_id":"village_598734","name":"HIREMUCHALAGUDDA","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

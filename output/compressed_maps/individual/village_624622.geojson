@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99302223176119,13.33370541109536],[77.98957874458956,13.33803218765493],[77.98377856692629,13.33167364315485],[77.99096640084163,13.32857456220236],[77.99302223176119,13.33370541109536]]]},"properties":{"region_id":"village_624622","name":"BANAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

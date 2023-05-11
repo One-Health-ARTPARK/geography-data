@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85720868683461,12.5379480333339],[75.84227021001576,12.54094732678728],[75.84481101174785,12.52163187975943],[75.86011801944407,12.52822337544124],[75.85720868683461,12.5379480333339]]]},"properties":{"region_id":"village_617938","name":"AIGUR*","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

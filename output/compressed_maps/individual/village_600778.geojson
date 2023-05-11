@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38697921086677,16.26647466764501],[77.38214204552241,16.29461697194018],[77.3583869099383,16.30505362655636],[77.3508935359626,16.26978782281541],[77.38697921086677,16.26647466764501]]]},"properties":{"region_id":"village_600778","name":"YEGNUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

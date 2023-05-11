@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15047918919065,13.300113305935],[77.14361650485505,13.30125307947927],[77.1454857493169,13.29216988183843],[77.1523007116244,13.29495257999704],[77.15047918919065,13.300113305935]]]},"properties":{"region_id":"village_611390","name":"KALLAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

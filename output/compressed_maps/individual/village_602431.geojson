@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16802141102265,15.19631702001042],[75.13752849203362,15.19072604261024],[75.14095832566437,15.1684571806075],[75.16619088802521,15.17055243518779],[75.16802141102265,15.19631702001042]]]},"properties":{"region_id":"village_602431","name":"AGADI","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

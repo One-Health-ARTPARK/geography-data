@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91314133558208,14.74728293083865],[74.90688667830986,14.76986531287465],[74.88434988939615,14.76046975688102],[74.88774580999831,14.74786150690725],[74.91314133558208,14.74728293083865]]]},"properties":{"region_id":"village_603076","name":"UMMACHAGI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

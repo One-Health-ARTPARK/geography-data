@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23436295486434,16.28351608992079],[76.20982087270245,16.28619905809522],[76.20397350029377,16.25984422719691],[76.23168500725757,16.2580269650517],[76.23436295486434,16.28351608992079]]]},"properties":{"region_id":"village_599665","name":"ARASANAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

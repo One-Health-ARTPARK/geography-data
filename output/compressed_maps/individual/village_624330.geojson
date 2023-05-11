@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.05541966391631,13.60689376722044],[78.04477472550906,13.5958496017619],[78.06025334917928,13.59201418773709],[78.05541966391631,13.60689376722044]]]},"properties":{"region_id":"village_624330","name":"ULIBELE","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

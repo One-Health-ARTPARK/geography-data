@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85533263601175,15.15555677276887],[74.83523947442231,15.14881984750215],[74.83128528753981,15.13302510400882],[74.85336443289103,15.12750392225303],[74.85533263601175,15.15555677276887]]]},"properties":{"region_id":"village_602477","name":"KANDLI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

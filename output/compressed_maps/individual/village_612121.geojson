@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43048864786489,13.23081789463242],[76.4191196446287,13.21053617276668],[76.44028576744685,13.2018665792611],[76.44241355257321,13.22847442919221],[76.43048864786489,13.23081789463242]]]},"properties":{"region_id":"village_612121","name":"THADASUR","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

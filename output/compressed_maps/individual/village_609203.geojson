@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92622830089847,13.74284769378148],[75.91052137456961,13.74620010389496],[75.90383528287893,13.73031601704929],[75.92298252319996,13.72818057364932],[75.92622830089847,13.74284769378148]]]},"properties":{"region_id":"village_609203","name":"HUNASAGHATTA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

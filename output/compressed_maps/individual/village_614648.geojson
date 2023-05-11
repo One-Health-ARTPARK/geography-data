@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1265757257459,12.49021001019645],[77.13051835447173,12.49682322553558],[77.13198889723766,12.50519038820309],[77.12405262914984,12.50096015916482],[77.1265757257459,12.49021001019645]]]},"properties":{"region_id":"village_614648","name":"HANNAHALLI DODDI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.2472511476476,13.12080311888729],[78.23066459144377,13.11849083744983],[78.24282918692509,13.10032044411798],[78.25258579924802,13.10903280469063],[78.2472511476476,13.12080311888729]]]},"properties":{"region_id":"village_622069","name":"HOLLAMBALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

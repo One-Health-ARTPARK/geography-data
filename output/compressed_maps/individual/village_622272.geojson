@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9480367928733,12.87104153664053],[77.94195218835317,12.87144708432618],[77.94547514813809,12.86021910899167],[77.95038148321558,12.86234618421656],[77.9480367928733,12.87104153664053]]]},"properties":{"region_id":"village_622272","name":"YAKKADODDI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

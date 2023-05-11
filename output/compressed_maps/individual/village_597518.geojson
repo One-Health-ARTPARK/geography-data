@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12227126119028,16.25397825652669],[75.09735247341915,16.25327597950244],[75.09603359619061,16.23776565003091],[75.11840953061336,16.24049425743364],[75.12227126119028,16.25397825652669]]]},"properties":{"region_id":"village_597518","name":"TIMMAPUR","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14896200369664,15.95120914955942],[77.157078009555,15.95570183474751],[77.15061389416734,15.98607296712696],[77.13501697464824,15.9612000862592],[77.14896200369664,15.95120914955942]]]},"properties":{"region_id":"village_601011","name":"PANNURU","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

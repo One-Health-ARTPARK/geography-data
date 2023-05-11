@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85909226459881,14.04497804382767],[75.83623371810883,14.03711739256325],[75.84114396408864,14.03379039454623],[75.86213490689757,14.03728634967235],[75.85909226459881,14.04497804382767]]]},"properties":{"region_id":"village_607039","name":"CHIKKAMADALU","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

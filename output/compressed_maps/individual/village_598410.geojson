@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24188002377127,16.51927745856513],[75.20439508893382,16.52048440825723],[75.20799797891567,16.48794813798625],[75.26189706289809,16.49499185862847],[75.24188002377127,16.51927745856513]]]},"properties":{"region_id":"village_598410","name":"MADARKHANDI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50786156222475,12.03261310801717],[76.48713808162867,12.03319760706307],[76.49757464166669,12.01825710031425],[76.50786156222475,12.03261310801717]]]},"properties":{"region_id":"village_618982","name":"KATTEHUNSUR","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

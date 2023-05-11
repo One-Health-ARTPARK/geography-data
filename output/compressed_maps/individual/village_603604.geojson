@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87147450628369,14.50505383877617],[74.85739104304345,14.50436126636377],[74.85884641251901,14.48979151990233],[74.86828256527942,14.47878901648891],[74.87147450628369,14.50505383877617]]]},"properties":{"region_id":"village_603604","name":"TYAGALI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

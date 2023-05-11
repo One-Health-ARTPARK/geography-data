@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25576248599897,14.74130195252975],[75.23310387790634,14.74424901676104],[75.23234744082458,14.72931774018341],[75.2573579296366,14.73079859751963],[75.25576248599897,14.74130195252975]]]},"properties":{"region_id":"village_604154","name":"HIREHULLAL","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

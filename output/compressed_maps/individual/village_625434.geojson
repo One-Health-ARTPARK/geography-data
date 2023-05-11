@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79435106310149,13.21887671235586],[77.77543440026501,13.22568290454951],[77.77537345545221,13.21373401950077],[77.78421151714878,13.20669957907969],[77.79435106310149,13.21887671235586]]]},"properties":{"region_id":"village_625434","name":"CHEEMACHANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

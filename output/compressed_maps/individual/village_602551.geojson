@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3462526100306,15.35015200003049],[75.30882154403717,15.33939492486939],[75.29924533978952,15.3326005800904],[75.30426279080896,15.30052684951165],[75.35592698656755,15.30439898673099],[75.3462526100306,15.35015200003049]]]},"properties":{"region_id":"village_602551","name":"YARAGUPPI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

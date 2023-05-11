@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76450885194981,14.48451569071302],[74.74942535514788,14.48455569983409],[74.75524712257256,14.47487335054267],[74.76450885194981,14.48451569071302]]]},"properties":{"region_id":"village_603545","name":"BIDARMANE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

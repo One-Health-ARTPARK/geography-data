@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13396290124858,15.77834014874444],[76.10976428236904,15.78416520499575],[76.10723059484235,15.75069607576374],[76.12384095305845,15.75305013880267],[76.13396290124858,15.77834014874444]]]},"properties":{"region_id":"village_601461","name":"KORDAKERA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

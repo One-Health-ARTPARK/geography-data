@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70638653871339,15.07053920850607],[75.66538963620671,15.05939579601037],[75.6868710190838,15.04354566651703],[75.70638653871339,15.07053920850607]]]},"properties":{"region_id":"village_602119","name":"HOSUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09037597748906,14.23506827432951],[75.07861720472823,14.22898225919182],[75.08538915136862,14.22148989287698],[75.09037597748906,14.23506827432951]]]},"properties":{"region_id":"village_607637","name":"AMACHI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

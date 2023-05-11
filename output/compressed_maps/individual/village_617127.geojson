@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3498323884307,13.06214843547595],[76.34568427682572,13.04365702540958],[76.35834851960206,13.04569617535578],[76.3498323884307,13.06214843547595]]]},"properties":{"region_id":"village_617127","name":"BANAVASE","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03651551462151,14.00247943777118],[75.02404763061556,13.99529863960399],[75.02985019383758,13.98669993839033],[75.03996036072243,13.98659450434673],[75.03651551462151,14.00247943777118]]]},"properties":{"region_id":"village_607863","name":"VEERABHADRAPURA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38637858822578,14.00281284250041],[77.3679976210341,14.00845988165073],[77.36378372192247,13.98958098655484],[77.38078837557366,13.99165059976266],[77.38637858822578,14.00281284250041]]]},"properties":{"region_id":"village_610660","name":"NERALEKUNTE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

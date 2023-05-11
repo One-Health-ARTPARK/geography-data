@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34141294666593,13.45272464417314],[75.35303817446675,13.4545101503596],[75.34831636506848,13.46555244349701],[75.34141294666593,13.45272464417314]]]},"properties":{"region_id":"village_609014","name":"THULUVINAKOPPA","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

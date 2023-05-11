@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80443110557667,12.62637984198473],[76.78159131291677,12.63374484319391],[76.78067618156918,12.62187070765357],[76.79343600823253,12.61461786522633],[76.80443110557667,12.62637984198473]]]},"properties":{"region_id":"village_614401","name":"BEECHANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11660301404709,16.07407608796581],[77.08222204112124,16.06867154327177],[77.08191289359944,16.03859233374055],[77.1211254229576,16.01330040557768],[77.11660301404709,16.07407608796581]]]},"properties":{"region_id":"village_600995","name":"NEERMANVI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

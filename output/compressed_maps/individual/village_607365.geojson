@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89325280899398,14.01595505425026],[74.88452383776679,14.02722057912052],[74.87505960258068,14.01554538169725],[74.89325280899398,14.01595505425026]]]},"properties":{"region_id":"village_607365","name":"NADAKEPPIGE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

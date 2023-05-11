@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38402023371587,13.72345783185129],[76.3774824107337,13.70508951275982],[76.4013288643022,13.68437969237117],[76.40768072801697,13.71405575088536],[76.38402023371587,13.72345783185129]]]},"properties":{"region_id":"village_606032","name":"DODDATHEKALAVATTI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

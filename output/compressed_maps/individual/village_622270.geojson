@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9428722188084,12.88740433076239],[77.9362025915827,12.88740554874716],[77.9346378265023,12.88045384350693],[77.94035740030894,12.87237431731894],[77.9428722188084,12.88740433076239]]]},"properties":{"region_id":"village_622270","name":"VOPPACHAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

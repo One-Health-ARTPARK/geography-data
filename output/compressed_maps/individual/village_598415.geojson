@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12411987637103,16.49127506588913],[75.09196009655952,16.45072389111492],[75.13761271423208,16.44533945490678],[75.12411987637103,16.49127506588913]]]},"properties":{"region_id":"village_598415","name":"HOSUR","parent":"subdistrict_7063","parent_name":"RABAKAVI BANAHATTI"}}
+]}

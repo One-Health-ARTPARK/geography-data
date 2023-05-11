@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20824574085287,14.45638439515715],[76.21884587233731,14.44194562622634],[76.23801560837084,14.45027544373085],[76.22869098266167,14.4649790898826],[76.20824574085287,14.45638439515715]]]},"properties":{"region_id":"village_606478","name":"SAGALAGATTE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

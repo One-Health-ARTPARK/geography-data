@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80447347645088,12.16468317145813],[76.7948385620912,12.17447608309111],[76.7864220449693,12.16095712356966],[76.79596294927289,12.15710646962466],[76.80447347645088,12.16468317145813]]]},"properties":{"region_id":"village_619214","name":"SUTHUR","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

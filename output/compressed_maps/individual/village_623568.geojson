@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79143786412902,13.44355421082193],[77.78460115026884,13.45757730092775],[77.77378934494197,13.44890728703651],[77.7801860059249,13.44070812051059],[77.79143786412902,13.44355421082193]]]},"properties":{"region_id":"village_623568","name":"ADAVIGOLLAVARAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83431529571513,15.23118000093534],[74.84501970577905,15.24749571667711],[74.8413688423195,15.25882534031012],[74.81923196921687,15.24581412928881],[74.83431529571513,15.23118000093534]]]},"properties":{"region_id":"village_602872","name":"JANAGA","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47270950446216,12.29529620831625],[76.44893411381156,12.29871598401657],[76.45924843703746,12.28180385015466],[76.47270950446216,12.29529620831625]]]},"properties":{"region_id":"village_618473","name":"CHIKKABEECHANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

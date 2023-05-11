@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73531536091545,13.29237120739649],[76.72319384837981,13.29458277875303],[76.71699383800349,13.27600872968457],[76.73474200151101,13.2705194469238],[76.73531536091545,13.29237120739649]]]},"properties":{"region_id":"village_612262","name":"CHAKUVALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

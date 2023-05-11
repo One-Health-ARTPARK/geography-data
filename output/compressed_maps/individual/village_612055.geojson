@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57871463950563,13.25032343150366],[76.5631270656204,13.25204983544956],[76.55978427893803,13.24052253634787],[76.57635039131253,13.23803449691657],[76.57871463950563,13.25032343150366]]]},"properties":{"region_id":"village_612055","name":"UPPINAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

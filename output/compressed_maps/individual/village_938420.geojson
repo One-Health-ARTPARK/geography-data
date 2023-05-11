@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64503369647586,12.89897222570499],[77.6458107551104,12.90445421134576],[77.63553006369844,12.91086351404582],[77.63614224417908,12.89990869766725],[77.64503369647586,12.89897222570499]]]},"properties":{"region_id":"village_938420","name":"ELLUKUNTE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

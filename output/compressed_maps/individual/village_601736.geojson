@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03263394391915,15.18173076160167],[76.00288129732984,15.16860709985419],[76.00986674683334,15.14830691307168],[76.03918172679217,15.14374875405652],[76.03263394391915,15.18173076160167]]]},"properties":{"region_id":"village_601736","name":"TIGARI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

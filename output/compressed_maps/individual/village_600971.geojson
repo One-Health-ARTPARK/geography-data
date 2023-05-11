@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12547897776889,16.15587087879397],[77.09930793691028,16.15740275120442],[77.1006912332836,16.13369820499525],[77.12777768464672,16.13674329636867],[77.12547897776889,16.15587087879397]]]},"properties":{"region_id":"village_600971","name":"SINGADDINNI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

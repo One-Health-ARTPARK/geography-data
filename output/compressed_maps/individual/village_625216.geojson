@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48024637393712,13.22695573180532],[77.44561847212648,13.23443848002295],[77.44690867944351,13.21771916372271],[77.48024637393712,13.22695573180532]]]},"properties":{"region_id":"village_625216","name":"MALLOHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81498492885733,15.73664691541356],[76.84211623021125,15.75029509264149],[76.84471710988367,15.78430188057984],[76.8294768495687,15.78743383892685],[76.81498492885733,15.73664691541356]]]},"properties":{"region_id":"village_601181","name":"MADSIRWAR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

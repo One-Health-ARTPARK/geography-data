@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89228071029737,16.6310128916155],[76.87239344139844,16.64942537405355],[76.87973335468071,16.66966799334138],[76.86333679352329,16.67350652597814],[76.8660262536479,16.64386488735159],[76.89228071029737,16.6310128916155]]]},"properties":{"region_id":"village_621122","name":"TIPPANHALLI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

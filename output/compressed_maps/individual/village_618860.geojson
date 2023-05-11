@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34820477288083,12.12263861493483],[76.32600344571391,12.11793529959846],[76.34444641260843,12.099659029277],[76.34820477288083,12.12263861493483]]]},"properties":{"region_id":"village_618860","name":"VODDARAGUDI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

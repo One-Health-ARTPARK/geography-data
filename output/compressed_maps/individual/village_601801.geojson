@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25223446525516,15.50196716640969],[76.23936569361993,15.5031757874688],[76.24127674976586,15.49138116005201],[76.24984226636394,15.48419265314844],[76.25223446525516,15.50196716640969]]]},"properties":{"region_id":"village_601801","name":"GOSALDODDI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

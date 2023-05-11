@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93632369821366,12.89412340962184],[74.89281586476187,12.89189597498596],[74.91140794242656,12.8764301082264],[74.93185608449052,12.87863379707837],[74.93632369821366,12.89412340962184]]]},"properties":{"region_id":"village_617510","name":"NEERMARGA (CT)","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

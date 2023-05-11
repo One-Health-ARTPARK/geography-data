@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83545437666676,13.24049089681759],[75.82909231907306,13.24430102213748],[75.81957447299204,13.23726923820245],[75.83295820876248,13.22998459803366],[75.83545437666676,13.24049089681759]]]},"properties":{"region_id":"village_615205","name":"NARAYANAPUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72902432517198,16.24612041088946],[76.72416129603462,16.27954654975829],[76.70440020151857,16.28102839537996],[76.69709917379532,16.23948925504554],[76.72902432517198,16.24612041088946]]]},"properties":{"region_id":"village_600474","name":"MACHANUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

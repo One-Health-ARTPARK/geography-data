@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11086243615462,16.85819903368729],[77.08253797042164,16.8506499375763],[77.09024167217086,16.83595100133654],[77.1047885100147,16.83908110778113],[77.11086243615462,16.85819903368729]]]},"properties":{"region_id":"village_621248","name":"ALIPUR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

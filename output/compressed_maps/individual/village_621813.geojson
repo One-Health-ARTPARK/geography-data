@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.00781441064133,13.18276157966789],[77.99564544241905,13.18359093436076],[77.99450131542838,13.17494465014299],[78.00578881305093,13.17060094932092],[78.00781441064133,13.18276157966789]]]},"properties":{"region_id":"village_621813","name":"KALVA","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

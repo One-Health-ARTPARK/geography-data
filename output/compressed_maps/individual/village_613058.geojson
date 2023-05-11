@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50900048019875,12.90586618191104],[77.5033654547994,12.91899850064083],[77.49096761608824,12.90937143124615],[77.5045304464859,12.89900652597624],[77.50900048019875,12.90586618191104]]]},"properties":{"region_id":"village_613058","name":"MYLASANDRA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23182269683531,13.66701941218864],[77.22005022819113,13.66816142938302],[77.22188562362253,13.65480640134703],[77.23184901542248,13.65393742595527],[77.23182269683531,13.66701941218864]]]},"properties":{"region_id":"village_610855","name":"GURUVADERAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

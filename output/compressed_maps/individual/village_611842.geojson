@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91422414413773,13.28391916876497],[76.89868424973965,13.27642895927851],[76.91396175785204,13.26687242732954],[76.91422414413773,13.28391916876497]]]},"properties":{"region_id":"village_611842","name":"THOREHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

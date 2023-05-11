@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82938713880672,13.01786579872526],[77.83150687063011,13.02934148186718],[77.82591122259443,13.0300569124404],[77.82520107228774,13.01897979762158],[77.82938713880672,13.01786579872526]]]},"properties":{"region_id":"village_625661","name":"VAGATA AGRAHARA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94458009949604,12.58006103773712],[75.93167880589019,12.58051183369589],[75.93771281838863,12.57029640500267],[75.94458009949604,12.58006103773712]]]},"properties":{"region_id":"village_924015","name":"BASIRGUPPE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

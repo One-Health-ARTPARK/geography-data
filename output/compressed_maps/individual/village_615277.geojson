@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95999078012548,13.17023830630385],[75.94780579643972,13.16999647906401],[75.95148037923404,13.16380567274333],[75.95999078012548,13.17023830630385]]]},"properties":{"region_id":"village_615277","name":"CHIKKAMMANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

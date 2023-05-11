@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6209921741748,13.37520500629229],[77.61144754473271,13.36439285945433],[77.61717219506872,13.35464599425336],[77.6209921741748,13.37520500629229]]]},"properties":{"region_id":"village_625052","name":"MARAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

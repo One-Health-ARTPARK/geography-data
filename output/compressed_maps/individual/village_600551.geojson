@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75647940868716,16.3903685378875],[76.74209372848043,16.39200349978038],[76.74292453002057,16.36835268114481],[76.75431431207592,16.36807274479915],[76.75647940868716,16.3903685378875]]]},"properties":{"region_id":"village_600551","name":"YERGUDDA","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

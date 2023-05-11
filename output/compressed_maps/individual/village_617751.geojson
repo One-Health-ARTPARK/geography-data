@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33394337217923,12.68138956088101],[75.29000246759716,12.62754555725198],[75.35169996996207,12.61400811049862],[75.33394337217923,12.68138956088101]]]},"properties":{"region_id":"village_617751","name":"KOLTHIGE","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

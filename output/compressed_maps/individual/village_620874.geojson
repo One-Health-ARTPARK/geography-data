@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.458419023441,16.70901994443472],[76.44081014849091,16.70941200827136],[76.4302967579762,16.69852255997063],[76.44121666262224,16.69199847874388],[76.45810739656046,16.68965049754217],[76.458419023441,16.70901994443472]]]},"properties":{"region_id":"village_620874","name":"WANDGNOOR","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56410444684472,16.19869429687603],[75.5369353432345,16.20565228378645],[75.5281698126072,16.1651660101271],[75.56873286614402,16.15632583024496],[75.56410444684472,16.19869429687603]]]},"properties":{"region_id":"village_598798","name":"TULASIGERI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

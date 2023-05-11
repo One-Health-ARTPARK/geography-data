@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24675631960089,13.17523828685417],[77.24597180953184,13.19069437108735],[77.23913658942156,13.18598468911188],[77.23882549480452,13.17762110320345],[77.24675631960089,13.17523828685417]]]},"properties":{"region_id":"village_624761","name":"GOTTIKERE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

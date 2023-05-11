@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05490735802883,12.50103436606724],[77.04559827753565,12.503664045988],[77.03777548496952,12.48673391306426],[77.05504233443116,12.48438015949226],[77.05490735802883,12.50103436606724]]]},"properties":{"region_id":"village_614632","name":"ALABUJANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

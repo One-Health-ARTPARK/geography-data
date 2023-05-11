@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77432712298078,16.4576683852279],[75.7364150706137,16.4657379272406],[75.73950843653702,16.44525803449785],[75.77303532571118,16.4489885445877],[75.77432712298078,16.4576683852279]]]},"properties":{"region_id":"village_599461","name":"MATTIHAL","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

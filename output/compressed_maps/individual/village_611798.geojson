@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85160020981284,13.31443744096772],[76.84334175650191,13.31755649173419],[76.84202968437347,13.30752722583533],[76.85077239826492,13.30780730627703],[76.85160020981284,13.31443744096772]]]},"properties":{"region_id":"village_611798","name":"BANDIHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

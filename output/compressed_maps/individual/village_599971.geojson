@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31616278649193,18.42206396324954],[77.30401385775122,18.44015338651793],[77.27492513799046,18.42613565143687],[77.30154866103044,18.4052078337075],[77.31616278649193,18.42206396324954]]]},"properties":{"region_id":"village_599971","name":"NANDI BIJALGAON","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

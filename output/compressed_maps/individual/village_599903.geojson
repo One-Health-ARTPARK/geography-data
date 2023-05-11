@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1635427542309,18.02918069848043],[77.15782213739368,18.04011463082646],[77.1457025717508,18.03051660690307],[77.15098868125247,18.02226462302844],[77.1635427542309,18.02918069848043]]]},"properties":{"region_id":"village_599903","name":"ANANDWADI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

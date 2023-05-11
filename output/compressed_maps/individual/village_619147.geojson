@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60865902125128,12.04628835968396],[76.60109786689195,12.05311896191814],[76.56735979772131,12.04544850451162],[76.60160410409355,12.0260332112954],[76.60865902125128,12.04628835968396]]]},"properties":{"region_id":"village_619147","name":"AMBALE","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

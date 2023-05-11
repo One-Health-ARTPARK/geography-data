@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20072800417897,16.11337567229683],[75.17555298718467,16.12522585762758],[75.17503171631279,16.09343565100613],[75.19360668615296,16.08753853885371],[75.20072800417897,16.11337567229683]]]},"properties":{"region_id":"village_598303","name":"BIJAGUPPI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

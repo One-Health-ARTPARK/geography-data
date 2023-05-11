@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70707132189446,16.55050749004625],[75.67893507522464,16.5168848720253],[75.70698741146988,16.49943112289037],[75.72055735709264,16.52710054728808],[75.70707132189446,16.55050749004625]]]},"properties":{"region_id":"village_599450","name":"RONIHAL","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30372439766263,16.13897812551689],[77.27686868456547,16.12249578880328],[77.29397515559951,16.10001479379344],[77.30372439766263,16.13897812551689]]]},"properties":{"region_id":"village_600824","name":"MERCHATHAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79370086317151,13.12219871334037],[77.77935953544885,13.12396294587742],[77.78039979959446,13.11733719865352],[77.79370086317151,13.12219871334037]]]},"properties":{"region_id":"village_625682","name":"VABASANDRA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

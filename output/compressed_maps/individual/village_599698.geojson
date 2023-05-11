@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31884415723,16.54631124174162],[76.302179722858,16.55007113881428],[76.28579289077554,16.53427800365205],[76.28901403513235,16.52621453286245],[76.31884415723,16.54631124174162]]]},"properties":{"region_id":"village_599698","name":"BOLAWAD","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

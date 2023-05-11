@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3233361754925,13.17287237279305],[77.30276736435866,13.17550186845367],[77.3022852200392,13.16496166883165],[77.31519739826389,13.16264887841904],[77.3233361754925,13.17287237279305]]]},"properties":{"region_id":"village_624849","name":"DODDERI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

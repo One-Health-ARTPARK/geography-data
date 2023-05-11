@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87497802763923,13.80758323327013],[76.86255600297255,13.80347483146788],[76.87274440954448,13.79494540028857],[76.87497802763923,13.80758323327013]]]},"properties":{"region_id":"village_610346","name":"BHUTHAKATNAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27068914695768,18.34259300930114],[77.25135583343385,18.34393346958117],[77.25010017452377,18.31751084952282],[77.26053977449959,18.31951048549416],[77.27068914695768,18.34259300930114]]]},"properties":{"region_id":"village_599986","name":"WAGANGERA","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

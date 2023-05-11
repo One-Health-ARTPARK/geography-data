@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93783358117932,16.19769910645383],[76.925346370424,16.16197918262331],[76.95265705146446,16.15463209501344],[76.93783358117932,16.19769910645383]]]},"properties":{"region_id":"village_600954","name":"NARABANDA","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

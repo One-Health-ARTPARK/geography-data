@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32492087842871,12.56915759028652],[77.31737518624746,12.56900081692434],[77.31056421352636,12.55790502811689],[77.29276753630175,12.55451962369997],[77.3044099458221,12.54588106859745],[77.32492087842871,12.56915759028652]]]},"properties":{"region_id":"village_626329","name":"UJJANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

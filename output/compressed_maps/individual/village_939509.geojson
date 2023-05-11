@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72949972085526,13.02020142919467],[77.71549835648935,13.02101680004442],[77.71952856940685,13.01010872653197],[77.72949972085526,13.02020142919467]]]},"properties":{"region_id":"village_939509","name":"SHIGEHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

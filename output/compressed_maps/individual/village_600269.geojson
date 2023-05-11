@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10905686293319,17.83953734407457],[77.0797884988067,17.84170092991948],[77.08017931493238,17.81260292971216],[77.10810978670962,17.81806072897054],[77.10905686293319,17.83953734407457]]]},"properties":{"region_id":"village_600269","name":"KANKATTA","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

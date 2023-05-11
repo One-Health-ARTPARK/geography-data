@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45413109625414,13.02572650068812],[77.44726566843443,13.02582059705086],[77.44314222119284,13.01148143735028],[77.45296412311365,13.01310213642211],[77.45413109625414,13.02572650068812]]]},"properties":{"region_id":"village_612808","name":"VADDARAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

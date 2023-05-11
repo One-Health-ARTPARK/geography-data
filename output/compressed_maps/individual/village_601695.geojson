@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61896764474506,15.53224470202498],[76.60963329205599,15.51429604754303],[76.63385584409635,15.51222874571834],[76.61896764474506,15.53224470202498]]]},"properties":{"region_id":"village_601695","name":"KRISHNAPUR","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1211254229576,16.01330040557768],[77.10813388322798,16.00970112531551],[77.1161426008015,15.99661833890821],[77.1331952635976,16.00364334978257],[77.1211254229576,16.01330040557768]]]},"properties":{"region_id":"village_601007","name":"MURHARPUR","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

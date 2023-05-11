@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21037402827066,12.59752355360558],[75.21289428819779,12.57765609513214],[75.2381397513583,12.56939552886347],[75.27868637924244,12.63262709961424],[75.22651395105159,12.61265696678406],[75.21037402827066,12.59752355360558]]]},"properties":{"region_id":"village_617750","name":"NETTANIGEMUDNOOR","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

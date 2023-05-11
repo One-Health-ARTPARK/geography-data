@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1327715235414,12.98188686608498],[77.11977886300835,12.98402673758608],[77.11190975892004,12.96473488136172],[77.12193020911876,12.9625126843166],[77.1327715235414,12.98188686608498]]]},"properties":{"region_id":"village_612557","name":"HULUVAGILU","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

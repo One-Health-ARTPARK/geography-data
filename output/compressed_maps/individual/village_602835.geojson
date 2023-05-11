@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.748365826533,15.4105761092118],[74.74335817865989,15.4024653307059],[74.7436963334905,15.38444291593421],[74.74903875114464,15.38340626088961],[74.75244573762676,15.39768717511656],[74.748365826533,15.4105761092118]]]},"properties":{"region_id":"village_602835","name":"MADNALLI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

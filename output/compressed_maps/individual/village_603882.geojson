@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15787785541146,15.10195368205278],[75.13920498166375,15.10236609940756],[75.1422603606438,15.09104755245301],[75.15227191801745,15.0883321762207],[75.15787785541146,15.10195368205278]]]},"properties":{"region_id":"village_603882","name":"THIMMAPUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3433403735226,14.66224761944493],[75.33963980667806,14.63530265716984],[75.35960059649742,14.63605219137329],[75.3433403735226,14.66224761944493]]]},"properties":{"region_id":"village_604292","name":"BADAMALLI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

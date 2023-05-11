@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96814931663468,13.86724237856237],[75.95360669649887,13.86964949299469],[75.95339227019446,13.8487257129273],[75.96382612260565,13.84558274580956],[75.96814931663468,13.86724237856237]]]},"properties":{"region_id":"village_607120","name":"THAVAREKERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

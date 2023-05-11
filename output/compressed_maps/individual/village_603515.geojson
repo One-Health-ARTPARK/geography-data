@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.57599263983079,14.42421290811858],[74.56368727391178,14.41523937838252],[74.57663542696541,14.41224892777291],[74.57599263983079,14.42421290811858]]]},"properties":{"region_id":"village_603515","name":"BASTIKERI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27662835930371,15.45577427940267],[76.28152969124129,15.416965598085],[76.31030295813292,15.41517525244933],[76.3071450533557,15.44184468213652],[76.27662835930371,15.45577427940267]]]},"properties":{"region_id":"village_601818","name":"KUKANPALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

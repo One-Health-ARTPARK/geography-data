@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66405199958967,12.99752399982841],[77.65292300029228,13.00579700015525],[77.63758300044016,13.00518199993038],[77.64829900010234,12.98706899963837],[77.66405199958967,12.99752399982841]]]},"properties":{"region_id":"ward_bbmp50","name":"WARD NO.50 (BENNIGANAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

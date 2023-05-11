@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65171764106556,15.33265941945378],[75.67074364598595,15.39926654910531],[75.64490427136104,15.39796113659908],[75.65171764106556,15.33265941945378]]]},"properties":{"region_id":"village_602014","name":"ADAVISOMAPUR","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73164956692794,12.67271556574997],[76.72024185676788,12.69061287563733],[76.71359546956658,12.67602786867766],[76.73164956692794,12.67271556574997]]]},"properties":{"region_id":"village_614388","name":"ANKUPPE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

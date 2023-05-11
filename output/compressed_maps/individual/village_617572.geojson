@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11615526593856,12.84683708882188],[75.09680146382074,12.86607526042285],[75.07100313247508,12.85690537752682],[75.07997588122282,12.83709875487805],[75.10243158545788,12.83925272474478],[75.11615526593856,12.84683708882188]]]},"properties":{"region_id":"village_617572","name":"BALTHILA","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

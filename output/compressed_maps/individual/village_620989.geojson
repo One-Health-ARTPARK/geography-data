@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37364182430366,16.27902618569269],[76.34925975191179,16.2790976868279],[76.34802400815644,16.26749966373511],[76.38507714139564,16.26908173399754],[76.37364182430366,16.27902618569269]]]},"properties":{"region_id":"village_620989","name":"KOTIGUD","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

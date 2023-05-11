@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71375264487914,12.86665706365528],[77.70197748851568,12.86379846755724],[77.70081503071518,12.85611263385528],[77.71673224045891,12.85359691906762],[77.71375264487914,12.86665706365528]]]},"properties":{"region_id":"village_613192","name":"HUSKUR","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

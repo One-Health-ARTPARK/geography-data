@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27720264820243,14.35456219861292],[75.24317869750567,14.34660255792056],[75.2557002708959,14.32023392641907],[75.27848683925731,14.33164872658525],[75.27720264820243,14.35456219861292]]]},"properties":{"region_id":"village_607742","name":"UDUGANI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

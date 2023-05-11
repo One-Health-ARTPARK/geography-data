@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5991571270015,12.31274220670038],[76.59568551953446,12.32942547652072],[76.57443111498802,12.32226734358618],[76.58089105958943,12.30992435264331],[76.5991571270015,12.31274220670038]]]},"properties":{"region_id":"village_618730","name":"BASAVANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

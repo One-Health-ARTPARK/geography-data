@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.34159750802449,14.63261097772158],[74.32697815065193,14.643457217479],[74.31382851941304,14.64363859310408],[74.31523571874591,14.63617756371451],[74.32659722848162,14.62396127869782],[74.34159750802449,14.63261097772158]]]},"properties":{"region_id":"village_939241","name":"SHEDAGERI","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

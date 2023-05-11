@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3772033024558,13.12271103537599],[76.37518971353248,13.13233463461943],[76.368884016681,13.13160548904612],[76.36677109767133,13.1216113789944],[76.3772033024558,13.12271103537599]]]},"properties":{"region_id":"village_617115","name":"BALEHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

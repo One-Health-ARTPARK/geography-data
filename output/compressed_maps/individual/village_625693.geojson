@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8288246669774,13.10456150651578],[77.81314907135122,13.10428335248524],[77.81541579495587,13.09058946505577],[77.8288246669774,13.10456150651578]]]},"properties":{"region_id":"village_625693","name":"DODDAHULLUR","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

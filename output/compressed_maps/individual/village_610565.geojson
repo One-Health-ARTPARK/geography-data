@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36204790853405,14.24701702201302],[77.34529988870432,14.2507873825059],[77.33941463761933,14.21991552690437],[77.34267099946982,14.19803187196637],[77.36204790853405,14.24701702201302]]]},"properties":{"region_id":"village_610565","name":"KYATHAGANAKERE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

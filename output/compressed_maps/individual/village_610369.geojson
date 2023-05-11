@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94588371696824,13.76876499249982],[76.93065442911784,13.76503360960438],[76.93151014793474,13.74869070511489],[76.95026341159267,13.75314291612576],[76.94588371696824,13.76876499249982]]]},"properties":{"region_id":"village_610369","name":"KUSUKUNTE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

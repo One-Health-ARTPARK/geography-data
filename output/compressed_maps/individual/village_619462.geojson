@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7074967617879,11.94739394015024],[76.73107783017426,11.91470471953961],[76.73779684824756,11.93584422109854],[76.72564384363423,11.94863231248358],[76.7074967617879,11.94739394015024]]]},"properties":{"region_id":"village_619462","name":"SEEGAVADI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

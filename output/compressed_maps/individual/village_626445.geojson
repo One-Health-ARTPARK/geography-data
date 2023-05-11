@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39439971860472,12.62074420387431],[77.39219618545906,12.59076708848467],[77.4045497880073,12.59322400594759],[77.39439971860472,12.62074420387431]]]},"properties":{"region_id":"village_626445","name":"GANALU","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88488298678388,13.86809555306089],[74.86216491213914,13.90604943708278],[74.85417142947867,13.8946331367821],[74.85964133213139,13.86929005978507],[74.88488298678388,13.86809555306089]]]},"properties":{"region_id":"village_607361","name":"VALUR","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

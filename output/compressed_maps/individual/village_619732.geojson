@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85812609019632,11.76058843393298],[76.84578703858597,11.76550020352334],[76.8354882491748,11.75302723327516],[76.85445661119905,11.74780090961825],[76.85812609019632,11.76058843393298]]]},"properties":{"region_id":"village_619732","name":"ACHATTIPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0791854017887,15.66557615206676],[75.08073386236426,15.68561631395521],[75.05932364209411,15.68146827231156],[75.06779154441631,15.65917524746952],[75.07249289822404,15.65997910226611],[75.0791854017887,15.66557615206676]]]},"properties":{"region_id":"village_598243","name":"CHIKKULLIGERI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

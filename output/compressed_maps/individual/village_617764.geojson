@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41932169802557,12.64838284264335],[75.4035769914602,12.64025073388972],[75.39976844625247,12.60698336332425],[75.41687026563447,12.6061643223694],[75.42820271655313,12.63387982221675],[75.41932169802557,12.64838284264335]]]},"properties":{"region_id":"village_617764","name":"AMARAPADNOOR","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47793662956389,14.69505148718665],[76.46003535874601,14.69307855242295],[76.45689783960084,14.68327019943413],[76.48234188720312,14.68167841215201],[76.47793662956389,14.69505148718665]]]},"properties":{"region_id":"village_605125","name":"S. IMADAPURA","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55199817281233,13.39669379243492],[76.55624538070049,13.39518237722325],[76.5556968524558,13.4008870459992],[76.55199817281233,13.39669379243492]]]},"properties":{"region_id":"village_610232","name":"HESARAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

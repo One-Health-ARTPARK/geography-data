@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11509883274708,12.85785648518392],[77.10508550807076,12.83024785942293],[77.12177717548892,12.83185993751657],[77.11509883274708,12.85785648518392]]]},"properties":{"region_id":"village_612733","name":"KENCHANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

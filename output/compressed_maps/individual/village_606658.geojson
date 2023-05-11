@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99667893271057,14.34739726346418],[75.99839085882014,14.37862576662603],[75.97009107580362,14.36226306514736],[75.99667893271057,14.34739726346418]]]},"properties":{"region_id":"village_606658","name":"HIRETOGALERI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

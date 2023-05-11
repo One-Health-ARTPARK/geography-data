@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9947778227541,12.46157727410935],[75.98310126804884,12.4654783228245],[75.98407051842943,12.44978903170172],[75.9947778227541,12.46157727410935]]]},"properties":{"region_id":"village_618124","name":"SUNKADAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

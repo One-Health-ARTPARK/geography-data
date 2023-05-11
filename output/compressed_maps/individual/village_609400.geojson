@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11386315431567,13.71052972745527],[76.12054407556988,13.72252621110502],[76.10849281693945,13.73265079916733],[76.10439306462756,13.71903047525812],[76.11386315431567,13.71052972745527]]]},"properties":{"region_id":"village_609400","name":"SIDDAPURA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

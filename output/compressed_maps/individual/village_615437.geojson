@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90673204455311,13.09201640016534],[75.89481722573169,13.08157851286417],[75.89875314429237,13.06768049180244],[75.9196920010133,13.08043790549966],[75.90673204455311,13.09201640016534]]]},"properties":{"region_id":"village_615437","name":"MADAGHATTA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

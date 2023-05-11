@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88278868942182,13.09900963214161],[75.87270840514361,13.09981092342935],[75.87731172500573,13.0860403181264],[75.88834549310972,13.09211803412141],[75.88278868942182,13.09900963214161]]]},"properties":{"region_id":"village_615397","name":"JAGABORANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

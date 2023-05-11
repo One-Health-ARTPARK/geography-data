@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07182141264576,14.29179170933051],[75.05742288612363,14.30095092218504],[75.03903987053214,14.27523331870503],[75.06467385290192,14.27183969518124],[75.07182141264576,14.29179170933051]]]},"properties":{"region_id":"village_607613","name":"KYASANURU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

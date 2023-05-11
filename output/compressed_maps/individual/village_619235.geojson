@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61693516690217,12.10044686758338],[76.59923269111415,12.11937283034769],[76.58603079362652,12.09443578805467],[76.60304629898039,12.07624248809954],[76.61693516690217,12.10044686758338]]]},"properties":{"region_id":"village_619235","name":"HEGGADAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

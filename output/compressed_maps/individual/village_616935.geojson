@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31375873742795,12.81182283424926],[76.32370459645524,12.81430449289163],[76.31723644920005,12.82567148442989],[76.3068539883237,12.82355063074734],[76.31375873742795,12.81182283424926]]]},"properties":{"region_id":"village_616935","name":"JAKKAVALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

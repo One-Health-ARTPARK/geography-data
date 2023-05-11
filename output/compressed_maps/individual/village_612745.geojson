@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04410328336931,12.7773731573006],[77.049899688073,12.74937312836233],[77.05974857280552,12.75233666694646],[77.05697494921674,12.76503300703873],[77.04410328336931,12.7773731573006]]]},"properties":{"region_id":"village_612745","name":"HUNUGANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

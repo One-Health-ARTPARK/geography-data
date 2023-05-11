@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33137187691409,17.34541102201667],[77.30923889121834,17.35253476811325],[77.30659319481006,17.32491926914471],[77.32212762479934,17.32797127880156],[77.33137187691409,17.34541102201667]]]},"properties":{"region_id":"village_620450","name":"BHANTANAHALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

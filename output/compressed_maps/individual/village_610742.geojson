@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06829989499252,13.70694691498657],[77.04835919309524,13.70302073263646],[77.04505060170231,13.68877739379272],[77.06804091302357,13.68984089789303],[77.06829989499252,13.70694691498657]]]},"properties":{"region_id":"village_610742","name":"THIPPANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

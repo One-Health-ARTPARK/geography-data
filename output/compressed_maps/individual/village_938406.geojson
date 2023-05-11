@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62632635298164,12.95001577915796],[77.62574341125726,12.94025384916919],[77.63259399543995,12.93852091024375],[77.62632635298164,12.95001577915796]]]},"properties":{"region_id":"village_938406","name":"EEJIPURA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

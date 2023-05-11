@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46145100334908,15.98333647148832],[75.45731085130691,15.99677324171936],[75.43690860272447,15.9952218030368],[75.43544064829092,15.98608569656807],[75.46145100334908,15.98333647148832]]]},"properties":{"region_id":"village_598697","name":"RADDERA TIMMAPUR","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

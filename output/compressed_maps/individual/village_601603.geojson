@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51110638229042,15.4748740356202],[76.46217451997695,15.4874576365421],[76.46115103972677,15.47215250714854],[76.49269370920888,15.4633764774665],[76.51110638229042,15.4748740356202]]]},"properties":{"region_id":"village_601603","name":"ARHAL","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

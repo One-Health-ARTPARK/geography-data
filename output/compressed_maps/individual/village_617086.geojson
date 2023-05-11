@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36635737392285,12.91783915235067],[76.35455723207673,12.92304058762698],[76.35249720930437,12.90904344953386],[76.36530797410853,12.90921723523151],[76.36635737392285,12.91783915235067]]]},"properties":{"region_id":"village_617086","name":"MALENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

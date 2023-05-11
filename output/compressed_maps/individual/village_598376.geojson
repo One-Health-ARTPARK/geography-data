@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30795279842366,15.98185122553748],[75.2844855060773,15.98907949717291],[75.27983304402552,15.95945336879619],[75.2945940194399,15.94501446464538],[75.30795279842366,15.98185122553748]]]},"properties":{"region_id":"village_598376","name":"TURANUR (PART)","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

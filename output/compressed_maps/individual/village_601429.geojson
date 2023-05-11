@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03604254619952,15.93645560058798],[76.04517292575703,15.89724795944941],[76.0638214459048,15.91583962828878],[76.03604254619952,15.93645560058798]]]},"properties":{"region_id":"village_601429","name":"SEBANKATTI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

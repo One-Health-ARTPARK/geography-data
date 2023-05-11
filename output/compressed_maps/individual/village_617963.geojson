@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86255185386806,12.46645640064016],[75.85809081829754,12.47330860349127],[75.8371081107137,12.47595139102729],[75.83729711383089,12.45845064758476],[75.86255185386806,12.46645640064016]]]},"properties":{"region_id":"village_617963","name":"KANBYLU BAICHANALLI","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

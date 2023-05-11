@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65743024768761,15.19220932731682],[75.62021150344246,15.19045158911246],[75.62638212083569,15.15000705617587],[75.65444449114914,15.15388177593284],[75.65743024768761,15.19220932731682]]]},"properties":{"region_id":"village_602101","name":"MAJJUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

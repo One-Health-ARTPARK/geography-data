@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05310917303538,14.26945541773435],[76.02922776240779,14.25051024544263],[76.04049581127585,14.23992933446248],[76.06641279922398,14.24506266549238],[76.05310917303538,14.26945541773435]]]},"properties":{"region_id":"village_606706","name":"NALKUNDA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

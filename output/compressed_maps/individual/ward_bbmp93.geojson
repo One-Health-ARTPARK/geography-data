@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5770959996848,12.99360500000939],[77.58436499991589,12.97792399982221],[77.59274199987836,12.98969199999897],[77.5770959996848,12.99360500000939]]]},"properties":{"region_id":"ward_bbmp93","name":"WARD NO.93 (VASANTH NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

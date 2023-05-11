@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9449475474276,12.84326947312995],[76.93458972000838,12.84857513743635],[76.930091754498,12.83103964898351],[76.94567692394118,12.83522749355747],[76.9449475474276,12.84326947312995]]]},"properties":{"region_id":"village_612681","name":"BENAVARA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

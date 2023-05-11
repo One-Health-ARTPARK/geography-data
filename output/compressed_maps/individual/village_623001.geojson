@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.50050530374695,13.17739103888566],[78.48747533852683,13.17217599776155],[78.48981267092319,13.16508575848229],[78.50006636655381,13.17117463337098],[78.50050530374695,13.17739103888566]]]},"properties":{"region_id":"village_623001","name":"CHINTHLAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

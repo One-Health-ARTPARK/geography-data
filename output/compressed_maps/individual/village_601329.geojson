@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0570109805935,15.47774454143672],[76.06998075973132,15.43648812907985],[76.08485647406879,15.44706143710943],[76.07827267190633,15.47337333344679],[76.0570109805935,15.47774454143672]]]},"properties":{"region_id":"village_601329","name":"CHENDOOR","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

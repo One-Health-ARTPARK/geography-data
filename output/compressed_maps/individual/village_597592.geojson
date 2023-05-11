@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74305808467945,16.26003674367401],[74.72897112419685,16.2651171740818],[74.73003118374305,16.23549013695422],[74.74774145845755,16.24171628857611],[74.74305808467945,16.26003674367401]]]},"properties":{"region_id":"village_597592","name":"SHIRDHAN","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

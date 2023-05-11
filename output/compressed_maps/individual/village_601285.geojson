@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16817754101763,15.66558603333648],[76.15840366654321,15.68554676969961],[76.14335205831168,15.66526875993071],[76.16817754101763,15.66558603333648]]]},"properties":{"region_id":"village_601285","name":"HOSUR","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

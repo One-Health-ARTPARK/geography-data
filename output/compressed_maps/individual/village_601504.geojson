@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25267161186257,15.73684261542802],[76.23288780148997,15.76299655859617],[76.19733929360578,15.72798754742133],[76.20900612502228,15.69954946381747],[76.2489957042782,15.70409544605711],[76.25267161186257,15.73684261542802]]]},"properties":{"region_id":"village_601504","name":"KANDAKUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

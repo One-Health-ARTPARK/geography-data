@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82524891871256,12.95588231903771],[77.82084287158148,12.95740354787528],[77.81756661431119,12.96926426600209],[77.8113312197855,12.9525157114411],[77.82317291017588,12.94990105481813],[77.82524891871256,12.95588231903771]]]},"properties":{"region_id":"village_625730","name":"ANUGONDAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21091770233474,13.31365038650666],[77.20654939806136,13.30066048052306],[77.22272019485912,13.29651953472768],[77.22796282702855,13.31007329708384],[77.21091770233474,13.31365038650666]]]},"properties":{"region_id":"village_611404","name":"VADEKAL","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

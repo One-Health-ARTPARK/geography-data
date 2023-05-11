@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64967684405511,13.08137473526026],[77.6483911063179,13.06923777819586],[77.64428073917915,13.06168740041045],[77.65159930695093,13.05881954327294],[77.64967684405511,13.08137473526026]]]},"properties":{"region_id":"village_938238","name":"KOTTANURU","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

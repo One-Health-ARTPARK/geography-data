@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14010092462344,14.1691152225229],[75.12528269271303,14.19075150005077],[75.11608604867996,14.17457860885727],[75.14010092462344,14.1691152225229]]]},"properties":{"region_id":"village_607220","name":"NARAGODU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

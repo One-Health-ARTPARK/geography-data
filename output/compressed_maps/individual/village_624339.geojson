@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96707483946689,13.55586877123723],[77.95920975093388,13.55760914072243],[77.95733866190297,13.5472711043526],[77.96746596250814,13.54655984000564],[77.96707483946689,13.55586877123723]]]},"properties":{"region_id":"village_624339","name":"GAJALAVARAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

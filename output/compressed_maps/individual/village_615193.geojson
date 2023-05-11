@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83865062792654,13.16689530908835],[75.82919959440972,13.18161174007729],[75.81750862206616,13.17270885917961],[75.83865062792654,13.16689530908835]]]},"properties":{"region_id":"village_615193","name":"CHINNENAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

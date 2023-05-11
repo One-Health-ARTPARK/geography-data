@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28882185241606,18.22113761653125],[77.28126540168846,18.20003250529812],[77.3013844587215,18.19877324471632],[77.28882185241606,18.22113761653125]]]},"properties":{"region_id":"village_600018","name":"MUDHOLE (K)","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

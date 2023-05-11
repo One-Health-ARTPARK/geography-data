@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31580412704133,17.52791042826461],[77.31456658460115,17.51187336736657],[77.33627141396873,17.51045687076287],[77.33547418648041,17.52645987568111],[77.31580412704133,17.52791042826461]]]},"properties":{"region_id":"village_620348","name":"TAJLAPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

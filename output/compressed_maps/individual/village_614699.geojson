@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03964638338321,12.41965151801037],[77.05065736698933,12.41313268581472],[77.05208432812829,12.44702591247486],[77.03581889262746,12.44142609343541],[77.03964638338321,12.41965151801037]]]},"properties":{"region_id":"village_614699","name":"NELAMAKANAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

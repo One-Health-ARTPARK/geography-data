@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12463568873133,12.64892672524842],[76.12470598967911,12.66098842179045],[76.10809513785749,12.65624594715831],[76.11018772785972,12.64779706112559],[76.12463568873133,12.64892672524842]]]},"properties":{"region_id":"village_616654","name":"BELIKARPURAVALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

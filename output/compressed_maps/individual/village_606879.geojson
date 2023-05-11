@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7709641447245,14.12671846319076],[75.76853895382426,14.11918128662247],[75.80235196710657,14.1187331241596],[75.80182030660946,14.1243162369401],[75.7709641447245,14.12671846319076]]]},"properties":{"region_id":"village_606879","name":"HATTEHALU","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

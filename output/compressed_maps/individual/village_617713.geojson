@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62822432595324,12.77431902760871],[75.53862434183519,12.779255105783],[75.57670087369162,12.73314746380463],[75.62822432595324,12.77431902760871]]]},"properties":{"region_id":"village_617713","name":"KOMBARU","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

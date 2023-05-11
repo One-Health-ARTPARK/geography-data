@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36663656771152,12.77974076571734],[76.35760032007816,12.78059021710976],[76.35495677095729,12.76674788752704],[76.36888523338983,12.76830902225096],[76.36663656771152,12.77974076571734]]]},"properties":{"region_id":"village_613377","name":"KEMPIKOPPALU","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

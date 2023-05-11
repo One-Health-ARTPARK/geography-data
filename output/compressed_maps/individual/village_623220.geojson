@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48072533214254,13.56744066653937],[77.46500447402231,13.57024833739684],[77.46440628226806,13.55662948676304],[77.47991019259109,13.56029604768717],[77.48072533214254,13.56744066653937]]]},"properties":{"region_id":"village_623220","name":"KENKERE","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

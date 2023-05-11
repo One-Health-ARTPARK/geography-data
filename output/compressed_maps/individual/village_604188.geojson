@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22329501987129,14.5849744441088],[75.22341772466973,14.60057429601604],[75.21626920227575,14.59271076397932],[75.22329501987129,14.5849744441088]]]},"properties":{"region_id":"village_604188","name":"KALGUDDI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

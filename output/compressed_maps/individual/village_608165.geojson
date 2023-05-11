@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38822502190602,13.73513151853497],[75.3680335899006,13.72157316910881],[75.38862563963703,13.71009058760129],[75.38822502190602,13.73513151853497]]]},"properties":{"region_id":"village_608165","name":"THUDURU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

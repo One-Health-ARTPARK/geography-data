@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86353370971548,15.75840849875343],[76.85579334263467,15.76749469662047],[76.85607760607901,15.82371003985101],[76.84230248825239,15.77470379834452],[76.84211623021125,15.75029509264149],[76.86353370971548,15.75840849875343]]]},"properties":{"region_id":"village_601182","name":"BELGURKI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

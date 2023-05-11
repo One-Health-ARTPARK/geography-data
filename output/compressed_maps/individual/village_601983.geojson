@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0189404704056,15.71506543451247],[76.04303943264803,15.720071781575],[76.04345885384136,15.7364334254458],[76.02290398019551,15.72470723983702],[76.0189404704056,15.71506543451247]]]},"properties":{"region_id":"village_601983","name":"MATARANGI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

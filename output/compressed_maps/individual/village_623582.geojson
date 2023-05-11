@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80669469007853,13.46198267281939],[77.78926482565396,13.46468174828162],[77.79109272624319,13.4485779484087],[77.80669469007853,13.46198267281939]]]},"properties":{"region_id":"village_623582","name":"MARALAKUNTE","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

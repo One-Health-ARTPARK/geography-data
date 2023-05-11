@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87491876760706,16.77057089139377],[75.87190073376455,16.819522256408],[75.84699810256268,16.78227604267757],[75.87491876760706,16.77057089139377]]]},"properties":{"region_id":"village_599097","name":"HONNUTAGI","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

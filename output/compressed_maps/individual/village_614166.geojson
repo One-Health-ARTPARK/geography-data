@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69911929901488,12.56021840938591],[76.68401299780189,12.55449997109282],[76.68241297766845,12.54352072054206],[76.6987043997553,12.54101449490789],[76.69911929901488,12.56021840938591]]]},"properties":{"region_id":"village_614166","name":"BALEATHIGUPPE","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

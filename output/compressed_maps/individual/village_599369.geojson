@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17529328026359,16.89036421005199],[76.10287951312537,16.87556530199444],[76.08503482184803,16.85200579986487],[76.10000371555645,16.83435814537116],[76.16918253407921,16.83346157030392],[76.17529328026359,16.89036421005199]]]},"properties":{"region_id":"village_599369","name":"KANNOLLI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

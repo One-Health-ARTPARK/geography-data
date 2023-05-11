@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77405067837124,13.31621404212065],[77.75961488895959,13.3014495164038],[77.76867335394171,13.29191851943215],[77.77405067837124,13.31621404212065]]]},"properties":{"region_id":"village_625336","name":"DANDIGANAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

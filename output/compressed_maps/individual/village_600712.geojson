@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03164076831544,16.28391340841513],[77.00861200679074,16.28294064866106],[77.01544950261933,16.26541934992882],[77.02910060087756,16.26598773277554],[77.03164076831544,16.28391340841513]]]},"properties":{"region_id":"village_600712","name":"BUDDINNI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17624641956927,14.09526591491949],[76.15459987288052,14.09864505878797],[76.15592447622308,14.06845695921994],[76.17370232382302,14.07156847115456],[76.17624641956927,14.09526591491949]]]},"properties":{"region_id":"village_605728","name":"ADANUR","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

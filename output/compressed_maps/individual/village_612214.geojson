@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65862794214374,13.22670523868377],[76.64194494569675,13.22442656159516],[76.64341397668902,13.21193316003573],[76.65548523154777,13.21563080814587],[76.65862794214374,13.22670523868377]]]},"properties":{"region_id":"village_612214","name":"N.MANCHENAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

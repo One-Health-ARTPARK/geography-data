@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81285490367478,12.60919506114208],[75.81351163880761,12.62821100861178],[75.8033944279037,12.63034155376596],[75.80588680110448,12.61957334819783],[75.81285490367478,12.60919506114208]]]},"properties":{"region_id":"village_617927","name":"ABBIMATTA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

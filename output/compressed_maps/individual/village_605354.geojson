@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74326761728449,14.2527983092053],[76.72544988882771,14.27468537837972],[76.7034771100508,14.2744939141121],[76.69858392662964,14.24884733875923],[76.72043389789654,14.23927826119236],[76.74326761728449,14.2527983092053]]]},"properties":{"region_id":"village_605354","name":"REDDIHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

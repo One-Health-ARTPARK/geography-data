@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34176504120171,13.53641572737655],[75.30368340632502,13.52226840769616],[75.31353211339079,13.50205029088709],[75.34176504120171,13.53641572737655]]]},"properties":{"region_id":"village_608996","name":"ADDADA","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

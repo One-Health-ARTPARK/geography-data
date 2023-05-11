@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81822754037927,14.13053749106308],[74.78742802938149,14.13217279102698],[74.78204169379406,14.09967739855063],[74.81822754037927,14.13053749106308]]]},"properties":{"region_id":"village_607141","name":"MUPPANE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

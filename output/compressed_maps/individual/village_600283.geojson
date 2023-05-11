@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29477424661474,17.81499047885833],[77.27357452646143,17.82543382345256],[77.27497580248506,17.80748873035476],[77.29477424661474,17.81499047885833]]]},"properties":{"region_id":"village_600283","name":"MARKHAL","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

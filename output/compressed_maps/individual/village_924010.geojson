@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99366690387959,12.57450498511231],[75.99727065514001,12.5838184816196],[75.98767653688871,12.58110344105775],[75.99366690387959,12.57450498511231]]]},"properties":{"region_id":"village_924010","name":"NALLURU","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

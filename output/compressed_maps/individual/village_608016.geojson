@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9992994651965,13.92490411174199],[74.96983578914936,13.93388237212838],[74.9694994184784,13.91337612564085],[74.98735311369745,13.90804740294207],[74.9992994651965,13.92490411174199]]]},"properties":{"region_id":"village_608016","name":"MAGODU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

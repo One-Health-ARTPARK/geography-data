@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77402293051,13.79529951738319],[75.80439649909971,13.79468349408799],[75.79939671483419,13.82299557042838],[75.77402293051,13.79529951738319]]]},"properties":{"region_id":"village_608612","name":"SIDDARAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

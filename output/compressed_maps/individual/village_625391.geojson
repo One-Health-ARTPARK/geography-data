@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68925124810004,13.23468901296607],[77.6854598216686,13.22180755941851],[77.69707695453627,13.22414592660365],[77.68925124810004,13.23468901296607]]]},"properties":{"region_id":"village_625391","name":"CHIKKASANNE","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

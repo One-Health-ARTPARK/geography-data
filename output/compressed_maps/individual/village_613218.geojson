@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7784612386733,12.87517287020242],[77.76952548377005,12.87522373142337],[77.76454378863944,12.86355074507873],[77.77868471262285,12.86652707444768],[77.7784612386733,12.87517287020242]]]},"properties":{"region_id":"village_613218","name":"SOMPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

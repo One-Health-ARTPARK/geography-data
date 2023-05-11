@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18659819442681,14.96009380413383],[76.1386397607575,14.95237657713579],[76.12743098100579,14.92988484201282],[76.17514648991575,14.91441627689434],[76.18659819442681,14.96009380413383]]]},"properties":{"region_id":"village_604693","name":"KOGALI","parent":"subdistrict_7108","parent_name":"KOTTURU"}}
+]}

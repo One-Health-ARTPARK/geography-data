@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.63142938924221,15.65392340969544],[74.62638445052248,15.66518140980639],[74.6132707026957,15.65769859498993],[74.61558082506588,15.64702133085691],[74.63142938924221,15.65392340969544]]]},"properties":{"region_id":"village_597888","name":"KAGGANAGI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

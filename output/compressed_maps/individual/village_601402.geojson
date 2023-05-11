@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9652773313049,15.85947389340457],[75.95763832104805,15.84399411316664],[75.97350377283136,15.84444370401651],[75.9652773313049,15.85947389340457]]]},"properties":{"region_id":"village_601402","name":"TIMMANHATTI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

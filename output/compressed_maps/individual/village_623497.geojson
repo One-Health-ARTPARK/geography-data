@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81392003849578,13.56231514834175],[77.78530481285857,13.55701660061361],[77.8051427850158,13.54610833185062],[77.81392003849578,13.56231514834175]]]},"properties":{"region_id":"village_623497","name":"HARISTHALA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

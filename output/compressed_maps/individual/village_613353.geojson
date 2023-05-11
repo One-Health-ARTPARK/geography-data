@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74054658954,12.701504379032],[77.76214445182134,12.69693673600818],[77.7609694705573,12.72964320752176],[77.7459238336997,12.72949368385258],[77.74054658954,12.701504379032]]]},"properties":{"region_id":"village_613353","name":"SAMANDUR","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

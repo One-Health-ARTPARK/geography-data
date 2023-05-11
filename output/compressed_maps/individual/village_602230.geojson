@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01628398951584,15.51122862326951],[75.0101534930914,15.53252228518446],[74.99518088840016,15.5298542744766],[74.99834063659829,15.50942716688424],[75.01628398951584,15.51122862326951]]]},"properties":{"region_id":"village_602230","name":"DASANAKOPPA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

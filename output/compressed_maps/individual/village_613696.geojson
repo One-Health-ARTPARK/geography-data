@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.700054758904,12.97989396376941],[76.69028294684891,12.97957140478656],[76.69221917359667,12.97347684368753],[76.695723010773,12.97860545985371],[76.700054758904,12.97989396376941]]]},"properties":{"region_id":"village_613696","name":"DYAMASANDRA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

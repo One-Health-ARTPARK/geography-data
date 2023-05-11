@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17663470563419,12.82215850664302],[75.15870190045271,12.83271150866242],[75.14121790978517,12.81174998306537],[75.17404585280354,12.80128362169601],[75.17663470563419,12.82215850664302]]]},"properties":{"region_id":"village_617583","name":"KEDILA","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

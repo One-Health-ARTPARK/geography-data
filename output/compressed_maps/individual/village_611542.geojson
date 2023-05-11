@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08827833940012,13.16250322810402],[77.07027468133987,13.15002136502751],[77.0832511909906,13.13660217025507],[77.09565732168764,13.14560300811946],[77.08827833940012,13.16250322810402]]]},"properties":{"region_id":"village_611542","name":"NIDAVALALU","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

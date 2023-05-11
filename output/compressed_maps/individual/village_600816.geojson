@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19562268704445,16.22753472465789],[77.17160458442936,16.18054283773283],[77.2271666757395,16.18134432399302],[77.19562268704445,16.22753472465789]]]},"properties":{"region_id":"village_600816","name":"KALMALA","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

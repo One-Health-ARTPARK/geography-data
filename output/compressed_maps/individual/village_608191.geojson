@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23494092500195,13.75169295782015],[75.22349910117991,13.75259147809315],[75.22796684291629,13.74214618622871],[75.23494092500195,13.75169295782015]]]},"properties":{"region_id":"village_608191","name":"HIRESARA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

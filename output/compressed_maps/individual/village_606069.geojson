@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59349625783291,14.05078623157389],[76.58866879994324,14.07617360741155],[76.57306551502111,14.07332519020152],[76.57215024958631,14.05224274089765],[76.59349625783291,14.05078623157389]]]},"properties":{"region_id":"village_606069","name":"KURUDUGIRENAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06405167337927,14.37666818174883],[75.07114425240358,14.38716079348173],[75.06284635205022,14.39039764776305],[75.06405167337927,14.37666818174883]]]},"properties":{"region_id":"village_607559","name":"KARADIGERE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

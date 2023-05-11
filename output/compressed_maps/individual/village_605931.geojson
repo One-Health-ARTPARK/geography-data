@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31573791808266,13.83409797711141],[76.3084895993107,13.86151228456867],[76.28636470250989,13.85344415728559],[76.28448912119127,13.83359253611322],[76.31573791808266,13.83409797711141]]]},"properties":{"region_id":"village_605931","name":"HONNENAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

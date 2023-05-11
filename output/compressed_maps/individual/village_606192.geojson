@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60826427125274,13.79128569767802],[76.59234092905707,13.76757023643682],[76.6160656606052,13.76232774666282],[76.60826427125274,13.79128569767802]]]},"properties":{"region_id":"village_606192","name":"HANDIGANADU","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

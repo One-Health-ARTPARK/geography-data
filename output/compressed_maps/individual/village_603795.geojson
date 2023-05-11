@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.54794609128842,14.29754094099104],[74.5264879696471,14.2825510413791],[74.53786689960607,14.27275487380929],[74.5576052448839,14.27658600456692],[74.54794609128842,14.29754094099104]]]},"properties":{"region_id":"village_603795","name":"HERAVALI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

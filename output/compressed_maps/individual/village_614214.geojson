@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65867920172687,12.43858917306815],[76.64646652969583,12.44031622102599],[76.65366409526554,12.4241935331773],[76.66181704131868,12.42986242764308],[76.65867920172687,12.43858917306815]]]},"properties":{"region_id":"village_614214","name":"PUTTAYYANAKOPPALU","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

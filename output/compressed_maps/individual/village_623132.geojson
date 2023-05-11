@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.48578832950757,13.12289865071886],[78.48421540057149,13.12812012464987],[78.476754194216,13.12369223625321],[78.48223855358785,13.11947980054784],[78.48578832950757,13.12289865071886]]]},"properties":{"region_id":"village_623132","name":"CHIKKAGUTTAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90483089234719,13.1167802962329],[77.89652068831737,13.11227859815202],[77.90119934104733,13.1019406167316],[77.91238679208708,13.10946803202473],[77.90483089234719,13.1167802962329]]]},"properties":{"region_id":"village_625610","name":"CHINNANDAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

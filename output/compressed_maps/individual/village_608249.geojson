@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35219744013077,13.66044550004061],[75.34513220748873,13.65968807173726],[75.33781303546186,13.6410948572362],[75.34647567586627,13.64586180394251],[75.35219744013077,13.66044550004061]]]},"properties":{"region_id":"village_608249","name":"KATAGARU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

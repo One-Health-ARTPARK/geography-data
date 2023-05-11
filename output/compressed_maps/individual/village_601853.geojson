@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31297419509646,15.34186322069653],[76.29635522028687,15.32704440633666],[76.31674579445101,15.31650727303756],[76.31297419509646,15.34186322069653]]]},"properties":{"region_id":"village_601853","name":"HITNAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

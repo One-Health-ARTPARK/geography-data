@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32040117054385,16.54739242924143],[76.29424865231346,16.52992323824384],[76.30456992674277,16.51986606345567],[76.32291122489895,16.5263543774651],[76.32040117054385,16.54739242924143]]]},"properties":{"region_id":"village_599697","name":"BOMMANAHALLI","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

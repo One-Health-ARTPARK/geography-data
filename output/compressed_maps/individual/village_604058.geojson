@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14522836079828,14.84832992177159],[75.12902877233873,14.84951392071759],[75.1246546376235,14.8291624902484],[75.14334889767552,14.83403092216591],[75.14522836079828,14.84832992177159]]]},"properties":{"region_id":"village_604058","name":"YALLUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

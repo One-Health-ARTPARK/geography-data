@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54309699214971,12.20991224996844],[76.55459353209616,12.20896491955347],[76.55341763234826,12.23134888877159],[76.54284693961017,12.22904060795828],[76.54309699214971,12.20991224996844]]]},"properties":{"region_id":"village_618755","name":"BARADANAPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

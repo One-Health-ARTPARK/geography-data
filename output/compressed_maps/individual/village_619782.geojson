@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1658271172794,11.82926177501606],[77.16732993228685,11.84732156783606],[77.15920581621351,11.84231117756219],[77.1658271172794,11.82926177501606]]]},"properties":{"region_id":"village_619782","name":"BEDAGULI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

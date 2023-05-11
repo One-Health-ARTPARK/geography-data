@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25618525633278,13.49278038618076],[77.23420125327847,13.48902154806568],[77.23304031856985,13.47845443598973],[77.24353113793295,13.47276711208358],[77.25618525633278,13.49278038618076]]]},"properties":{"region_id":"village_611089","name":"HANCHIHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

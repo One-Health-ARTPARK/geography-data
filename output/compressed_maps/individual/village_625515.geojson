@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77798917481873,13.16115142027319],[77.76728659138944,13.14430175975346],[77.78371806172832,13.14118902227512],[77.77798917481873,13.16115142027319]]]},"properties":{"region_id":"village_625515","name":"KAMMASANDRA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

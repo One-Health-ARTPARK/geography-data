@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99780118084641,12.0210257860754],[75.9812483050413,12.02017682421315],[75.98891039667143,12.011792824069],[76.00158255805134,12.00227239924022],[76.00542204624438,12.0120993478895],[75.99780118084641,12.0210257860754]]]},"properties":{"region_id":"village_924065","name":"SRIMANGALA","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

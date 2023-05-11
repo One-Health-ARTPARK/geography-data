@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72201525428595,11.71518013638434],[76.70886527527904,11.73362346529016],[76.70101450359924,11.71198753711679],[76.70886100816625,11.70921102891563],[76.72201525428595,11.71518013638434]]]},"properties":{"region_id":"village_619583","name":"BELAVADI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.15117870781286,15.73658619214715],[74.14606061132864,15.70984935904904],[74.1710194900203,15.69501556811445],[74.18509557591749,15.73792560990258],[74.15117870781286,15.73658619214715]]]},"properties":{"region_id":"village_597803","name":"HULAND","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

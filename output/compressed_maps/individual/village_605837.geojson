@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19356795870728,13.84929504420064],[76.19566850844174,13.8691157809307],[76.17589359958932,13.86804878279748],[76.1746101921189,13.85016022173362],[76.19356795870728,13.84929504420064]]]},"properties":{"region_id":"village_605837","name":"KADIVANAKATTE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

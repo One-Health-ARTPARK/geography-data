@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86857257757997,15.47442054687006],[75.84904334015661,15.51297303364061],[75.80917914771739,15.48778382186675],[75.83912771528314,15.44321372575849],[75.8736942103513,15.44819714764805],[75.86857257757997,15.47442054687006]]]},"properties":{"region_id":"village_601338","name":"YARIHANCHINAL","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

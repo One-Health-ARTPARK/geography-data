@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49682285890873,16.18085900962304],[76.47068395375169,16.18574533888344],[76.46374887634548,16.16263512890584],[76.48647980028834,16.15947894208469],[76.49682285890873,16.18085900962304]]]},"properties":{"region_id":"village_600415","name":"KESARHATTI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

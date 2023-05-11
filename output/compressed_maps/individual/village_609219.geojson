@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94172758362274,13.68019766198378],[75.92888052752316,13.68082258076085],[75.92936640390758,13.67003992695173],[75.94119828401826,13.66940464497731],[75.94172758362274,13.68019766198378]]]},"properties":{"region_id":"village_609219","name":"K.GOLLARAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

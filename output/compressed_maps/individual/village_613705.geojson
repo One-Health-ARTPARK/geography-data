@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78416923049943,13.01078968049534],[76.78242302892663,13.03046510600373],[76.75894794008292,13.03637218425655],[76.75238821015282,13.01095904238336],[76.78416923049943,13.01078968049534]]]},"properties":{"region_id":"village_613705","name":"BYALADAKERE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

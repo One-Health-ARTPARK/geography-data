@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80562098491893,13.74758620122147],[77.80299525997691,13.73683524371281],[77.81921307567454,13.73974178272443],[77.80562098491893,13.74758620122147]]]},"properties":{"region_id":"village_623856","name":"SRINIVASAPURA","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6579303562024,13.01508229083223],[75.66784775977543,13.0026845027725],[75.67630987854982,13.02634475495891],[75.6579303562024,13.01508229083223]]]},"properties":{"region_id":"village_614843","name":"DEVALADAKERE","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

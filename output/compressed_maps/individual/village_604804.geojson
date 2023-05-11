@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96918160097027,15.63963370532346],[76.99527441784261,15.6448234455646],[76.9995497901934,15.65728380024297],[76.96532506988495,15.6538232126332],[76.96918160097027,15.63963370532346]]]},"properties":{"region_id":"village_604804","name":"TONDEHAL","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

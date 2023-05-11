@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3745830983391,16.74339908304904],[76.36858056892665,16.76688291924114],[76.34559339473506,16.75959081877203],[76.34717609517699,16.73933238334278],[76.3745830983391,16.74339908304904]]]},"properties":{"region_id":"village_599416","name":"WANDAL","parent":"subdistrict_7071","parent_name":"DEVARA HIPPARAGI"}}
+]}

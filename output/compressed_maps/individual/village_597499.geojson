@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.737068646956,16.01073065671359],[74.72204300280029,15.99790536784676],[74.73134536741155,15.97713446007237],[74.75644806112585,15.98084642242282],[74.7360391466599,15.99615210913424],[74.737068646956,16.01073065671359]]]},"properties":{"region_id":"village_597499","name":"PANJANATTI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43316641191183,13.48424426180328],[76.41187244705087,13.4791912735233],[76.41961165097767,13.44947400043177],[76.43778604376163,13.47287930602061],[76.43316641191183,13.48424426180328]]]},"properties":{"region_id":"village_610058","name":"KENGALAPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

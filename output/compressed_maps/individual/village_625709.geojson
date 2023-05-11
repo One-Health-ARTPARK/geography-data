@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79146208984366,13.04529325864461],[77.78695406137018,13.04684627529277],[77.78602870439985,13.0540941599177],[77.78089032801503,13.05146581195778],[77.78173596971783,13.04481218517871],[77.79146208984366,13.04529325864461]]]},"properties":{"region_id":"village_625709","name":"SARAKARIGUTTAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

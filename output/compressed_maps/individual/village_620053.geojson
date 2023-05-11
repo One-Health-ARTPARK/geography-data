@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40867150744354,17.50469884353707],[76.37562290505142,17.48890691472232],[76.39292044394932,17.47217456000527],[76.40867150744354,17.50469884353707]]]},"properties":{"region_id":"village_620053","name":"KERUR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

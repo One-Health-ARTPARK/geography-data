@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98176937932895,15.82552908783611],[75.97581730412621,15.83800260371503],[75.95785698515094,15.82587474702802],[75.96070914952466,15.81694826963466],[75.98176937932895,15.82552908783611]]]},"properties":{"region_id":"village_601408","name":"TUMRIKOPPA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

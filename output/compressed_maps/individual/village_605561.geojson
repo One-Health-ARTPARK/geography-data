@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27560505144469,14.1988832954067],[76.25681879273682,14.20779063109665],[76.25748960827806,14.18456045956796],[76.27560505144469,14.1988832954067]]]},"properties":{"region_id":"village_605561","name":"THUREBAILU","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

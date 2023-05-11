@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90972786022485,13.6365819567055],[77.90141834070684,13.6337963645425],[77.90677528545838,13.62096721556106],[77.91599211945174,13.62647128293773],[77.90972786022485,13.6365819567055]]]},"properties":{"region_id":"village_624021","name":"VENKATAPURA","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

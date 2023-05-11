@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21182447690286,12.57073791093237],[77.19076410461068,12.56845753865623],[77.18851207054396,12.55505990049473],[77.20766864964052,12.55974567678009],[77.21182447690286,12.57073791093237]]]},"properties":{"region_id":"village_626279","name":"AKKUR","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63340953782445,15.22328723518103],[75.61728387537589,15.23214101812212],[75.5951185652861,15.22142340693481],[75.62754272363863,15.21044671523979],[75.63340953782445,15.22328723518103]]]},"properties":{"region_id":"village_602051","name":"HANGANAKATTI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

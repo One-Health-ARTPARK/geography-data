@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25509679976949,16.27711495149828],[77.22109002076645,16.28574851142807],[77.20073579801291,16.22820182343911],[77.2483485231848,16.23032581020709],[77.25509679976949,16.27711495149828]]]},"properties":{"region_id":"village_600817","name":"J. VENKTAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

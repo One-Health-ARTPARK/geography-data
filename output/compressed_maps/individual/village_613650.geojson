@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55575200646533,12.58052542133217],[76.54196785435069,12.57153515961603],[76.5651174414685,12.5681366044489],[76.55575200646533,12.58052542133217]]]},"properties":{"region_id":"village_613650","name":"BANNENAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

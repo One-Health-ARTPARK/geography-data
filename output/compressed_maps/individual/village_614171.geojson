@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7326984527888,12.54620064743645],[76.73467309690461,12.55778270887191],[76.72648521772176,12.562755292083],[76.72096917219274,12.55231783768026],[76.7326984527888,12.54620064743645]]]},"properties":{"region_id":"village_614171","name":"KURAHATTI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

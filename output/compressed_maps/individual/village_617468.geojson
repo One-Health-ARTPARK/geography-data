@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08898424800438,13.12669870496977],[75.05964942682957,13.11666777426792],[75.06024572730959,13.08843701641973],[75.08072759650041,13.08880943464767],[75.08898424800438,13.12669870496977]]]},"properties":{"region_id":"village_617468","name":"VALPADI","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

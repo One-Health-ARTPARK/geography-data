@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02119310780348,17.37740468986315],[76.9863551835261,17.37394585708634],[77.01068568017493,17.34606003804582],[77.02119310780348,17.37740468986315]]]},"properties":{"region_id":"village_620249","name":"ITGA AHMADABAD","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

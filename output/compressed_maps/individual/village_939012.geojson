@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89223887412037,12.75808565067225],[75.87982729572549,12.75810502098181],[75.88415981105204,12.75022553816788],[75.89223887412037,12.75808565067225]]]},"properties":{"region_id":"village_939012","name":"TALAGURU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

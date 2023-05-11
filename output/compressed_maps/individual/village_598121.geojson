@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83304494526998,15.81095907440338],[74.83594698744237,15.81203539384708],[74.83245014451775,15.83633482731291],[74.80965137103685,15.83102225646607],[74.81104601745113,15.80157005272507],[74.83304494526998,15.81095907440338]]]},"properties":{"region_id":"village_598121","name":"BAILWAD","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

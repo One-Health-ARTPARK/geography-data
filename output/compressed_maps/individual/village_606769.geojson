@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61222379613992,14.24317313213233],[75.61189179724374,14.25105597393017],[75.60582222762636,14.25135562471382],[75.60614630872749,14.24338193805226],[75.61222379613992,14.24317313213233]]]},"properties":{"region_id":"village_606769","name":"HOSAKATTE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

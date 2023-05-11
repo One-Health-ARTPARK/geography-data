@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.363112842643,13.12743208527984],[77.35705891693553,13.11779543211377],[77.37142981268167,13.11600815642489],[77.37332616153437,13.12270292873774],[77.363112842643,13.12743208527984]]]},"properties":{"region_id":"village_624903","name":"BOMMANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

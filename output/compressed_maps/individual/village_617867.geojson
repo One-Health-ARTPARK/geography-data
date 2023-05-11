@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88633253272785,12.7834827173082],[75.87755824981409,12.78337082220136],[75.8758251026038,12.77223301743261],[75.88702072349336,12.77793372754835],[75.88633253272785,12.7834827173082]]]},"properties":{"region_id":"village_617867","name":"URUGUTTI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22872440680659,15.87515559342912],[75.2448621105126,15.89543312903526],[75.22652050998303,15.9275875155956],[75.21536022403617,15.90760701669793],[75.22872440680659,15.87515559342912]]]},"properties":{"region_id":"village_598371","name":"MAGANUR","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

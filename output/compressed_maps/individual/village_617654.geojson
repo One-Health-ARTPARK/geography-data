@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3510814405116,13.01017327491513],[75.35759997507398,12.97666441423102],[75.38433620222835,13.00311015046745],[75.3510814405116,13.01017327491513]]]},"properties":{"region_id":"village_617654","name":"KALAMANJA","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

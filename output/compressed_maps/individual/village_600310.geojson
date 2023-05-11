@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28725493847813,17.7800903745361],[77.24982677682455,17.77303152074164],[77.24505954491391,17.75599912949194],[77.28519098091874,17.75364105161311],[77.28725493847813,17.7800903745361]]]},"properties":{"region_id":"village_600310","name":"TAIMADGI","parent":"subdistrict_7084","parent_name":"CHITAGUPPA"}}
+]}

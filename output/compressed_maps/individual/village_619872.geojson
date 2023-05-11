@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25557978711714,12.06820031523473],[77.23484968284235,12.07635186184431],[77.22766184497209,12.051728724339],[77.25389553016893,12.04217883173839],[77.25557978711714,12.06820031523473]]]},"properties":{"region_id":"village_619872","name":"CHIKKAMALAPURA","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29179881886832,13.62492570416344],[77.27673503576096,13.62719506841597],[77.27664444832551,13.61702466772323],[77.2903018716831,13.61303162890164],[77.29179881886832,13.62492570416344]]]},"properties":{"region_id":"village_610977","name":"MEKETHIMMANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

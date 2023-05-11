@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85207737299405,14.37313853271208],[75.8297114444464,14.37270639467635],[75.83493277148608,14.35331016163197],[75.85418017607975,14.34621010189552],[75.85207737299405,14.37313853271208]]]},"properties":{"region_id":"village_606575","name":"BALLURU","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48706306665581,13.14927461518283],[76.46981211011132,13.13667454316009],[76.46949730575348,13.11517545068093],[76.49128314124617,13.12038535669437],[76.48706306665581,13.14927461518283]]]},"properties":{"region_id":"village_612182","name":"JABAGHATTA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

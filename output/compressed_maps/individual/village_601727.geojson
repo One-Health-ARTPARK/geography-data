@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95910935754455,15.23517946267158],[75.960457759565,15.25909965122083],[75.91202906504301,15.2407895379356],[75.91487326631189,15.22962140835688],[75.95910935754455,15.23517946267158]]]},"properties":{"region_id":"village_601727","name":"GHATREDDIHAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64008749725427,12.67370469391828],[76.63151579825545,12.67785255349944],[76.6254129388197,12.65195459370644],[76.63911914109883,12.65384381752336],[76.64008749725427,12.67370469391828]]]},"properties":{"region_id":"village_614052","name":"MADENAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

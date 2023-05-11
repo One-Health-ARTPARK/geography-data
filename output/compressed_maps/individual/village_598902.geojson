@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97389409946028,15.9542179815648],[75.97372194378148,15.98614714432093],[75.95123617262573,15.98440916943127],[75.94991554153556,15.95905999295708],[75.97389409946028,15.9542179815648]]]},"properties":{"region_id":"village_598902","name":"ILAL","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

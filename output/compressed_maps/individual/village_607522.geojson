@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98327303916479,14.45513887785351],[74.96907844036306,14.43843407913072],[74.9811012653719,14.43197373554873],[74.99706078836016,14.44193498021944],[74.98327303916479,14.45513887785351]]]},"properties":{"region_id":"village_607522","name":"NYARSHI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

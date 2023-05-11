@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61213100022783,12.95846999997213],[77.61412399972626,12.95505699973931],[77.62705500044544,12.94962099962538],[77.62428600036912,12.95416800027055],[77.61666100039977,12.95794999978387],[77.61213100022783,12.95846999997213]]]},"properties":{"region_id":"ward_bbmp115","name":"WARD NO.115 (VANNAR PET)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00266316239419,15.58117388362386],[74.98533375365827,15.56591927657815],[74.98709841982841,15.54147669830556],[75.02053077794127,15.54703856994875],[75.01506677461212,15.5782067866798],[75.00266316239419,15.58117388362386]]]},"properties":{"region_id":"village_602218","name":"YADWAD","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

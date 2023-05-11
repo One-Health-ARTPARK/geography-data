@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55471656593602,13.40220222920564],[76.54826888720824,13.40359073294868],[76.54037819252017,13.4024946977937],[76.54069815020098,13.39929858116929],[76.55178953490986,13.39853369639157],[76.55471656593602,13.40220222920564]]]},"properties":{"region_id":"village_610233","name":"GOWDANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

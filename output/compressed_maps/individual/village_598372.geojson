@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24412762427006,15.96176500398244],[75.21440028069111,15.96221880011406],[75.22263520139401,15.93092931065869],[75.24814594746792,15.9156799143188],[75.24031021668671,15.95019636282194],[75.24412762427006,15.96176500398244]]]},"properties":{"region_id":"village_598372","name":"K.JUNIPETH","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

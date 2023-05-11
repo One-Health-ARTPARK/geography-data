@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1711781320543,15.97512016452496],[77.15061389416734,15.98607296712696],[77.15622028481968,15.95100248814238],[77.17324038645074,15.94998534684195],[77.1711781320543,15.97512016452496]]]},"properties":{"region_id":"village_601012","name":"ARNALLI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

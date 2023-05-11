@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21790881998264,13.66254448868819],[77.21249888938735,13.66469419570972],[77.21313383666292,13.65880777628058],[77.21790881998264,13.66254448868819]]]},"properties":{"region_id":"village_610828","name":"PANNE","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

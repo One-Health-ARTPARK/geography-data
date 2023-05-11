@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08404419909384,15.90116596127202],[76.05182431477283,15.87819658586589],[76.08398388856811,15.85582472485983],[76.08404419909384,15.90116596127202]]]},"properties":{"region_id":"village_601436","name":"MUDHOTAGI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

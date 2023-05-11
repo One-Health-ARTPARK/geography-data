@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79731235396626,13.13382428949888],[77.78393083973539,13.14200777644507],[77.78553526402318,13.12424244825879],[77.79731235396626,13.13382428949888]]]},"properties":{"region_id":"village_625519","name":"SONNAHALLIPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

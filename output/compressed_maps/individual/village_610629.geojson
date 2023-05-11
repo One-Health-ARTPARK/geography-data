@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11552282224245,14.0459778734908],[77.10842453179795,14.0708345828403],[77.0943696102177,14.06077450556653],[77.11552282224245,14.0459778734908]]]},"properties":{"region_id":"village_610629","name":"KAREKYATHANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

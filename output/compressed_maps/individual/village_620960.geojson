@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42198498620276,16.40994936248546],[76.40347222353407,16.41067399812332],[76.38471661440562,16.36879163586294],[76.42061597394692,16.38347499612893],[76.42198498620276,16.40994936248546]]]},"properties":{"region_id":"village_620960","name":"BOODIHAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54595551189756,13.64414941517804],[77.51354773479342,13.64456222618672],[77.49396383205173,13.62729858220785],[77.52999031861636,13.62764789620562],[77.54595551189756,13.64414941517804]]]},"properties":{"region_id":"village_623255","name":"KALLUDI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

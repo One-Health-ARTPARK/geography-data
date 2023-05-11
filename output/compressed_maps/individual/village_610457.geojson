@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88605135923517,13.61044562034022],[76.87325790305445,13.60189687812208],[76.88524820568804,13.59620912655862],[76.88605135923517,13.61044562034022]]]},"properties":{"region_id":"village_610457","name":"BATTIGANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

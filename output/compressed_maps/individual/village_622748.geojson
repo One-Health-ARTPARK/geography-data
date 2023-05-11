@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.3398808479456,12.99529505046209],[78.33347327641813,12.99097419370134],[78.33466901600265,12.98618460349626],[78.34703415941716,12.99232212077395],[78.3398808479456,12.99529505046209]]]},"properties":{"region_id":"village_622748","name":"POOTHARAJANAHALLI","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

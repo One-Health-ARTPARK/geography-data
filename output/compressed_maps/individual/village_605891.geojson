@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25165279004763,13.74373223315791],[76.26097633470204,13.75418823261864],[76.24167880610683,13.75546636061822],[76.25165279004763,13.74373223315791]]]},"properties":{"region_id":"village_605891","name":"ADAVI SANGENAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

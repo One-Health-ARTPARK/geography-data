@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97561508380315,13.45577269453579],[76.96115190632585,13.45865907697785],[76.95787654449069,13.447276047714],[76.97046526925496,13.44529759755039],[76.97561508380315,13.45577269453579]]]},"properties":{"region_id":"village_611698","name":"JALAGUNI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

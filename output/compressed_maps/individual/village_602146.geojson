@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88811119836069,15.35301987044355],[75.90400175693969,15.40277677949382],[75.86277658734997,15.40773915542001],[75.85503131491446,15.38031624426467],[75.88811119836069,15.35301987044355]]]},"properties":{"region_id":"village_602146","name":"HALLIKERI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

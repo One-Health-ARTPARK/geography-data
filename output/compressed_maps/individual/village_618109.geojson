@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06328730859269,12.50019939039931],[76.0635489596282,12.51530660383725],[76.05021898255731,12.51165944573278],[76.04948031887679,12.50064496437334],[76.06328730859269,12.50019939039931]]]},"properties":{"region_id":"village_618109","name":"CHAPPARADAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

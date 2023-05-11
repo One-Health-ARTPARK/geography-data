@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78803321383323,13.8090863651985],[75.77164207860072,13.81790671804201],[75.75790235974621,13.80202958742677],[75.77402293051,13.79529951738319],[75.78803321383323,13.8090863651985]]]},"properties":{"region_id":"village_608626","name":"MAVINAKERE","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

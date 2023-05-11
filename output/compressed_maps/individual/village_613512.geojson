@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56873877901249,12.64022217645549],[76.5453853549858,12.64068131656341],[76.54462029265545,12.62863608968487],[76.5726628647875,12.61952388505676],[76.56873877901249,12.64022217645549]]]},"properties":{"region_id":"village_613512","name":"SEELANERE","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45724116202858,14.48153529250923],[76.4313576329616,14.48516704345333],[76.4239174168412,14.44946752065331],[76.45990782159969,14.45025155914354],[76.45724116202858,14.48153529250923]]]},"properties":{"region_id":"village_606515","name":"MUSTUR","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98147576614195,17.22554689945276],[75.96516690520203,17.24113170668567],[75.94641592038299,17.21070523177296],[75.97637120595465,17.20816299366937],[75.98147576614195,17.22554689945276]]]},"properties":{"region_id":"village_599253","name":"MAVINALLI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

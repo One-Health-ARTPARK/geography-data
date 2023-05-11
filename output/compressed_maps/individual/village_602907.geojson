@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.58425032894924,14.90015669683736],[74.5751979817127,14.90439390609905],[74.56817269338578,14.89694228811917],[74.5791357116615,14.88924149523026],[74.58425032894924,14.90015669683736]]]},"properties":{"region_id":"village_602907","name":"TARGAR","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

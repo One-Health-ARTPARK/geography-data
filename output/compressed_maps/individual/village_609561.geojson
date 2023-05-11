@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33936482414147,13.58205686880214],[76.3332022585397,13.59573815739373],[76.31407730935356,13.58331319730012],[76.31513663694125,13.5686557447715],[76.33936482414147,13.58205686880214]]]},"properties":{"region_id":"village_609561","name":"UPPINAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

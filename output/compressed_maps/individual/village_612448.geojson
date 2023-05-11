@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9022934782713,13.047926565281],[76.88713009183883,13.05001489014908],[76.8849632106384,13.03727937329517],[76.9011055698909,13.03428020732514],[76.9022934782713,13.047926565281]]]},"properties":{"region_id":"village_612448","name":"KANCHAGALAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

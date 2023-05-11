@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0799512723701,16.17904308611083],[77.08117395002732,16.1970476390763],[77.06594966403131,16.19539824707274],[77.0799512723701,16.17904308611083]]]},"properties":{"region_id":"village_600723","name":"TIPPALDINNI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91776915286148,15.85303616195072],[75.90170762873927,15.85616273796666],[75.89335506463097,15.83773899853703],[75.91650215028208,15.8341795313437],[75.91776915286148,15.85303616195072]]]},"properties":{"region_id":"village_601390","name":"PATTALCHINTI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

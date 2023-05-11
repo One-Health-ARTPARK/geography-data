@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89146642554655,15.24609125192255],[74.91021314568962,15.25183234560454],[74.90862337849354,15.26848504858571],[74.88974352150869,15.2626036793859],[74.89146642554655,15.24609125192255]]]},"properties":{"region_id":"village_602864","name":"GULEDKOP","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65423744225608,13.31917657315127],[77.63527849438881,13.31997234602698],[77.63615801966945,13.30652438637087],[77.65423744225608,13.31917657315127]]]},"properties":{"region_id":"village_625249","name":"RAMANATHAPURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

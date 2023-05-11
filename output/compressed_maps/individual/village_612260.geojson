@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77174882201031,13.28413988739859],[76.74568285775746,13.28443980868509],[76.76163846018756,13.27093165560545],[76.77174882201031,13.28413988739859]]]},"properties":{"region_id":"village_612260","name":"GUNDI KAVAL","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

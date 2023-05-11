@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46036627598457,13.2235451709257],[76.46468674772538,13.23875147854827],[76.44933841843225,13.24333936808689],[76.44998516731707,13.22761278074925],[76.46036627598457,13.2235451709257]]]},"properties":{"region_id":"village_612096","name":"ANAGONDANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

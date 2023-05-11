@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4147615444159,13.04398992419897],[77.41532506377698,13.05702061512138],[77.40260676942349,13.05663170263666],[77.40595318488222,13.04281720677425],[77.4147615444159,13.04398992419897]]]},"properties":{"region_id":"village_612786","name":"KENGANAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

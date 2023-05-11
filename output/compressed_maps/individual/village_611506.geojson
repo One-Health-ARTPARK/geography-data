@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05785750502373,13.2000818673934],[77.03835802156193,13.19756255882464],[77.04029569893652,13.18105578107893],[77.05778613802015,13.19217232087823],[77.05785750502373,13.2000818673934]]]},"properties":{"region_id":"village_611506","name":"BALLAGERE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

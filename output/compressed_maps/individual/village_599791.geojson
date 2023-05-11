@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83560331685234,17.7456169375029],[76.80520343735728,17.75889790302114],[76.80784170299698,17.74106299697416],[76.83560331685234,17.7456169375029]]]},"properties":{"region_id":"village_599791","name":"WADDERGA","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

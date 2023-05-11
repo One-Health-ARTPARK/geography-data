@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09224869331759,13.53780331486397],[76.10735662830413,13.53609084012582],[76.12234656965244,13.55004613791723],[76.09555773369384,13.55146232996185],[76.09224869331759,13.53780331486397]]]},"properties":{"region_id":"village_609490","name":"Y.MALLAPURA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30861487506168,14.03269644235459],[77.29561627084027,14.04386358786747],[77.29319333261586,14.03329039318674],[77.29858118707817,14.02572442334122],[77.30861487506168,14.03269644235459]]]},"properties":{"region_id":"village_610656","name":"R.HOSAKOTE (JODI)","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75254949767977,13.81476464326126],[75.7281868553867,13.81692115854174],[75.73329426669612,13.80400476886865],[75.75254949767977,13.81476464326126]]]},"properties":{"region_id":"village_608625","name":"MASARAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

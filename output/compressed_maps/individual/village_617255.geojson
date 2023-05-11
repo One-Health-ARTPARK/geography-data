@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44043701326804,13.05680171754542],[76.42172908844398,13.05896129849802],[76.42230437509612,13.04733285566943],[76.44043701326804,13.05680171754542]]]},"properties":{"region_id":"village_617255","name":"RANGAPURA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

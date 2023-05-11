@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84953188795359,14.27573001970498],[75.8339589637854,14.27029622530158],[75.8336583365443,14.26199447834807],[75.84793366734047,14.26433981457137],[75.84953188795359,14.27573001970498]]]},"properties":{"region_id":"village_606924","name":"KASETTIHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

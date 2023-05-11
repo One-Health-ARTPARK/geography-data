@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76652521716481,15.69835445821299],[76.72660528685799,15.65938733037055],[76.78899750808662,15.65282331477513],[76.76652521716481,15.69835445821299]]]},"properties":{"region_id":"village_601222","name":"ROUDKUNDA","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

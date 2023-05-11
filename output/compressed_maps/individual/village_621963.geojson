@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.20545618188589,13.20762634707676],[78.20148207464399,13.22799222915891],[78.19131431061612,13.20632512238601],[78.20545618188589,13.20762634707676]]]},"properties":{"region_id":"village_621963","name":"ITHARASANAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

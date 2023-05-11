@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5330790003461,13.0064050003154],[77.54070300018246,13.00227300035804],[77.53989700027341,13.01100599983373],[77.5330790003461,13.0064050003154]]]},"properties":{"region_id":"ward_bbmp68","name":"WARD NO.68 (MAHALAKSHMIPURAM)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

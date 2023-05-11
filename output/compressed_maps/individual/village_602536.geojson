@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18097439855889,15.16023007185731],[75.18039241231764,15.16865082408493],[75.15681831735996,15.16930123053344],[75.16171411737331,15.15254726737503],[75.18097439855889,15.16023007185731]]]},"properties":{"region_id":"village_602536","name":"HOSAKATTI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

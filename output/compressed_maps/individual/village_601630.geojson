@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55403566486346,15.4336657402379],[76.55799240773271,15.41803309019864],[76.57099403235787,15.41172239582933],[76.56954462181595,15.42532740477535],[76.55403566486346,15.4336657402379]]]},"properties":{"region_id":"village_601630","name":"HOSALLI","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

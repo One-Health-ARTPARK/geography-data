@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91436454779425,13.90743766760434],[76.93052832602359,13.93094193766951],[76.91515192880415,13.93851023417862],[76.90302917939098,13.91279699511069],[76.91436454779425,13.90743766760434]]]},"properties":{"region_id":"village_610283","name":"KYADIKUNTE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99885397159852,13.93025020906928],[75.95237400976153,13.92826406408117],[75.95008092430588,13.91581645566806],[75.99982251728503,13.91869958130818],[75.99885397159852,13.93025020906928]]]},"properties":{"region_id":"village_607101","name":"MEDUGONDANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

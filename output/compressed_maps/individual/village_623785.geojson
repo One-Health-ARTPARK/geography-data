@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82228800948198,13.61969647708961],[77.8193412860946,13.63135680173783],[77.81149099585737,13.62939078258998],[77.81029036480786,13.61704094562603],[77.82228800948198,13.61969647708961]]]},"properties":{"region_id":"village_623785","name":"GEGGILARALLAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

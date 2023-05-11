@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75474037671303,12.02742655808747],[76.73964039098229,12.02317090655367],[76.74147652408462,12.01242544170424],[76.75241563239548,12.02009536675116],[76.75474037671303,12.02742655808747]]]},"properties":{"region_id":"village_619295","name":"HAMPAPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

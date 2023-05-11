@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87676517266851,12.9763436102628],[76.86354799770906,12.97562017864581],[76.86390560015099,12.96554588106715],[76.87605994243827,12.96767545030477],[76.87676517266851,12.9763436102628]]]},"properties":{"region_id":"village_612636","name":"TAGGIKUPPE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

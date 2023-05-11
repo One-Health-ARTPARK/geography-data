@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82571703831141,16.58363626463069],[75.79042942366473,16.58949616168947],[75.78529323798782,16.54898301724826],[75.82308848947217,16.54152469243284],[75.82571703831141,16.58363626463069]]]},"properties":{"region_id":"village_599445","name":"TALEWAD","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96325376250768,16.03807966462999],[76.9600557280556,16.06246611080102],[76.91371597530667,16.06096081616764],[76.91998173805631,16.02927274368855],[76.96325376250768,16.03807966462999]]]},"properties":{"region_id":"village_600965","name":"GAVIGAT","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

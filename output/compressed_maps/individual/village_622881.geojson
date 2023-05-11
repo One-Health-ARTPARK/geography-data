@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.39548762844902,13.21349234859484],[78.39180716629123,13.22196541333814],[78.38099990522569,13.22149392648643],[78.38188171100926,13.21184656620185],[78.39548762844902,13.21349234859484]]]},"properties":{"region_id":"village_622881","name":"MADAGHATTA","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

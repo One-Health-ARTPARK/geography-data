@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0240196235954,13.26961729791168],[77.01567019183751,13.28476067785772],[77.00679943684108,13.28153002510309],[77.01100001944964,13.26568481163238],[77.0240196235954,13.26961729791168]]]},"properties":{"region_id":"village_611473","name":"MALLAPPANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

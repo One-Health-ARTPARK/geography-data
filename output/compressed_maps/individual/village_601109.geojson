@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6140739505873,15.84819892200287],[76.62605754755525,15.86167786859647],[76.60198490935085,15.87643070003877],[76.59763262863812,15.84955483379422],[76.6140739505873,15.84819892200287]]]},"properties":{"region_id":"village_601109","name":"GUDGALDINNI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86051580958252,12.9136112791282],[75.84804143134465,12.90278959863394],[75.86461504261396,12.89850113220875],[75.86051580958252,12.9136112791282]]]},"properties":{"region_id":"village_614968","name":"KUNIGANAHALLI","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

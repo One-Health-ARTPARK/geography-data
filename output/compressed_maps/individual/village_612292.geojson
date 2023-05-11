@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73599264433868,13.2282237664584],[76.72808558248812,13.2148330318672],[76.75222653636683,13.21484813548321],[76.73599264433868,13.2282237664584]]]},"properties":{"region_id":"village_612292","name":"BEECHANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

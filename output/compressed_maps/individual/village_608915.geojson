@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20261001061468,13.49247213693519],[75.16856971471391,13.50406181413354],[75.14794948091725,13.47886655287711],[75.17621798162807,13.46892385257244],[75.20261001061468,13.49247213693519]]]},"properties":{"region_id":"village_608915","name":"ASANABALU","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

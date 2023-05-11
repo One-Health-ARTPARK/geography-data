@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91516523406035,13.93850455785593],[76.91076758903772,13.98441767739449],[76.8962651158044,13.97189323392793],[76.89803048520689,13.92155102716347],[76.91516523406035,13.93850455785593]]]},"properties":{"region_id":"village_610282","name":"KOTTI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25830354275199,14.52617528793377],[76.26695375991928,14.52832991762295],[76.2632366592308,14.56025901369529],[76.25704213568645,14.55199082628927],[76.25830354275199,14.52617528793377]]]},"properties":{"region_id":"village_606454","name":"IYYANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

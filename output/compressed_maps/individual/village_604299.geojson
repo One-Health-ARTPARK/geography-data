@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4618905182728,14.65249417829726],[75.4480023027571,14.65925845244099],[75.43685069599273,14.65959523304315],[75.43952234742625,14.64730162439372],[75.4618905182728,14.65249417829726]]]},"properties":{"region_id":"village_604299","name":"HIRENANDIHALLI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

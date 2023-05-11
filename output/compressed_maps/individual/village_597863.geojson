@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52754219428165,15.67168731080873],[74.52489794262823,15.68240137928588],[74.51383309350696,15.67434529512863],[74.52164182042272,15.66417807595261],[74.52754219428165,15.67168731080873]]]},"properties":{"region_id":"village_597863","name":"MUDEWADI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

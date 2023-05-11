@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35550389725543,16.3246709970613],[77.35109535415734,16.34101268540902],[77.31849939573297,16.3451442969089],[77.32611578554052,16.32847502849084],[77.35550389725543,16.3246709970613]]]},"properties":{"region_id":"village_600738","name":"HEGSANHALLI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

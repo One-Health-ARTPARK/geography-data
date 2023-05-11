@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61805609485252,15.67017658826231],[76.58455925887182,15.68538299308617],[76.5641928532701,15.64812553590534],[76.61392254841824,15.64056727052293],[76.61805609485252,15.67017658826231]]]},"properties":{"region_id":"village_601678","name":"MYLAPUR","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

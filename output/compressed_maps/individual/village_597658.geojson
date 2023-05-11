@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66779483075372,16.05743112115172],[74.66319903446495,16.07008964855785],[74.62156775123748,16.07800967234552],[74.60209099115112,16.0555514852214],[74.66779483075372,16.05743112115172]]]},"properties":{"region_id":"village_597658","name":"BASAPUR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

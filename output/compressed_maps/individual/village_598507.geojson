@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78096975204801,16.36711795082399],[75.75947398889365,16.37235761703964],[75.7587106107193,16.36136945164576],[75.77515448593697,16.3583581550232],[75.78096975204801,16.36711795082399]]]},"properties":{"region_id":"village_598507","name":"LINGAPUR.S.R PU.K","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

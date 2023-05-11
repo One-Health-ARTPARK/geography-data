@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59623907483767,15.87480400142899],[75.5527205461721,15.88319063226935],[75.55223964038098,15.86888537717207],[75.58518807433921,15.86157528697975],[75.59623907483767,15.87480400142899]]]},"properties":{"region_id":"village_598717","name":"BELAWALAKOPPA","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

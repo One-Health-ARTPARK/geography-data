@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04495696741634,15.17716816051241],[75.05216290519446,15.18413205389973],[75.04776939557848,15.20680235711026],[75.02878235944728,15.19035057682113],[75.04495696741634,15.17716816051241]]]},"properties":{"region_id":"village_602491","name":"BAGADAGERI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

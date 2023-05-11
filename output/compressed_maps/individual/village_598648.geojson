@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59698297797125,16.0501268810301],[75.58509366879363,16.04551295656954],[75.58635814519229,16.01515696182513],[75.60515367217596,16.01927024660245],[75.59698297797125,16.0501268810301]]]},"properties":{"region_id":"village_598648","name":"YANKANCHI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

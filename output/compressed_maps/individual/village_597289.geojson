@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91943697545315,16.7727466340349],[74.86860218693371,16.7741930306504],[74.87560282548509,16.74710012361096],[74.91943697545315,16.7727466340349]]]},"properties":{"region_id":"village_597289","name":"KEMPWAD","parent":"subdistrict_7100","parent_name":"KAGWAD"}}
+]}

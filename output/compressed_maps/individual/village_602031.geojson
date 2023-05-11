@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61254132366557,15.36796577817132],[75.58554161190979,15.3638492324279],[75.5910697386454,15.34003300892168],[75.63658405070912,15.34857675160287],[75.61254132366557,15.36796577817132]]]},"properties":{"region_id":"village_602031","name":"NAGAVI","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63993167699084,11.98232916857213],[76.60724035022889,11.99215672276661],[76.55784986978387,11.947817294173],[76.62347537910334,11.93774208873073],[76.63993167699084,11.98232916857213]]]},"properties":{"region_id":"village_619444","name":"YADAVANAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

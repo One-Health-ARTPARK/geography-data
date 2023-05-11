@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83995688622406,13.13910682643467],[75.82834613908409,13.13637310960367],[75.83192094198787,13.13005594162301],[75.84113504146565,13.13034290727555],[75.83995688622406,13.13910682643467]]]},"properties":{"region_id":"village_615131","name":"SULLAKKI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

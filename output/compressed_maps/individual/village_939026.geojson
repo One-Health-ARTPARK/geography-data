@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94903754198411,12.54033044768019],[75.94720923909321,12.53125927361986],[75.95258143073053,12.51994340133978],[75.95947203002962,12.52219697766444],[75.94903754198411,12.54033044768019]]]},"properties":{"region_id":"village_939026","name":"CHINNANALLI","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

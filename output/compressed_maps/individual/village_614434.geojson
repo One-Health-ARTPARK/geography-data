@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7848095183084,12.57506601653237],[76.80178837975733,12.57465297088381],[76.79740738550693,12.5823858136439],[76.77981666606469,12.58306988447055],[76.7848095183084,12.57506601653237]]]},"properties":{"region_id":"village_614434","name":"JAYAPURA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

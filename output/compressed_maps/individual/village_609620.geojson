@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07583205687254,13.42799043153953],[76.07977278501853,13.44357315120416],[76.06268976333062,13.44526048129894],[76.04537728298371,13.43521617632198],[76.07583205687254,13.42799043153953]]]},"properties":{"region_id":"village_609620","name":"KABBALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

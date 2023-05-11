@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56757215834615,17.66349508635765],[76.54095353599145,17.66485527925783],[76.53479461226915,17.62473827805905],[76.572353351213,17.64264419833816],[76.56757215834615,17.66349508635765]]]},"properties":{"region_id":"village_619973","name":"SALEGAON","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

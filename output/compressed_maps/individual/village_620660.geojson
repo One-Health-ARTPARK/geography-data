@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95337811401777,17.03924112597273],[76.92277856576635,17.0426446748428],[76.91924442581121,17.02672767912712],[76.94621227203818,17.02090513390142],[76.95337811401777,17.03924112597273]]]},"properties":{"region_id":"village_620660","name":"KUNDANOOR","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

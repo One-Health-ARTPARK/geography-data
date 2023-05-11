@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24100816714974,13.4046297438886],[77.23211283396935,13.40588810003936],[77.2294882180397,13.3990955810342],[77.2402892882801,13.39824727334601],[77.24100816714974,13.4046297438886]]]},"properties":{"region_id":"village_611204","name":"VADDARAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

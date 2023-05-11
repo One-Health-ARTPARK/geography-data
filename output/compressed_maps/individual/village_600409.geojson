@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3731451915384,16.1759985860677],[76.36032416800225,16.1768250458484],[76.35953270576019,16.16087970928964],[76.3764055478661,16.16354739076616],[76.3731451915384,16.1759985860677]]]},"properties":{"region_id":"village_600409","name":"BENDONA","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

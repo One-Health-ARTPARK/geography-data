@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98226710747107,17.15971082235354],[75.99943609769224,17.15972659104929],[76.00305674354343,17.18348067727499],[75.98329182067417,17.18139895654154],[75.98226710747107,17.15971082235354]]]},"properties":{"region_id":"village_599258","name":"SATPUR","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

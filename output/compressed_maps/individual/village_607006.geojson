@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88003754554248,14.09937346881561],[75.87137033854131,14.11824712672423],[75.87289941181216,14.12940489749656],[75.86310016975948,14.12925253342253],[75.87122613349065,14.10086189660312],[75.88003754554248,14.09937346881561]]]},"properties":{"region_id":"village_607006","name":"SOMASETTIHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

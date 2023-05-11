@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76339252341859,13.18753374068033],[77.75966797594691,13.17699123522967],[77.76681757711125,13.17506595637755],[77.76831710004801,13.18206509641623],[77.76339252341859,13.18753374068033]]]},"properties":{"region_id":"village_625452","name":"MALLENAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

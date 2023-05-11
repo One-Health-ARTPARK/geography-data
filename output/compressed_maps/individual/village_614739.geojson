@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1500006139774,12.39668168674772],[77.13584320096356,12.39826669593411],[77.13638703589453,12.39008579214105],[77.14390607285002,12.38447037962076],[77.14873941865196,12.39067382144021],[77.1500006139774,12.39668168674772]]]},"properties":{"region_id":"village_614739","name":"NADAKALAPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

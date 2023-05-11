@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66771638965447,12.09211938613628],[76.64423312014284,12.09410302121089],[76.65239250801005,12.07690151683476],[76.66771638965447,12.09211938613628]]]},"properties":{"region_id":"village_619255","name":"KARLAPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

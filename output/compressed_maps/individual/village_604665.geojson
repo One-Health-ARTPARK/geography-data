@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31946020795364,15.21479585174185],[76.29617156341608,15.21097494375806],[76.29748531379357,15.20202248788421],[76.31831550171495,15.19577818713098],[76.31946020795364,15.21479585174185]]]},"properties":{"region_id":"village_604665","name":"MUDLAPURA","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

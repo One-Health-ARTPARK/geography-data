@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81550501237417,13.446307350503],[74.79188786914308,13.42917474386106],[74.81533185406185,13.40362980315663],[74.8502429271926,13.40867174266416],[74.84457650896967,13.43894135195718],[74.81550501237417,13.446307350503]]]},"properties":{"region_id":"village_608797","name":"CHERKADY","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}
