@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36327384153137,16.35063824668015],[75.33295158016847,16.35356487207688],[75.33617796671588,16.32044012206421],[75.34328449242493,16.29348984728576],[75.36327384153137,16.35063824668015]]]},"properties":{"region_id":"village_598584","name":"YADAHALLI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

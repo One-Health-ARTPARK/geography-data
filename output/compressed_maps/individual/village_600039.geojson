@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43021074263493,18.11607553655614],[77.41263416194431,18.1180398006004],[77.39535539785207,18.10838189611186],[77.39885200520116,18.0903189986719],[77.40830658920005,18.0837546687384],[77.43021074263493,18.11607553655614]]]},"properties":{"region_id":"village_600039","name":"DHUPATMAHAGAON","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

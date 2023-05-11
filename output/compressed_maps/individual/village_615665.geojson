@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21689495236255,13.39777767878407],[76.20321150041671,13.39195716363461],[76.21428929109567,13.38226036854712],[76.21689495236255,13.39777767878407]]]},"properties":{"region_id":"village_615665","name":"KURUBARAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66213109107406,14.97196848519828],[74.63689108831656,14.96443784262546],[74.64873029980984,14.95570182772417],[74.66432131199355,14.95767847716452],[74.66213109107406,14.97196848519828]]]},"properties":{"region_id":"village_602897","name":"HUTAKMANE","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

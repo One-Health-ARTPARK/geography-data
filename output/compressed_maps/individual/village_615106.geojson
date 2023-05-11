@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77575746667333,13.00267917923036],[75.77665746574648,13.01144731165324],[75.76375582243577,13.01113162329703],[75.76056885141455,13.00447025160001],[75.77575746667333,13.00267917923036]]]},"properties":{"region_id":"village_615106","name":"KORALAGADDE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

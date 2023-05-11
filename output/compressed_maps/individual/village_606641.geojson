@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15383465833696,14.38421533614735],[76.15250887953897,14.39882390028352],[76.1095627181546,14.39262224670983],[76.11572865135581,14.37925674081903],[76.15383465833696,14.38421533614735]]]},"properties":{"region_id":"village_606641","name":"MANDALURU","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

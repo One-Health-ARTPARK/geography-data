@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47584470251788,13.51578360677158],[77.44256337628504,13.5223958506603],[77.47187319478836,13.49465963632585],[77.47584470251788,13.51578360677158]]]},"properties":{"region_id":"village_623230","name":"KAMAGANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

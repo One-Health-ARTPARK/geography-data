@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54735389617441,13.70147935130258],[76.52489736747253,13.73802968076853],[76.5035749512865,13.72917066147447],[76.51267089692618,13.69811655653944],[76.54735389617441,13.70147935130258]]]},"properties":{"region_id":"village_606038","name":"CHIKKABYLADAKERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

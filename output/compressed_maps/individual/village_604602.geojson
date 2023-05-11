@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78984619684876,14.95286941979091],[75.77290409899284,14.90248066314603],[75.79205303430149,14.90052666997154],[75.78984619684876,14.95286941979091]]]},"properties":{"region_id":"village_604602","name":"BEERABBI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

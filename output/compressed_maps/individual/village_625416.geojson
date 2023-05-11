@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80602197206437,13.2461470870614],[77.79722527132576,13.24785250992349],[77.7988174256216,13.24261783874613],[77.80382240191884,13.23927151397014],[77.80602197206437,13.2461470870614]]]},"properties":{"region_id":"village_625416","name":"CHANNARAYAPATNA AMANIKERE","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

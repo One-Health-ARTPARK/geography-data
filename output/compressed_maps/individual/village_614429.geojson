@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81063854700342,12.61647436006144],[76.80642219060279,12.60049549659247],[76.81728121101926,12.59759479830208],[76.81877449964813,12.60816456066849],[76.81063854700342,12.61647436006144]]]},"properties":{"region_id":"village_614429","name":"MADLA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

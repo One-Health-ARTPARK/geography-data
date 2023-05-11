@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37264324486439,13.22914435471864],[77.35505818612465,13.21883735749843],[77.37270451134852,13.2056824912203],[77.37264324486439,13.22914435471864]]]},"properties":{"region_id":"village_624813","name":"VADAKUNTE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

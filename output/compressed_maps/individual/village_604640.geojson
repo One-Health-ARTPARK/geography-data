@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08473053971207,14.91274265711507],[76.06461845282527,14.8873459280348],[76.0864582006615,14.86889466580728],[76.12047127378385,14.86958639262455],[76.12065498765668,14.92081569654008],[76.08473053971207,14.91274265711507]]]},"properties":{"region_id":"village_604640","name":"MUSUVINAKALLAHALLI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

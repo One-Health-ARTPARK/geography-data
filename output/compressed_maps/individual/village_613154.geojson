@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63658000953303,12.74732923042014],[77.61261579605099,12.74266330709456],[77.6127977294988,12.73404456950098],[77.63507828550442,12.73486111240926],[77.63658000953303,12.74732923042014]]]},"properties":{"region_id":"village_613154","name":"KADAJAKKANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43068921772412,18.19245683109337],[77.41845439762331,18.18010052408602],[77.42438059328896,18.15548189220575],[77.4372822667061,18.17656379238318],[77.43068921772412,18.19245683109337]]]},"properties":{"region_id":"village_600066","name":"KAPPEKERI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

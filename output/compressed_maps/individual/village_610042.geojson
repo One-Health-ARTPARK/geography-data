@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48373704610451,13.55107959651236],[76.46004086542449,13.56968148407597],[76.45186567245024,13.53968952234436],[76.4719102364135,13.53240556525616],[76.48373704610451,13.55107959651236]]]},"properties":{"region_id":"village_610042","name":"BARAGIHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

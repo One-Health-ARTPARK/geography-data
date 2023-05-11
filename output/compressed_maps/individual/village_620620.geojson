@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09063247606554,17.36940707741855],[77.0414232804987,17.39893572241334],[77.04285050642284,17.35396181432696],[77.09063247606554,17.36940707741855]]]},"properties":{"region_id":"village_620620","name":"HEBBAL","parent":"subdistrict_7087","parent_name":"KALAGI"}}
+]}

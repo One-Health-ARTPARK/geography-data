@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80470685946474,13.39948479796818],[75.79836083268239,13.40754787443959],[75.78687342310059,13.40034635282477],[75.79552141672889,13.39741260154153],[75.80470685946474,13.39948479796818]]]},"properties":{"region_id":"village_609726","name":"HEBBALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

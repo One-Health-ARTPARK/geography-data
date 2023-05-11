@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8994685435258,13.05364605243049],[75.89297216342098,13.03546131955324],[75.90463098120985,13.03071665859171],[75.90746639691564,13.04675184410132],[75.8994685435258,13.05364605243049]]]},"properties":{"region_id":"village_615427","name":"KESAGODU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

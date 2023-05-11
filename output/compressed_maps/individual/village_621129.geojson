@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79632235065881,16.6592058973038],[76.77767564464519,16.63437380695191],[76.7488152767528,16.63314500879109],[76.76829482954122,16.59431995564143],[76.78842265025608,16.61751650609565],[76.79632235065881,16.6592058973038]]]},"properties":{"region_id":"village_621129","name":"MAHAL ROZA","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

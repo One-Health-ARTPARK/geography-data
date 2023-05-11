@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31970262039488,14.50123815396475],[76.31561073852565,14.51770192331882],[76.30667646824806,14.5172066517296],[76.30970626142899,14.50154484204729],[76.31970262039488,14.50123815396475]]]},"properties":{"region_id":"village_606459","name":"MALAMMANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02576541907794,16.92872007423226],[74.99605841493941,16.95133564621478],[74.9948812800394,16.89611733247139],[75.02576541907794,16.92872007423226]]]},"properties":{"region_id":"village_597248","name":"AJUR","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

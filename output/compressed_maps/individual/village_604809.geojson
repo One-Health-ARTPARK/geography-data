@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00297249188807,15.5873625743101],[76.95492444525179,15.59562744699653],[76.94258215753376,15.58055235534381],[76.9820661666056,15.56730542767463],[77.00297249188807,15.5873625743101]]]},"properties":{"region_id":"village_604809","name":"KOTEHALSUGUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

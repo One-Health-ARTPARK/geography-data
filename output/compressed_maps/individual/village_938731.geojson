@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81335904216782,13.28386769085842],[77.81552509923947,13.29084509159074],[77.80664931918817,13.29237740446367],[77.80401100439921,13.28396141681581],[77.81335904216782,13.28386769085842]]]},"properties":{"region_id":"village_938731","name":"HARADIPURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

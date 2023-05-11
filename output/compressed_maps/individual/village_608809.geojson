@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94230773618682,13.38175165075051],[74.91801243850287,13.38418745591798],[74.90623639955012,13.35501053940496],[74.94556473832657,13.35495510803821],[74.94230773618682,13.38175165075051]]]},"properties":{"region_id":"village_608809","name":"BAIRAMPALLI","parent":"subdistrict_5523","parent_name":"UDUPI"}}
+]}

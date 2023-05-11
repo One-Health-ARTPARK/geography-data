@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41190793265945,15.29733524276486],[75.37467086573038,15.29567428093764],[75.3766709942987,15.27964049382887],[75.41029401880792,15.2853542351089],[75.41190793265945,15.29733524276486]]]},"properties":{"region_id":"village_602553","name":"KODLIWAD","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

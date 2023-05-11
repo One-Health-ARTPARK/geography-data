@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70457148412471,13.97335450440158],[75.69358594076233,13.97550707234873],[75.69114381377585,13.96762833422572],[75.70278545669892,13.96135288326712],[75.70457148412471,13.97335450440158]]]},"properties":{"region_id":"village_608547","name":"HOLEBYRANAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

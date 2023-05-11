@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58760021466345,13.67308211886662],[77.57996318117252,13.68328162034122],[77.5665790549689,13.67975682816374],[77.56875917940762,13.6667026326492],[77.58760021466345,13.67308211886662]]]},"properties":{"region_id":"village_623312","name":"VIRUPASANDRA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

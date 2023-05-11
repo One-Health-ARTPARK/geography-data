@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81934950211671,14.24709012565665],[75.81688797244591,14.26493993043904],[75.80947117929388,14.25928840386589],[75.80973088250383,14.24624205105578],[75.81934950211671,14.24709012565665]]]},"properties":{"region_id":"village_606885","name":"REDDIHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

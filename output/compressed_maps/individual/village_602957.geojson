@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81668115140555,14.86829654550452],[74.7937787051608,14.88468274588788],[74.7527278842877,14.8613604936189],[74.76838762834426,14.83772638144755],[74.81668115140555,14.86829654550452]]]},"properties":{"region_id":"village_602957","name":"KAMPLI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

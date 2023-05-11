@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40496910486775,13.32073806724621],[77.39387014281274,13.31559156167364],[77.40536287008902,13.30898369290006],[77.40496910486775,13.32073806724621]]]},"properties":{"region_id":"village_625171","name":"AKKATHAMMANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34464130638082,17.50539441433503],[77.29976977702871,17.48415476945622],[77.32706393611141,17.46017000605976],[77.34464130638082,17.50539441433503]]]},"properties":{"region_id":"village_620412","name":"KARAKMUKLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

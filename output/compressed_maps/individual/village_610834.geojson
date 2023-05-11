@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21186275986888,13.67781714536359],[77.20529586738206,13.68475743930886],[77.20285247392347,13.67720867634025],[77.21186275986888,13.67781714536359]]]},"properties":{"region_id":"village_610834","name":"BASAVANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

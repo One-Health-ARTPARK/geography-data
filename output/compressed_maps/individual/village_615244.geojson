@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90783634045928,13.15761564754592],[75.89853103551555,13.1597673478195],[75.88579154899467,13.15058602153201],[75.90085496547252,13.14595890014097],[75.90783634045928,13.15761564754592]]]},"properties":{"region_id":"village_615244","name":"NETTEKERE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

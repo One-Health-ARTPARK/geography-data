@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99648248287505,15.51400420878202],[75.98744840944185,15.51379372561043],[75.98811139207312,15.50242928014915],[75.99643655717664,15.50508941461049],[75.99648248287505,15.51400420878202]]]},"properties":{"region_id":"village_601347","name":"HARISHANKERBANDI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

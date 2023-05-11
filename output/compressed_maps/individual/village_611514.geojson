@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00244427502442,13.14940063039862],[76.99920713415189,13.14222846349263],[77.00738927858741,13.1404403845309],[77.00872501260748,13.14807086176043],[77.00244427502442,13.14940063039862]]]},"properties":{"region_id":"village_611514","name":"BISALAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

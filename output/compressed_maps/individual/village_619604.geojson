@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9068719380435,12.11350806249472],[76.88201075775993,12.12972309482642],[76.87848031097704,12.09990097671983],[76.89804503630954,12.08978328751235],[76.9068719380435,12.11350806249472]]]},"properties":{"region_id":"village_619604","name":"JANNUR","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

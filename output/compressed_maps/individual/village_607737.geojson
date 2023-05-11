@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27828803857628,14.3582891734987],[75.29475713238848,14.36539980617303],[75.28118836005038,14.37116076287678],[75.27828803857628,14.3582891734987]]]},"properties":{"region_id":"village_607737","name":"VIRUPAPURA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

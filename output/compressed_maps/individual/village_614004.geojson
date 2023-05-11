@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72344818230513,12.76228330275882],[76.71452564347133,12.77543345438544],[76.70924238594964,12.76656941750734],[76.72344818230513,12.76228330275882]]]},"properties":{"region_id":"village_614004","name":"CHOTTAKYATANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

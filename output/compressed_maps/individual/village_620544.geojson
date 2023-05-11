@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29437842983769,17.03538611643399],[77.27636417389908,17.03748298987811],[77.26870776427545,17.02328474956408],[77.28807248091478,17.01419444136781],[77.29437842983769,17.03538611643399]]]},"properties":{"region_id":"village_620544","name":"MUSHTHALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

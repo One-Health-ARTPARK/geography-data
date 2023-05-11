@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89615755907008,15.86577908398706],[76.91072972208958,15.90062099364229],[76.89988561440987,15.90786027941961],[76.88398377049299,15.88230524336986],[76.88168123929367,15.8641279062024],[76.89615755907008,15.86577908398706]]]},"properties":{"region_id":"village_601163","name":"WALKAMDINNI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

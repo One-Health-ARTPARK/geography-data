@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11880877522891,15.68194639180873],[76.12150202291856,15.71168792468372],[76.0817369297915,15.70221338498646],[76.07567521784463,15.68408616394214],[76.11880877522891,15.68194639180873]]]},"properties":{"region_id":"village_601243","name":"KONASAGAR","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

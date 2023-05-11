@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02496522004539,18.12663734196507],[76.99191171379114,18.12660434638719],[76.98037473072108,18.08124994883082],[77.042887846392,18.08488691248536],[77.02496522004539,18.12663734196507]]]},"properties":{"region_id":"village_599845","name":"MEHKAR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

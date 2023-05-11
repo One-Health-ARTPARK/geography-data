@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36328899845755,12.60922632112333],[76.36414597356888,12.6267927212644],[76.35085453190918,12.62585544454984],[76.36328899845755,12.60922632112333]]]},"properties":{"region_id":"village_618562","name":"MATADAKAVAL","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

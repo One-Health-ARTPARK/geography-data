@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49923027195291,16.20791319390139],[77.5020090567694,16.22418356025327],[77.48233638677402,16.2207482069744],[77.4802448459668,16.20508063081432],[77.49923027195291,16.20791319390139]]]},"properties":{"region_id":"village_600776","name":"MANDALGERA","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

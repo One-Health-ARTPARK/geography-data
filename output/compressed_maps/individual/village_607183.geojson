@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00016645964038,14.15490218300367],[74.9917972901171,14.15572036029686],[74.98666989963604,14.14589877162264],[74.99297788667737,14.1383563423058],[75.00016645964038,14.15490218300367]]]},"properties":{"region_id":"village_607183","name":"SHETTISARA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

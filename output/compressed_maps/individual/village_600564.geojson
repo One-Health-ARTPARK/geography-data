@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8959610880455,16.34836276745701],[76.85652001675632,16.35549852487198],[76.8223389877215,16.33742831400355],[76.84142366152473,16.31080067047587],[76.8959610880455,16.34836276745701]]]},"properties":{"region_id":"village_600564","name":"MUNDARGI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

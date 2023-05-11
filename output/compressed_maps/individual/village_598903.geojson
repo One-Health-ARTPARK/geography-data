@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94819764593315,16.11223660014783],[75.93864965454304,16.17102343577217],[75.92635805323187,16.12524378752339],[75.94819764593315,16.11223660014783]]]},"properties":{"region_id":"village_598903","name":"CHICKMAGI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

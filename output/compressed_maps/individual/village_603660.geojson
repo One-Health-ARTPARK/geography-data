@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80790583176517,14.30522955732481],[74.78595334417446,14.30518229325872],[74.7859092972987,14.28597736888261],[74.81582300037941,14.29362431637211],[74.80790583176517,14.30522955732481]]]},"properties":{"region_id":"village_603660","name":"CHANDRAGHATGI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

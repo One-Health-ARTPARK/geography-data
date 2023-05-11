@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95623324831868,13.61540539703364],[75.96346546252315,13.63425267832065],[75.94507019927933,13.63359521602894],[75.93845415531072,13.61883827876735],[75.95623324831868,13.61540539703364]]]},"properties":{"region_id":"village_609359","name":"JODITHIMMAPURA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

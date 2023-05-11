@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52505672573237,14.23431156677072],[74.50843763992668,14.24689981720417],[74.49755083369145,14.22303497857951],[74.52505672573237,14.23431156677072]]]},"properties":{"region_id":"village_603754","name":"BALKUR","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

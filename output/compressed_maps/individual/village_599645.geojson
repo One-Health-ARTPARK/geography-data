@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25110372917186,16.39290531872692],[76.22776037580533,16.35289602326366],[76.25894313132005,16.3611948566014],[76.25110372917186,16.39290531872692]]]},"properties":{"region_id":"village_599645","name":"JAKKERAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5120343405901,16.10338859363135],[75.49457548107752,16.07440260532383],[75.52027139075028,16.07204950030479],[75.5120343405901,16.10338859363135]]]},"properties":{"region_id":"village_598635","name":"KALABANDAKERI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

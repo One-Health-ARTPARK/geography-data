@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48919588770421,13.53667579165073],[75.46697877240665,13.5414971510949],[75.45769866614867,13.51564478355389],[75.48634426843367,13.51148581160635],[75.48919588770421,13.53667579165073]]]},"properties":{"region_id":"village_609088","name":"VAGGADE","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

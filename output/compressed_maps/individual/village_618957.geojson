@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50593013410503,12.1319172585607],[76.49491931853953,12.16849135002292],[76.48054748593233,12.13628384495061],[76.50593013410503,12.1319172585607]]]},"properties":{"region_id":"village_618957","name":"KOHALA","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

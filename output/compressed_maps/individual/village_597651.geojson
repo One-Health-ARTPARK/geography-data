@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60221038539478,16.05546153928529],[74.5463273585675,16.03092189473739],[74.56127242821206,16.00793554518394],[74.59744223849677,16.02220523436697],[74.60221038539478,16.05546153928529]]]},"properties":{"region_id":"village_597651","name":"SHAHABANDAR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

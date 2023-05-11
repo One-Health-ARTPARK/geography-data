@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84376254581446,15.99637896880575],[75.8452997412529,16.01153437764634],[75.81442288459554,16.00366927524915],[75.82456908236553,15.98463428042549],[75.84376254581446,15.99637896880575]]]},"properties":{"region_id":"village_598688","name":"KOTNALLI","parent":"subdistrict_7061","parent_name":"GULEDGUDDA"}}
+]}

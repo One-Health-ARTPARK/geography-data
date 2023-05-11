@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.273282991139,12.75784208911054],[76.26674227864899,12.75687087910735],[76.276425084267,12.74145004766077],[76.27971196743529,12.74869027045952],[76.273282991139,12.75784208911054]]]},"properties":{"region_id":"village_616920","name":"PEDDANAHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

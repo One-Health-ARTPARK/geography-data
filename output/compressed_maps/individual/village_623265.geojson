@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51831479068315,13.58983849950252],[77.50946111880442,13.58925737326165],[77.50886466573839,13.57326903888679],[77.51783010652376,13.57360607846578],[77.51831479068315,13.58983849950252]]]},"properties":{"region_id":"village_623265","name":"VEERALAGOLLAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

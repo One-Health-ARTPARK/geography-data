@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1294745532819,12.38612717705],[77.12122949383514,12.39053894226442],[77.11912185497586,12.37465792811111],[77.12701988951422,12.37521358931265],[77.1294745532819,12.38612717705]]]},"properties":{"region_id":"village_614742","name":"THURAGANUR","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

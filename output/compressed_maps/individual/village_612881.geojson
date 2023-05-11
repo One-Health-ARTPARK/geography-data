@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50552285912758,13.10419545030113],[77.4975149128345,13.10494344204305],[77.49481238472987,13.09411468172435],[77.50327726606685,13.09388012165313],[77.50552285912758,13.10419545030113]]]},"properties":{"region_id":"village_612881","name":"KEMPAPURA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

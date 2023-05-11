@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57543745121203,12.55969304014116],[76.55467717394458,12.54908330914952],[76.57817073728117,12.52004646674012],[76.5900732245845,12.55001957031031],[76.57543745121203,12.55969304014116]]]},"properties":{"region_id":"village_614120","name":"GUMMANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

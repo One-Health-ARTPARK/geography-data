@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47444321395028,15.07722905983475],[75.45860183550106,15.07587188164052],[75.45193027231743,15.049449544022],[75.48050728881759,15.0445157597742],[75.47444321395028,15.07722905983475]]]},"properties":{"region_id":"village_602082","name":"SHIGLI","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

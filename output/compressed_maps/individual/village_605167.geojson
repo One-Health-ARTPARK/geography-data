@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73369107493241,14.88072516858239],[76.75132282372529,14.88445192571919],[76.7469792379427,14.90172234319834],[76.73779055299678,14.9034458215685],[76.73369107493241,14.88072516858239]]]},"properties":{"region_id":"village_605167","name":"JAMBALAMALKI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

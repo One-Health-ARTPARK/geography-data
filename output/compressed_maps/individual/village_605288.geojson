@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6798344704757,14.49529534033187],[76.6543348029001,14.45420482863395],[76.70357422022867,14.45655877036738],[76.6798344704757,14.49529534033187]]]},"properties":{"region_id":"village_605288","name":"MANNEKOTE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

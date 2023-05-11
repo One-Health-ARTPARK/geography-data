@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52732499974341,12.95268199962087],[77.51184499972014,12.94924199982264],[77.52031199997874,12.93683900039676],[77.52732499974341,12.95268199962087]]]},"properties":{"region_id":"ward_bbmp131","name":"WARD NO.131 (NAYANDAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

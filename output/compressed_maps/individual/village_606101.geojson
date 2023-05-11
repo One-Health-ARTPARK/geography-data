@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79843783838182,14.09819595990333],[76.79109904823822,14.12948883398415],[76.78385239043322,14.12938722800723],[76.78267666393506,14.09681181973409],[76.79843783838182,14.09819595990333]]]},"properties":{"region_id":"village_606101","name":"SALHUNSE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

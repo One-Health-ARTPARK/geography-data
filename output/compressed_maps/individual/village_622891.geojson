@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.27056137172045,13.20085675788874],[78.24910921933247,13.20466488152925],[78.24773013399049,13.19360467124522],[78.26899797709731,13.1862351556643],[78.27056137172045,13.20085675788874]]]},"properties":{"region_id":"village_622891","name":"POMBARAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

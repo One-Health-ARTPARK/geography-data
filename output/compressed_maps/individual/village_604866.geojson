@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72691154390002,15.33927712378547],[76.72309120474456,15.36403674779116],[76.70522970913566,15.35934350280829],[76.70129683572863,15.32444594231626],[76.72691154390002,15.33927712378547]]]},"properties":{"region_id":"village_604866","name":"GUTTIGANUR","parent":"subdistrict_7109","parent_name":"KURUGODU"}}
+]}

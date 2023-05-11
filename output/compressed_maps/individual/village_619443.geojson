@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59257138261063,11.98651935327105],[76.57927065954034,11.98756604109114],[76.58310158435604,11.97588878197877],[76.59257138261063,11.98651935327105]]]},"properties":{"region_id":"village_619443","name":"HOSAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

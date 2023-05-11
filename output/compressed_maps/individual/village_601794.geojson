@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29742377667728,15.56136736244821],[76.28390471029617,15.56077847252869],[76.28574171544729,15.54763025583318],[76.29728312774705,15.54779243303867],[76.29742377667728,15.56136736244821]]]},"properties":{"region_id":"village_601794","name":"UPLAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

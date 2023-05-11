@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62535830157998,15.41151533905505],[76.62900528893204,15.44406805975971],[76.5964142019759,15.42634908055856],[76.62535830157998,15.41151533905505]]]},"properties":{"region_id":"village_604748","name":"BELUGODUHAL","parent":"subdistrict_7107","parent_name":"KAMPLI"}}
+]}

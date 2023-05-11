@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8587681886347,14.23011371933712],[75.85669277744924,14.2383000281624],[75.84615224336353,14.23788521444053],[75.84589715915645,14.22617098034829],[75.8587681886347,14.23011371933712]]]},"properties":{"region_id":"village_606887","name":"KULUMENAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

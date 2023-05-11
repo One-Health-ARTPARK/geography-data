@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40793186883239,13.77559378140543],[77.40815932272149,13.74585111708354],[77.42913369972547,13.74905999440466],[77.4262640130051,13.77128925107191],[77.40793186883239,13.77559378140543]]]},"properties":{"region_id":"village_610911","name":"THERIYUR","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

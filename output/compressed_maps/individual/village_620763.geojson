@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76841560751018,17.04303287136629],[76.73930636831994,17.01401857873798],[76.79108174618142,17.00069888707068],[76.80624740666485,17.03323530291328],[76.76841560751018,17.04303287136629]]]},"properties":{"region_id":"village_620763","name":"JEVARGI (B) (RURAL)","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

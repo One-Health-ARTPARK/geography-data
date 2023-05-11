@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7473891197921,12.48112243507594],[76.72090618896347,12.48229273562283],[76.71753428131014,12.46737281779628],[76.7448669112404,12.46948947109265],[76.7473891197921,12.48112243507594]]]},"properties":{"region_id":"village_614225","name":"CHINNENAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

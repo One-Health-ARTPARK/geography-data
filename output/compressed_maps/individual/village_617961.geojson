@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89932802742959,12.48743001177804],[75.88111740919085,12.48225545236271],[75.8924437999216,12.47408953245306],[75.90569558591989,12.4740593555983],[75.89932802742959,12.48743001177804]]]},"properties":{"region_id":"village_617961","name":"HERUR","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

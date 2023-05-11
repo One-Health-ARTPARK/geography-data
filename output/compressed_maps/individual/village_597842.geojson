@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.47459101595659,15.66428945522595],[74.46665653459118,15.68362315734539],[74.44355591849357,15.6716643743922],[74.47459101595659,15.66428945522595]]]},"properties":{"region_id":"village_597842","name":"NAGURDA","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

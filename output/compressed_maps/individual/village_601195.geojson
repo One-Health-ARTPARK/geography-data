@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7718191547302,15.80497797394306],[76.76402959719239,15.8118437245467],[76.75142227702061,15.7942185137961],[76.7579895261564,15.79074517555367],[76.7718191547302,15.80497797394306]]]},"properties":{"region_id":"village_601195","name":"YELRAGI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

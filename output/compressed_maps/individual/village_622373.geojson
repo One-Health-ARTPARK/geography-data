@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.07340624595493,12.85786127528962],[78.07675271505332,12.86553333875393],[78.06697404968216,12.86517875938045],[78.06576956756827,12.84944799942503],[78.07340624595493,12.85786127528962]]]},"properties":{"region_id":"village_622373","name":"RAMASAGARA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

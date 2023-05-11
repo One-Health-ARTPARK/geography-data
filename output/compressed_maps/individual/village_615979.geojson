@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23814656088034,13.01589897429907],[76.2457566893098,13.03664174429141],[76.22097599942221,13.04769727267305],[76.21852665467226,13.02416033201587],[76.23814656088034,13.01589897429907]]]},"properties":{"region_id":"village_615979","name":"MELAGODU","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25912305464638,14.04900619382289],[75.25836085549152,14.03452082121083],[75.27694463581071,14.03219667426055],[75.27995613033515,14.04616104302256],[75.25912305464638,14.04900619382289]]]},"properties":{"region_id":"village_607945","name":"MADAPURA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

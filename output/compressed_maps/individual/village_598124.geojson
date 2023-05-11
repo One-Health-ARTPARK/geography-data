@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85649966197,15.79184421695575],[74.83395222100287,15.79026697666821],[74.83510162543479,15.76401044277211],[74.85939762109466,15.76916058450358],[74.85649966197,15.79184421695575]]]},"properties":{"region_id":"village_598124","name":"AMATUR","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

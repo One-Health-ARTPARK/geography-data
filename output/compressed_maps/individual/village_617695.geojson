@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29919159647477,12.81788818161869],[75.34330796426363,12.81366523210876],[75.32740842872825,12.8586028232689],[75.28774413465396,12.84158152898496],[75.29919159647477,12.81788818161869]]]},"properties":{"region_id":"village_617695","name":"BAJATHURU","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

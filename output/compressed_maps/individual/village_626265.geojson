@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2099227016032,12.63856510358082],[77.20531142011126,12.61368522657829],[77.21337749224286,12.60713704456465],[77.21908577183014,12.6151990005319],[77.2099227016032,12.63856510358082]]]},"properties":{"region_id":"village_626265","name":"SUNNAGHATTA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

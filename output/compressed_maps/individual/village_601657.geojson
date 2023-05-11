@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49170652481963,15.70811969403973],[76.47334100549843,15.70862413317142],[76.46732040327008,15.6836635673875],[76.48860275118453,15.68319713391668],[76.49170652481963,15.70811969403973]]]},"properties":{"region_id":"village_601657","name":"YETTINHATTI","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

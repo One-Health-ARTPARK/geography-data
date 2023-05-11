@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89378638000201,12.84479656864054],[75.89231600991073,12.84011876440213],[75.88822497466333,12.83813901940215],[75.89323733899452,12.83354216263842],[75.89869532693643,12.84158776402034],[75.89378638000201,12.84479656864054]]]},"properties":{"region_id":"village_616252","name":"KAGANOOR ESTATE","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

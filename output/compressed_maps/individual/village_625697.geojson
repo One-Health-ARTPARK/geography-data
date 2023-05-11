@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84688875214393,13.12878766459345],[77.83047574854537,13.13267478148967],[77.83107465334267,13.12667344468005],[77.84177271087279,13.12221369498768],[77.84688875214393,13.12878766459345]]]},"properties":{"region_id":"village_625697","name":"MALIMAKANAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

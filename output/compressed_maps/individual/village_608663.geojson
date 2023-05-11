@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.63728140497084,13.82743125523069],[74.63139550112557,13.84876313388569],[74.6138312585137,13.84332053731634],[74.62048235458238,13.81909309209512],[74.63728140497084,13.82743125523069]]]},"properties":{"region_id":"village_608663","name":"UPPUNDA","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

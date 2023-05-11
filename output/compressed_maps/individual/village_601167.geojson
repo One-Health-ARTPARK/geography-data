@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9286500628806,15.88863817757937],[76.91622135262163,15.85117950616135],[76.92137662981038,15.84873577465193],[76.93836051458285,15.88010088142583],[76.9286500628806,15.88863817757937]]]},"properties":{"region_id":"village_601167","name":"PULDINNI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

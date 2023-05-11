@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74566889899204,12.81637510584955],[77.73204441117568,12.81484226612134],[77.73076805214171,12.80923570437425],[77.74338775093057,12.80991560009061],[77.74566889899204,12.81637510584955]]]},"properties":{"region_id":"village_613270","name":"BENDIGANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

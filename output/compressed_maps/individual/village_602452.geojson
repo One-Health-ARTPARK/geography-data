@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05560078243495,15.30265413544808],[75.04813765866288,15.29825136285048],[75.05257753489218,15.26755551041005],[75.06770555861226,15.28032548157514],[75.05560078243495,15.30265413544808]]]},"properties":{"region_id":"village_602452","name":"CHALAMATTI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

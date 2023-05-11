@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04966548317684,15.96045507770492],[77.01650802539042,15.95504540357455],[77.02870985699626,15.93127482218782],[77.04966548317684,15.96045507770492]]]},"properties":{"region_id":"village_601026","name":"MUSTOOR","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

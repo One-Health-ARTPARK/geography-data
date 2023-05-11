@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90681335220128,14.0084132260778],[75.90673386362744,14.01918303745417],[75.8974989437534,14.02323620191892],[75.89677451316305,13.99401790731956],[75.90681335220128,14.0084132260778]]]},"properties":{"region_id":"village_607056","name":"AJJIHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

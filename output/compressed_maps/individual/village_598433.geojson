@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3851678795841,16.55823791445053],[75.37597100047039,16.5900754359684],[75.33478859463551,16.5737491206068],[75.33921033981133,16.54079811078617],[75.3851678795841,16.55823791445053]]]},"properties":{"region_id":"village_598433","name":"ALAGUR","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

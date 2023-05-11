@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61119890997567,15.64071872555364],[74.59940641988604,15.64426707786577],[74.6017776360167,15.62640998078712],[74.61164976398426,15.62635506837703],[74.61119890997567,15.64071872555364]]]},"properties":{"region_id":"village_597903","name":"DEMINKOP","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

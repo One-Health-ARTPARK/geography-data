@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81083585852436,14.08087676191128],[76.79850456695365,14.09822402356328],[76.77944728021025,14.07577775598455],[76.79738574542104,14.06672781517002],[76.81083585852436,14.08087676191128]]]},"properties":{"region_id":"village_606111","name":"MUNGASAVALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

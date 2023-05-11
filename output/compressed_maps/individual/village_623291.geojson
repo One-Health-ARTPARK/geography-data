@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54313425003427,13.54580998336488],[77.52961031125244,13.54334134436646],[77.53402793288468,13.52284028318768],[77.54798775551775,13.52360019875025],[77.54313425003427,13.54580998336488]]]},"properties":{"region_id":"village_623291","name":"HANUMENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92306344589697,13.11510402217878],[75.9151157978683,13.11273850941572],[75.92072810915322,13.10590926396207],[75.92306344589697,13.11510402217878]]]},"properties":{"region_id":"village_615330","name":"CHOMANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

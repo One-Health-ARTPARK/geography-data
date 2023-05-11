@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9942936055801,11.95224370920181],[76.98591779886374,11.95849378131565],[76.98448464903915,11.95269316945319],[76.9942936055801,11.95224370920181]]]},"properties":{"region_id":"village_619754","name":"MALLUPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

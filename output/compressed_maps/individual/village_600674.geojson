@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89660009772854,16.32377103708319],[76.87275916572501,16.32391223738229],[76.86990336414075,16.3128586234438],[76.8974517622803,16.31606304512156],[76.89660009772854,16.32377103708319]]]},"properties":{"region_id":"village_600674","name":"PANDYAN","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

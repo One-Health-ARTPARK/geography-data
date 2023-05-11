@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19190399347772,12.92675942364115],[75.1614694672432,12.92481932777395],[75.17088381580214,12.90877364119122],[75.19190399347772,12.92675942364115]]]},"properties":{"region_id":"village_617550","name":"BADAGAKAJEKAR","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

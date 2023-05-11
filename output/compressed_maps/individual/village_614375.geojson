@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97208657564315,12.61345134481881],[76.96933876469531,12.62517887372833],[76.94517168066507,12.62289576525983],[76.94498021033944,12.61042482290775],[76.97208657564315,12.61345134481881]]]},"properties":{"region_id":"village_614375","name":"EACHAGERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

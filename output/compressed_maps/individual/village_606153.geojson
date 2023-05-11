@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59085546044531,13.88213975534374],[76.56984797546875,13.88709784777275],[76.56392547243125,13.86411643388738],[76.5934451644494,13.87017280101027],[76.59085546044531,13.88213975534374]]]},"properties":{"region_id":"village_606153","name":"UDUVALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

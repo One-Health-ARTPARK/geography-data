@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5962947253998,15.08507969964409],[75.57910809694022,15.09073533546145],[75.57545509048711,15.05980604775022],[75.5955700276776,15.06869347374202],[75.5962947253998,15.08507969964409]]]},"properties":{"region_id":"village_602087","name":"HULLUR","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

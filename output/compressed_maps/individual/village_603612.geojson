@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65513296321987,14.3528825389734],[74.63277066574672,14.32974112850555],[74.64694922688525,14.32037328812147],[74.66909561573137,14.33060182396068],[74.65513296321987,14.3528825389734]]]},"properties":{"region_id":"village_603612","name":"KODIGADDE","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43190118407081,12.35676921406567],[76.42310979878148,12.37447512286106],[76.41575969742007,12.37030754308785],[76.4174538459916,12.35752043131954],[76.43190118407081,12.35676921406567]]]},"properties":{"region_id":"village_618447","name":"BOLANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

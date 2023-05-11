@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68864531763509,12.95249051515247],[77.67790305514247,12.95027180719132],[77.67737940436494,12.94400828434424],[77.68765381723715,12.94577557304154],[77.68864531763509,12.95249051515247]]]},"properties":{"region_id":"village_938271","name":"YAMALURU","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77825886936556,15.45852827632328],[74.75210718875547,15.44513045915094],[74.75525034942838,15.42439113597393],[74.78458292853566,15.43250564252419],[74.77825886936556,15.45852827632328]]]},"properties":{"region_id":"village_602238","name":"HINDASGERI","parent":"subdistrict_7081","parent_name":"ALNAVAR"}}
+]}

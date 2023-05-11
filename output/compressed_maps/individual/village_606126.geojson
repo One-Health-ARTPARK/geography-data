@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7497780867045,13.91614858528835],[76.74718806463868,13.94436092841412],[76.72370763600193,13.93206514217452],[76.7497780867045,13.91614858528835]]]},"properties":{"region_id":"village_606126","name":"KUNDALAGURA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

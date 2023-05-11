@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2295951342755,12.10202624790054],[77.22118074838855,12.07982954611968],[77.23999944932085,12.074587178527],[77.24461228248441,12.08913991141729],[77.2295951342755,12.10202624790054]]]},"properties":{"region_id":"village_619871","name":"CHANNALINGANAHALLI","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09582244467668,14.23955484266617],[76.0923017377863,14.24896851561757],[76.07982720040646,14.24710359552381],[76.08873049431574,14.23333110576436],[76.09582244467668,14.23955484266617]]]},"properties":{"region_id":"village_605621","name":"INGALADAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

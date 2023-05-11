@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31256787336784,14.69719441648317],[75.29172958487361,14.69963339541581],[75.28773340769172,14.68529637136589],[75.30778879830974,14.68620183319771],[75.31256787336784,14.69719441648317]]]},"properties":{"region_id":"village_604170","name":"SOMASAGARA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

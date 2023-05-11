@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10423125757845,17.66864570736413],[77.08227411302185,17.6545549340702],[77.10033139165176,17.64588938703337],[77.10423125757845,17.66864570736413]]]},"properties":{"region_id":"village_620185","name":"GOBBURWADI","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

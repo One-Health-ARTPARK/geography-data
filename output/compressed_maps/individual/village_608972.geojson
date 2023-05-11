@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27711669160128,13.51789006910312],[75.25566524542567,13.5342518880556],[75.25870751969367,13.50047186815483],[75.27711669160128,13.51789006910312]]]},"properties":{"region_id":"village_608972","name":"NILAVAGILU","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

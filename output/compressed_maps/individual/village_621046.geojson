@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65394679553948,16.54649583031134],[76.649872227387,16.56462891601207],[76.62114458197553,16.56105561356292],[76.62784396733902,16.53751810078024],[76.65394679553948,16.54649583031134]]]},"properties":{"region_id":"village_621046","name":"MANGLOOR","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

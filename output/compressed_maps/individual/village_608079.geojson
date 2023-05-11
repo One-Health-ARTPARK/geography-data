@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26394344116166,13.83548594095095],[75.24101346114452,13.81394173049655],[75.26668288921636,13.80765793128158],[75.26394344116166,13.83548594095095]]]},"properties":{"region_id":"village_608079","name":"KONANDUR","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

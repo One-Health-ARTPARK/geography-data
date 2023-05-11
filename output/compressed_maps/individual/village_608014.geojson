@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9337887896035,13.90393359325769],[74.88686703614518,13.91379325943516],[74.88032854191941,13.88161539001607],[74.91712181383977,13.87302950805509],[74.9337887896035,13.90393359325769]]]},"properties":{"region_id":"village_608014","name":"MANJAGALALE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

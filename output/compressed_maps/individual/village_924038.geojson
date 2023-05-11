@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79488368109504,12.23463481901996],[75.7827746147868,12.23558739456215],[75.78128780154765,12.22547097385746],[75.79082255804934,12.22078812441615],[75.79488368109504,12.23463481901996]]]},"properties":{"region_id":"village_924038","name":"BELLARIMADU","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

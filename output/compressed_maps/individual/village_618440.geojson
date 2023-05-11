@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45402020050344,12.39061157431772],[76.45648388095164,12.39773339912192],[76.45187883735998,12.39990695329378],[76.44730480720014,12.38717630693833],[76.45402020050344,12.39061157431772]]]},"properties":{"region_id":"village_618440","name":"HUSENPURADA KAVAL","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

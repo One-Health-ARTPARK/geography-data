@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43820406482277,16.12648750350009],[76.39921243456186,16.12596320513091],[76.43184009936428,16.10759887895135],[76.43820406482277,16.12648750350009]]]},"properties":{"region_id":"village_600426","name":"CHITRANHAL","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

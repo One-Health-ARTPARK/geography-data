@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61574950838823,13.32271443037754],[76.59701868418975,13.32395827386415],[76.59865664445596,13.31453042163529],[76.61116396504381,13.31282246164116],[76.61574950838823,13.32271443037754]]]},"properties":{"region_id":"village_612023","name":"JAKKANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

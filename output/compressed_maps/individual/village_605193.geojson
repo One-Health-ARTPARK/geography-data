@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71200807340698,14.78682764241469],[76.68519574085072,14.77997593851329],[76.69063299856296,14.76449254940417],[76.71587829042636,14.76144160713484],[76.71200807340698,14.78682764241469]]]},"properties":{"region_id":"village_605193","name":"HIREKEREHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

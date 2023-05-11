@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81136696005721,13.80047081119477],[76.81688394144746,13.83424988948038],[76.80307861334744,13.83814007812689],[76.79355225302979,13.8172783199077],[76.81136696005721,13.80047081119477]]]},"properties":{"region_id":"village_610325","name":"MOSARAKUNTE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

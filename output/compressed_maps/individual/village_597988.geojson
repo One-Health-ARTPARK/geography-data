@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.64510315092265,15.52302243985952],[74.60811335687397,15.52472259365704],[74.61845765994332,15.50859722748092],[74.65068551670093,15.50445298766424],[74.64510315092265,15.52302243985952]]]},"properties":{"region_id":"village_597988","name":"HATTARWAD","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

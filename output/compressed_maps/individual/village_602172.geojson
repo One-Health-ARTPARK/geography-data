@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9247086321367,15.18264745780684],[75.91202906504301,15.2407895379356],[75.8691592055779,15.21409352605043],[75.89109053106623,15.19103130721368],[75.9247086321367,15.18264745780684]]]},"properties":{"region_id":"village_602172","name":"MUNDARGI ( R )","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

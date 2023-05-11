@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.864832927477,12.71623887976798],[75.86348935106565,12.72469986274925],[75.85568959897853,12.72257883085131],[75.864832927477,12.71623887976798]]]},"properties":{"region_id":"village_617890","name":"CHEEKANALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

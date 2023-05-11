@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94472963683856,15.58637708543292],[76.91480320409677,15.59268785764107],[76.91209709579059,15.57956311113763],[76.92987706209104,15.5749018450108],[76.94472963683856,15.58637708543292]]]},"properties":{"region_id":"village_604775","name":"MANJINAHAL","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

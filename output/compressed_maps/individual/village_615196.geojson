@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86358707187642,13.18249314129235],[75.85765934527973,13.1881172261432],[75.84681983863125,13.17863756896723],[75.85302207964186,13.17487199123576],[75.86358707187642,13.18249314129235]]]},"properties":{"region_id":"village_615196","name":"SURAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

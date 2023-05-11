@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71387939442695,13.87102344493069],[75.69956561478817,13.86053603732423],[75.71284083428795,13.85393232943466],[75.71387939442695,13.87102344493069]]]},"properties":{"region_id":"village_938576","name":"SEEGIBAGI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

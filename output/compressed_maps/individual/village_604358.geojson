@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29262570236386,14.57773154159394],[75.265345049609,14.57860688733725],[75.28525009861583,14.56105311558957],[75.29262570236386,14.57773154159394]]]},"properties":{"region_id":"village_604358","name":"NITTUR","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

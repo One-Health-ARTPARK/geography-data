@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88166428280925,13.06200820667239],[76.86615697266298,13.06119989074971],[76.86034942902002,13.0537533554675],[76.87596326591719,13.05241375064929],[76.88166428280925,13.06200820667239]]]},"properties":{"region_id":"village_612401","name":"GAINATHAPURA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

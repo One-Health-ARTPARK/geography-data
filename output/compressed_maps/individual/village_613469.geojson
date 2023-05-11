@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58962750425147,12.58701050922315],[76.58307289473903,12.58590258128248],[76.58286313985336,12.57493296944372],[76.5926757348881,12.57711981779982],[76.58962750425147,12.58701050922315]]]},"properties":{"region_id":"village_613469","name":"BALLEKERE","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

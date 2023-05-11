@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87414965882643,13.16662972948727],[75.86676906727108,13.17487273111237],[75.85225642443565,13.1647245204214],[75.85816124011303,13.15288753689444],[75.87414965882643,13.16662972948727]]]},"properties":{"region_id":"village_938884","name":"BELUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74328341611611,13.11238484358466],[76.72400388675882,13.10267063226149],[76.74046236097088,13.0913478809033],[76.74328341611611,13.11238484358466]]]},"properties":{"region_id":"village_612381","name":"CHIKKAPURA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

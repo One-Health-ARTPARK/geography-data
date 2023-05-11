@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18292780067547,12.32201550468636],[76.1693484074361,12.3196024363435],[76.171491759611,12.30522740150887],[76.18494893611093,12.3136587794322],[76.18292780067547,12.32201550468636]]]},"properties":{"region_id":"village_618337","name":"KANAGAL","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

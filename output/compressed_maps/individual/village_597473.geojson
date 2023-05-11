@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68577308391713,16.0615303330489],[74.65889029359685,16.053383250271],[74.66976488509964,16.04833880832492],[74.6919664430248,16.0572961548636],[74.68577308391713,16.0615303330489]]]},"properties":{"region_id":"village_597473","name":"MUSALAMARI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

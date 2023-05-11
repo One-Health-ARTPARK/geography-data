@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68790209100784,13.08128650012007],[76.66350663070904,13.08187882807368],[76.66497597726266,13.0660826963317],[76.69062103729881,13.07012898687481],[76.68790209100784,13.08128650012007]]]},"properties":{"region_id":"village_612360","name":"MELINAVALAGERAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

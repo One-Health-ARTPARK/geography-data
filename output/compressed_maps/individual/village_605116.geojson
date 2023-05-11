@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45090764403025,14.82677301076993],[76.41652649812872,14.83661996796405],[76.41884611387877,14.82129749999335],[76.45090764403025,14.82677301076993]]]},"properties":{"region_id":"village_605116","name":"KYASANAKERE","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

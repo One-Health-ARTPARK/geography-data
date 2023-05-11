@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.867014200738,13.28138842155648],[77.87755099300603,13.29538462584038],[77.84956836457742,13.29795292729925],[77.8511934825819,13.28745947629712],[77.867014200738,13.28138842155648]]]},"properties":{"region_id":"village_624265","name":"YANNANGUR","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

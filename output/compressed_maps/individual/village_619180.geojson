@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56289993815146,11.9359182375934],[76.53800005094268,11.91309167341614],[76.56057506943384,11.89917719817265],[76.56289993815146,11.9359182375934]]]},"properties":{"region_id":"village_619180","name":"DEVARAYASETTIPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

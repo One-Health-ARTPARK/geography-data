@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64097363594612,16.69000547711899],[76.65854960065049,16.7122734584968],[76.63322547809263,16.72292689935902],[76.64097363594612,16.69000547711899]]]},"properties":{"region_id":"village_621077","name":"CHAMNAL","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

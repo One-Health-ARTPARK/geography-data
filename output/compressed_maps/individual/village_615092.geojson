@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75976155969268,13.09170670254789],[75.73498815149533,13.08538121756837],[75.74258111270095,13.07109753653288],[75.76774130981653,13.08070165496956],[75.75976155969268,13.09170670254789]]]},"properties":{"region_id":"village_615092","name":"SHIRAGURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92694594496177,16.62427092328587],[76.89480859092761,16.62342908996975],[76.89751358280216,16.61602282263251],[76.92694594496177,16.62427092328587]]]},"properties":{"region_id":"village_621176","name":"BOMMANHALLI","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

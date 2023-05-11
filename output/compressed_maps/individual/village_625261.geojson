@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65502539595205,13.31433226663663],[77.64070043254156,13.31146336134077],[77.63626886784057,13.30223801597942],[77.64538111436603,13.29276649138857],[77.65502539595205,13.31433226663663]]]},"properties":{"region_id":"village_625261","name":"KOIRA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

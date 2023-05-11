@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77733462424001,12.13953558220738],[76.76304089326318,12.14394604308236],[76.76026769715504,12.12855227269196],[76.77921522296661,12.12919847371585],[76.77733462424001,12.13953558220738]]]},"properties":{"region_id":"village_619209","name":"HANIYAMBALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25644436564681,13.30884321233919],[75.2283018506419,13.31857405765524],[75.21492750493327,13.27147937188368],[75.24892489059839,13.27229266535264],[75.25644436564681,13.30884321233919]]]},"properties":{"region_id":"village_608940","name":"BALAGERE","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

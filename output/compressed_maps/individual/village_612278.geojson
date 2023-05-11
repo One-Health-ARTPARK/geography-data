@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77222560450586,13.24826102987636],[76.75624552949508,13.25233489245319],[76.75040477570202,13.22304386049638],[76.7688932475974,13.22952812271405],[76.77222560450586,13.24826102987636]]]},"properties":{"region_id":"village_612278","name":"RAGHAVADEVANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

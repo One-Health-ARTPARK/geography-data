@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78496160573563,12.25921033446075],[76.77496050870053,12.25710168660078],[76.76852499888508,12.2393840608611],[76.77263906741321,12.22961969175947],[76.80214079267219,12.24792817898951],[76.78496160573563,12.25921033446075]]]},"properties":{"region_id":"village_618800","name":"DUDDAGERE","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

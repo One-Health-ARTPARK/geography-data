@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60688767016184,12.47446432159753],[77.61353427650631,12.50271389929093],[77.58048693037532,12.50563130607051],[77.57503169482457,12.44432045889267],[77.60688767016184,12.47446432159753]]]},"properties":{"region_id":"village_626598","name":"GATTIGUNDA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

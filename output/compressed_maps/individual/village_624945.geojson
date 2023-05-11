@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40472397629871,13.17449628691186],[77.39765384115114,13.16904137746141],[77.39006392282,13.15637383434461],[77.40001727909608,13.15688482491558],[77.40472397629871,13.17449628691186]]]},"properties":{"region_id":"village_624945","name":"BOLAMARANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

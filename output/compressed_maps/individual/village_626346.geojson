@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5038196343752,12.72865974497638],[77.47850198108993,12.73154720106625],[77.47597391321632,12.72139609875071],[77.50763644246904,12.71920933446983],[77.5038196343752,12.72865974497638]]]},"properties":{"region_id":"village_626346","name":"KAGGALAHALLI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

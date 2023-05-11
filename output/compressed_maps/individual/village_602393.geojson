@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30503855222823,15.42876654602339],[75.25318223671593,15.4195711949317],[75.25417037369753,15.38784966846648],[75.32961795220243,15.38741548997294],[75.30503855222823,15.42876654602339]]]},"properties":{"region_id":"village_602393","name":"INGALHALLI","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

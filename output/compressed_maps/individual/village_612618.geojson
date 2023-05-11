@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01927297859237,12.96869482743499],[77.00878193691891,12.96730183661622],[77.00714691710864,12.95793203662391],[77.01506725381033,12.95320650924408],[77.01927297859237,12.96869482743499]]]},"properties":{"region_id":"village_612618","name":"BORASANDRA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

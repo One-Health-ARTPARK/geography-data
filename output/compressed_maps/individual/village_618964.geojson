@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52025059090786,12.1211457391705],[76.50917198635511,12.11865734713111],[76.51088855801083,12.10284669888404],[76.52220992619053,12.10790142789117],[76.52025059090786,12.1211457391705]]]},"properties":{"region_id":"village_618964","name":"CHIKKANANDI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

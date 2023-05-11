@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09932971823218,15.30697575379818],[76.07525333802063,15.31391158630821],[76.06522921625975,15.29363337338752],[76.08231890171159,15.27775165994412],[76.10572449782654,15.28114661728798],[76.09932971823218,15.30697575379818]]]},"properties":{"region_id":"village_601717","name":"HIRESINDOGI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

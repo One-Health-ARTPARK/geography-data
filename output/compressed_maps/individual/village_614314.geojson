@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7684887348163,12.72063010477299],[76.75694819589843,12.70337010087096],[76.7721781696205,12.70037156194006],[76.7684887348163,12.72063010477299]]]},"properties":{"region_id":"village_614314","name":"NAYAKANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

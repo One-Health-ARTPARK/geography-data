@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75407836510723,13.34232300567084],[77.74515032976208,13.3521863995234],[77.73729738082564,13.33881064294586],[77.74955762384465,13.33451848707174],[77.75407836510723,13.34232300567084]]]},"properties":{"region_id":"village_625319","name":"GONUR","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

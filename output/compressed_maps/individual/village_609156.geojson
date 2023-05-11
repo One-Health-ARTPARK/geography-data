@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79553324274352,13.70593601667545],[75.78842476073052,13.7050259169708],[75.7831340350938,13.68168874319028],[75.7967082957896,13.69257324720854],[75.79553324274352,13.70593601667545]]]},"properties":{"region_id":"village_609156","name":"GOVINDAPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

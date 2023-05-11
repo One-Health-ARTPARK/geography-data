@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42032942281838,13.70657995582499],[75.4027399639924,13.70352168681969],[75.40598174820852,13.69351119209118],[75.42032942281838,13.70657995582499]]]},"properties":{"region_id":"village_609044","name":"KANIVE","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

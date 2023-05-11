@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97778214625568,12.06472161646652],[76.97099693823385,12.0653126814837],[76.97236388781079,12.04719378177868],[76.97812757368165,12.04225633492643],[76.97778214625568,12.06472161646652]]]},"properties":{"region_id":"village_619616","name":"DESAVALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

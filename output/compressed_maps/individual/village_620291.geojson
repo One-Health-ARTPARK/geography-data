@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.715578675336,17.27585363675275],[76.70250803734152,17.30094265414409],[76.69263184982012,17.29931451880336],[76.69707827187469,17.27313684764475],[76.715578675336,17.27585363675275]]]},"properties":{"region_id":"village_620291","name":"KOLLUR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

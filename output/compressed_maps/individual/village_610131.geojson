@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.573166309335,13.56189846651676],[76.55037804251545,13.56814369167913],[76.54682113436243,13.54089661103393],[76.56776688107074,13.54792657658797],[76.573166309335,13.56189846651676]]]},"properties":{"region_id":"village_610131","name":"DODDABIDARE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

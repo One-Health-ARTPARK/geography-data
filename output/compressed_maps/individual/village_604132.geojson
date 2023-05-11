@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12222278425747,14.66968433973216],[75.15518173408094,14.65847527097699],[75.15706558438121,14.68153472355853],[75.12222278425747,14.66968433973216]]]},"properties":{"region_id":"village_604132","name":"MUDUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

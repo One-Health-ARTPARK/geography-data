@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55646455610125,12.21224340026218],[76.54341456844458,12.20762899998224],[76.53443833424227,12.1784811736682],[76.56932239388108,12.19212645040078],[76.55646455610125,12.21224340026218]]]},"properties":{"region_id":"village_618765","name":"JAYAPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

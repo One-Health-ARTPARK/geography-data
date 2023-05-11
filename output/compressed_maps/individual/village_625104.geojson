@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51434849805656,13.31583526243913],[77.52087282162155,13.3149237374091],[77.52817506562594,13.31760303639871],[77.52670443250663,13.32084963213357],[77.51434849805656,13.31583526243913]]]},"properties":{"region_id":"village_625104","name":"AMANI PALANKERE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

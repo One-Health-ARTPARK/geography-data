@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7279419090134,13.35001512928643],[75.71534213983249,13.33869313359195],[75.74033262358132,13.33536547042358],[75.74486278243363,13.34828617733795],[75.7279419090134,13.35001512928643]]]},"properties":{"region_id":"village_609730","name":"CHIKKOLALE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

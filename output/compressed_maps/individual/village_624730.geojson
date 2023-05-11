@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19843113357999,13.23647738995224],[77.19096061558506,13.24135002514902],[77.1836051625192,13.2300447228148],[77.19528223844333,13.22552811308105],[77.19843113357999,13.23647738995224]]]},"properties":{"region_id":"village_624730","name":"KAMALAPURA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

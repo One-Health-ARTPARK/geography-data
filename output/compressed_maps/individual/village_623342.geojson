@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56647786948807,13.58799099934797],[77.55978226690645,13.56925906797852],[77.57768793373387,13.5630989422576],[77.57613865130322,13.58146748213291],[77.56647786948807,13.58799099934797]]]},"properties":{"region_id":"village_623342","name":"JAKKENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

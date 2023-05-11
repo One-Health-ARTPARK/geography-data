@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59109078326445,13.24762557724313],[76.57964911331601,13.25167415045674],[76.57685830369886,13.23708652067164],[76.58620623396696,13.23247324981023],[76.59109078326445,13.24762557724313]]]},"properties":{"region_id":"village_612060","name":"KALLUSHETTIHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

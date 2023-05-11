@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56966337848174,13.12502235253296],[77.56164645804002,13.11400273487513],[77.57473400462108,13.11202243686456],[77.56966337848174,13.12502235253296]]]},"properties":{"region_id":"village_938495","name":"ANANTAPURA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02666731095375,12.74066288698605],[77.00569559008323,12.75694561469941],[77.00332814443195,12.73049627324785],[77.02666731095375,12.74066288698605]]]},"properties":{"region_id":"village_614540","name":"HEBBERALU","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

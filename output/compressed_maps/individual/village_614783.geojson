@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22071948803605,12.39062236423534],[77.2025981919102,12.38814362512787],[77.21066521810916,12.37271933460848],[77.22071948803605,12.39062236423534]]]},"properties":{"region_id":"village_614783","name":"MADAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75992141629871,16.95659974852628],[76.71989064857468,16.93840980062862],[76.73768619421595,16.92094773082402],[76.75765184359696,16.93252745657979],[76.75992141629871,16.95659974852628]]]},"properties":{"region_id":"village_620815","name":"HALGADLA","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

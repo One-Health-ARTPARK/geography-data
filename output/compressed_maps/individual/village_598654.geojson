@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48391575809887,16.02905017502679],[75.46507703827216,16.03469805654387],[75.44615584700963,16.02061626984773],[75.46374554716924,16.00156889043421],[75.48391575809887,16.02905017502679]]]},"properties":{"region_id":"village_598654","name":"CHINCHALAKATTI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

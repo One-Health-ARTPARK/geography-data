@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90205207815676,13.6763290114391],[77.88500586490906,13.6761300917],[77.88486506189172,13.66795511349896],[77.90009831284986,13.66671877465686],[77.90205207815676,13.6763290114391]]]},"properties":{"region_id":"village_623896","name":"CHINAMPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

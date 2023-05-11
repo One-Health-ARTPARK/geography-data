@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09017413978869,12.60862846860373],[77.08388730808487,12.59619731409805],[77.096171409483,12.59144593766736],[77.11618863967203,12.5878703682133],[77.1099544236607,12.59703052342505],[77.09017413978869,12.60862846860373]]]},"properties":{"region_id":"village_614569","name":"MADANAIKANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

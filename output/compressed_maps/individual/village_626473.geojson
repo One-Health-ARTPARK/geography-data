@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36552009770288,12.54859935137666],[77.36677357673217,12.55898355468535],[77.35041142028719,12.5635438845425],[77.34736102928257,12.54601434612853],[77.36552009770288,12.54859935137666]]]},"properties":{"region_id":"village_626473","name":"KUTHAGONDANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

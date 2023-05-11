@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30909592178305,14.20798484372686],[77.28170453502847,14.20493920615685],[77.28345323275329,14.18370516560893],[77.30081699394688,14.18369410115347],[77.30909592178305,14.20798484372686]]]},"properties":{"region_id":"village_610570","name":"HOSAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

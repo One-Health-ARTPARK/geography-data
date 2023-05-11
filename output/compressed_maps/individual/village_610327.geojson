@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7912353028527,13.87758549163211],[76.79665187654741,13.86277081707865],[76.79445095422595,13.83900278969976],[76.80406425495573,13.84016438603868],[76.79997281946312,13.86648068740022],[76.7912353028527,13.87758549163211]]]},"properties":{"region_id":"village_610327","name":"RANGANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

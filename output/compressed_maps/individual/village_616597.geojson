@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10133905216114,12.81579999885967],[76.0919336501322,12.8153851583258],[76.0959640637453,12.79691592066845],[76.10398657363328,12.79752075807465],[76.10133905216114,12.81579999885967]]]},"properties":{"region_id":"village_616597","name":"ATHINI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

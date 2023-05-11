@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.322559096786,14.54655664070208],[75.29294079882686,14.53395213966047],[75.30641601004413,14.5124084642053],[75.32627280055522,14.52299789155357],[75.322559096786,14.54655664070208]]]},"properties":{"region_id":"village_604373","name":"CHIKKERUR","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47679012025776,13.33511895922116],[77.47226041135484,13.32172445700014],[77.49475810882264,13.3220793024324],[77.49281172655049,13.33216727143466],[77.47679012025776,13.33511895922116]]]},"properties":{"region_id":"village_625077","name":"MARALENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

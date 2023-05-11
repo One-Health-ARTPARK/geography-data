@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.51452367259597,16.44762611847753],[74.48323304050689,16.44904154852301],[74.49332443662293,16.43309033200306],[74.51452367259597,16.44762611847753]]]},"properties":{"region_id":"village_597204","name":"SANKANWADI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

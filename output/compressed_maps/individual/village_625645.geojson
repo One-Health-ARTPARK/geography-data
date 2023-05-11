@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86554347200428,13.04772786512383],[77.86127128443297,13.0519389496654],[77.85852322507648,13.04735135801049],[77.86554347200428,13.04772786512383]]]},"properties":{"region_id":"village_625645","name":"BELAMANGALA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

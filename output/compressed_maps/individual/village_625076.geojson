@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66308070046796,13.3341649383013],[77.64342522637844,13.3355359755142],[77.65415472218201,13.32297354010728],[77.66308070046796,13.3341649383013]]]},"properties":{"region_id":"village_625076","name":"SONNAMARANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

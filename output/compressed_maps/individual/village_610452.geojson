@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77685648579221,13.58640871115425],[76.80179437908596,13.5819530844467],[76.79805857990591,13.60679177817732],[76.77974729458282,13.61643587722507],[76.77685648579221,13.58640871115425]]]},"properties":{"region_id":"village_610452","name":"KAREMADENAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

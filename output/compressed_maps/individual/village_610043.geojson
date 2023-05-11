@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46973375183487,13.52058799554486],[76.45186567245024,13.53968952234436],[76.44022920729088,13.52815346047693],[76.45127655753197,13.51734463202844],[76.46973375183487,13.52058799554486]]]},"properties":{"region_id":"village_610043","name":"SABBENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

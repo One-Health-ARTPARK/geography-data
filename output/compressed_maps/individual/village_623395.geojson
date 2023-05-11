@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59027878374881,13.53898826759563],[77.59002933460685,13.52467836013723],[77.59826291016734,13.52740587437541],[77.59809990137002,13.5386683260784],[77.59027878374881,13.53898826759563]]]},"properties":{"region_id":"village_623395","name":"HEGGENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

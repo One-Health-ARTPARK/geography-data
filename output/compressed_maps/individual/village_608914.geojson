@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0046020834093,13.19450014609389],[74.98111855712324,13.19928320469381],[74.96833697779992,13.19131520618819],[74.96231941570322,13.16834980414409],[74.99611894699048,13.15679390382868],[75.0046020834093,13.19450014609389]]]},"properties":{"region_id":"village_608914","name":"SANOOR (CT)","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

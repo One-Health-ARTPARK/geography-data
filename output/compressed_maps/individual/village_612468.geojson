@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89113904277053,13.01162564718506],[76.8739321477843,13.0123389507574],[76.87898558778154,13.00178557470232],[76.89113904277053,13.01162564718506]]]},"properties":{"region_id":"village_612468","name":"MALLANAIKANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0683439865629,13.55158963673643],[76.0454830245059,13.55035615741896],[76.04907271013154,13.53796990630875],[76.0683439865629,13.55158963673643]]]},"properties":{"region_id":"village_609515","name":"MACHERI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

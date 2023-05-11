@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75192170233693,12.95908947678565],[76.73998377889994,12.95107093167162],[76.74687662500826,12.94084696024795],[76.75918641084155,12.94264531271647],[76.75192170233693,12.95908947678565]]]},"properties":{"region_id":"village_613837","name":"YELADAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

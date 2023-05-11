@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08026309986963,14.09189738578086],[75.07418916828264,14.07795094635535],[75.08580371040738,14.07582597848709],[75.091313239884,14.09078782067111],[75.08026309986963,14.09189738578086]]]},"properties":{"region_id":"village_607243","name":"MUNDIGESARA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

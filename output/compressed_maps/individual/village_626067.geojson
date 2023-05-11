@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20431013560525,12.76277839932515],[77.18476562396812,12.74442671066195],[77.20152825580543,12.74113323233184],[77.20431013560525,12.76277839932515]]]},"properties":{"region_id":"village_626067","name":"KYASAPURA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10807680991272,16.38654931035626],[77.12979584026829,16.37293179524677],[77.13542143444312,16.38585457788625],[77.10807680991272,16.38654931035626]]]},"properties":{"region_id":"village_600650","name":"HANCHINHAL","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

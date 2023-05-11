@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8388814729621,13.14523246075068],[76.84113251520434,13.15851528802965],[76.82553552310536,13.16229508770616],[76.8284736168107,13.14069574472098],[76.8388814729621,13.14523246075068]]]},"properties":{"region_id":"village_611923","name":"BILINANDI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

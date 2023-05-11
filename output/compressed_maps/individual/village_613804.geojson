@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6536295961772,12.88893908141327],[76.64211864899588,12.87514755368727],[76.65665315817365,12.86806777566117],[76.6536295961772,12.88893908141327]]]},"properties":{"region_id":"village_613804","name":"RAMACHANDRA AGRAHARA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

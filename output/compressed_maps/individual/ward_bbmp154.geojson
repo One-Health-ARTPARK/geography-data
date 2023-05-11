@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56450200001609,12.93927199963698],[77.57386000006355,12.93477600001005],[77.57377799985429,12.94366300017214],[77.56450200001609,12.93927199963698]]]},"properties":{"region_id":"ward_bbmp154","name":"WARD NO.154 (BASAVANAGUDI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

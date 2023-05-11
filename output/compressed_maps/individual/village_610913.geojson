@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40908709983192,13.78199824215043],[77.38406618720283,13.78613503760123],[77.38420127401697,13.7751085119663],[77.4031667798399,13.76741761102143],[77.40908709983192,13.78199824215043]]]},"properties":{"region_id":"village_610913","name":"MASARAPADI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

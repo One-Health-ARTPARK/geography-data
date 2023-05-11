@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06165143225735,12.98328656532289],[77.04440963565985,12.98612449553901],[77.04838019699119,12.97681074694888],[77.05572502746674,12.97507406297541],[77.06165143225735,12.98328656532289]]]},"properties":{"region_id":"village_612614","name":"KITHANAMANGALA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

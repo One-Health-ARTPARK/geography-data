@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92308177859663,15.18155783564263],[75.91669684716399,15.19232430679969],[75.88546486425332,15.19046122295348],[75.89529385722899,15.1778394505569],[75.92308177859663,15.18155783564263]]]},"properties":{"region_id":"village_602173","name":"RAMENAHALLI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

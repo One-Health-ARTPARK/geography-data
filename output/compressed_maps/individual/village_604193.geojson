@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39833339827427,14.85148278689912],[75.38871291140183,14.87236693249277],[75.36279483627082,14.8799648754],[75.33767303243505,14.82911332537535],[75.39833339827427,14.85148278689912]]]},"properties":{"region_id":"village_604193","name":"DEVAGIRI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

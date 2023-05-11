@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06389194860063,15.80222687129405],[77.02697591860036,15.80286733991407],[77.02381001721616,15.78954895045671],[77.05983533834319,15.78262128108635],[77.06389194860063,15.80222687129405]]]},"properties":{"region_id":"village_604816","name":"VATTUMURUVANI","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

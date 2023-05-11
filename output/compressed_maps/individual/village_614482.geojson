@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95066942427489,12.49553336629265],[76.94782648702862,12.51033708647016],[76.93897687010424,12.50153260590021],[76.95066942427489,12.49553336629265]]]},"properties":{"region_id":"village_614482","name":"KABBANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

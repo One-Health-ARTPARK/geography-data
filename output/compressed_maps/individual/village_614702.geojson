@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0987983816052,12.41409011055641],[77.08424096248352,12.42989043046921],[77.06607332418075,12.42422262712411],[77.06801984689056,12.41489800884271],[77.0987983816052,12.41409011055641]]]},"properties":{"region_id":"village_614702","name":"KANDEGALA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29431132292585,14.54649295239671],[75.28498931144824,14.56134775322731],[75.27001512813767,14.55856381560741],[75.27095219262247,14.54458978284699],[75.29431132292585,14.54649295239671]]]},"properties":{"region_id":"village_607449","name":"YALAVALA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

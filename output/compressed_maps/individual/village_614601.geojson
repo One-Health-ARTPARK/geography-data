@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05349299138628,12.57166711557473],[77.04317600573994,12.56211093553827],[77.04246078823218,12.55087946815728],[77.06439868790636,12.55506145158335],[77.06338987777592,12.56449081407046],[77.05349299138628,12.57166711557473]]]},"properties":{"region_id":"village_614601","name":"NAGARAKERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

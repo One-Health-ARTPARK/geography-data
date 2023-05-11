@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17344935784938,14.59796919971988],[75.17084645274893,14.60375339454775],[75.15878940450423,14.60453107953524],[75.16892357611577,14.59345065474145],[75.17344935784938,14.59796919971988]]]},"properties":{"region_id":"village_607411","name":"UJJANIPURA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

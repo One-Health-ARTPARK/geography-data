@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6924456010792,12.74030825394354],[77.6832280191136,12.74179432631689],[77.68434747874856,12.7362748420362],[77.6924456010792,12.74030825394354]]]},"properties":{"region_id":"village_613312","name":"KEMPAVADERAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

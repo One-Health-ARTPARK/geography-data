@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43851931339151,12.54417594808323],[76.42769199877479,12.52795555566066],[76.44562115343355,12.52577321720136],[76.43851931339151,12.54417594808323]]]},"properties":{"region_id":"village_613628","name":"AMBIGARAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

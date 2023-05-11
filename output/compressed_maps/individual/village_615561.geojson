@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20137301386508,13.39949755752296],[76.18185920906268,13.3930537475415],[76.200726426401,13.37265405721442],[76.20137301386508,13.39949755752296]]]},"properties":{"region_id":"village_615561","name":"BYRAGONDANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

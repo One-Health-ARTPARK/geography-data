@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90477336075809,12.77005613744674],[75.89483190963243,12.78014147511363],[75.88740850836759,12.77505782036595],[75.89831431051546,12.76841224396293],[75.90477336075809,12.77005613744674]]]},"properties":{"region_id":"village_938993","name":"KANARALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

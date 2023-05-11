@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07242266582564,14.32668384506098],[75.06492592323877,14.32681422136278],[75.05942152834508,14.31631323197707],[75.06280600807801,14.31525005029785],[75.07242266582564,14.32668384506098]]]},"properties":{"region_id":"village_607602","name":"MELINAKIRAGUNASI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

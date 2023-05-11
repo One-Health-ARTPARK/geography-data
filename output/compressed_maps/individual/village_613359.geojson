@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78275827791998,12.78406386036591],[77.76491564534051,12.78392843582387],[77.761852730952,12.76972874887056],[77.7785194899694,12.76650885164838],[77.78396447397392,12.7744496857004],[77.78275827791998,12.78406386036591]]]},"properties":{"region_id":"village_613359","name":"ATTIBELE (CT)","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

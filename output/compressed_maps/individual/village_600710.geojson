@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98575772327277,16.28341248875765],[76.97006683066445,16.28740422321693],[76.9499911823058,16.26610799356425],[76.97421196331779,16.26558542286168],[76.98575772327277,16.28341248875765]]]},"properties":{"region_id":"village_600710","name":"JUTMARDI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

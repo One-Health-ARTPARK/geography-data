@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7628152719019,12.89974365064875],[77.76527257510249,12.91040159721432],[77.75679901962513,12.91331695015939],[77.75125462986739,12.90322438212976],[77.7628152719019,12.89974365064875]]]},"properties":{"region_id":"village_613215","name":"RAMNAIKANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

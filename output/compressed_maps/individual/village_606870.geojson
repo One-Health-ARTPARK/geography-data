@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73774298279224,14.11035061193627],[75.71197274522147,14.11085397710453],[75.7077985298067,14.09622860434998],[75.73850384384785,14.10146668190732],[75.73774298279224,14.11035061193627]]]},"properties":{"region_id":"village_606870","name":"LINGAPURA","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

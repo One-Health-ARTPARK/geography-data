@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77115844432936,12.46967487354726],[75.75452112816674,12.47737410480136],[75.74500528896452,12.47158936277874],[75.75238372630663,12.45306800899362],[75.78122112618,12.44076218631688],[75.77115844432936,12.46967487354726]]]},"properties":{"region_id":"village_617826","name":"MAKKANDUR","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

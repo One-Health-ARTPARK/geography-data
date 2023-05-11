@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88722292882622,15.62981585943504],[74.87769672346283,15.65408056792063],[74.86039660798737,15.64521544056137],[74.88722292882622,15.62981585943504]]]},"properties":{"region_id":"village_598147","name":"KADASAGATTI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

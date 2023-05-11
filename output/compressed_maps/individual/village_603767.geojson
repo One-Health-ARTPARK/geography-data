@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61026165402518,14.2194038832897],[74.57352224198812,14.19266108316434],[74.60216441750083,14.17255410308931],[74.61026165402518,14.2194038832897]]]},"properties":{"region_id":"village_603767","name":"MAGOD","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

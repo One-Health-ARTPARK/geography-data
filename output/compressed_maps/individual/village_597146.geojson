@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.41883287324909,16.35825418699571],[74.40125067360198,16.35297728623336],[74.40753535454107,16.34711483179583],[74.41860849552428,16.34748849253398],[74.41883287324909,16.35825418699571]]]},"properties":{"region_id":"village_597146","name":"TAVADI","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

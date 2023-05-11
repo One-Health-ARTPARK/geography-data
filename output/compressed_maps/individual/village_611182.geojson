@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28747798486032,13.43502236857334],[77.28159327534003,13.43146854366948],[77.28022588311467,13.41676918798331],[77.28769226689874,13.41751967577661],[77.29123309169016,13.42719576306809],[77.28747798486032,13.43502236857334]]]},"properties":{"region_id":"village_611182","name":"VAJJANKURIKE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85978121881334,16.44907159673269],[76.84103164955374,16.45220029483263],[76.82335455489722,16.47083688677377],[76.83076565506815,16.44812907711703],[76.85455590188832,16.44257434933472],[76.85978121881334,16.44907159673269]]]},"properties":{"region_id":"village_621074","name":"ADWADGI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97412537229302,13.321580189448],[77.96973148845487,13.32939148624464],[77.95829726338648,13.33131898833452],[77.9637386615012,13.31617388489238],[77.97412537229302,13.321580189448]]]},"properties":{"region_id":"village_624620","name":"MALLIKAPURA","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

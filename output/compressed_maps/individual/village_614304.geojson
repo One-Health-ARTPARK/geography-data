@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74028636538328,12.34580310205636],[76.73761279956675,12.36308281234391],[76.72341664751094,12.36344354228205],[76.71699564770923,12.3519004870166],[76.74028636538328,12.34580310205636]]]},"properties":{"region_id":"village_614304","name":"HAMPAPURA","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89439873867346,15.76699815356157],[76.89100546102605,15.81099512777851],[76.87269372757554,15.81149135662592],[76.875592602595,15.77004642415475],[76.89439873867346,15.76699815356157]]]},"properties":{"region_id":"village_601187","name":"HARETNUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78711379753646,13.63222893720047],[74.7707935406265,13.63653785451834],[74.77505765354208,13.61418774743246],[74.78711379753646,13.63222893720047]]]},"properties":{"region_id":"village_608714","name":"HALNAD","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

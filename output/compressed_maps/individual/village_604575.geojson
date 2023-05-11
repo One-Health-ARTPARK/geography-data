@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63423387116926,14.43291309524155],[75.63733081070804,14.44074422482233],[75.63015324358803,14.44622481282634],[75.62369758072221,14.43771211139544],[75.63423387116926,14.43291309524155]]]},"properties":{"region_id":"village_604575","name":"BADABASAPUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

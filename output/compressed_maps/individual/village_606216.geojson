@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6777206923938,14.42437033138259],[75.64598283873651,14.43184555574128],[75.64202568447368,14.41709510314643],[75.67663689893904,14.4132204205357],[75.6777206923938,14.42437033138259]]]},"properties":{"region_id":"village_606216","name":"VASANA","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

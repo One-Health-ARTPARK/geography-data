@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1288337082577,14.61215962372509],[75.11281887243621,14.61343105613288],[75.1104868795611,14.59133136125392],[75.1241703877214,14.58598146305864],[75.1288337082577,14.61215962372509]]]},"properties":{"region_id":"village_607405","name":"MUGURU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16697294549104,13.30773708900492],[77.16957998925919,13.31722681139969],[77.15396840910834,13.32294241902777],[77.15382816949669,13.31084211054613],[77.16697294549104,13.30773708900492]]]},"properties":{"region_id":"village_611385","name":"BASAVAPATNA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96532963177361,14.70719617003537],[75.94960294847057,14.71249177135622],[75.9176084697913,14.68637628699752],[75.94461731708004,14.67473595046148],[75.96532963177361,14.70719617003537]]]},"properties":{"region_id":"village_606345","name":"GUNDAGATHI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

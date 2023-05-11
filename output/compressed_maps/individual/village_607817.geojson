@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49192223411107,14.26482591698794],[75.45468827955706,14.2710641663961],[75.4466351112653,14.2263598214629],[75.49192223411107,14.26482591698794]]]},"properties":{"region_id":"village_607817","name":"HOSURU","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

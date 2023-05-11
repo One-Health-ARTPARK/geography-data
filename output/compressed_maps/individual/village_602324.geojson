@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40701108754362,15.65540391098998],[75.36256774266568,15.6689548515782],[75.35185368633567,15.63255203522881],[75.39936799937372,15.62891143166511],[75.40701108754362,15.65540391098998]]]},"properties":{"region_id":"village_602324","name":"AMARAGOL","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

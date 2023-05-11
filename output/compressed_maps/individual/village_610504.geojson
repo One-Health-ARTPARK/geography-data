@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96724689203143,13.58264291978953],[76.94377994282824,13.59664609126741],[76.9205326811744,13.5862182285677],[76.9184143369151,13.57017237426114],[76.95245709867977,13.57047589728408],[76.96724689203143,13.58264291978953]]]},"properties":{"region_id":"village_610504","name":"YALADABAGI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

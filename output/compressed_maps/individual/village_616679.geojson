@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96934433073233,12.67475764655506],[75.95685903371871,12.67950441732013],[75.95852361740482,12.66997189923894],[75.96934433073233,12.67475764655506]]]},"properties":{"region_id":"village_616679","name":"BANDIGANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

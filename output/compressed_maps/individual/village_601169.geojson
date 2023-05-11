@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96242841799805,15.87697110410769],[76.94009126883026,15.84255105438703],[76.97469915323059,15.83657965589903],[76.96242841799805,15.87697110410769]]]},"properties":{"region_id":"village_601169","name":"GONWAR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

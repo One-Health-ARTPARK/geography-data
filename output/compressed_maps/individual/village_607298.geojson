@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28611883497027,14.08416485825177],[75.24944693743751,14.08344242292067],[75.24510362028647,14.0708347449509],[75.29005304559794,14.06900685785565],[75.28611883497027,14.08416485825177]]]},"properties":{"region_id":"village_607298","name":"GILALAGUNDI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

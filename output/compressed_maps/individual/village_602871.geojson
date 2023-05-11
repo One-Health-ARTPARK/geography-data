@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84562827324174,15.27252510757323],[74.82440987290342,15.26779839587656],[74.82849158274134,15.25392846217761],[74.84393735311616,15.2595499743673],[74.84562827324174,15.27252510757323]]]},"properties":{"region_id":"village_602871","name":"KHURD KANCHANALLI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

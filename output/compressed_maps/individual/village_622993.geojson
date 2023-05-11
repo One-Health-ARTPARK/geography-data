@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.4436136305178,13.20300064711402],[78.42121594335923,13.18827374683854],[78.4500296635419,13.17878675627355],[78.4436136305178,13.20300064711402]]]},"properties":{"region_id":"village_622993","name":"KAPPALAMADAGU","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53020387041529,14.9181818653667],[75.52306669466908,14.9431379659906],[75.49938239918306,14.96655063548082],[75.51182581094498,14.91756311038841],[75.53020387041529,14.9181818653667]]]},"properties":{"region_id":"village_604223","name":"MELMURI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

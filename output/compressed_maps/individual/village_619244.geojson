@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70754994485854,12.10722377544266],[76.70674230549328,12.09821673236046],[76.71700052897049,12.09774573186777],[76.70754994485854,12.10722377544266]]]},"properties":{"region_id":"village_619244","name":"GOLUR","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

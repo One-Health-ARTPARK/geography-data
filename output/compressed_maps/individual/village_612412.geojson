@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79931220497018,13.09076238588977],[76.78221354861097,13.09017104126108],[76.785893716092,13.0800717622029],[76.80470257136015,13.07873698837424],[76.79931220497018,13.09076238588977]]]},"properties":{"region_id":"village_612412","name":"DASIHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

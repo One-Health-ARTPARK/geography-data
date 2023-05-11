@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64710754966464,12.90813717767378],[76.64142926383472,12.91447039784778],[76.63858275347204,12.90025180453012],[76.64530498821053,12.90129982209576],[76.64710754966464,12.90813717767378]]]},"properties":{"region_id":"village_613794","name":"GULKAIHOSAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

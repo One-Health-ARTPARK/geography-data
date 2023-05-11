@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70948030511207,13.60140990229523],[77.700214710278,13.61088157391043],[77.69674211676389,13.59756315663661],[77.70948030511207,13.60140990229523]]]},"properties":{"region_id":"village_623474","name":"DORABURE","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

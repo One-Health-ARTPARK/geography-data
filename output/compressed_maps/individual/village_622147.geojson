@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.01552155504076,13.03081164835191],[78.0056083169151,13.03629272253428],[77.99748630660422,13.03357370057572],[77.99459088093367,13.02542950130871],[78.00789993426169,13.0249042739471],[78.01552155504076,13.03081164835191]]]},"properties":{"region_id":"village_622147","name":"DODDASABBENAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

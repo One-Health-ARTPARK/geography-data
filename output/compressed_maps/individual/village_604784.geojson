@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81053902147195,15.4529262643059],[76.84281306444808,15.46478608627027],[76.84060994187209,15.48397032144293],[76.80074331422473,15.47692761658773],[76.81053902147195,15.4529262643059]]]},"properties":{"region_id":"village_604784","name":"MALAPURA","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03668673330283,14.59336816394461],[75.02546135104026,14.59080610154909],[75.02686753156644,14.58258882943209],[75.03612591393247,14.58231658530175],[75.03668673330283,14.59336816394461]]]},"properties":{"region_id":"village_607375","name":"KALKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

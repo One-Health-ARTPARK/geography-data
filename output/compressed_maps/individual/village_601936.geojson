@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83977709250674,15.78082419099661],[75.82203130800033,15.79641316523377],[75.82013868660857,15.75912910153068],[75.83740459872861,15.75990809468371],[75.83977709250674,15.78082419099661]]]},"properties":{"region_id":"village_601936","name":"HIREALAGUNDI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

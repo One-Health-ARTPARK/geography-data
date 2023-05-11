@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21044927778468,14.04808742888757],[77.19618229067808,14.05245880430894],[77.18737395853488,14.03551841520053],[77.20833582412143,14.03817660914087],[77.21044927778468,14.04808742888757]]]},"properties":{"region_id":"village_610652","name":"CHITTAGANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

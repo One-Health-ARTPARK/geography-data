@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50908260845313,12.43922258022739],[76.50625641306091,12.45195904126903],[76.4946180023287,12.44415333150838],[76.50908260845313,12.43922258022739]]]},"properties":{"region_id":"village_618688","name":"HOSAKOTE","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19461692077216,15.9220228612912],[75.18061179785826,15.92178086185565],[75.17352605057299,15.89892533362064],[75.19621481220321,15.89602328356007],[75.19461692077216,15.9220228612912]]]},"properties":{"region_id":"village_598261","name":"BASARAGI INAM","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

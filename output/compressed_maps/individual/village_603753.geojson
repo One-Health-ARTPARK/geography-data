@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50433423332908,14.24896702442589],[74.48120661191344,14.21940968402659],[74.49291584429942,14.21538862218307],[74.50433423332908,14.24896702442589]]]},"properties":{"region_id":"village_603753","name":"MELIN-IDGUNJI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

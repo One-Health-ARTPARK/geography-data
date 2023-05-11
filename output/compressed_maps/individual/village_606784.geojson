@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70655423106501,14.27295573742428],[75.67019995906442,14.26898787591773],[75.67076348764047,14.2522275227036],[75.70418903008112,14.24873636632641],[75.70655423106501,14.27295573742428]]]},"properties":{"region_id":"village_606784","name":"MASADI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

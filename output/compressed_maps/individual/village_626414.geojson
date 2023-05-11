@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56570045674927,12.67530158325025],[77.55087422758425,12.67324932639792],[77.54128278212241,12.66361435570466],[77.54512369972142,12.65405848074808],[77.56570045674927,12.67530158325025]]]},"properties":{"region_id":"village_626414","name":"MADHAPURA DODDI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

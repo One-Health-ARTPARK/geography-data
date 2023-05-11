@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28278576474189,13.71296506598089],[77.27115574870777,13.71318385592411],[77.26872808105615,13.69534795441649],[77.27994870270588,13.69592730822228],[77.28278576474189,13.71296506598089]]]},"properties":{"region_id":"village_610813","name":"AMARAVATHI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

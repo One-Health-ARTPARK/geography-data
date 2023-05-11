@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51927841560078,13.43323641791924],[77.50179164626606,13.43702252162912],[77.50157018763258,13.41009723929084],[77.51519912075473,13.40501112238698],[77.51927841560078,13.43323641791924]]]},"properties":{"region_id":"village_625009","name":"GUNJUR","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

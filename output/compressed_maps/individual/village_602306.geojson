@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11318218383974,15.50304679223145],[75.10752890758691,15.53254206279087],[75.09128071089059,15.52655561545806],[75.09738031390188,15.49495644804586],[75.11318218383974,15.50304679223145]]]},"properties":{"region_id":"village_602306","name":"KANAKUR","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

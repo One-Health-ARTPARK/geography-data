@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40484428065153,12.8419393636996],[75.36649027596951,12.80574639735084],[75.41386587981236,12.79845666005961],[75.40484428065153,12.8419393636996]]]},"properties":{"region_id":"village_617699","name":"NELYADI","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

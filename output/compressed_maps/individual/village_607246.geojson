@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08580371040738,14.07582597848709],[75.07418916828264,14.07795094635535],[75.06715339436984,14.05249510892812],[75.08082652901444,14.04965061340909],[75.08580371040738,14.07582597848709]]]},"properties":{"region_id":"village_607246","name":"HEBBARIGE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

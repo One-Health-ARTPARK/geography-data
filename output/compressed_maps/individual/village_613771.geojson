@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6401669115123,12.95275122618648],[76.63890658202845,12.93468989158583],[76.65322991522878,12.93886374240961],[76.6401669115123,12.95275122618648]]]},"properties":{"region_id":"village_613771","name":"HADENAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

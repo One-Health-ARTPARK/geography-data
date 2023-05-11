@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9811012653719,14.43197373554873],[74.97461089726345,14.42756170715478],[74.98428860259055,14.41694093343277],[74.99376016950337,14.42721699916144],[74.9811012653719,14.43197373554873]]]},"properties":{"region_id":"village_607525","name":"CHIKKAMAKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22896265559145,17.05640485032593],[76.19776197782555,17.05959144352458],[76.19396534706789,17.04149029345826],[76.22754712685703,17.04043569642376],[76.22896265559145,17.05640485032593]]]},"properties":{"region_id":"village_599311","name":"HUVINAHALLI","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

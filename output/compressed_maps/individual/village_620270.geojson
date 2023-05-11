@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80621024113896,17.27607571925252],[76.78201839333472,17.27774229581104],[76.75851482316295,17.25907759457823],[76.80450762718901,17.25209416213174],[76.80621024113896,17.27607571925252]]]},"properties":{"region_id":"village_620270","name":"SITNOOR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

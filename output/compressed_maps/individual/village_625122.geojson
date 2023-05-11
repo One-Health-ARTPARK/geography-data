@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4952062467171,13.27882946835151],[77.48367775391105,13.28226555737892],[77.47381026532295,13.25738719834103],[77.48734313475578,13.25283647342708],[77.4952062467171,13.27882946835151]]]},"properties":{"region_id":"village_625122","name":"KUNTANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

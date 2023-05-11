@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27808030053316,14.96610371834761],[75.26563764421253,14.95513300649139],[75.26887864133032,14.94405195330989],[75.28282843563935,14.94467895630279],[75.27808030053316,14.96610371834761]]]},"properties":{"region_id":"village_603984","name":"MANNUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

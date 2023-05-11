@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99351048335465,14.88625431685505],[75.99193888039208,14.85591040799541],[76.02045112565918,14.86277288006554],[75.99351048335465,14.88625431685505]]]},"properties":{"region_id":"village_606305","name":"KODIHALLI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

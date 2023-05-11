@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22137715174183,16.30927118514018],[76.19796252143196,16.31038870314741],[76.19396878139457,16.29099282520587],[76.23436295486434,16.28351608992079],[76.22137715174183,16.30927118514018]]]},"properties":{"region_id":"village_599657","name":"HIREMURAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

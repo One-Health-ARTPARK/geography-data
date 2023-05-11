@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78820492214548,12.98607038793863],[75.78878721894824,12.99709616080963],[75.78343994971287,12.99780178207331],[75.77926885517172,12.98855555004778],[75.78820492214548,12.98607038793863]]]},"properties":{"region_id":"village_614878","name":"BIRADAHALLI","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

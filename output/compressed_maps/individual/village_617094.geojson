@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40346680851356,12.89314327093531],[76.39493292270836,12.88798273364088],[76.3966730164502,12.8746760507503],[76.40744594600935,12.87940518654652],[76.40346680851356,12.89314327093531]]]},"properties":{"region_id":"village_617094","name":"BINDENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

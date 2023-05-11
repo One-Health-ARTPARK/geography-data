@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5771151677171,16.2378931763074],[75.55803147572357,16.23677514352135],[75.56403143547907,16.20130450024935],[75.58059023405171,16.20086821496285],[75.5771151677171,16.2378931763074]]]},"properties":{"region_id":"village_598779","name":"SOKANADGI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

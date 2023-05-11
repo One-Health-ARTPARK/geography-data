@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90021314037297,12.17181034967003],[75.8890118273744,12.17426394770393],[75.87735098040798,12.15964805568282],[75.87443197676542,12.14669791172145],[75.8890146588059,12.14924334869156],[75.90021314037297,12.17181034967003]]]},"properties":{"region_id":"village_618051","name":"KUNDA","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13363946472295,13.3900228697421],[77.11164894276958,13.3889742672506],[77.11743618661295,13.3797201111303],[77.13363946472295,13.3900228697421]]]},"properties":{"region_id":"village_611440","name":"YELLAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

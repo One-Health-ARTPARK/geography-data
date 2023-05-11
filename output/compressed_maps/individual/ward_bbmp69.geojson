@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51852300017259,13.01269999972359],[77.51819199973323,13.00221400029198],[77.5278429995568,12.99962099976711],[77.53041900022853,13.00867200028696],[77.51852300017259,13.01269999972359]]]},"properties":{"region_id":"ward_bbmp69","name":"WARD NO.69 (LAGGERE)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

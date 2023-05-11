@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5679262423541,13.47206970171433],[77.55899568859111,13.4723135659427],[77.56140679446004,13.46495899587991],[77.5679262423541,13.47206970171433]]]},"properties":{"region_id":"village_623421","name":"CHEELENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

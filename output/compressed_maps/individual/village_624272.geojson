@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85011233093789,13.24132243700289],[77.84886325585394,13.22141816990451],[77.85793849701334,13.22145108775148],[77.86323779834801,13.24086604124717],[77.85011233093789,13.24132243700289]]]},"properties":{"region_id":"village_624272","name":"BYARASANDRA","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56852176606958,12.64912373476207],[77.56075901859217,12.66706860014895],[77.53242294512015,12.64833117922258],[77.55262857740347,12.62476420011912],[77.56852176606958,12.64912373476207]]]},"properties":{"region_id":"village_626415","name":"BANAVASI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

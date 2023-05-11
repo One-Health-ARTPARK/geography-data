@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61355670329925,14.57607173544846],[74.57583574093599,14.5355017112989],[74.61373480238346,14.46611617490772],[74.64146973512526,14.55272889867012],[74.61355670329925,14.57607173544846]]]},"properties":{"region_id":"village_603163","name":"HEBRE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

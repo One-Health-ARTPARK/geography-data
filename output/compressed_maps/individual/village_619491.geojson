@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71616876727299,11.85253662481001],[76.69732274557305,11.84908998851235],[76.70482026082169,11.83698712553016],[76.71616876727299,11.85253662481001]]]},"properties":{"region_id":"village_619491","name":"BANNITHALAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

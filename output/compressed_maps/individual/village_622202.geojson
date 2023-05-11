@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96175462292196,12.96597012626638],[77.96396008418958,12.97214036342714],[77.95740708508328,12.97048805359481],[77.96175462292196,12.96597012626638]]]},"properties":{"region_id":"village_622202","name":"THIMMANAYAKANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

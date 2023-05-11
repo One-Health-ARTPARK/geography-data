@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2926605617692,15.09873197576431],[76.2876985237528,15.12945063982802],[76.26517565398763,15.10659664392966],[76.27315865629433,15.08494512634991],[76.2926605617692,15.09873197576431]]]},"properties":{"region_id":"village_604670","name":"HAMPAPATNA","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

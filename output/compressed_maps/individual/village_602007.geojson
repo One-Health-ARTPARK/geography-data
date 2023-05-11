@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69284545479391,15.46178610414751],[75.70946427113164,15.48341419024107],[75.68268260481632,15.48646506619709],[75.69284545479391,15.46178610414751]]]},"properties":{"region_id":"village_602007","name":"NAGASAMUDRA","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

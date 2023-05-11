@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27092877336854,12.80079329715857],[76.26156110021884,12.81369659517266],[76.2542162051826,12.80475353853958],[76.26112830389577,12.79171379233112],[76.27092877336854,12.80079329715857]]]},"properties":{"region_id":"village_616911","name":"MANGALAPURA","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

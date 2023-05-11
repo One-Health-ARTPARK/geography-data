@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3539711900919,12.13693525376559],[76.31849811373732,12.15203094352914],[76.31949204405494,12.11985675484624],[76.3539711900919,12.13693525376559]]]},"properties":{"region_id":"village_618856","name":"SAVVE","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

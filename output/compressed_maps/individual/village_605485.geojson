@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20075805853438,14.23753397894669],[76.19100679133646,14.24743988250241],[76.16031761504769,14.24198577347954],[76.19059254193121,14.22929011685589],[76.20075805853438,14.23753397894669]]]},"properties":{"region_id":"village_605485","name":"MEDAKERIPURA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

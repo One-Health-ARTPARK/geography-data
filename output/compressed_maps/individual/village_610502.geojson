@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00011038295919,13.59008151273636],[76.97933152300759,13.59790689648606],[76.9790705771825,13.57846753804355],[76.99138360517463,13.57209387841002],[77.00011038295919,13.59008151273636]]]},"properties":{"region_id":"village_610502","name":"BRAMMASANDRA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7679205391694,13.19485510792954],[76.7794084294807,13.21155844353512],[76.7688194363255,13.2160204114939],[76.7679205391694,13.19485510792954]]]},"properties":{"region_id":"village_612306","name":"D.SETTIHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

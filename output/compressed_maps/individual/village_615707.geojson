@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26377320015395,13.20711176414471],[76.24604752262294,13.22744995812369],[76.22651807075064,13.20317285909246],[76.23579851122533,13.19432046656616],[76.26377320015395,13.20711176414471]]]},"properties":{"region_id":"village_615707","name":"BELAVATHAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

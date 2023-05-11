@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18107413629868,14.48433019452638],[75.16881222066738,14.48143359042123],[75.17381430377219,14.4756730365294],[75.18107413629868,14.48433019452638]]]},"properties":{"region_id":"village_607494","name":"BALEKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

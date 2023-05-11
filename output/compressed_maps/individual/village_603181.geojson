@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72260420490363,14.51385988673165],[74.71227148270013,14.52201166482356],[74.69679069739999,14.51956235674402],[74.70357290576752,14.50724069436009],[74.72260420490363,14.51385988673165]]]},"properties":{"region_id":"village_603181","name":"BALAVALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

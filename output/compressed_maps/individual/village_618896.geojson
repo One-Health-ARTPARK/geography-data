@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35100334614017,12.04587991498293],[76.33852849639473,12.03575538559399],[76.34963433587475,12.02912441492909],[76.35100334614017,12.04587991498293]]]},"properties":{"region_id":"village_618896","name":"SHIRMAHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

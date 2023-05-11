@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86071591011279,13.73716778450387],[76.85658967316843,13.71379959739751],[76.87618518360037,13.66580619059141],[76.90175133237776,13.70435576391113],[76.8905523997731,13.74317742864881],[76.86071591011279,13.73716778450387]]]},"properties":{"region_id":"village_610392","name":"MUDIGERE KAVAL","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

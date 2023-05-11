@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65292851380508,11.85530334617646],[76.62420471190615,11.8718197430932],[76.61895221607008,11.85322873603863],[76.65292851380508,11.85530334617646]]]},"properties":{"region_id":"village_619484","name":"DEVALAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

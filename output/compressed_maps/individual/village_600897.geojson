@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66660084261873,16.06042726080959],[76.64096123278028,16.06319032702722],[76.64948409999027,16.04202373022805],[76.67518998367483,16.03759198833357],[76.66660084261873,16.06042726080959]]]},"properties":{"region_id":"village_600897","name":"BENCHAMARDI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

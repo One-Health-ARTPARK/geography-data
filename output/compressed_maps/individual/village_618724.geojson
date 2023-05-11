@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66226364353965,12.38872905675228],[76.65624898140311,12.39632569458931],[76.64263724388722,12.39537741587139],[76.65002743386007,12.38442261202394],[76.66226364353965,12.38872905675228]]]},"properties":{"region_id":"village_618724","name":"LAXMIPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

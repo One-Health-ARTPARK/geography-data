@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5829959996004,12.97111900041141],[77.57822599958179,12.97425800021622],[77.57198400009764,12.96987100038467],[77.58126899960008,12.96652299970276],[77.5829959996004,12.97111900041141]]]},"properties":{"region_id":"ward_bbmp109","name":"WARD NO.109 (CHICKPETE)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

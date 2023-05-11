@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90731585388336,12.79286569695887],[75.8990967065166,12.79426038663386],[75.89631674098757,12.78745888111622],[75.90552490171787,12.783739106176],[75.90731585388336,12.79286569695887]]]},"properties":{"region_id":"village_938981","name":"DODDAKUNDA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

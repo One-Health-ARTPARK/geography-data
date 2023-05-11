@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2768822493562,14.71779306132312],[75.26298481645065,14.71929043958092],[75.24760060935448,14.70733892959812],[75.26747866198828,14.70131991604757],[75.2768822493562,14.71779306132312]]]},"properties":{"region_id":"village_604158","name":"KALKERI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

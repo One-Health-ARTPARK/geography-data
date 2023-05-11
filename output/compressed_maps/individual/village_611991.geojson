@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54761270139473,13.2517059993123],[76.54139990449964,13.25874753879282],[76.52704941809152,13.24973334887069],[76.53967437830804,13.24102929264878],[76.54761270139473,13.2517059993123]]]},"properties":{"region_id":"village_611991","name":"KODIHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

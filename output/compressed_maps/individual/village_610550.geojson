@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17891209740365,14.21565797301407],[77.1625700039201,14.21359716828721],[77.1690569333118,14.20049990557451],[77.17891209740365,14.21565797301407]]]},"properties":{"region_id":"village_610550","name":"HANUMANTHANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

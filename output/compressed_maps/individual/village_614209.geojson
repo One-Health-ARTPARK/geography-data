@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65876243778516,12.46976564492164],[76.68714272444346,12.46219985278443],[76.6853195691426,12.47841718797902],[76.67779286158884,12.48750755265255],[76.64776756640413,12.48411851559867],[76.65876243778516,12.46976564492164]]]},"properties":{"region_id":"village_614209","name":"KENNALU","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

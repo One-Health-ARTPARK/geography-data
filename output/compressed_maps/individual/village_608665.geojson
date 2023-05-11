@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6402998307875,13.81933633228688],[74.63968532706502,13.82435932920507],[74.63535747834969,13.82454708679102],[74.62662602348082,13.81877951096278],[74.6402998307875,13.81933633228688]]]},"properties":{"region_id":"village_608665","name":"NANDANAVANA","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8041698987777,13.29446641312394],[75.81069598277632,13.32661596946323],[75.82088031619121,13.33609363511797],[75.79791270581016,13.34606021596674],[75.79138714914586,13.31832294317479],[75.8041698987777,13.29446641312394]]]},"properties":{"region_id":"village_609748","name":"HIREMAGALUR *","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

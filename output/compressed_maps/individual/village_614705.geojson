@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09311430294173,12.39476906735246],[77.0791266492791,12.39446154401708],[77.07478372168033,12.37518536312055],[77.0944859644825,12.37180468602715],[77.09311430294173,12.39476906735246]]]},"properties":{"region_id":"village_614705","name":"NIDAGHATTA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

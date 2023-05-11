@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90722355383802,13.45116552860953],[76.90955163826727,13.44602676543223],[76.92059097221394,13.44925449749016],[76.91916268831766,13.45605029389159],[76.90722355383802,13.45116552860953]]]},"properties":{"region_id":"village_611692","name":"CHELUR AMANIKERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

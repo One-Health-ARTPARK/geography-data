@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01291254066653,16.00175372902562],[75.98948632783366,16.00481156595569],[75.99291141299436,15.99451598826522],[76.01131797387772,15.99232751794413],[76.01291254066653,16.00175372902562]]]},"properties":{"region_id":"village_601420","name":"YERIGONHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

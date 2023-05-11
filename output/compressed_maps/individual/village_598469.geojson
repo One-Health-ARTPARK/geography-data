@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41776951761041,16.57624193085043],[75.38806695178195,16.5697689721353],[75.38673300977355,16.5343755084643],[75.40272575771617,16.5289113722569],[75.41776951761041,16.57624193085043]]]},"properties":{"region_id":"village_598469","name":"CHIKKAPADASALGI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

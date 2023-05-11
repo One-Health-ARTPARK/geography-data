@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80276173561452,15.93995241845313],[75.78719295751915,15.94246707534058],[75.78978519665945,15.92248950612885],[75.80510567176033,15.92772931143053],[75.80276173561452,15.93995241845313]]]},"properties":{"region_id":"village_598743","name":"GONAL","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

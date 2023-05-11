@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25340448265815,16.99231428064029],[77.20710272229518,16.98511185546936],[77.2199484746371,16.95607421510707],[77.25189806519798,16.9548419299834],[77.26850465553123,16.98217598413734],[77.25340448265815,16.99231428064029]]]},"properties":{"region_id":"village_620554","name":"HANDERKI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

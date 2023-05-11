@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45684159477868,13.53090146193314],[77.4530721793856,13.54879838432982],[77.42912146841527,13.54546919877314],[77.44106361454617,13.52284572218219],[77.45684159477868,13.53090146193314]]]},"properties":{"region_id":"village_623223","name":"MACHENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

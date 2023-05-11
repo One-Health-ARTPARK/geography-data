@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95910187699076,15.69498941906259],[75.9634939911274,15.71030382231857],[75.9504896048836,15.7093581276235],[75.94472432977965,15.69928383987198],[75.95910187699076,15.69498941906259]]]},"properties":{"region_id":"village_601984","name":"CHILZERI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

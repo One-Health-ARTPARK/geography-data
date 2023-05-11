@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02291379579567,13.42833040407173],[77.00939021475949,13.42724022584634],[77.00675374290185,13.40444316797018],[77.01722586154574,13.4071385828573],[77.02291379579567,13.42833040407173]]]},"properties":{"region_id":"village_611272","name":"BELLAVI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

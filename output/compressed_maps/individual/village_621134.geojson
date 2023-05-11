@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86917646244041,16.59098307243867],[76.84045354130636,16.59719283625927],[76.84794887473409,16.56369765050341],[76.86591674723114,16.56456920220678],[76.86917646244041,16.59098307243867]]]},"properties":{"region_id":"village_621134","name":"KONGANDA","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

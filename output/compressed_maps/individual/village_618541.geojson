@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32612224309771,12.60989861284266],[76.3063530085598,12.60943758117268],[76.30690166000338,12.60099377329101],[76.32423321548454,12.59930821648195],[76.32612224309771,12.60989861284266]]]},"properties":{"region_id":"village_618541","name":"KENCHANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

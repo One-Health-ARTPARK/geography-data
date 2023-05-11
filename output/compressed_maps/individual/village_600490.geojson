@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47858250751526,16.02418976361952],[76.4597056893187,16.05413424466794],[76.44832229724493,16.0404756511833],[76.47858250751526,16.02418976361952]]]},"properties":{"region_id":"village_600490","name":"KADADARAHAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

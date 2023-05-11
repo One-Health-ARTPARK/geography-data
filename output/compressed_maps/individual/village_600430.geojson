@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46967819559255,16.12431278062813],[76.45057315240538,16.128106899155],[76.4556532091962,16.08750694145585],[76.46475095056587,16.08685257469159],[76.46967819559255,16.12431278062813]]]},"properties":{"region_id":"village_600430","name":"BHUPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

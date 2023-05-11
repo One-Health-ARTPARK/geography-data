@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15351490981308,17.80762099251913],[77.1135926732803,17.83425065967191],[77.10318775765673,17.81362261213173],[77.12339153733436,17.78139978858527],[77.15351490981308,17.80762099251913]]]},"properties":{"region_id":"village_600294","name":"DHUMANSOOR","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

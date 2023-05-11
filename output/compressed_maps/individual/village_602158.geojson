@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90391166404865,15.23929844259695],[75.89483590777598,15.27400665656813],[75.84688183528478,15.25030294420308],[75.86186217918727,15.21927618198448],[75.90391166404865,15.23929844259695]]]},"properties":{"region_id":"village_602158","name":"BARADUR","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

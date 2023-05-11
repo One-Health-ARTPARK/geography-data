@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2822951808982,13.18561366623973],[77.26428079677925,13.1765005483899],[77.27614030176004,13.16676995897017],[77.2822951808982,13.18561366623973]]]},"properties":{"region_id":"village_624775","name":"KEREKATTIGANOOR","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

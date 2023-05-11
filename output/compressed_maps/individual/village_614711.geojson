@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.134591454003,12.41610708406078],[77.13151314726889,12.41180279984421],[77.12175145996221,12.41156251064026],[77.12390608012686,12.40132202812411],[77.13823921361802,12.39971935977804],[77.134591454003,12.41610708406078]]]},"properties":{"region_id":"village_614711","name":"HADLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

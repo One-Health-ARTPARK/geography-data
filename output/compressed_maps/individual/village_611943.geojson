@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85591498334475,13.14929924942541],[76.84651142359222,13.14505004096262],[76.8364494741033,13.14538878491108],[76.83723301631385,13.1357075284936],[76.84634583650302,13.1402127664482],[76.85591498334475,13.14929924942541]]]},"properties":{"region_id":"village_611943","name":"JANNENAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

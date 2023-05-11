@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91452053532707,16.01675126268253],[75.90766537712766,16.02524721957913],[75.88923934655871,16.0159581077991],[75.89276526965857,16.00761402872827],[75.91452053532707,16.01675126268253]]]},"properties":{"region_id":"village_598885","name":"KYADIGGERI","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

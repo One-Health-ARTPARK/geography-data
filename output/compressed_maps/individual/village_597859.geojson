@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55752249908231,15.67745384889175],[74.54740991907688,15.68445488577181],[74.53723901999402,15.67476763066168],[74.54822391583605,15.67177985922232],[74.55752249908231,15.67745384889175]]]},"properties":{"region_id":"village_597859","name":"SANNAHOSUR","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

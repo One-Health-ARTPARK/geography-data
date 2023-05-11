@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23382602717311,16.74595358474975],[77.21127391390601,16.71127357715702],[77.24346329391649,16.70748185147426],[77.23382602717311,16.74595358474975]]]},"properties":{"region_id":"village_621312","name":"HALGERA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

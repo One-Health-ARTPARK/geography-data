@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81104541223019,15.80157224091256],[74.76975561922488,15.80448819976755],[74.77096779793416,15.79121598006719],[74.80720241935474,15.79016610347104],[74.81104541223019,15.80157224091256]]]},"properties":{"region_id":"village_598119","name":"SANIKOPPA","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

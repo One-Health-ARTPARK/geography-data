@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.917825932548,13.60983371671106],[75.88530667845579,13.62421303248684],[75.87356015341848,13.60749448908826],[75.91699556584018,13.59802796812907],[75.917825932548,13.60983371671106]]]},"properties":{"region_id":"village_609351","name":"HOOVINAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

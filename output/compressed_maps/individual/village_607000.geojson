@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05358641093414,14.08169184556177],[76.0477072827879,14.09720649997044],[76.03926705688487,14.08484746130554],[76.05358641093414,14.08169184556177]]]},"properties":{"region_id":"village_607000","name":"LAKSHMISAGAR","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21489414470817,12.72070389657414],[76.21689030875542,12.72710894082733],[76.21068141564956,12.73480128680523],[76.20806775014495,12.7233266623287],[76.21489414470817,12.72070389657414]]]},"properties":{"region_id":"village_616902","name":"GALIPURA","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

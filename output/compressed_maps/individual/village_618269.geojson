@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08300168537775,12.31708006916995],[76.06809193470258,12.31337675184747],[76.07061637598188,12.30293444886376],[76.08288464031843,12.30233373146156],[76.08300168537775,12.31708006916995]]]},"properties":{"region_id":"village_618269","name":"HABATOOR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

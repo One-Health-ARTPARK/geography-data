@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43117055558167,13.09289799602746],[76.41420611183531,13.09854619692679],[76.41667984684504,13.08325001118534],[76.43307057718758,13.07699281072262],[76.43117055558167,13.09289799602746]]]},"properties":{"region_id":"village_617151","name":"BAKTARAVALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

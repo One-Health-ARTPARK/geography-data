@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38866516977554,14.35049896122326],[75.37568844120642,14.34439575745646],[75.38685297726205,14.3379197053202],[75.38866516977554,14.35049896122326]]]},"properties":{"region_id":"village_607782","name":"NIMBEGONDI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

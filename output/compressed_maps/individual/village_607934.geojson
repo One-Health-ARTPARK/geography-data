@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2048575995275,13.98992692195864],[75.20940576833935,14.01432866029066],[75.18244111422537,13.99968916260345],[75.2048575995275,13.98992692195864]]]},"properties":{"region_id":"village_607934","name":"NANJAVALLI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

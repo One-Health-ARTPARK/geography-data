@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44068532505476,11.93013966469579],[76.42513269261279,11.92875106943102],[76.42746897758597,11.91954249218182],[76.44068532505476,11.93013966469579]]]},"properties":{"region_id":"village_619092","name":"HARIYALAPURA","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

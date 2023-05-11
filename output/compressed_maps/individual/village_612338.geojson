@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71181332078257,13.08400827886891],[76.68768195907448,13.10732016384861],[76.68442357876535,13.09267493854384],[76.6911260501457,13.07775746955822],[76.71181332078257,13.08400827886891]]]},"properties":{"region_id":"village_612338","name":"NAGALAPURA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

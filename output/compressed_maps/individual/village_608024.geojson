@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03930152123837,13.86758200796196],[75.01589816128647,13.8739072904939],[75.00745291126734,13.84973514354738],[75.02850064373541,13.85250988912285],[75.03930152123837,13.86758200796196]]]},"properties":{"region_id":"village_608024","name":"BRAHMANATHARUVE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

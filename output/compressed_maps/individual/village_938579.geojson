@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71695190799177,13.79048580252118],[75.71425934780787,13.80797770701535],[75.69852086219142,13.80482201792507],[75.69455230845483,13.79368680834963],[75.71695190799177,13.79048580252118]]]},"properties":{"region_id":"village_938579","name":"DODDAGOPPENAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

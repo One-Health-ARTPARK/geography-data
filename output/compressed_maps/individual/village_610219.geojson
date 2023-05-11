@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61567370530312,13.36507825106574],[76.59325468278783,13.36865390606935],[76.59888891891816,13.35342662280889],[76.61567370530312,13.36507825106574]]]},"properties":{"region_id":"village_610219","name":"BYATERANGANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

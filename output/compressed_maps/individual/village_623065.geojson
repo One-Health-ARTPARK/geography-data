@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.48764943749035,13.27178800757576],[78.48138800265887,13.27032207831584],[78.4789509271094,13.26072886885228],[78.49133432812289,13.2617602090968],[78.48764943749035,13.27178800757576]]]},"properties":{"region_id":"village_623065","name":"C.HOSAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

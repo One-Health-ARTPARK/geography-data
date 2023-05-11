@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5526424418107,16.8940268592052],[76.49897337304238,16.88754757455041],[76.48811872168066,16.846021360709],[76.58463402446033,16.85112611395285],[76.5526424418107,16.8940268592052]]]},"properties":{"region_id":"village_620788","name":"YEDRAMI","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

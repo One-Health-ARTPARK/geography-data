@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01866124958102,12.72620812830712],[76.0105018671345,12.72797976869658],[76.00869636574258,12.71506272077682],[76.0203725462347,12.71598302680294],[76.01866124958102,12.72620812830712]]]},"properties":{"region_id":"village_616543","name":"AMBIGODANAHLLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

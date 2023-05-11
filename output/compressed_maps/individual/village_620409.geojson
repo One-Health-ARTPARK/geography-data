@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31999007262814,17.46054221978788],[77.27790934632701,17.46797907213025],[77.2797976964678,17.44472965654541],[77.31999007262814,17.46054221978788]]]},"properties":{"region_id":"village_620409","name":"RUSTUMPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

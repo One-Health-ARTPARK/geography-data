@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67416216456218,15.82991402499319],[76.6719275813836,15.80738237679811],[76.69073080733929,15.80425007840468],[76.7020967742138,15.82115649101839],[76.67416216456218,15.82991402499319]]]},"properties":{"region_id":"village_601120","name":"CHIRATANAL","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

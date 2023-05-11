@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37948023669011,13.57797689112103],[77.36254162621678,13.59018351673269],[77.34513468052971,13.57896641355193],[77.35923649400394,13.56319226255919],[77.37948023669011,13.57797689112103]]]},"properties":{"region_id":"village_611108","name":"MADENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93225884734399,16.69724700631422],[76.88807138350285,16.70052525127869],[76.87239344139844,16.64942537405355],[76.92652297359614,16.65711041217024],[76.93225884734399,16.69724700631422]]]},"properties":{"region_id":"village_621121","name":"KANNE KOLUR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

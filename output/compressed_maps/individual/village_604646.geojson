@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07789219556034,15.04659254512541],[76.04088617998814,15.05602608833721],[76.03705731240923,15.03491817584658],[76.07789219556034,15.04659254512541]]]},"properties":{"region_id":"village_604646","name":"HANUMAGONDANAHALLI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

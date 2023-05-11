@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26559596736065,12.56668745911305],[76.260307319008,12.57575565453113],[76.24956794154838,12.5772218802903],[76.2521059343548,12.56651221138649],[76.26559596736065,12.56668745911305]]]},"properties":{"region_id":"village_618526","name":"RAMPURA","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

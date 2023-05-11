@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57136313790069,15.85225295535059],[76.54862396317445,15.8280038523683],[76.55310472955915,15.79814622588894],[76.58077482763275,15.78990384845791],[76.57136313790069,15.85225295535059]]]},"properties":{"region_id":"village_601063","name":"GADRATIGI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

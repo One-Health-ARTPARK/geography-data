@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81203367028776,12.98732000012278],[77.80734013092129,12.98995140051582],[77.79809499939503,12.98169521529901],[77.80916940044312,12.97773506809452],[77.81203367028776,12.98732000012278]]]},"properties":{"region_id":"village_625721","name":"BHODANAHOSAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

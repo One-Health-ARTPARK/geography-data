@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91082876589041,12.76859462653861],[76.89584438999597,12.76882842757207],[76.89850716143575,12.75762040170605],[76.91019241908378,12.75997563916198],[76.91082876589041,12.76859462653861]]]},"properties":{"region_id":"village_613960","name":"MADDENAHATTI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

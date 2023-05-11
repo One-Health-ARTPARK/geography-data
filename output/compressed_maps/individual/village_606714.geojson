@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48623468884969,14.19293075345602],[75.48384563064882,14.17712113437351],[75.50351501973122,14.18413578916375],[75.48623468884969,14.19293075345602]]]},"properties":{"region_id":"village_606714","name":"THIRTHARAMPURA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

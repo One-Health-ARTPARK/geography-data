@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8466065053082,15.84899415027344],[75.84817327006252,15.87143113902001],[75.82608607922386,15.86423842613459],[75.8466065053082,15.84899415027344]]]},"properties":{"region_id":"village_598770","name":"NASAGUNNI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

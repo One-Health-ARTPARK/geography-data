@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98450890450567,15.75009324727144],[75.95651826137725,15.73984467612738],[75.96128257748722,15.69456707351388],[75.99107928773665,15.70708878219914],[75.98450890450567,15.75009324727144]]]},"properties":{"region_id":"village_938400","name":"UNACHAGERI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

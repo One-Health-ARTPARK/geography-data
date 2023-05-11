@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82292648676687,16.22152549497431],[76.80811071752531,16.22041302334826],[76.80954810676577,16.20198226068068],[76.82562961690051,16.20336920057451],[76.82292648676687,16.22152549497431]]]},"properties":{"region_id":"village_600929","name":"HUDA","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

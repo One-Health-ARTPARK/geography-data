@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2336734903866,12.26910357745472],[76.24282018302645,12.28610235019619],[76.22733221313054,12.28905616301472],[76.2336734903866,12.26910357745472]]]},"properties":{"region_id":"village_618352","name":"THATTEKERE","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

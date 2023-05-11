@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39092153447923,16.09921838748828],[77.37343963336475,16.09997093820867],[77.36583778213381,16.08156167410683],[77.38481458345066,16.07477487238036],[77.39092153447923,16.09921838748828]]]},"properties":{"region_id":"village_600844","name":"MANJERLA","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

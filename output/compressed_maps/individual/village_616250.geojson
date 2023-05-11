@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85881017822243,12.84622962184544],[75.85832760684232,12.85096836086985],[75.85672867391823,12.84893778562638],[75.85881017822243,12.84622962184544]]]},"properties":{"region_id":"village_616250","name":"BEMBALURU","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

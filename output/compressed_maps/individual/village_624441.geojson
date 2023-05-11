@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.13419094085873,13.49777428131144],[78.11850893915806,13.50191094152915],[78.11897409722431,13.49113341433036],[78.12706668370109,13.48873938705002],[78.13419094085873,13.49777428131144]]]},"properties":{"region_id":"village_624441","name":"PULAGUNDLAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

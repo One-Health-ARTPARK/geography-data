@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32454538138059,14.46818370717672],[76.30805045238183,14.45565823385901],[76.33748592434804,14.42865032073417],[76.34619914700015,14.44470050107839],[76.32454538138059,14.46818370717672]]]},"properties":{"region_id":"village_606528","name":"KATTIGEHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

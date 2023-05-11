@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00603436676391,13.19011901791782],[75.99464687393808,13.20142059224082],[75.98531501545202,13.18996976293814],[75.99662943029176,13.17594114010247],[76.00603436676391,13.19011901791782]]]},"properties":{"region_id":"village_615281","name":"SIDDAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

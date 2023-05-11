@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74318842159138,14.33821560059835],[74.72835354103884,14.3569503532774],[74.72060426979796,14.33650755681318],[74.74318842159138,14.33821560059835]]]},"properties":{"region_id":"village_603636","name":"BALGOD","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

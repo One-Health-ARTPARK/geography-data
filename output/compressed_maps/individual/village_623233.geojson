@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49121139877548,13.6898184624538],[77.48834066501621,13.68471809545387],[77.48970105493217,13.67795851278652],[77.49377655971892,13.68232675596809],[77.49121139877548,13.6898184624538]]]},"properties":{"region_id":"village_623233","name":"BABENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

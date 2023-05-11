@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0186839109444,15.72693835315017],[76.99097210076877,15.73410218546459],[76.99338198474614,15.70888568637668],[77.02095312982588,15.71291668697057],[77.0186839109444,15.72693835315017]]]},"properties":{"region_id":"village_604822","name":"KOTTALACHINTA","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

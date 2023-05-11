@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60880662895542,14.51285000363573],[75.57732053209918,14.51778103201698],[75.59347890034142,14.49716067917713],[75.60880662895542,14.51285000363573]]]},"properties":{"region_id":"village_604552","name":"NITTUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

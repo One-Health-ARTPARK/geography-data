@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78448412051836,15.38766887085702],[74.76245029149773,15.38449500520224],[74.76125905853509,15.37811683601527],[74.77570589738531,15.37899787863978],[74.78448412051836,15.38766887085702]]]},"properties":{"region_id":"village_602838","name":"ANTROLLI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

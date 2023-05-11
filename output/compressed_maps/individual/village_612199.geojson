@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70584331806636,13.27229361608006],[76.70707917125058,13.28781344377025],[76.69178259521945,13.28859280118856],[76.69032866370637,13.27417118893881],[76.70584331806636,13.27229361608006]]]},"properties":{"region_id":"village_612199","name":"HEGGERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

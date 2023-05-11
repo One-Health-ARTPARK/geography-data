@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01719953990782,13.89823726477245],[76.00178305577751,13.90914244336768],[75.98670796627027,13.87731573525912],[76.00742419286735,13.87588514226807],[76.01719953990782,13.89823726477245]]]},"properties":{"region_id":"village_607127","name":"GANGONDANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

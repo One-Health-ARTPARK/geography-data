@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69912465925884,12.65344791460088],[76.67896656877568,12.65603531539907],[76.67648403452735,12.64484991351457],[76.69190865196937,12.6404194368605],[76.69912465925884,12.65344791460088]]]},"properties":{"region_id":"village_614071","name":"NYAMANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

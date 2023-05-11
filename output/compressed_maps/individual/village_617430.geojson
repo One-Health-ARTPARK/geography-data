@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84151178290831,13.11027821378597],[74.8391970180587,13.11815997365747],[74.82009654315887,13.11691394795927],[74.81821605137101,13.10645999865705],[74.8285729897214,13.09328178064505],[74.84151178290831,13.11027821378597]]]},"properties":{"region_id":"village_617430","name":"KAVATHAR","parent":"subdistrict_7198","parent_name":"MULKI"}}
+]}

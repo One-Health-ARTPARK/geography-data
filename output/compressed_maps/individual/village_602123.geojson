@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74877010568119,15.02065109169114],[75.74586000262669,15.05455990370545],[75.71217085687087,15.03434153548514],[75.74877010568119,15.02065109169114]]]},"properties":{"region_id":"village_602123","name":"BELAGHATTI","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

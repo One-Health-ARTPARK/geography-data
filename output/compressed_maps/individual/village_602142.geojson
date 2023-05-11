@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75899732794299,15.35635073418985],[75.72510159682736,15.35810735678325],[75.7281226847675,15.33989919627556],[75.74929061602492,15.33913385592568],[75.75899732794299,15.35635073418985]]]},"properties":{"region_id":"village_602142","name":"CHURCHIHAL","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

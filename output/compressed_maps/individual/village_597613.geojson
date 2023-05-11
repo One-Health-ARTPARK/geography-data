@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.59964401022147,16.16213833681933],[74.59981167098036,16.18445790844384],[74.58417481031525,16.18282687866406],[74.5792939448039,16.16393178715334],[74.59964401022147,16.16213833681933]]]},"properties":{"region_id":"village_597613","name":"YARGATTI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

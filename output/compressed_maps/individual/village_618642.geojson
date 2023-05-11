@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37630759841501,12.47773839043261],[76.37272405314206,12.47176332079705],[76.37702884359574,12.46863893605186],[76.38251410061544,12.47052002855605],[76.37630759841501,12.47773839043261]]]},"properties":{"region_id":"village_618642","name":"KATNAL","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

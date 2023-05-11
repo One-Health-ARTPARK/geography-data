@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24789566583559,13.34394223041076],[76.23369656699546,13.35317205747033],[76.22908846691486,13.33021574277108],[76.2421995557134,13.32784290490948],[76.24789566583559,13.34394223041076]]]},"properties":{"region_id":"village_615675","name":"JAJURU","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

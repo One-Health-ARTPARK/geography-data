@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22802857425474,16.7710781490794],[77.25460167392788,16.79733454828905],[77.23982818568601,16.81601847573249],[77.21620501881199,16.81061904678801],[77.22548984028157,16.79527792642182],[77.22802857425474,16.7710781490794]]]},"properties":{"region_id":"village_621255","name":"ASHINAL","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

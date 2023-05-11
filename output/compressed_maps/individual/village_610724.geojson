@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06324791005697,13.74553885935283],[77.05869492383388,13.76002159658871],[77.0399867528751,13.75131105674939],[77.04312949886824,13.74207959970912],[77.06324791005697,13.74553885935283]]]},"properties":{"region_id":"village_610724","name":"KITTAGALI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

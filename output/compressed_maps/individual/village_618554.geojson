@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31823983180976,12.56469052293073],[76.30994693092175,12.5549660812378],[76.32087772643413,12.54842521020877],[76.32416690801792,12.56323455392709],[76.31823983180976,12.56469052293073]]]},"properties":{"region_id":"village_618554","name":"HALEMIRLE","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

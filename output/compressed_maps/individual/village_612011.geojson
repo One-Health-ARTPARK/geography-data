@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44224271156166,13.28771129127327],[76.44191295095364,13.30601137467431],[76.43454258770879,13.30516915075634],[76.4333566182757,13.29240787409843],[76.44224271156166,13.28771129127327]]]},"properties":{"region_id":"village_612011","name":"HARACHANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

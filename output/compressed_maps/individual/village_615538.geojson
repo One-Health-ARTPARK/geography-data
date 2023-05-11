@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1830259333427,13.4376392577147],[76.16207664257914,13.44680201819786],[76.15705596461827,13.43810833440266],[76.17031420139593,13.42499723526887],[76.1830259333427,13.4376392577147]]]},"properties":{"region_id":"village_615538","name":"MANAKATHUR","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

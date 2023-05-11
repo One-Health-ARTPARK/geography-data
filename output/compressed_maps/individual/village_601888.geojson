@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55500398256055,15.8261601971525],[75.53145232103971,15.82859257266075],[75.51743717020103,15.78709488492452],[75.54474452108973,15.7993885553971],[75.55500398256055,15.8261601971525]]]},"properties":{"region_id":"village_601888","name":"SHIROL","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71755901164136,12.85083938282148],[77.71466304711745,12.8403355566387],[77.70533976146699,12.83040205624461],[77.71990241418206,12.82879673326529],[77.71755901164136,12.85083938282148]]]},"properties":{"region_id":"village_613199","name":"SINGENA AGRAHARA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

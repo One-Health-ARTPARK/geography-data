@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69730179900601,16.0958667835032],[74.69228459779718,16.11312177764407],[74.67859325439073,16.11153027007868],[74.68169833929223,16.09362997048813],[74.69730179900601,16.0958667835032]]]},"properties":{"region_id":"village_597665","name":"PACHAPUR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

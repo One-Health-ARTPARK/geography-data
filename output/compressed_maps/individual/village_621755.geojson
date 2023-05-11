@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.0143688830319,13.27344547706916],[78.0055420956198,13.27393976125125],[78.00256536571156,13.25691104561809],[78.01619271738441,13.26083665946749],[78.0143688830319,13.27344547706916]]]},"properties":{"region_id":"village_621755","name":"MARJENAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

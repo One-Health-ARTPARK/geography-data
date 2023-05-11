@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9405636775342,13.71310999082867],[77.93723645740494,13.74532435724762],[77.90879502822804,13.73475435558874],[77.90792079729235,13.71246055560104],[77.9405636775342,13.71310999082867]]]},"properties":{"region_id":"village_623949","name":"GUJJEPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

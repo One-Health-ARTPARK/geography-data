@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85363886833903,12.83511073040666],[74.83292711494923,12.83896042868305],[74.84566358776837,12.79747912568244],[74.85530960811592,12.80949468717431],[74.85363886833903,12.83511073040666]]]},"properties":{"region_id":"village_938791","name":"ULLALA","parent":"subdistrict_7197","parent_name":"ULLALA"}}
+]}

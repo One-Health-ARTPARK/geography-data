@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99754524679436,13.63508588632682],[76.98918769794679,13.64355418947237],[76.98737627033705,13.62941228259385],[76.99754524679436,13.63508588632682]]]},"properties":{"region_id":"village_610484","name":"SIRADADU","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

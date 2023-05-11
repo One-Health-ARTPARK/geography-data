@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44787796814121,13.63899524848946],[76.42607761446592,13.63791987636277],[76.43554953043395,13.62734250185216],[76.44787796814121,13.63899524848946]]]},"properties":{"region_id":"village_606001","name":"KACHAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

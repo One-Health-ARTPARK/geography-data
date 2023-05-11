@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27521925878276,15.98710053608439],[77.27371359663117,16.00676318552385],[77.24460213871467,16.01148791041503],[77.23684247946426,15.99560503997656],[77.27521925878276,15.98710053608439]]]},"properties":{"region_id":"village_601001","name":"ADVI KHANAPUR","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

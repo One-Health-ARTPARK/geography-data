@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11494999810573,12.48082099087488],[77.10289480201071,12.48220113323553],[77.09898399811593,12.47784127989496],[77.09884764487772,12.46497901588126],[77.11051068919737,12.46592985111329],[77.11494999810573,12.48082099087488]]]},"properties":{"region_id":"village_614649","name":"MUDENAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

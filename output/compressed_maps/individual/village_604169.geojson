@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28597645257607,14.69541165137971],[75.25907853477794,14.70015764882985],[75.2645136292866,14.68015399469494],[75.28597645257607,14.69541165137971]]]},"properties":{"region_id":"village_604169","name":"BYAGAWADI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

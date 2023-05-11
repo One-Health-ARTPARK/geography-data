@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50705875663145,13.28612629497805],[76.50339376072888,13.30609155979423],[76.48619073332412,13.29083799564165],[76.50705875663145,13.28612629497805]]]},"properties":{"region_id":"village_612077","name":"DODDAMARAPANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

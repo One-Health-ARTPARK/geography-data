@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71069788459212,12.67172670780496],[76.69611632911875,12.67530194326714],[76.69501939698021,12.66711422302125],[76.70662262036446,12.66205395649076],[76.71069788459212,12.67172670780496]]]},"properties":{"region_id":"village_614041","name":"GUDEHOSAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

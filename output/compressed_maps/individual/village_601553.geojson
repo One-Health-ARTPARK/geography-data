@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42436271717571,15.66806589641934],[76.4110272410581,15.6683671131637],[76.41368768531791,15.64689019979883],[76.428897628579,15.65578965234663],[76.42436271717571,15.66806589641934]]]},"properties":{"region_id":"village_601553","name":"HOSGUDDA","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

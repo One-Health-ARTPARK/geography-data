@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31842214688102,13.47558735582591],[76.29111536604286,13.47952471745416],[76.30151037549554,13.46443023000409],[76.31842214688102,13.47558735582591]]]},"properties":{"region_id":"village_615614","name":"HONNAKATTA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

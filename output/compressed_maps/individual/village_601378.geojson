@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87019461812135,15.90951793928657],[75.85055764508496,15.90176132913686],[75.85625961682953,15.87872061245862],[75.86944098178016,15.89501114610522],[75.87019461812135,15.90951793928657]]]},"properties":{"region_id":"village_601378","name":"NILOGAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

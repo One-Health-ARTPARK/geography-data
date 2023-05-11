@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27295224176771,13.73307668495987],[77.28395536043355,13.73376936341259],[77.28325092326426,13.75919880713379],[77.25173786007065,13.74083773972525],[77.27295224176771,13.73307668495987]]]},"properties":{"region_id":"village_610900","name":"MUDDENERALEKERE","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

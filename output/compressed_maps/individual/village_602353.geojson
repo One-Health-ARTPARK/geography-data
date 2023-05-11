@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46376320629773,15.59584305881322],[75.43393835459798,15.59485509218634],[75.43738666958374,15.56730142966992],[75.46846065373057,15.57264591292024],[75.46376320629773,15.59584305881322]]]},"properties":{"region_id":"village_602353","name":"KHANNUR","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

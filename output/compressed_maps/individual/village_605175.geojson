@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82815426099991,14.866553209336],[76.81500163450967,14.86720700039495],[76.80890261295794,14.84692706878797],[76.82030734637983,14.84002461416699],[76.82815426099991,14.866553209336]]]},"properties":{"region_id":"village_605175","name":"VITTALAPURA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

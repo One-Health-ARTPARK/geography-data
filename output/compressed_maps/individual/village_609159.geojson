@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86909709882494,13.70941104588273],[75.85516043690687,13.71117720919324],[75.85290437279117,13.70371640341759],[75.8650818530732,13.69932530899155],[75.86909709882494,13.70941104588273]]]},"properties":{"region_id":"village_609159","name":"HOSUR","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

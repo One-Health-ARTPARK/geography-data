@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1830587466234,13.49441441524162],[77.17328877716947,13.47849381863196],[77.19347613094713,13.47443795979141],[77.2031403421587,13.48412652652014],[77.1830587466234,13.49441441524162]]]},"properties":{"region_id":"village_611041","name":"THARATI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

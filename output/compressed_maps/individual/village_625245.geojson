@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47367218396197,13.21174197791396],[77.46793307519096,13.22185132354761],[77.44859899618787,13.21650981222028],[77.455745748312,13.20965409743447],[77.47367218396197,13.21174197791396]]]},"properties":{"region_id":"village_625245","name":"CHANNADEVI AGRAHARA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

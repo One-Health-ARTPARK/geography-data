@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20426346416433,16.26110613261351],[76.19756342738806,16.23661134062762],[76.22612471402122,16.23971283130706],[76.23178593007025,16.25801246085311],[76.20426346416433,16.26110613261351]]]},"properties":{"region_id":"village_599667","name":"KESAPUR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

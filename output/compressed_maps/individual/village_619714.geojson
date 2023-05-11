@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82244774662702,11.82661768250631],[76.80961561533131,11.79198733298333],[76.84656284200108,11.79066410314976],[76.84583320755245,11.81458883615976],[76.82244774662702,11.82661768250631]]]},"properties":{"region_id":"village_619714","name":"KOTHALAVADI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85787214795583,11.71889294909641],[76.86306764998707,11.74246043826383],[76.85201289646943,11.73602631462122],[76.85787214795583,11.71889294909641]]]},"properties":{"region_id":"village_619730","name":"SHINDAIAHANAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

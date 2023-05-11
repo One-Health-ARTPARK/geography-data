@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55282903225417,14.47764574033919],[75.54828930590627,14.49176336472501],[75.52162113577519,14.48368010428844],[75.51833020496876,14.47287504291317],[75.55282903225417,14.47764574033919]]]},"properties":{"region_id":"village_604405","name":"MAVINATOP","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

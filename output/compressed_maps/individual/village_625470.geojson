@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86058488904608,13.21944949119301],[77.854453619695,13.21550523049717],[77.85355203650863,13.20658432312711],[77.85807911209875,13.20544739899973],[77.86289479439525,13.21521088835633],[77.86058488904608,13.21944949119301]]]},"properties":{"region_id":"village_625470","name":"ANUPAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

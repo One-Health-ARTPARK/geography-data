@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75565022355282,15.31084847544509],[76.73642910198555,15.32158444198849],[76.72289706070562,15.33547826551785],[76.72162662598073,15.31103414845732],[76.75565022355282,15.31084847544509]]]},"properties":{"region_id":"village_604867","name":"PATTANASARAGU","parent":"subdistrict_7109","parent_name":"KURUGODU"}}
+]}

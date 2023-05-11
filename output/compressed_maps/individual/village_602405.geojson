@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10000838087991,15.3268146172238],[75.0840534335954,15.32517903479208],[75.08350017518892,15.31714176444516],[75.09864583651958,15.31874215966],[75.10000838087991,15.3268146172238]]]},"properties":{"region_id":"village_602405","name":"GANGIWAL","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

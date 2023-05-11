@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53935284995305,14.1253008180109],[76.52034237076069,14.11365633271753],[76.52324662801693,14.06771709970996],[76.54426323408971,14.05779625754513],[76.54895413440508,14.09383484207063],[76.53935284995305,14.1253008180109]]]},"properties":{"region_id":"village_606060","name":"AIMANGALA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37134676292678,13.19968246948904],[77.35606120088512,13.20062826279102],[77.35382321087751,13.18489922025994],[77.37404673816616,13.18026649118456],[77.37134676292678,13.19968246948904]]]},"properties":{"region_id":"village_624817","name":"HASURAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

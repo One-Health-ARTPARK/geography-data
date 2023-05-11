@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36452458985582,15.1573452696874],[76.35077228148423,15.17009515895456],[76.34994036572525,15.14685992392056],[76.36452458985582,15.1573452696874]]]},"properties":{"region_id":"village_604702","name":"MARIYAMMANAHALLI","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

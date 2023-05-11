@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.06808324673793,12.94763824419216],[78.06117454849627,12.94656355639222],[78.06615638142874,12.93709957967282],[78.0726149843796,12.93837102624857],[78.06808324673793,12.94763824419216]]]},"properties":{"region_id":"village_622451","name":"KOMMANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

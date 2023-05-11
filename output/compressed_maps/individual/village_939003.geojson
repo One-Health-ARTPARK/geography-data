@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89198390376993,12.78955255119546],[75.88728407351566,12.78929476551153],[75.88594222558575,12.78122464388214],[75.89061560130969,12.780619482713],[75.89198390376993,12.78955255119546]]]},"properties":{"region_id":"village_939003","name":"MALLALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75222653636683,13.21484813548321],[76.72041254550305,13.20773604950826],[76.71803764409005,13.18502611803291],[76.75336141078736,13.19437577623807],[76.75222653636683,13.21484813548321]]]},"properties":{"region_id":"village_612293","name":"KONDAJJI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

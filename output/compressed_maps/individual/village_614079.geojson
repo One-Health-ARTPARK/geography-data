@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67622125925836,12.56483147118524],[76.66165393945887,12.56213120452849],[76.66434859132902,12.55753983654898],[76.67476071851016,12.5586929131768],[76.67622125925836,12.56483147118524]]]},"properties":{"region_id":"village_614079","name":"RANGAPURA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

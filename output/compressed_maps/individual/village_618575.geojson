@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37395540171156,12.55576382469097],[76.37156813846049,12.56612534112749],[76.35193167405822,12.56834812215066],[76.35176444942448,12.55230264318003],[76.37395540171156,12.55576382469097]]]},"properties":{"region_id":"village_618575","name":"HOSA AGRAHARA","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

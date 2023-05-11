@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28904128175891,13.18142722994066],[77.28813745050464,13.16810740834002],[77.30228545702639,13.16496532086986],[77.30278305307448,13.17549944504725],[77.28904128175891,13.18142722994066]]]},"properties":{"region_id":"village_624833","name":"KULUVANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

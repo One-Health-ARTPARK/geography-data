@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91685346426203,12.81463799018337],[76.90971572380455,12.81883366440598],[76.88949896485205,12.8084559956521],[76.89757408696252,12.79446994009232],[76.90417587323776,12.80700652737879],[76.91685346426203,12.81463799018337]]]},"properties":{"region_id":"village_613949","name":"SETTAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

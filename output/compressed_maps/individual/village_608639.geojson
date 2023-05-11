@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64063795818167,13.82874121657494],[75.64752183582826,13.83218937381561],[75.64949116472566,13.83864628250711],[75.63986850010063,13.8373069816609],[75.64063795818167,13.82874121657494]]]},"properties":{"region_id":"village_608639","name":"SANKLIPURA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

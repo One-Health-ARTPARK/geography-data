@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37024040837548,14.69760597179909],[75.35904555767219,14.70863011885159],[75.34534723317357,14.68159295543707],[75.36392121142931,14.67459022729567],[75.37024040837548,14.69760597179909]]]},"properties":{"region_id":"village_604281","name":"KAGINELLI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

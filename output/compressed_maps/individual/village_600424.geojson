@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46033030259498,16.15569029571762],[76.44067371475074,16.16021422824795],[76.43090303298054,16.1428571829852],[76.45177766400326,16.13596139947995],[76.46033030259498,16.15569029571762]]]},"properties":{"region_id":"village_600424","name":"NEERALKERA","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

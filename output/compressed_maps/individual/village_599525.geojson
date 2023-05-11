@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05981065478217,16.73767228959489],[76.05716864201257,16.75766132543085],[76.02578752145116,16.76301245693355],[76.02669031019035,16.73207789665771],[76.05981065478217,16.73767228959489]]]},"properties":{"region_id":"village_599525","name":"MARKABBINAHALLI","parent":"subdistrict_7071","parent_name":"DEVARA HIPPARAGI"}}
+]}

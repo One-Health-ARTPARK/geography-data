@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50079428498444,14.54061135316812],[76.48688715267625,14.54470463063615],[76.47823552973921,14.52832903575141],[76.49338349727255,14.53108868952534],[76.50079428498444,14.54061135316812]]]},"properties":{"region_id":"village_606505","name":"DIBBADAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

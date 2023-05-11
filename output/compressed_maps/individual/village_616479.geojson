@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00138880010081,12.83465931141132],[75.99403319595896,12.83502506048045],[75.99410811543923,12.8287889959246],[75.99978248901333,12.82856072642281],[76.00138880010081,12.83465931141132]]]},"properties":{"region_id":"village_616479","name":"NELLIGERE","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35468595445175,14.09904550775996],[76.33005104428723,14.08884482012569],[76.34625323657765,14.07354080478012],[76.35468595445175,14.09904550775996]]]},"properties":{"region_id":"village_605612","name":"MAHADEVANAKATTE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

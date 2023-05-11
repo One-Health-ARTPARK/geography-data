@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29570754353905,13.47965073758447],[77.29328337292942,13.49183033219019],[77.28564460501445,13.49210211709987],[77.28121451766665,13.48229160165241],[77.29570754353905,13.47965073758447]]]},"properties":{"region_id":"village_611123","name":"THUMBUGANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

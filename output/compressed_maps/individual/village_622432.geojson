@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.06415600527258,12.95929493717452],[78.04933949027411,12.96312677457483],[78.04612837751455,12.95616688239661],[78.0626863094569,12.95309769933237],[78.06415600527258,12.95929493717452]]]},"properties":{"region_id":"village_622432","name":"SEETHAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

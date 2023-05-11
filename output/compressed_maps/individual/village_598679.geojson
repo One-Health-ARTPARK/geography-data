@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71485233747838,16.05154224085367],[75.695749346962,16.05559687881022],[75.69499403491457,16.03343256090242],[75.71742676399857,16.03619132063087],[75.71485233747838,16.05154224085367]]]},"properties":{"region_id":"village_598679","name":"TEGGI","parent":"subdistrict_7061","parent_name":"GULEDGUDDA"}}
+]}

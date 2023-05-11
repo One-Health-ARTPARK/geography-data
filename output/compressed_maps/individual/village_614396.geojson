@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7549794268066,12.62829888694232],[76.73589599397894,12.63335655763405],[76.73462678932583,12.62003856749801],[76.7549794268066,12.62829888694232]]]},"properties":{"region_id":"village_614396","name":"MALLENAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54214300020082,12.98577299978064],[77.54954799989581,12.97394199955574],[77.5552479998206,12.98005800019741],[77.54214300020082,12.98577299978064]]]},"properties":{"region_id":"ward_bbmp106","name":"WARD NO.106 (DR.RAJ KUMAR WARD)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7264874452358,16.06322244948636],[76.68969991427424,16.0719538690048],[76.6921908744001,16.05431952829553],[76.7264874452358,16.06322244948636]]]},"properties":{"region_id":"village_600900","name":"CHILKARAGI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

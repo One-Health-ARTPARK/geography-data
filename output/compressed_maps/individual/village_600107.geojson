@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46474917399651,18.09489831644232],[77.45158845941401,18.09588960020164],[77.44137098614479,18.07819936979851],[77.45624031971293,18.07259230525009],[77.46474917399651,18.09489831644232]]]},"properties":{"region_id":"village_600107","name":"KAUDGAON","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

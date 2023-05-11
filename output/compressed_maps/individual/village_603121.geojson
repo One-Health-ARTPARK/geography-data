@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71009727078454,14.65994600815811],[74.71672478913013,14.67423194853108],[74.6850870115927,14.68594027477076],[74.68904083763125,14.66426542827095],[74.71009727078454,14.65994600815811]]]},"properties":{"region_id":"village_603121","name":"MANADUR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

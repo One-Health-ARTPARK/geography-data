@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.3976312253982,13.14675682387185],[78.39287313153841,13.14665471879422],[78.39392938913765,13.13826137999153],[78.39891843904464,13.13767477753148],[78.3976312253982,13.14675682387185]]]},"properties":{"region_id":"village_623016","name":"THURAKARAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7697980949924,13.02256606824557],[75.74023754723078,13.01760136426898],[75.73718056825761,13.0094355852082],[75.7745296837665,13.00988160280651],[75.7697980949924,13.02256606824557]]]},"properties":{"region_id":"village_615099","name":"THUMBADEVANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1239074568865,17.19035526565068],[76.0778795695763,17.19638560317484],[76.0901055534649,17.14250029387898],[76.12587809564876,17.16403610691898],[76.1239074568865,17.19035526565068]]]},"properties":{"region_id":"village_599264","name":"LALASANGI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

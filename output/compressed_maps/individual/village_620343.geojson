@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18882729532365,17.53974037247711],[77.14660038937639,17.51695161996998],[77.15609877243303,17.46396363362623],[77.1996111266619,17.48865418260872],[77.18882729532365,17.53974037247711]]]},"properties":{"region_id":"village_620343","name":"CHANDANKERA","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

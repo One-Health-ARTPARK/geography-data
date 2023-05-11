@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01177606587402,14.34561437367991],[76.02957183167703,14.35180664099283],[76.02257547457168,14.3739311422005],[76.00763541911437,14.36475721579084],[76.01177606587402,14.34561437367991]]]},"properties":{"region_id":"village_606661","name":"ECHAGATTA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

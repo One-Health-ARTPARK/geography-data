@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.46811081115175,14.23965372357271],[74.45846454094082,14.24729548958996],[74.43806077830044,14.24616272187492],[74.44125819945646,14.23581453879453],[74.45225634289974,14.23251474477615],[74.46811081115175,14.23965372357271]]]},"properties":{"region_id":"village_603747","name":"KELGINOOR","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

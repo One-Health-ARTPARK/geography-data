@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24733717555014,15.14216414340753],[75.2587511218054,15.15152436499024],[75.25018301765759,15.16727173197319],[75.23348971991035,15.15312877432992],[75.24733717555014,15.14216414340753]]]},"properties":{"region_id":"village_602533","name":"BULLAPPANAKOPPA","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

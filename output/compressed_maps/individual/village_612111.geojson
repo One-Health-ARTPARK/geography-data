@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44909654370066,13.24317949322404],[76.43250477877477,13.23752418816121],[76.44241355257321,13.22847442919221],[76.44909654370066,13.24317949322404]]]},"properties":{"region_id":"village_612111","name":"CHATNAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

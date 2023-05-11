@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95967185302949,14.2986634257814],[75.96488550545094,14.27331761649704],[75.986192638504,14.274466039221],[75.98870541829,14.29495341989327],[75.95967185302949,14.2986634257814]]]},"properties":{"region_id":"village_606697","name":"MALALAKERE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

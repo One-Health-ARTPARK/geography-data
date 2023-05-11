@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96050141405787,13.15147665711179],[77.95786408029963,13.1303724228324],[77.97331191547556,13.1331018751167],[77.96050141405787,13.15147665711179]]]},"properties":{"region_id":"village_621823","name":"CHAKARASANAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

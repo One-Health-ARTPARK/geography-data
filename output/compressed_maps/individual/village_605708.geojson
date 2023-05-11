@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14945857904442,13.89897844194461],[76.12283583198202,13.89984399196844],[76.1164183551307,13.88714329450596],[76.14651560305188,13.89150368130386],[76.14945857904442,13.89897844194461]]]},"properties":{"region_id":"village_605708","name":"ARABAGATTA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

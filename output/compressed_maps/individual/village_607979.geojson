@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14514420653968,13.88460455569376],[75.11764483248209,13.87361828953117],[75.13499346449768,13.86047921167429],[75.14514420653968,13.88460455569376]]]},"properties":{"region_id":"village_607979","name":"KOLAGI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

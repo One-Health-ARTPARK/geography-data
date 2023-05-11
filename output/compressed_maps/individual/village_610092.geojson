@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6609876486304,13.66062398011012],[76.65602033809793,13.68052878230704],[76.6340637505198,13.67928905489564],[76.6401804961687,13.65172421891271],[76.6609876486304,13.66062398011012]]]},"properties":{"region_id":"village_610092","name":"DABBAGUNTE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

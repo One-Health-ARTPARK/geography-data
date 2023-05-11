@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87834108510832,14.24737745690119],[74.86552097654126,14.26652052682119],[74.8483872323981,14.26131090185484],[74.8463765989408,14.2410596845521],[74.87834108510832,14.24737745690119]]]},"properties":{"region_id":"village_603675","name":"HEGGEKOPPA","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

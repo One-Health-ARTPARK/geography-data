@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55249099975975,12.93877000023478],[77.5386740001882,12.94347600010089],[77.54557699988304,12.92861800026453],[77.55249099975975,12.93877000023478]]]},"properties":{"region_id":"ward_bbmp162","name":"WARD NO.162 (GIRI NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

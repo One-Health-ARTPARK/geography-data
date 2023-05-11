@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7830642912395,12.54955002572046],[76.76703650306374,12.5353440082777],[76.7980945419842,12.52408387603488],[76.79528247652007,12.54418218324582],[76.7830642912395,12.54955002572046]]]},"properties":{"region_id":"village_614440","name":"MARANACHAKANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5560837609319,12.74548989236781],[76.55388316227348,12.754441597756],[76.54842833382037,12.75610892535925],[76.5446644594841,12.74760909493121],[76.5560837609319,12.74548989236781]]]},"properties":{"region_id":"village_613464","name":"DASAGOLAPURA","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

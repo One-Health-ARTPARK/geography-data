@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32601517146843,13.60903475394467],[77.31280450325853,13.60314004004237],[77.32056601210101,13.59364691222837],[77.3345051765755,13.59787878484654],[77.32601517146843,13.60903475394467]]]},"properties":{"region_id":"village_611097","name":"BYRENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94699115232208,13.17648411142717],[75.94420836243242,13.19125081333599],[75.93541643513872,13.18873313223924],[75.94699115232208,13.17648411142717]]]},"properties":{"region_id":"village_615261","name":"CHANNENAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

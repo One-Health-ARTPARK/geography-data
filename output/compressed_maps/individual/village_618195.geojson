@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1918928510704,12.45021480140362],[76.17785550060175,12.42597592038159],[76.19532706524518,12.42455794364849],[76.20711334712239,12.44769578195516],[76.1918928510704,12.45021480140362]]]},"properties":{"region_id":"village_618195","name":"RAVANDUR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

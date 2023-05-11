@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70158461903975,11.81302535958553],[76.67213715974334,11.81767656735365],[76.66646685073626,11.7955796272497],[76.68697409278826,11.79918219058606],[76.70158461903975,11.81302535958553]]]},"properties":{"region_id":"village_619508","name":"VIJAYAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

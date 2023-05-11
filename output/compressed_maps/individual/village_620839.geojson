@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66803057855093,16.78539107737785],[76.63667354047391,16.7902776842715],[76.62169823028522,16.7718254300527],[76.6531689456446,16.7558000548531],[76.66803057855093,16.78539107737785]]]},"properties":{"region_id":"village_620839","name":"AMBERKHED","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

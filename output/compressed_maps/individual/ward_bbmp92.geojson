@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60180699973856,12.98473900021657],[77.60844500025776,12.98644800036544],[77.60711699956745,12.99031200004146],[77.60290800023353,12.98994300029801],[77.60180699973856,12.98473900021657]]]},"properties":{"region_id":"ward_bbmp92","name":"WARD NO.92 (SHIVAJI NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

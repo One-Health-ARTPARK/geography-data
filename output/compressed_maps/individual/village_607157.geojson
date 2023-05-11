@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89921201364851,14.19666864247212],[74.89447846371047,14.21693617061203],[74.86940006560535,14.21005755064642],[74.88441871645676,14.18540172817412],[74.89921201364851,14.19666864247212]]]},"properties":{"region_id":"village_607157","name":"HIREMANE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

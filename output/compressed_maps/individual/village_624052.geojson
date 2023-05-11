@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92930193393389,13.59403301546879],[77.92037871758846,13.59324426243507],[77.92412146495725,13.58604284834605],[77.93230982891164,13.58666847195077],[77.92930193393389,13.59403301546879]]]},"properties":{"region_id":"village_624052","name":"GANDLACHINTHE","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

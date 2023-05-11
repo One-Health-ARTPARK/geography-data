@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86637895791952,12.96570566291235],[74.88973823433012,12.97569739577962],[74.88905042405797,12.99640891612589],[74.86632991335759,12.98655260272591],[74.86637895791952,12.96570566291235]]]},"properties":{"region_id":"village_617500","name":"BAJPE (CT)","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

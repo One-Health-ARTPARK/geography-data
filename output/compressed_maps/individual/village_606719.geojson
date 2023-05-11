@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.439619010651,14.12929724306642],[75.41652602234774,14.14254010024751],[75.39672813155659,14.1180598272437],[75.42639806663823,14.10970765778367],[75.439619010651,14.12929724306642]]]},"properties":{"region_id":"village_606719","name":"GUNDICHATNAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

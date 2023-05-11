@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84978164810991,16.4653482854059],[76.8361788427059,16.47197475708992],[76.82335455489722,16.47083688677377],[76.84103164955374,16.45220029483263],[76.84978164810991,16.4653482854059]]]},"properties":{"region_id":"village_621069","name":"CHOUDESHWARHAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

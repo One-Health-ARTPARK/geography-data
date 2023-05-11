@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31470118240455,11.93055251210914],[76.31770597267838,11.94583610782133],[76.30548759760016,11.94461956175025],[76.30164400116195,11.93351627795258],[76.31470118240455,11.93055251210914]]]},"properties":{"region_id":"village_619044","name":"JAGANAKOTE","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

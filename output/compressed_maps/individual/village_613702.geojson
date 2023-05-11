@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7260847997927,13.01765197457449],[76.71699787043329,13.0107567046849],[76.73158760049827,13.00090111551607],[76.73472582016626,13.01246397056265],[76.7260847997927,13.01765197457449]]]},"properties":{"region_id":"village_613702","name":"MUDAGERE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

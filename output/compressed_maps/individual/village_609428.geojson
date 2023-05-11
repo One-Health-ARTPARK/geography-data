@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03662833405124,13.58610829148242],[76.032151378466,13.6080661727984],[76.01017729109594,13.61015922662446],[76.00855852691775,13.58466612080136],[76.03662833405124,13.58610829148242]]]},"properties":{"region_id":"village_609428","name":"BANTIGANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

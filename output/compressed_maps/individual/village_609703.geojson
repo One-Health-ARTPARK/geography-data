@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66225610143893,13.36013543988332],[75.64168711843426,13.35458127965328],[75.66140441992967,13.34139570995702],[75.66225610143893,13.36013543988332]]]},"properties":{"region_id":"village_609703","name":"MAKODU","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

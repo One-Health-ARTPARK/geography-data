@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04943090809424,12.32812025454199],[77.02631826395181,12.32479333068504],[77.0265909449866,12.31003171361635],[77.03932816024844,12.31663399779901],[77.05133965141489,12.31628188480549],[77.04943090809424,12.32812025454199]]]},"properties":{"region_id":"village_614796","name":"KYATHANAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

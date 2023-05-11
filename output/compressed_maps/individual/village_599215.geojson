@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94489534192567,17.27471747105979],[75.91233836393597,17.28094949881956],[75.911960881741,17.21378093059183],[75.96457654190671,17.24649369306145],[75.94489534192567,17.27471747105979]]]},"properties":{"region_id":"village_599215","name":"AHIRASANG","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

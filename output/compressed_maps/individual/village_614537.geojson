@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02037733753001,12.6154974927102],[77.01925493788765,12.62114724445332],[77.00882583105219,12.62309992816871],[77.00878839162564,12.61661158125882],[77.02037733753001,12.6154974927102]]]},"properties":{"region_id":"village_614537","name":"SHANKARAPURA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

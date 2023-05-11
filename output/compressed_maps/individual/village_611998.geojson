@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4286134237784,13.33952474902738],[76.41442080375406,13.34031273783424],[76.41839100502818,13.32846977856365],[76.4286134237784,13.33952474902738]]]},"properties":{"region_id":"village_611998","name":"VITTALAPURA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

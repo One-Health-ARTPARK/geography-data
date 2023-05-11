@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65127940839696,12.91681558902765],[76.64483654673869,12.9346952225521],[76.6378355029595,12.92289041492561],[76.65127940839696,12.91681558902765]]]},"properties":{"region_id":"village_613784","name":"ANECHANNAPURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

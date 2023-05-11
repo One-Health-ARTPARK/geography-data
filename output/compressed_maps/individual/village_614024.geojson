@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74966797042336,12.69611799636322],[76.73343543995732,12.69287422973966],[76.73074023111663,12.67839048333241],[76.75519871541454,12.68184233212361],[76.74966797042336,12.69611799636322]]]},"properties":{"region_id":"village_614024","name":"GANGAVADI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

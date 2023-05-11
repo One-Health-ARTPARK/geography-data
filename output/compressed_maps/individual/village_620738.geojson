@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52044178662588,17.08892196263659],[76.48080649502785,17.06353169689907],[76.53018908587583,17.03482144801706],[76.52044178662588,17.08892196263659]]]},"properties":{"region_id":"village_620738","name":"BALWANDGI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

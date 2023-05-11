@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02556077093008,13.14718345441271],[77.01694100428207,13.13966083769783],[77.02752977093334,13.12909711438805],[77.0310591448887,13.1376220820689],[77.02556077093008,13.14718345441271]]]},"properties":{"region_id":"village_611533","name":"RAMANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

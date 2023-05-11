@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97417495312234,16.36757746399762],[76.95000052358947,16.38344936964306],[76.94516132192523,16.36642307127194],[76.97417495312234,16.36757746399762]]]},"properties":{"region_id":"village_600620","name":"KOTIGUD","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

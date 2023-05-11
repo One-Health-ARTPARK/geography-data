@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40296852083767,15.9995313964796],[77.38583026556934,16.01398468437866],[77.37809779501215,15.99314623857087],[77.39307629052533,15.98651938536054],[77.40296852083767,15.9995313964796]]]},"properties":{"region_id":"village_600870","name":"HANCHINHAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

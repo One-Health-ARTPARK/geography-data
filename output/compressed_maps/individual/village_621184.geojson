@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87532746299786,16.5273748837386],[76.86876427107279,16.54490793784986],[76.84949210051956,16.54353811210182],[76.8508734689167,16.53135048449549],[76.87532746299786,16.5273748837386]]]},"properties":{"region_id":"village_621184","name":"PARSAPUR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09559864120186,15.65371622914999],[77.10939385699781,15.65049593087628],[77.11737947977768,15.66824680732056],[77.10241771209799,15.66791752220768],[77.09559864120186,15.65371622914999]]]},"properties":{"region_id":"village_604834","name":"B.M.SUGUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

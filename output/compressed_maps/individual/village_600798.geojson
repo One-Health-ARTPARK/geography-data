@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43380139643315,16.15292124424488],[77.4013238234085,16.15466180786501],[77.40369484130686,16.12795346042426],[77.43983955396138,16.13237793506791],[77.43380139643315,16.15292124424488]]]},"properties":{"region_id":"village_600798","name":"DEVANPALLI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

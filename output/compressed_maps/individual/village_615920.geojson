@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13980428247308,13.16210173713777],[76.12487498694347,13.15877939086198],[76.1260323303999,13.1462658288589],[76.14070829758009,13.14501349605634],[76.13980428247308,13.16210173713777]]]},"properties":{"region_id":"village_615920","name":"NITTUR","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

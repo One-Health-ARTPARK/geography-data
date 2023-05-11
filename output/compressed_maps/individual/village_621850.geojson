@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.02892584293505,13.10392636890442],[78.01865210468924,13.11819099776513],[78.00292224597486,13.10348021712375],[78.02892584293505,13.10392636890442]]]},"properties":{"region_id":"village_621850","name":"DODDAIYYUR","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

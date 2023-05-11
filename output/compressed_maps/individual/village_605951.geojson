@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35737893339048,13.71775120255662],[76.32808654303808,13.719475332852],[76.33251568523815,13.68921371583804],[76.3579811290371,13.70407596944681],[76.35737893339048,13.71775120255662]]]},"properties":{"region_id":"village_605951","name":"ARALAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

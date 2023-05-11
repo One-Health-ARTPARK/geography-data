@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92965666504958,12.70618629023004],[75.91547037863695,12.70538831091213],[75.91365836896523,12.69937821290229],[75.930673301437,12.69725440730335],[75.92965666504958,12.70618629023004]]]},"properties":{"region_id":"village_617911","name":"NIDTHA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23335843589398,15.00605824149641],[76.27696368241403,14.99843825179733],[76.2764018574104,15.02639198857836],[76.25021746205114,15.02452411897302],[76.23335843589398,15.00605824149641]]]},"properties":{"region_id":"village_604685","name":"MADUR","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

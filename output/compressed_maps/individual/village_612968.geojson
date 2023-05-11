@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39389444084485,12.97560556138699],[77.38346112422903,12.97388122423961],[77.38441852053522,12.964603465092],[77.39297219141454,12.96736574060091],[77.39389444084485,12.97560556138699]]]},"properties":{"region_id":"village_612968","name":"BYCHAGUPPE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

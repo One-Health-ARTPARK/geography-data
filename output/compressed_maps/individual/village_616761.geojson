@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08848078842017,12.54580038497916],[76.08736201200641,12.55906166923108],[76.07623894645707,12.55375370372609],[76.08848078842017,12.54580038497916]]]},"properties":{"region_id":"village_616761","name":"HARALAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92502304970087,13.17050141303755],[77.90824942184145,13.17420828387983],[77.90699575521236,13.16868327727193],[77.91742569948698,13.16438469466715],[77.92502304970087,13.17050141303755]]]},"properties":{"region_id":"village_625573","name":"OBLAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

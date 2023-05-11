@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64245156851814,12.96822625545967],[77.63715542232151,12.97307650592389],[77.63415115143906,12.97069871145269],[77.63801268830905,12.96594357466842],[77.64245156851814,12.96822625545967]]]},"properties":{"region_id":"village_939430","name":"DOOKANAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

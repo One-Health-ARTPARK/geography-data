@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03579291642734,14.16953240257518],[75.0247217439757,14.16561035939182],[75.03127922272651,14.16270296378869],[75.03860590963342,14.16538011324649],[75.03579291642734,14.16953240257518]]]},"properties":{"region_id":"village_938616","name":"KOTVALA KATTE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

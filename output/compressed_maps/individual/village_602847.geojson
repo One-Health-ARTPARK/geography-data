@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76652842811063,15.36125611350854],[74.75389960471607,15.35808269502632],[74.74765108305944,15.34362205754851],[74.76172620887856,15.34378051678934],[74.76652842811063,15.36125611350854]]]},"properties":{"region_id":"village_602847","name":"HAVAGI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67920812833265,12.81173312102587],[77.66273691169172,12.81626381889346],[77.66003089103168,12.8054899878749],[77.67434062980537,12.80296916696678],[77.67920812833265,12.81173312102587]]]},"properties":{"region_id":"village_613163","name":"YARANDAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

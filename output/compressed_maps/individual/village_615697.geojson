@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27699157316475,13.32424118865411],[76.26750105903602,13.33491797679093],[76.26337641535137,13.3227243244961],[76.27699157316475,13.32424118865411]]]},"properties":{"region_id":"village_615697","name":"THIRUPATHI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

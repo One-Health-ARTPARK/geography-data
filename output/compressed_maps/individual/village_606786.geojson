@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67123439179457,14.23630914562077],[75.67497976336888,14.25138228197014],[75.64857158111326,14.24873072381366],[75.65488915928977,14.23919887175565],[75.67123439179457,14.23630914562077]]]},"properties":{"region_id":"village_606786","name":"GOLLARAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

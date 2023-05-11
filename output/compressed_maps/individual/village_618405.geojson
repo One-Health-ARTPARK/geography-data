@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30916753503952,12.32680903758938],[76.31176278299043,12.30528845182861],[76.32538767629507,12.31702871918157],[76.30916753503952,12.32680903758938]]]},"properties":{"region_id":"village_618405","name":"MOOKANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

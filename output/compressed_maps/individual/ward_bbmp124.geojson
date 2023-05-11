@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54385999983394,12.9640449997483],[77.54952799972612,12.96820100020729],[77.53791499994742,12.97204399995353],[77.53821399965497,12.96507800003854],[77.54385999983394,12.9640449997483]]]},"properties":{"region_id":"ward_bbmp124","name":"WARD NO.124 (HOSAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

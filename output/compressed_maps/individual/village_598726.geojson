@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49575835436218,15.89752467213942],[75.48640743570141,15.90328931181242],[75.4759361606686,15.8797717818858],[75.494174362506,15.87926291089962],[75.49575835436218,15.89752467213942]]]},"properties":{"region_id":"village_598726","name":"BEERANUR","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

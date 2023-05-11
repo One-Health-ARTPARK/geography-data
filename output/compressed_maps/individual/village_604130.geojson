@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12556373985275,14.65775518890992],[75.10191491048019,14.66292542360978],[75.10163539894054,14.64401448734361],[75.11662089489421,14.63962595348315],[75.12556373985275,14.65775518890992]]]},"properties":{"region_id":"village_604130","name":"CHIKKOUNSHI HOSUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

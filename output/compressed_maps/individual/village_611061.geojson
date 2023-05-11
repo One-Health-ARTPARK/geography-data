@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24603731854357,13.57546269326713],[77.23313261712774,13.57466866183829],[77.23203413121993,13.55849436984441],[77.24582463276921,13.56283292153675],[77.24603731854357,13.57546269326713]]]},"properties":{"region_id":"village_611061","name":"TUMBADI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

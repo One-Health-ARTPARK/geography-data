@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.01486316181683,13.5298603754517],[78.01881912641393,13.53456322140921],[78.01595808610662,13.54647347374794],[78.00803417362388,13.53948304999347],[78.01486316181683,13.5298603754517]]]},"properties":{"region_id":"village_624359","name":"RANGENAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

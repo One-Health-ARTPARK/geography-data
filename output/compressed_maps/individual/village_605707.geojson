@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14575944054546,13.89151685399681],[76.11927691239079,13.88570235961057],[76.12073889213139,13.87488593497275],[76.13809496219024,13.88115554983668],[76.14575944054546,13.89151685399681]]]},"properties":{"region_id":"village_605707","name":"MALLENAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

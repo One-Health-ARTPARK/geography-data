@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7780162536811,16.47060980377615],[75.75156138285152,16.48057133635555],[75.73655872272495,16.46563083247069],[75.77432712298078,16.4576683852279],[75.7780162536811,16.47060980377615]]]},"properties":{"region_id":"village_599460","name":"NAGARADINNI","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

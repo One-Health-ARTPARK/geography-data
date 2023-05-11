@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69855881204747,15.95316317865195],[75.6472851621979,15.94437353387467],[75.63869866321365,15.90346976117242],[75.66653208841278,15.9029026916212],[75.70600362232823,15.91840611785349],[75.69855881204747,15.95316317865195]]]},"properties":{"region_id":"village_598750","name":"BADAMI (RURAL) *","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

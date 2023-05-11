@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46815157930143,16.0463058569139],[77.45046979179713,16.06373846233867],[77.44339997177686,16.03925500428405],[77.46815157930143,16.0463058569139]]]},"properties":{"region_id":"village_600853","name":"PUCHALDINNI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

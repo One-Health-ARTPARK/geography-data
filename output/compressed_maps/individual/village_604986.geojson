@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55482957569978,14.93767479697214],[76.52826703719704,14.93928386808288],[76.50662287696753,14.93013770739252],[76.51781449639242,14.8715216348636],[76.576393904252,14.89150446960612],[76.55482957569978,14.93767479697214]]]},"properties":{"region_id":"village_604986","name":"CHORNUR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

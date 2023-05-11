@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13448305659084,17.06474946938969],[77.130939203537,17.03488400231717],[77.15189017392747,17.03946545762576],[77.13448305659084,17.06474946938969]]]},"properties":{"region_id":"village_620678","name":"HOSSUR","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

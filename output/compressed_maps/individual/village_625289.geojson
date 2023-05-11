@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58706539089049,13.24677507171832],[77.58194088589319,13.25281111123718],[77.57556705219129,13.24616234308049],[77.58470568075785,13.24145462443594],[77.58706539089049,13.24677507171832]]]},"properties":{"region_id":"village_625289","name":"PANDITHAPURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

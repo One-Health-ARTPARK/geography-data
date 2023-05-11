@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36353853072653,12.72086442826834],[75.34761082147605,12.71940493374557],[75.35688053917691,12.70454110222542],[75.36353853072653,12.72086442826834]]]},"properties":{"region_id":"village_617723","name":"BELANDOOR","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

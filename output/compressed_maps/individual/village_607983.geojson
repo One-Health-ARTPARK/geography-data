@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14552823568977,13.91753919071895],[75.16254071409973,13.93088383384461],[75.14933820501682,13.9498856038386],[75.13261807494965,13.93427170025336],[75.14552823568977,13.91753919071895]]]},"properties":{"region_id":"village_607983","name":"KODUR","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

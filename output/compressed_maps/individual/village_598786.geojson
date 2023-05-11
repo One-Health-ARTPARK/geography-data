@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6351652947119,16.18036505382031],[75.64492153029103,16.21227511458536],[75.63767802782223,16.22614193301159],[75.62992110425978,16.19599628168661],[75.6351652947119,16.18036505382031]]]},"properties":{"region_id":"village_598786","name":"KESANUR *","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

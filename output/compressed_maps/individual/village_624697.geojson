@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.08474424799384,13.34128460005888],[78.07717333841785,13.31939701874864],[78.06707765973384,13.30759728332918],[78.08489820471924,13.30573718603188],[78.08474424799384,13.34128460005888]]]},"properties":{"region_id":"village_624697","name":"KURUBURU","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

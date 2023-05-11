@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7296284824697,13.21724909913867],[75.71939791739328,13.22055123016326],[75.71421221434154,13.20802067409813],[75.72326824780801,13.20905559825672],[75.7296284824697,13.21724909913867]]]},"properties":{"region_id":"village_609843","name":"NERADI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

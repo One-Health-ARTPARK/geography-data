@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04177551319283,12.85543396429033],[75.03993762999639,12.87321574092024],[75.00209640917059,12.87167673444617],[74.99663738781028,12.86197875991144],[75.04177551319283,12.85543396429033]]]},"properties":{"region_id":"village_617601","name":"MUNNURU (CT)","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

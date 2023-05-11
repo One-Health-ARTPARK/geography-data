@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56662921580984,12.05942788900288],[76.5535003291118,12.06378047461861],[76.545235155402,12.05169233454663],[76.56257386942318,12.04719300428276],[76.56662921580984,12.05942788900288]]]},"properties":{"region_id":"village_619145","name":"MADAPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

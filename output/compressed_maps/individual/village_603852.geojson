@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.58839755225345,14.00035660455824],[74.58404841914847,13.98244792366058],[74.60260643245,13.98300354341036],[74.58839755225345,14.00035660455824]]]},"properties":{"region_id":"village_603852","name":"HADEEL","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

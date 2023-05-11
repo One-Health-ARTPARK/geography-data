@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41324436600013,12.06133062352701],[76.39917100898653,12.0635514168988],[76.40193695384721,12.05134144747817],[76.41283411672485,12.04654585139246],[76.41324436600013,12.06133062352701]]]},"properties":{"region_id":"village_618973","name":"KULYA","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

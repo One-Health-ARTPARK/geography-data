@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84973262245619,13.67493460831573],[77.85579079429478,13.67880174437194],[77.8486814821851,13.68212313118951],[77.84973262245619,13.67493460831573]]]},"properties":{"region_id":"village_623883","name":"POTLAVARIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

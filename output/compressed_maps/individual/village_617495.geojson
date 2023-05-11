@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90976756611443,12.836856026691],[74.89841173288801,12.85568186181933],[74.88734316782642,12.84446221001861],[74.90976756611443,12.836856026691]]]},"properties":{"region_id":"village_617495","name":"AMBLAMOGRU","parent":"subdistrict_7197","parent_name":"ULLALA"}}
+]}

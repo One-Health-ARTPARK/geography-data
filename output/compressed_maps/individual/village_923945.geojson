@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92121205142165,12.79146554947002],[75.91701035927329,12.79401665615242],[75.90731585388336,12.79286569695887],[75.90791137639862,12.7885793174096],[75.9183070867701,12.78745248593327],[75.92121205142165,12.79146554947002]]]},"properties":{"region_id":"village_923945","name":"CHIKKAKUNDA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

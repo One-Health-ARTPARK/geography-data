@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5730012672498,13.11206987561777],[76.55998269727274,13.1220385338359],[76.55496276615669,13.10243214180488],[76.5730012672498,13.11206987561777]]]},"properties":{"region_id":"village_612325","name":"MELNAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

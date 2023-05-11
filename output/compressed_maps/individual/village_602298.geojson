@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04151041345695,15.58582625985941],[75.03956443092439,15.59822534499876],[75.00547098285685,15.59323287434888],[75.01929590589764,15.57647269414417],[75.04151041345695,15.58582625985941]]]},"properties":{"region_id":"village_602298","name":"PUDAKALAKATTI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

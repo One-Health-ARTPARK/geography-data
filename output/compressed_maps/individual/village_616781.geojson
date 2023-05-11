@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14920495822221,12.57406118978167],[76.14327728993034,12.57664850688367],[76.1388407103264,12.56942972121424],[76.14604532256774,12.56728479070935],[76.14920495822221,12.57406118978167]]]},"properties":{"region_id":"village_616781","name":"KANTAPURA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

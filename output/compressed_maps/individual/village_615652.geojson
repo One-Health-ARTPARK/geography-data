@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34499926139874,13.431310461944],[76.3327680018699,13.43341384757843],[76.32735501018992,13.41365263804508],[76.33341187752636,13.404750108985],[76.34499926139874,13.431310461944]]]},"properties":{"region_id":"village_615652","name":"CHIKKALKUR","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

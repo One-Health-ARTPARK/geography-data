@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29093821510665,12.34664385680069],[76.2843265961435,12.33471632743252],[76.2965414644018,12.31669045301519],[76.30777623065393,12.32722339305998],[76.29093821510665,12.34664385680069]]]},"properties":{"region_id":"village_618404","name":"KIRIJAJI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

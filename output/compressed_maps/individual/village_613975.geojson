@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60349576504429,12.76430221580018],[76.60864819078472,12.74684080501756],[76.6212556785176,12.7615328430426],[76.60349576504429,12.76430221580018]]]},"properties":{"region_id":"village_613975","name":"TIRUGANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

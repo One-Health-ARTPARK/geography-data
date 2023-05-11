@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56487320068419,15.90475272220673],[75.54775574608867,15.90652463063856],[75.54134211175376,15.89194492925817],[75.59254424772524,15.8903422531856],[75.59378656488897,15.90152544907589],[75.56487320068419,15.90475272220673]]]},"properties":{"region_id":"village_598719","name":"TIMMAPUR S.N.","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

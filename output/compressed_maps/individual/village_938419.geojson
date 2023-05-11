@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65741321412561,12.85854809001167],[77.6419228255666,12.86358790729212],[77.64318081857742,12.85049604898307],[77.65741321412561,12.85854809001167]]]},"properties":{"region_id":"village_938419","name":"CHIKKATOGURU","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

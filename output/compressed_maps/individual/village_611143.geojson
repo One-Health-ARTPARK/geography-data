@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3752380702943,13.51433025726156],[77.362405406494,13.50923555203814],[77.3682442144935,13.48759130122319],[77.38444275188357,13.49833417544547],[77.3752380702943,13.51433025726156]]]},"properties":{"region_id":"village_611143","name":"AKKAJIHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

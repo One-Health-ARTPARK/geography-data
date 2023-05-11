@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58904438851603,13.08854656837871],[75.59072818024663,13.09578825055028],[75.58167655400729,13.09918928802941],[75.58230497242447,13.08860320881413],[75.58904438851603,13.08854656837871]]]},"properties":{"region_id":"village_609952","name":"HYRAGUDDE","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

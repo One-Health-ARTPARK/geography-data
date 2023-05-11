@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42785610687977,15.87393351638558],[74.41870594500523,15.88355767551724],[74.40325018897113,15.88265437907144],[74.41669211455981,15.86896057790946],[74.42785610687977,15.87393351638558]]]},"properties":{"region_id":"village_597720","name":"TURAMARI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

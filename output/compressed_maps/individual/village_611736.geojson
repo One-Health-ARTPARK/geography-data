@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97669887957053,13.25523253215821],[76.95138209029575,13.24781493130518],[76.96224288402452,13.24086827272795],[76.97669887957053,13.25523253215821]]]},"properties":{"region_id":"village_611736","name":"MUDDANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

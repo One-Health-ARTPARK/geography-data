@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3689407566602,15.03304246869996],[75.33580565038666,15.03632910102118],[75.33455863068427,15.01093456809417],[75.36265331771119,15.00974438539973],[75.3689407566602,15.03304246869996]]]},"properties":{"region_id":"village_603978","name":"CHILLUR BADNI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

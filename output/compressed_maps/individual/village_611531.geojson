@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07244705589625,13.17105921760172],[77.06430540412185,13.17752909527993],[77.05106620608804,13.15583925096734],[77.07076506035759,13.15902062519718],[77.07244705589625,13.17105921760172]]]},"properties":{"region_id":"village_611531","name":"KARANAKUPPE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

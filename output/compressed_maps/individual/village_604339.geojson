@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51991228754962,14.61772094831654],[75.50043036793114,14.62511762528021],[75.50341619322104,14.60020879086365],[75.51991228754962,14.61772094831654]]]},"properties":{"region_id":"village_604339","name":"BELAKERI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

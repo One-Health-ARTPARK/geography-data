@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92423707338892,13.2741331930534],[75.90123906856013,13.2792506990283],[75.904821205176,13.25787758010011],[75.92423707338892,13.2741331930534]]]},"properties":{"region_id":"village_609798","name":"PAYAGONDANAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7792584108255,17.79821499082754],[76.76420327934194,17.78683007067878],[76.78044252722462,17.78118491607263],[76.7792584108255,17.79821499082754]]]},"properties":{"region_id":"village_599789","name":"MANNALLI","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

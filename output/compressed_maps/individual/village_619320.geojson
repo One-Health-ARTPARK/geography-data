@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92410030260857,12.39743284857865],[76.91032020971387,12.40125674500118],[76.91070968991923,12.38402429842624],[76.92270315206288,12.38246188252015],[76.92410030260857,12.39743284857865]]]},"properties":{"region_id":"village_619320","name":"ANKANAHALLI","parent":"subdistrict_5575","parent_name":"TIRUMAKUDAL - NARSIPUR"}}
+]}

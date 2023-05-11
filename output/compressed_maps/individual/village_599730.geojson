@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95422496619099,17.97010114418964],[76.93238476736829,17.97661785333691],[76.92178610136511,17.95571571296112],[76.94577646928376,17.95354406390022],[76.95422496619099,17.97010114418964]]]},"properties":{"region_id":"village_599730","name":"GUTTI","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

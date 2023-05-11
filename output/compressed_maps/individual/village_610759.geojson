@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10056633013494,13.66436352819377],[77.0945307612227,13.65950892173368],[77.10464098151857,13.65091414613268],[77.1076308754871,13.6604679212329],[77.10056633013494,13.66436352819377]]]},"properties":{"region_id":"village_610759","name":"PEMMANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

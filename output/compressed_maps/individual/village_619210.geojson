@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7826624440304,12.12862836511434],[76.76016366830372,12.12854975809095],[76.75826519296203,12.11825635812308],[76.77525989464563,12.12132021953545],[76.7826624440304,12.12862836511434]]]},"properties":{"region_id":"village_619210","name":"GONAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

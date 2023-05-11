@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80799798683626,13.62674238798155],[77.78253883629144,13.6123107360395],[77.79150556516463,13.59485132704214],[77.81298993553159,13.59989716269842],[77.80799798683626,13.62674238798155]]]},"properties":{"region_id":"village_623456","name":"YALAGALAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

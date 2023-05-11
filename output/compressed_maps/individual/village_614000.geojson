@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75881593962131,12.75055471219776],[76.77055059062037,12.74653812555924],[76.77274586002092,12.75256901149262],[76.76270486206782,12.75745451566215],[76.75881593962131,12.75055471219776]]]},"properties":{"region_id":"village_614000","name":"BURUDUGUNTE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

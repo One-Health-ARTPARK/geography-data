@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71077399267257,13.93716619312231],[75.72024005932167,13.91744186164695],[75.73103741872214,13.92716599727427],[75.71077399267257,13.93716619312231]]]},"properties":{"region_id":"village_608576","name":"NAGATHIBELAGALU","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

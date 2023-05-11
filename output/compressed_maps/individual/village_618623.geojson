@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23610645505394,12.45846429172537],[76.22352805288722,12.46254896294868],[76.22106332908162,12.44344999973885],[76.2354248664511,12.44187947771524],[76.23610645505394,12.45846429172537]]]},"properties":{"region_id":"village_618623","name":"KOGILUR","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

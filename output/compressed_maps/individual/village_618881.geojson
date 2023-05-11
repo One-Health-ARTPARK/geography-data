@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38008469514075,12.09177284057827],[76.37294858386731,12.09679889797708],[76.36481632679742,12.08811052772698],[76.37259113307547,12.07945051669189],[76.38008469514075,12.09177284057827]]]},"properties":{"region_id":"village_618881","name":"MATAKERE","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

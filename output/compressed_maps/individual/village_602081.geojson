@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44729301564017,15.08468871296671],[75.41662894587182,15.08492901978069],[75.41702503094007,15.061448092813],[75.44894998318082,15.06036226023529],[75.45860183550106,15.07587188164052],[75.44729301564017,15.08468871296671]]]},"properties":{"region_id":"village_602081","name":"GOVANAL","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

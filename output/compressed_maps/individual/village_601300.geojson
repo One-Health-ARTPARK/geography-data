@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25934689046284,15.61398846703792],[76.23665598195015,15.60328069250215],[76.2475200845499,15.57846494028042],[76.2616135201051,15.599802942477],[76.25934689046284,15.61398846703792]]]},"properties":{"region_id":"village_601300","name":"BUKKANHATTI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

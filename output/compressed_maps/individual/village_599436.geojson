@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39649943248176,16.67293655091599],[76.38111091472784,16.67340352736214],[76.37938394509419,16.65974077071165],[76.40716589402541,16.65673992281773],[76.39649943248176,16.67293655091599]]]},"properties":{"region_id":"village_599436","name":"BUDIHAL(P.T)","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

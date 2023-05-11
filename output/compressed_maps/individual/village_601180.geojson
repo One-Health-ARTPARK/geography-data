@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82968355044666,15.78739606050337],[76.81742376980814,15.791588196188],[76.80088160618749,15.75258599649292],[76.81595540577261,15.74810615684271],[76.82968355044666,15.78739606050337]]]},"properties":{"region_id":"village_601180","name":"GOMARSI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84172914986934,15.78519470527019],[75.84231322624044,15.80555110499843],[75.83291410799931,15.79767652378735],[75.83098505530853,15.78626020957359],[75.84172914986934,15.78519470527019]]]},"properties":{"region_id":"village_601934","name":"CHICKALAGUNDI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

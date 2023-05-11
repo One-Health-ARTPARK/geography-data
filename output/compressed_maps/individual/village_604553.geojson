@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57743784706854,14.51777967282438],[75.56594072965439,14.52991669015245],[75.56390774402287,14.49874759075044],[75.576564309199,14.50705683659475],[75.57743784706854,14.51777967282438]]]},"properties":{"region_id":"village_604553","name":"HAROGOPPA","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

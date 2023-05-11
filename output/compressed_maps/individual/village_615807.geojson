@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33918227374896,13.16744865355525],[76.32662279908742,13.16854568950457],[76.32718839382012,13.16140684073319],[76.34096211705679,13.15968033247164],[76.33918227374896,13.16744865355525]]]},"properties":{"region_id":"village_615807","name":"GUNDAKALLAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

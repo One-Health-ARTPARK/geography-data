@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3619747295467,15.44369610215287],[76.34993374855596,15.42122787628072],[76.36019142642459,15.41123188870555],[76.37970863485702,15.4252695671355],[76.3619747295467,15.44369610215287]]]},"properties":{"region_id":"village_601833","name":"JABBALGUDDA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

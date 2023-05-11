@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31542719618123,14.81658448694659],[75.31033423187142,14.83005131115709],[75.29786210597378,14.81915428527428],[75.3100244208728,14.80590147447175],[75.31542719618123,14.81658448694659]]]},"properties":{"region_id":"village_604194","name":"BENCHIHALLI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

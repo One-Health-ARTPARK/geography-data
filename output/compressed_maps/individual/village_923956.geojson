@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92008532999031,12.60710188514154],[75.91923077492133,12.615043101083],[75.91308561274425,12.61401075599191],[75.91269680494634,12.60859999463667],[75.92008532999031,12.60710188514154]]]},"properties":{"region_id":"village_923956","name":"NAGAVALA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32463119267932,15.58147226534519],[75.26710159706685,15.57966484236987],[75.23074178556706,15.56012881206579],[75.32821135967406,15.54970564886362],[75.32463119267932,15.58147226534519]]]},"properties":{"region_id":"village_602334","name":"PADESUR","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

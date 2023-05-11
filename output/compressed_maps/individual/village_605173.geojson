@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74240330200202,14.86536985493412],[76.7335655121777,14.8799799330724],[76.69925462823284,14.88832310139599],[76.71845397983482,14.84964565601486],[76.74240330200202,14.86536985493412]]]},"properties":{"region_id":"village_605173","name":"VADERAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

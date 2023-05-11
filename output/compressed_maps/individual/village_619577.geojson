@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69404040215117,11.74573028295138],[76.6725250103094,11.73968354385321],[76.67821263772505,11.7267437072221],[76.69090428381462,11.72347291719509],[76.69404040215117,11.74573028295138]]]},"properties":{"region_id":"village_619577","name":"SHIVAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

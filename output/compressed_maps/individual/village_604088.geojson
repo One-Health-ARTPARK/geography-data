@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11354231209413,14.7990942063747],[75.10105717596555,14.7990006133628],[75.09952468359208,14.79027463553598],[75.1072089562628,14.7822595964534],[75.11354231209413,14.7990942063747]]]},"properties":{"region_id":"village_604088","name":"HULAGINAKOPPA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

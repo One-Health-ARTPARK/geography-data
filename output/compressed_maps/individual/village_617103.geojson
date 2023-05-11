@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32652432407204,12.85611663775359],[76.31607864482075,12.86126980314885],[76.3110412164592,12.8579322154984],[76.32387621499718,12.85141392989092],[76.32652432407204,12.85611663775359]]]},"properties":{"region_id":"village_617103","name":"KUMBENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

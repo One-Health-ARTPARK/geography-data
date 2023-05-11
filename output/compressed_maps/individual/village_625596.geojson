@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92721909239957,13.15555210294126],[77.9159216097178,13.16075280496499],[77.91150490436914,13.15159803108958],[77.92731002596709,13.14855096182195],[77.92721909239957,13.15555210294126]]]},"properties":{"region_id":"village_625596","name":"BEERAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

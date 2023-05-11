@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.08627043051959,13.30687710858887],[78.07198869379734,13.30651962690016],[78.07126217194359,13.30163072319073],[78.0867631319974,13.30206362666976],[78.08627043051959,13.30687710858887]]]},"properties":{"region_id":"village_624698","name":"KURUBURU AMANIKERE","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

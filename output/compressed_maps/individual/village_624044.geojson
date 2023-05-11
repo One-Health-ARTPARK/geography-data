@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89158507113547,13.5992707157931],[77.90492287809401,13.60028690462902],[77.89798445650547,13.61057651336485],[77.89158507113547,13.5992707157931]]]},"properties":{"region_id":"village_624044","name":"VENKATAKRISHNAMMANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

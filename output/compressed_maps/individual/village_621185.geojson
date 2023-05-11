@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90639560522635,16.48730875589668],[76.90624052906996,16.51129288679822],[76.87727750806648,16.52217057601795],[76.87967478160536,16.49217676476759],[76.90639560522635,16.48730875589668]]]},"properties":{"region_id":"village_621185","name":"MARKAL","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

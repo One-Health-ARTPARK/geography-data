@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21519677687098,18.24566171594248],[77.20257044379352,18.25258057308088],[77.20004790986772,18.2365181752871],[77.21021390211598,18.23347103011649],[77.21519677687098,18.24566171594248]]]},"properties":{"region_id":"village_600003","name":"RAMPUR","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

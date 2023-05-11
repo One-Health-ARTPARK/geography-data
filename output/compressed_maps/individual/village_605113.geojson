@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32410268036784,14.76206527191073],[76.32904528466183,14.73580594910342],[76.36339069300152,14.73263959500307],[76.36781209695215,14.79256352677544],[76.34560964834392,14.81492991551738],[76.32410268036784,14.76206527191073]]]},"properties":{"region_id":"village_605113","name":"HALAYYANAKOTE","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

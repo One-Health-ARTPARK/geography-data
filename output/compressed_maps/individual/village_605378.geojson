@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83336210378675,14.35899028791996],[76.81165117714905,14.36031497552301],[76.79212430787415,14.34793682212333],[76.78918775189075,14.32832506487806],[76.8198438334849,14.33781629134201],[76.83336210378675,14.35899028791996]]]},"properties":{"region_id":"village_605378","name":"HALIGONDANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

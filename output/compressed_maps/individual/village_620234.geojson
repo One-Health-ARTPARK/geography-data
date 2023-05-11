@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83322598565957,17.48311002001876],[76.81697841831948,17.43819394403512],[76.86130372286557,17.44779277896798],[76.83322598565957,17.48311002001876]]]},"properties":{"region_id":"village_620234","name":"KUMSI","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

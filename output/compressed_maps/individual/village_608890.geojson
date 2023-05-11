@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94488462121645,13.26967398226497],[74.92812587749367,13.28342755132481],[74.93014254354932,13.25818706344275],[74.94488462121645,13.26967398226497]]]},"properties":{"region_id":"village_608890","name":"BAILOOR","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

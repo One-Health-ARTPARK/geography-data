@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26481062100407,13.54088362704929],[77.25156336306114,13.52273762856233],[77.26745439028832,13.51919379663953],[77.26481062100407,13.54088362704929]]]},"properties":{"region_id":"village_611077","name":"HULIKUNTE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

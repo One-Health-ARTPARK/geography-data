@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2987126372023,17.00397354273358],[77.27780395908486,17.00263458474707],[77.27349073682038,16.98041491449502],[77.29692814361256,16.97962471423208],[77.2987126372023,17.00397354273358]]]},"properties":{"region_id":"village_620551","name":"DEVNOOR","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

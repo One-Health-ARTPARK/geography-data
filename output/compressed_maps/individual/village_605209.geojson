@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75825073336411,14.68171616657944],[76.75180332852733,14.70464186508038],[76.73510727704338,14.70209919238688],[76.73695984047124,14.67944759317458],[76.75825073336411,14.68171616657944]]]},"properties":{"region_id":"village_605209","name":"MARLAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58946768489544,14.95816713413427],[75.56523202112896,14.97140667750004],[75.56702680121874,14.94828413819535],[75.58946768489544,14.95816713413427]]]},"properties":{"region_id":"village_604247","name":"BAILMADAPURA","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59514148008712,12.56654532784634],[76.59093545936999,12.55551483555803],[76.59373230491728,12.54819759264054],[76.6063149821094,12.56273800517269],[76.59514148008712,12.56654532784634]]]},"properties":{"region_id":"village_614115","name":"MARASANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

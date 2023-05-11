@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1378734989846,13.46216726726052],[77.12000015375091,13.46760212345889],[77.10273956687969,13.4498208860954],[77.12591846331723,13.44167823527386],[77.1378734989846,13.46216726726052]]]},"properties":{"region_id":"village_611346","name":"CHIKKATHOTLAKERE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

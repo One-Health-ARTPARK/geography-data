@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32467973055547,13.16353198779125],[76.31489338726706,13.15052085292326],[76.33151577323665,13.14734622834699],[76.34096211705679,13.15968033247164],[76.32467973055547,13.16353198779125]]]},"properties":{"region_id":"village_615808","name":"HURAGALAVADI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

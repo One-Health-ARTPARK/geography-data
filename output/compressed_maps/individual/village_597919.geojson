@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.39905746093102,15.6119527300809],[74.380498301417,15.6200993039949],[74.36489842169915,15.59192302840352],[74.40249822145876,15.58488182270818],[74.39905746093102,15.6119527300809]]]},"properties":{"region_id":"village_597919","name":"KONGALE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

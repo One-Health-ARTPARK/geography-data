@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51973100038953,13.02843599984047],[77.49631000015758,13.02816599970704],[77.4997019999973,13.00896100036101],[77.51143999980023,13.01618200044516],[77.51973100038953,13.02843599984047]]]},"properties":{"region_id":"ward_bbmp41","name":"WARD NO.41(PEENYA INDUSTRIAL AREA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

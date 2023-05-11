@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24447532354446,15.14809793242404],[76.20376888970314,15.14379423431053],[76.20996465986266,15.11265423853306],[76.2477512102242,15.11360480024779],[76.24447532354446,15.14809793242404]]]},"properties":{"region_id":"village_604661","name":"ANKASAMUDRA","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

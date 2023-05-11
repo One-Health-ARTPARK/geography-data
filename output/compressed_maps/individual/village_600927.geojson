@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86560212365737,15.97925171267131],[76.86288613603931,16.00761652434115],[76.85104432497864,16.00871114769526],[76.84336328986652,15.97854028285048],[76.86560212365737,15.97925171267131]]]},"properties":{"region_id":"village_600927","name":"DONAMARADI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

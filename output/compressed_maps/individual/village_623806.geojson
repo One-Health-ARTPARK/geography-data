@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9353197495956,13.85582568777664],[77.93082166111299,13.86123627609115],[77.9213945558764,13.85829762307918],[77.92245618543076,13.8537756498635],[77.9353197495956,13.85582568777664]]]},"properties":{"region_id":"village_623806","name":"THATTANAGARIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

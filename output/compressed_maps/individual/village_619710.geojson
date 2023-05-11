@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84108856873618,11.84018874729198],[76.87032941309876,11.83346221614329],[76.8735593604448,11.84544543404101],[76.84355291586016,11.86108164147695],[76.84108856873618,11.84018874729198]]]},"properties":{"region_id":"village_619710","name":"UGANEDAHUNDI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

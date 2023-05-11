@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30493484316747,12.75809022914286],[77.27770698235676,12.7655146561184],[77.27583657629215,12.74810929516467],[77.2923634930115,12.73576431865473],[77.30493484316747,12.75809022914286]]]},"properties":{"region_id":"village_626078","name":"HALLIMALA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

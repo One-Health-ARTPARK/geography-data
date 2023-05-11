@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14882088532805,13.87224623625712],[76.14121247341888,13.88461483168785],[76.11432290817768,13.87376113502935],[76.11125385225647,13.86094515247524],[76.14882088532805,13.87224623625712]]]},"properties":{"region_id":"village_605706","name":"BIDARAKERE","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

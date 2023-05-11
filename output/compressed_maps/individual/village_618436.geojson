@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38721187145131,12.28304934385982],[76.40499025419868,12.29351157483208],[76.39193391676051,12.31175875529286],[76.38721187145131,12.28304934385982]]]},"properties":{"region_id":"village_618436","name":"HALEPURA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55426694545028,15.75301512781141],[76.55202720438005,15.76830364455031],[76.49118411268596,15.76181503357155],[76.5208211734456,15.73775269499745],[76.55426694545028,15.75301512781141]]]},"properties":{"region_id":"village_601073","name":"CHIKBHERGI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

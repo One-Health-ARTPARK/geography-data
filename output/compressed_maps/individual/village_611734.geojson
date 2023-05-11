@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79796067351054,13.42202877718275],[76.77442536716089,13.42594290550567],[76.76888394796359,13.40562083881185],[76.80362711226691,13.40669562385883],[76.79796067351054,13.42202877718275]]]},"properties":{"region_id":"village_611734","name":"HARADAGERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

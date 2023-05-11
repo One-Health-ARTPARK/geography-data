@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.3688269031692,15.78760646366327],[74.35650384513562,15.77262758741227],[74.39164076969686,15.76050724182162],[74.39667202967482,15.77560546981433],[74.38281959454248,15.77782568875069],[74.3688269031692,15.78760646366327]]]},"properties":{"region_id":"village_597735","name":"BADAS (INAM)","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

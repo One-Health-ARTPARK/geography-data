@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35166833411857,14.37489900610538],[75.3103452410695,14.37754435576291],[75.32186543120127,14.35754353673715],[75.34699112546988,14.35782819916661],[75.35166833411857,14.37489900610538]]]},"properties":{"region_id":"village_607735","name":"CHIKKAJAMBURU","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4824505510269,13.28313727841603],[77.46079580046931,13.2856864878255],[77.46067549387018,13.27307630437343],[77.47593344776648,13.26648279294995],[77.4824505510269,13.28313727841603]]]},"properties":{"region_id":"village_625201","name":"HUSKUR","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

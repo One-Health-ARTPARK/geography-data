@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3596978311714,12.9386729610165],[77.34183562169811,12.94086184402738],[77.34109049249462,12.92753582481063],[77.35832949720347,12.92487111181259],[77.3596978311714,12.9386729610165]]]},"properties":{"region_id":"village_612975","name":"MADAPATNA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

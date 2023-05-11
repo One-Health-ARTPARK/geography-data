@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06136945597517,12.96273037948512],[75.03356746825412,12.95551554927565],[75.04577702567181,12.94317892445827],[75.06136945597517,12.96273037948512]]]},"properties":{"region_id":"village_617534","name":"KOILA","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

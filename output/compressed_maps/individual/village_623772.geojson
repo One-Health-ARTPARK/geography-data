@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76446802239124,13.65410960301036],[77.75498532470311,13.64629328745843],[77.76166191521203,13.64200834307883],[77.76802413003115,13.64786983040732],[77.76446802239124,13.65410960301036]]]},"properties":{"region_id":"village_623772","name":"POLAMMANAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

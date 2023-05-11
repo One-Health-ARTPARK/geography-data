@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7977583928391,13.80042766853042],[77.7820872043726,13.79419176860189],[77.78619840654095,13.77917631964908],[77.80210489796761,13.76994554146676],[77.80694070268089,13.78431265992581],[77.7977583928391,13.80042766853042]]]},"properties":{"region_id":"village_623846","name":"BAGEPALLI (RURAL)","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

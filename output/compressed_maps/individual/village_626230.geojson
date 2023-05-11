@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1562908775064,12.61840321438111],[77.1508558916317,12.62113419728162],[77.13410454116827,12.61818383151255],[77.13637057197481,12.6125529046173],[77.14871040284936,12.61166484062393],[77.1562908775064,12.61840321438111]]]},"properties":{"region_id":"village_626230","name":"GOVINDANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72438363372602,13.58989533791723],[74.70553175654109,13.57116407004514],[74.72928070544259,13.56528202773566],[74.72438363372602,13.58989533791723]]]},"properties":{"region_id":"village_608729","name":"VAKWADI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

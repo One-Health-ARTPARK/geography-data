@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03948829216438,14.63700401086965],[75.05247911088145,14.64864757817946],[75.04092144971804,14.66060723826046],[75.02774381208636,14.65382013114397],[75.03948829216438,14.63700401086965]]]},"properties":{"region_id":"village_603281","name":"SANTOLLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55006162556941,12.08168937767827],[76.52935504024437,12.08198055523583],[76.54121844532096,12.06462021833726],[76.55006162556941,12.08168937767827]]]},"properties":{"region_id":"village_619130","name":"KURIHUNDI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

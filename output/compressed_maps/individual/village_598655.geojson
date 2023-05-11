@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4475659324451,16.15612523270558],[75.43507288963698,16.15620382318754],[75.41791451307344,16.1347942131461],[75.44968568024672,16.13289600231158],[75.4475659324451,16.15612523270558]]]},"properties":{"region_id":"village_598655","name":"HANAMANERI (G)","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

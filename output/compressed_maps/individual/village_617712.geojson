@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50645855066793,12.78209248476403],[75.48720953624142,12.79285177296835],[75.47075145598883,12.7712321493745],[75.48872963583766,12.76556552293723],[75.50645855066793,12.78209248476403]]]},"properties":{"region_id":"village_617712","name":"RENJILADY","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

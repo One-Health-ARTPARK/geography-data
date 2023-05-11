@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3038016041375,14.59207286839233],[76.29604406478458,14.60056293289587],[76.27074541578568,14.59337929174479],[76.27393024627311,14.58576038620072],[76.2908493527752,14.58563992603837],[76.3038016041375,14.59207286839233]]]},"properties":{"region_id":"village_606398","name":"SEETHARASANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

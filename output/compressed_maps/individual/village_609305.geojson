@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14358325251769,13.76102731821787],[76.13843186261059,13.77322387378877],[76.11427309804131,13.77152053821974],[76.12491951530794,13.75903237339752],[76.14358325251769,13.76102731821787]]]},"properties":{"region_id":"village_609305","name":"HEGGADEHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

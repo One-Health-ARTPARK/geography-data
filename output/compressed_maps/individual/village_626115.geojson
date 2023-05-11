@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37048440275942,12.82721171850794],[77.35267443795988,12.82786765969405],[77.36968849718234,12.79587075864414],[77.37594679651427,12.80848471674204],[77.37048440275942,12.82721171850794]]]},"properties":{"region_id":"village_626115","name":"MUDDAPURA KARENAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

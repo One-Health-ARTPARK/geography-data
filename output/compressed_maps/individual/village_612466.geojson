@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92609968689325,13.00727520005995],[76.90994733570682,13.01190420346487],[76.9078812152867,12.99132612774836],[76.92398677924942,12.99364201296614],[76.92609968689325,13.00727520005995]]]},"properties":{"region_id":"village_612466","name":"BYALADAKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

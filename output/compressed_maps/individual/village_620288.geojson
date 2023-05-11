@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6552623941746,17.29103938059632],[76.63489431523112,17.29873448508287],[76.63896684047278,17.2790972313189],[76.6552623941746,17.29103938059632]]]},"properties":{"region_id":"village_620288","name":"KADNAL","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

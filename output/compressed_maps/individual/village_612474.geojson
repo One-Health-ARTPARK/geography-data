@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90688187563508,13.00114599481395],[76.90248625251468,12.99935043720849],[76.90379797828827,12.99495031831554],[76.9078812152867,12.99132612774836],[76.90688187563508,13.00114599481395]]]},"properties":{"region_id":"village_612474","name":"VADDARAKATTE KAVAL","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

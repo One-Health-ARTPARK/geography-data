@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76046324074537,11.8255418331362],[76.74706636492827,11.82625875053253],[76.74758058169819,11.8079223148252],[76.76308949978191,11.80547464346949],[76.76046324074537,11.8255418331362]]]},"properties":{"region_id":"village_619530","name":"KAGGALA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

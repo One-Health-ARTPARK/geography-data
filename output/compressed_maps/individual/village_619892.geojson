@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44625227690295,12.04484136235589],[77.41207004991377,12.04977218725029],[77.4249797891866,12.02186639214589],[77.44625227690295,12.04484136235589]]]},"properties":{"region_id":"village_619892","name":"DODDALATHUR","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

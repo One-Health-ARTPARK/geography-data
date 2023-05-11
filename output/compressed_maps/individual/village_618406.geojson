@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34545356251802,12.34541914887035],[76.3184102875452,12.34119770818254],[76.32467599699977,12.3236611810043],[76.34545356251802,12.34541914887035]]]},"properties":{"region_id":"village_618406","name":"RAMAPATNA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

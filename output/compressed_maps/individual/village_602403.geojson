@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08025922143602,15.32591568637035],[75.06577642820531,15.33015639567869],[75.06805532483578,15.30946246506042],[75.08450309567709,15.31185193722623],[75.08025922143602,15.32591568637035]]]},"properties":{"region_id":"village_602403","name":"PARASAPUR","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

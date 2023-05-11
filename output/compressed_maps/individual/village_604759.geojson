@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69476876563144,15.34223720580678],[76.67508022310284,15.34352988433089],[76.67365370915098,15.32072899192494],[76.6989618941551,15.32076185442928],[76.69476876563144,15.34223720580678]]]},"properties":{"region_id":"village_604759","name":"HAMPADEVANAHALLI","parent":"subdistrict_7107","parent_name":"KAMPLI"}}
+]}

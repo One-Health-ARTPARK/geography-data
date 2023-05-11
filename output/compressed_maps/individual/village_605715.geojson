@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17819774868464,14.13509320767513],[76.19934815879967,14.13377621077051],[76.19716639577227,14.16253099583134],[76.17957688268794,14.15980356749588],[76.17819774868464,14.13509320767513]]]},"properties":{"region_id":"village_605715","name":"SADARAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

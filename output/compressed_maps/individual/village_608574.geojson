@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84221389749513,13.94815364171728],[75.81676228353057,13.94287382862774],[75.83960144139107,13.92910946592257],[75.84221389749513,13.94815364171728]]]},"properties":{"region_id":"village_608574","name":"KALLAPURA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

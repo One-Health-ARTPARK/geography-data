@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42161414581714,12.67770355111235],[75.40088866046307,12.66968988128858],[75.42630278789429,12.66203631380936],[75.42161414581714,12.67770355111235]]]},"properties":{"region_id":"village_617758","name":"MUPPERIA","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

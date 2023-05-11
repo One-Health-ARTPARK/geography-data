@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16660753623096,15.86537957004189],[76.18430496447687,15.86611772409799],[76.19118145164232,15.89666214014141],[76.16498842561595,15.88138851970855],[76.16660753623096,15.86537957004189]]]},"properties":{"region_id":"village_601442","name":"KADEKOPPA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

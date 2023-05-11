@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41383139029642,15.7841924560979],[75.42487309892962,15.84234964769598],[75.38397363705188,15.83899500526542],[75.3691754937949,15.80322360556647],[75.39884946298987,15.79936125339148],[75.41383139029642,15.7841924560979]]]},"properties":{"region_id":"village_601864","name":"HIREKOPPPA","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

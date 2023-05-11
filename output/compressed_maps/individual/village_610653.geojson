@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22415085944341,14.03607517703679],[77.17855865150271,14.0409988474987],[77.1728944572863,14.01272065913124],[77.21567134888089,14.00990058933133],[77.22415085944341,14.03607517703679]]]},"properties":{"region_id":"village_610653","name":"KANNAMEDI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

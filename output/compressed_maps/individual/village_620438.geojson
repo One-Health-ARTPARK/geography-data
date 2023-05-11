@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34834845568918,17.43150350565605],[77.31474196504875,17.42069116745596],[77.34114054124638,17.37472472369252],[77.38556429979961,17.4039339746984],[77.34834845568918,17.43150350565605]]]},"properties":{"region_id":"village_620438","name":"SULEPETH","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

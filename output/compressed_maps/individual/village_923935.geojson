@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9150363931476,12.64568982519122],[75.91288773625048,12.63994458554415],[75.92273919826977,12.63809419544444],[75.92181129763678,12.6432105530248],[75.9150363931476,12.64568982519122]]]},"properties":{"region_id":"village_923935","name":"KANATHEBASAVANAHALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

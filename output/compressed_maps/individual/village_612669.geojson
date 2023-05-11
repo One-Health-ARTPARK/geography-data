@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90505016728727,12.85287586264212],[76.89348211171962,12.87550317889043],[76.89130097896386,12.85001793352926],[76.90505016728727,12.85287586264212]]]},"properties":{"region_id":"village_612669","name":"CHIKKAJJANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

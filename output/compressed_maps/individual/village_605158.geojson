@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80722327993598,14.89649088826848],[76.80549279225443,14.91689716305646],[76.78725656118039,14.91550025461056],[76.79510320380359,14.89527877961901],[76.80722327993598,14.89649088826848]]]},"properties":{"region_id":"village_605158","name":"BOMMAKKANAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

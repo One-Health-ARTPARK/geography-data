@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63217924057354,14.38533523648072],[75.59499077277565,14.3809852492664],[75.60365272586321,14.36437770640508],[75.62420394286445,14.36041245949759],[75.63217924057354,14.38533523648072]]]},"properties":{"region_id":"village_604454","name":"CHATNALLI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

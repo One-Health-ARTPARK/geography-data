@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83918691587522,15.92931667091905],[75.82815985158277,15.96504050437851],[75.80916190909507,15.95785845669718],[75.81098710962944,15.92496081357367],[75.83918691587522,15.92931667091905]]]},"properties":{"region_id":"village_598695","name":"KATAPUR","parent":"subdistrict_7061","parent_name":"GULEDGUDDA"}}
+]}

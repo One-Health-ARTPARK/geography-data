@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11025267483147,13.39395377190845],[77.1003121162808,13.39490788901709],[77.09935707604481,13.3833539492002],[77.11071409528327,13.38258279795394],[77.11025267483147,13.39395377190845]]]},"properties":{"region_id":"village_611435","name":"THIMMALAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

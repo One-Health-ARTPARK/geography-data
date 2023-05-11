@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53799532955325,15.9947529694693],[75.5055671064183,15.9938197724018],[75.50366640073193,15.96987547022031],[75.52451249533894,15.96298335120526],[75.53799532955325,15.9947529694693]]]},"properties":{"region_id":"village_598699","name":"HALAGERI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

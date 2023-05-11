@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9638738305392,13.01703207754962],[76.94731096025966,13.01783519773548],[76.94642756963283,13.00129398356228],[76.96916350835018,12.99722524539796],[76.9638738305392,13.01703207754962]]]},"properties":{"region_id":"village_612464","name":"NADEMAVINAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29550489570747,17.57590368051888],[77.28297788818685,17.53763466625082],[77.25390406450778,17.53502046510247],[77.2717638464033,17.50261607727014],[77.32141120358891,17.50733474955433],[77.29550489570747,17.57590368051888]]]},"properties":{"region_id":"village_620347","name":"CHIMMANCHOD","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

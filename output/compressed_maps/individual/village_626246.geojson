@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21875364930432,12.67852276045122],[77.22710335836805,12.70242554662514],[77.21585192138193,12.69995239091028],[77.21875364930432,12.67852276045122]]]},"properties":{"region_id":"village_626246","name":"CHOLAMARANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

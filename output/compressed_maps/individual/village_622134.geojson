@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93337686792829,13.05595675714287],[77.921135866995,13.04495591889148],[77.93260016816915,13.03967682195678],[77.93337686792829,13.05595675714287]]]},"properties":{"region_id":"village_622134","name":"BELLAVI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

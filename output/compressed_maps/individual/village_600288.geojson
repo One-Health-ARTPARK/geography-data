@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23443462034153,17.80186439860427],[77.21506842874004,17.8070729880707],[77.20922210241338,17.7862881561021],[77.22168823763802,17.77843033972707],[77.23443462034153,17.80186439860427]]]},"properties":{"region_id":"village_600288","name":"MADARGAON","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

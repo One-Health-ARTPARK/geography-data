@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29643836038582,13.00120104943055],[76.28421083708122,12.9976391807016],[76.28914561782032,12.97865933333156],[76.3040576402197,12.9822987204002],[76.29643836038582,13.00120104943055]]]},"properties":{"region_id":"village_617050","name":"DUTANURUKAVALU","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

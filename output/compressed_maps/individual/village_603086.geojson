@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0200886405642,14.77463022107584],[75.03404787341722,14.768955428237],[75.03552347440399,14.75259191055094],[75.04278328577252,14.75166740830594],[75.0405279281564,14.77368829540737],[75.0200886405642,14.77463022107584]]]},"properties":{"region_id":"village_603086","name":"GOTAGUDI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

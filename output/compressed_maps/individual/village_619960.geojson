@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63351713124193,17.72850922021353],[76.62798517471296,17.75091260209287],[76.60338238199854,17.74603119821914],[76.60068863284762,17.72686029058579],[76.63351713124193,17.72850922021353]]]},"properties":{"region_id":"village_619960","name":"ANNUR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

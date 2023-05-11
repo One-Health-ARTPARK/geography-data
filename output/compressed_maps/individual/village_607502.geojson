@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97439106992519,14.52437086696365],[74.97647106638851,14.55003776184204],[74.95645841756559,14.55125460796883],[74.97439106992519,14.52437086696365]]]},"properties":{"region_id":"village_607502","name":"EDURU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

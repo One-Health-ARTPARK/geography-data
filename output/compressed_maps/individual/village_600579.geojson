@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77600348069248,16.25021239466761],[76.75845881917313,16.22784263370589],[76.78677609342323,16.22184029555712],[76.77600348069248,16.25021239466761]]]},"properties":{"region_id":"village_600579","name":"PALKANMARDI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

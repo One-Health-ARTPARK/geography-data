@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11105952602702,14.6335482314383],[76.0999327968175,14.63486129728649],[76.09256309420242,14.61287305687416],[76.11404870250851,14.61358740310042],[76.11105952602702,14.6335482314383]]]},"properties":{"region_id":"village_606357","name":"BUDIHAL","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

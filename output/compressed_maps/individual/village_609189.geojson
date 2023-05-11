@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88368446261893,13.74912790175027],[75.86842399208014,13.74975138155828],[75.85706190470061,13.73377138779597],[75.87759150603938,13.72579398619396],[75.88368446261893,13.74912790175027]]]},"properties":{"region_id":"village_609189","name":"NERLEKERE","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88864730497222,16.0509605035904],[75.89448223791175,16.06427476778202],[75.85200228159943,16.06408863964248],[75.87265573245891,16.04241725847943],[75.88864730497222,16.0509605035904]]]},"properties":{"region_id":"village_598881","name":"MULLUR","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

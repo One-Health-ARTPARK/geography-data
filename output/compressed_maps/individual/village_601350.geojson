@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9802380259071,15.47749903537475],[75.95938124026331,15.48824966593396],[75.95748667878463,15.46655424280506],[75.9802380259071,15.47749903537475]]]},"properties":{"region_id":"village_601350","name":"T.VIRAPAPUR","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

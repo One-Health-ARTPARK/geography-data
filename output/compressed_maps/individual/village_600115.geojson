@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46668729208837,18.03779894275283],[77.46740392498226,18.05991878005338],[77.44388639705322,18.05396324704196],[77.46668729208837,18.03779894275283]]]},"properties":{"region_id":"village_600115","name":"KOUTHA(K)","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

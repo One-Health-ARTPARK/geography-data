@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38568578227594,12.54563004840068],[77.36552009770288,12.54859935137666],[77.36049712720981,12.53410054344964],[77.37556703214749,12.53224040822372],[77.38568578227594,12.54563004840068]]]},"properties":{"region_id":"village_626472","name":"RAMANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

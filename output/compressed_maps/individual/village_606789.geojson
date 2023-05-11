@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71139261443273,14.2196517319667],[75.74587138317331,14.24368123207344],[75.6975039927751,14.23509715634447],[75.71139261443273,14.2196517319667]]]},"properties":{"region_id":"village_606789","name":"KAMMARAGATTE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

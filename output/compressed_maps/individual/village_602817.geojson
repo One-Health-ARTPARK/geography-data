@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80030653517235,15.26733449534366],[74.78375473919944,15.25987216407187],[74.80760200949784,15.23534347625198],[74.81570682852929,15.24959764973324],[74.80030653517235,15.26733449534366]]]},"properties":{"region_id":"village_602817","name":"KALGINKOP","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66945924316082,12.70946829217095],[77.6541231546559,12.71264678759772],[77.65419325495623,12.70093115855478],[77.66945924316082,12.70946829217095]]]},"properties":{"region_id":"village_613306","name":"CHIKKA HOSAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

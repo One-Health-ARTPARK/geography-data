@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98802230241931,13.43021004472184],[77.9708314175676,13.43348995494361],[77.96715138955659,13.41388179193893],[77.97910459141802,13.41529370725886],[77.98802230241931,13.43021004472184]]]},"properties":{"region_id":"village_624557","name":"KATHRIGUPPE","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

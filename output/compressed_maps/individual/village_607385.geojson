@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10276778285557,14.62627337274321],[75.10290267821394,14.63834134498077],[75.09480061938342,14.63205642042381],[75.10276778285557,14.62627337274321]]]},"properties":{"region_id":"village_607385","name":"DEVARAHOSAKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

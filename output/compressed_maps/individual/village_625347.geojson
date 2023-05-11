@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78523071178839,13.30752785163271],[77.77505585144893,13.3099629521055],[77.76858136254043,13.29175597674773],[77.77731042374454,13.29196561150904],[77.78523071178839,13.30752785163271]]]},"properties":{"region_id":"village_625347","name":"KONDENAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

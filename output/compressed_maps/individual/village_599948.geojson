@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33797020433863,18.03055537815022],[77.32638773953157,18.00787860083413],[77.3492859456655,18.00509356183172],[77.33797020433863,18.03055537815022]]]},"properties":{"region_id":"village_599948","name":"TEGAMPUR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

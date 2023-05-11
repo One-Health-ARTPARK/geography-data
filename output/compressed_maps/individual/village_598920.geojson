@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07021041013897,16.17856744367171],[76.05344920349062,16.18628246356036],[76.05000067534246,16.13380575463658],[76.07288914252852,16.13823502587423],[76.07021041013897,16.17856744367171]]]},"properties":{"region_id":"village_598920","name":"IDDALGI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

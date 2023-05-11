@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.34289479050297,14.77618380617703],[74.33278657642471,14.80818630387375],[74.29336420292167,14.79363320418228],[74.31348898842798,14.74926669158734],[74.34289479050297,14.77618380617703]]]},"properties":{"region_id":"village_603336","name":"GULE","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

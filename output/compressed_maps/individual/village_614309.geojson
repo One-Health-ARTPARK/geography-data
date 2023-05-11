@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74309299673853,12.31783948326442],[76.74416849384582,12.30968664830807],[76.7572936012006,12.30402661517089],[76.76392736395601,12.31232451691245],[76.74309299673853,12.31783948326442]]]},"properties":{"region_id":"village_614309","name":"BONTHAGAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

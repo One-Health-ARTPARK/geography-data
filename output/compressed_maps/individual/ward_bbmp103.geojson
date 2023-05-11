@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52868299990672,12.98389699956333],[77.52036600001121,12.98696599989632],[77.51918200021424,12.97491800014828],[77.52859000020894,12.97352500011312],[77.52868299990672,12.98389699956333]]]},"properties":{"region_id":"ward_bbmp103","name":"WARD NO.103 (KAVERIPURA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

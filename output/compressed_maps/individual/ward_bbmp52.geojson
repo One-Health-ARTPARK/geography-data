@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71124600020724,13.02583799962511],[77.69431899994738,13.02665599972391],[77.6850119998253,13.0050900003421],[77.71072600005488,13.01430999981256],[77.71124600020724,13.02583799962511]]]},"properties":{"region_id":"ward_bbmp52","name":"WARD NO.52 (KR PURAM)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

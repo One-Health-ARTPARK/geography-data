@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39088006014468,14.67321583030977],[75.37588652341947,14.66480832816938],[75.3850515913879,14.651818570336],[75.39327075168693,14.65885596526221],[75.39088006014468,14.67321583030977]]]},"properties":{"region_id":"village_604295","name":"NAGALAPUR","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

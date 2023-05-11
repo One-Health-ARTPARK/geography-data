@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62621999979942,13.01304200003397],[77.63930999975919,13.01396400004038],[77.63996700021674,13.02564999986748],[77.63270000012008,13.02767899979516],[77.62621999979942,13.01304200003397]]]},"properties":{"region_id":"ward_bbmp29","name":"WARD NO. 29 (KACHARKANAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51702642845,17.20843171824753],[76.50008383356464,17.17056449845894],[76.54353408726583,17.17614936725785],[76.55782565140785,17.21690855156758],[76.51702642845,17.20843171824753]]]},"properties":{"region_id":"village_620162","name":"D.GHANGAPUR","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

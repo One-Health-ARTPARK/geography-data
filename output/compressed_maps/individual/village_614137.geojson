@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5501069484385,12.4933300655298],[76.54360950566402,12.4980961596496],[76.5420477943925,12.49550030562965],[76.54608928958307,12.49213473201929],[76.5501069484385,12.4933300655298]]]},"properties":{"region_id":"village_614137","name":"BINDAHALLIKAVAL","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

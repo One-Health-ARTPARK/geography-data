@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73024410880804,12.85623373240324],[77.72060812306388,12.85916011625553],[77.71936018786303,12.85073873627633],[77.72770027163513,12.8502421958314],[77.73024410880804,12.85623373240324]]]},"properties":{"region_id":"village_613196","name":"KAGGALIPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

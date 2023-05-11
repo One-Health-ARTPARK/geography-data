@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32742739236383,13.34595423643443],[77.31306982048793,13.34776286351179],[77.31244393270602,13.33994113225717],[77.32742739236383,13.34595423643443]]]},"properties":{"region_id":"village_611237","name":"MAYAGONDANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

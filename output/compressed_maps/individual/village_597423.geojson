@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00703865461469,16.30238139089363],[74.9838697825001,16.30232677367994],[74.99305984029336,16.28463009909562],[75.00703865461469,16.30238139089363]]]},"properties":{"region_id":"village_597423","name":"KAMALADINNI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6056449308137,15.60893795494589],[74.58734760924534,15.61060398014995],[74.58991107151851,15.58907502420986],[74.60302496347002,15.59392078182094],[74.6056449308137,15.60893795494589]]]},"properties":{"region_id":"village_597901","name":"KHAIRWAD","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

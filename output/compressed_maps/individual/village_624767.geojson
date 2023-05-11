@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25404606370701,13.16808091335981],[77.23882549480452,13.17762110320345],[77.2289038887025,13.16089523648104],[77.24650473845568,13.15864524928782],[77.25404606370701,13.16808091335981]]]},"properties":{"region_id":"village_624767","name":"KAMBAL","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

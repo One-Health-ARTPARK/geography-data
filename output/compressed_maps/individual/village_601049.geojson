@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97770592565365,15.98139057701071],[76.94188086600214,15.97540752825624],[76.91352484327642,15.97697375932038],[76.91473132643235,15.96222036854791],[76.98302530910226,15.96694388101679],[76.97770592565365,15.98139057701071]]]},"properties":{"region_id":"village_601049","name":"BHOGAWATI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.54283821895471,14.23248463147329],[74.53670537922028,14.21049361812494],[74.55374151257578,14.21354015325876],[74.54283821895471,14.23248463147329]]]},"properties":{"region_id":"village_603762","name":"HINNUR","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47549743227255,16.41635083213174],[75.4479713286714,16.41506259598419],[75.43294853852375,16.43197888637691],[75.408169275039,16.42941921173983],[75.40843934337755,16.40586453416368],[75.47549743227255,16.41635083213174]]]},"properties":{"region_id":"village_598474","name":"GALAGALI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

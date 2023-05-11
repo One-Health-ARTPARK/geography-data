@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85275952718675,15.72279637635338],[74.84782254589213,15.74950224241911],[74.82869820573133,15.7324646531135],[74.84112242541326,15.71422933271761],[74.85275952718675,15.72279637635338]]]},"properties":{"region_id":"village_598133","name":"SANGOLLI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

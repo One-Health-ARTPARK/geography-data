@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9264254634834,16.39883858245269],[75.91386443990218,16.39903986122347],[75.90981129058493,16.36772168032302],[75.92085633087852,16.37152070020518],[75.9264254634834,16.39883858245269]]]},"properties":{"region_id":"village_599493","name":"GONAL R.C.","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

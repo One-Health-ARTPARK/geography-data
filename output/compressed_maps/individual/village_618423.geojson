@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27387916358056,12.27581119643318],[76.26717829064191,12.26732597438281],[76.27715556631809,12.26500362757977],[76.28289694554047,12.27188078794427],[76.27387916358056,12.27581119643318]]]},"properties":{"region_id":"village_618423","name":"HANCHYA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99489532794914,17.00291021627671],[76.95058993739748,17.02276900648001],[76.95030158026447,16.99859753047131],[76.99489532794914,17.00291021627671]]]},"properties":{"region_id":"village_620663","name":"BALWADGI","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

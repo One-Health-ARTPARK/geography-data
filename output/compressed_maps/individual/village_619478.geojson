@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73315672313949,11.88620908831285],[76.72006744813861,11.87782807057746],[76.71292278039442,11.86060971858046],[76.73060762655246,11.86113547098939],[76.73315672313949,11.88620908831285]]]},"properties":{"region_id":"village_619478","name":"KALLAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

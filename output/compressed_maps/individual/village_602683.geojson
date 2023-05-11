@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52641318856001,15.33870248213202],[74.50461084774689,15.33919337391723],[74.50392087825979,15.31721121835904],[74.52466940396775,15.32353872731368],[74.52641318856001,15.33870248213202]]]},"properties":{"region_id":"village_602683","name":"JAGALBET","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

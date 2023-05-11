@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67331824888221,12.76238290102864],[76.66987262346993,12.76971847538267],[76.65312768334306,12.76532322201638],[76.65984397570448,12.75935403688229],[76.67331824888221,12.76238290102864]]]},"properties":{"region_id":"village_613983","name":"AYITANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

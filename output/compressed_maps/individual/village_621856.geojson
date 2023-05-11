@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.02891695120695,13.15457746020935],[78.01100021306902,13.1652855927951],[78.00078209064361,13.15797993712302],[78.00749257865903,13.14965606510917],[78.0176204582131,13.15665372539573],[78.02891695120695,13.15457746020935]]]},"properties":{"region_id":"village_621856","name":"CHOWDADENAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

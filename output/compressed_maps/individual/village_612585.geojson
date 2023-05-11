@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01825763034324,13.0241554276654],[77.02704497719775,13.03207978325139],[77.01676112715958,13.03452526329214],[77.01825763034324,13.0241554276654]]]},"properties":{"region_id":"village_612585","name":"KUNIGAL BAGAYATH","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

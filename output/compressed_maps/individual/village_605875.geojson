@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26255411872638,13.76611554962276],[76.27999643322701,13.77028992263441],[76.27332855978727,13.78034930627852],[76.25895753884588,13.77084947794625],[76.26255411872638,13.76611554962276]]]},"properties":{"region_id":"village_605875","name":"CHANNASAMUDRA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

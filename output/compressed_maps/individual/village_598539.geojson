@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59171310998843,16.27157122495095],[75.57108888655898,16.25062429357084],[75.59317823607124,16.23074661151947],[75.59171310998843,16.27157122495095]]]},"properties":{"region_id":"village_598539","name":"KOVALLI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

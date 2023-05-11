@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01457152207732,14.57879903830711],[75.0027775677211,14.58558580003902],[74.99725261416057,14.56974666426229],[75.01377425201684,14.56521659628056],[75.01457152207732,14.57879903830711]]]},"properties":{"region_id":"village_603301","name":"HADALAGI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51355776289103,15.79848021103726],[76.51898818929736,15.82485138203207],[76.5015507756261,15.83108010248634],[76.49256509404253,15.79868679900479],[76.51355776289103,15.79848021103726]]]},"properties":{"region_id":"village_601060","name":"GUNDA","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

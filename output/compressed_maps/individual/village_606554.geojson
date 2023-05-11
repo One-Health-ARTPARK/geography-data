@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92513924429859,14.5195575484474],[75.90780289806115,14.52116832036319],[75.90640011650977,14.50582313518398],[75.92230690087987,14.50543483487084],[75.92513924429859,14.5195575484474]]]},"properties":{"region_id":"village_606554","name":"DEVARAHATTI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

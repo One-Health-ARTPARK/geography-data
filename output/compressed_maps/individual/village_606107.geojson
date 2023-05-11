@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.888129735649,14.08083097264075],[76.87794796989172,14.06919431432087],[76.88680322232659,14.04642955733796],[76.89881362833117,14.05737129037537],[76.88540051643022,14.0678242502354],[76.888129735649,14.08083097264075]]]},"properties":{"region_id":"village_606107","name":"PARASURAMADEVARAKOTE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

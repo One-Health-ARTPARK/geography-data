@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62175199976922,12.91271700003851],[77.60189499964045,12.90526999994496],[77.598077999773,12.89055699974846],[77.60917500034665,12.88822899970951],[77.61973299996657,12.89824399961477],[77.62175199976922,12.91271700003851]]]},"properties":{"region_id":"ward_bbmp188","name":"WARD NO.188 (BILEKHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

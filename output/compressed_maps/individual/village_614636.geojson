@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01373511445503,12.46716407052394],[77.00174242989924,12.47518726920799],[76.9899849982838,12.46396941387],[77.00991760801048,12.46382884857282],[77.01373511445503,12.46716407052394]]]},"properties":{"region_id":"village_614636","name":"ARECHAKANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33846891822556,14.54276408429665],[75.34265560421375,14.51887878968743],[75.37018201276643,14.5262879660323],[75.33846891822556,14.54276408429665]]]},"properties":{"region_id":"village_604371","name":"BETAKERUR","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

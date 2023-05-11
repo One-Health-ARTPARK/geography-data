@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49803669760722,12.88581748477077],[77.49743001580904,12.8939704523305],[77.4815604751406,12.89141356302187],[77.48768175299239,12.87895047647739],[77.49803669760722,12.88581748477077]]]},"properties":{"region_id":"village_938445","name":"HAMMIGEPURA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

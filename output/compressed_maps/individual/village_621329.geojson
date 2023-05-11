@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.284893752983,16.65175902197208],[77.25821114449649,16.65233069842895],[77.2446147980288,16.6193154839802],[77.28384838252522,16.63041883910399],[77.284893752983,16.65175902197208]]]},"properties":{"region_id":"village_621329","name":"KILENKERA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

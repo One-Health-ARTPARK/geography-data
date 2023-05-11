@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94215217421784,18.15664506205695],[76.91795321272252,18.12411366886639],[76.9543115150442,18.11046182638647],[76.97733047464044,18.13323747565006],[76.94215217421784,18.15664506205695]]]},"properties":{"region_id":"village_599836","name":"TUGAONHALSI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

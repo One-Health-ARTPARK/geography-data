@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21986386931874,12.6503337738999],[77.21457117117767,12.65619320968002],[77.20548199535747,12.65379212244597],[77.20839240712883,12.64909394232327],[77.21986386931874,12.6503337738999]]]},"properties":{"region_id":"village_626257","name":"KOTHANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

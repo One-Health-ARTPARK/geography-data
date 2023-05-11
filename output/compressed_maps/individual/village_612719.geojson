@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9939963077085,12.83580962026112],[76.97933954438132,12.83303792638597],[76.97844789366712,12.8094970026288],[76.99076229018343,12.81865240838761],[76.9939963077085,12.83580962026112]]]},"properties":{"region_id":"village_612719","name":"PURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

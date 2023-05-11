@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36132462408864,15.0682628412897],[76.34584408762173,15.08050825477129],[76.34061425702198,15.0605906873497],[76.36132462408864,15.0682628412897]]]},"properties":{"region_id":"village_604713","name":"CHILAKANAHATTI","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

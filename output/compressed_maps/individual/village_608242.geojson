@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25344150303953,13.64250829478727],[75.22765340912845,13.62950476374445],[75.25747642549813,13.61993967132206],[75.25344150303953,13.64250829478727]]]},"properties":{"region_id":"village_608242","name":"HAROGOLIGE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

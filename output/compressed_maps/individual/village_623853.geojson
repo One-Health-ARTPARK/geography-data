@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79705546798378,13.75046438475389],[77.76421571658777,13.74900125218238],[77.78566327231584,13.71552067854398],[77.79705546798378,13.75046438475389]]]},"properties":{"region_id":"village_623853","name":"PARAGODU","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

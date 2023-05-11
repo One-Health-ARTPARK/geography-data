@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50397025288628,12.00107452356361],[76.4987909485872,11.98414079916585],[76.5171824228918,11.98437213777468],[76.51862383874239,11.991413243945],[76.50397025288628,12.00107452356361]]]},"properties":{"region_id":"village_619162","name":"ARIYUR","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

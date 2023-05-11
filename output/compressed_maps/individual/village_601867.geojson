@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2933215508727,15.72829833641277],[75.2752347068014,15.74067451515968],[75.27863298509345,15.68983720863796],[75.29502649618368,15.69176795633103],[75.2933215508727,15.72829833641277]]]},"properties":{"region_id":"village_601867","name":"KANAKIKOP","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

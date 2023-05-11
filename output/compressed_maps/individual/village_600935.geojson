@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81066733364311,16.20233206968082],[76.80420644168107,16.20842892334093],[76.78988213233696,16.18202728565423],[76.80629212215302,16.18367240545536],[76.81066733364311,16.20233206968082]]]},"properties":{"region_id":"village_600935","name":"BUDDINNI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

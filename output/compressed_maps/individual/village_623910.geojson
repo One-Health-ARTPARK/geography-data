@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96409054342169,13.6555640165147],[77.95518964841051,13.6653165912451],[77.95215564193722,13.65041011655554],[77.96409054342169,13.6555640165147]]]},"properties":{"region_id":"village_623910","name":"PACHARLAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

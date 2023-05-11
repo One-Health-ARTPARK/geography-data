@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66842440495617,13.17755226530499],[76.65898400925607,13.17796255535818],[76.66092485699721,13.16978446102852],[76.66949345666818,13.16951037778583],[76.66842440495617,13.17755226530499]]]},"properties":{"region_id":"village_612231","name":"TURUVEKERE AMANIKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

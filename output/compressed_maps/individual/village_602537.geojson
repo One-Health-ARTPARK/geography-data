@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16171756233376,15.15244796134515],[75.15681831735996,15.16930123053344],[75.14095832566437,15.1684571806075],[75.15116586721211,15.12853369968583],[75.16171756233376,15.15244796134515]]]},"properties":{"region_id":"village_602537","name":"RAMANAKOPPA","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

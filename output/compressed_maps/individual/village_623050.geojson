@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.51972611782998,13.27827357534114],[78.51470060717459,13.27813907927118],[78.5162940721816,13.27188918132748],[78.52143573072217,13.27372204354569],[78.51972611782998,13.27827357534114]]]},"properties":{"region_id":"village_623050","name":"UBBANDLAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

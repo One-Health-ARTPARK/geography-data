@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23302772302279,13.15550850135046],[77.22178803948024,13.15505570668285],[77.22153265016406,13.14626136870477],[77.23067506701781,13.1451064944037],[77.23302772302279,13.15550850135046]]]},"properties":{"region_id":"village_624765","name":"NARAYANAPURA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

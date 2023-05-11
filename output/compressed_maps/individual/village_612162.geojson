@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47411877063537,13.18004942506822],[76.45886258143722,13.18049404810539],[76.46349749897215,13.16474880450886],[76.47668102716067,13.16998878782285],[76.47411877063537,13.18004942506822]]]},"properties":{"region_id":"village_612162","name":"SASALAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

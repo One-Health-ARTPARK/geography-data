@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12125489931091,13.55542626830145],[77.11990825698109,13.5933543268988],[77.105042016997,13.58864638185202],[77.10535804722225,13.56850405536597],[77.12125489931091,13.55542626830145]]]},"properties":{"region_id":"village_611011","name":"MARENAYAKANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

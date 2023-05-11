@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56889456032566,12.14303914386801],[76.53663172478477,12.15084379864559],[76.55446862082199,12.10233669572336],[76.56889456032566,12.14303914386801]]]},"properties":{"region_id":"village_619182","name":"RAMPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

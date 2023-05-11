@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57584271013795,17.01403490129462],[76.50614471124612,17.03262450177448],[76.50713832111889,16.98815387625699],[76.55965918578353,16.96415985969439],[76.57584271013795,17.01403490129462]]]},"properties":{"region_id":"village_620733","name":"MANDEWAL","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

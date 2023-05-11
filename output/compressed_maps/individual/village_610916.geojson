@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37081730135728,13.75748516430095],[77.33526496117842,13.75968095557444],[77.32747331024345,13.74061208705762],[77.36976687959768,13.7347907022629],[77.37081730135728,13.75748516430095]]]},"properties":{"region_id":"village_610916","name":"MYDANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

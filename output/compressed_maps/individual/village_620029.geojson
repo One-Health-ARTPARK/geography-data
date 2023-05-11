@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51825239783446,17.53714182305941],[76.47056372157566,17.52917678469171],[76.50551431155041,17.50445518156114],[76.51825239783446,17.53714182305941]]]},"properties":{"region_id":"village_620029","name":"JIDGA","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

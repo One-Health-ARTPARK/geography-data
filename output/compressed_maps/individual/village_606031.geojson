@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38036065900934,13.7242396136109],[76.36389033903886,13.72925155450846],[76.35595783047327,13.71249221694137],[76.36610424707274,13.69710150355086],[76.38036065900934,13.7242396136109]]]},"properties":{"region_id":"village_606031","name":"SIRIGONDANAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

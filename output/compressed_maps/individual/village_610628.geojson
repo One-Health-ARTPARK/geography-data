@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10507233743286,14.04506751257293],[77.09270489312567,14.06280290475157],[77.0756859636111,14.04373643370132],[77.10507233743286,14.04506751257293]]]},"properties":{"region_id":"village_610628","name":"MADDE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

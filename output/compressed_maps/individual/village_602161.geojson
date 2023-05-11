@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7342029322503,15.2087692955876],[75.71970698309573,15.16265020108625],[75.75555709354985,15.1635830833944],[75.7342029322503,15.2087692955876]]]},"properties":{"region_id":"village_602161","name":"CHIKKAWADDATTI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

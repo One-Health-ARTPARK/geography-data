@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95427593636137,13.205198020542],[77.9577271874883,13.21841937234053],[77.95204404149308,13.21845932440017],[77.95427593636137,13.205198020542]]]},"properties":{"region_id":"village_625557","name":"YESHVANTHAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27594806686285,15.90373642217161],[76.26200006482908,15.90666260959155],[76.26168068838169,15.87655950598359],[76.27837775803526,15.88354023173282],[76.27594806686285,15.90373642217161]]]},"properties":{"region_id":"village_601468","name":"MEGUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

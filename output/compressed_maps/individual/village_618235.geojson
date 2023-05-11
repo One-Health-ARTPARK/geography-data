@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18412706882535,12.32415314325391],[76.18174625617306,12.33274876088174],[76.14905215273814,12.34961595322343],[76.15138808827751,12.32555860285666],[76.17042884206597,12.32828468508998],[76.18412706882535,12.32415314325391]]]},"properties":{"region_id":"village_618235","name":"KAMPALAPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

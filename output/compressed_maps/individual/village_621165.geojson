@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01730607375015,16.6513672242818],[76.9997941589807,16.62157130237848],[77.02630052206852,16.61560380760771],[77.01730607375015,16.6513672242818]]]},"properties":{"region_id":"village_621165","name":"KADAMGERA (B)","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

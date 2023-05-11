@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81193452312863,14.26605531603703],[75.77385720904677,14.26087686419755],[75.77749046735775,14.24197896795215],[75.80949642802592,14.24911972916531],[75.81193452312863,14.26605531603703]]]},"properties":{"region_id":"village_606810","name":"KUMBLUR","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

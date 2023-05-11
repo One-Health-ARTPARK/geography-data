@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77478837395772,16.92819531627703],[76.76733486419016,16.904120947523],[76.78009473859413,16.90681621722604],[76.77478837395772,16.92819531627703]]]},"properties":{"region_id":"village_620854","name":"CHIGARHALLI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

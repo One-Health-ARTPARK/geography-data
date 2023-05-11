@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20908448642679,15.89691330436764],[76.2090858351849,15.90936268833159],[76.18982199280379,15.91269190667286],[76.18806076935442,15.8973807385359],[76.20908448642679,15.89691330436764]]]},"properties":{"region_id":"village_601465","name":"TONSIHAL","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

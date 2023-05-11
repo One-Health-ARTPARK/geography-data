@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87224659147616,15.50989978155002],[74.88045009461229,15.51619242460319],[74.87518575752027,15.53225726697572],[74.86196544231451,15.51767301430499],[74.87224659147616,15.50989978155002]]]},"properties":{"region_id":"village_602244","name":"HOSAWAL","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

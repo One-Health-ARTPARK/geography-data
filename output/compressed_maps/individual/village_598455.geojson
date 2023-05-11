@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43756927006024,16.69785083924884],[75.40592373448256,16.69905721809308],[75.40263552212068,16.65545860398382],[75.44711363063159,16.66526790005745],[75.43756927006024,16.69785083924884]]]},"properties":{"region_id":"village_598455","name":"GADYAL","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

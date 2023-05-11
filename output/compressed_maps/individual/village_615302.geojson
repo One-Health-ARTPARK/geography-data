@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07958328115001,13.25220526587747],[76.07022983899816,13.26087025246852],[76.0588245305015,13.25056240131639],[76.06987438920322,13.24468582427684],[76.07958328115001,13.25220526587747]]]},"properties":{"region_id":"village_615302","name":"KONDLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

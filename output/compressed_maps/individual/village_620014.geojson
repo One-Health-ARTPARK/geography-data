@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65100338276717,17.64843827619086],[76.6234501446703,17.60149030525641],[76.68898444649102,17.60308125231674],[76.70847068985745,17.63391787786173],[76.65100338276717,17.64843827619086]]]},"properties":{"region_id":"village_620014","name":"TADKAL","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10605202063805,14.02253439566469],[76.10490073872091,14.03315807172093],[76.08930367026443,14.03329319001019],[76.0882570061456,14.02494431627371],[76.10605202063805,14.02253439566469]]]},"properties":{"region_id":"village_605677","name":"N.MALLAPURA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

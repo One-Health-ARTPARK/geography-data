@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3494645322251,15.05776418937009],[76.32315963160003,15.05383152806835],[76.3220117178744,15.02870912667372],[76.35229416249054,15.0301908934123],[76.3494645322251,15.05776418937009]]]},"properties":{"region_id":"village_604715","name":"VANTIGODU","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

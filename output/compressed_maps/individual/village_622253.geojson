@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87097928142414,12.90971514649761],[77.85866128245492,12.90621771007063],[77.86857104157747,12.89979356793596],[77.87097928142414,12.90971514649761]]]},"properties":{"region_id":"village_622253","name":"ANCHEMUSKUR","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

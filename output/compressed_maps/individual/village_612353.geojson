@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59887069711168,13.09689661656582],[76.58855785064375,13.10442628145004],[76.58735666900444,13.08804515046775],[76.59887069711168,13.09689661656582]]]},"properties":{"region_id":"village_612353","name":"HULIKAL","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

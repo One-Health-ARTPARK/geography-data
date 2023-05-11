@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9820767916997,13.47353708875535],[77.96743710048491,13.47903824951694],[77.9654246385696,13.46388686977133],[77.97738157481702,13.46049302661],[77.9820767916997,13.47353708875535]]]},"properties":{"region_id":"village_624529","name":"YESHWANTHAPURA","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

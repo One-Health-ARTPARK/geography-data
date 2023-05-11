@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3551186619801,13.26406769446127],[76.346177944496,13.25628793433673],[76.35649765741555,13.24988300855642],[76.3551186619801,13.26406769446127]]]},"properties":{"region_id":"village_615751","name":"ANNENAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

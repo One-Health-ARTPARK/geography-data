@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.46676288504194,15.97885289393555],[74.43926796000513,15.97670293500099],[74.45729162072857,15.95663788036306],[74.46676288504194,15.97885289393555]]]},"properties":{"region_id":"village_597681","name":"HANDIGANUR","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

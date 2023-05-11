@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80018717320138,13.23650959265655],[74.79313373812414,13.24649851470462],[74.77568985693982,13.23911573912626],[74.79003835389189,13.23118321241572],[74.80018717320138,13.23650959265655]]]},"properties":{"region_id":"village_608826","name":"92 HEROOR","parent":"subdistrict_7067","parent_name":"KAPU"}}
+]}

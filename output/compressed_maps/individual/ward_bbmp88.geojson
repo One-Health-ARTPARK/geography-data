@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66000400010594,12.96172500012516],[77.64128700018604,12.97018999963494],[77.64174799959667,12.96059300016024],[77.66000400010594,12.96172500012516]]]},"properties":{"region_id":"ward_bbmp88","name":"WARD NO.88 (JEEVANBHIMA NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

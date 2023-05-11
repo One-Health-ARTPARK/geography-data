@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30611439964844,16.59902970464152],[76.29180154432657,16.61348312931985],[76.26569727804339,16.61475745037222],[76.27225085181772,16.56358948588132],[76.29885747200127,16.5649716550731],[76.30611439964844,16.59902970464152]]]},"properties":{"region_id":"village_599687","name":"TUMBAGI","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

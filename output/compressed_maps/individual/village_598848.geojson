@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79994026486192,16.24141192643865],[75.77193794880837,16.23919854455099],[75.77043901143145,16.21638878580384],[75.79372404285522,16.20959449086277],[75.79994026486192,16.24141192643865]]]},"properties":{"region_id":"village_598848","name":"KADALIMATTI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

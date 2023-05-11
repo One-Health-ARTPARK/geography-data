@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77647392973554,15.59621899374585],[74.7723013021233,15.60940313526917],[74.75818338410079,15.60817849155225],[74.7647068442756,15.58955087422536],[74.77647392973554,15.59621899374585]]]},"properties":{"region_id":"village_598103","name":"TIMMAPUR","parent":"subdistrict_7043","parent_name":"KITTUR"}}
+]}

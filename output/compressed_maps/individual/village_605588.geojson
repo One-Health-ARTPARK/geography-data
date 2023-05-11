@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38064498426776,14.22164191567114],[76.37710068608772,14.23462793229823],[76.3638312406359,14.23831784876871],[76.36689286986191,14.22183860655992],[76.38064498426776,14.22164191567114]]]},"properties":{"region_id":"village_605588","name":"KAVADIGARAHATTI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

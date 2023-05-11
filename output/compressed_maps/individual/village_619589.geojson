@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67072963827971,11.64239336309109],[76.64341850223671,11.64450121193015],[76.6420544273149,11.61251105506934],[76.68383626796505,11.61523286636073],[76.67072963827971,11.64239336309109]]]},"properties":{"region_id":"village_619589","name":"KANIYANAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

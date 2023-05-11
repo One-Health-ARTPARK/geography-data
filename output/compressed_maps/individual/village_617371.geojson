@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4818415508772,12.89214108376082],[76.48157455715695,12.90708576115555],[76.46874220078818,12.90745431384455],[76.46864256236962,12.8939909711034],[76.4818415508772,12.89214108376082]]]},"properties":{"region_id":"village_617371","name":"RAGIBOMMENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

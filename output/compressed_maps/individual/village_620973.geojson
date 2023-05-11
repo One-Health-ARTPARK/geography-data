@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48240847262763,16.33884022926761],[76.46538793187814,16.34876654472862],[76.46263925362858,16.3352839582594],[76.48240847262763,16.33884022926761]]]},"properties":{"region_id":"village_620973","name":"RAJWAL","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

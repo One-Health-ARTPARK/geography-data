@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00332814443195,12.73049627324785],[76.96897459196458,12.73357834347459],[76.97284530905442,12.71956679343207],[77.00332814443195,12.73049627324785]]]},"properties":{"region_id":"village_614507","name":"THAGGAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

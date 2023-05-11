@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24914645553385,12.55035980822444],[76.24050928129232,12.56494927154308],[76.22490484968942,12.55247367794282],[76.23652741956914,12.54577473568681],[76.24914645553385,12.55035980822444]]]},"properties":{"region_id":"village_618524","name":"HONNENAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

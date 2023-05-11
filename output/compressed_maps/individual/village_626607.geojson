@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57743301582127,12.43141441345703],[77.57580975183593,12.45024643844835],[77.54854955261031,12.4450375702533],[77.55046557756094,12.43251493373894],[77.57743301582127,12.43141441345703]]]},"properties":{"region_id":"village_626607","name":"BOMMASANDRA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

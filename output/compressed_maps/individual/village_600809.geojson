@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31649529071461,16.28597236564602],[77.27718350126825,16.27633539304362],[77.30034151349896,16.25933602624958],[77.31649529071461,16.28597236564602]]]},"properties":{"region_id":"village_600809","name":"MERCHED","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

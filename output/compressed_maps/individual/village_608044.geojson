@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1486896374873,13.70243731430131],[75.11605474466712,13.71867382940556],[75.10324988776192,13.72838780638138],[75.0947793568802,13.70985312224471],[75.13628675463013,13.68449212176372],[75.1486896374873,13.70243731430131]]]},"properties":{"region_id":"village_608044","name":"KAVARI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

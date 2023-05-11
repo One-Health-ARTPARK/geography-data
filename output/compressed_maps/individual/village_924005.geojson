@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93392847287696,12.47833264884938],[75.94374105877047,12.47065423650166],[75.95800514815706,12.46499849964466],[75.96217071960378,12.47095568082506],[75.94901816341687,12.47674484084232],[75.93392847287696,12.47833264884938]]]},"properties":{"region_id":"village_924005","name":"GUMMANAKOLLI","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

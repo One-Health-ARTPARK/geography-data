@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16655769141673,18.00204380007981],[77.12800846308369,18.00830936259736],[77.13501535307981,17.98372375362708],[77.15673915198775,17.97911747404019],[77.16655769141673,18.00204380007981]]]},"properties":{"region_id":"village_599910","name":"MADKATTI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

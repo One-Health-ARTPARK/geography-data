@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4440963782606,14.49388534326824],[74.4300532400924,14.50692115072829],[74.41872104267178,14.48194069121418],[74.43133306606919,14.47572752267654],[74.4440963782606,14.49388534326824]]]},"properties":{"region_id":"village_603462","name":"MIRJAN","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

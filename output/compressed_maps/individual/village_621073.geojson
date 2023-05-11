@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85455590188832,16.44257434933472],[76.83076565506815,16.44812907711703],[76.8293541519583,16.42625003827169],[76.85455590188832,16.44257434933472]]]},"properties":{"region_id":"village_621073","name":"HEMWADGI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

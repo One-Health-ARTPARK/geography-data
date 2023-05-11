@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90572983619347,13.05014761431016],[77.89216829606715,13.05442329048037],[77.89075553278018,13.048014047579],[77.90111988165013,13.04398106675102],[77.90572983619347,13.05014761431016]]]},"properties":{"region_id":"village_622219","name":"CHANNARAYAPURA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

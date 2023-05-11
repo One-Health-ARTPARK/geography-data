@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01001429743764,13.68595526161977],[74.97177856495057,13.68596562009867],[74.92930964308242,13.62306722638609],[75.01163679575714,13.63595874073385],[75.01001429743764,13.68595526161977]]]},"properties":{"region_id":"village_608722","name":"MACHATTU","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

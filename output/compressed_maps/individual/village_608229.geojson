@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27405183830658,13.6928094640195],[75.24934334679246,13.67859171684594],[75.27191074709107,13.66276856318706],[75.27405183830658,13.6928094640195]]]},"properties":{"region_id":"village_608229","name":"BUKLAPURA (RURAL)","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

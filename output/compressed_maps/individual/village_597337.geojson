@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17317587044374,16.74854189362492],[75.13001003488955,16.75043416521254],[75.12433587562673,16.72135889188643],[75.14818943642595,16.71183698524148],[75.17317587044374,16.74854189362492]]]},"properties":{"region_id":"village_597337","name":"BADACHI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

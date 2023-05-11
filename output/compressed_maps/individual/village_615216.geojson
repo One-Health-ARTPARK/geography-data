@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91178400252774,13.22551054645743],[75.8952271281294,13.25022162817845],[75.89043674539083,13.23172832404932],[75.91178400252774,13.22551054645743]]]},"properties":{"region_id":"village_615216","name":"HONNENAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23938355346814,17.1313611428894],[77.20848637250946,17.14378490509437],[77.1956449870704,17.10966511845174],[77.23001601959074,17.10776082046915],[77.23938355346814,17.1313611428894]]]},"properties":{"region_id":"village_620533","name":"UDGI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

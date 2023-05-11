@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07273541407058,14.04460160480275],[76.04852184857887,14.04488820744686],[76.04800085884125,14.01271205888527],[76.08812230958495,14.02510468589562],[76.07273541407058,14.04460160480275]]]},"properties":{"region_id":"village_605679","name":"DUMMI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

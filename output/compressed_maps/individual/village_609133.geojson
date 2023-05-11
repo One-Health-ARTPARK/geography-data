@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7591328155381,13.75723914849537],[75.74281182885761,13.77697793736301],[75.7240461973135,13.75274707523012],[75.7587873349296,13.74267000597798],[75.7591328155381,13.75723914849537]]]},"properties":{"region_id":"village_609133","name":"MALALICHANNENAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

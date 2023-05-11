@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7376849049137,13.38005412529858],[75.74288758251552,13.38266697312468],[75.73798924837736,13.38702275844054],[75.73295041057501,13.38570659539605],[75.7376849049137,13.38005412529858]]]},"properties":{"region_id":"village_609719","name":"THOTADAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

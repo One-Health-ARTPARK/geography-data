@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51584338305905,14.41680161610898],[75.50533355534101,14.41020409323608],[75.50874573826923,14.37861381650269],[75.5220729977945,14.37858834613833],[75.51584338305905,14.41680161610898]]]},"properties":{"region_id":"village_604446","name":"MALAGI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99293264711635,15.42615315717462],[77.02136122798039,15.43470036951178],[77.00477227598397,15.46072383373686],[76.98083839303878,15.45410372108875],[76.99293264711635,15.42615315717462]]]},"properties":{"region_id":"village_604848","name":"UTTANUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

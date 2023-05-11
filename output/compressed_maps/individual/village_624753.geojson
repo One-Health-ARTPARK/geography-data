@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2263041083205,13.19726935034279],[77.21595712347221,13.18701625362601],[77.22717268017378,13.18512490751027],[77.2263041083205,13.19726935034279]]]},"properties":{"region_id":"village_624753","name":"KUTHAGATTA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

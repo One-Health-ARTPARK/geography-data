@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04450934638244,13.84242586493831],[75.01965157287081,13.80739815664045],[75.0430603139202,13.80232410106167],[75.04450934638244,13.84242586493831]]]},"properties":{"region_id":"village_608032","name":"MUDUGOPPA (NAGARA)","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

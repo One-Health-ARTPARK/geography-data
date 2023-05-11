@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23628213482087,15.61509368899259],[76.2023959499375,15.58005681624612],[76.24334388451464,15.57153981664897],[76.23628213482087,15.61509368899259]]]},"properties":{"region_id":"village_601301","name":"GUNHALU","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

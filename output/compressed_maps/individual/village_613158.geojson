@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63061333509866,12.80966811355495],[77.62049756736134,12.81174923055719],[77.61933771802444,12.80342559243706],[77.63595255073149,12.79754093355292],[77.63061333509866,12.80966811355495]]]},"properties":{"region_id":"village_613158","name":"KOPPA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

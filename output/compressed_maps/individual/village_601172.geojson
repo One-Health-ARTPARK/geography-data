@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99161056581683,15.84529503302795],[77.01213468918256,15.8196470885934],[77.02223773536501,15.83231897028002],[76.99161056581683,15.84529503302795]]]},"properties":{"region_id":"village_601172","name":"CHINTAMANDODDI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

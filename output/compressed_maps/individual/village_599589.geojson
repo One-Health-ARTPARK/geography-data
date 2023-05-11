@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20062476435889,16.54832935270012],[76.13679192949543,16.56027149218066],[76.13025313100964,16.52021958806361],[76.15676101852034,16.51590208243547],[76.19226922368802,16.49854072711269],[76.20062476435889,16.54832935270012]]]},"properties":{"region_id":"village_599589","name":"KONNUR","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

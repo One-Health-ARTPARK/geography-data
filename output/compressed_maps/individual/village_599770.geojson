@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0297301125821,17.74900440410125],[77.01674841475544,17.75656078265522],[77.00193026883937,17.74245649649891],[77.02000521317302,17.73392123957161],[77.0297301125821,17.74900440410125]]]},"properties":{"region_id":"village_599770","name":"LINGADHALLI","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

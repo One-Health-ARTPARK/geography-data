@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05320594492213,12.91212658690965],[76.04252547962606,12.92010474624303],[76.03777091534475,12.90988066863462],[76.04467625323788,12.90349367071281],[76.05320594492213,12.91212658690965]]]},"properties":{"region_id":"village_616083","name":"DUNDANAYAKANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

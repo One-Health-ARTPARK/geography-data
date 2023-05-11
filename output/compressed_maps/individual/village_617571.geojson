@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06948285596802,12.84763606744296],[75.05130254204764,12.83906051587223],[75.06186138055362,12.82876888709308],[75.08253578980928,12.82969038537868],[75.06948285596802,12.84763606744296]]]},"properties":{"region_id":"village_617571","name":"GOLTHAMAJAL","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

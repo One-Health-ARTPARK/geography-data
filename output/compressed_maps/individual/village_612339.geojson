@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71076077266326,13.09848483331566],[76.70807260564808,13.11428270615768],[76.69372382171954,13.11812625943146],[76.69317837279384,13.09826516493955],[76.71076077266326,13.09848483331566]]]},"properties":{"region_id":"village_612339","name":"BENKIKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

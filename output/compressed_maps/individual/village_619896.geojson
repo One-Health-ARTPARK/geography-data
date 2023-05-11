@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35262084624411,11.95596337381203],[77.335210574856,11.93581401984024],[77.34333614267234,11.91779817682898],[77.3607523755499,11.94717342462145],[77.35262084624411,11.95596337381203]]]},"properties":{"region_id":"village_619896","name":"DINNAHALLI","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

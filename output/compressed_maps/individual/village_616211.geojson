@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05202641830293,12.89288294677197],[76.04062041242253,12.89746892440867],[76.03196764704695,12.88982671369765],[76.04963234390831,12.87782693428578],[76.05202641830293,12.89288294677197]]]},"properties":{"region_id":"village_616211","name":"MUDDANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

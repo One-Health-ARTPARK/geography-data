@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29612487035897,13.43030837145419],[77.29179571103957,13.40787847539607],[77.31302736832323,13.40915504018963],[77.31319466263814,13.42481547230579],[77.29612487035897,13.43030837145419]]]},"properties":{"region_id":"village_611185","name":"PATHAGANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26549564737917,16.86313894406458],[75.23770946710192,16.86769456117829],[75.22768732793782,16.83627910131932],[75.26230729392245,16.82883485501529],[75.26549564737917,16.86313894406458]]]},"properties":{"region_id":"village_597323","name":"RAMATEERTH","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37387232343583,16.0123621199896],[77.36165311324226,16.00588417418533],[77.36406807647818,15.98181042614562],[77.37809779501215,15.99314623857087],[77.37387232343583,16.0123621199896]]]},"properties":{"region_id":"village_600869","name":"KAREBUDUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6535605056301,16.20511768965157],[76.64636567702333,16.19934176763927],[76.65198363721467,16.19209719638294],[76.655699644577,16.19767281905101],[76.6535605056301,16.20511768965157]]]},"properties":{"region_id":"village_600535","name":"HATTI (CT)","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

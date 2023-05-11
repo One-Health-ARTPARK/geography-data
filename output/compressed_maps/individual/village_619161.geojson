@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53645033960552,11.99019834173069],[76.52090727899129,12.0006538010434],[76.52243879333447,11.98008733051265],[76.53645033960552,11.99019834173069]]]},"properties":{"region_id":"village_619161","name":"HADYA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

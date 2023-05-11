@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88782843002134,14.42847695889368],[75.88132239173247,14.40885018050206],[75.90690615530414,14.40089839186805],[75.90865326984361,14.42681978789],[75.88782843002134,14.42847695889368]]]},"properties":{"region_id":"village_606565","name":"NAGANUR","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

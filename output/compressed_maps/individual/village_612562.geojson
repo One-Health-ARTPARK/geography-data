@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06060073323128,12.95422898497714],[77.07318774340284,12.95815148998043],[77.06607351987249,12.96984026981529],[77.05726446905855,12.966668358399],[77.06060073323128,12.95422898497714]]]},"properties":{"region_id":"village_612562","name":"GANTAGANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

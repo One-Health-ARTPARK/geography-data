@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55418925657514,12.47532650574557],[76.53733919246247,12.47370222438057],[76.53421485103111,12.44912862575332],[76.54968877383116,12.45517195152941],[76.55418925657514,12.47532650574557]]]},"properties":{"region_id":"village_614142","name":"ANTHANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

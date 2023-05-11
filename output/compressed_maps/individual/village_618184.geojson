@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10557341765097,12.44092281661273],[76.09336096947818,12.43845390717574],[76.09402726425438,12.42345127861992],[76.10715383163961,12.4311824455326],[76.10557341765097,12.44092281661273]]]},"properties":{"region_id":"village_618184","name":"EACHURU","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

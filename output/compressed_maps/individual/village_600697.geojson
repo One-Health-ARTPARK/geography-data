@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90300743169189,16.32234637404718],[76.91533164035583,16.28624441742569],[76.91543339506617,16.245685398585],[76.94635961368243,16.25193713140131],[76.96624380933756,16.2927496062292],[76.90300743169189,16.32234637404718]]]},"properties":{"region_id":"village_600697","name":"ARKERA","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56396359309899,13.26442049191079],[77.55087834444682,13.27073562098588],[77.54906049501686,13.26026520763345],[77.5593562333414,13.25335704522566],[77.56396359309899,13.26442049191079]]]},"properties":{"region_id":"village_625246","name":"BASETTIHALLI (CT)","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

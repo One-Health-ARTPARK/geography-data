@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08907018374342,16.69461047196175],[76.06959263915567,16.68635557198307],[76.03983094088473,16.64859478422571],[76.05816253927424,16.63464015108438],[76.08593466587809,16.6556255415369],[76.08907018374342,16.69461047196175]]]},"properties":{"region_id":"village_599531","name":"DINDAWAR","parent":"subdistrict_5452","parent_name":"BASAVANA BAGEVADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47711246376215,14.32711956021701],[76.43218576353965,14.31763773280929],[76.48147023317014,14.2875008936783],[76.47711246376215,14.32711956021701]]]},"properties":{"region_id":"village_605519","name":"BELAGHATTA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

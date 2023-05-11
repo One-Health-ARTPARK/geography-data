@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29394018895235,12.75241183595996],[75.27584631455633,12.76592669026491],[75.23173528573439,12.77325750846443],[75.24763845250935,12.73994626051033],[75.29394018895235,12.75241183595996]]]},"properties":{"region_id":"village_617735","name":"NARIMOGRU","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.277977151861,13.10236348677266],[77.2672866125913,13.10541568217123],[77.2603409487131,13.09314300632818],[77.27151839152239,13.09143134823588],[77.277977151861,13.10236348677266]]]},"properties":{"region_id":"village_625878","name":"KANIKENAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

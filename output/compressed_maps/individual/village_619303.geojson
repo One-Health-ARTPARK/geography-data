@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88010108403206,12.02969685019163],[76.84868922896432,12.03210916654792],[76.87281545797958,12.00555276780085],[76.88010108403206,12.02969685019163]]]},"properties":{"region_id":"village_619303","name":"PADUVALAMARAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

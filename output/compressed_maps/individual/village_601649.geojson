@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61999577124908,15.51222556579845],[76.5918326355592,15.49922337592586],[76.6171675264165,15.48250227635747],[76.61999577124908,15.51222556579845]]]},"properties":{"region_id":"village_601649","name":"SRIRAMANAGAR","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

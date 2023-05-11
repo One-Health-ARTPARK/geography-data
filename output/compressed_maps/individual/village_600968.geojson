@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07782953885764,16.17914089227505],[77.05103347998411,16.18930913835404],[77.05430734047289,16.16455556188383],[77.07782953885764,16.17914089227505]]]},"properties":{"region_id":"village_600968","name":"JAKKAL DINNI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

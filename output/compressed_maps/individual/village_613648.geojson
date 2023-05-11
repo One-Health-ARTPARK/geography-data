@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52830347078279,12.58321926394057],[76.50441570610236,12.58255931089786],[76.50484888301634,12.57245463586363],[76.52088056523193,12.56715190738288],[76.52830347078279,12.58321926394057]]]},"properties":{"region_id":"village_613648","name":"B.BACHAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

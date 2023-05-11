@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90965500376815,13.69268579296552],[77.88132162004028,13.68798892026579],[77.88038273448171,13.67939463958863],[77.90832180494225,13.68225490711107],[77.90965500376815,13.69268579296552]]]},"properties":{"region_id":"village_623895","name":"CHINNOBAIAHGARIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

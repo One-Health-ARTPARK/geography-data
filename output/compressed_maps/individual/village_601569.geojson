@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33063744298994,15.56161272858371],[76.31364965151943,15.55887068027563],[76.31197075055246,15.54505669684694],[76.32845382608585,15.54698921473678],[76.33063744298994,15.56161272858371]]]},"properties":{"region_id":"village_601569","name":"PARAPUR","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

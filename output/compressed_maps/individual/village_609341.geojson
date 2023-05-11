@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77529286306682,13.54804408174835],[75.76089684128746,13.55712141257419],[75.74329706490016,13.54933145876998],[75.75055787959518,13.53332273873767],[75.7702706881354,13.53380916609248],[75.77529286306682,13.54804408174835]]]},"properties":{"region_id":"village_609341","name":"THIGADA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

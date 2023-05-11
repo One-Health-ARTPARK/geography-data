@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10357631036864,13.63850316809135],[76.08739508704387,13.64244530104829],[76.09032417271085,13.62412254870106],[76.1029680065416,13.62581962663585],[76.10357631036864,13.63850316809135]]]},"properties":{"region_id":"village_609433","name":"BISLERE","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

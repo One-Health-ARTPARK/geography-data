@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74613878233203,16.73845801731907],[76.7408173744644,16.73548889533348],[76.74505071148982,16.73236344915476],[76.74961751674232,16.73471658142151],[76.74613878233203,16.73845801731907]]]},"properties":{"region_id":"village_621224","name":"GOGIPETH (CT)","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

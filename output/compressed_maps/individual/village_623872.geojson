@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87068790561024,13.74001291974929],[77.86823127441102,13.74933470102903],[77.86377066783704,13.74218191597687],[77.87068790561024,13.74001291974929]]]},"properties":{"region_id":"village_623872","name":"TENKAIMAKALAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

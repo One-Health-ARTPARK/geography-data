@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.62064454774013,16.36205961926639],[74.61837525774926,16.38457827723666],[74.60325795110319,16.38764140433739],[74.60101293686472,16.35874003522614],[74.62064454774013,16.36205961926639]]]},"properties":{"region_id":"village_597221","name":"KUNGATOLLI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

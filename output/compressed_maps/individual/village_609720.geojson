@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74731183849237,13.38629797336017],[75.73640285572564,13.40104260402237],[75.73094470245806,13.39762743960228],[75.74731183849237,13.38629797336017]]]},"properties":{"region_id":"village_609720","name":"MAVINAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

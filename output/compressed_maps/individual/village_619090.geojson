@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44301293652252,11.94829429642215],[76.4301452377036,11.95683181827837],[76.42673517519798,11.94907947362573],[76.44301293652252,11.94829429642215]]]},"properties":{"region_id":"village_619090","name":"KONANALTHURU","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

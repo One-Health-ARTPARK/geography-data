@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88367125394093,13.51675890593753],[77.8828833409003,13.50816420533179],[77.88020703596382,13.49977328524825],[77.88362328140968,13.49918366466265],[77.88688992560428,13.50889337234413],[77.88367125394093,13.51675890593753]]]},"properties":{"region_id":"village_624123","name":"KORTHAGUTTAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

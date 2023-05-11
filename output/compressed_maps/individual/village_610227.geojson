@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53825782541735,13.42144455281282],[76.5349990648725,13.43411694474702],[76.52247856644972,13.4271800266327],[76.52921819122824,13.41887299490077],[76.53825782541735,13.42144455281282]]]},"properties":{"region_id":"village_610227","name":"KUPPURU","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

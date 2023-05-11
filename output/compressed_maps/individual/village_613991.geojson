@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.754191260431,12.78332562102684],[76.73507781667269,12.7892502505078],[76.7442117728903,12.77496121899303],[76.754191260431,12.78332562102684]]]},"properties":{"region_id":"village_613991","name":"SIRAPATNA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

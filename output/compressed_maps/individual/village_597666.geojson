@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71372157119667,16.10794650214939],[74.69140715971353,16.12184355749067],[74.6970705339165,16.09654872789051],[74.71372157119667,16.10794650214939]]]},"properties":{"region_id":"village_597666","name":"GUMCHINMARDI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

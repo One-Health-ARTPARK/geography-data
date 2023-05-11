@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83817866563159,12.55745067864136],[76.82216230106647,12.55351482478767],[76.82533113021724,12.54850047484692],[76.83683942675042,12.54682776859564],[76.83817866563159,12.55745067864136]]]},"properties":{"region_id":"village_614423","name":"CHIKKATHAMMANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

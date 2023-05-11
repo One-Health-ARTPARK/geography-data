@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.40819552023055,16.3415415251681],[74.3904518230952,16.33597008016035],[74.3960380105447,16.31066184669205],[74.41439769124436,16.3321267579644],[74.40819552023055,16.3415415251681]]]},"properties":{"region_id":"village_597546","name":"HITTANI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

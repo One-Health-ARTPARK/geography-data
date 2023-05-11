@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0939714984708,14.85374921210941],[75.07395748595636,14.8555383386671],[75.06904114281386,14.84112575343424],[75.09670470616699,14.84196877236706],[75.0939714984708,14.85374921210941]]]},"properties":{"region_id":"village_604054","name":"DASHARATKOPPA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

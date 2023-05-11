@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67119172184172,13.19150919911671],[77.66757089237974,13.20425892791696],[77.65677268401208,13.1990337599007],[77.6613893737066,13.18447255486479],[77.67119172184172,13.19150919911671]]]},"properties":{"region_id":"village_625401","name":"AKKALENAHALLI MALLENA - HALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

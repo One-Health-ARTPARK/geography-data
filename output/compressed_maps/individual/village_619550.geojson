@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81447209734092,11.71652299253904],[76.7968942869693,11.701949202547],[76.82716681554483,11.67890856556316],[76.81447209734092,11.71652299253904]]]},"properties":{"region_id":"village_619550","name":"CHIRAKANAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11398034477163,14.88270709496813],[75.07930435417431,14.89064033414318],[75.07108451497673,14.87181283961942],[75.11398034477163,14.88270709496813]]]},"properties":{"region_id":"village_604052","name":"BAILWAL","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

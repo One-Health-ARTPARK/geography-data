@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25131562640615,16.35865438438805],[75.25451229176774,16.38026954208065],[75.23876355953931,16.38376590245763],[75.23187081509448,16.33509751540942],[75.24485674314901,16.32201739223296],[75.25131562640615,16.35865438438805]]]},"properties":{"region_id":"village_598555","name":"SORAGAVI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

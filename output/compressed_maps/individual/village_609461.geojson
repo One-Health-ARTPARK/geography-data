@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27892316028363,13.62856276654129],[76.25035522100737,13.6097501880155],[76.26720937690324,13.60102381517517],[76.27892316028363,13.62856276654129]]]},"properties":{"region_id":"village_609461","name":"MARAVANJI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

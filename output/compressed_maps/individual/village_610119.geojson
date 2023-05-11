@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61009573938838,13.59091743470902],[76.6346895366672,13.59771292371894],[76.61662548602777,13.60801747987746],[76.61009573938838,13.59091743470902]]]},"properties":{"region_id":"village_610119","name":"MARUHOLE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

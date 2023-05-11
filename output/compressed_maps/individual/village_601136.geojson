@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76746717811258,15.91785284168613],[76.75252093228839,15.92027419342017],[76.74714820768259,15.89896262662137],[76.76336796615969,15.89626132377831],[76.76746717811258,15.91785284168613]]]},"properties":{"region_id":"village_601136","name":"GOUDANBHAVI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

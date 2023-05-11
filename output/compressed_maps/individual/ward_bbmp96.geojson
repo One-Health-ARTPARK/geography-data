@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55926899996065,12.97984900006975],[77.56815600018334,12.98244100017685],[77.56144800015228,12.98826399993588],[77.55926899996065,12.97984900006975]]]},"properties":{"region_id":"ward_bbmp96","name":"WARD NO.96 (OKALIPURAM)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

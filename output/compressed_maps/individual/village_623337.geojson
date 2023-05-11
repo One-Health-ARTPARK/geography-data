@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64612905593796,13.59315764189438],[77.6150548482495,13.59404379048854],[77.61503057013302,13.58394690773056],[77.63790450706523,13.5813268111308],[77.64612905593796,13.59315764189438]]]},"properties":{"region_id":"village_623337","name":"PIDARLAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

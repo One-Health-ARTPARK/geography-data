@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58061624657651,13.41999124688948],[76.5718996819831,13.41705798339614],[76.57791540399381,13.40334295298553],[76.58726302260337,13.40813457597385],[76.58061624657651,13.41999124688948]]]},"properties":{"region_id":"village_610120","name":"KAREHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6817807174297,13.89045978218723],[76.6450440437396,13.88741598204723],[76.65546329686035,13.83494985376861],[76.69322602594845,13.84589592799754],[76.6817807174297,13.89045978218723]]]},"properties":{"region_id":"village_606174","name":"BAGGANADU KAVAL","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

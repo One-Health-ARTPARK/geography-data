@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69713560009272,11.90747804451051],[76.68979398240356,11.9024957497099],[76.69102225583634,11.89315728673978],[76.69802473359003,11.89487041389559],[76.69713560009272,11.90747804451051]]]},"properties":{"region_id":"village_619472","name":"CHIKANAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

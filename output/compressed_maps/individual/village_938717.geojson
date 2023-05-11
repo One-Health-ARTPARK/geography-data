@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9833561826341,15.16595421642457],[74.97806161684053,15.17164091240488],[74.94516251745056,15.15688648243629],[74.95623069476197,15.14769974073723],[74.9833561826341,15.16595421642457]]]},"properties":{"region_id":"village_938717","name":"MACHYAPURA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

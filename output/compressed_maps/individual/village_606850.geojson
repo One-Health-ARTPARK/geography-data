@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69557987842337,14.19788820997352],[75.69613762425688,14.20690714087215],[75.68096135653958,14.20926064292596],[75.66885292406327,14.1986789045318],[75.69557987842337,14.19788820997352]]]},"properties":{"region_id":"village_606850","name":"BEERAGONDANAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

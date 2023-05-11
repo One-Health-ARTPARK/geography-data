@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51055878998804,12.58266939256893],[77.48871096253094,12.57045512659335],[77.51296352614574,12.56526291909215],[77.5165892297442,12.57932713826097],[77.51055878998804,12.58266939256893]]]},"properties":{"region_id":"village_626396","name":"M.MANIYAMBAL","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

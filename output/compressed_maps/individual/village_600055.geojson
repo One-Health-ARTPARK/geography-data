@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38585511516219,18.25303694507335],[77.35595779400445,18.24605820025582],[77.3553374404775,18.22472969747346],[77.37577937524222,18.21302491548415],[77.38585511516219,18.25303694507335]]]},"properties":{"region_id":"village_600055","name":"KHANDIKERI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

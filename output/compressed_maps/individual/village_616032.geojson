@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09768282139204,12.98798983847262],[76.08811684362054,12.98215226036433],[76.09309066786629,12.97412128355807],[76.10135294858172,12.98081497380327],[76.09768282139204,12.98798983847262]]]},"properties":{"region_id":"village_616032","name":"BITTAGOWDANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

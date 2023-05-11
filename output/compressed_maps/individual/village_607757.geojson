@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30517275844065,14.30415763475459],[75.28064732673806,14.30161189469007],[75.28646793818903,14.28539574196221],[75.30455493615521,14.27933278589042],[75.30517275844065,14.30415763475459]]]},"properties":{"region_id":"village_607757","name":"JAKKANAHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

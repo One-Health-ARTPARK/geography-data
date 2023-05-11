@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3482734566797,13.47337720732358],[77.34186506563269,13.48004694437864],[77.33492991265896,13.47621901669391],[77.34348387318333,13.46662471826856],[77.3482734566797,13.47337720732358]]]},"properties":{"region_id":"village_611147","name":"CHIKKASAGGERE","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

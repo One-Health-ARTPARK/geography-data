@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86059265633634,12.52347703225803],[76.84025180493617,12.52415112911028],[76.84019251615119,12.51467059133656],[76.85805856103568,12.49645918692798],[76.85579889010837,12.51261926117605],[76.86059265633634,12.52347703225803]]]},"properties":{"region_id":"village_614467","name":"INDAVALU","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

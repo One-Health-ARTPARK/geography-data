@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51455817137197,12.4787158670012],[76.498918029491,12.48092394939351],[76.49783628782201,12.45836948261099],[76.51188681166389,12.46177357568743],[76.51455817137197,12.4787158670012]]]},"properties":{"region_id":"village_613675","name":"HERAGANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

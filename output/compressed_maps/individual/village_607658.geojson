@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18355606340052,14.29943857186539],[75.17518880482078,14.30628381660981],[75.1690098929096,14.295545726849],[75.18355606340052,14.29943857186539]]]},"properties":{"region_id":"village_607658","name":"NADAVADAHOLEKATTE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

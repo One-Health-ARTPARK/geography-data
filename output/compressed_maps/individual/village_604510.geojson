@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54659013475904,14.65842393852652],[75.54424041003129,14.68892709748599],[75.5150516317696,14.68320273747661],[75.54659013475904,14.65842393852652]]]},"properties":{"region_id":"village_604510","name":"KAKOL","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

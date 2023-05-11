@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88124189458638,13.13751438223976],[76.87319521365387,13.1392553700192],[76.87173040018159,13.12824741675513],[76.88115102628389,13.12629387190714],[76.88124189458638,13.13751438223976]]]},"properties":{"region_id":"village_611946","name":"KODAGIHALLI.C","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

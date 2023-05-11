@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1465932523679,15.2920537840299],[75.14273501623693,15.30409504634674],[75.12498339286148,15.29947947137017],[75.12703142888655,15.2937371070144],[75.1465932523679,15.2920537840299]]]},"properties":{"region_id":"village_602409","name":"KOTGONDHUNSHI","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

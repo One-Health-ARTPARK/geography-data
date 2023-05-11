@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94369277203735,13.48510053129444],[77.92959207836275,13.49464514414847],[77.92324043063687,13.4794177324783],[77.9398242962408,13.47507915471215],[77.94369277203735,13.48510053129444]]]},"properties":{"region_id":"village_624131","name":"MUMMANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

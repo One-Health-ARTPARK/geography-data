@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83858799636954,13.42411106884071],[76.82121089722263,13.42670291056753],[76.82416417866526,13.41011649018574],[76.84306407689581,13.40726730436936],[76.83858799636954,13.42411106884071]]]},"properties":{"region_id":"village_611663","name":"ALALAGHATTA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

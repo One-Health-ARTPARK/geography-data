@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.64527879031054,16.36011052128094],[74.64095443007345,16.38515857529706],[74.61837525774926,16.38457827723666],[74.62100423384264,16.35520087468677],[74.64527879031054,16.36011052128094]]]},"properties":{"region_id":"village_597220","name":"BAMBALWAD","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

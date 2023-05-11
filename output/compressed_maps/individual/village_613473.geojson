@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53998012606993,12.75072402700458],[76.5322791205646,12.74119264304587],[76.54723435110562,12.74094287142657],[76.53998012606993,12.75072402700458]]]},"properties":{"region_id":"village_613473","name":"CHIKKAHARANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

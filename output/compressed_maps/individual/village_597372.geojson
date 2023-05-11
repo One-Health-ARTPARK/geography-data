@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81164241935834,16.48478721110027],[74.79444605385174,16.48488309337764],[74.79920348927033,16.4657853594206],[74.81544167072362,16.45108567269913],[74.81164241935834,16.48478721110027]]]},"properties":{"region_id":"village_597372","name":"NAGARAL","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68643110936567,15.91820821379694],[76.67145379336114,15.90980310423788],[76.69891581211823,15.90494011406907],[76.700663652007,15.9128693267133],[76.68643110936567,15.91820821379694]]]},"properties":{"region_id":"village_601103","name":"GUDADUR","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

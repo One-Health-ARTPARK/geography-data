@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3719191559879,12.63047616686907],[77.35960100423486,12.61802405621401],[77.36728067885775,12.59936283944078],[77.38842473087611,12.61287146682358],[77.3719191559879,12.63047616686907]]]},"properties":{"region_id":"village_626432","name":"CHIKKA MUDUVADI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

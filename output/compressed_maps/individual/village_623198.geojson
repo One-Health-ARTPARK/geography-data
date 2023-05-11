@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41708950661156,13.6320428086495],[77.39445166373562,13.64365719462243],[77.39823461022966,13.62107066887004],[77.41708950661156,13.6320428086495]]]},"properties":{"region_id":"village_623198","name":"ASUDI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

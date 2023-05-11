@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53475200034627,12.96436400000932],[77.53925700006066,12.95798399997114],[77.54340899964033,12.96358300000505],[77.53475200034627,12.96436400000932]]]},"properties":{"region_id":"ward_bbmp133","name":"WARD NO.133 (HAMPI NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08977119137872,13.35466091820177],[77.0757163507702,13.36209197338539],[77.07514844740588,13.34630541435488],[77.08977119137872,13.35466091820177]]]},"properties":{"region_id":"village_938652","name":"DIBBURU","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

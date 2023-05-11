@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9248419724654,13.16779524959905],[75.90924792006733,13.17208945575184],[75.90524141774756,13.15886751535749],[75.93633998670978,13.15762040154093],[75.9248419724654,13.16779524959905]]]},"properties":{"region_id":"village_615318","name":"IBBEDU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

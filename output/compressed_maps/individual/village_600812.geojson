@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21481080426878,16.29551387507604],[77.20064865706713,16.29283256796508],[77.19830615895557,16.25064945033909],[77.21852285548563,16.26652521841949],[77.21481080426878,16.29551387507604]]]},"properties":{"region_id":"village_600812","name":"RAGHUNATHANHALLI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

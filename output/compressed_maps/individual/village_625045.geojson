@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58258984408678,13.36741974329377],[77.57184285746928,13.36744137088318],[77.56365651039494,13.34811943815882],[77.57633435299024,13.3451580149648],[77.58258984408678,13.36741974329377]]]},"properties":{"region_id":"village_625045","name":"KARNALA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

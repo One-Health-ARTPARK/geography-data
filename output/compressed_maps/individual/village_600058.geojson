@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47245015615333,18.2653990369248],[77.45730443951231,18.2663003368255],[77.45120724363942,18.2588926771135],[77.47169611487642,18.25409075637516],[77.47245015615333,18.2653990369248]]]},"properties":{"region_id":"village_600058","name":"ALLAPUR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

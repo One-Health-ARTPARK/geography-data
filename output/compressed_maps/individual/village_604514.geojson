@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62564455767347,14.70442156341006],[75.60453851367551,14.70033831212141],[75.61193647925948,14.6865034685722],[75.62961101471026,14.68705295153928],[75.62564455767347,14.70442156341006]]]},"properties":{"region_id":"village_604514","name":"GUDDAGUDDAPUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

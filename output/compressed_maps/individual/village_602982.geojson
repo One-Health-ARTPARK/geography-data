@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80703309352852,14.78622436128227],[74.76057826105757,14.79617300075996],[74.78542438337003,14.75309011664519],[74.80703309352852,14.78622436128227]]]},"properties":{"region_id":"village_602982","name":"ILEHALLI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

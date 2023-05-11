@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44224271156166,13.28771129127327],[76.42258995196656,13.29964571886594],[76.42153578298665,13.28262167399843],[76.44224271156166,13.28771129127327]]]},"properties":{"region_id":"village_612025","name":"THIMMALAPURA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

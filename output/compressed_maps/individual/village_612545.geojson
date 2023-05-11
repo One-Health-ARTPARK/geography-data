@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10287118634689,13.00714920753935],[77.09454213767063,13.01003894644013],[77.0933698509813,12.99878727708432],[77.097345769068,12.99811560248125],[77.10106998985637,13.0008044959707],[77.10287118634689,13.00714920753935]]]},"properties":{"region_id":"village_612545","name":"KOGATTA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

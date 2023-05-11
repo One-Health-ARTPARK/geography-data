@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70824214578377,13.23820119497721],[75.70032612765458,13.23025094304075],[75.71113646231974,13.22555553414105],[75.70824214578377,13.23820119497721]]]},"properties":{"region_id":"village_609840","name":"THADAGASE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

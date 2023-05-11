@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75932877543143,17.61909258508619],[76.7343223676502,17.61248678438812],[76.74550838620911,17.59871253399994],[76.75932877543143,17.61909258508619]]]},"properties":{"region_id":"village_619995","name":"SAWALGI (K)","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

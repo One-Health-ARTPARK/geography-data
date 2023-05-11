@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15004904345587,16.89212347205734],[76.11345624817932,16.90114122597996],[76.1159822879778,16.87768308460004],[76.15004904345587,16.89212347205734]]]},"properties":{"region_id":"village_599368","name":"OTHIHAL","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

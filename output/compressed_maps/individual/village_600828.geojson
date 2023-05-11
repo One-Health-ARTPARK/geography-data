@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25689474284924,16.13104341920242],[77.23986409356162,16.09135979577076],[77.27311447413331,16.08723468077597],[77.25689474284924,16.13104341920242]]]},"properties":{"region_id":"village_600828","name":"DINNI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

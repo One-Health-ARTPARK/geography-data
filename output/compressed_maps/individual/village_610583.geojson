@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42034768785011,14.17688381120085],[77.4197670553223,14.20353749472571],[77.38163172993573,14.19841042498586],[77.3801307614239,14.18533585809204],[77.42034768785011,14.17688381120085]]]},"properties":{"region_id":"village_610583","name":"BUGADUR","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

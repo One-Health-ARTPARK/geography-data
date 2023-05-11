@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5023870824332,12.52794562958235],[76.49329505108986,12.53882884428596],[76.47874065698835,12.52618612033101],[76.49472675835983,12.51888456110547],[76.5023870824332,12.52794562958235]]]},"properties":{"region_id":"village_613659","name":"MUDIGERE","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

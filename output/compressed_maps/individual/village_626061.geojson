@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23386976549492,12.80265617570155],[77.22048646954406,12.81150280767529],[77.21001908107509,12.79220579026564],[77.22889741676524,12.78962318375827],[77.23386976549492,12.80265617570155]]]},"properties":{"region_id":"village_626061","name":"THALAWADI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0804198245998,12.63199293332069],[76.07099373867305,12.63258142684046],[76.06635175762189,12.61849300686274],[76.0788332854742,12.61636033123583],[76.0804198245998,12.63199293332069]]]},"properties":{"region_id":"village_616739","name":"KOODALUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

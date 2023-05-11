@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39347352068086,13.68257853677835],[76.38893637158176,13.69201059833989],[76.37872072972758,13.68833468445951],[76.38384426964711,13.6769177800666],[76.39347352068086,13.68257853677835]]]},"properties":{"region_id":"village_605966","name":"KAINADU AMANIKERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

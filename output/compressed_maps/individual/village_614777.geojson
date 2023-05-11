@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20867720643976,12.42162281137083],[77.21811769261333,12.4170298612558],[77.21705099996562,12.42597543367277],[77.20867720643976,12.42162281137083]]]},"properties":{"region_id":"village_614777","name":"CHILLAPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

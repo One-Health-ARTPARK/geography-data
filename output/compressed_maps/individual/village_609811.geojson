@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04317302440226,13.27452988511302],[76.02950780400802,13.27488292801556],[76.02189627628849,13.2621880283446],[76.03950816523438,13.26247687237346],[76.04317302440226,13.27452988511302]]]},"properties":{"region_id":"village_609811","name":"KOTTIGENAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22606638005821,12.4894103481578],[77.23626353972234,12.48665816250094],[77.23874970138783,12.49970118697042],[77.22432230580557,12.50221174368366],[77.22606638005821,12.4894103481578]]]},"properties":{"region_id":"village_614753","name":"KUNTHUR","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

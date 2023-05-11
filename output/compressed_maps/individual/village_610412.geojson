@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81089418235034,13.69901449105866],[76.77922616982441,13.7035603874286],[76.77769951233088,13.68345718724336],[76.81089418235034,13.69901449105866]]]},"properties":{"region_id":"village_610412","name":"MANGANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

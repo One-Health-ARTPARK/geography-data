@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62824584461954,13.64884835262984],[77.61711930022143,13.6392570709207],[77.63900967882633,13.63515462952248],[77.62824584461954,13.64884835262984]]]},"properties":{"region_id":"village_623320","name":"GULAGANJIHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

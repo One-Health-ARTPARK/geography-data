@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.47129960062598,14.28872578670921],[74.46587171178558,14.29275332939316],[74.4588473845566,14.2842046490992],[74.46476279309512,14.27950113448676],[74.47129960062598,14.28872578670921]]]},"properties":{"region_id":"village_603780","name":"KULAKOD","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

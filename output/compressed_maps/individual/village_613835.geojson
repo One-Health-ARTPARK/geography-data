@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7290489514122,12.94799913803651],[76.71145623595334,12.9350530346141],[76.7322410561029,12.92959298602385],[76.7290489514122,12.94799913803651]]]},"properties":{"region_id":"village_613835","name":"MELLAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

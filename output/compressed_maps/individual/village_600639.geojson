@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11005953702869,16.40216424989839],[77.15344849258564,16.40335316080357],[77.17376709854754,16.43016977972957],[77.12151555631846,16.44732149066094],[77.11005953702869,16.40216424989839]]]},"properties":{"region_id":"village_600639","name":"HIRERAIKUMPI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

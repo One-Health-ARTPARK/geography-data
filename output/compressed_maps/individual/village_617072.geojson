@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34971856695795,12.99669311415083],[76.33867435294187,12.99363805388911],[76.3399365193773,12.98008018503965],[76.35372212629017,12.97993555937486],[76.34971856695795,12.99669311415083]]]},"properties":{"region_id":"village_617072","name":"Y.SINGENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

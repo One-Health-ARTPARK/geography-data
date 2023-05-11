@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49967786031704,16.55989374122496],[76.47842977962259,16.58091664763895],[76.4744870091762,16.56096058203257],[76.49967786031704,16.55989374122496]]]},"properties":{"region_id":"village_620925","name":"AGTHIRTH","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

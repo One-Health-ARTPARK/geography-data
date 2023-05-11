@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65654649362489,12.90919249478129],[77.64640368469964,12.91605864080392],[77.6447934996075,12.89164070142666],[77.65449729255008,12.89665026387398],[77.65654649362489,12.90919249478129]]]},"properties":{"region_id":"village_938421","name":"HARALUKUNTE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

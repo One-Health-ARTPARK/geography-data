@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01988502158721,13.44684103582632],[76.99958985270486,13.46253465410333],[77.00044710101186,13.4385875643827],[77.01988502158721,13.44684103582632]]]},"properties":{"region_id":"village_611268","name":"CHANNENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

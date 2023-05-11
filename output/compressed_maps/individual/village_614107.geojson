@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60140619240613,12.59949304784539],[76.60058601154245,12.58257326194099],[76.6165704860109,12.57514275952327],[76.61600008213311,12.599094449984],[76.60140619240613,12.59949304784539]]]},"properties":{"region_id":"village_614107","name":"KADABA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

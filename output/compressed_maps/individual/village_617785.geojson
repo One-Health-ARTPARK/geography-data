@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53344369397644,12.61542155211431],[75.56761727843968,12.60693517740626],[75.56975817716689,12.64957216858432],[75.54021987266505,12.64410668303518],[75.53344369397644,12.61542155211431]]]},"properties":{"region_id":"village_617785","name":"NALKOORU","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

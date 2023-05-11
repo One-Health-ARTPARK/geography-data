@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37332780551179,14.57502866265658],[75.34352558899191,14.57999203021283],[75.34209063352344,14.55964583025456],[75.37561413603771,14.55212821038491],[75.37332780551179,14.57502866265658]]]},"properties":{"region_id":"village_604355","name":"HAUNSABHAVI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

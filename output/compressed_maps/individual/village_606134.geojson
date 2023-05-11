@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.599243654532,13.9624583580034],[76.57740115926134,13.96510042035208],[76.57779808830382,13.95039695983554],[76.59865261896904,13.95069306928853],[76.599243654532,13.9624583580034]]]},"properties":{"region_id":"village_606134","name":"HUCHAVVANAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

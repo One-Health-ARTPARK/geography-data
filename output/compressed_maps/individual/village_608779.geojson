@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80831436311009,13.48879137067245],[74.78000340622417,13.48403166066441],[74.78361338727602,13.46936448289514],[74.80605900707937,13.46317959275726],[74.80831436311009,13.48879137067245]]]},"properties":{"region_id":"village_608779","name":"NADUR","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

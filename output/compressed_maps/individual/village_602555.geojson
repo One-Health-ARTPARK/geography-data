@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34920033761193,15.28246984645349],[75.34693108104666,15.30349702653651],[75.3044838320562,15.30050854204078],[75.29537491649172,15.28749908054391],[75.34920033761193,15.28246984645349]]]},"properties":{"region_id":"village_602555","name":"CHIKKANARTI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

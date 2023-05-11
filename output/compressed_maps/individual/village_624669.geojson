@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.10324128099943,13.35309159760677],[78.10742176246214,13.36378656944429],[78.09608551306738,13.36576744265671],[78.09388072691901,13.35444442185648],[78.10324128099943,13.35309159760677]]]},"properties":{"region_id":"village_624669","name":"GOLLAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

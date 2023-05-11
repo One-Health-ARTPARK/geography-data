@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14818873564737,12.31224894010701],[76.15138808827751,12.32555860285666],[76.13919370846848,12.33590039084814],[76.12907786241855,12.31936564639886],[76.14818873564737,12.31224894010701]]]},"properties":{"region_id":"village_618274","name":"HARILAPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

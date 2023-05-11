@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62707581078894,12.38256996188782],[76.6128336219579,12.38449116400235],[76.6134859410087,12.37302287395689],[76.62514127126792,12.371754356585],[76.62707581078894,12.38256996188782]]]},"properties":{"region_id":"village_614285","name":"MOGARAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

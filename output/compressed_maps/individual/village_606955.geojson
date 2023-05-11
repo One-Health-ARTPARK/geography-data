@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99390431478255,14.2081172379273],[75.9741614649793,14.20539441946538],[75.96841900706977,14.18132745198584],[75.99046023554033,14.18233133837401],[75.99390431478255,14.2081172379273]]]},"properties":{"region_id":"village_606955","name":"BELLIGANODU","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

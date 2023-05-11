@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.43474057384307,14.39259275298816],[74.41948644688141,14.40176759208624],[74.4147652062489,14.3926481714648],[74.42666274953355,14.38410362386823],[74.43474057384307,14.39259275298816]]]},"properties":{"region_id":"village_603483","name":"TALGOD","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

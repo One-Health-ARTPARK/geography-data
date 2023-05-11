@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38247307485783,13.539152184651],[77.382991722384,13.57496718221964],[77.34975935262631,13.55337674803515],[77.38247307485783,13.539152184651]]]},"properties":{"region_id":"village_611109","name":"KASAPURA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62631882522686,16.19688355813679],[75.62992110425978,16.19599628168661],[75.63644969521634,16.22214414919846],[75.62740988254353,16.21625148893223],[75.62631882522686,16.19688355813679]]]},"properties":{"region_id":"village_598783","name":"BANNIDINNI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

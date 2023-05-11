@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65552810401554,15.9719876110811],[75.67274256389275,15.94378627494284],[75.69722384060672,15.96512089356824],[75.65552810401554,15.9719876110811]]]},"properties":{"region_id":"village_598748","name":"ADAGAL","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

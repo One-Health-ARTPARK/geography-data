@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12579938112648,17.32079999768353],[77.12799849025035,17.34006890495836],[77.08922444832518,17.33739714169498],[77.09012867231469,17.31881770681104],[77.12579938112648,17.32079999768353]]]},"properties":{"region_id":"village_620623","name":"MALAGHAN","parent":"subdistrict_7087","parent_name":"KALAGI"}}
+]}

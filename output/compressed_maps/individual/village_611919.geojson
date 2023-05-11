@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86412126280666,13.16898006382573],[76.85489241514105,13.17207997773642],[76.84762978476921,13.15123606577221],[76.86260835070757,13.15263691142303],[76.86412126280666,13.16898006382573]]]},"properties":{"region_id":"village_611919","name":"K.KALLAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

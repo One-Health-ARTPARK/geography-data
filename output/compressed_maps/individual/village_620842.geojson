@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85689080257826,17.01508804640325],[76.81439117673709,17.00828098279402],[76.81774060058211,16.97286084789839],[76.85480369113075,16.97281714502659],[76.85689080257826,17.01508804640325]]]},"properties":{"region_id":"village_620842","name":"GUDUR S.ANDOLA","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

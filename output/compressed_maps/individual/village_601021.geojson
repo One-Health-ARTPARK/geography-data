@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12508066287516,15.93050374384358],[77.12028131606598,15.95483746861534],[77.09343370753493,15.94290777652588],[77.10679532685536,15.92689261518135],[77.12508066287516,15.93050374384358]]]},"properties":{"region_id":"village_601021","name":"KATARKI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81453987259685,12.69687098569563],[76.8047471304404,12.70374267577023],[76.79863944042916,12.68316301940563],[76.82117798974222,12.68462206478135],[76.81453987259685,12.69687098569563]]]},"properties":{"region_id":"village_614356","name":"MANUGANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

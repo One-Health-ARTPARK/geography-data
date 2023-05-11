@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82250826969026,13.09719271290704],[74.80842596366807,13.09262642714971],[74.81700237292603,13.07963096396249],[74.83109684792979,13.07521537637075],[74.82250826969026,13.09719271290704]]]},"properties":{"region_id":"village_617431","name":"SHIMANTHUR","parent":"subdistrict_7198","parent_name":"MULKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45615032706658,16.50570344015552],[75.48538803577847,16.50742286171549],[75.48813224558299,16.55477576166375],[75.45194311377763,16.5691837664033],[75.45615032706658,16.50570344015552]]]},"properties":{"region_id":"village_598472","name":"BIDARI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

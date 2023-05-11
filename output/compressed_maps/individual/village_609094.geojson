@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46707834222775,13.4093794791427],[75.46150838595821,13.43304464800291],[75.43674769562328,13.42295292617483],[75.46707834222775,13.4093794791427]]]},"properties":{"region_id":"village_609094","name":"MEGARAMAKKI","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

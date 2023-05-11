@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24334388451464,15.57153981664897],[76.20468076941727,15.57692716426003],[76.21282828738237,15.5548038947145],[76.24334388451464,15.57153981664897]]]},"properties":{"region_id":"village_601303","name":"KOLIHAL","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

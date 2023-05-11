@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2742395210571,14.56917005134452],[75.26648098559616,14.5710210503071],[75.26479647350054,14.56067632623058],[75.27609543023354,14.56404711958389],[75.2742395210571,14.56917005134452]]]},"properties":{"region_id":"village_607448","name":"KOPPADAHALU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

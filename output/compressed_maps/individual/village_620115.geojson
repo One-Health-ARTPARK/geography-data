@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41205724353067,17.35091082707813],[76.3831531885184,17.3149280746433],[76.43601619750332,17.28930983798257],[76.440302218152,17.33879403154951],[76.41205724353067,17.35091082707813]]]},"properties":{"region_id":"village_620115","name":"BADADAL","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

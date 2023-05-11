@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52905561355428,13.21140045653964],[76.512778785078,13.20110262740324],[76.52752534389083,13.19682649511313],[76.52905561355428,13.21140045653964]]]},"properties":{"region_id":"village_612158","name":"N.MELANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

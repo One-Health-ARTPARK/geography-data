@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78782706494025,14.40285218220673],[74.79257734118374,14.42156410414378],[74.78090652077418,14.42818229944205],[74.76627343226322,14.40543726893896],[74.78782706494025,14.40285218220673]]]},"properties":{"region_id":"village_603628","name":"HAVINBIL","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

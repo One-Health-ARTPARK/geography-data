@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36509478827205,13.42655630612585],[77.34626265960819,13.42492209563789],[77.34735370025383,13.41795049945977],[77.36331593404465,13.41695891935962],[77.36509478827205,13.42655630612585]]]},"properties":{"region_id":"village_611193","name":"YALAMARAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

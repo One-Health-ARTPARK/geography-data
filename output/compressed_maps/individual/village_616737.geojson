@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07411302816006,12.61009768000941],[76.06555063722327,12.60800553598822],[76.06494487312827,12.59412143070023],[76.06993169468389,12.59604199342584],[76.07411302816006,12.61009768000941]]]},"properties":{"region_id":"village_616737","name":"NAVILE","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98899653957577,13.78549111421676],[75.98788251265705,13.79881154338933],[75.98210238626196,13.79648556034547],[75.98208869768041,13.78906834216811],[75.98899653957577,13.78549111421676]]]},"properties":{"region_id":"village_609263","name":"HIREKANVANGALA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42257422053501,12.6788956127806],[75.43954659128596,12.67128158325501],[75.46313019866568,12.69832570577369],[75.43092213809722,12.70183977323798],[75.42257422053501,12.6788956127806]]]},"properties":{"region_id":"village_617776","name":"YENMOORU","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79203829055032,17.38166122133746],[76.77453911859108,17.41284298583546],[76.74971972231367,17.40564079658701],[76.76016640585436,17.37495190179004],[76.79203829055032,17.38166122133746]]]},"properties":{"region_id":"village_620281","name":"KERIBHOSGA","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

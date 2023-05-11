@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43236295036172,14.64542218671511],[75.41040989603503,14.64646559359088],[75.41677147998945,14.62494123853712],[75.43236295036172,14.64542218671511]]]},"properties":{"region_id":"village_604300","name":"KERAWADI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

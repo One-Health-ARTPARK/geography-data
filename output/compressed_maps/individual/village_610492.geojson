@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93911807130227,13.63534637658604],[76.9002213596167,13.63804751033884],[76.9173545112779,13.59546000625627],[76.9473820563783,13.61092586950165],[76.93911807130227,13.63534637658604]]]},"properties":{"region_id":"village_610492","name":"KALLAMBELLA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

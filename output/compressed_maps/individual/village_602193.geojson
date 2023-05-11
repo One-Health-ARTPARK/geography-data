@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74894813326054,15.02016190509656],[75.75249460338391,14.99909470810212],[75.7855215899059,15.00166201598608],[75.7863855801366,15.0127928576318],[75.74894813326054,15.02016190509656]]]},"properties":{"region_id":"village_602193","name":"VITHALAPUR","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

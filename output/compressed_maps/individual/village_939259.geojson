@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58333477924923,12.4486526786028],[75.56413748594287,12.45717125954287],[75.54266450817335,12.43911034560911],[75.57395347649216,12.4305940570755],[75.58333477924923,12.4486526786028]]]},"properties":{"region_id":"village_939259","name":"DABBADKA","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

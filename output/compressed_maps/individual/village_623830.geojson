@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7289820331546,13.77419997951227],[77.73324787483837,13.78555222581455],[77.72194649086344,13.79094523603629],[77.71843920206898,13.78282822878582],[77.7289820331546,13.77419997951227]]]},"properties":{"region_id":"village_623830","name":"KRISHNAPURA","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

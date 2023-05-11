@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.843942971132,14.39453921872051],[74.82859104988164,14.37746774511942],[74.84810963179123,14.36510306777945],[74.843942971132,14.39453921872051]]]},"properties":{"region_id":"village_603687","name":"BIDARKAN","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

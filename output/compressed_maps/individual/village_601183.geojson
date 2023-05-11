@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84723335801532,15.75086236691995],[76.82948364631595,15.74311890505344],[76.84043768302202,15.71779254164919],[76.85470690166981,15.70813859165127],[76.84723335801532,15.75086236691995]]]},"properties":{"region_id":"village_601183","name":"KANNARI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11200440108854,14.47731996203672],[76.09461818089387,14.46435034248432],[76.12375508318426,14.44300010977839],[76.11200440108854,14.47731996203672]]]},"properties":{"region_id":"village_606604","name":"HULIKATTE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

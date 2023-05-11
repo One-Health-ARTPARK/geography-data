@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48123466450606,13.35187600824443],[76.45602985371997,13.34875123273081],[76.47414619731842,13.33619021508518],[76.48123466450606,13.35187600824443]]]},"properties":{"region_id":"village_612005","name":"CHOWLIHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

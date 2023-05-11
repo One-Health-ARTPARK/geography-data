@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45476524088926,16.09743329938524],[77.43848229712735,16.07307206472622],[77.46665031271985,16.06636249189922],[77.4761277241834,16.08332043305437],[77.45476524088926,16.09743329938524]]]},"properties":{"region_id":"village_600841","name":"JAMBALDINNI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90883415157066,13.26896038898472],[77.89563764504601,13.27167851051872],[77.89792705651217,13.26297000231432],[77.90883415157066,13.26896038898472]]]},"properties":{"region_id":"village_624289","name":"KALINAYAKANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32505915597065,15.52428464605378],[75.32413606727857,15.50708152816509],[75.37233030343454,15.50560820289305],[75.36926777987821,15.52160812299203],[75.32505915597065,15.52428464605378]]]},"properties":{"region_id":"village_602338","name":"CHILAKAWAD","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

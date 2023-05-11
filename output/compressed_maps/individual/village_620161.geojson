@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50013362995705,17.1937718570924],[76.51740092956686,17.20936878367035],[76.50759451119227,17.22235123470204],[76.49221171032241,17.20517124189287],[76.50013362995705,17.1937718570924]]]},"properties":{"region_id":"village_620161","name":"AWARAD","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

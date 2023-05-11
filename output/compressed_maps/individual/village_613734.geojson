@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81436383176418,12.97329291288187],[76.80802900796812,12.98772420622967],[76.800226721397,12.97025468431926],[76.81436383176418,12.97329291288187]]]},"properties":{"region_id":"village_613734","name":"BEECHANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6566426822602,13.61341235074108],[76.64849766454014,13.63462899067604],[76.63353825460959,13.62800871071912],[76.64372058255057,13.61149051454256],[76.6566426822602,13.61341235074108]]]},"properties":{"region_id":"village_610114","name":"HOISALAKATTE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

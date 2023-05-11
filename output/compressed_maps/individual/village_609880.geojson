@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75854748081537,13.21807291021288],[75.75886150744002,13.23628352855758],[75.7451397188842,13.23573680749057],[75.74357864381633,13.22342834115796],[75.75854748081537,13.21807291021288]]]},"properties":{"region_id":"village_609880","name":"KUNDUR","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

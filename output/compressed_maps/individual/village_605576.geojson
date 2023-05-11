@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58132859707626,14.20286794511344],[76.54925792676681,14.20551300171479],[76.55099197750265,14.18279356632888],[76.57676929326364,14.17893886806339],[76.58132859707626,14.20286794511344]]]},"properties":{"region_id":"village_605576","name":"SAJJANAKERE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

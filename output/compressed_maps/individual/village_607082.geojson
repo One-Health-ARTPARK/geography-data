@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99886938800707,14.03366705668715],[75.97762068384628,14.02984774226034],[75.9782999759737,14.00981104101367],[76.00933301326508,14.01603298715942],[75.99886938800707,14.03366705668715]]]},"properties":{"region_id":"village_607082","name":"BENKIKERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

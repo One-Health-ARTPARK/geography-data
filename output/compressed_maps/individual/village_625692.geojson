@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81399540500439,13.08974037946081],[77.8139665107762,13.09734575917027],[77.80881612878925,13.10589925986457],[77.80652360216303,13.10071032515776],[77.81062867508668,13.098204335064],[77.81399540500439,13.08974037946081]]]},"properties":{"region_id":"village_625692","name":"YELACHANAYAKANAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11116162111392,12.77281390718618],[76.10162815090389,12.7771834470197],[76.09702926190253,12.76724488482662],[76.11108583708254,12.76154402673424],[76.11116162111392,12.77281390718618]]]},"properties":{"region_id":"village_616599","name":"DEVARAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

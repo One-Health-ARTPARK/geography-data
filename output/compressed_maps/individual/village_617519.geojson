@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8845218150726,12.78214296504094],[74.86705601017624,12.77065573531495],[74.87497077522805,12.75446790479812],[74.89313113195962,12.76233650313163],[74.8845218150726,12.78214296504094]]]},"properties":{"region_id":"village_617519","name":"TALAPADY (CT)","parent":"subdistrict_7197","parent_name":"ULLALA"}}
+]}

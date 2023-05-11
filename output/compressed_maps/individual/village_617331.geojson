@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55677023887606,12.94106755428177],[76.546521971354,12.94307660392293],[76.54682530374316,12.93396346832164],[76.5548223018782,12.93549205444295],[76.55677023887606,12.94106755428177]]]},"properties":{"region_id":"village_617331","name":"HEGGADIHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

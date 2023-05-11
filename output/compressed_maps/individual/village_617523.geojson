@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8509755982454,12.99422758694888],[74.8327402662032,12.99254072185318],[74.82080968752477,12.98005983314536],[74.8389943680959,12.96924707784345],[74.8509755982454,12.99422758694888]]]},"properties":{"region_id":"village_617523","name":"BALA (OG)","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72454706942628,14.65449970806571],[74.7149586287415,14.66504615328452],[74.71008681934245,14.66001362294548],[74.71496214759024,14.65107075740985],[74.72454706942628,14.65449970806571]]]},"properties":{"region_id":"village_603138","name":"SALKANI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

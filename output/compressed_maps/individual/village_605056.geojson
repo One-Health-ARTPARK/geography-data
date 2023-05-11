@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33453221873437,14.89251342911502],[76.3034807345495,14.89210697003807],[76.30289753289702,14.86530164927055],[76.3442827770482,14.85673762458064],[76.33453221873437,14.89251342911502]]]},"properties":{"region_id":"village_605056","name":"GAJAPURA","parent":"subdistrict_7108","parent_name":"KOTTURU"}}
+]}

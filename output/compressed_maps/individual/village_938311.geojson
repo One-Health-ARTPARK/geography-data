@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71758776433667,12.93906666955399],[77.69914888434432,12.94287987573594],[77.6963594586923,12.93200818506746],[77.71052156840051,12.92418926855305],[77.71758776433667,12.93906666955399]]]},"properties":{"region_id":"village_938311","name":"PANATURU","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

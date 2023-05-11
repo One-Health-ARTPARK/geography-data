@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97467883101999,13.3492171152922],[77.98234303283893,13.35639127355658],[77.96518651397619,13.36669062255071],[77.96160689015956,13.35412214591606],[77.97467883101999,13.3492171152922]]]},"properties":{"region_id":"village_624587","name":"HULUGUMMANAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

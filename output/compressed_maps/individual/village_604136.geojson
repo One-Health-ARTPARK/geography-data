@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17476333890413,14.66701582149852],[75.15180028417883,14.65186816553387],[75.16078106670612,14.63364300671159],[75.18220442979728,14.6537955177688],[75.17476333890413,14.66701582149852]]]},"properties":{"region_id":"village_604136","name":"MAKARVALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

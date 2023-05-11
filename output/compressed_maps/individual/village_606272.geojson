@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85228915954482,14.57653088975345],[75.86715919173587,14.5710569288033],[75.87060029878786,14.58424243466609],[75.85012169783352,14.58396592850462],[75.85228915954482,14.57653088975345]]]},"properties":{"region_id":"village_606272","name":"BULLAPURA","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

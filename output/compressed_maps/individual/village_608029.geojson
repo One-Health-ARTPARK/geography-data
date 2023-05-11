@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00731450494207,13.79873035398811],[74.96712274271493,13.76716768022182],[74.99753788465664,13.74386042022388],[75.0260422766637,13.77373368700831],[75.00731450494207,13.79873035398811]]]},"properties":{"region_id":"village_608029","name":"KARIMANE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

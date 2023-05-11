@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15996720870454,14.61698389785004],[75.14700358701504,14.61038517160644],[75.14723814083105,14.59813270848991],[75.16040061982768,14.59893160154111],[75.15996720870454,14.61698389785004]]]},"properties":{"region_id":"village_607408","name":"AGASANAHALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

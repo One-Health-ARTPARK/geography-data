@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88413718885614,15.24483313855306],[74.86964866024057,15.2833772662505],[74.84278032013638,15.2505787474851],[74.88413718885614,15.24483313855306]]]},"properties":{"region_id":"village_602865","name":"BELWATGI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

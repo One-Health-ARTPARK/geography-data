@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8920973370815,13.43135634816335],[76.87454382823785,13.43073757720245],[76.87065540590332,13.41430271373014],[76.88668701715974,13.4069462421286],[76.8920973370815,13.43135634816335]]]},"properties":{"region_id":"village_611708","name":"MUGINAHUNASE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0995263791727,12.73045867374278],[76.0909668202788,12.7195861253864],[76.10025088316672,12.71565714237108],[76.10417299584734,12.72130306607783],[76.0995263791727,12.73045867374278]]]},"properties":{"region_id":"village_616638","name":"SHANBHOGANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

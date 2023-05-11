@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97745643224194,16.25363443813951],[76.9725342311842,16.2411412990821],[76.98538592701526,16.24107181570185],[76.9910252857694,16.24893685419453],[76.97745643224194,16.25363443813951]]]},"properties":{"region_id":"village_600708","name":"MALLEDEVERGUD","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

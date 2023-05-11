@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83923128676945,12.44715779374473],[76.84703132956662,12.43765903815492],[76.85158220551804,12.44629943435356],[76.83923128676945,12.44715779374473]]]},"properties":{"region_id":"village_614265","name":"DODDAHAROHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31321165128409,13.29043465775162],[77.29829431265236,13.29371019208685],[77.29420445970527,13.28035632936707],[77.31057359070564,13.28216141278112],[77.31321165128409,13.29043465775162]]]},"properties":{"region_id":"village_624721","name":"KUNTBOMMANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

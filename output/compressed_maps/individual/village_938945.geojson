@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77072240246997,13.36144399499343],[75.76396690012446,13.3567671813522],[75.76054606738508,13.34701951554612],[75.76898974328155,13.34380482845168],[75.77072240246997,13.36144399499343]]]},"properties":{"region_id":"village_938945","name":"BALEHALLI (KASABA)","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35958477941024,13.10451567382868],[77.34786235510623,13.11303226188344],[77.3422963189798,13.09650775922337],[77.36067715631002,13.09288306465002],[77.35958477941024,13.10451567382868]]]},"properties":{"region_id":"village_624907","name":"YELACHAGERE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

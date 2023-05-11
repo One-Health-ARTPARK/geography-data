@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30527540206496,13.46582461154506],[77.28917087322938,13.46994963244113],[77.28972540649643,13.4644227354627],[77.30527540206496,13.46582461154506]]]},"properties":{"region_id":"village_611167","name":"MELEHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

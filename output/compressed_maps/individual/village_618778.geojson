@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60647626813544,12.15857101377186],[76.58002252465133,12.15756601933446],[76.57903125004843,12.14337584990172],[76.60583482476815,12.14359220625402],[76.60647626813544,12.15857101377186]]]},"properties":{"region_id":"village_618778","name":"DOORA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

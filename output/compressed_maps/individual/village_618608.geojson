@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20934034306653,12.51539050520669],[76.20420678207594,12.51975094305686],[76.19009505238807,12.52227198283838],[76.18811961149862,12.51473554346228],[76.19746221111846,12.4973585848388],[76.20934034306653,12.51539050520669]]]},"properties":{"region_id":"village_618608","name":"NADAPPANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32341411657721,14.40349031174889],[75.31905090745644,14.41127382799207],[75.30267038675075,14.40527250569338],[75.31104309717168,14.39780614615481],[75.32341411657721,14.40349031174889]]]},"properties":{"region_id":"village_607724","name":"MUTHAGI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

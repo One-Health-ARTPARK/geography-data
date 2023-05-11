@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59084403905568,14.06355101783465],[75.61075931392479,14.05978743487677],[75.61810025978112,14.07698260089963],[75.60488251631753,14.08436669215443],[75.59084403905568,14.06355101783465]]]},"properties":{"region_id":"village_606751","name":"MUSSENALU","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

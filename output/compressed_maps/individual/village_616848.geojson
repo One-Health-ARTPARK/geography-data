@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28113357941723,12.91866958136736],[76.26926357938373,12.92105709074389],[76.26941788208946,12.91842248308485],[76.27961453169044,12.91333506310215],[76.28113357941723,12.91866958136736]]]},"properties":{"region_id":"village_616848","name":"LAXMIPURA","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

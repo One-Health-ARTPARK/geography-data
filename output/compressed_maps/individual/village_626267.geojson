@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2456326807212,12.61083773347129],[77.22743457821457,12.61126174796603],[77.23535642026364,12.59598460116665],[77.2456326807212,12.61083773347129]]]},"properties":{"region_id":"village_626267","name":"KODIPURA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

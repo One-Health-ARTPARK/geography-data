@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36262382208254,13.64901663823824],[77.35128282238273,13.67245412531983],[77.32886575751552,13.67016820965347],[77.33417181151636,13.6411607577485],[77.36262382208254,13.64901663823824]]]},"properties":{"region_id":"village_610971","name":"KONDAVADI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

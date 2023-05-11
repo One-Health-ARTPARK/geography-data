@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73089522500051,13.14549167636305],[76.71552428455149,13.14939799138084],[76.7113366399441,13.13906069271477],[76.72219498514859,13.13059259849956],[76.73089522500051,13.14549167636305]]]},"properties":{"region_id":"village_612250","name":"DWARANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

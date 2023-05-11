@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95541423073875,14.31771845681785],[75.9307980591076,14.32723626797828],[75.90491752278798,14.30358102332339],[75.93359498502718,14.28890498999539],[75.95541423073875,14.31771845681785]]]},"properties":{"region_id":"village_606686","name":"LIKIKERE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

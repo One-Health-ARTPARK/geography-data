@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74463478161783,12.36535882988985],[76.76283066847228,12.36124153881299],[76.77156009205497,12.38390141577218],[76.75668800314506,12.38497711666895],[76.74463478161783,12.36535882988985]]]},"properties":{"region_id":"village_614302","name":"TARIPURA","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

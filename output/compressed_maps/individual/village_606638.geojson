@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13425367797588,14.42787583606629],[76.12377652887336,14.44297040471938],[76.0839828635417,14.43954187390942],[76.08697256476773,14.41757974562236],[76.13425367797588,14.42787583606629]]]},"properties":{"region_id":"village_606638","name":"GUDALU","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

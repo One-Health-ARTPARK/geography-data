@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85586587627543,12.72219873124613],[75.84222136397328,12.72614042201714],[75.83340473358743,12.71794458766067],[75.84889741870865,12.70833523094627],[75.85586587627543,12.72219873124613]]]},"properties":{"region_id":"village_615058","name":"SANTHAHALLI","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

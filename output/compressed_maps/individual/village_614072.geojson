@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69190865196937,12.6404194368605],[76.67731696267913,12.64356203192519],[76.67542560532175,12.62588210813916],[76.6868687765955,12.6251455166156],[76.69190865196937,12.6404194368605]]]},"properties":{"region_id":"village_614072","name":"AMRUTHI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

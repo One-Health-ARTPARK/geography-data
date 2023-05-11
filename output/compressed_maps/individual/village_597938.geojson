@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52053673309506,15.60071663651466],[74.49981951732238,15.60313915522141],[74.50223698210092,15.59613798839358],[74.51228784666912,15.59414040544845],[74.52053673309506,15.60071663651466]]]},"properties":{"region_id":"village_597938","name":"GANGAWALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

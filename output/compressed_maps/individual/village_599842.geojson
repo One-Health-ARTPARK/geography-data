@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97313803110052,18.09653651272301],[76.9870868040104,18.10984772975782],[76.96928317418468,18.11778794551666],[76.97313803110052,18.09653651272301]]]},"properties":{"region_id":"village_599842","name":"SRIMALI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

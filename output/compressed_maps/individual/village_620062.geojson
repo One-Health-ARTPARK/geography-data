@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52241870608393,17.50339946243769],[76.50318436032003,17.46339705409839],[76.5308040764444,17.44690774210698],[76.56162859526704,17.48383078167805],[76.52241870608393,17.50339946243769]]]},"properties":{"region_id":"village_620062","name":"BHUSNOOR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

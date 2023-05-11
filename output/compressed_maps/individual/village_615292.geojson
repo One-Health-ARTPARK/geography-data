@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01890280828859,13.18912053084205],[76.02226571282627,13.17283282893502],[76.0353722794177,13.18662919099836],[76.01890280828859,13.18912053084205]]]},"properties":{"region_id":"village_615292","name":"THATTEHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

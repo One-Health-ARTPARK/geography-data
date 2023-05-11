@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42692388359261,13.25463375072499],[77.41847992516345,13.24324180458006],[77.42923538188852,13.23990101748857],[77.43431908489745,13.24703142302034],[77.42692388359261,13.25463375072499]]]},"properties":{"region_id":"village_625206","name":"SYAKALDEVANAPURA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

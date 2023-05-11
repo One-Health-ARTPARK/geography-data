@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78217975835838,13.68299010360429],[77.774050841407,13.68213719287789],[77.77543277508309,13.67044409986294],[77.78223696088699,13.67082841393722],[77.78217975835838,13.68299010360429]]]},"properties":{"region_id":"village_623746","name":"RAMAGANAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

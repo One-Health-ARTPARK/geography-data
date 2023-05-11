@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3948963237888,12.65661541236001],[76.37035736516685,12.65848327047121],[76.37028726621156,12.64826289272908],[76.38818915998877,12.64268024697403],[76.3948963237888,12.65661541236001]]]},"properties":{"region_id":"village_613603","name":"SAXIBEEDU","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

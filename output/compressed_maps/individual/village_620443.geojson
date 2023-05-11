@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40170808654086,17.38158439519665],[77.38818102911424,17.39289296514835],[77.37827249940382,17.37127821070453],[77.39755693850535,17.36613896116149],[77.40170808654086,17.38158439519665]]]},"properties":{"region_id":"village_620443","name":"RAMTEERTH","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72549986647843,13.38759319104054],[77.71891498323126,13.37663857205906],[77.7258253806821,13.37555759815559],[77.73282875888064,13.38548684650987],[77.72549986647843,13.38759319104054]]]},"properties":{"region_id":"village_623636","name":"CHADULAPURA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

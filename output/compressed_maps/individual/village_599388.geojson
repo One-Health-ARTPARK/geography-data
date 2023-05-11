@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41280972185471,16.74460011164456],[76.39454349310495,16.74194220914444],[76.39232062209354,16.72112730202465],[76.4088838403626,16.72551300802682],[76.41280972185471,16.74460011164456]]]},"properties":{"region_id":"village_599388","name":"KHANAPUR","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

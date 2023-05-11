@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33621714715278,13.23647001575678],[77.35544661706291,13.2567520068787],[77.34242778664196,13.25938582808732],[77.33621714715278,13.23647001575678]]]},"properties":{"region_id":"village_624798","name":"KODIGEHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

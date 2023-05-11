@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78233879180105,13.16478495843911],[75.77270132846073,13.16835180141836],[75.76403257661683,13.15566262860503],[75.77925180084137,13.15958373656984],[75.78233879180105,13.16478495843911]]]},"properties":{"region_id":"village_615079","name":"MADAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

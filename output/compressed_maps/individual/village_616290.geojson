@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96229213155488,12.8027269524206],[75.9590210995385,12.81203448671196],[75.94905809611824,12.80627804230603],[75.95008846277216,12.80010588787105],[75.96229213155488,12.8027269524206]]]},"properties":{"region_id":"village_616290","name":"KATTEHOSUR","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

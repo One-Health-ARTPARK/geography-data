@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60709340186128,13.0464144225201],[77.60140386515307,13.04421964956172],[77.60240527946054,13.03665250356147],[77.60684379999644,13.03649220906311],[77.60709340186128,13.0464144225201]]]},"properties":{"region_id":"village_938343","name":"VISHVANATHA NAGENAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

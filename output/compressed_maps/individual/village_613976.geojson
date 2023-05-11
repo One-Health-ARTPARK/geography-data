@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59770050085652,12.74440235928594],[76.59312742954779,12.72473909699375],[76.61233442085631,12.7305237361009],[76.59770050085652,12.74440235928594]]]},"properties":{"region_id":"village_613976","name":"KORAVANAGUNDI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

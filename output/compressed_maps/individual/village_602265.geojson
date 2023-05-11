@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91422645441257,15.38462184500496],[74.88437940109469,15.37884553905748],[74.8961358323525,15.35798318881083],[74.91422645441257,15.38462184500496]]]},"properties":{"region_id":"village_602265","name":"MURAKATTI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

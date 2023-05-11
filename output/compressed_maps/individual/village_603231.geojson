@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85892352452464,14.60069189974321],[74.83904786009494,14.58994041012725],[74.87870293458408,14.57994005306819],[74.8771337327202,14.59467507292642],[74.85892352452464,14.60069189974321]]]},"properties":{"region_id":"village_603231","name":"TERKANALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

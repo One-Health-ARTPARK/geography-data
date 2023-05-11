@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18094120851364,15.46354612583082],[76.1632227086378,15.45805533158917],[76.16631126263867,15.43723098010648],[76.1828734178428,15.44148144684319],[76.18094120851364,15.46354612583082]]]},"properties":{"region_id":"village_601813","name":"BUDSETTINHAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

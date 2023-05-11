@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90255672271037,13.010754627481],[76.89125081417141,13.01155544482247],[76.89136037013768,13.0029672087281],[76.90170699435598,13.00466826984775],[76.90255672271037,13.010754627481]]]},"properties":{"region_id":"village_612467","name":"MANAVALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

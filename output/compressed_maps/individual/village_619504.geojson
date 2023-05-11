@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74706636492827,11.82625875053253],[76.72466678229505,11.82518578164341],[76.7361738392634,11.81098536824468],[76.74706636492827,11.82625875053253]]]},"properties":{"region_id":"village_619504","name":"KELASURUPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

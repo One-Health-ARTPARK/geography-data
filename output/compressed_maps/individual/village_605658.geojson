@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11789099213762,14.12040608868366],[76.09818298978261,14.12262808948162],[76.09970956999557,14.10449262305842],[76.11840311601591,14.10426614833932],[76.11789099213762,14.12040608868366]]]},"properties":{"region_id":"village_605658","name":"KODAGAVALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80563357119013,13.19345956924754],[75.7874764705527,13.20265190857924],[75.78933919079735,13.18752781990671],[75.80563357119013,13.19345956924754]]]},"properties":{"region_id":"village_615177","name":"IRAVALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41401745868873,13.64435780635354],[76.41612156746876,13.66907665947213],[76.38927820196506,13.66547370811211],[76.3947325587857,13.6420496811669],[76.41401745868873,13.64435780635354]]]},"properties":{"region_id":"village_605976","name":"NERALAKERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

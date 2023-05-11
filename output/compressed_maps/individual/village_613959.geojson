@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90854616132437,12.74518930402419],[76.91113855813009,12.75919258979369],[76.90227577576887,12.76028408551769],[76.89516319239729,12.75051299075515],[76.90854616132437,12.74518930402419]]]},"properties":{"region_id":"village_613959","name":"MAVINAKERE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

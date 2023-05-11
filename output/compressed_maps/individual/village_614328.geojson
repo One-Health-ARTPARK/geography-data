@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90668862116496,12.74392819286424],[76.87975801253741,12.74006383913454],[76.89038736149202,12.725335894012],[76.90668862116496,12.74392819286424]]]},"properties":{"region_id":"village_614328","name":"SHIVAPURA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

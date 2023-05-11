@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57986458451927,12.4908259144742],[76.55866940949026,12.48928536572755],[76.5583189164867,12.46657966945304],[76.57351926093617,12.46659472369781],[76.57986458451927,12.4908259144742]]]},"properties":{"region_id":"village_614135","name":"BANNANGADI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

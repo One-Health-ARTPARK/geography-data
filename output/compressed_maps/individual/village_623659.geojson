@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79656829931486,13.41235873129015],[77.78558097030361,13.41579951378021],[77.78255019061649,13.39805691301476],[77.79434711268776,13.39615887676958],[77.79656829931486,13.41235873129015]]]},"properties":{"region_id":"village_623659","name":"NUGATHIHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

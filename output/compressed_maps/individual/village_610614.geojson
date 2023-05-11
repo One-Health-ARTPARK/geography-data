@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13784999143772,14.13167579502116],[77.11744687408294,14.12174703589759],[77.11718010033741,14.10431407106259],[77.13748594305179,14.09884187217932],[77.13784999143772,14.13167579502116]]]},"properties":{"region_id":"village_610614","name":"KONDETHIMMANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01875598659672,15.9313280573037],[76.00178186652312,15.91917004082385],[75.99631307561174,15.89723538283804],[76.01613271377471,15.88576012180755],[76.02361854083719,15.90723124770626],[76.01875598659672,15.9313280573037]]]},"properties":{"region_id":"village_601431","name":"BEELAGI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

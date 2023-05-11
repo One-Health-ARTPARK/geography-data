@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9201434216149,15.25731500851396],[75.9114955410726,15.27889642187599],[75.89540286100197,15.28074420408017],[75.89921969896952,15.25190620457645],[75.9201434216149,15.25731500851396]]]},"properties":{"region_id":"village_601725","name":"MURLAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

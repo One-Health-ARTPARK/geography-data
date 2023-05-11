@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27750418031732,16.35531265252661],[77.26128038204176,16.34547348528277],[77.2780064540375,16.33833935173742],[77.27750418031732,16.35531265252661]]]},"properties":{"region_id":"village_600731","name":"SRINIVASPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

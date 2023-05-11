@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41868691693732,17.00298851991013],[77.38432459824298,16.99898845662607],[77.39208607013217,16.9706183042011],[77.41910760061334,16.98261825966978],[77.41868691693732,17.00298851991013]]]},"properties":{"region_id":"village_620574","name":"CHANDAPUR","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

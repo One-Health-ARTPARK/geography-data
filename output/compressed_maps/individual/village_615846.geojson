@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.973876252602,13.07739288962241],[75.97159479984124,13.08535691206444],[75.96261511916416,13.08527004313659],[75.96641228223024,13.07221262078349],[75.973876252602,13.07739288962241]]]},"properties":{"region_id":"village_615846","name":"KAMENAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

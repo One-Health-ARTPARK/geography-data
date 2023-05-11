@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74261711070953,16.42045423648758],[76.72665359881739,16.43108459267211],[76.72827407588936,16.40323583668788],[76.74261711070953,16.42045423648758]]]},"properties":{"region_id":"village_621009","name":"KAMPAPUR","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

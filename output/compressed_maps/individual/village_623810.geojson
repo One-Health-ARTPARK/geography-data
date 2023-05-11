@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.88115446734679,13.85537822722998],[77.88255058066517,13.86789198674873],[77.90540220436127,13.88717620809002],[77.87884416293187,13.88586325470335],[77.86555313952097,13.85814606430017],[77.88115446734679,13.85537822722998]]]},"properties":{"region_id":"village_623810","name":"CHANCHARAYANAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08515121650684,13.57656880844177],[76.07139158902864,13.58728369074561],[76.06669170361629,13.57686371185553],[76.08515121650684,13.57656880844177]]]},"properties":{"region_id":"village_609502","name":"BILUVALA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

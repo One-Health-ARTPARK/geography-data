@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33146919158159,14.40894629743186],[76.30692169178761,14.44131716564075],[76.28569812922757,14.42154998697921],[76.33146919158159,14.40894629743186]]]},"properties":{"region_id":"village_606525","name":"BIDARAKERE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

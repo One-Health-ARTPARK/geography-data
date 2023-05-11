@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26939152104235,12.55108217367065],[77.25587743522581,12.48420553720353],[77.28576188792573,12.47484931403312],[77.28613988087181,12.52029346529693],[77.26939152104235,12.55108217367065]]]},"properties":{"region_id":"village_626492","name":"KABBAL FOREST","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

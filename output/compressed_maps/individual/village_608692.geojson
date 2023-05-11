@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74047116472634,13.65658700488825],[74.71294707977496,13.65115924687225],[74.71624515656531,13.64099103645196],[74.74047116472634,13.65658700488825]]]},"properties":{"region_id":"village_608692","name":"HATTIANGADI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

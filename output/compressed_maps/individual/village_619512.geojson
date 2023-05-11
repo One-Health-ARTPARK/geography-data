@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74764301829869,11.80629557028376],[76.72991260105444,11.81104258454759],[76.72937808087423,11.80234888446952],[76.74764301829869,11.80629557028376]]]},"properties":{"region_id":"village_619512","name":"SHINDANAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70590115109022,12.22474443615505],[76.68703156667542,12.22783070084456],[76.68834150484405,12.21775880473561],[76.69704359709044,12.21671582012618],[76.70590115109022,12.22474443615505]]]},"properties":{"region_id":"village_618812","name":"DEVALAPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

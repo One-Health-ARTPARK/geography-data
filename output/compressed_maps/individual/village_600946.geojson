@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8957838293485,16.10794662821192],[76.88320843485481,16.11993271319933],[76.86521187798223,16.09914163056404],[76.8957838293485,16.10794662821192]]]},"properties":{"region_id":"village_600946","name":"CHIKKABADARDINNI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

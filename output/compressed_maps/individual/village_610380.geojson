@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95084591050978,13.71564259755337],[76.93923630682072,13.70526154336467],[76.95612954348299,13.70227709037444],[76.95084591050978,13.71564259755337]]]},"properties":{"region_id":"village_610380","name":"AREHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

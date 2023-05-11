@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33132861563506,14.23592889687156],[76.3110167098141,14.2400547276072],[76.30945872225084,14.22190957968958],[76.33132861563506,14.23592889687156]]]},"properties":{"region_id":"village_605544","name":"HOSAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

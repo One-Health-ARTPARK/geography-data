@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.20117668502111,12.83497317153703],[78.19325327772894,12.83465111292081],[78.19484256764125,12.82749038617413],[78.19914616517426,12.82797644159797],[78.20117668502111,12.83497317153703]]]},"properties":{"region_id":"village_622637","name":"BANDARLAHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

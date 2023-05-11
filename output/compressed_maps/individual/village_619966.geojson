@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61287203756716,17.64594270172057],[76.62494692356915,17.64722177299072],[76.63450933491315,17.68281076106343],[76.61519990566174,17.70371363301816],[76.59295110412798,17.69527659126625],[76.61287203756716,17.64594270172057]]]},"properties":{"region_id":"village_619966","name":"RUDRAWADI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80906886151918,15.12577727356849],[75.80040781359305,15.15081276225279],[75.73650093017541,15.12444324030159],[75.76077209358824,15.10093815753383],[75.80906886151918,15.12577727356849]]]},"properties":{"region_id":"village_602168","name":"BAGEWADI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

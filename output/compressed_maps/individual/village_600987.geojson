@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13799093613638,16.09789419712542],[77.12254441610533,16.10233457556025],[77.10325658048778,16.10144117337666],[77.10316809862309,16.09447997469089],[77.11904386807217,16.091962928464],[77.13799093613638,16.09789419712542]]]},"properties":{"region_id":"village_600987","name":"BEVINUR","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

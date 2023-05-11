@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00210145237538,17.1933141102019],[76.98426454953886,17.19697973363399],[76.98728921358608,17.16155556814715],[77.00655008460188,17.17142354727261],[77.00210145237538,17.1933141102019]]]},"properties":{"region_id":"village_620649","name":"MUTGA","parent":"subdistrict_7088","parent_name":"SHAHABAD"}}
+]}

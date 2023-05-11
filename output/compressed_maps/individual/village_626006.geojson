@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15418926661496,12.897738136364],[77.14023761135844,12.89871004503477],[77.14654266385108,12.8785287214312],[77.15418926661496,12.897738136364]]]},"properties":{"region_id":"village_626006","name":"HULIKATTE","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

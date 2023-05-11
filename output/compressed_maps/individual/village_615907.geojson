@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11883364774089,13.1760588869899],[76.1358754134557,13.18989120733008],[76.11964362209895,13.20741138583315],[76.08884954454757,13.17879343039986],[76.11883364774089,13.1760588869899]]]},"properties":{"region_id":"village_615907","name":"IDALLA KAVAL","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

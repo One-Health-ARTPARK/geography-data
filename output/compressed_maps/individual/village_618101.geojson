@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07397581693158,12.54769920030544],[76.08141535776672,12.53122744917805],[76.09346393274633,12.53544640357864],[76.08402292672713,12.54439193027341],[76.07397581693158,12.54769920030544]]]},"properties":{"region_id":"village_618101","name":"RASIMARTIKAVAL","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

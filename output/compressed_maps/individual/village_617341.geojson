@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46603074674466,13.01675420439471],[76.45534271717119,13.01727779903167],[76.45908172383562,13.00098541885317],[76.46790851149595,13.00300436928862],[76.46603074674466,13.01675420439471]]]},"properties":{"region_id":"village_617341","name":"HONNAMARANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

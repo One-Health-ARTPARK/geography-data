@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96004882030593,13.61076845973546],[75.9714221608216,13.6156977111405],[75.96370427963025,13.62375259554866],[75.95579153189236,13.62220257073359],[75.96004882030593,13.61076845973546]]]},"properties":{"region_id":"village_609358","name":"GALIHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

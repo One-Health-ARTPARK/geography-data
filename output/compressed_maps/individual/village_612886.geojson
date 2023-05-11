@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62282011858406,13.18464434979909],[77.62246121471426,13.19528752949722],[77.61637067112218,13.20331168890593],[77.6139861180832,13.185357902986],[77.62282011858406,13.18464434979909]]]},"properties":{"region_id":"village_612886","name":"GADENAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

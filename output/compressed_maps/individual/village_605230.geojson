@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55788847721085,14.54681456742126],[76.56644140437673,14.54897615430477],[76.55583146024489,14.58089297199866],[76.5461489409802,14.56575278327781],[76.55788847721085,14.54681456742126]]]},"properties":{"region_id":"village_605230","name":"KORADIHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01156168733864,15.0672750870482],[75.9903925132119,15.11294474447339],[75.9672836170463,15.11186853316772],[75.95751474060518,15.09873893339361],[75.96526627689322,15.06051445253093],[76.01156168733864,15.0672750870482]]]},"properties":{"region_id":"village_604629","name":"HIREMALLINAKERI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

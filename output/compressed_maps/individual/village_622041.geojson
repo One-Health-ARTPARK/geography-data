@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.12214079258538,13.06915202809819],[78.1088052170241,13.07656007363505],[78.10632691799759,13.05989322958547],[78.12214079258538,13.06915202809819]]]},"properties":{"region_id":"village_622041","name":"CHOLAGHATTA","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

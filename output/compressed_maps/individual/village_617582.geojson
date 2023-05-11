@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19771158216639,12.80763666724829],[75.19970186222352,12.82595713118963],[75.18276342061068,12.83132842211716],[75.17253185397541,12.81020376879982],[75.19771158216639,12.80763666724829]]]},"properties":{"region_id":"village_617582","name":"PERNE","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

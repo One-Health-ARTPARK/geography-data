@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55885324070694,14.61731936763526],[75.53099402674309,14.6179470785493],[75.53758552201508,14.59800074188112],[75.55885324070694,14.61731936763526]]]},"properties":{"region_id":"village_604530","name":"SARVANDA","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

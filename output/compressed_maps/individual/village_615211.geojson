@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87658190315884,13.23878769033901],[75.86156258684042,13.23763349638139],[75.86341356369249,13.22251404552798],[75.88712919700853,13.21905510257864],[75.87658190315884,13.23878769033901]]]},"properties":{"region_id":"village_615211","name":"HANIKE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

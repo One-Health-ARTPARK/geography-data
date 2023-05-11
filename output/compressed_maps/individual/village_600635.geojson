@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.124149447708,16.45201456775421],[77.1283357592159,16.48291269592957],[77.11131444137149,16.48480650294004],[77.10046846193104,16.45154213265861],[77.124149447708,16.45201456775421]]]},"properties":{"region_id":"village_600635","name":"ITAGI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

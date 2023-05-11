@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65722069153448,13.13441339995168],[77.63564396610813,13.13712328133527],[77.63035220103659,13.12606575376886],[77.64567000808988,13.11397084832588],[77.6474058775212,13.12997009193199],[77.65722069153448,13.13441339995168]]]},"properties":{"region_id":"village_612912","name":"SATHNUR","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

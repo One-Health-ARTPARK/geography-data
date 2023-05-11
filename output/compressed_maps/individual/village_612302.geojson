@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77585623819984,13.24024841612773],[76.77326280003138,13.22413838808067],[76.78212754702339,13.20714278213068],[76.79724404674313,13.20766842382853],[76.79136965163117,13.22715229123556],[76.77585623819984,13.24024841612773]]]},"properties":{"region_id":"village_612302","name":"BASAVASAGARA C KAVAL","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

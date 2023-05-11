@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3745937068315,14.54411643432558],[76.35811236679649,14.53956082414717],[76.36134670838422,14.50999633108426],[76.37876629136294,14.52926775609984],[76.3745937068315,14.54411643432558]]]},"properties":{"region_id":"village_606492","name":"UDDAGATTA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

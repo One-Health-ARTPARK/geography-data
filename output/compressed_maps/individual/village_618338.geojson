@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17229659613595,12.32271642038141],[76.16219754233822,12.32914701156465],[76.15571517137519,12.32207282444593],[76.16722694890875,12.31521932127897],[76.17229659613595,12.32271642038141]]]},"properties":{"region_id":"village_618338","name":"HULUGANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

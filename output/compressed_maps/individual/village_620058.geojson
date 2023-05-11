@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42049368554672,17.43250277809583],[76.42407099392845,17.4669021754897],[76.39913911211809,17.46312504791486],[76.39471049312795,17.43608619669409],[76.42049368554672,17.43250277809583]]]},"properties":{"region_id":"village_620058","name":"MADGUNKI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

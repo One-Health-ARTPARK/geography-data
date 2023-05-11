@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7345161437536,13.24999220451243],[75.72377059960361,13.2564872261817],[75.72091721013942,13.24747019276582],[75.7345161437536,13.24999220451243]]]},"properties":{"region_id":"village_609831","name":"NANDIKERE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

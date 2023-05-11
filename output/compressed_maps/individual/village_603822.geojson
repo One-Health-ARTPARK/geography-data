@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55884348768232,14.0160216519101],[74.55563609398212,14.0334683957692],[74.51590870240928,14.03990468245961],[74.5134816009723,14.02972815928143],[74.55289061388683,14.00903520314188],[74.55884348768232,14.0160216519101]]]},"properties":{"region_id":"village_603822","name":"SHIRALI","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

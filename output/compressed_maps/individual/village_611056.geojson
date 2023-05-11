@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28112467373676,13.56263666473147],[77.28398502034909,13.57077188038988],[77.27839329579471,13.57208773939135],[77.28112467373676,13.56263666473147]]]},"properties":{"region_id":"village_611056","name":"RANGANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

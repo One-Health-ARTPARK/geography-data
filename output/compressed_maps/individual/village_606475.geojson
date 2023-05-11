@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19911763214432,14.48649638080315],[76.17106723812377,14.48646232932646],[76.17342184059915,14.4614558851172],[76.20276865942749,14.4588094517674],[76.19911763214432,14.48649638080315]]]},"properties":{"region_id":"village_606475","name":"CHADURAGOLLA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

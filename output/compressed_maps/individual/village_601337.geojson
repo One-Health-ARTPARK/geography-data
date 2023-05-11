@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18390358581053,15.48807101563088],[76.1656570277975,15.49054498842565],[76.17119578250816,15.47012459639724],[76.18390358581053,15.48807101563088]]]},"properties":{"region_id":"village_601337","name":"HONHUNASHI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

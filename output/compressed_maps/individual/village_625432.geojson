@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80530217904717,13.22259539258729],[77.79406076032676,13.21787697032577],[77.81255474383187,13.21008634895731],[77.80530217904717,13.22259539258729]]]},"properties":{"region_id":"village_625432","name":"VARADENAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

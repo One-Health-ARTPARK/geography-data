@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.32894928220563,13.43624627480139],[78.3166626612568,13.44498609915397],[78.3101958299443,13.42481747995267],[78.33433001877428,13.42181812834452],[78.32894928220563,13.43624627480139]]]},"properties":{"region_id":"village_621534","name":"ILADONI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

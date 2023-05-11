@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2164403720375,12.57696216127265],[77.24701093779656,12.57038872291898],[77.23910228138907,12.59824859236272],[77.2164403720375,12.57696216127265]]]},"properties":{"region_id":"village_626282","name":"VIRUPAKSHIPURA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

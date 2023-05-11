@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17985369771571,14.99883628363962],[75.17694709716959,15.01204668078065],[75.16089213086408,15.00947644448325],[75.16046122390215,14.99751934792471],[75.17985369771571,14.99883628363962]]]},"properties":{"region_id":"village_603902","name":"MAKAPUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

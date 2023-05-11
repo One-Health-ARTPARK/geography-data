@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80366552122253,12.3839497772605],[75.77727223709253,12.41747050628765],[75.76169642292689,12.40172038736389],[75.77996028203992,12.38042653107546],[75.80366552122253,12.3839497772605]]]},"properties":{"region_id":"village_617829","name":"KADAGADALU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

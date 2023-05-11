@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42062911305413,12.58769760669921],[77.41311020664251,12.60004155669884],[77.39217951268161,12.59076364136225],[77.40688049941447,12.57556939339686],[77.42062911305413,12.58769760669921]]]},"properties":{"region_id":"village_626452","name":"ARALALUSANDRA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

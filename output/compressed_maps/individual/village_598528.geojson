@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77816429847702,16.33323952713235],[75.74189351880807,16.33959376302735],[75.74462807236364,16.32240067820799],[75.78511850571442,16.30698738012341],[75.77816429847702,16.33323952713235]]]},"properties":{"region_id":"village_598528","name":"KANDAGAL","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04803824042884,12.34455151103154],[76.02971123409212,12.35417096977783],[76.02167695242619,12.33971674848579],[76.04803824042884,12.34455151103154]]]},"properties":{"region_id":"village_618254","name":"NARALAPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

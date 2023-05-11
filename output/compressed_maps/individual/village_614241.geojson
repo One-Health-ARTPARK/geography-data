@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75291340622248,12.41182261815995],[76.73394423184428,12.42336765536901],[76.72844084051525,12.40496748128009],[76.75291340622248,12.41182261815995]]]},"properties":{"region_id":"village_614241","name":"MARALAGALA","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

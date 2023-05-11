@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75268727480145,16.61044645845587],[76.71556666173667,16.60990088294626],[76.7180304414853,16.59496406398367],[76.7562774259409,16.59198617205445],[76.75268727480145,16.61044645845587]]]},"properties":{"region_id":"village_621039","name":"BADYAPUR","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02528598587014,15.52142413207675],[76.01153909818578,15.51403759615338],[76.01420759478852,15.49285727024358],[76.02942325094709,15.4955218523581],[76.02528598587014,15.52142413207675]]]},"properties":{"region_id":"village_601346","name":"KAKKIHALLI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26028805638404,14.80276769646079],[75.26345842874558,14.82012535649734],[75.25062757334125,14.82003170711568],[75.25031688870814,14.80478053848053],[75.26028805638404,14.80276769646079]]]},"properties":{"region_id":"village_604069","name":"KALVEKALLAPUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

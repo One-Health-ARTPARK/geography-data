@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75629665534905,13.32377962847799],[75.76940069539755,13.32140318889263],[75.7609035526763,13.34162771880755],[75.75023592748056,13.34777173941411],[75.75629665534905,13.32377962847799]]]},"properties":{"region_id":"village_938950","name":"UPPALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

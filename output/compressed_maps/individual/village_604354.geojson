@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39521105217524,14.5653668146079],[75.39393764505662,14.5808225761383],[75.37400371064977,14.57988374083338],[75.38071163046101,14.55898217149157],[75.39521105217524,14.5653668146079]]]},"properties":{"region_id":"village_604354","name":"YOGIKOPPA","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

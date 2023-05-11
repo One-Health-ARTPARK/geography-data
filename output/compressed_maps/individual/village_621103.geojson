@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69860462551631,16.66061915258891],[76.67563032308743,16.65606394937323],[76.69157213390905,16.60564354759483],[76.713651284194,16.62119757760665],[76.69860462551631,16.66061915258891]]]},"properties":{"region_id":"village_621103","name":"CHANNUR KHALSA","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

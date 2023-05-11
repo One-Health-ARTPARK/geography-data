@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5028780662445,14.26047190734407],[74.50218790783514,14.24930884405618],[74.51406260780031,14.25739067610035],[74.5028780662445,14.26047190734407]]]},"properties":{"region_id":"village_603798","name":"PADUKULI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

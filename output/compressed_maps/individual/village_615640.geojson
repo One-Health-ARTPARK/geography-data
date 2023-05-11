@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38801267830156,13.53438277392125],[76.37045243652133,13.54785857477363],[76.363314141792,13.52638133816102],[76.38801267830156,13.53438277392125]]]},"properties":{"region_id":"village_615640","name":"BOMMASAMUDRA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

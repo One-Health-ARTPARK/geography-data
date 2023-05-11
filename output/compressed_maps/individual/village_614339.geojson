@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89996304274901,12.67604085920367],[76.89849491075965,12.69245210406681],[76.88696123332551,12.69053862947373],[76.8813210960786,12.67714314691496],[76.89996304274901,12.67604085920367]]]},"properties":{"region_id":"village_614339","name":"THANGALAGERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

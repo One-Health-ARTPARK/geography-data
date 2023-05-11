@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04823416651631,16.99950926977888],[77.01771719113124,16.96323586991201],[77.05728276453377,16.9559317093137],[77.04823416651631,16.99950926977888]]]},"properties":{"region_id":"village_620693","name":"LADLAPUR","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

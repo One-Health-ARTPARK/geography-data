@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52636665089021,14.59366842150819],[76.51034663167594,14.56044712537204],[76.54146397686768,14.56604269145568],[76.52636665089021,14.59366842150819]]]},"properties":{"region_id":"village_605138","name":"KALLAHALLI","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

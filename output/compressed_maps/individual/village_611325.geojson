@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0653945646034,13.48308580321637],[77.06527123674282,13.49345652091438],[77.0426554789443,13.49069233324605],[77.0542933232495,13.47689635587335],[77.0653945646034,13.48308580321637]]]},"properties":{"region_id":"village_611325","name":"KEMPANADODDERI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

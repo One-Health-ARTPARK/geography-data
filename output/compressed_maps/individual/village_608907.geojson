@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03113884514809,13.26163361597541],[75.01215625670038,13.23256032538511],[75.03960920618677,13.21958609287302],[75.06490964468472,13.24064435468832],[75.03113884514809,13.26163361597541]]]},"properties":{"region_id":"village_608907","name":"DURGA","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

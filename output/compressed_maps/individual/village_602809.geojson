@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73817975427255,15.30688040268008],[74.73201687091498,15.30776733713788],[74.71669386788417,15.29068424518649],[74.74265347397727,15.29391707599624],[74.73817975427255,15.30688040268008]]]},"properties":{"region_id":"village_602809","name":"KESROLLI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

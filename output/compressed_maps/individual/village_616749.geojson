@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09893461809502,12.59606584335235],[76.09320323040461,12.59779158543784],[76.08575066772286,12.58818978311187],[76.09430765955538,12.58655545573263],[76.09893461809502,12.59606584335235]]]},"properties":{"region_id":"village_616749","name":"J.HOSAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

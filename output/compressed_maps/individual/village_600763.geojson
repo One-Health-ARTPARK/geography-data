@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53039784394164,16.29768530606724],[77.49533180890494,16.29994196365766],[77.51283751745561,16.27533647637559],[77.53039784394164,16.29768530606724]]]},"properties":{"region_id":"village_600763","name":"YAPALDINNI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

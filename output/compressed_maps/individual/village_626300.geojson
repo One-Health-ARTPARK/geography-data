@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18120855879556,12.52701176674129],[77.16182646856575,12.52903860338077],[77.16671683679702,12.51699178661553],[77.17918757246088,12.51263283181016],[77.18120855879556,12.52701176674129]]]},"properties":{"region_id":"village_626300","name":"HAROKOPPA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

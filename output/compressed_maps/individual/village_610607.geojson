@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07447365883165,14.13980486647341],[77.06573500173754,14.1297563041041],[77.08552154194587,14.1287468700532],[77.07447365883165,14.13980486647341]]]},"properties":{"region_id":"village_610607","name":"MUMMADISAGARA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

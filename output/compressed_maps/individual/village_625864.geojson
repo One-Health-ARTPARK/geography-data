@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24548847158195,13.12371366559797],[77.23877231235524,13.11590377380455],[77.24842666939948,13.10894577320462],[77.250590560226,13.11805888132687],[77.24548847158195,13.12371366559797]]]},"properties":{"region_id":"village_625864","name":"SHANTHAPURA","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47438605666012,17.94735661842957],[77.45574454693605,17.92375773340369],[77.49436059970354,17.92200746387432],[77.47438605666012,17.94735661842957]]]},"properties":{"region_id":"village_938368","name":"NOWBADA","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

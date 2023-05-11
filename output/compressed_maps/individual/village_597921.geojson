@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.38679217589019,15.53858869584473],[74.34226874140755,15.51771875680342],[74.37435096007381,15.48066710849339],[74.4206930670821,15.51587558658235],[74.38679217589019,15.53858869584473]]]},"properties":{"region_id":"village_597921","name":"HEMMADAGA","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

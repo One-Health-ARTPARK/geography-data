@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16440554296265,13.91209664205567],[75.14526060453267,13.88562248556071],[75.16280803071079,13.87134380541439],[75.16440554296265,13.91209664205567]]]},"properties":{"region_id":"village_607986","name":"SAVANTHUR","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

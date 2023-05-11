@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45039861505781,17.89402716394637],[77.45919639369004,17.90393463725633],[77.43074867637043,17.90473728895039],[77.44053540206502,17.88713451136693],[77.45039861505781,17.89402716394637]]]},"properties":{"region_id":"village_600201","name":"BAKCHAWADI","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

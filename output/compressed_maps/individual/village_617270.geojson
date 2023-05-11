@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47422479510999,13.03486435334726],[76.4765847077957,13.02320604416629],[76.49402488671542,13.01905559230189],[76.49806374846345,13.03043344937583],[76.4863982684158,13.02898697885638],[76.47422479510999,13.03486435334726]]]},"properties":{"region_id":"village_617270","name":"M.DASAPURA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

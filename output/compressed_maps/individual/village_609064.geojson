@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5097709993545,13.58843383307998],[75.50405208730774,13.6061769391631],[75.48452831988935,13.59633433867736],[75.48895524625753,13.58091825640268],[75.5097709993545,13.58843383307998]]]},"properties":{"region_id":"village_609064","name":"NAGALAPURA","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

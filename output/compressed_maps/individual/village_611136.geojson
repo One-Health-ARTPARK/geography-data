@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31484712237595,13.50157905666645],[77.30239309820762,13.50354309640872],[77.30313956724618,13.48909793478166],[77.31116742415588,13.48477491147128],[77.31484712237595,13.50157905666645]]]},"properties":{"region_id":"village_611136","name":"MALENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64520965646311,14.81682567759844],[75.61735752378377,14.81166367617791],[75.61329995225837,14.79254100721656],[75.64590107930829,14.79410870343002],[75.64520965646311,14.81682567759844]]]},"properties":{"region_id":"village_604276","name":"TIMMAPUR-M-GUTTAL","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

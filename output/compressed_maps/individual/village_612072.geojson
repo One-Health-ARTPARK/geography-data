@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.467483146469,13.27036140302664],[76.46808046842017,13.28957763028135],[76.4553059003023,13.28072054281452],[76.467483146469,13.27036140302664]]]},"properties":{"region_id":"village_612072","name":"KANCHAGHATTA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

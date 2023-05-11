@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45183836830374,16.33120988362098],[76.43381523377819,16.33243382489579],[76.43663108230527,16.30990093789287],[76.45839335801249,16.29593934787068],[76.45183836830374,16.33120988362098]]]},"properties":{"region_id":"village_620980","name":"HANMASAGAR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

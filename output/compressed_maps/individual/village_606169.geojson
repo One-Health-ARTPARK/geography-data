@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72661506023633,13.93793568369822],[76.71255333294147,13.94741506810707],[76.70634172802419,13.93119686521789],[76.72678483868889,13.92328662861456],[76.72661506023633,13.93793568369822]]]},"properties":{"region_id":"village_606169","name":"RANGANATHAPURA","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

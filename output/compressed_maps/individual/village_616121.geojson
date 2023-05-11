@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17290857168791,12.91913565850043],[76.15692441891805,12.91523807036402],[76.16318126302035,12.90262139321194],[76.17290857168791,12.91913565850043]]]},"properties":{"region_id":"village_616121","name":"BANAVASE","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

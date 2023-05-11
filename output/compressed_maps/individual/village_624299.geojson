@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89443565335638,13.26785556811211],[77.88754270334641,13.26764983076605],[77.87998197975355,13.25195458022402],[77.88813366793603,13.25006479626565],[77.89443565335638,13.26785556811211]]]},"properties":{"region_id":"village_624299","name":"GAMBEERANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

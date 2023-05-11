@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.34321758326948,15.70578567063426],[74.33403158441956,15.72705925900219],[74.32808902718226,15.70649260407567],[74.34321758326948,15.70578567063426]]]},"properties":{"region_id":"village_597820","name":"DEVACHIHATTI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

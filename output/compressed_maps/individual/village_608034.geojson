@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08683468286561,13.82270431300195],[75.07291397915013,13.83985674032287],[75.0583019205249,13.82172830983952],[75.07456748747721,13.81493309391917],[75.08683468286561,13.82270431300195]]]},"properties":{"region_id":"village_608034","name":"HILUKUNJI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

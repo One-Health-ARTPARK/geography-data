@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74420593593057,15.06337082855585],[75.76312170285385,15.0527831996547],[75.76730229715673,15.06554600210517],[75.74420593593057,15.06337082855585]]]},"properties":{"region_id":"village_602122","name":"SEVANAGAR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8602354775389,13.79963303197618],[76.85689185560744,13.7814790296282],[76.89555300708916,13.77633992301616],[76.87867960471712,13.79862057508635],[76.8602354775389,13.79963303197618]]]},"properties":{"region_id":"village_610352","name":"BIDARAKERE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67571031817928,13.4245589154804],[76.69978485307715,13.43799014933116],[76.70330800623573,13.44983394407847],[76.67062292182644,13.44131303390696],[76.67571031817928,13.4245589154804]]]},"properties":{"region_id":"village_610180","name":"HOMBALAGATTA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

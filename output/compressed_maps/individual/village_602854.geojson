@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80576807989603,15.31934251707501],[74.79048617515582,15.31426933567707],[74.79595524514394,15.30304949125165],[74.80916377402325,15.30375791826405],[74.80576807989603,15.31934251707501]]]},"properties":{"region_id":"village_602854","name":"BHANASAGERI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

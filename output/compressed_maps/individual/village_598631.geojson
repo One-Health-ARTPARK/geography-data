@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60722075661161,16.14815069368983],[75.57172901077267,16.07868652510788],[75.61409962963108,16.08355051745434],[75.60722075661161,16.14815069368983]]]},"properties":{"region_id":"village_598631","name":"HOOLAGERI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

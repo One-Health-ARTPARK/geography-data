@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5354608178279,14.36818674444768],[75.52523580411925,14.35664803106824],[75.5258601721665,14.340042590877],[75.53212754046884,14.3392068629786],[75.5354608178279,14.36818674444768]]]},"properties":{"region_id":"village_604461","name":"KENCHAYIKOPPA","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

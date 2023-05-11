@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12169640915407,12.06866571363856],[77.0967445853542,12.05963782486345],[77.14751520295799,12.04866992832704],[77.1483122708686,12.06306911449057],[77.12169640915407,12.06866571363856]]]},"properties":{"region_id":"village_619793","name":"MADDUR","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07795348705103,12.9477549936039],[76.07052240942255,12.94867136267525],[76.06742277198647,12.94274628234668],[76.07350146522762,12.93829073770873],[76.07795348705103,12.9477549936039]]]},"properties":{"region_id":"village_616095","name":"GOPANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

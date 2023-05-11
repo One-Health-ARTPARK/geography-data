@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30802402312337,12.66905897960016],[77.29806184981058,12.67886317169286],[77.29411004529202,12.67174063274173],[77.30802402312337,12.66905897960016]]]},"properties":{"region_id":"village_626168","name":"LAKKAPPANAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

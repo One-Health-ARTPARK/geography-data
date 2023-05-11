@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.33507152042463,14.56281187294666],[74.33139517772993,14.56287211757651],[74.33115697761293,14.55872766849753],[74.33590866194793,14.55377687976621],[74.33852766066269,14.55747134516345],[74.33507152042463,14.56281187294666]]]},"properties":{"region_id":"village_603418","name":"BIDRAGERI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

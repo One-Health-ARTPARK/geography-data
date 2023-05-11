@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29431132292585,14.54649295239671],[75.27333069244035,14.53900923795826],[75.28045162738732,14.53256309303735],[75.29419208024424,14.53451125312275],[75.29431132292585,14.54649295239671]]]},"properties":{"region_id":"village_607452","name":"GUMMANALU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

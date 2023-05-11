@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6856786805103,16.48670691116933],[76.67087065128177,16.50605859050206],[76.64904534726185,16.49433901725161],[76.66635088626822,16.47994773269299],[76.6856786805103,16.48670691116933]]]},"properties":{"region_id":"village_620998","name":"MANGIHAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22630027348757,13.59953816714046],[77.22614531272954,13.59047959572796],[77.24317984504565,13.58556655649177],[77.24184254284926,13.60231708429511],[77.22630027348757,13.59953816714046]]]},"properties":{"region_id":"village_611049","name":"DASARAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07633194141752,13.87934599550092],[76.08415162754856,13.89411987563829],[76.05385636693045,13.89237416393659],[76.0536803414925,13.87951284871002],[76.07633194141752,13.87934599550092]]]},"properties":{"region_id":"village_605704","name":"KANIVEHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

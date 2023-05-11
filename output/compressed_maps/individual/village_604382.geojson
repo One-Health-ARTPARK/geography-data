@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39013521925628,14.49524852572769],[75.39216587548324,14.47686778258721],[75.40380207604836,14.48395841912518],[75.39013521925628,14.49524852572769]]]},"properties":{"region_id":"village_604382","name":"ALADAKATTI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

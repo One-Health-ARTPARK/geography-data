@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17258395310044,13.79312420704789],[75.15443162094188,13.78339655075737],[75.15905465146741,13.77405171509757],[75.17425691072542,13.77898964342324],[75.17258395310044,13.79312420704789]]]},"properties":{"region_id":"village_608093","name":"BANDYA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

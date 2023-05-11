@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20749984072431,16.18420109437557],[75.15790763816099,16.18238876189098],[75.15562040830879,16.15088054845738],[75.20529519584268,16.1481223779002],[75.20749984072431,16.18420109437557]]]},"properties":{"region_id":"village_598288","name":"KUNNAL","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00450317461217,14.55505654270828],[75.9611224218733,14.56040111835721],[75.94185984188005,14.54203125258629],[75.95299387788494,14.52169948530892],[76.0061080065293,14.51762220256942],[76.00450317461217,14.55505654270828]]]},"properties":{"region_id":"village_606367","name":"HIREMEGALAGERI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

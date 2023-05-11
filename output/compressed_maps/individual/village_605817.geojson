@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41726719299491,13.98917798955154],[76.36140682819007,13.98546084339909],[76.37421973150376,13.96557309756597],[76.41726719299491,13.98917798955154]]]},"properties":{"region_id":"village_605817","name":"GULIHOSAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

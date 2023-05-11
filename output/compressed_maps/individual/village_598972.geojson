@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12808271020688,16.11442945917361],[76.11698569808817,16.11412837240215],[76.12002962747601,16.08501683666567],[76.12965935554666,16.0899445375614],[76.12808271020688,16.11442945917361]]]},"properties":{"region_id":"village_598972","name":"BEKAMALADINNI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

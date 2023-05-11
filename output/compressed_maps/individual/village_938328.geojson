@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62354153254824,13.04705372221988],[77.60709340186128,13.0464144225201],[77.6060926010914,13.03358673276959],[77.62475826022495,13.03114333182012],[77.62354153254824,13.04705372221988]]]},"properties":{"region_id":"village_938328","name":"NAGAVARA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

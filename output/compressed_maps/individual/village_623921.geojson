@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98861911036627,13.82653527743651],[77.9523298166475,13.82687719822825],[77.95867509213265,13.79591341868108],[77.99346414783084,13.80393130367815],[77.98861911036627,13.82653527743651]]]},"properties":{"region_id":"village_623921","name":"SUJANAMPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15216295578824,12.65824800514003],[76.13403999744266,12.6560272450175],[76.13521947980097,12.65025204711625],[76.15531712851576,12.65072384634234],[76.15216295578824,12.65824800514003]]]},"properties":{"region_id":"village_616673","name":"ANKANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

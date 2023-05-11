@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8242886487066,14.19299497324957],[75.79779534238773,14.19573360534664],[75.80669755712076,14.16487743722836],[75.8242886487066,14.19299497324957]]]},"properties":{"region_id":"village_606895","name":"SRINGARABAGU","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

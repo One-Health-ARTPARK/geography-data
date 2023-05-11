@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63379673772457,13.4364468712924],[76.62588093985522,13.43808672646534],[76.62744494025115,13.43379580796049],[76.63379673772457,13.4364468712924]]]},"properties":{"region_id":"village_610207","name":"CHANNENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

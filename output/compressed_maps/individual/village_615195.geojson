@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85308359076275,13.17492531439107],[75.83997954893402,13.16882290827381],[75.85216772038568,13.160949004372],[75.85308359076275,13.17492531439107]]]},"properties":{"region_id":"village_615195","name":"GOTRAVALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

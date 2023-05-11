@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53232177809824,14.113212663626],[75.53045820659723,14.13190577120691],[75.51792768142886,14.12799891347315],[75.52112049386717,14.11145344475458],[75.53232177809824,14.113212663626]]]},"properties":{"region_id":"village_606733","name":"KODATALU","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

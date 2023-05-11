@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93331700628889,13.84972881379709],[76.93000404588408,13.86526707147825],[76.91477364176708,13.87922183551149],[76.91057100050266,13.85660888446295],[76.93331700628889,13.84972881379709]]]},"properties":{"region_id":"village_610335","name":"RANGAPURA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

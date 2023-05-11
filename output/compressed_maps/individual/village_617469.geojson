@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05846362014853,13.06278893149856],[75.04787663685381,13.09795625551997],[75.03536962118578,13.07658614266107],[75.05846362014853,13.06278893149856]]]},"properties":{"region_id":"village_617469","name":"PADUKONAJE","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

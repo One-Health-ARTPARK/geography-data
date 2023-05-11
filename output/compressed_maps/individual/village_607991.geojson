@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18345810588457,13.90476717116216],[75.16440554296265,13.91209664205567],[75.16838855331115,13.88937152660415],[75.18849163833693,13.88622353444087],[75.18345810588457,13.90476717116216]]]},"properties":{"region_id":"village_607991","name":"MALUR","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

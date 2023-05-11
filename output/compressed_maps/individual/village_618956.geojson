@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48054748593233,12.13628384495061],[76.47194830838782,12.1347792248401],[76.47435314868622,12.12341600753168],[76.48253062442572,12.11946337847353],[76.48054748593233,12.13628384495061]]]},"properties":{"region_id":"village_618956","name":"HAMPAPURA","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

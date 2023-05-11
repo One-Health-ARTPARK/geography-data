@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46005236049854,15.58126824360751],[76.46408074904932,15.58678386991433],[76.46747339740236,15.60306621175866],[76.46721316077215,15.61632240280633],[76.45395225569418,15.58631295725975],[76.46005236049854,15.58126824360751]]]},"properties":{"region_id":"village_601585","name":"BOMCHIHAL","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

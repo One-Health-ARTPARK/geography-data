@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73653947927677,16.77629714143861],[76.72314893358313,16.78297092969337],[76.70725628773948,16.76007946332829],[76.7173352499915,16.75933422632108],[76.73653947927677,16.77629714143861]]]},"properties":{"region_id":"village_621081","name":"INGNAL","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

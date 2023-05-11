@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92820782296675,14.52855605280025],[74.93765427876792,14.51870183848215],[74.9438902146539,14.53198732871243],[74.93616584239267,14.53757276858769],[74.92820782296675,14.52855605280025]]]},"properties":{"region_id":"village_603312","name":"SAHASRALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

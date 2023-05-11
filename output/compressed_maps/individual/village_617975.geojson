@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97516509199936,12.52337467394155],[75.96077277774427,12.52086133072367],[75.96706707335146,12.51044503524822],[75.97516509199936,12.52337467394155]]]},"properties":{"region_id":"village_617975","name":"HULSE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

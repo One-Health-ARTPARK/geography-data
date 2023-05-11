@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98535221021673,13.31851642481266],[75.95423877117453,13.31597207377777],[75.97226188216734,13.29413237341048],[75.98535221021673,13.31851642481266]]]},"properties":{"region_id":"village_609786","name":"SINDIGERE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

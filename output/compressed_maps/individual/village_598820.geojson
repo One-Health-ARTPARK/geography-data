@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89688958737385,16.2892699904835],[75.86944493607737,16.29429409488037],[75.85544937247428,16.27095582472407],[75.89744781900679,16.26477643701477],[75.89688958737385,16.2892699904835]]]},"properties":{"region_id":"village_598820","name":"TIMMAPUR","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

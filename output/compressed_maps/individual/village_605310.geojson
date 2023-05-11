@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80618047230405,14.36669027702725],[76.82243457401722,14.39682035590687],[76.8019990161284,14.41359269355828],[76.80618047230405,14.36669027702725]]]},"properties":{"region_id":"village_605310","name":"KYATAGONDANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

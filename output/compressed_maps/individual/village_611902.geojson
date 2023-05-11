@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85283099623416,13.23013866708674],[76.85191949927675,13.23839800396414],[76.83519613399994,13.24070620072359],[76.83927674410558,13.22942000994468],[76.85283099623416,13.23013866708674]]]},"properties":{"region_id":"village_611902","name":"KOMMANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

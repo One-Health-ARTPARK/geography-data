@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41845719754488,15.03818018537781],[75.36946298352123,15.03119407680169],[75.38546811085996,15.00839119107649],[75.41845719754488,15.03818018537781]]]},"properties":{"region_id":"village_604011","name":"PARAMAWADI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84272936996896,13.78126839943587],[74.87325553075662,13.81465954386329],[74.81871457860166,13.84584893453194],[74.8036777651023,13.79561111995144],[74.84272936996896,13.78126839943587]]]},"properties":{"region_id":"village_608683","name":"JADKAL","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

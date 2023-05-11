@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6577353164377,13.39919341085993],[77.64939914990521,13.40464125287582],[77.63738565541145,13.3941770111461],[77.64738808266604,13.39177045839383],[77.6577353164377,13.39919341085993]]]},"properties":{"region_id":"village_623606","name":"NASIKUNTEHOSUR","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

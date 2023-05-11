@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31838319495287,12.73265032031701],[76.31558249124132,12.74455525185017],[76.30129101512999,12.74844480297586],[76.30178450645704,12.73453822209958],[76.31838319495287,12.73265032031701]]]},"properties":{"region_id":"village_617010","name":"AREHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

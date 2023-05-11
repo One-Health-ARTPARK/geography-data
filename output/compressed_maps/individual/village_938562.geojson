@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83570578768621,17.31392893103796],[76.82412254508709,17.30767694753518],[76.83303318395738,17.30066026357056],[76.83570578768621,17.31392893103796]]]},"properties":{"region_id":"village_938562","name":"DARIYAPURA","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77898112518785,15.27686343731254],[74.76049998494786,15.27712496771889],[74.76037158823881,15.26468718713533],[74.77898112518785,15.27686343731254]]]},"properties":{"region_id":"village_602786","name":"HOSAKUMBARKOP","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

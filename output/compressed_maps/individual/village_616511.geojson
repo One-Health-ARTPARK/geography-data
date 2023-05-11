@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00092327205047,12.80139156837949],[75.98722653438178,12.80574206176311],[75.98195675433853,12.78888396700325],[76.00098734757962,12.79196883058453],[76.00092327205047,12.80139156837949]]]},"properties":{"region_id":"village_616511","name":"HONGANOOR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

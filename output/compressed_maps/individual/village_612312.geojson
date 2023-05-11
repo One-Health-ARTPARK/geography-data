@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79667354817595,13.16047005168664],[76.77726375522793,13.16308793611316],[76.77542998945285,13.15508504610102],[76.7869423789362,13.15434253285575],[76.79667354817595,13.16047005168664]]]},"properties":{"region_id":"village_612312","name":"VADERAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

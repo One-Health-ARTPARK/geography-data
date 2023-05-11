@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65077820803204,15.61683259977881],[74.62976693991995,15.62700490385421],[74.63409431458865,15.59133708343907],[74.65465846948705,15.59266343577538],[74.65077820803204,15.61683259977881]]]},"properties":{"region_id":"village_597907","name":"KADATANBAGEWADI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

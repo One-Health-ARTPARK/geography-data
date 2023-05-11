@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1718344184844,16.23528880087515],[77.14426982915944,16.23379408985856],[77.16201855711293,16.22026468615284],[77.1718344184844,16.23528880087515]]]},"properties":{"region_id":"village_600815","name":"HALVENKTAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

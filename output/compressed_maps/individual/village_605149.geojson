@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80722948773928,14.92637420602353],[76.81373838459993,14.94498008040582],[76.76794291179839,14.95919437712042],[76.77546805775347,14.9365485198089],[76.80722948773928,14.92637420602353]]]},"properties":{"region_id":"village_605149","name":"RAJAPURA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68328208970014,14.56231417027996],[75.64544646085592,14.55328413636639],[75.64741754396296,14.53000112963749],[75.6961170416882,14.52992654612623],[75.68328208970014,14.56231417027996]]]},"properties":{"region_id":"village_604546","name":"ITAGI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

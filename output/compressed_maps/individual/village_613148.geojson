@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62960682301748,12.7961203474605],[77.61986740713637,12.79773553409544],[77.61238207614807,12.79048862290227],[77.61897285981242,12.78407791634361],[77.62883651550275,12.78863451854799],[77.62960682301748,12.7961203474605]]]},"properties":{"region_id":"village_613148","name":"HARAPANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

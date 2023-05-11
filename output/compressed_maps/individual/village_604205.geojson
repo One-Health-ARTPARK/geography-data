@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37953857754708,14.76972472261545],[75.35532832879933,14.74834497390329],[75.38577369679545,14.73916477725084],[75.37953857754708,14.76972472261545]]]},"properties":{"region_id":"village_604205","name":"KERIMATTIHALLI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

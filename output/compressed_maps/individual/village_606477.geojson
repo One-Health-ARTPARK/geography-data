@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22764449829836,14.4780057865808],[76.20264905944583,14.4802796418362],[76.20276865942749,14.4588094517674],[76.22624939536806,14.46413634162371],[76.22764449829836,14.4780057865808]]]},"properties":{"region_id":"village_606477","name":"CHIKKA ARAKERE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

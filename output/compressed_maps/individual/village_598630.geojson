@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67860246779571,16.1268334493997],[75.64336520762406,16.13004173628872],[75.64532910615512,16.10922376655985],[75.6747777172828,16.10537963170257],[75.67860246779571,16.1268334493997]]]},"properties":{"region_id":"village_598630","name":"SULIKERI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66537830964977,13.27104963612166],[75.6453135119898,13.28374314910946],[75.62428305550512,13.27256662675962],[75.64715257600048,13.27128788903062],[75.66421170202491,13.26451969711292],[75.66537830964977,13.27104963612166]]]},"properties":{"region_id":"village_609851","name":"HALIYUR","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7358706081243,13.62667122029949],[77.7092300710408,13.62701004976887],[77.72762563774266,13.60798612789389],[77.7358706081243,13.62667122029949]]]},"properties":{"region_id":"village_623437","name":"JEEGANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

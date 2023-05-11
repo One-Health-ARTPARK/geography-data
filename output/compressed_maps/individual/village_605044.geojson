@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76097106284521,14.99007162665042],[76.74650092021398,15.00972826654035],[76.72808405019777,15.00957263697422],[76.734234037776,14.98536899862223],[76.76097106284521,14.99007162665042]]]},"properties":{"region_id":"village_605044","name":"BASAPURA","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8266366452643,12.07565791793202],[76.81840879118947,12.0800183916464],[76.81449483572786,12.0668453984962],[76.82693305894242,12.06759689764798],[76.8266366452643,12.07565791793202]]]},"properties":{"region_id":"village_619280","name":"KAKKARAHATTI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

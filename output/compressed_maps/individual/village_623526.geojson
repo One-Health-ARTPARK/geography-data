@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78547388196077,13.51737382701215],[77.7698850205359,13.51806648854854],[77.76892294595827,13.50790190340072],[77.78015927180937,13.50664211504001],[77.78547388196077,13.51737382701215]]]},"properties":{"region_id":"village_623526","name":"INAM INCHENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

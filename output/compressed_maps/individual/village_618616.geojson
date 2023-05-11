@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31172380942576,12.4997556056444],[76.30898694221004,12.49760130402805],[76.30554533978652,12.49712022312675],[76.30851358611227,12.49341097127694],[76.31172380942576,12.4997556056444]]]},"properties":{"region_id":"village_618616","name":"KUPPEHANTHA","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

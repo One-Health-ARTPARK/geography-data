@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51649905143296,18.20364325472909],[77.49575563650723,18.19494769952061],[77.49261888513638,18.17065530303514],[77.51608118384979,18.16590786410261],[77.51649905143296,18.20364325472909]]]},"properties":{"region_id":"village_600089","name":"GUDPALLI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

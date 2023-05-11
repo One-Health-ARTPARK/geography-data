@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80444775030864,12.73195381994212],[76.79421307689056,12.73705132818286],[76.79440115101978,12.71787843237354],[76.80720068001969,12.71858166106583],[76.80444775030864,12.73195381994212]]]},"properties":{"region_id":"village_614318","name":"SHANBHOGANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

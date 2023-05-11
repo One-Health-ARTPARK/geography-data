@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32494075301409,13.17931514626375],[77.3027987851255,13.18131679113967],[77.30278305307448,13.17549944504725],[77.32162154545732,13.17345986553486],[77.32494075301409,13.17931514626375]]]},"properties":{"region_id":"village_624850","name":"GOVENAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

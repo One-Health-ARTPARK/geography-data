@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64026241958899,14.57896199796409],[75.60589533334321,14.59154064070736],[75.59501733135245,14.54410179838211],[75.64646847828186,14.54416424621164],[75.64026241958899,14.57896199796409]]]},"properties":{"region_id":"village_604545","name":"HALIGERI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

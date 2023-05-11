@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00753142189397,12.87219861422972],[76.01433687571608,12.87917879963773],[76.01351703597572,12.88688690858019],[76.00123737917954,12.88157611822086],[76.00753142189397,12.87219861422972]]]},"properties":{"region_id":"village_616069","name":"THAMAGANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

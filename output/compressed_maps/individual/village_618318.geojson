@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28568926808364,12.34368628740685],[76.30788112655428,12.3294390578572],[76.31466518482618,12.34156892928466],[76.30649466685949,12.35912401242202],[76.26992613552291,12.3650709820236],[76.28568926808364,12.34368628740685]]]},"properties":{"region_id":"village_618318","name":"KATTEMALALAVADI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

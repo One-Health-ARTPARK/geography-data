@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85547287678526,12.80356493816351],[76.84165683882516,12.80375495067627],[76.84883251242506,12.78827025649612],[76.8623915379661,12.7934597261944],[76.85547287678526,12.80356493816351]]]},"properties":{"region_id":"village_613944","name":"GOLLARAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

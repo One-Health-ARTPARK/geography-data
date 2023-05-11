@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92160407328082,12.91262063660652],[76.91481685098697,12.91079043628453],[76.91567885486243,12.89961353860967],[76.92607740293332,12.90071416953274],[76.92160407328082,12.91262063660652]]]},"properties":{"region_id":"village_612657","name":"KERENGOR","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

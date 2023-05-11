@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75417515595078,16.82216838496056],[76.73671995224309,16.82198332015714],[76.75470637223854,16.81447736085294],[76.75417515595078,16.82216838496056]]]},"properties":{"region_id":"village_620869","name":"KONHALLI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

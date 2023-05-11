@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30591987071054,14.79937210450938],[76.29301439625716,14.80564048696123],[76.26033642244639,14.78692214265924],[76.25457616443487,14.7558903137161],[76.30101244897196,14.76067448752305],[76.30591987071054,14.79937210450938]]]},"properties":{"region_id":"village_605066","name":"HIREVADDARAHALLI","parent":"subdistrict_7108","parent_name":"KOTTURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4311825592056,14.56253182619635],[75.4126780324487,14.56779994384666],[75.42174369535641,14.55271035850299],[75.4311825592056,14.56253182619635]]]},"properties":{"region_id":"village_604366","name":"SUNKAPURA","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

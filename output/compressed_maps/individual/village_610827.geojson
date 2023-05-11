@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22210170656949,13.68216388154385],[77.20867414941033,13.67607004785603],[77.21619508391757,13.67060596040386],[77.22210170656949,13.68216388154385]]]},"properties":{"region_id":"village_610827","name":"KARAMARADI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

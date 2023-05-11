@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83267251285143,13.40677546813802],[77.81159237210876,13.40434283175678],[77.83870365789852,13.37867327285027],[77.84167343807526,13.39461874950968],[77.83267251285143,13.40677546813802]]]},"properties":{"region_id":"village_623681","name":"HOSAHUDYA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

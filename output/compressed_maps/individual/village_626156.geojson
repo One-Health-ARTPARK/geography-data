@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39153073046701,12.70850696326421],[77.38995954608622,12.71913565675956],[77.36869057553221,12.71772759248537],[77.3740617321374,12.70839057870252],[77.39153073046701,12.70850696326421]]]},"properties":{"region_id":"village_626156","name":"BENNAHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

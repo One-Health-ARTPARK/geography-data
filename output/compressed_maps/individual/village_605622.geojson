@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10460295143805,14.24957352158021],[76.09238872677044,14.24898954125514],[76.09608397293869,14.23942231034451],[76.10625948729086,14.23644155051478],[76.10460295143805,14.24957352158021]]]},"properties":{"region_id":"village_605622","name":"BANDE BOMMENAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

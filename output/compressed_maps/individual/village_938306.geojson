@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68224511506922,12.91140571106919],[77.66801974591748,12.91531897582551],[77.67259736356183,12.90308409057845],[77.68224511506922,12.91140571106919]]]},"properties":{"region_id":"village_938306","name":"KASAVANAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

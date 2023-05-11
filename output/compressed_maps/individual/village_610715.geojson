@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19163865959767,13.74983261772923],[77.1722155998211,13.75250534863767],[77.18296600325965,13.72881861367672],[77.19163865959767,13.74983261772923]]]},"properties":{"region_id":"village_610715","name":"GADDETHIMMANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

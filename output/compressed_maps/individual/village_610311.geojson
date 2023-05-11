@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80157530966828,13.91609672394878],[76.77933932177605,13.92436101888421],[76.77813337545875,13.90256889805516],[76.80157530966828,13.91609672394878]]]},"properties":{"region_id":"village_610311","name":"MUDDENAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

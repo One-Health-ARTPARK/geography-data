@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48181119540507,13.22719907930864],[76.46468674772538,13.23875147854827],[76.46020720081475,13.22076070404647],[76.48181119540507,13.22719907930864]]]},"properties":{"region_id":"village_611982","name":"HOSAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

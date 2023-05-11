@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91568558671428,12.80868514925241],[75.90629584591747,12.80542662682694],[75.90731585388336,12.79286569695887],[75.91999895241106,12.79423113412922],[75.91568558671428,12.80868514925241]]]},"properties":{"region_id":"village_617864","name":"NEERGUNDA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

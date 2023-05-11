@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46333364541157,13.18734806329444],[76.45530104411284,13.18845478412617],[76.45886258143722,13.18049404810539],[76.46816996871311,13.18109460029211],[76.46333364541157,13.18734806329444]]]},"properties":{"region_id":"village_612119","name":"DASIHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

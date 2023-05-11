@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31973735803194,12.73468171110099],[77.30674084998479,12.73849069259791],[77.29161569446192,12.72627062621994],[77.29225514792655,12.713031813326],[77.30587096027716,12.71214187566508],[77.31973735803194,12.73468171110099]]]},"properties":{"region_id":"village_626087","name":"KOTHIPURA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

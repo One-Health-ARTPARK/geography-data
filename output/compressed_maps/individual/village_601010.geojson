@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12303427212471,15.99338549298315],[77.09015694888224,15.99919878082035],[77.10239783101231,15.95223793483608],[77.13557704407044,15.96533581848496],[77.12303427212471,15.99338549298315]]]},"properties":{"region_id":"village_601010","name":"KORVI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

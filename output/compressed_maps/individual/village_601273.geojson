@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30082625818548,15.71979191690567],[76.27646196809316,15.72186013652916],[76.26990612400937,15.70518316166604],[76.29928120674046,15.70240242166595],[76.30082625818548,15.71979191690567]]]},"properties":{"region_id":"village_601273","name":"BUDUR","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

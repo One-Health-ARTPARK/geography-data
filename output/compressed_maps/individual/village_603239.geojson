@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83957395822551,14.57800586488011],[74.83756395576881,14.56657988973133],[74.84497095550934,14.56614843337012],[74.84895032528168,14.57779663282297],[74.83957395822551,14.57800586488011]]]},"properties":{"region_id":"village_603239","name":"PADAGERI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

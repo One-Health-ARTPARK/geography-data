@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4776659845178,12.37854787370925],[76.46578750419935,12.38145551713587],[76.46213409086376,12.37203039042701],[76.46822343247675,12.36741508446037],[76.4776659845178,12.37854787370925]]]},"properties":{"region_id":"village_618451","name":"VADDARAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

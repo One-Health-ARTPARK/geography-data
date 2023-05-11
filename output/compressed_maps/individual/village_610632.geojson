@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24974241427532,14.14322478515022],[77.24435179459492,14.15747083664748],[77.21702780295092,14.15743694235037],[77.22100325933943,14.13217394428195],[77.24974241427532,14.14322478515022]]]},"properties":{"region_id":"village_610632","name":"KADAPALAKERE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

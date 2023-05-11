@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3711307999659,15.95392917524948],[76.34884457421607,15.95214760543699],[76.37237113504608,15.91687317337085],[76.38158063456554,15.91919676181544],[76.3711307999659,15.95392917524948]]]},"properties":{"region_id":"village_600382","name":"MAKAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

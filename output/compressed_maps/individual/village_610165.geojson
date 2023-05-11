@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70009060579396,13.50626508267394],[76.69108140106688,13.52215481469541],[76.67084645062293,13.5165132870786],[76.67566018341498,13.50421525262128],[76.70009060579396,13.50626508267394]]]},"properties":{"region_id":"village_610165","name":"RAMANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

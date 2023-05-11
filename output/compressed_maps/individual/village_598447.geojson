@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3808395863482,16.46254037024407],[75.35141462182243,16.46450244647815],[75.34473190456701,16.40532427489226],[75.37881986613931,16.40751575264838],[75.3808395863482,16.46254037024407]]]},"properties":{"region_id":"village_598447","name":"KONNUR","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06840633975358,14.72748414701874],[75.05950897030192,14.71141062248953],[75.08690215720993,14.70553333268099],[75.06840633975358,14.72748414701874]]]},"properties":{"region_id":"village_604115","name":"SAVIKERI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

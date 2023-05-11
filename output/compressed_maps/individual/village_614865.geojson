@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75861159369501,12.97906299865115],[75.75329657726598,12.98241780085516],[75.74553806463302,12.97922629098636],[75.748463418935,12.97384975229046],[75.75861159369501,12.97906299865115]]]},"properties":{"region_id":"village_614865","name":"DABBEGADDE","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

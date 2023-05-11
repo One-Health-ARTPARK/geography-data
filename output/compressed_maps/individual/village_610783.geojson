@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08899281570187,13.64628739560957],[77.07251800660568,13.64906663491103],[77.07266984215565,13.64100569852639],[77.08604954689449,13.63962683398944],[77.08899281570187,13.64628739560957]]]},"properties":{"region_id":"village_610783","name":"LINGASANDRA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

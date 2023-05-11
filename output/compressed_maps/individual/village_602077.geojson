@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48429394797691,15.09683956513844],[75.46252812786044,15.0946409733063],[75.4650513587807,15.07666980957584],[75.48136777111529,15.07751196010142],[75.48429394797691,15.09683956513844]]]},"properties":{"region_id":"village_602077","name":"HARADAGATTI","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

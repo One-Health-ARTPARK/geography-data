@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13923077052212,15.0985311463919],[75.10924549535221,15.07749540445445],[75.15471474388909,15.0744154345446],[75.13923077052212,15.0985311463919]]]},"properties":{"region_id":"village_603883","name":"ADAVISOMAPUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

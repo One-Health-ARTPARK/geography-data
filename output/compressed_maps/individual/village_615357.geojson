@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0167916434036,13.14834592606116],[76.00208090341192,13.14964333938066],[76.00490253784409,13.12966805335656],[76.01800913775799,13.13276710458864],[76.0167916434036,13.14834592606116]]]},"properties":{"region_id":"village_615357","name":"HOLABAGERE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

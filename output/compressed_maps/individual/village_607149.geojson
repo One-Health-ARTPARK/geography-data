@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83207369111592,14.15488706615454],[74.82147909460902,14.14302988275076],[74.82697463169431,14.12906596401145],[74.83578569572401,14.14323153062536],[74.83207369111592,14.15488706615454]]]},"properties":{"region_id":"village_607149","name":"ARALAGODU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

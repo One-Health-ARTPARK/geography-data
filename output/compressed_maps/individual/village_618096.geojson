@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02691335071093,12.53605616478272],[76.01272225061096,12.53141461741721],[76.02193985556997,12.52237501343991],[76.02691335071093,12.53605616478272]]]},"properties":{"region_id":"village_618096","name":"KAMBIPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

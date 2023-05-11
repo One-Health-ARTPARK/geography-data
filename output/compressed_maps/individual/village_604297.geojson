@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45255210147131,14.68066384801509],[75.41762602806018,14.67593326319332],[75.42679394065676,14.65388399636773],[75.44680202253953,14.66168717918847],[75.45255210147131,14.68066384801509]]]},"properties":{"region_id":"village_604297","name":"MASANAGI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

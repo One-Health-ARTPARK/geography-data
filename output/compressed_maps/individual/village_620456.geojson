@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43733353416043,17.29243095762677],[77.44549843586003,17.3239906653545],[77.42421868039312,17.32390538054535],[77.42291982755245,17.30788072507566],[77.43733353416043,17.29243095762677]]]},"properties":{"region_id":"village_620456","name":"CHATARSAL","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

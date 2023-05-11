@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43658677915398,12.77075879245181],[76.43658575575365,12.77772430591588],[76.42852872008623,12.77752325732041],[76.42628827164215,12.77008424730094],[76.43658677915398,12.77075879245181]]]},"properties":{"region_id":"village_613401","name":"BOOVANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67541037028946,13.30714835698662],[75.6532172341233,13.31468487248079],[75.66630484116718,13.29249086883289],[75.67541037028946,13.30714835698662]]]},"properties":{"region_id":"village_609820","name":"HANCHARAVALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54009769215618,17.93170166808195],[77.5366756656804,17.93201489071083],[77.53376136916506,17.92171939802525],[77.5362066077752,17.92268295224072],[77.53797303391814,17.92889177833785],[77.54009769215618,17.93170166808195]]]},"properties":{"region_id":"village_600170","name":"KABIRWADA","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

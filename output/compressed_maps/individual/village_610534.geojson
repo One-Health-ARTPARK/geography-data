@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25359722723331,14.24040856267068],[77.22276378663678,14.23187986276874],[77.22674037655294,14.20989497887429],[77.25627837537435,14.21395246766813],[77.25359722723331,14.24040856267068]]]},"properties":{"region_id":"village_610534","name":"SOOLANAIKANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

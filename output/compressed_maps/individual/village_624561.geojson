@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97491736003448,13.40495373139745],[77.96214589054497,13.40347649273038],[77.9628176118305,13.39270356172472],[77.97664497438487,13.39681357135661],[77.97491736003448,13.40495373139745]]]},"properties":{"region_id":"village_624561","name":"THINAKALLU","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

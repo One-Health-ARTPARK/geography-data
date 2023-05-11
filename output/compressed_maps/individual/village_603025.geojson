@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07633035717117,14.97363759714618],[75.07294063094317,15.00057710171757],[75.04519224878342,14.98820158808238],[75.07633035717117,14.97363759714618]]]},"properties":{"region_id":"village_603025","name":"NYASARGI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

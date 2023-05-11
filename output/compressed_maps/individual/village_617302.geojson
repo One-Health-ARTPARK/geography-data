@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52853652286306,13.05525103759144],[76.50889195591925,13.0632640759435],[76.50807493019883,13.04148763525086],[76.52853652286306,13.05525103759144]]]},"properties":{"region_id":"village_617302","name":"MASAKANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

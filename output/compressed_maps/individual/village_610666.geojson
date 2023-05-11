@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3993897685868,13.92045531861026],[77.3528298753582,13.913745744055],[77.35432927164489,13.90423728628459],[77.39790685390987,13.9063740090118],[77.3993897685868,13.92045531861026]]]},"properties":{"region_id":"village_610666","name":"MACHARAJANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

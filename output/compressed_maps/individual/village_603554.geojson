@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76100158356266,14.44474465403036],[74.76670089722865,14.42420346762871],[74.78333138051195,14.44063966873871],[74.76100158356266,14.44474465403036]]]},"properties":{"region_id":"village_603554","name":"BALEKOPPA (KIBBALLI)","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

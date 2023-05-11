@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9466492765726,11.98806614303475],[76.93065814708669,11.97791108497478],[76.92418216214065,11.96326706470712],[76.93976291057842,11.96264004959973],[76.94707476566062,11.97354573729658],[76.9466492765726,11.98806614303475]]]},"properties":{"region_id":"village_619656","name":"KIRAGASUR","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

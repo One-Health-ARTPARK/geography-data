@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10198483450091,13.39318514710148],[76.08909926900853,13.39244399315064],[76.08716666941383,13.37589817562455],[76.09882910415335,13.37487255221519],[76.10198483450091,13.39318514710148]]]},"properties":{"region_id":"village_615492","name":"CHIKKAJJIKATTEHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

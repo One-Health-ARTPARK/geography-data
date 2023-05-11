@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67631031361981,12.75664186118713],[76.66743475966078,12.75761217893911],[76.66752453902403,12.74157889445504],[76.67793022460067,12.74299627620065],[76.67631031361981,12.75664186118713]]]},"properties":{"region_id":"village_614008","name":"UYANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

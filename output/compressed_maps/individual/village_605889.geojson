@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33819465171928,13.77699698608136],[76.31102329713805,13.78346417836398],[76.31989824293844,13.76644872596759],[76.33393967293439,13.76157153135054],[76.33819465171928,13.77699698608136]]]},"properties":{"region_id":"village_605889","name":"ATTIGATTA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.81707898812114,17.23887414410069],[75.78250161612246,17.25191205692722],[75.77902328873095,17.21984862134558],[75.81334271981065,17.22124114703961],[75.81707898812114,17.23887414410069]]]},"properties":{"region_id":"village_599203","name":"BALLOLLI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

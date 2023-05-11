@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96881036502776,14.11758238013229],[75.95794343594606,14.11263716233114],[75.96133715024686,14.08847413005478],[75.97971105649371,14.09093751304054],[75.96881036502776,14.11758238013229]]]},"properties":{"region_id":"village_606987","name":"DEVARAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

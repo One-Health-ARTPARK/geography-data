@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20383863334692,14.51043782109023],[75.17245511642555,14.51182650964169],[75.16326088634938,14.49298291444408],[75.1775865265022,14.48322849099327],[75.20383863334692,14.51043782109023]]]},"properties":{"region_id":"village_607493","name":"NEGAVADI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

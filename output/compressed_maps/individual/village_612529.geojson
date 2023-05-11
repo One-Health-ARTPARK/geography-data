@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0251159032201,13.06342825934166],[77.02266294761314,13.04907796637725],[77.03207028367976,13.04423007230814],[77.03203281222228,13.0629635182479],[77.0251159032201,13.06342825934166]]]},"properties":{"region_id":"village_612529","name":"KOTHAGERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

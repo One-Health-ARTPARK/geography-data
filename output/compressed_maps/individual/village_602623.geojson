@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.16888536376503,14.83492465385534],[74.17020687370274,14.84233343424215],[74.16128105973377,14.84158852723836],[74.16097520996678,14.8361054879596],[74.16888536376503,14.83492465385534]]]},"properties":{"region_id":"village_602623","name":"SUNKERI","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

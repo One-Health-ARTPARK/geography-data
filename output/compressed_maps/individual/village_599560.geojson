@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01573718914516,16.47230475831281],[75.97670547900961,16.46324319846236],[75.97915714619816,16.44760177459944],[76.01381731675286,16.45361569559704],[76.01573718914516,16.47230475831281]]]},"properties":{"region_id":"village_599560","name":"KODAGANUR","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

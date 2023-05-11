@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95441114299175,15.40217349000304],[74.9455834787521,15.42439732825364],[74.9266940690094,15.41804083812618],[74.9456226711883,15.40020034905286],[74.95441114299175,15.40217349000304]]]},"properties":{"region_id":"village_602279","name":"BAAD","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

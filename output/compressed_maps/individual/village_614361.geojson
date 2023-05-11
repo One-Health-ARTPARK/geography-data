@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84101718084695,12.6516284565148],[76.81679026057154,12.6319862960325],[76.85010098444917,12.62474095883127],[76.84101718084695,12.6516284565148]]]},"properties":{"region_id":"village_614361","name":"CHOKANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

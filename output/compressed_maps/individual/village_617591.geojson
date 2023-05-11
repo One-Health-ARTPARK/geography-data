@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0972963203968,12.74157466291162],[75.07725349127853,12.74516098688448],[75.06638143370871,12.72031113462892],[75.10018079832993,12.70003836281171],[75.0972963203968,12.74157466291162]]]},"properties":{"region_id":"village_617591","name":"ALIKE","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

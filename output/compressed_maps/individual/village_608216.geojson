@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17735231427476,13.66609874667086],[75.16062363255169,13.66860728334753],[75.17344243019967,13.64976733232196],[75.17735231427476,13.66609874667086]]]},"properties":{"region_id":"village_608216","name":"HOSAHALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

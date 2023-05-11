@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1432793305041,12.95465213072345],[75.10989213302024,12.94242640799626],[75.10913930141373,12.92877570969158],[75.12849061675921,12.94152737717222],[75.15205790555753,12.94250319687167],[75.1432793305041,12.95465213072345]]]},"properties":{"region_id":"village_617543","name":"MOODAPADUKODI","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86272214288125,16.13432351269167],[76.85377519024983,16.13582682949269],[76.84396250285133,16.10096670162425],[76.85491236077019,16.09023741694144],[76.8664574431699,16.12666994385402],[76.86272214288125,16.13432351269167]]]},"properties":{"region_id":"village_600942","name":"HIRE HANAGI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

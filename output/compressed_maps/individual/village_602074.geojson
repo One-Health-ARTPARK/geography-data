@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58479776646364,15.13407686738066],[75.56707011029476,15.13443310847265],[75.56369988665114,15.1150224701967],[75.5864477683218,15.11672411428544],[75.58479776646364,15.13407686738066]]]},"properties":{"region_id":"village_602074","name":"ADRAHALLI","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

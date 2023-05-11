@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50010343233969,12.83455710976159],[76.48881053128085,12.83106677224307],[76.48953263247401,12.8216441635165],[76.50220996878419,12.82362630022015],[76.50010343233969,12.83455710976159]]]},"properties":{"region_id":"village_617396","name":"BOMMENAHALLY","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

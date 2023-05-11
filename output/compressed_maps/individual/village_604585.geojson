@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71619017372565,14.92711574084264],[75.71733861207237,14.95075787124487],[75.69508096930704,14.94551574501668],[75.69693893522978,14.92580418793507],[75.71619017372565,14.92711574084264]]]},"properties":{"region_id":"village_604585","name":"BYALHUNSI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

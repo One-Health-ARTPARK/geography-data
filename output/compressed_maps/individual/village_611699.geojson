@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96115190632585,13.45865907697785],[76.96473522398853,13.46832375457463],[76.95269771530364,13.47456285840487],[76.94838859941194,13.45195625635269],[76.96115190632585,13.45865907697785]]]},"properties":{"region_id":"village_611699","name":"PATRAVATHANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

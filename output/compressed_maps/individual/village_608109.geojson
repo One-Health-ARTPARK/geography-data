@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28936435590163,13.79194578033288],[75.27844194535686,13.78378074891848],[75.29788497269489,13.76109498851901],[75.31523455575332,13.77024541007055],[75.29449592210148,13.7794826022442],[75.28936435590163,13.79194578033288]]]},"properties":{"region_id":"village_608109","name":"VIRUPAPURA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

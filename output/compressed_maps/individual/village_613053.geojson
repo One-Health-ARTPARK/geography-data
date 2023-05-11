@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51203221615425,12.76832484689044],[77.50983476510027,12.75325069007449],[77.52119417878383,12.74883435696579],[77.52167071761379,12.76533486563348],[77.51203221615425,12.76832484689044]]]},"properties":{"region_id":"village_613053","name":"SUNKADAKATTE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

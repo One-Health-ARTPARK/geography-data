@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86977934593683,15.66318819791017],[74.84970672332214,15.65918165066302],[74.85921838063977,15.64479873710612],[74.86977934593683,15.66318819791017]]]},"properties":{"region_id":"village_598145","name":"HIREBELLIKATTI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85057032920736,13.63101601523073],[77.85576095747291,13.62872420035436],[77.86256876216571,13.64046738596707],[77.85033742945383,13.64133972570977],[77.85057032920736,13.63101601523073]]]},"properties":{"region_id":"village_624016","name":"UPPAKUNTAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

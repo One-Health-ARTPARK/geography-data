@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66564010969032,13.04776816610851],[77.64340743676253,13.04003869783059],[77.64757107725377,13.03084912747278],[77.66491432204334,13.03256516036361],[77.66564010969032,13.04776816610851]]]},"properties":{"region_id":"village_938234","name":"HORAMAVUAGARA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

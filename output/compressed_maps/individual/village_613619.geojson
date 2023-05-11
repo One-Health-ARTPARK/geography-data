@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42168935844306,12.57593090249765],[76.4332782127663,12.58510561213745],[76.42261374034732,12.59034357918016],[76.42168935844306,12.57593090249765]]]},"properties":{"region_id":"village_613619","name":"BASAVANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

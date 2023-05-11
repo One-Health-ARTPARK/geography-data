@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34041437085321,18.34876711687184],[77.30540472079663,18.34976727306752],[77.31383638860734,18.31998346739009],[77.34846589102072,18.32165178169366],[77.34041437085321,18.34876711687184]]]},"properties":{"region_id":"village_599984","name":"BHANDAR KUMTA","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

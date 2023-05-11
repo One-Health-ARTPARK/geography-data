@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38697458938383,14.62810849678616],[75.3726116826996,14.64364354475435],[75.34222673158062,14.6312237401334],[75.37223206753855,14.61708356587581],[75.38697458938383,14.62810849678616]]]},"properties":{"region_id":"village_604302","name":"MUTTUR","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

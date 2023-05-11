@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37984017643487,12.45466186705577],[77.36221209949167,12.45947365083347],[77.34693584511142,12.44567353986108],[77.37333479789406,12.43374124083789],[77.37984017643487,12.45466186705577]]]},"properties":{"region_id":"village_626547","name":"YADAMARANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

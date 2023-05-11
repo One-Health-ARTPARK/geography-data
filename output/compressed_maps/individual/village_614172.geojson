@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74499743223268,12.55978974661589],[76.7332734634488,12.54668281826042],[76.75047022317905,12.53260655403269],[76.75880023624389,12.55699682375858],[76.74499743223268,12.55978974661589]]]},"properties":{"region_id":"village_614172","name":"VADESAMUDRA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

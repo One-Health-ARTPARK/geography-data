@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83482594670843,13.54738019150443],[76.81316511287537,13.55054738554184],[76.81445333060067,13.54252275500252],[76.83047107475771,13.54116587726072],[76.83482594670843,13.54738019150443]]]},"properties":{"region_id":"village_611624","name":"KUNTARAMANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

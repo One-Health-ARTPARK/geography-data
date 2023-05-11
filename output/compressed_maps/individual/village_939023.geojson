@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91951723823567,12.75863630547727],[75.92003097319666,12.75087334192189],[75.92976669389172,12.75552066426816],[75.922273462985,12.76142414334724],[75.91951723823567,12.75863630547727]]]},"properties":{"region_id":"village_939023","name":"TALURU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

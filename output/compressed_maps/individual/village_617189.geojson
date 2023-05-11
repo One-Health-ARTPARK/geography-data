@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39511326214041,12.87505088162662],[76.38676711460938,12.87514380720298],[76.38236393023374,12.86282011334547],[76.3948663587189,12.86164757673224],[76.39511326214041,12.87505088162662]]]},"properties":{"region_id":"village_617189","name":"ADAGUR","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

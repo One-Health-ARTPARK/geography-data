@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3936542957235,14.62676536455664],[76.39017800781447,14.64827680101559],[76.37495962043002,14.64626753996987],[76.37342461439701,14.62116607609849],[76.3936542957235,14.62676536455664]]]},"properties":{"region_id":"village_606411","name":"HANUMAVVANAGATHIHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

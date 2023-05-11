@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95488624341509,15.22633724679313],[74.91776600356974,15.22545275614213],[74.93259947302236,15.18971755901335],[74.95488624341509,15.22633724679313]]]},"properties":{"region_id":"village_602466","name":"TUMARIKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

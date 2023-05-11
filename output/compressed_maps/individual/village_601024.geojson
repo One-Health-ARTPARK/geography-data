@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05749056083398,15.93065187381192],[77.0400629595444,15.92140904536975],[77.06026466508546,15.9193404064327],[77.05749056083398,15.93065187381192]]]},"properties":{"region_id":"village_601024","name":"BUDDINNI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

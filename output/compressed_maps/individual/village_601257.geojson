@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01581385771365,15.64408592776495],[75.98925831719566,15.64727738941773],[75.99718443085906,15.62764197389545],[76.01581385771365,15.64408592776495]]]},"properties":{"region_id":"village_601257","name":"HOSAHALLI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

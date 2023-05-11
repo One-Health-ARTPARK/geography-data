@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82085964536071,14.56982304493686],[74.8046179946268,14.5620706293365],[74.82264548744882,14.55234337900125],[74.82085964536071,14.56982304493686]]]},"properties":{"region_id":"village_603236","name":"MASHIGADDE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

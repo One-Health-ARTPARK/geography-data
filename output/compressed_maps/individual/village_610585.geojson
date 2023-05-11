@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44758322408084,14.2795533321772],[77.40509671505599,14.26686337833067],[77.40893798296462,14.24253612297156],[77.43703009553427,14.25377099193004],[77.44758322408084,14.2795533321772]]]},"properties":{"region_id":"village_610585","name":"BALASAMUDRA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

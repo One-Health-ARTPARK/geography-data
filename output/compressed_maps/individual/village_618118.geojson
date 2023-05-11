@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02533628536004,12.48269577249383],[76.02600663516856,12.49695171937634],[76.01079082124254,12.49514306925214],[76.00761217951828,12.48410249365079],[76.02533628536004,12.48269577249383]]]},"properties":{"region_id":"village_618118","name":"BILAGUNDA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

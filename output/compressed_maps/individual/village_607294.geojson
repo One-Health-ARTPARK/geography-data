@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20858084396336,14.04320798825121],[75.19008789531001,14.04606876871315],[75.19696584650774,14.03006914794645],[75.20858084396336,14.04320798825121]]]},"properties":{"region_id":"village_607294","name":"IRUVAKKI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

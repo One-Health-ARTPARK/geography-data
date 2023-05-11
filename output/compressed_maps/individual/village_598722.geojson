@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44453487341559,15.89372472940457],[75.4549717519114,15.91995290328352],[75.4424686217536,15.92654203170373],[75.44453487341559,15.89372472940457]]]},"properties":{"region_id":"village_598722","name":"KARALAKOPPA","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

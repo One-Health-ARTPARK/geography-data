@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23497766359698,13.45586469852271],[75.23409888069713,13.46385326382127],[75.21195673065522,13.46165059987598],[75.22330793881099,13.44417889536707],[75.23497766359698,13.45586469852271]]]},"properties":{"region_id":"village_608942","name":"DAREKOPPA","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

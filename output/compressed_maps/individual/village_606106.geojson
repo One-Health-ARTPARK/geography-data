@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94848254754245,14.09211517675358],[76.90505181016002,14.09889292488705],[76.88540051643022,14.0678242502354],[76.92295575744006,14.05662414900739],[76.94848254754245,14.09211517675358]]]},"properties":{"region_id":"village_606106","name":"HALAGALADDI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

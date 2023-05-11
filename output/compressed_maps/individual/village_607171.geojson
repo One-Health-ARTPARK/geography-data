@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00269662402067,14.27850570908272],[74.97643246996537,14.3049907433394],[74.96248292185052,14.27599700043708],[74.9780259625817,14.24564055236464],[74.99395171868986,14.25783885746944],[75.00269662402067,14.27850570908272]]]},"properties":{"region_id":"village_607171","name":"HIRENELLUR","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

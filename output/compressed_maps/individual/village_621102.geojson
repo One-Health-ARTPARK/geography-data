@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67563032308743,16.65606394937323],[76.64877354569802,16.65344994586782],[76.64941012527947,16.63269296165193],[76.66963547882891,16.62852619077846],[76.67563032308743,16.65606394937323]]]},"properties":{"region_id":"village_621102","name":"ALDHAL","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

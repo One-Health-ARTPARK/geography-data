@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85640854286619,13.19257204034651],[75.86697948140704,13.19911494575026],[75.86450872403167,13.21122833097479],[75.85352575777698,13.19811086019649],[75.85640854286619,13.19257204034651]]]},"properties":{"region_id":"village_615222","name":"KANAIKANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

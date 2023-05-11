@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15789421136598,15.27596643099297],[75.14780297373491,15.27509304349367],[75.13575628517759,15.28053161725453],[75.13476432367266,15.27114739660153],[75.15763137616658,15.2721595796773],[75.15789421136598,15.27596643099297]]]},"properties":{"region_id":"village_602411","name":"MURARHALLI","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

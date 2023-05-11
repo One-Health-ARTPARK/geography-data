@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74456938928806,13.24932824129206],[76.74215087097478,13.26002269526134],[76.72226258488602,13.24843753416386],[76.74456938928806,13.24932824129206]]]},"properties":{"region_id":"village_612277","name":"BALLEKATTE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

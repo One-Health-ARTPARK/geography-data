@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94297270106206,16.28320613672378],[74.92874328370087,16.29668118705215],[74.9073809402208,16.27571636983659],[74.93460826375038,16.26395619929279],[74.94297270106206,16.28320613672378]]]},"properties":{"region_id":"village_597427","name":"GUJANATTI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

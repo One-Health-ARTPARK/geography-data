@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94134703806824,12.40107540885497],[76.93635692772013,12.38531985104653],[76.94886651189071,12.38706098843891],[76.94134703806824,12.40107540885497]]]},"properties":{"region_id":"village_614656","name":"MAGANAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

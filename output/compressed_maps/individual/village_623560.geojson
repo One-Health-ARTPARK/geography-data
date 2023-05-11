@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75772145713488,13.47151426477854],[77.74907152465055,13.45816353221518],[77.75905226949719,13.45202255150385],[77.76256325279684,13.45880602342611],[77.75772145713488,13.47151426477854]]]},"properties":{"region_id":"village_623560","name":"MANCHANABELE","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

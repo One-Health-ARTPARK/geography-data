@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2420087420762,13.35862122031777],[77.22566918312873,13.3649391496998],[77.2240825846567,13.33555188956921],[77.2411697590457,13.33748653344725],[77.2420087420762,13.35862122031777]]]},"properties":{"region_id":"village_611376","name":"URDIGERE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

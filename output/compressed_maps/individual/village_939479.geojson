@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6600438368687,12.91515136473312],[77.65252745688882,12.92739387288613],[77.64173174133501,12.9174057948525],[77.6600438368687,12.91515136473312]]]},"properties":{"region_id":"village_939479","name":"AGARA (BEGUR HOBLI)","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4561665059762,18.14968324224724],[77.43716425015997,18.14398198955433],[77.43768016634019,18.13023862126206],[77.45492297217415,18.13576016948014],[77.4561665059762,18.14968324224724]]]},"properties":{"region_id":"village_600096","name":"JEERGA(B)","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

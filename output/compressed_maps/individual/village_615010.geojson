@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76661287528518,12.75145664433896],[75.75786597001662,12.74543362050117],[75.75993405712538,12.73230975620859],[75.77191191329466,12.73909287777222],[75.76661287528518,12.75145664433896]]]},"properties":{"region_id":"village_615010","name":"BYAGADIHALLI","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

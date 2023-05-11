@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66169429797971,13.14229776055883],[75.65394110171798,13.14315704584357],[75.65126458220624,13.13847398098114],[75.6596574136679,13.13845695390417],[75.66169429797971,13.14229776055883]]]},"properties":{"region_id":"village_609980","name":"BEEJAVALLI","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

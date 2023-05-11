@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7336954914502,12.09762526290577],[76.71605814042401,12.10054391562351],[76.7257869209944,12.07320066036601],[76.74162107778892,12.08522773591937],[76.7336954914502,12.09762526290577]]]},"properties":{"region_id":"village_619250","name":"VEEREDEVANAPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

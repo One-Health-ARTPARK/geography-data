@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6315353554373,12.74643843591741],[76.60144951568994,12.72469551837413],[76.61237229689422,12.7073003982086],[76.63096774715389,12.72145104159518],[76.6315353554373,12.74643843591741]]]},"properties":{"region_id":"village_613977","name":"HINDASAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

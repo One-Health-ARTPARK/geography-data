@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15031078046981,13.68111038144779],[77.13974794919201,13.69181132881124],[77.13313733990827,13.680021126144],[77.15031078046981,13.68111038144779]]]},"properties":{"region_id":"village_610748","name":"MADALIYARHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

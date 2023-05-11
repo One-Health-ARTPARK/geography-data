@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00680156482491,13.80390114188467],[76.002041338385,13.8287187155409],[75.9949134451898,13.82441477846953],[75.99425029543013,13.80953867277227],[76.00680156482491,13.80390114188467]]]},"properties":{"region_id":"village_609247","name":"KANABAGATTE","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

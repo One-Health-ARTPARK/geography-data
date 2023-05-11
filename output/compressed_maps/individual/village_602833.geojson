@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73173759728662,15.40812231996664],[74.72206494912385,15.40496639257469],[74.72653391981815,15.39140675766637],[74.73472477928878,15.39445931593665],[74.73173759728662,15.40812231996664]]]},"properties":{"region_id":"village_602833","name":"ARLWAD","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

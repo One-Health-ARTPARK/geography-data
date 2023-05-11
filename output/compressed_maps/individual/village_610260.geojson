@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41099522206483,13.57219563110135],[76.39478959702421,13.57340358267724],[76.39666989541038,13.55628464258567],[76.40650860668205,13.55609088369303],[76.41099522206483,13.57219563110135]]]},"properties":{"region_id":"village_610260","name":"NADUVANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

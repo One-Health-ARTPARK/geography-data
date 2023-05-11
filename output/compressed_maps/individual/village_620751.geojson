@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6995971286367,17.06501505764942],[76.6509888920542,17.05922725931701],[76.66121137604334,17.02092926593298],[76.70174651862338,17.02375225394974],[76.6995971286367,17.06501505764942]]]},"properties":{"region_id":"village_620751","name":"HARWAL","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

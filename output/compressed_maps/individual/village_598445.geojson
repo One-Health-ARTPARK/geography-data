@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27348957159066,16.49289775518701],[75.25118901098293,16.43358298730952],[75.28667555567826,16.42253269009456],[75.29054065583554,16.48118040080987],[75.27348957159066,16.49289775518701]]]},"properties":{"region_id":"village_598445","name":"SIDDAPUR","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56522219469477,14.97139497041607],[75.53968983536323,14.97834601923782],[75.52712885706002,14.94297028835747],[75.56547591466435,14.94339157875534],[75.56522219469477,14.97139497041607]]]},"properties":{"region_id":"village_604019","name":"ICHANGI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

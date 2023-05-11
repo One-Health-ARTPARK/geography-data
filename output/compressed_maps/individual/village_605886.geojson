@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32890216108179,13.66933875427421],[76.31685371730347,13.65370445179723],[76.33021205315315,13.65075134768504],[76.32890216108179,13.66933875427421]]]},"properties":{"region_id":"village_605886","name":"BOMMENAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

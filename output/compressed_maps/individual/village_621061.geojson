@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75812843158637,16.43783083143678],[76.78405554341445,16.4576616964575],[76.76908361252953,16.48018953612045],[76.75812843158637,16.43783083143678]]]},"properties":{"region_id":"village_621061","name":"SHALGI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14282700805398,13.68404937699965],[76.13074144056557,13.67177379634279],[76.13475364398457,13.65666315126775],[76.15330311637392,13.66375613404012],[76.14282700805398,13.68404937699965]]]},"properties":{"region_id":"village_609421","name":"CHIKKABALLEKERE","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

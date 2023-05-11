@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94987540172522,13.69983386727153],[77.94043536138574,13.69833979206522],[77.93569252054671,13.68076690444652],[77.95351864996188,13.6838319374846],[77.94987540172522,13.69983386727153]]]},"properties":{"region_id":"village_623900","name":"VADIGERE","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

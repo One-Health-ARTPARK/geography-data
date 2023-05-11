@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95183539586719,13.21489936251115],[77.94690124445248,13.21467794472094],[77.94564541381831,13.20688232628487],[77.94985489491272,13.20353403655528],[77.95183539586719,13.21489936251115]]]},"properties":{"region_id":"village_625556","name":"KARAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

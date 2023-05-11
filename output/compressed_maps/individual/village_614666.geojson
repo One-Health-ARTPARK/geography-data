@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03084423261322,12.41170484500517],[77.02533524588502,12.40333913563999],[77.03598639916162,12.40315017193478],[77.03084423261322,12.41170484500517]]]},"properties":{"region_id":"village_614666","name":"KOREGALA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

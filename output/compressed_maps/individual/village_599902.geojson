@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14543040307558,18.03226316161609],[77.15764830889829,18.04681163334604],[77.13895380154717,18.05646629964108],[77.13318112752498,18.03229991584037],[77.14543040307558,18.03226316161609]]]},"properties":{"region_id":"village_599902","name":"NIDEBAN","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

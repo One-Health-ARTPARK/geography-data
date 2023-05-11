@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57815787424477,13.56242708453069],[77.56409002179974,13.56360771607049],[77.55478332579452,13.57356449980959],[77.54949834199525,13.55375292836087],[77.57159983169325,13.55327258029395],[77.57815787424477,13.56242708453069]]]},"properties":{"region_id":"village_623383","name":"BEERAMANGALA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97474157450846,12.84772755587689],[77.97473028271995,12.85962881350188],[77.96231002873637,12.8541487121889],[77.97474157450846,12.84772755587689]]]},"properties":{"region_id":"village_622343","name":"BITNAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

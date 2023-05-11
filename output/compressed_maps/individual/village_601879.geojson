@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41356759746172,15.65760537470696],[75.43463337229797,15.67069619014522],[75.42376740725554,15.69416876253699],[75.40355280199354,15.68515184566256],[75.41356759746172,15.65760537470696]]]},"properties":{"region_id":"village_601879","name":"BANAHATTI","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

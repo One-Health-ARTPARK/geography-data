@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96771923224684,12.95826955431179],[77.96478580846046,12.94531555964913],[77.97209459271902,12.94539980701635],[77.96771923224684,12.95826955431179]]]},"properties":{"region_id":"village_622218","name":"THURAGALUR","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

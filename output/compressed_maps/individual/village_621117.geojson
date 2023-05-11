@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8714621884918,16.75042254728612],[76.85728318892448,16.74660630388311],[76.85395012509393,16.72946319461339],[76.86556389711662,16.72599464703965],[76.8714621884918,16.75042254728612]]]},"properties":{"region_id":"village_621117","name":"MADNAL","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15783957643963,13.45343945422921],[77.16446312061561,13.45850862803427],[77.15873903701103,13.46819456740563],[77.15513586265506,13.45538903480189],[77.15783957643963,13.45343945422921]]]},"properties":{"region_id":"village_611356","name":"CHINDAGIRIPALYA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

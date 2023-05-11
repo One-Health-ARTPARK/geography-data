@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69611003998749,14.61441325830276],[76.68653455615795,14.60312323673523],[76.69536792089887,14.58094831992062],[76.71127912566419,14.58880459783138],[76.69611003998749,14.61441325830276]]]},"properties":{"region_id":"village_605222","name":"MOGALAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

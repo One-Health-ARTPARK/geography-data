@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76494809005183,13.09484490782147],[77.74562203856534,13.09822518101985],[77.73981203129316,13.09206632310746],[77.76692290270695,13.08808598475676],[77.76494809005183,13.09484490782147]]]},"properties":{"region_id":"village_613091","name":"HANCHARAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

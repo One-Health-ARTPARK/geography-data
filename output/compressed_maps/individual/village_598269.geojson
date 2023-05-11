@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10617385999927,15.7957571439671],[75.09216075584644,15.80285600448203],[75.08933982760892,15.78072392703874],[75.10451509802334,15.7826798370443],[75.10617385999927,15.7957571439671]]]},"properties":{"region_id":"village_598269","name":"KADIHALLI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

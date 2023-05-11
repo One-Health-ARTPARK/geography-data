@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93885042733262,13.04182140084376],[77.93875955819857,13.05124842476264],[77.93296171149076,13.04718035669431],[77.93260016816915,13.03967682195678],[77.93885042733262,13.04182140084376]]]},"properties":{"region_id":"village_622133","name":"KONDARAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

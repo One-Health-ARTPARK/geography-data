@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49070188987334,16.12574152991575],[77.44374445665834,16.12435102088358],[77.449756856123,16.09684343755298],[77.49070188987334,16.12574152991575]]]},"properties":{"region_id":"village_600838","name":"MASDODDI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

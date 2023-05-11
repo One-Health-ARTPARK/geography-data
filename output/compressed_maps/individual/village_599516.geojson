@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90243850041082,16.44998187620179],[75.91979378813086,16.45395716338203],[75.91662727554018,16.47865555458302],[75.90102031606176,16.47471389983674],[75.90243850041082,16.44998187620179]]]},"properties":{"region_id":"village_599516","name":"MUKARTIHAL","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

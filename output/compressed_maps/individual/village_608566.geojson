@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7613616274798,13.94760000800586],[75.73726344301735,13.94842967113012],[75.74519869283486,13.93276635155157],[75.76945659145647,13.92551849445576],[75.7613616274798,13.94760000800586]]]},"properties":{"region_id":"village_608566","name":"AREBILACHI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

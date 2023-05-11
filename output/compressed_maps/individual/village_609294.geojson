@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9881389825364,13.74658690746752],[75.97643519836897,13.7532146075606],[75.96016633375075,13.74406567649892],[75.97899864782396,13.73990184268927],[75.9881389825364,13.74658690746752]]]},"properties":{"region_id":"village_609294","name":"THIPPAGONDANAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

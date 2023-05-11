@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.921834762612,14.54163097995141],[75.90233369281349,14.54202832356179],[75.89522477972814,14.52325489504101],[75.92513924429859,14.5195575484474],[75.921834762612,14.54163097995141]]]},"properties":{"region_id":"village_606551","name":"KADLEBALU","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

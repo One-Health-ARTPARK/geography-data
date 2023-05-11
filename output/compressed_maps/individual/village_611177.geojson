@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23130808121917,13.41072753841947],[77.22373830486545,13.42258484881839],[77.215298378646,13.41098758603604],[77.2294882180397,13.3990955810342],[77.23130808121917,13.41072753841947]]]},"properties":{"region_id":"village_611177","name":"THANGANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

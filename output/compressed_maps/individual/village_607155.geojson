@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9142095742552,14.12625453696057],[74.92902091577315,14.13290302511697],[74.9284243774983,14.15281470547077],[74.90601231194843,14.14837013309825],[74.9142095742552,14.12625453696057]]]},"properties":{"region_id":"village_607155","name":"NITLIHALETHOTA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0364102321632,14.56384072239437],[75.03152904638928,14.56582949471715],[75.02382169067488,14.56338167680977],[75.03736383646824,14.55810267578854],[75.0364102321632,14.56384072239437]]]},"properties":{"region_id":"village_607399","name":"JADEMADAPURA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85662996848977,13.38169671688025],[77.84267325442207,13.37127274256267],[77.85237589318982,13.36775118075094],[77.85662996848977,13.38169671688025]]]},"properties":{"region_id":"village_624210","name":"AMMANAKERE","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

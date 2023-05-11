@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45028850553383,12.8214006683056],[77.43393992826012,12.83214285481864],[77.43631318333672,12.8103237113497],[77.45028850553383,12.8214006683056]]]},"properties":{"region_id":"village_613030","name":"THIPPUR","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

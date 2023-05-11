@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11976201864377,13.13524536002982],[75.09633158690994,13.16194958971697],[75.08107447503446,13.15840701111681],[75.09522837691992,13.14227810772197],[75.09611854803687,13.11704205034517],[75.11976201864377,13.13524536002982]]]},"properties":{"region_id":"village_617467","name":"NELLIKARU","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

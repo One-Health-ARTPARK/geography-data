@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52108997821605,16.24788600284742],[76.51006260226126,16.28559455188842],[76.48741258728742,16.24778353696753],[76.52108997821605,16.24788600284742]]]},"properties":{"region_id":"village_600450","name":"GONWATLA","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

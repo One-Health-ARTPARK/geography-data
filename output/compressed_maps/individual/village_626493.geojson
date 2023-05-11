@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29495712932207,12.53215051110797],[77.28221387019961,12.52930436955036],[77.292725057247,12.5176562295377],[77.29495712932207,12.53215051110797]]]},"properties":{"region_id":"village_626493","name":"ALUR","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

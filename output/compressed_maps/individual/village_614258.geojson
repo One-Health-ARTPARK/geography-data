@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84650061664684,12.43766824903287],[76.8652803021076,12.42703373846112],[76.86928716734909,12.43809913512095],[76.85158220551804,12.44629943435356],[76.84650061664684,12.43766824903287]]]},"properties":{"region_id":"village_614258","name":"BANNAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

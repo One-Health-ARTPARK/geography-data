@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91955932743934,13.13904716415824],[77.92779825982848,13.14164968026795],[77.9273544497232,13.14855109215009],[77.92021457085359,13.14764807641035],[77.91955932743934,13.13904716415824]]]},"properties":{"region_id":"village_625594","name":"GORAVIHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

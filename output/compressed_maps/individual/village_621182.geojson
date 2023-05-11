@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86968621186823,16.55298900450228],[76.8808387888381,16.55407449757071],[76.88202241094433,16.57158467943845],[76.86934480724491,16.57414535332259],[76.86968621186823,16.55298900450228]]]},"properties":{"region_id":"village_621182","name":"SAWOOR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

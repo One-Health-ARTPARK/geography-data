@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54233486864864,12.79472841627843],[77.5287388485986,12.81334959372914],[77.51584474463203,12.79449601361149],[77.54233486864864,12.79472841627843]]]},"properties":{"region_id":"village_613048","name":"GULAKAMALE","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

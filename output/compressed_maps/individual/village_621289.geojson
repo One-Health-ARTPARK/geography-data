@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04133742189583,16.85803206912477],[77.04185326875925,16.86838305289048],[77.03122142427917,16.86761236303585],[77.03192741473065,16.86000412093087],[77.04133742189583,16.85803206912477]]]},"properties":{"region_id":"village_621289","name":"NAGANAIKAHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

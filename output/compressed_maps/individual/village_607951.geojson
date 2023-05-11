@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29211689043947,13.97812997992109],[75.27763004659596,13.98155349136885],[75.27268895174034,13.96073161583212],[75.28664216717105,13.95657089565423],[75.29211689043947,13.97812997992109]]]},"properties":{"region_id":"village_607951","name":"MALAVALLI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

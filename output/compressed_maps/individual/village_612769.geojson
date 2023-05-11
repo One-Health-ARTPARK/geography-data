@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46474126056718,13.10092775218451],[77.46770016724983,13.11257993605725],[77.45998749005597,13.11636989837764],[77.4616022149886,13.10383153817987],[77.46474126056718,13.10092775218451]]]},"properties":{"region_id":"village_612769","name":"NARASIPURA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

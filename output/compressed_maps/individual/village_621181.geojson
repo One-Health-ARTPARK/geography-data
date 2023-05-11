@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90084928379044,16.57128624090029],[76.86809455503052,16.55009100569615],[76.89084133719003,16.52311219663284],[76.90084928379044,16.57128624090029]]]},"properties":{"region_id":"village_621181","name":"BEERNUR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

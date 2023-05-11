@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93938580317058,14.52328511406587],[74.9252139881772,14.50529798200788],[74.9463943248111,14.50336485333197],[74.93938580317058,14.52328511406587]]]},"properties":{"region_id":"village_607505","name":"HARISHI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

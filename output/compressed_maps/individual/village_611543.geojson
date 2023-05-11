@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10301404973306,13.16552403629475],[77.09734174053715,13.15997811100559],[77.10523429929708,13.14536514118886],[77.1118335827026,13.16424129412256],[77.10301404973306,13.16552403629475]]]},"properties":{"region_id":"village_611543","name":"THONDAGERE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

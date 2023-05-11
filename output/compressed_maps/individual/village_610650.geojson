@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23331380075518,14.0524596026904],[77.21285480460003,14.0558271546798],[77.21028611811282,14.0382693417423],[77.22568843809064,14.03850869116131],[77.23331380075518,14.0524596026904]]]},"properties":{"region_id":"village_610650","name":"KRISHNAGIRI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

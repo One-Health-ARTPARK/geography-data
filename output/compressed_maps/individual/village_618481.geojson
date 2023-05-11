@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40181727756315,12.26941084116389],[76.42329566691802,12.26587885385363],[76.41995146510658,12.27952182219834],[76.40181727756315,12.26941084116389]]]},"properties":{"region_id":"village_618481","name":"CHALLAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

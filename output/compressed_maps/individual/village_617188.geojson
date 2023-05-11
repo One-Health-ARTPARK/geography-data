@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40621897003628,12.87356429451239],[76.3948663587189,12.86164757673224],[76.37491511673272,12.86454907117184],[76.38227826978104,12.84521797369887],[76.3974507531288,12.84746637277335],[76.40621897003628,12.87356429451239]]]},"properties":{"region_id":"village_617188","name":"CHOLENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

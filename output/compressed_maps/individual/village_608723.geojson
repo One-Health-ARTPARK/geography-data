@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92226955208376,13.64820340140151],[74.89578975369744,13.64650070699591],[74.87785885288059,13.60717404063617],[74.91263966049183,13.60540933760291],[74.92226955208376,13.64820340140151]]]},"properties":{"region_id":"village_608723","name":"ULLOOR 74","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

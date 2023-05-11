@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90447353058198,13.05713710970553],[76.8913190916475,13.05812552936392],[76.89013441137395,13.0494536520206],[76.9022803696289,13.04792649986743],[76.90447353058198,13.05713710970553]]]},"properties":{"region_id":"village_612447","name":"YELLAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90893145935945,13.10684850027831],[75.88991769083846,13.10734515412664],[75.88719822369092,13.09438689063334],[75.90335353034209,13.09533852660304],[75.90893145935945,13.10684850027831]]]},"properties":{"region_id":"village_615439","name":"MALAGERE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

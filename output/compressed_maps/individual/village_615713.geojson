@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27435728272759,13.30941859105775],[76.28347847286348,13.27474811337017],[76.30384123068382,13.27653632768302],[76.30390033301316,13.28950304196635],[76.29093384229297,13.29327986374333],[76.27435728272759,13.30941859105775]]]},"properties":{"region_id":"village_615713","name":"KELLANGERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

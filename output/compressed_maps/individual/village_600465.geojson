@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59684709947742,16.26899156148956],[76.57467038568055,16.28945544373615],[76.55555790134373,16.27280426532554],[76.59684709947742,16.26899156148956]]]},"properties":{"region_id":"village_600465","name":"PARAMAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

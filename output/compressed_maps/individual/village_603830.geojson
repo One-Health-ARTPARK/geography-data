@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55372383790397,13.97871360319764],[74.53895831523285,13.96581320959636],[74.56162054258812,13.96255178599677],[74.55372383790397,13.97871360319764]]]},"properties":{"region_id":"village_603830","name":"MUNDALLI","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

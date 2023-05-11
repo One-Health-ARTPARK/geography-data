@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19928541532347,12.52017664499662],[77.19295164842418,12.49262393896356],[77.20591020568253,12.49092605804754],[77.21732440329752,12.51580054677838],[77.19928541532347,12.52017664499662]]]},"properties":{"region_id":"village_626311","name":"YALIYUR","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71823555814814,17.63455986744699],[76.70601605178796,17.60857169652142],[76.7264937620153,17.6017452040564],[76.73483245474681,17.62597126517423],[76.71823555814814,17.63455986744699]]]},"properties":{"region_id":"village_619978","name":"SANGUNDA","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91621459364431,11.93109582840217],[76.90693781869025,11.92052027660802],[76.9036348660214,11.89063480201814],[76.92097821234252,11.92456872201272],[76.91621459364431,11.93109582840217]]]},"properties":{"region_id":"village_619670","name":"UTHAVALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

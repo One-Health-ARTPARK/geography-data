@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90477266459133,17.59954859711135],[76.90760085960264,17.63509034772471],[76.89312120118404,17.64319470366446],[76.88773385226787,17.60747750134498],[76.90477266459133,17.59954859711135]]]},"properties":{"region_id":"village_619986","name":"AMBALGA","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

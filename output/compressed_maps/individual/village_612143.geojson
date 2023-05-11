@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59532448153809,13.17287010230755],[76.56606839238314,13.15158243400678],[76.59587261180589,13.15499465178261],[76.59532448153809,13.17287010230755]]]},"properties":{"region_id":"village_612143","name":"ALBUR","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

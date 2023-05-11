@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99031804753686,13.25993293057231],[75.96387306917106,13.25862844956421],[75.96926989095167,13.22368114018787],[75.98074953056526,13.21991955563094],[75.99031804753686,13.25993293057231]]]},"properties":{"region_id":"village_615266","name":"RAJANASIRIYUR","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

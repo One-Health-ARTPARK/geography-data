@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80345265812797,11.72318943301555],[76.78735070829156,11.71501173125804],[76.79679432868893,11.70511497003321],[76.80345265812797,11.72318943301555]]]},"properties":{"region_id":"village_619551","name":"VADDAGERE","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99162324225007,15.65096151292075],[74.9928155603402,15.66701857065968],[74.96579313898633,15.66207681492811],[74.97866366205719,15.64829386940247],[74.99162324225007,15.65096151292075]]]},"properties":{"region_id":"village_598154","name":"NANAGUNDIKOPPA","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

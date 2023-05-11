@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23809569019869,13.42660828139404],[75.24174718497193,13.44418125777161],[75.21997797575655,13.43900892264285],[75.22353008394715,13.42604969030036],[75.23809569019869,13.42660828139404]]]},"properties":{"region_id":"village_608948","name":"HONNAVALLI","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

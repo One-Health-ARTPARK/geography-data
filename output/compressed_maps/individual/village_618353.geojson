@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22904650198197,12.2969237134199],[76.20648381303201,12.30310772690091],[76.20882171815428,12.28880129056032],[76.22904650198197,12.2969237134199]]]},"properties":{"region_id":"village_618353","name":"HUNASEGALA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

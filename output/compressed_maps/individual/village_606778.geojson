@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68643870416855,14.31005562869603],[75.67287697128579,14.33915554029209],[75.6275952480676,14.33071904977612],[75.63434228860478,14.31124895370884],[75.68643870416855,14.31005562869603]]]},"properties":{"region_id":"village_606778","name":"HIREGONIGERE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

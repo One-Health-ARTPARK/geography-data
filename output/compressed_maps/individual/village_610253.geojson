@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64021791566046,13.3835050612702],[76.62535107912865,13.38250653211967],[76.6178749705296,13.36831729828969],[76.64100848228307,13.36641384218177],[76.64021791566046,13.3835050612702]]]},"properties":{"region_id":"village_610253","name":"THARABENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

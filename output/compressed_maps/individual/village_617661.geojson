@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26763265172708,12.97024557664599],[75.2578185598218,12.9631555000906],[75.25584728577951,12.94103104095827],[75.27792309315986,12.93535525801242],[75.28176815237558,12.95990600060414],[75.26763265172708,12.97024557664599]]]},"properties":{"region_id":"village_617661","name":"KALIYA","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

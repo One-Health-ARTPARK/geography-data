@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72951756063797,15.89215763641052],[74.7031232524379,15.90215234183093],[74.69708747791323,15.88509157127343],[74.72951756063797,15.89215763641052]]]},"properties":{"region_id":"village_598040","name":"HOGARTI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

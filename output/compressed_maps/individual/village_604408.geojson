@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50220130144076,14.50029445394036],[75.48060091922058,14.51404942570572],[75.47102604156174,14.4808862965181],[75.50470875079175,14.47505594092327],[75.50220130144076,14.50029445394036]]]},"properties":{"region_id":"village_604408","name":"HULLATTI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

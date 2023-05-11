@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45864761839938,17.07630084020528],[76.43007446781463,17.07982539689363],[76.43118062803713,17.02962196412785],[76.4727809239558,17.02369078495663],[76.45864761839938,17.07630084020528]]]},"properties":{"region_id":"village_620741","name":"YATNOOR","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

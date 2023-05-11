@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69180744603901,14.92441215742688],[76.67921313387801,14.9383405651981],[76.6594410342862,14.94210820401926],[76.66717434821165,14.9153069910313],[76.69180744603901,14.92441215742688]]]},"properties":{"region_id":"village_605170","name":"JALIPENTE","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

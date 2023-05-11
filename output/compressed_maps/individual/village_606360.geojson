@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03126140571597,14.58543387173374],[76.04155939908912,14.57414409167843],[76.07761050681553,14.57722869643552],[76.0637691813208,14.59675459764602],[76.03126140571597,14.58543387173374]]]},"properties":{"region_id":"village_606360","name":"KALLUGUDI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14931951469207,13.17590251957982],[77.14341199025847,13.15800688833319],[77.15410043647468,13.1533475665094],[77.15921704353133,13.17258183276467],[77.14931951469207,13.17590251957982]]]},"properties":{"region_id":"village_625808","name":"KANNANUR","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

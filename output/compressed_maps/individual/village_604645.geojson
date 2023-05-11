@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01666792308453,15.09108704221999],[76.04155151007538,15.05618071324807],[76.0747433010242,15.06821839771933],[76.07952307994138,15.09543276950667],[76.01666792308453,15.09108704221999]]]},"properties":{"region_id":"village_604645","name":"BANNIKAL","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

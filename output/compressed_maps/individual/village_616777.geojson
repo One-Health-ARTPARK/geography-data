@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12510516908608,12.56707511534023],[76.11554069794393,12.54311706922574],[76.13348742458635,12.55008302956024],[76.12510516908608,12.56707511534023]]]},"properties":{"region_id":"village_616777","name":"KERAGODU","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

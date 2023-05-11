@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.922613152722,12.42803341644218],[75.90311422559815,12.42498412331055],[75.91996458337253,12.41817538563918],[75.922613152722,12.42803341644218]]]},"properties":{"region_id":"village_923975","name":"CHIKKABETAGERI","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

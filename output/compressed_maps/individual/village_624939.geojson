@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35682355052195,12.98839429301973],[77.34134035330705,12.98831765177886],[77.3373407474804,12.97632199372475],[77.34990234811167,12.97434270571824],[77.35682355052195,12.98839429301973]]]},"properties":{"region_id":"village_624939","name":"GORAVANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

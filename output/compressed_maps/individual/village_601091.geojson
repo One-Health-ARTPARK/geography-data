@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67427839567532,15.83024075063725],[76.64932089568748,15.83102946610853],[76.63785393085499,15.78620944496586],[76.66718740662215,15.78559515373896],[76.67427839567532,15.83024075063725]]]},"properties":{"region_id":"village_601091","name":"KURUKUNDA","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

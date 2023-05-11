@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74975645249069,16.00044735013407],[76.75092152203065,16.02379807421146],[76.72932892652157,16.01620548544087],[76.74975645249069,16.00044735013407]]]},"properties":{"region_id":"village_600907","name":"JANGAMARHALLI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

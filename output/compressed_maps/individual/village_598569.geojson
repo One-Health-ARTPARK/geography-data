@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26617041720111,16.32750789078976],[75.24146168316665,16.32557013730704],[75.22895722810453,16.27188348901327],[75.24610179084341,16.28052416427102],[75.26617041720111,16.32750789078976]]]},"properties":{"region_id":"village_598569","name":"JALIBER","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

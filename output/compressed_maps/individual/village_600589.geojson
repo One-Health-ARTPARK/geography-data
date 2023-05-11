@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92704923940529,16.45120325292142],[76.93274646981276,16.46592660619565],[76.92529928509863,16.49299472310555],[76.91302790050278,16.48873230244352],[76.91855521085483,16.45167889017372],[76.92704923940529,16.45120325292142]]]},"properties":{"region_id":"village_600589","name":"HUVINHADGI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

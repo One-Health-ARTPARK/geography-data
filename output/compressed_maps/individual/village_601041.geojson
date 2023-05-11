@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83498750419177,15.98004406670296],[76.81101343263916,15.98007852889774],[76.81348102896183,15.95983830633598],[76.83498750419177,15.98004406670296]]]},"properties":{"region_id":"village_601041","name":"UDBAL","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

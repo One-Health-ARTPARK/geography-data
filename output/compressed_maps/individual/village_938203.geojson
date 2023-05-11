@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6943795440388,13.02673882023238],[77.68349831666592,13.03321281082636],[77.68372504340722,13.0230977638157],[77.6943795440388,13.02673882023238]]]},"properties":{"region_id":"village_938203","name":"VARANASI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

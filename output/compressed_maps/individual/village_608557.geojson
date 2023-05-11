@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82551948914077,13.98778318150748],[75.80417899504495,14.00130855726858],[75.79634695617217,13.98926204887379],[75.82004942589626,13.97665508504703],[75.82551948914077,13.98778318150748]]]},"properties":{"region_id":"village_608557","name":"BHADRAPURA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

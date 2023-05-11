@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82640287102677,17.80555765207362],[76.87432985767043,17.79562038983594],[76.86342159055751,17.83899442876687],[76.82640287102677,17.80555765207362]]]},"properties":{"region_id":"village_599784","name":"MANTALA","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

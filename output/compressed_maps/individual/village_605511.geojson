@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40988270518491,14.35367466408384],[76.37862563530871,14.35412171952652],[76.38729325760741,14.31593427014209],[76.40659061859725,14.31622137686907],[76.40988270518491,14.35367466408384]]]},"properties":{"region_id":"village_605511","name":"MADANAIKANAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

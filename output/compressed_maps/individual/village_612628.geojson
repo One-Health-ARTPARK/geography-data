@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0164425650896,12.9153331957812],[77.00216960407033,12.91559431789578],[77.0045994781524,12.90564737104038],[77.01862676653738,12.90519459332602],[77.0164425650896,12.9153331957812]]]},"properties":{"region_id":"village_612628","name":"MODUR","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

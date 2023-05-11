@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49485967584918,14.65270754493606],[75.47375496337173,14.66838817860417],[75.47060920860139,14.6491097591798],[75.49485967584918,14.65270754493606]]]},"properties":{"region_id":"village_604334","name":"AGASANHALLI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

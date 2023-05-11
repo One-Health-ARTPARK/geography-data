@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07660578993412,12.88263598831715],[76.08066208042818,12.89972783807754],[76.06096487838352,12.90981045157421],[76.0561697571485,12.89499498919708],[76.07660578993412,12.88263598831715]]]},"properties":{"region_id":"village_616100","name":"KATTAYA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

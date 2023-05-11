@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56826808831656,13.23727202831503],[76.55267486039571,13.22950311333728],[76.56614330740794,13.21179395827397],[76.56826808831656,13.23727202831503]]]},"properties":{"region_id":"village_612058","name":"KARADALU","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

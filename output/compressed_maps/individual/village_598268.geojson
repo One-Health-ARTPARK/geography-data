@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14413423522035,15.78547148008724],[75.14744048234547,15.81459213548504],[75.11560837796203,15.82489685917309],[75.10951649350054,15.79132912475472],[75.14413423522035,15.78547148008724]]]},"properties":{"region_id":"village_598268","name":"GORAVANAKOLLA","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

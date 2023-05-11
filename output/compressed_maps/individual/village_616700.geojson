@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05009376156718,12.68399843904061],[76.04198240985414,12.6790036877784],[76.05001390342649,12.66481916236894],[76.06198549411175,12.67784062370406],[76.05009376156718,12.68399843904061]]]},"properties":{"region_id":"village_616700","name":"KABBALIGERE","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

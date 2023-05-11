@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68963754657437,12.80601096872453],[77.67547413330776,12.80412930757259],[77.68541014436883,12.79056728445545],[77.68963754657437,12.80601096872453]]]},"properties":{"region_id":"village_613182","name":"KACHANAIKANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

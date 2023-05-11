@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11585143155693,12.63702167407848],[77.11528300262819,12.64790553533795],[77.09938130428655,12.65051232223485],[77.10120250791668,12.62891456071004],[77.11585143155693,12.63702167407848]]]},"properties":{"region_id":"village_626214","name":"KOLURU","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

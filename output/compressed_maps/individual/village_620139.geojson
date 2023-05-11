@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3878703114145,17.12938564235556],[76.366594336438,17.10756548706985],[76.39869890412763,17.10614250091069],[76.3878703114145,17.12938564235556]]]},"properties":{"region_id":"village_620139","name":"HAWALGA","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

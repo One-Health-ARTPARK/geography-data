@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62551439988137,16.01762341895483],[75.64019332747463,16.02945789313033],[75.62971794399043,16.04596783034836],[75.6142710509179,16.03778293368059],[75.62551439988137,16.01762341895483]]]},"properties":{"region_id":"village_598649","name":"GUBBERAKOPPA","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25764210765915,13.85884099169034],[75.23388416811972,13.87476408448588],[75.22871479638876,13.83821028461561],[75.25261797700364,13.84098528869937],[75.25764210765915,13.85884099169034]]]},"properties":{"region_id":"village_608054","name":"MUNIYUR","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

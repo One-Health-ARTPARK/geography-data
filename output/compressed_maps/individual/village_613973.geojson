@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6458288719055,12.77305933896197],[76.62460226667041,12.77337883576867],[76.6337644222284,12.76067443136579],[76.6458288719055,12.77305933896197]]]},"properties":{"region_id":"village_613973","name":"KALLIGUNDI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

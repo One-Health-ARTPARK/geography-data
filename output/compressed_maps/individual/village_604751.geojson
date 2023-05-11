@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68727172540865,15.42944557968555],[76.67324273660742,15.45247276092237],[76.66431226881173,15.43848172672419],[76.65292053439397,15.40641758709845],[76.69394289270595,15.40596556180208],[76.68727172540865,15.42944557968555]]]},"properties":{"region_id":"village_604751","name":"MUDDAPURA NO.2","parent":"subdistrict_7107","parent_name":"KAMPLI"}}
+]}

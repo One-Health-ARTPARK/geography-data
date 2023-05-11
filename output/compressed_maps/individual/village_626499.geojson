@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35775685156047,12.54393744384637],[77.34773048893022,12.54552956805035],[77.3474418783936,12.53141003660806],[77.35877550741913,12.53184006584591],[77.35775685156047,12.54393744384637]]]},"properties":{"region_id":"village_626499","name":"THENGANAYAKANAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

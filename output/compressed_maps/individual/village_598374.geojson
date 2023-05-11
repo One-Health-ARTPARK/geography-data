@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2528749311624,15.95535278886593],[75.24031021668671,15.95019636282194],[75.24544774629801,15.92829028752331],[75.25286826567742,15.9298658691433],[75.2528749311624,15.95535278886593]]]},"properties":{"region_id":"village_598374","name":"RAMAPUR","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

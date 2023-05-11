@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23153732426479,14.89525738831561],[75.2108626087602,14.89370451491211],[75.20942994240856,14.87585246452324],[75.23686876919353,14.87308677543882],[75.23153732426479,14.89525738831561]]]},"properties":{"region_id":"village_604042","name":"WALAGERI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

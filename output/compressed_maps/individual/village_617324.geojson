@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59395563395739,13.03683421816967],[76.57827735907618,13.02558835257335],[76.59502097893333,13.02015496452145],[76.59395563395739,13.03683421816967]]]},"properties":{"region_id":"village_617324","name":"ULLAVALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

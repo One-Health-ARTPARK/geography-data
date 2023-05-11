@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69814046561423,13.30798990578461],[77.68403647106626,13.3026487527266],[77.69605874280671,13.28938998637646],[77.71119894277689,13.29515443916604],[77.69814046561423,13.30798990578461]]]},"properties":{"region_id":"village_625356","name":"KODAGURKI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

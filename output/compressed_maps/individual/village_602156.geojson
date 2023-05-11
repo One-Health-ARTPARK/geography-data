@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88760173572918,15.29744867043573],[75.8599521629211,15.29979582404549],[75.86405746870778,15.26114497421994],[75.89843691658282,15.27586065916316],[75.88760173572918,15.29744867043573]]]},"properties":{"region_id":"village_602156","name":"HAITAPUR","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

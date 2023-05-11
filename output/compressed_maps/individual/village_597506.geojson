@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06586980604328,16.27984823393639],[75.05832248367815,16.30111264540323],[75.0341263745521,16.29771888665069],[75.05209591615056,16.27379600227498],[75.06586980604328,16.27984823393639]]]},"properties":{"region_id":"village_597506","name":"HUNSHYAL (P.Y.)","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

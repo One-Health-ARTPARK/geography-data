@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32765796371639,13.00864944065405],[77.32612266181928,12.99288514556167],[77.33457729335849,12.99317708412611],[77.32765796371639,13.00864944065405]]]},"properties":{"region_id":"village_624937","name":"AVALAKUPPE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

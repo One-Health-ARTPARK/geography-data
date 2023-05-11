@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42258995196656,13.29964571886594],[76.42896319612629,13.30458604182736],[76.42065273907856,13.31613439097779],[76.40968480183614,13.30316877868438],[76.42258995196656,13.29964571886594]]]},"properties":{"region_id":"village_612069","name":"GUDIGONDANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

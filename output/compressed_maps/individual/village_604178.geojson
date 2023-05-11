@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20519712989038,14.67596943081096],[75.17507423129784,14.66657468289401],[75.18204136276302,14.65430519860334],[75.21384179210476,14.66265959345922],[75.20519712989038,14.67596943081096]]]},"properties":{"region_id":"village_604178","name":"ARASHINGUPPI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

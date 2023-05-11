@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17296541423082,16.24821759565259],[76.13253310260681,16.24694901048639],[76.13197092516965,16.23094974441196],[76.17169580665241,16.22692469420203],[76.17296541423082,16.24821759565259]]]},"properties":{"region_id":"village_599639","name":"YARAGALLA","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

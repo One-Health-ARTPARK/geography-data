@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0757038854118,17.9764669566771],[77.08517463225354,17.97218391004442],[77.08593974022916,17.98686023256471],[77.07717908050127,17.98498759458836],[77.0757038854118,17.9764669566771]]]},"properties":{"region_id":"village_599928","name":"HONNALLI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

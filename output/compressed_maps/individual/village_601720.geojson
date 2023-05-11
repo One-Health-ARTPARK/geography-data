@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11952301233826,15.26047845211685],[76.0953063974675,15.24363786616159],[76.12520652786428,15.23514434959342],[76.11952301233826,15.26047845211685]]]},"properties":{"region_id":"village_601720","name":"BELUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

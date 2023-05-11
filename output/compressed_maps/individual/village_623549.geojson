@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7080586923388,13.43808172157257],[77.69223636123861,13.44316131699732],[77.6727870186187,13.43990127259432],[77.67362333716223,13.43353338198541],[77.68878588531112,13.43833628255674],[77.7080586923388,13.43808172157257]]]},"properties":{"region_id":"village_623549","name":"KANAJENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

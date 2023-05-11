@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52165025828866,15.96233468866328],[75.50131348557787,15.95409047125717],[75.51049568090309,15.94035981170787],[75.5369053107716,15.94681927713575],[75.52165025828866,15.96233468866328]]]},"properties":{"region_id":"village_598704","name":"MAMATAGERI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

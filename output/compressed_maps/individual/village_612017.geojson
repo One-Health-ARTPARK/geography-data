@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48619073332412,13.29083799564165],[76.49248829916525,13.30238969408946],[76.48147128235833,13.31319623921838],[76.47548571762809,13.30400085749672],[76.48619073332412,13.29083799564165]]]},"properties":{"region_id":"village_612017","name":"MEESETHIMMANAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

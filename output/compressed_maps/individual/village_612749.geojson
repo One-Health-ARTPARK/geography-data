@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43890948838249,13.15209866417046],[77.42963150247898,13.15879044185741],[77.41824382762555,13.13715758322183],[77.42658107690448,13.1315503636417],[77.43890948838249,13.15209866417046]]]},"properties":{"region_id":"village_612749","name":"GOPALAPURA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

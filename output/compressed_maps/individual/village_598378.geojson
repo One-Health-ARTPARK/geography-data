@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28385097292313,15.94978727552754],[75.26855973005254,15.92058009627438],[75.28988559789674,15.90293083784383],[75.29243132779806,15.94121800491577],[75.28385097292313,15.94978727552754]]]},"properties":{"region_id":"village_598378","name":"RANKALKOPPA","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

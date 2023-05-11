@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86479467142031,15.82726416102239],[76.85597748589727,15.80756098293572],[76.85579334263467,15.76749469662047],[76.87507290354455,15.76457316936882],[76.87185806827954,15.8200973052383],[76.86479467142031,15.82726416102239]]]},"properties":{"region_id":"village_601186","name":"ALABANOOR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

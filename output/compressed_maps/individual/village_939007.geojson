@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88918818188228,12.79623766803028],[75.88456833229161,12.796009520261],[75.88527217289997,12.78755569534685],[75.89239837052537,12.79335827937],[75.88918818188228,12.79623766803028]]]},"properties":{"region_id":"village_939007","name":"NANDIPURA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

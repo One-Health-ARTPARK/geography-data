@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95620214373967,17.93238909144593],[76.91955047906781,17.93520794060682],[76.91886574242167,17.91641929251862],[76.95152206534145,17.90992654415358],[76.95620214373967,17.93238909144593]]]},"properties":{"region_id":"village_599740","name":"GOUR","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

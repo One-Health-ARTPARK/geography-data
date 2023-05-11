@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.55457067621411,16.12443450320067],[74.54102485860385,16.11936988596968],[74.55006787697353,16.09973628748434],[74.56293915811672,16.10494640710382],[74.55457067621411,16.12443450320067]]]},"properties":{"region_id":"village_597629","name":"GUDAGANAHATTI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

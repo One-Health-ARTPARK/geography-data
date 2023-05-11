@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55552785690125,16.1333552319809],[75.51535949644904,16.11326902272632],[75.5220204998352,16.07523210990052],[75.5560093683583,16.08202085287436],[75.55552785690125,16.1333552319809]]]},"properties":{"region_id":"village_598634","name":"JALAGERI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57485761118336,14.19184055410446],[75.5694418028809,14.20590710502522],[75.54264745956321,14.19970306852332],[75.54226208546484,14.18786238737023],[75.57485761118336,14.19184055410446]]]},"properties":{"region_id":"village_606762","name":"KENCHIKOPPA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

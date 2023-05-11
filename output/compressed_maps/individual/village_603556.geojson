@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77894999719985,14.47458139308285],[74.7680260984686,14.46200428248694],[74.78333138051195,14.44063966873871],[74.78832145828993,14.4536756720414],[74.77782544497836,14.45950996742824],[74.77894999719985,14.47458139308285]]]},"properties":{"region_id":"village_603556","name":"HEGNUR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

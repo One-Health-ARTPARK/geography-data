@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57613245498786,14.22744947161492],[75.57466075131248,14.21998712643698],[75.58885623706772,14.21830441254854],[75.5904395681555,14.22447877954892],[75.57613245498786,14.22744947161492]]]},"properties":{"region_id":"village_606760","name":"BOODIHALU","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79450604428031,14.26590517574144],[74.79273437626111,14.22802425474853],[74.83364075391479,14.23131061462255],[74.79450604428031,14.26590517574144]]]},"properties":{"region_id":"village_603662","name":"KODKANI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22320099696492,13.01085625386888],[75.19980861750032,12.99188095711879],[75.22017775982688,12.97118777813932],[75.23402107114693,13.00633209247985],[75.22320099696492,13.01085625386888]]]},"properties":{"region_id":"village_617647","name":"PADANGADY","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

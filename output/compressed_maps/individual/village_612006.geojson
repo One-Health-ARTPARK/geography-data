@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48717600893421,13.34163604585995],[76.47422112835984,13.33723764817396],[76.47648610848798,13.326825490067],[76.49289240492563,13.33287654463027],[76.48717600893421,13.34163604585995]]]},"properties":{"region_id":"village_612006","name":"MANAKIKERE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

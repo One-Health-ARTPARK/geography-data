@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13391254718961,12.78150141996701],[77.14989025946493,12.78678049416275],[77.14815649407551,12.7978279605455],[77.13391254718961,12.78150141996701]]]},"properties":{"region_id":"village_612739","name":"BYADARAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

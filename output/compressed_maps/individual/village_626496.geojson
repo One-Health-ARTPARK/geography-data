@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33772902447777,12.52803157248992],[77.32550258378858,12.5320647382191],[77.32513701616787,12.52707261574146],[77.33772902447777,12.52803157248992]]]},"properties":{"region_id":"village_626496","name":"SOMANATHAPURA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

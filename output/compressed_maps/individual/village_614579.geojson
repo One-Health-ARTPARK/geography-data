@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05836857637046,12.60361493082678],[77.05521440421302,12.61218583324379],[77.05341909403208,12.60785823462337],[77.05836857637046,12.60361493082678]]]},"properties":{"region_id":"village_614579","name":"SHIVAPURA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

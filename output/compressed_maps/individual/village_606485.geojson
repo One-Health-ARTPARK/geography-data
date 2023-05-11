@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36450782167715,14.55715871226051],[76.38641656831632,14.57431917122644],[76.35921992755291,14.58214543817404],[76.36450782167715,14.55715871226051]]]},"properties":{"region_id":"village_606485","name":"KASAVANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

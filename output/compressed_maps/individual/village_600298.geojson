@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1108015831159,17.76895790088374],[77.09945060527144,17.73893318671343],[77.13055187241972,17.73732852247565],[77.1475170099932,17.77600629886278],[77.1108015831159,17.76895790088374]]]},"properties":{"region_id":"village_600298","name":"HUMNABAD (RURAL)","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74629480891964,17.38280830423105],[76.7124738862347,17.38508083058959],[76.70314899081318,17.31539156485569],[76.75412464977825,17.32277211788914],[76.74629480891964,17.38280830423105]]]},"properties":{"region_id":"village_620284","name":"SAVALGI (B)","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

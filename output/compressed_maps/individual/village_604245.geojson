@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52412402310932,14.78136525224993],[75.51505723987168,14.80293716415508],[75.49473067875681,14.80282478206998],[75.50745313240142,14.78774197162878],[75.52412402310932,14.78136525224993]]]},"properties":{"region_id":"village_604245","name":"HANUMANAHALLI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

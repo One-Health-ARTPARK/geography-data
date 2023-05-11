@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86900050929081,13.14874466039351],[75.8680086938169,13.1549441007194],[75.8596643838293,13.15312458302783],[75.86376332278722,13.14445311973617],[75.86900050929081,13.14874466039351]]]},"properties":{"region_id":"village_615230","name":"UTPATANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

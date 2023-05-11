@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63793802647228,13.26022592908252],[77.63054856601079,13.26649854055447],[77.61770646665057,13.25504397971268],[77.63589312556836,13.24403266367622],[77.63793802647228,13.26022592908252]]]},"properties":{"region_id":"village_625276","name":"KUNDANA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

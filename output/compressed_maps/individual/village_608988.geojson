@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36480587316596,13.42195951170344],[75.34254879807737,13.42516607038486],[75.35323391308162,13.40589817891514],[75.36480587316596,13.42195951170344]]]},"properties":{"region_id":"village_608988","name":"HEDDASE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

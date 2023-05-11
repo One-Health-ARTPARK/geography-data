@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37539616052638,13.3119701416784],[75.36719178837137,13.34466684303804],[75.34925379629563,13.3265970078679],[75.35228367525714,13.31371309992723],[75.37539616052638,13.3119701416784]]]},"properties":{"region_id":"village_609036","name":"BETHADAKOLALU","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41371540607733,13.129417488334],[77.41950298594836,13.13957146547988],[77.41146166294247,13.14377007671261],[77.4041276457709,13.12958191094254],[77.41371540607733,13.129417488334]]]},"properties":{"region_id":"village_624868","name":"HYDALU","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

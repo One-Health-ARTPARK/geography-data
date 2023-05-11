@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06254450678581,14.6735741118635],[76.03778592293162,14.67179384808053],[76.05269019167314,14.65442126266533],[76.06346744027137,14.65751238196353],[76.06254450678581,14.6735741118635]]]},"properties":{"region_id":"village_606354","name":"THIMALAPURA","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

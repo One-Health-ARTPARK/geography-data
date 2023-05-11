@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60178799976472,12.98466499996251],[77.61276100044566,12.98263499975424],[77.61728100023075,12.98855999956991],[77.60975899977755,12.99266999984533],[77.60844500025776,12.98644800036544],[77.60178799976472,12.98466499996251]]]},"properties":{"region_id":"ward_bbmp91","name":"WARD NO.91 (BHARATHI NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87701044015839,14.34140225631823],[74.86389883478662,14.36126984555365],[74.8555298458719,14.32234140824764],[74.87166904229689,14.32608784742401],[74.87701044015839,14.34140225631823]]]},"properties":{"region_id":"village_603706","name":"TYARSHI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

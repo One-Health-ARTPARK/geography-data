@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34564634520564,14.68159993879556],[75.33586236078506,14.6986175638288],[75.32498819218432,14.67493973439332],[75.34564634520564,14.68159993879556]]]},"properties":{"region_id":"village_604287","name":"KASAMBI","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

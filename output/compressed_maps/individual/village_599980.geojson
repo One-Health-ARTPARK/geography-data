@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36670010867542,18.39222414973174],[77.35084143902073,18.3961874661031],[77.34227950231504,18.36160141370291],[77.37004981762989,18.36654399217577],[77.36670010867542,18.39222414973174]]]},"properties":{"region_id":"village_599980","name":"SAWARGAON","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24474791248801,13.85109643795097],[76.22420966076452,13.8648776056599],[76.22051743957547,13.84708792621593],[76.24474791248801,13.85109643795097]]]},"properties":{"region_id":"village_605834","name":"GUTHIKATTE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

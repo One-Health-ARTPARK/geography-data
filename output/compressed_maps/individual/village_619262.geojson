@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7066338337393,12.06856524708685],[76.67594253691094,12.06525764308155],[76.67154126902494,12.04180387430401],[76.70874993147416,12.04581180207774],[76.7066338337393,12.06856524708685]]]},"properties":{"region_id":"village_619262","name":"SINDHUVALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

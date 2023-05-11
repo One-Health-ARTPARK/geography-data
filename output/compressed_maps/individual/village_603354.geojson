@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.64511377463961,14.83540986495588],[74.63660189395243,14.80817055789237],[74.68068978031276,14.80954389375456],[74.69295793835332,14.83387475765259],[74.64511377463961,14.83540986495588]]]},"properties":{"region_id":"village_603354","name":"SHEVAKAR","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

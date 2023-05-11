@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95380727478008,16.1838652960685],[74.93785244778118,16.22976420397712],[74.92058579308791,16.22174389864647],[74.92421034041313,16.19918386284444],[74.93195219912428,16.18522146442273],[74.95380727478008,16.1838652960685]]]},"properties":{"region_id":"village_597528","name":"UDAGATTI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

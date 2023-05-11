@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27979303337001,14.12357241101709],[77.27673707304562,14.14346585468787],[77.25925810407749,14.14347880901198],[77.26633226799602,14.12425482467244],[77.27979303337001,14.12357241101709]]]},"properties":{"region_id":"village_610576","name":"VEERAMMANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

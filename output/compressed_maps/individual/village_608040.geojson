@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09426802995984,13.75107640966553],[75.06827585954758,13.73369629448814],[75.08427536501415,13.71885063563977],[75.10324988776192,13.72838780638138],[75.09426802995984,13.75107640966553]]]},"properties":{"region_id":"village_608040","name":"KOLAVADI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03118242808503,15.41174779112991],[75.05663069213081,15.4045964107682],[75.05134874065068,15.42302209748324],[75.03118242808503,15.41174779112991]]]},"properties":{"region_id":"village_938696","name":"SATTURA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88084343008852,16.42655510900674],[75.8501180123095,16.43004041843403],[75.8495600844815,16.41160468687536],[75.87490923514895,16.40946852925628],[75.88084343008852,16.42655510900674]]]},"properties":{"region_id":"village_599483","name":"GUDADINNI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

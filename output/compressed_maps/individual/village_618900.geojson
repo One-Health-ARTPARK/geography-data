@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3978023999712,12.06172774782865],[76.39168578679197,12.0739812340966],[76.38295306433365,12.06901460005676],[76.39601340663592,12.04572297044171],[76.40193695384721,12.05134144747817],[76.3978023999712,12.06172774782865]]]},"properties":{"region_id":"village_618900","name":"HEBBALAGUPPE","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

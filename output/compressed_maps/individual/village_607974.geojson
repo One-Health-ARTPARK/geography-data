@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08234472524715,13.85517522347113],[75.07336463847854,13.83842488093063],[75.10663686718529,13.81592706948013],[75.11454452722052,13.83620485935871],[75.08234472524715,13.85517522347113]]]},"properties":{"region_id":"village_607974","name":"THOGARE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

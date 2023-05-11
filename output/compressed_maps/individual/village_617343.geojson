@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36367296568122,12.99039789575907],[76.36155501517511,13.00193846272121],[76.34821972405321,13.00708042449061],[76.35197937165422,12.98779188092055],[76.36367296568122,12.99039789575907]]]},"properties":{"region_id":"village_617343","name":"BYADARAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

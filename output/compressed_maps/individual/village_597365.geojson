@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70600285082207,16.45805524914495],[74.67935002848785,16.47648472457613],[74.67276521436096,16.45641078258982],[74.70600285082207,16.45805524914495]]]},"properties":{"region_id":"village_597365","name":"KEMPATTI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

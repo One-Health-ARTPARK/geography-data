@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83353139940216,13.72760288780679],[77.82366877674679,13.73623301897082],[77.81642952787416,13.71515963288742],[77.83361444589627,13.71614289354351],[77.83353139940216,13.72760288780679]]]},"properties":{"region_id":"village_623879","name":"BUTTIVARIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

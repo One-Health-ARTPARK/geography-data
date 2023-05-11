@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52391978336512,15.18104765178987],[76.52917853599867,15.1376489599998],[76.56643674064333,15.16211908329255],[76.52391978336512,15.18104765178987]]]},"properties":{"region_id":"village_605012","name":"JOGA BADARANAHALLI","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

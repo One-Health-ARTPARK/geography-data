@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83354022516998,13.15894473282518],[75.82012339879132,13.14928108517232],[75.82587186020841,13.14354954390578],[75.83624848006868,13.14767585898681],[75.83354022516998,13.15894473282518]]]},"properties":{"region_id":"village_615129","name":"KONERLU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

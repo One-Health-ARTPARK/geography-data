@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69513801422417,17.66260120566612],[76.691272201182,17.68168548891918],[76.67313797198351,17.69106482246106],[76.65625242436316,17.66451563375752],[76.69513801422417,17.66260120566612]]]},"properties":{"region_id":"village_619964","name":"KOTANHIPPERGA","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

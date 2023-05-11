@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39625419555666,16.80569575256839],[76.41029997430007,16.79868269836162],[76.41383915631276,16.81349444833956],[76.3983000312085,16.81588887649491],[76.39625419555666,16.80569575256839]]]},"properties":{"region_id":"village_599384","name":"CHIKKA-ALLAPUR","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

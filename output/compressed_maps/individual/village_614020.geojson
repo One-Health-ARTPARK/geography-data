@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77579237303608,12.72691584914447],[76.74629543399355,12.74068782848724],[76.74250745385834,12.7335540452628],[76.76672396268258,12.72035474849677],[76.77579237303608,12.72691584914447]]]},"properties":{"region_id":"village_614020","name":"HETTAGONAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

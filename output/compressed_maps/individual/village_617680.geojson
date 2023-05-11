@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38244784378053,12.92479163894729],[75.34303629914568,12.89595847596522],[75.38295229797347,12.88464357697429],[75.38244784378053,12.92479163894729]]]},"properties":{"region_id":"village_617680","name":"PATRAME","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

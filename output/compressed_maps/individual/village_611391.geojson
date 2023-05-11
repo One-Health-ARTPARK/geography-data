@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13688360359718,13.29417992632004],[77.13264190329065,13.28525829585845],[77.14732976005416,13.27743363602758],[77.15042124733257,13.29205892082632],[77.13688360359718,13.29417992632004]]]},"properties":{"region_id":"village_611391","name":"KESARAMADU","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

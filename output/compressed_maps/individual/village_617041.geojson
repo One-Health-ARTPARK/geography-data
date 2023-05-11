@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30850683945395,12.91217188638],[76.2945865481491,12.91861561480762],[76.29459673407912,12.90454876986586],[76.30850683945395,12.91217188638]]]},"properties":{"region_id":"village_617041","name":"SANNENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

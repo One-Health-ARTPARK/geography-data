@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82989547051618,13.0176366440245],[76.81709669151003,13.01917131662228],[76.81993840103353,13.00491864290389],[76.83476779135526,13.00296260772086],[76.82989547051618,13.0176366440245]]]},"properties":{"region_id":"village_612433","name":"THARAMANAKOTE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

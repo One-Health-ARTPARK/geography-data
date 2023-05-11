@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61582973526677,14.4524709944129],[75.60364898799199,14.43497322857827],[75.63008733167267,14.43244190552505],[75.61582973526677,14.4524709944129]]]},"properties":{"region_id":"village_604576","name":"MALANAIKANAHALLI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

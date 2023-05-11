@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47455966526476,13.19642026970815],[75.45686761216618,13.20924283226858],[75.45432176439859,13.19283040548154],[75.47455966526476,13.19642026970815]]]},"properties":{"region_id":"village_609913","name":"MALIGANADU","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73050722672794,12.90192463277754],[76.72040138982877,12.90505526169233],[76.72452628076793,12.88803532384864],[76.73050722672794,12.90192463277754]]]},"properties":{"region_id":"village_613852","name":"AREHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

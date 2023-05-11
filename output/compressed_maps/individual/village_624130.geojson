@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91455301601613,13.51004656954706],[77.90224941003449,13.50824187165661],[77.89668250515649,13.49375509087622],[77.92079872880448,13.49450017520936],[77.91455301601613,13.51004656954706]]]},"properties":{"region_id":"village_624130","name":"MARIHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

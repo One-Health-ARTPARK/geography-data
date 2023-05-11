@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78429520270825,13.18695361423631],[76.77203875323221,13.18815884505096],[76.76950539179992,13.17660937076334],[76.78457939568378,13.17691584696613],[76.78429520270825,13.18695361423631]]]},"properties":{"region_id":"village_612304","name":"CHIKKAGORAGHATTA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48509406173751,17.00206933594947],[77.45515119830598,16.99320119303506],[77.45236612702233,16.9618302262431],[77.47468355250123,16.95962606874704],[77.48509406173751,17.00206933594947]]]},"properties":{"region_id":"village_620570","name":"MEDAK","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

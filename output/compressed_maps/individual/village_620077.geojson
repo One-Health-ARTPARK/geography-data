@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57468202103195,17.45138502095341],[76.53882806381931,17.44181423268783],[76.57223928554119,17.42047987205772],[76.57468202103195,17.45138502095341]]]},"properties":{"region_id":"village_620077","name":"DHANGAPUR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

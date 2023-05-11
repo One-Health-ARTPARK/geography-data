@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62534340626931,12.80852520841144],[76.61878881069742,12.82188833418674],[76.60367326072473,12.81010724171165],[76.62534340626931,12.80852520841144]]]},"properties":{"region_id":"village_613829","name":"KURIKOPPALU","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

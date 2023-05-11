@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73222400831105,15.08977776567822],[74.70149046671433,15.10522589964194],[74.6166596094356,15.06556748040117],[74.64347346219252,15.04200481175472],[74.73222400831105,15.08977776567822]]]},"properties":{"region_id":"village_602886","name":"LALGULI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

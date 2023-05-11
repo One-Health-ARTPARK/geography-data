@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49509221311891,12.87295627174958],[77.495833959428,12.88232126115066],[77.48768175299239,12.87895047647739],[77.49509221311891,12.87295627174958]]]},"properties":{"region_id":"village_938449","name":"VARAHASANDRA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

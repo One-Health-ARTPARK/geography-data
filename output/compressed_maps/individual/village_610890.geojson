@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25514994782262,13.76990118346224],[77.23811287083387,13.77525113659956],[77.23718205012148,13.75533627817355],[77.25514994782262,13.76990118346224]]]},"properties":{"region_id":"village_610890","name":"CHEELANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

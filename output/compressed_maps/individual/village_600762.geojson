@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55043937507321,16.29443555443753],[77.53359736994511,16.30239228511155],[77.52200036717088,16.27818828837588],[77.53512376784714,16.26780498811326],[77.55043937507321,16.29443555443753]]]},"properties":{"region_id":"village_600762","name":"GAJRAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

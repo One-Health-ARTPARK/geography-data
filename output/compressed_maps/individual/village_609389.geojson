@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01877281788515,13.70237782051883],[76.00979064116265,13.68532105457594],[76.01935874463575,13.68433709447435],[76.01877281788515,13.70237782051883]]]},"properties":{"region_id":"village_609389","name":"REVANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59043400012804,13.04302000002725],[77.58712000023766,13.06234500021972],[77.57216099953996,13.0597589995603],[77.57787500036669,13.04769400008625],[77.59043400012804,13.04302000002725]]]},"properties":{"region_id":"ward_bbmp8","name":"WARD NO.8 (KODIGEHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

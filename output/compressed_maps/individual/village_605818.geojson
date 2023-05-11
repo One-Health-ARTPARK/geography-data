@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40311978616751,13.95502878971854],[76.39942598158005,13.96985418023079],[76.36961900725022,13.96443395930951],[76.37352903316344,13.95540894372629],[76.40311978616751,13.95502878971854]]]},"properties":{"region_id":"village_605818","name":"SHANKARANAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

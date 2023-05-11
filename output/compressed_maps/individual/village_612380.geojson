@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77685777690289,13.11469126534519],[76.76118401795897,13.12209424714982],[76.74506632779055,13.10661430982697],[76.76506186852643,13.1004757276664],[76.77685777690289,13.11469126534519]]]},"properties":{"region_id":"village_612380","name":"BOMMENAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

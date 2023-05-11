@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35078975801294,13.1414498406574],[76.34685324706865,13.12355658462196],[76.35713225993548,13.11553088096283],[76.36703809183373,13.12863392454482],[76.35078975801294,13.1414498406574]]]},"properties":{"region_id":"village_615818","name":"BAGIVALU","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

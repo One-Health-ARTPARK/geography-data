@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71926644256543,15.84105798583788],[75.70808521105411,15.85007538950759],[75.69968692039994,15.82930949657615],[75.71502128164691,15.82737020544485],[75.71926644256543,15.84105798583788]]]},"properties":{"region_id":"village_598764","name":"MANNERI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

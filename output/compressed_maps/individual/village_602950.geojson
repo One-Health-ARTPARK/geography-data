@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87791887505865,15.07462510717952],[74.85892038765971,15.05353226523592],[74.89082040592638,15.04546879173829],[74.87791887505865,15.07462510717952]]]},"properties":{"region_id":"village_602950","name":"HOSALLI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

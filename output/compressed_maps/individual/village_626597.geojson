@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57580975183593,12.45024643844835],[77.57220675492046,12.46171205573342],[77.536704621362,12.4548277937301],[77.54543063966989,12.44007970165805],[77.57580975183593,12.45024643844835]]]},"properties":{"region_id":"village_626597","name":"BIJJAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

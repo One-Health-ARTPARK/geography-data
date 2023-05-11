@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47493451275736,13.26459899426048],[77.46389957627272,13.26299947480825],[77.46110069403639,13.2538140737907],[77.47335023340746,13.25180167889621],[77.47493451275736,13.26459899426048]]]},"properties":{"region_id":"village_625028","name":"KALLUDEVANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

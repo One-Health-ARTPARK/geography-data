@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.47480688445712,16.57435658079965],[74.47092818833302,16.60502805812508],[74.43517170398214,16.60092125705561],[74.42185123510008,16.58390101603654],[74.44291875247109,16.56065591485651],[74.47480688445712,16.57435658079965]]]},"properties":{"region_id":"village_597155","name":"KARADAGA","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

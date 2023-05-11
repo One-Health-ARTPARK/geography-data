@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30587096027716,12.71214187566508],[77.29225514792655,12.713031813326],[77.2883664554477,12.70400686469728],[77.30032091418796,12.69672533279283],[77.30587096027716,12.71214187566508]]]},"properties":{"region_id":"village_626151","name":"SIDDALAKALLU","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

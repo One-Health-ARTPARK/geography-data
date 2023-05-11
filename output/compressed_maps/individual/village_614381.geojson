@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92259670851976,12.62393207450277],[76.90801818927743,12.61223734781642],[76.93025733243813,12.61261456981871],[76.92259670851976,12.62393207450277]]]},"properties":{"region_id":"village_614381","name":"CHIKKABANASAVADI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

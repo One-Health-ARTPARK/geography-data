@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66599043729356,15.91753149804979],[76.64051210336345,15.92322613055219],[76.63707148378985,15.90936048204792],[76.66441525139255,15.90358145634017],[76.66599043729356,15.91753149804979]]]},"properties":{"region_id":"village_601104","name":"PARAPURA","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

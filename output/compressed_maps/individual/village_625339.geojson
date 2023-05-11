@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81128418903478,13.31668907757445],[77.8124499259983,13.32317626929258],[77.80161589910821,13.32927289984488],[77.79778834854658,13.31876624508986],[77.81128418903478,13.31668907757445]]]},"properties":{"region_id":"village_625339","name":"KOMMASANDRA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

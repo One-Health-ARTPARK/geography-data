@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04199166710954,14.51552757092928],[75.00801084900512,14.52509986592744],[75.01729752084931,14.49727819529986],[75.04077667267819,14.50011802578165],[75.04199166710954,14.51552757092928]]]},"properties":{"region_id":"village_603323","name":"NAROOR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

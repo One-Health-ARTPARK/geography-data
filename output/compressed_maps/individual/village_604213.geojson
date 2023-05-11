@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33533598710554,14.70612223941484],[75.35714175503573,14.70778561348095],[75.34704961324988,14.72213384630829],[75.33533598710554,14.70612223941484]]]},"properties":{"region_id":"village_604213","name":"BENAKANAHALLI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

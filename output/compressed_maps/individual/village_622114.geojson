@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95446539746888,13.07492313311709],[77.94277945193802,13.08914603464163],[77.94159701572809,13.06911509608591],[77.95446539746888,13.07492313311709]]]},"properties":{"region_id":"village_622114","name":"JODIPURA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

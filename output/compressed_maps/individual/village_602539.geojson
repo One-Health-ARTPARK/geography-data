@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20513750353106,15.13704910200378],[75.19989342268273,15.15498796120311],[75.18516822308922,15.15074265918677],[75.19538320593517,15.12726335232242],[75.20513750353106,15.13704910200378]]]},"properties":{"region_id":"village_602539","name":"GURUNAHALLI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08948616634943,12.27021355123532],[77.08615294318544,12.27012409794984],[77.07949029230153,12.25149691800745],[77.08295152519811,12.24625215623458],[77.09113820946024,12.25185621176538],[77.08948616634943,12.27021355123532]]]},"properties":{"region_id":"village_614810","name":"HOKKARAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

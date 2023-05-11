@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90256342974969,14.25723372047323],[75.8706680254625,14.2677196721698],[75.8587681886347,14.23011371933712],[75.89602283879914,14.22812848256843],[75.90256342974969,14.25723372047323]]]},"properties":{"region_id":"village_606926","name":"THYAVANIGE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

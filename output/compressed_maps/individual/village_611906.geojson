@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82506113873139,13.19030699609662],[76.81852367571022,13.2002908445695],[76.79971913570395,13.19679326255976],[76.80108864667542,13.18949666872487],[76.82506113873139,13.19030699609662]]]},"properties":{"region_id":"village_611906","name":"VARAHASANDRA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

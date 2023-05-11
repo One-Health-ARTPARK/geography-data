@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33851468857247,13.32883548586271],[77.3298320884025,13.33019997970728],[77.31803898278774,13.31522904207967],[77.34264217614731,13.31601069971089],[77.33851468857247,13.32883548586271]]]},"properties":{"region_id":"village_624717","name":"BARAGOOR","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

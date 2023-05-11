@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01863117100204,13.51042010302513],[77.00800848617604,13.52161131313883],[76.99440626852449,13.51056282416014],[77.00985823380583,13.50085146952291],[77.01863117100204,13.51042010302513]]]},"properties":{"region_id":"village_611244","name":"NELAHAL","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

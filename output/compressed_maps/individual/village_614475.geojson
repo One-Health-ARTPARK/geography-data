@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88687229063146,12.50607195018407],[76.88015466994787,12.5152555234615],[76.86841007438174,12.50129710948836],[76.87972461841073,12.49898530079497],[76.88687229063146,12.50607195018407]]]},"properties":{"region_id":"village_614475","name":"KYATHUMGERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

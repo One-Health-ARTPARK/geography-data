@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92433463029907,16.75193724008147],[74.90861766638542,16.75351752747815],[74.90573535314395,16.7423974805817],[74.92353028820611,16.74392388146711],[74.92433463029907,16.75193724008147]]]},"properties":{"region_id":"village_597290","name":"NAVALIHAL","parent":"subdistrict_7100","parent_name":"KAGWAD"}}
+]}

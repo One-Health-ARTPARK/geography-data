@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35197126158623,14.13119512176237],[77.31338510158704,14.13142042299839],[77.31812442346404,14.10105033037348],[77.34982474959126,14.10308983260346],[77.35197126158623,14.13119512176237]]]},"properties":{"region_id":"village_610637","name":"KADAMALAKUNTE","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

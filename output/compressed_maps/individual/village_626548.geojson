@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39076402197894,12.42856783325521],[77.39255894201737,12.44216042548518],[77.3794627119782,12.45321549779276],[77.37333479789406,12.43374124083789],[77.39076402197894,12.42856783325521]]]},"properties":{"region_id":"village_626548","name":"PURADADODDI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

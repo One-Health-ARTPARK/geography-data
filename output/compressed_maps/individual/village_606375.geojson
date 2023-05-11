@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.180147884753,14.64248904034404],[76.18106749955197,14.65805762299631],[76.16594748865212,14.66668244480063],[76.1633909404586,14.64793829240314],[76.180147884753,14.64248904034404]]]},"properties":{"region_id":"village_606375","name":"JADANAKATTE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

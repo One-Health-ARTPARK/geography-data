@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73582877356368,15.80695314718596],[76.72103742407928,15.78619872969445],[76.75264302012643,15.77758538315218],[76.73582877356368,15.80695314718596]]]},"properties":{"region_id":"village_601132","name":"MALLAPUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

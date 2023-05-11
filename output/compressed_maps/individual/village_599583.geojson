@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09471438377535,16.45566896863686],[76.04366643178963,16.43367335157259],[76.04980178546982,16.41185073744322],[76.09000902972289,16.41862001288755],[76.09471438377535,16.45566896863686]]]},"properties":{"region_id":"village_599583","name":"RUDAGI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

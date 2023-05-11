@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35532744673908,12.67128375938079],[77.34132595390248,12.68225578941673],[77.32517430443251,12.67673256209053],[77.34310132306123,12.66193509244764],[77.35532744673908,12.67128375938079]]]},"properties":{"region_id":"village_626159","name":"NAGOHALLI","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

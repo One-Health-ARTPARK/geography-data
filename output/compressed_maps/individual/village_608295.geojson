@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24469125503126,13.60544509249602],[75.23325893632958,13.62334338045764],[75.21974685861186,13.60640671884548],[75.2317140511296,13.60001087095159],[75.24469125503126,13.60544509249602]]]},"properties":{"region_id":"village_608295","name":"THIRTHAMUTHUR","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

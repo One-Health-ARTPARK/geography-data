@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77592598068613,12.49482495562575],[76.75651743153021,12.4885219371508],[76.76535653093384,12.47538598514416],[76.777385017985,12.48058255330766],[76.77592598068613,12.49482495562575]]]},"properties":{"region_id":"village_614226","name":"SIDDAPURA","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

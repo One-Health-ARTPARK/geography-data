@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67027335695055,12.98279038992765],[77.65134043861735,12.97870236485157],[77.66383914293682,12.97034215253166],[77.67027335695055,12.98279038992765]]]},"properties":{"region_id":"village_938260","name":"BAIRASANDRA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

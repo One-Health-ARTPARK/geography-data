@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00612841028857,12.05488847987892],[77.00312781939336,12.03894947822653],[77.00784101743847,12.03975676267207],[77.01147985690184,12.05207959767361],[77.00612841028857,12.05488847987892]]]},"properties":{"region_id":"village_619801","name":"DUGGAHATTI","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37059100255203,14.54515727803737],[76.38927203311614,14.55950342599862],[76.38641656831632,14.57431917122644],[76.3709779786261,14.55795658323487],[76.37059100255203,14.54515727803737]]]},"properties":{"region_id":"village_606490","name":"GOGUDDU","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

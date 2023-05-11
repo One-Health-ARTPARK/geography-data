@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24788398462658,14.45356344441395],[75.23785945589447,14.4612027383885],[75.21647407461573,14.44972039104279],[75.21808085010038,14.4401745900703],[75.24291839690662,14.44117787361827],[75.24788398462658,14.45356344441395]]]},"properties":{"region_id":"village_607702","name":"KAWLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

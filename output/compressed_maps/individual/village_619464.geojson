@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69353678371607,11.92208364095167],[76.67837484341013,11.92047630599698],[76.67664833823055,11.90767779011227],[76.69649985440067,11.90722867479583],[76.69353678371607,11.92208364095167]]]},"properties":{"region_id":"village_619464","name":"PARVATHANAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

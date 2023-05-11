@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56902235264215,16.3169805424478],[75.54439217226033,16.33068461612422],[75.52889016185324,16.28638638281182],[75.55130077042863,16.28704654636876],[75.56902235264215,16.3169805424478]]]},"properties":{"region_id":"village_598517","name":"JANAMATTI","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

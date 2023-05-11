@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04543530858173,12.40278731329364],[76.03255927497223,12.39288492033959],[76.04236770709728,12.38565989118444],[76.05185844314074,12.3904506938613],[76.04543530858173,12.40278731329364]]]},"properties":{"region_id":"village_618139","name":"POONADAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

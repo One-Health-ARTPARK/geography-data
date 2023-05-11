@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23519557219437,15.97180031868497],[77.24486716620581,15.99244122620203],[77.22590886737342,16.01068823709356],[77.22310497836573,15.98896956700361],[77.23519557219437,15.97180031868497]]]},"properties":{"region_id":"village_601002","name":"WALKAM DINNI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

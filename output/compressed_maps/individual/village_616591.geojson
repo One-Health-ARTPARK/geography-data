@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09194015314452,12.74492805213405],[76.08126121677958,12.75128143701328],[76.07241533195818,12.74901663905901],[76.07332872463942,12.7387378848446],[76.09194015314452,12.74492805213405]]]},"properties":{"region_id":"village_616591","name":"MUTHIGE","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

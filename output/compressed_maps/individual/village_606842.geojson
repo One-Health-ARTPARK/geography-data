@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67104671353911,14.09896708288134],[75.65736240052937,14.10705891715295],[75.65557903916441,14.09116623006991],[75.67104671353911,14.09896708288134]]]},"properties":{"region_id":"village_606842","name":"KENGATTE","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

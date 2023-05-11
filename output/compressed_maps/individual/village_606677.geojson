@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09180097424185,14.29687847071099],[76.05741944043348,14.28912735399797],[76.06472888470176,14.27499467973799],[76.08478191060888,14.27356071474974],[76.09180097424185,14.29687847071099]]]},"properties":{"region_id":"village_606677","name":"MAYAKONDA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

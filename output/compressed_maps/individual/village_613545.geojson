@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45309141741114,12.68737842825053],[76.43972455819376,12.6884790463313],[76.44242010960832,12.67415232634734],[76.45309141741114,12.68737842825053]]]},"properties":{"region_id":"village_613545","name":"KUNDANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

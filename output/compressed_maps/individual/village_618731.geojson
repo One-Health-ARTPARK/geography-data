@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70988607713416,12.28495490053179],[76.71720850829233,12.28581629446845],[76.7169925682479,12.30977430932317],[76.71054800413525,12.30934621812269],[76.70988607713416,12.28495490053179]]]},"properties":{"region_id":"village_618731","name":"NADANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

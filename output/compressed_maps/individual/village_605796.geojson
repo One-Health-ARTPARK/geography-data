@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40618688365984,14.07742408800306],[76.37617484169758,14.06874647902966],[76.38048262201188,14.02355327940701],[76.41741455343012,14.0511579630024],[76.40618688365984,14.07742408800306]]]},"properties":{"region_id":"village_605796","name":"TEKALAVATTI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

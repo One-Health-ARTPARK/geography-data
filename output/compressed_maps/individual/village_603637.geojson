@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69899860174883,14.33641800877448],[74.70332624142064,14.30282539675942],[74.73721754253759,14.32711230490334],[74.69899860174883,14.33641800877448]]]},"properties":{"region_id":"village_603637","name":"DANMAV","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

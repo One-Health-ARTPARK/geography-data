@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68496335658543,12.68541548599521],[77.66999566597737,12.68581636902352],[77.67603530216812,12.67938296105638],[77.683394442773,12.67942526784917],[77.68496335658543,12.68541548599521]]]},"properties":{"region_id":"village_613330","name":"BIDARAKADAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

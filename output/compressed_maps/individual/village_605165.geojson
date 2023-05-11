@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77014661472269,14.8940219439324],[76.75860677050629,14.86924175420022],[76.77208399422246,14.87351270615494],[76.77014661472269,14.8940219439324]]]},"properties":{"region_id":"village_605165","name":"BASAPURA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

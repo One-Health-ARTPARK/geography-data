@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97753339081896,12.46839630966356],[75.96865055516656,12.45479973901911],[75.98406162438934,12.45030058365324],[75.97753339081896,12.46839630966356]]]},"properties":{"region_id":"village_618123","name":"AVARTHI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

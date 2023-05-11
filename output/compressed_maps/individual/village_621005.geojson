@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70925258655647,16.45771722516205],[76.70975546207984,16.48651713699215],[76.6856786805103,16.48670691116933],[76.69481929137403,16.46160428771557],[76.70925258655647,16.45771722516205]]]},"properties":{"region_id":"village_621005","name":"ALDHAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

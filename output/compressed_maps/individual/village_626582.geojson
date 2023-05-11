@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51884631957459,12.46381020952978],[77.4978513909521,12.47056576945162],[77.47987290792284,12.46158513152856],[77.50447224313503,12.45562773630351],[77.51884631957459,12.46381020952978]]]},"properties":{"region_id":"village_626582","name":"ARAKERE","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

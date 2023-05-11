@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92289627273979,12.81018654759048],[76.92706190665993,12.80340330706752],[76.93752304005999,12.80972508097768],[76.9327392116909,12.81413714936781],[76.92289627273979,12.81018654759048]]]},"properties":{"region_id":"village_612689","name":"ARJUNAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

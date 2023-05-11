@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1591465172985,14.13486500250815],[75.15521012290876,14.15869138434618],[75.1350073781919,14.14440713055025],[75.1591465172985,14.13486500250815]]]},"properties":{"region_id":"village_607232","name":"KELAGINAMANE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

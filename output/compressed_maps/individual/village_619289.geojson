@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71535032092547,12.04712702833397],[76.70649634792228,12.02740179203727],[76.72437525241502,12.02721734800592],[76.71535032092547,12.04712702833397]]]},"properties":{"region_id":"village_619289","name":"KUMBARAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

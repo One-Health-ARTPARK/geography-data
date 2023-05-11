@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08560617294977,17.05610985771052],[77.0637247797145,17.05990885360724],[77.05965807352457,17.03479064001445],[77.07705635200186,17.02605644175019],[77.08560617294977,17.05610985771052]]]},"properties":{"region_id":"village_620675","name":"BAMMANHALLI","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

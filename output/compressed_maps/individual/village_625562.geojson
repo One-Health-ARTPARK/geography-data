@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93775043514698,13.18877539793966],[77.92203755629272,13.19397340401226],[77.91759178202051,13.18656860130816],[77.93496948097645,13.17957802682077],[77.93775043514698,13.18877539793966]]]},"properties":{"region_id":"village_625562","name":"N.HOSAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

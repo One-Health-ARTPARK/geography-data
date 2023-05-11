@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63716083556344,12.95292926189328],[76.63067622885298,12.93919296968735],[76.63845487294324,12.93877810093653],[76.64145097719705,12.94590355742058],[76.63716083556344,12.95292926189328]]]},"properties":{"region_id":"village_613770","name":"CHIKKONAHALLIPURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

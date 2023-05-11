@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.1348927363837,13.0434120655491],[78.12774584143958,13.04408086323797],[78.1226464455093,13.03300008474444],[78.131432098989,13.03075160748582],[78.1348927363837,13.0434120655491]]]},"properties":{"region_id":"village_622479","name":"MADAMANGALA","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

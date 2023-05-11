@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61403269142124,12.8476221605826],[76.60589326061749,12.85239117703785],[76.6032547607035,12.84385527311863],[76.61410742576433,12.84257391104183],[76.61403269142124,12.8476221605826]]]},"properties":{"region_id":"village_613816","name":"HOSAKOTE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78811076951482,16.3507411550424],[74.7771028229106,16.36346504259507],[74.76927286382039,16.33084413458961],[74.78945420718995,16.33585875561186],[74.78811076951482,16.3507411550424]]]},"properties":{"region_id":"village_597378","name":"JODAHATTI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

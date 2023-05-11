@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06083668405668,15.33241828984188],[75.03016135898898,15.31889887627094],[75.04575522790094,15.30187650983169],[75.06656844013226,15.30814232712497],[75.06083668405668,15.33241828984188]]]},"properties":{"region_id":"village_602402","name":"DEVARGUDIHAL","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

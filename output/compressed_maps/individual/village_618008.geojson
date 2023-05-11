@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80927949535715,12.2186493012667],[75.79824186962196,12.22573824644409],[75.78668889479131,12.2139002164106],[75.79206831210541,12.19447824371182],[75.81077668356711,12.21236088953992],[75.80927949535715,12.2186493012667]]]},"properties":{"region_id":"village_618008","name":"KUKLUR","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

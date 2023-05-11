@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80822939229796,12.51602635163879],[75.81013346860178,12.49093441953992],[75.81910495933275,12.49229377212879],[75.81566866320222,12.50969501340642],[75.80822939229796,12.51602635163879]]]},"properties":{"region_id":"village_924002","name":"JAMBOOR","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

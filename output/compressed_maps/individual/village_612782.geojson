@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41697897592466,13.06879297389454],[77.3972618325501,13.07162483713205],[77.39879578144092,13.05694094837563],[77.41455726751691,13.05688593012965],[77.41697897592466,13.06879297389454]]]},"properties":{"region_id":"village_612782","name":"HULLEGOWDANAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

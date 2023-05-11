@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68678646198038,16.82349573854211],[76.72906349555842,16.81138145402641],[76.73180841255932,16.83119616224964],[76.70334389390743,16.83636435841021],[76.68678646198038,16.82349573854211]]]},"properties":{"region_id":"village_620827","name":"MARADGI S.MADARKI","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

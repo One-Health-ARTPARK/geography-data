@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28518567116815,13.31112878259064],[77.27303891334712,13.319952222691],[77.26948058159367,13.30613967866838],[77.280740686668,13.30197614504386],[77.28518567116815,13.31112878259064]]]},"properties":{"region_id":"village_611421","name":"KALENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

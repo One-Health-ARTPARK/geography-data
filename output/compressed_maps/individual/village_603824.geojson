@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52824961394857,14.00446648356863],[74.52591487093744,14.02357270768718],[74.50266850185363,14.02044062942526],[74.51264619497185,13.99809590065829],[74.52824961394857,14.00446648356863]]]},"properties":{"region_id":"village_603824","name":"HEBLE","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

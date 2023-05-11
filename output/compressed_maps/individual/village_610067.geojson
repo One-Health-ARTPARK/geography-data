@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7029263972812,13.4371069340898],[76.67571031817928,13.4245589154804],[76.69837296709888,13.40451029834319],[76.7029263972812,13.4371069340898]]]},"properties":{"region_id":"village_610067","name":"YARAKATTE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

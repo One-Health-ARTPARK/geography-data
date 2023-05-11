@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89894745760364,13.77402491493723],[75.88909617079099,13.77593321853954],[75.8833954557591,13.75960326883022],[75.89904770128439,13.76005487495339],[75.89894745760364,13.77402491493723]]]},"properties":{"region_id":"village_609178","name":"VITTALAPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

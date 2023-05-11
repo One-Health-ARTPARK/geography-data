@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30443417008593,15.44239389552235],[76.30256748382888,15.48116370248172],[76.28108818752445,15.48160407431639],[76.27688995391513,15.4559026166135],[76.30443417008593,15.44239389552235]]]},"properties":{"region_id":"village_601805","name":"WANBALLARY","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

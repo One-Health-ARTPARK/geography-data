@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4781980961105,12.55236537783195],[77.48081858741809,12.56645728621748],[77.45596585729375,12.56283755512034],[77.45720654079697,12.55678343773025],[77.4781980961105,12.55236537783195]]]},"properties":{"region_id":"village_626394","name":"MAVATHOOR","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

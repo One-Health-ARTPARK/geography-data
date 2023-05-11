@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14765558935247,13.74719887308855],[76.14358325251769,13.76102731821787],[76.11291946508847,13.76026571076103],[76.12721108944628,13.73594268004867],[76.14765558935247,13.74719887308855]]]},"properties":{"region_id":"village_609355","name":"HULLEHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62087799991006,13.00966999973365],[77.62330300022595,13.02140999974687],[77.61949899969964,13.0219799999837],[77.61530799969682,13.01071799981782],[77.62087799991006,13.00966999973365]]]},"properties":{"region_id":"ward_bbmp30","name":"WARD NO. 30 (KADUGONDANAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

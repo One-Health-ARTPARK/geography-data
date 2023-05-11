@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96136182652053,13.67067857618502],[75.93897233737657,13.669607622312],[75.94138991766633,13.64702224850621],[75.95876426811108,13.6512919017752],[75.96136182652053,13.67067857618502]]]},"properties":{"region_id":"village_609225","name":"KUDLUR","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89773544538465,15.44698501905239],[75.85830896943786,15.44366778843286],[75.86541525829587,15.40800289515873],[75.88943409383194,15.40741356826079],[75.89773544538465,15.44698501905239]]]},"properties":{"region_id":"village_601366","name":"SOMPUR","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

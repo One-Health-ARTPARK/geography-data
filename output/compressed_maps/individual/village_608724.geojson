@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87921474058042,13.61870345883343],[74.86543904405264,13.58415384320091],[74.90275841788873,13.57358197111738],[74.9003099365061,13.60562247734397],[74.87921474058042,13.61870345883343]]]},"properties":{"region_id":"village_608724","name":"KULANJE","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

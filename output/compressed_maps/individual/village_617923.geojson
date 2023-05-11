@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82027258974114,12.68419954025145],[75.8075075206507,12.70127837882701],[75.78574333549179,12.68337048374767],[75.80548570957978,12.66049954500843],[75.82027258974114,12.68419954025145]]]},"properties":{"region_id":"village_617923","name":"KOOTHI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

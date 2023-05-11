@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40646989377211,17.58345458815566],[77.37860625266674,17.58349233942617],[77.37725522889681,17.55327993581097],[77.40064199896642,17.55906151299968],[77.40646989377211,17.58345458815566]]]},"properties":{"region_id":"village_620332","name":"TUMKUNTA","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

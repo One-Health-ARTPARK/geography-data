@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45293893265882,17.69483514270599],[77.44342404769782,17.70683781021432],[77.43138294160869,17.68873651330868],[77.45457990125131,17.68383486050444],[77.45293893265882,17.69483514270599]]]},"properties":{"region_id":"village_600253","name":"BHANGOOR","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

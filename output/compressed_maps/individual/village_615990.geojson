@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27554449896233,13.06604261388996],[76.25383652621441,13.06107176813738],[76.25276296182103,13.04665864035024],[76.274253499474,13.04564638886432],[76.27554449896233,13.06604261388996]]]},"properties":{"region_id":"village_615990","name":"HERAGU","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

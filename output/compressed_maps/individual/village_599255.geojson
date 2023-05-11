@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92228269516441,17.21111108626779],[75.89011164356276,17.21120471857559],[75.89404423490576,17.16041582847894],[75.91695488917162,17.16146838752376],[75.92228269516441,17.21111108626779]]]},"properties":{"region_id":"village_599255","name":"CHICKBEVANUR","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

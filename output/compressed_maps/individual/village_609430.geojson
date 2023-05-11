@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05255952174622,13.64260712983523],[76.04368120008142,13.63104018206885],[76.04450488733107,13.61708977859256],[76.05295338340377,13.61780408213508],[76.05255952174622,13.64260712983523]]]},"properties":{"region_id":"village_609430","name":"MARULANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

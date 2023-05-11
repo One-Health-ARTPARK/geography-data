@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64194002913231,12.92784735881351],[77.62618668794684,12.93398494404743],[77.62889146958429,12.92408835818908],[77.63684661276268,12.91867830799918],[77.64194002913231,12.92784735881351]]]},"properties":{"region_id":"village_938408","name":"JAKKASANDRA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

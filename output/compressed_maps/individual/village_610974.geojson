@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31337500533633,13.66141591358949],[77.27604660446053,13.65955778236163],[77.26951520528446,13.64806796340734],[77.31839595643069,13.64254080827831],[77.31337500533633,13.66141591358949]]]},"properties":{"region_id":"village_610974","name":"BYALYA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

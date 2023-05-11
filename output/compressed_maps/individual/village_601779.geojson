@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16834935587565,15.28972648630576],[76.13234505828078,15.2907982778565],[76.11516753585319,15.27371318987839],[76.16948860251036,15.27338778597283],[76.16834935587565,15.28972648630576]]]},"properties":{"region_id":"village_601779","name":"MUDDABALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

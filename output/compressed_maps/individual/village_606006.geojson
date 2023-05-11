@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36197526211313,13.74207529067455],[76.3641117482572,13.72971691800254],[76.38167041473932,13.72556026849041],[76.37653471625595,13.74165029388134],[76.36197526211313,13.74207529067455]]]},"properties":{"region_id":"village_606006","name":"GANJIGERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

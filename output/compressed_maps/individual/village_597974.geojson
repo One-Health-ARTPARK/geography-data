@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5637451438633,15.43316553715575],[74.54848991772843,15.43876637159012],[74.54739487765134,15.41480282349864],[74.56406684021715,15.41011433840378],[74.5637451438633,15.43316553715575]]]},"properties":{"region_id":"village_597974","name":"SUWATAWADI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

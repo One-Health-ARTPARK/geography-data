@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00963475250902,12.31387410109638],[76.01451810434247,12.2656799679515],[76.05144975718012,12.24734821182436],[76.08650256787998,12.26830345470621],[76.02971094180029,12.29174752967147],[76.00963475250902,12.31387410109638]]]},"properties":{"region_id":"village_618279","name":"ANECHOWKUR FOREST","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

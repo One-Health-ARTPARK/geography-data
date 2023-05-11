@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56119219239882,15.77629719618215],[75.5292740946547,15.74798885491939],[75.56095169654333,15.73607074483604],[75.56119219239882,15.77629719618215]]]},"properties":{"region_id":"village_601915","name":"MALAWAD","parent":"subdistrict_5469","parent_name":"RON"}}
+]}

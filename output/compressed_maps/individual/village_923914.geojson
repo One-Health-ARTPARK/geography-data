@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77010352149966,12.49138580174762],[75.74875006289996,12.49596358366518],[75.7500684578568,12.47418944692951],[75.77010352149966,12.49138580174762]]]},"properties":{"region_id":"village_923914","name":"MEGATHALU","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

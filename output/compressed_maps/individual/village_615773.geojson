@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25500007057133,13.18025130337402],[76.26669568066859,13.19071640750959],[76.25430803772092,13.20373652671859],[76.24589233477231,13.19180382876758],[76.25500007057133,13.18025130337402]]]},"properties":{"region_id":"village_615773","name":"CHEELANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

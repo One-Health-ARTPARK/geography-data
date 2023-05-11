@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81317156832935,16.47928618517398],[76.78472826648404,16.48798692422501],[76.78391609658262,16.45387611482467],[76.80840992795777,16.45804201647039],[76.81317156832935,16.47928618517398]]]},"properties":{"region_id":"village_621062","name":"CHANDLAPUR","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

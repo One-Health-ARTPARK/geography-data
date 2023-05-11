@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67037883939517,13.01509345358035],[76.65989818539857,13.0224342059699],[76.6531492199682,13.00770167709469],[76.66768475154413,12.99967986054796],[76.67037883939517,13.01509345358035]]]},"properties":{"region_id":"village_613680","name":"MANIYUR","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

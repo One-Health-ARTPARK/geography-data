@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68638017363683,12.3382578564287],[76.6671942118461,12.34696089325421],[76.66432421097633,12.3356117040427],[76.67151244379923,12.32851996997926],[76.68638017363683,12.3382578564287]]]},"properties":{"region_id":"village_939289","name":"DEVANURU","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

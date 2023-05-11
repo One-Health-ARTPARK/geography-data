@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78827066466458,13.40403854748925],[75.75664817334079,13.41099935990419],[75.77347578558405,13.37636611359991],[75.78827066466458,13.40403854748925]]]},"properties":{"region_id":"village_609723","name":"ARASINAGUPPE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

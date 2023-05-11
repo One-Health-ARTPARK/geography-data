@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64311017696015,13.44270892738535],[77.62834902675671,13.44440290125391],[77.63353092171165,13.42601643656808],[77.64305764740531,13.42716829430387],[77.64311017696015,13.44270892738535]]]},"properties":{"region_id":"village_623605","name":"NALLAKADIRENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

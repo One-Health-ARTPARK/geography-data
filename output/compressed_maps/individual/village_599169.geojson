@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71728949660063,17.38853203423062],[75.6975386978691,17.36812875346757],[75.73794584990767,17.34841102765516],[75.73789642473862,17.37050613804265],[75.71728949660063,17.38853203423062]]]},"properties":{"region_id":"village_599169","name":"HATTA HALLI","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

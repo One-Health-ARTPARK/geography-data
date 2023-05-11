@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78043450127976,15.89711785416147],[75.77126167401498,15.9416576889414],[75.75645098770116,15.93747020413957],[75.75835474478211,15.91140555673158],[75.78043450127976,15.89711785416147]]]},"properties":{"region_id":"village_598745","name":"MANGALUR","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

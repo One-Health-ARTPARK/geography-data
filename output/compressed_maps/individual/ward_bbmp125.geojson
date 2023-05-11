@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52820499989309,12.9718330003772],[77.5362589997566,12.96744000008403],[77.5378940000058,12.97201199975101],[77.53279200045793,12.97591000036381],[77.52820499989309,12.9718330003772]]]},"properties":{"region_id":"ward_bbmp125","name":"WARD NO.125 (MARENAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

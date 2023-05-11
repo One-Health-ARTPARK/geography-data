@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73645197967606,14.43232540877395],[75.7310487203872,14.417048245713],[75.75217103617952,14.41257519308532],[75.75272281822085,14.42332087836159],[75.73645197967606,14.43232540877395]]]},"properties":{"region_id":"village_606257","name":"LAKKASETTIHALLI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

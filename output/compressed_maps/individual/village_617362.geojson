@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63135858032254,12.98247942446572],[76.63196388720769,13.00396500040591],[76.61854212648527,13.00855233319924],[76.61217195785775,12.98215544984695],[76.63135858032254,12.98247942446572]]]},"properties":{"region_id":"village_617362","name":"BALAGANCHI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

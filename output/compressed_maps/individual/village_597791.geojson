@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68159391476942,15.74601516474251],[74.66940753204668,15.75691686340915],[74.64824374019786,15.75181614945949],[74.6516101045268,15.73672286363278],[74.68159391476942,15.74601516474251]]]},"properties":{"region_id":"village_597791","name":"MUTNAL","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

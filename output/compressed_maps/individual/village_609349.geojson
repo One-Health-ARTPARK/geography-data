@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78847721914009,13.54700692300766],[75.77193767742797,13.51694087461837],[75.81348148707782,13.50532018235203],[75.81466392132575,13.52738209247391],[75.79370851644607,13.52856830866013],[75.78847721914009,13.54700692300766]]]},"properties":{"region_id":"village_609349","name":"KAMANADURGA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

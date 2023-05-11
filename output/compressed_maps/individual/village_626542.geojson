@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33977000929882,12.42340390465697],[77.31802061635388,12.42083375418489],[77.32768844577177,12.40204538075044],[77.34513482135192,12.40773746728055],[77.33977000929882,12.42340390465697]]]},"properties":{"region_id":"village_626542","name":"DUNTHURU","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

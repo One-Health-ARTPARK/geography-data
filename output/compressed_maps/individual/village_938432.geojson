@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62048637621258,12.89283615591295],[77.61186744026254,12.89376017038854],[77.61003587696817,12.88452971785156],[77.61755380179702,12.88184726653115],[77.62048637621258,12.89283615591295]]]},"properties":{"region_id":"village_938432","name":"DEVARACHIKKANAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

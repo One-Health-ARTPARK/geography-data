@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76732166771004,14.53931300803949],[75.76852490827021,14.55670160462858],[75.754331556444,14.54870107630888],[75.76732166771004,14.53931300803949]]]},"properties":{"region_id":"village_604507","name":"WADERAYANAHALLI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

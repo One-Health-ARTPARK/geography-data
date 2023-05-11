@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72789932075239,16.51797091761302],[75.71815884892148,16.52094586331657],[75.7067322344697,16.50160330579895],[75.72647260706177,16.49918283906892],[75.72789932075239,16.51797091761302]]]},"properties":{"region_id":"village_599456","name":"MUTTALADINNI","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

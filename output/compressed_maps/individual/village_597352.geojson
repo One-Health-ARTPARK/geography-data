@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23628469186595,16.63857745449738],[75.18994182334663,16.64894721611487],[75.1820802286047,16.62405335400493],[75.2013741253935,16.60826800856005],[75.23525362807247,16.6280361273917],[75.23628469186595,16.63857745449738]]]},"properties":{"region_id":"village_597352","name":"SHIRAHATTI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

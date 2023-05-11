@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11683866167832,14.2771789310513],[76.08365667546776,14.27970157244435],[76.08553794256515,14.27246852844099],[76.10416308585822,14.2678985159049],[76.11683866167832,14.2771789310513]]]},"properties":{"region_id":"village_606672","name":"HEDNE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

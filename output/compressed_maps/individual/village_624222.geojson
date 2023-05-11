@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87292503281795,13.34711314630646],[77.87188806264562,13.36277722900047],[77.85814764540851,13.35732565509793],[77.85509426973923,13.34804169622272],[77.87292503281795,13.34711314630646]]]},"properties":{"region_id":"village_624222","name":"BODAGURU","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

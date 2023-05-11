@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04176201127277,15.03834848088239],[75.00876233246306,15.04003194269113],[75.01002909502392,15.00826437705211],[75.03806858495183,15.01304699682981],[75.04176201127277,15.03834848088239]]]},"properties":{"region_id":"village_603014","name":"INDOOR","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

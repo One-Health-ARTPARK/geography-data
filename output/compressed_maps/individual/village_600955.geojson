@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95678257654278,16.19223269532104],[76.93783358117932,16.19769910645383],[76.94154085375766,16.17683015162405],[76.95790791373894,16.17187538410986],[76.95678257654278,16.19223269532104]]]},"properties":{"region_id":"village_600955","name":"HUNCHED","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

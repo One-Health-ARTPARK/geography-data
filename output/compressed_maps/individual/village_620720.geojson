@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53126168168808,17.15001014977412],[76.5212083624614,17.17125597023529],[76.5144937066676,17.16111909171568],[76.53126168168808,17.15001014977412]]]},"properties":{"region_id":"village_620720","name":"GULIHAL","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

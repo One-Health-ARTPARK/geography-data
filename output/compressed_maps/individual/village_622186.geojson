@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95932074784558,12.9918683537175],[77.947791452468,12.9798793520322],[77.96387119764604,12.97615757403703],[77.95932074784558,12.9918683537175]]]},"properties":{"region_id":"village_622186","name":"DYAPASANDRA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

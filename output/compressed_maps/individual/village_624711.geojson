@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27532100844255,13.29736262817418],[77.27018207653886,13.31089370490285],[77.25473857737343,13.30875335211468],[77.25600335585469,13.29668898843367],[77.27532100844255,13.29736262817418]]]},"properties":{"region_id":"village_624711","name":"YELEKYATHANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

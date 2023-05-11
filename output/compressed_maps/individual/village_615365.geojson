@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02812090912943,13.15059504594073],[76.03257851873768,13.15618040596025],[76.02723475625137,13.15816055229849],[76.02812090912943,13.15059504594073]]]},"properties":{"region_id":"village_615365","name":"SHIVAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

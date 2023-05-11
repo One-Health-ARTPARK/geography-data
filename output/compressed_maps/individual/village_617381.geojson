@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47525975960728,12.86418841006664],[76.46564676106955,12.86509900204589],[76.46936982751845,12.85818139365438],[76.47525975960728,12.86418841006664]]]},"properties":{"region_id":"village_617381","name":"RACHENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40905184379298,11.9299741074197],[76.39465334405386,11.9353173859666],[76.39821451610484,11.92034632488606],[76.40905184379298,11.9299741074197]]]},"properties":{"region_id":"village_619085","name":"HULLEMALA","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

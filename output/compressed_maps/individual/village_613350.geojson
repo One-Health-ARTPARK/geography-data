@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72467059609438,12.72001544666135],[77.71652065186126,12.70674199492829],[77.73230370219142,12.70624506370204],[77.72467059609438,12.72001544666135]]]},"properties":{"region_id":"village_613350","name":"BIDARAGERE","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

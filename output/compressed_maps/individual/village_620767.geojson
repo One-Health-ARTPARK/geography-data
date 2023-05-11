@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69908174730318,16.9775317835552],[76.69104989115452,17.01992414954737],[76.6736557932156,17.01635811200101],[76.66707200799728,16.98124603529337],[76.69908174730318,16.9775317835552]]]},"properties":{"region_id":"village_620767","name":"MAVNOOR","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

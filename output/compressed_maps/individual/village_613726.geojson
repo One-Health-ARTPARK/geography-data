@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80622609109545,12.99540633796513],[76.78930454991787,12.99747328781315],[76.78552485107171,12.98422592667138],[76.80217803269063,12.98365276553816],[76.80622609109545,12.99540633796513]]]},"properties":{"region_id":"village_613726","name":"BYRASANDRA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

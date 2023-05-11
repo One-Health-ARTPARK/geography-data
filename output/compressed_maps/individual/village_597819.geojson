@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.36045545777125,15.70812159742908],[74.3547001226171,15.71635146915319],[74.34548082508033,15.70426401392295],[74.3502514350818,15.69385609208475],[74.36045545777125,15.70812159742908]]]},"properties":{"region_id":"village_597819","name":"HABBANATTI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

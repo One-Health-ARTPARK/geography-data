@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1368871789538,14.89898841574535],[75.13692082643536,14.88062148603556],[75.15067236885996,14.89083308715258],[75.1368871789538,14.89898841574535]]]},"properties":{"region_id":"village_604037","name":"BOMMANAHALLI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

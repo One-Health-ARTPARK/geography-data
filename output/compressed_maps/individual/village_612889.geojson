@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64389753562557,13.17712682092606],[77.64554145028444,13.19093332270855],[77.63629990034315,13.18855935166042],[77.63242656463309,13.1787729057332],[77.64389753562557,13.17712682092606]]]},"properties":{"region_id":"village_612889","name":"MEENAKUNTE","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

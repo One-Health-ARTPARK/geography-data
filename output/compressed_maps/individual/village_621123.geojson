@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86333679352329,16.67350652597814],[76.83959517188647,16.66084779622053],[76.86565362358989,16.64978065075677],[76.86333679352329,16.67350652597814]]]},"properties":{"region_id":"village_621123","name":"VIBUTIHALLI","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

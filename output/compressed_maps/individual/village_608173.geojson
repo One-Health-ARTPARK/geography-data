@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46501572975127,13.74413383861595],[75.44950377967317,13.752226963115],[75.42218343998007,13.73426800946766],[75.42586701609738,13.71558575381584],[75.45565799926165,13.72342613305951],[75.46501572975127,13.74413383861595]]]},"properties":{"region_id":"village_608173","name":"LINGAPURA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

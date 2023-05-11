@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92655081842634,13.81367270845238],[75.94620869830473,13.81394599400402],[75.94761418908502,13.83488662228487],[75.93419427702099,13.83538895084996],[75.92655081842634,13.81367270845238]]]},"properties":{"region_id":"village_607118","name":"DURVIGERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

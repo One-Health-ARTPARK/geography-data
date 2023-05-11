@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55205184104514,13.34633709397303],[77.52800240555456,13.34445339625836],[77.54483108505681,13.33112077286597],[77.55205184104514,13.34633709397303]]]},"properties":{"region_id":"village_625082","name":"VADDARAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

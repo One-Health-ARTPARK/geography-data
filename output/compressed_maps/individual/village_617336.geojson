@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59069725148204,12.97111785605201],[76.5914317372925,12.98070649412537],[76.58373122013107,12.98357186483243],[76.58400107356441,12.97306075633409],[76.59069725148204,12.97111785605201]]]},"properties":{"region_id":"village_617336","name":"MAKANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

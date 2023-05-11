@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13014557912214,15.61914192300966],[76.10900695642519,15.63566507993709],[76.10153212147088,15.61272149014772],[76.11938787300541,15.60141699727795],[76.13014557912214,15.61914192300966]]]},"properties":{"region_id":"village_601308","name":"HULEGUDDA","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

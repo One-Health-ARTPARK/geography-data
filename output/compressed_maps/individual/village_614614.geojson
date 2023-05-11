@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99512229264259,12.51475604813828],[76.98695546844729,12.52195371188509],[76.97317996000851,12.52184523057386],[76.97660040093952,12.50993580032672],[76.99512229264259,12.51475604813828]]]},"properties":{"region_id":"village_614614","name":"AMBARAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81267786319951,15.89427961909851],[76.81869816933217,15.92367898728131],[76.8095211411515,15.91524809711156],[76.81267786319951,15.89427961909851]]]},"properties":{"region_id":"village_601146","name":"SIRANGUDDI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

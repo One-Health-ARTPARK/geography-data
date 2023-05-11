@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0430718517182,16.3045761387277],[77.02323280281128,16.30607070369485],[77.01205362366335,16.28704035734097],[77.03911494337676,16.28625576258257],[77.0430718517182,16.3045761387277]]]},"properties":{"region_id":"village_600686","name":"HUNGUNBAD","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12911610055727,12.78700602674375],[77.11181343776745,12.79463318497739],[77.10906603480267,12.77844825678458],[77.1262385415544,12.77481589545154],[77.12911610055727,12.78700602674375]]]},"properties":{"region_id":"village_612740","name":"YELEKADAKALU","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

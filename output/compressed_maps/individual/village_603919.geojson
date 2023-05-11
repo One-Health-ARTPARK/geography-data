@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31593594923456,15.07633888557045],[75.3058976186788,15.13833951567892],[75.29736081334774,15.10548443508309],[75.27287590251592,15.08306463901411],[75.27701535619416,15.06845177496853],[75.31593594923456,15.07633888557045]]]},"properties":{"region_id":"village_603919","name":"HULGUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

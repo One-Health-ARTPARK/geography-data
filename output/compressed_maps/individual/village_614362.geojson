@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85837281953238,12.6555511322647],[76.84947644677285,12.65659143030129],[76.85228982778253,12.63413186683104],[76.86218959555323,12.63807700393795],[76.85837281953238,12.6555511322647]]]},"properties":{"region_id":"village_614362","name":"UPPARAKANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

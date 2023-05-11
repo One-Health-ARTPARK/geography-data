@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14666717797483,16.04920160010274],[77.12251657702176,16.03781043501498],[77.13406676990161,16.01015102902733],[77.14666717797483,16.04920160010274]]]},"properties":{"region_id":"village_600997","name":"BETTADUR","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

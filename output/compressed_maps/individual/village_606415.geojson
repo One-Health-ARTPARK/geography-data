@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33643953038313,14.59568309191821],[76.33956641293466,14.61389737664287],[76.33291106400914,14.61443043956433],[76.33643953038313,14.59568309191821]]]},"properties":{"region_id":"village_606415","name":"ANEBENAKANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.30303374491443,13.05038501171253],[78.29940647437702,13.05640556552621],[78.28461161611924,13.04946233690808],[78.29605220311763,13.0414278320135],[78.30303374491443,13.05038501171253]]]},"properties":{"region_id":"village_622712","name":"THIMMASANDRA","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

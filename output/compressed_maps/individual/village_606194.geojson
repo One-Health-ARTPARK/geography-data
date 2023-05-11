@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57116042960143,13.70825377332407],[76.54161494212069,13.76106516812072],[76.5160189518388,13.75745709535336],[76.55314424117914,13.69257370964228],[76.57116042960143,13.70825377332407]]]},"properties":{"region_id":"village_606194","name":"ARASINAGUNDI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

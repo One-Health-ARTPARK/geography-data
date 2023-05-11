@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91830941661165,16.45271625353193],[76.91302790050278,16.48873230244352],[76.90151799294533,16.48703523020174],[76.90731047855928,16.45554166885396],[76.91830941661165,16.45271625353193]]]},"properties":{"region_id":"village_600588","name":"WAGADAMBLI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

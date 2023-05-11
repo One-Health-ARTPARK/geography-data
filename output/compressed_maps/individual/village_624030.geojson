@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96724098864595,13.60354538212841],[77.95391574426213,13.61388824339425],[77.94800647189423,13.60310555075802],[77.96724098864595,13.60354538212841]]]},"properties":{"region_id":"village_624030","name":"HALEHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

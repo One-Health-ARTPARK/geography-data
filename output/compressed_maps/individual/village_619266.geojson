@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62858587710373,12.05065219610459],[76.60865902125128,12.04628835968396],[76.60180703203017,12.0208818615209],[76.62750012045218,12.0249041695965],[76.62858587710373,12.05065219610459]]]},"properties":{"region_id":"village_619266","name":"SURAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

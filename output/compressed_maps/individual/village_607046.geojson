@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88401033530738,14.02290720208074],[75.85417517651695,14.01874504447236],[75.85379618464599,13.9960087452181],[75.88613879399128,14.00629532679022],[75.88401033530738,14.02290720208074]]]},"properties":{"region_id":"village_607046","name":"DONDRAGHATTA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1801093212821,12.15928173050936],[77.1653373247368,12.15375729133553],[77.17185826236658,12.14019008653904],[77.18634755613635,12.15280178268252],[77.1801093212821,12.15928173050936]]]},"properties":{"region_id":"village_619827","name":"HARAVANAPURA","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

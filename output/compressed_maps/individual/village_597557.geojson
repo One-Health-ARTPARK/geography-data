@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45948229300795,16.34287567282039],[74.44553680303518,16.34394080401867],[74.44223575858824,16.29627292632038],[74.45535249115422,16.30399884535622],[74.45948229300795,16.34287567282039]]]},"properties":{"region_id":"village_597557","name":"KARAJAGE","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

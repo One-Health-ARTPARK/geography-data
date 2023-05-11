@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45706504167762,14.4401547063026],[74.45276296178777,14.45108714788951],[74.42698366919167,14.43323701470375],[74.45908242621805,14.42780957810265],[74.45706504167762,14.4401547063026]]]},"properties":{"region_id":"village_603465","name":"MANAKI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

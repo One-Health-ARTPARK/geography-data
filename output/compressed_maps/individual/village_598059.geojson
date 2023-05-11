@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66952422350927,15.79255308364121],[74.67001376410909,15.77124583104848],[74.68922292580068,15.78082624510331],[74.6812010638992,15.79130595330929],[74.66952422350927,15.79255308364121]]]},"properties":{"region_id":"village_598059","name":"BENACHINAMARDI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

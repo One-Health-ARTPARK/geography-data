@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50972185027732,16.62730159500255],[76.5149030873719,16.64282031821697],[76.48888787820088,16.63583636907908],[76.50972185027732,16.62730159500255]]]},"properties":{"region_id":"village_620902","name":"FATHEPUR","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

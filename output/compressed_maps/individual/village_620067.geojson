@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65147390475995,17.51269217349659],[76.62324847346143,17.50404837122229],[76.64930814057998,17.48876297483479],[76.65147390475995,17.51269217349659]]]},"properties":{"region_id":"village_620067","name":"NELLUR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

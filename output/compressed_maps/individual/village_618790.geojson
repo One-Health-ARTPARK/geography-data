@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70736034987418,12.26037551644091],[76.69036570394009,12.26639610412699],[76.67282149936986,12.26610196428166],[76.69250142208985,12.24892661186199],[76.70736034987418,12.26037551644091]]]},"properties":{"region_id":"village_618790","name":"SARAKARIUTHANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

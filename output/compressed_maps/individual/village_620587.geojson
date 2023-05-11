@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45395799918866,16.91229478422744],[77.44246697310585,16.91283844171981],[77.43550965982739,16.88631028011178],[77.45577012315843,16.88552231905981],[77.45395799918866,16.91229478422744]]]},"properties":{"region_id":"village_620587","name":"YENAGUNDI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

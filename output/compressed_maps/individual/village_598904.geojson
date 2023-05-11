@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96480929072365,16.12016251049911],[75.9506227506521,16.15068122566974],[75.9435582191807,16.14541566256556],[75.94725813409157,16.11391362391515],[75.96480929072365,16.12016251049911]]]},"properties":{"region_id":"village_598904","name":"KHAIRWADGI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

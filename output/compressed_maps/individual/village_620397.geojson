@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50119860943843,17.45665825259579],[77.46221960232957,17.44164451309075],[77.47985078936611,17.42723679740485],[77.5142662049304,17.43573705188916],[77.50119860943843,17.45665825259579]]]},"properties":{"region_id":"village_620397","name":"CHIKKALINGADHALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

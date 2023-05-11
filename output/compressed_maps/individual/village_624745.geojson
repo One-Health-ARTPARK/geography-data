@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2544167449519,13.23538483948616],[77.24827861407893,13.23370472405233],[77.24889550395058,13.2241422126657],[77.25404835056311,13.22412437021836],[77.2544167449519,13.23538483948616]]]},"properties":{"region_id":"village_624745","name":"THIMMANAIKANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

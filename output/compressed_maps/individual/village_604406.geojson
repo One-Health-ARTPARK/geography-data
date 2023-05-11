@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5243330532924,14.48553184798204],[75.5122832621056,14.49089193210378],[75.51278743502763,14.47521345166662],[75.5243330532924,14.48553184798204]]]},"properties":{"region_id":"village_604406","name":"KODIHALLI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

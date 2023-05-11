@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54698690408433,17.92999599998436],[77.5411128254853,17.93078722862965],[77.540814352357,17.92354188587609],[77.5465421336014,17.92465847439953],[77.54698690408433,17.92999599998436]]]},"properties":{"region_id":"village_600171","name":"ODWADA","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

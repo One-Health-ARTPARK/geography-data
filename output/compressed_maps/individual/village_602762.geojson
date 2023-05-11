@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72633183963757,15.35437634846243],[74.71440420547596,15.35470924062206],[74.71633664699799,15.34586995818454],[74.73277508638105,15.34469888734433],[74.72633183963757,15.35437634846243]]]},"properties":{"region_id":"village_602762","name":"BIDROLLI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

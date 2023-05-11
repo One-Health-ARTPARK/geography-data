@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92605464214394,12.98454110774885],[76.92788554854764,12.99374872016211],[76.90874108589436,12.99143277556453],[76.907936889011,12.98468632735816],[76.92605464214394,12.98454110774885]]]},"properties":{"region_id":"village_612494","name":"SINGONAHALLI AGRAHARA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

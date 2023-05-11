@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9050067354077,14.14700664856097],[74.88976561578315,14.16146798906668],[74.87797365305276,14.13941476351922],[74.89205664067636,14.13186058548439],[74.9050067354077,14.14700664856097]]]},"properties":{"region_id":"village_939531","name":"MALALE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12354361444268,15.24849274639859],[75.10575234125704,15.24951669689702],[75.11188186702296,15.22679009068465],[75.12510090690245,15.23024905864221],[75.12354361444268,15.24849274639859]]]},"properties":{"region_id":"village_602422","name":"BOMMASAMUDRA","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

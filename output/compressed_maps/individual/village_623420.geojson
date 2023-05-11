@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58721311081844,13.48205483474557],[77.55110666176499,13.48355216458196],[77.57044669860797,13.47073499785243],[77.58715631409567,13.46787564436752],[77.58721311081844,13.48205483474557]]]},"properties":{"region_id":"village_623420","name":"UPPARAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

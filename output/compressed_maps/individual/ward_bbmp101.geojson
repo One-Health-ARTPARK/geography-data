@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52868299990672,12.98389699956333],[77.53680500006445,12.9806689999217],[77.5383780003703,12.99161399999494],[77.53164399998244,12.99257899992894],[77.52868299990672,12.98389699956333]]]},"properties":{"region_id":"ward_bbmp101","name":"WARD NO.101 (KAMAKSHIPALYA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

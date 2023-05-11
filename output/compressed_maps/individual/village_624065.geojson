@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84528984587662,13.55919438444139],[77.84721615394818,13.55547743991425],[77.84848033075596,13.55770435563707],[77.84528984587662,13.55919438444139]]]},"properties":{"region_id":"village_624065","name":"THAVAREVODDU","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

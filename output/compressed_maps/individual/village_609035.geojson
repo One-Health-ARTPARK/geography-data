@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31353428339801,13.29034949552614],[75.34837120934591,13.29741548030695],[75.32142165718496,13.33587410978192],[75.29239692721295,13.30903037296222],[75.31353428339801,13.29034949552614]]]},"properties":{"region_id":"village_609035","name":"KALLUGUDDE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

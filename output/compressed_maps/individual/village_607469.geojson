@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09731987514581,14.5067542335365],[75.07949889247743,14.50781446942591],[75.07955263275326,14.49592203085153],[75.09405312353664,14.49142854233767],[75.09731987514581,14.5067542335365]]]},"properties":{"region_id":"village_607469","name":"NITTAKKI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85335683650091,12.98300238758001],[75.83390468898517,12.97166373191185],[75.85046690425334,12.96702230057324],[75.85335683650091,12.98300238758001]]]},"properties":{"region_id":"village_614945","name":"KENDANAMANE","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

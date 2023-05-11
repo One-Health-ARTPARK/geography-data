@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38564037667284,13.6720219420353],[76.38201130424565,13.68292972446632],[76.36336130750853,13.67796338865934],[76.36204132990879,13.66405795715269],[76.38564037667284,13.6720219420353]]]},"properties":{"region_id":"village_605963","name":"KAINADU","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

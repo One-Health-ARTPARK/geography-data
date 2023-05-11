@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0904257620318,15.9749573403243],[77.07007827140855,15.97481503835607],[77.07158076633067,15.95643331536622],[77.09896375727081,15.95498868208374],[77.0904257620318,15.9749573403243]]]},"properties":{"region_id":"village_601019","name":"RABBANKAL","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

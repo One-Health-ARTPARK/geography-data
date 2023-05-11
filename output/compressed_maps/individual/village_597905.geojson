@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.62977075028667,15.62696526381033],[74.6116267132908,15.62789392155056],[74.6056449308137,15.60893795494589],[74.63067576450324,15.60532085436682],[74.62977075028667,15.62696526381033]]]},"properties":{"region_id":"village_597905","name":"BANKI-BASARIKATTI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

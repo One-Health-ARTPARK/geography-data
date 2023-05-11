@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75015882787505,12.15192232229221],[76.73662619092451,12.15687305072576],[76.72976600286134,12.14943910803076],[76.74260831130347,12.1379919353193],[76.75015882787505,12.15192232229221]]]},"properties":{"region_id":"village_619197","name":"BOKKAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

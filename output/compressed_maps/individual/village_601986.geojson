@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94517608842422,15.69455645991369],[75.94049809349546,15.6815755851159],[75.95596217715675,15.67748858824483],[75.95882400556151,15.69710138018484],[75.94517608842422,15.69455645991369]]]},"properties":{"region_id":"village_601986","name":"VEERAPUR","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

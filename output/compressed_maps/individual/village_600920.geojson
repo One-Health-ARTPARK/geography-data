@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79720543879725,16.0625936756911],[76.78211439593662,16.06048487548586],[76.77761714172564,16.04412676227601],[76.79752791891276,16.03902312458641],[76.79720543879725,16.0625936756911]]]},"properties":{"region_id":"village_600920","name":"GOGE HEBBAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

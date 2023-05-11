@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25326528960439,12.49242286691693],[76.23573473692001,12.48455604868296],[76.23620189509771,12.47184931494205],[76.25301584258034,12.46697695855809],[76.25326528960439,12.49242286691693]]]},"properties":{"region_id":"village_618620","name":"GUDDUGANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

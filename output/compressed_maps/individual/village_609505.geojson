@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1388044703995,13.41251611986889],[76.13901364481119,13.42808624516869],[76.12552741511928,13.41725721087699],[76.1388044703995,13.41251611986889]]]},"properties":{"region_id":"village_609505","name":"MALLAPPANAHALLI (RURAL)","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

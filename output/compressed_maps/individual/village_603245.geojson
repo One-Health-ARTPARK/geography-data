@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84292518076862,14.52790252960497],[74.83230189967863,14.53795819739875],[74.82430978737982,14.52837956856265],[74.84292518076862,14.52790252960497]]]},"properties":{"region_id":"village_603245","name":"JAGANALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23822748383269,13.06912742494846],[76.22160694090854,13.07017276407397],[76.20983493577147,13.06534877899393],[76.22133192678699,13.05381385179913],[76.23822748383269,13.06912742494846]]]},"properties":{"region_id":"village_615981","name":"MAYASAMUDRA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

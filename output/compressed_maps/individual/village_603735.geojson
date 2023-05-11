@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.48734916736841,14.35093028172948],[74.44623001854313,14.34819441703462],[74.45187912016505,14.3266549691097],[74.48734916736841,14.35093028172948]]]},"properties":{"region_id":"village_603735","name":"KADLE","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

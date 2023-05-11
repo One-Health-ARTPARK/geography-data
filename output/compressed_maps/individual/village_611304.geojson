@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0592091837614,13.51335940132356],[77.04411473523179,13.51709531954104],[77.04375916839967,13.50815424659458],[77.0576764000763,13.50534713574637],[77.0592091837614,13.51335940132356]]]},"properties":{"region_id":"village_611304","name":"KENCHENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

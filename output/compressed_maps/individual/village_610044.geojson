@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44345072470358,13.51548277581449],[76.42795469929447,13.52650022660736],[76.41759237365403,13.51584656894032],[76.43909538797162,13.50325624809151],[76.44345072470358,13.51548277581449]]]},"properties":{"region_id":"village_610044","name":"HALLITHIMMALAPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

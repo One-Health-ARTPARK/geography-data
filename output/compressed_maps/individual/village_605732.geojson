@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10965527481466,14.06310128877559],[76.10977376058007,14.07078791037975],[76.08549758870052,14.07808787460742],[76.08427361760232,14.0684088044731],[76.09891134358087,14.05285156190945],[76.10965527481466,14.06310128877559]]]},"properties":{"region_id":"village_605732","name":"SHIVAPURA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

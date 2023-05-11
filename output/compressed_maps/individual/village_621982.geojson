@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.21564166542124,13.18407817008672],[78.20430455886053,13.18459820838316],[78.20671486146516,13.17719144434233],[78.21564166542124,13.18407817008672]]]},"properties":{"region_id":"village_621982","name":"NENUMANAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

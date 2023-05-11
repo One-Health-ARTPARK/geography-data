@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67167035112504,13.85871370531743],[75.65977540126353,13.84497687638836],[75.67367025628972,13.84002655257554],[75.67167035112504,13.85871370531743]]]},"properties":{"region_id":"village_938567","name":"BANDARAHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

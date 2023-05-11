@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0037197955941,13.70313162980148],[76.99848913298723,13.71877705799489],[76.98792989639763,13.70687825885132],[77.0037197955941,13.70313162980148]]]},"properties":{"region_id":"village_610376","name":"GULIGENAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

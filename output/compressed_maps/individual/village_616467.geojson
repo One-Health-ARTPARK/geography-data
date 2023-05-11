@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00809959414623,12.87065710983478],[75.99381912209351,12.86912295706966],[75.98886042200613,12.85694522244297],[76.00218129901573,12.86403097555959],[76.00809959414623,12.87065710983478]]]},"properties":{"region_id":"village_616467","name":"RAMANAHALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

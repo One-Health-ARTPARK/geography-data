@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60017236069035,14.66652475507633],[74.62335833586526,14.64294674385495],[74.63387097300946,14.66923506945358],[74.60017236069035,14.66652475507633]]]},"properties":{"region_id":"village_603152","name":"MUNDGANMANE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

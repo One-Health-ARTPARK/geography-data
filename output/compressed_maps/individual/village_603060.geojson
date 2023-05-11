@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06768575011263,14.83676982049151],[75.03737448304034,14.82563288122337],[75.07389298396072,14.80823364302132],[75.06768575011263,14.83676982049151]]]},"properties":{"region_id":"village_603060","name":"ONIKERI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

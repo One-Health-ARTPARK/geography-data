@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93806160555195,13.47460641264513],[77.92324043063687,13.4794177324783],[77.92792804543835,13.46253897539163],[77.93806160555195,13.47460641264513]]]},"properties":{"region_id":"village_624132","name":"RACHANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

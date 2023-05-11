@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42059755075434,16.08261651397926],[74.41946650407067,16.1011886127942],[74.40805728795993,16.09471324137866],[74.42059755075434,16.08261651397926]]]},"properties":{"region_id":"village_597641","name":"BELLANKI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

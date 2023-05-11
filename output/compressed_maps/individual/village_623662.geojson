@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.79247111535913,13.3596527949066],[77.79877008265407,13.36711219982229],[77.78972893571596,13.38147832407364],[77.78444631862324,13.37195035809902],[77.79247111535913,13.3596527949066]]]},"properties":{"region_id":"village_623662","name":"THIMMANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

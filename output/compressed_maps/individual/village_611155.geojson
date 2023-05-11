@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32399901279341,13.43995481866116],[77.3064130246511,13.4411490074075],[77.31002773596573,13.4251501554241],[77.3215666224905,13.42833195129858],[77.32399901279341,13.43995481866116]]]},"properties":{"region_id":"village_611155","name":"SINGALIKAPURA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

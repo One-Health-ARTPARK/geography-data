@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15589151574986,13.0435613830828],[76.13504392872285,13.04113107188677],[76.13745477906593,13.02352160210432],[76.15437252244045,13.03341766256066],[76.15589151574986,13.0435613830828]]]},"properties":{"region_id":"village_616057","name":"DODDAPURA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

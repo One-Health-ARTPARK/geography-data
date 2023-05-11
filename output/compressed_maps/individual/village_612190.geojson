@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5414471942998,13.10612891105885],[76.51690529133933,13.10247401165669],[76.5346590276644,13.07671074080878],[76.55341671647753,13.07675405987355],[76.5414471942998,13.10612891105885]]]},"properties":{"region_id":"village_612190","name":"GUNGARAMALE","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

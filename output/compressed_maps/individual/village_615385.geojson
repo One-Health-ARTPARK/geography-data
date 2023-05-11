@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86328371162388,13.12257540370666],[75.84904395457202,13.12439589681017],[75.84836262195607,13.10482316465955],[75.86207674583024,13.10761574779993],[75.86328371162388,13.12257540370666]]]},"properties":{"region_id":"village_615385","name":"THAGARE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63921894712314,14.13542852005922],[75.62083407819546,14.14520322846283],[75.62542392660872,14.12787784050305],[75.63921894712314,14.13542852005922]]]},"properties":{"region_id":"village_606833","name":"GANGANAKOTE","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

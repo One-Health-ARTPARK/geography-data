@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66962527114224,13.76793155841618],[77.6664801103342,13.78494645356303],[77.66033732930619,13.78516819952334],[77.65812280333799,13.76110733189975],[77.66962527114224,13.76793155841618]]]},"properties":{"region_id":"village_623283","name":"KANTHARLAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

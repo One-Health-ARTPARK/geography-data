@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57898290727495,17.48389979976249],[77.53742042854726,17.49009180972081],[77.53839294770998,17.44132119347591],[77.57654539963063,17.43053699520913],[77.57898290727495,17.48389979976249]]]},"properties":{"region_id":"village_620385","name":"SHADIPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

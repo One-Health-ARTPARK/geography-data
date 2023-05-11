@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89266795239146,12.58617211900493],[75.88982138658338,12.59565475847858],[75.87973391948285,12.5901185055373],[75.88510193600465,12.57852725641302],[75.89266795239146,12.58617211900493]]]},"properties":{"region_id":"village_939059","name":"DODDABURU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

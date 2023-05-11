@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04928851414034,15.36571246899976],[75.06083668405668,15.33241828984188],[75.08724534803005,15.36173360700372],[75.04928851414034,15.36571246899976]]]},"properties":{"region_id":"village_602383","name":"GOKUL","parent":"subdistrict_7079","parent_name":"HUBBALLI URBAN"}}
+]}

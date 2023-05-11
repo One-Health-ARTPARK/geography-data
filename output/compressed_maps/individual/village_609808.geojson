@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02791777657957,13.28335220017476],[76.01172069404774,13.28498634238199],[76.00835031735586,13.26038378206718],[76.02189627628849,13.2621880283446],[76.02791777657957,13.28335220017476]]]},"properties":{"region_id":"village_609808","name":"NARASIPURA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

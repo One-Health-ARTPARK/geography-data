@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61956318609509,12.80332682392492],[75.54184779256525,12.83397225917066],[75.53862434183519,12.779255105783],[75.61956318609509,12.80332682392492]]]},"properties":{"region_id":"village_617704","name":"SHIRIBAGILU","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

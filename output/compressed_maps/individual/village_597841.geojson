@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4833039029124,15.72281634330808],[74.45451810583677,15.69752942726186],[74.47946455659014,15.68729107739767],[74.4833039029124,15.72281634330808]]]},"properties":{"region_id":"village_597841","name":"KATAGALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

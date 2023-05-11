@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22250360302164,14.29034006940352],[77.19575516841071,14.28803294667195],[77.22895098049926,14.25549893825338],[77.2376181007523,14.28386947921985],[77.22250360302164,14.29034006940352]]]},"properties":{"region_id":"village_610526","name":"POTHAGANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

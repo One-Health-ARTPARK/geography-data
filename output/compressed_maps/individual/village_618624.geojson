@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24974616723186,12.44780989175536],[76.24826336043856,12.45965239516884],[76.23614039425878,12.45852957641383],[76.23545561018965,12.44186779264822],[76.24974616723186,12.44780989175536]]]},"properties":{"region_id":"village_618624","name":"CHIBUKAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

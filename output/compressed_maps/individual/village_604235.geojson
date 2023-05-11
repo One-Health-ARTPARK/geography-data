@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48414443017778,14.84342579613371],[75.44919412599366,14.82361870927264],[75.4580024640184,14.78790936685702],[75.49454335965812,14.7967236831708],[75.48414443017778,14.84342579613371]]]},"properties":{"region_id":"village_604235","name":"AGADI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

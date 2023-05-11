@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14706959653533,13.24273324089332],[76.14287003815146,13.22876760298246],[76.15364239731996,13.22263659950515],[76.15810608340807,13.23602173466501],[76.14706959653533,13.24273324089332]]]},"properties":{"region_id":"village_615479","name":"KALYADI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

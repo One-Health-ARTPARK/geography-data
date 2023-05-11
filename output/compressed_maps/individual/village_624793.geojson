@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3041005463511,13.2623517958264],[77.2917612036583,13.26640975682817],[77.2890688214271,13.24498478236948],[77.30525140291302,13.24711558047866],[77.3041005463511,13.2623517958264]]]},"properties":{"region_id":"village_624793","name":"MANNE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

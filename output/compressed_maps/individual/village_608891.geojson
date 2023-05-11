@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92799482654144,13.28346995622576],[74.90158574551415,13.28326861776822],[74.88572902595065,13.25163820069509],[74.93014254354932,13.25818706344275],[74.92799482654144,13.28346995622576]]]},"properties":{"region_id":"village_608891","name":"KOWDOOR","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

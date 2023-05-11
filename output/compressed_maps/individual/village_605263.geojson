@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5885365048265,14.44012869001644],[76.56912876934439,14.45305273167538],[76.55702657142794,14.40530822638012],[76.57240260897206,14.40002205892564],[76.5885365048265,14.44012869001644]]]},"properties":{"region_id":"village_605263","name":"KHUDAPURA","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

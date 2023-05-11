@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20651660396317,15.85940388183123],[76.20494652946392,15.8966771517028],[76.19760582506227,15.89620255120852],[76.19621117994463,15.85928226796215],[76.20651660396317,15.85940388183123]]]},"properties":{"region_id":"village_601477","name":"KESOOR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

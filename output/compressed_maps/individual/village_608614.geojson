@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87048165203291,13.83604467896131],[75.86504817005908,13.87404601247504],[75.82488564821631,13.85223161878909],[75.8291585008678,13.82563826074027],[75.87048165203291,13.83604467896131]]]},"properties":{"region_id":"village_608614","name":"GANGOORU","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.53499197784042,15.65752704606113],[74.52806229452412,15.63506088249044],[74.546242949803,15.63563910435034],[74.53499197784042,15.65752704606113]]]},"properties":{"region_id":"village_597872","name":"KUPPATAGIRI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

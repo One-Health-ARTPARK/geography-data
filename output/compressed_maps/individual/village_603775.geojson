@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5462954232655,14.13789169083794],[74.52227774302645,14.13587788948433],[74.52861802229184,14.10899396548744],[74.5462954232655,14.13789169083794]]]},"properties":{"region_id":"village_603775","name":"HERALI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

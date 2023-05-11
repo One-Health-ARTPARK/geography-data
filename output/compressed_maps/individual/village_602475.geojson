@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88556957063156,15.1741646622905],[74.86196468754365,15.17085803090729],[74.87106134504118,15.1539763601499],[74.90053964272819,15.16050022071691],[74.88556957063156,15.1741646622905]]]},"properties":{"region_id":"village_602475","name":"SULIKATTI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

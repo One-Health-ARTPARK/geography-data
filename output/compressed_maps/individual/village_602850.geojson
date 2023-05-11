@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81631279568983,15.32103329872497],[74.81000492348403,15.34685087263293],[74.78242379494921,15.34337910546453],[74.79385394316542,15.31776863615331],[74.81631279568983,15.32103329872497]]]},"properties":{"region_id":"village_602850","name":"BUZURKANCHANALLI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

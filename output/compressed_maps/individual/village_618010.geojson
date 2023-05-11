@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82624430485248,12.22095758156216],[75.81165174356646,12.21835780458393],[75.81655620350641,12.20526846665851],[75.83158684938469,12.20928597634785],[75.82624430485248,12.22095758156216]]]},"properties":{"region_id":"village_618010","name":"AIMANGALA","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

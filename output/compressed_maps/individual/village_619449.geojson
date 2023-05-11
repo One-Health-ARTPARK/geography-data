@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67447775428862,11.96240112854199],[76.6973993066801,11.96682018202638],[76.69875606557667,11.98629573498334],[76.66021214482039,11.98238286078634],[76.67447775428862,11.96240112854199]]]},"properties":{"region_id":"village_619449","name":"THONDAVADI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

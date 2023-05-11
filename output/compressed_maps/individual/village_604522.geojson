@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56774319956192,14.65128003366918],[75.53553523145038,14.66288365361845],[75.53608781700866,14.61998764284469],[75.55885324070694,14.61731936763526],[75.56774319956192,14.65128003366918]]]},"properties":{"region_id":"village_604522","name":"ASUNDI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

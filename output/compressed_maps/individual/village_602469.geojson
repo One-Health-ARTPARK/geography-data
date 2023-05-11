@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0275464982306,15.19878392839372],[75.02241483294182,15.21546007297684],[74.99903848761453,15.20751155061452],[75.01774124620647,15.19653986069794],[75.0275464982306,15.19878392839372]]]},"properties":{"region_id":"village_602469","name":"RAMANAL","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

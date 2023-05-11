@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55636171535652,12.80841060038887],[76.54232179697925,12.80655991784816],[76.54550636909946,12.78808924563238],[76.55846061962963,12.80105489290297],[76.55636171535652,12.80841060038887]]]},"properties":{"region_id":"village_613444","name":"MALAGUR","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

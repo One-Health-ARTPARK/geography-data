@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11783989883737,16.23302910963902],[75.09605980415347,16.20141133683532],[75.12278860662191,16.20464159082734],[75.11783989883737,16.23302910963902]]]},"properties":{"region_id":"village_597543","name":"RADDERATTI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89651035724404,12.66788247137375],[75.88554760048989,12.67254199307647],[75.88564614864403,12.66508881929118],[75.89651035724404,12.66788247137375]]]},"properties":{"region_id":"village_923972","name":"SHANTHAVERI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

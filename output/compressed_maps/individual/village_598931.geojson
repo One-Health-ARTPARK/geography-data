@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00807432014925,16.07879629668929],[75.99941840867193,16.08223208186202],[75.9944855101483,16.03874860072343],[76.01498732325942,16.05161183971834],[76.00807432014925,16.07879629668929]]]},"properties":{"region_id":"village_598931","name":"BEVINAMATTI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

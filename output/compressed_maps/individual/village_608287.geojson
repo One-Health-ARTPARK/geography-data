@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17078497626729,13.50653723799294],[75.15994387458782,13.52948360103108],[75.10176664866805,13.49538332667664],[75.13889141487599,13.46285249298409],[75.17078497626729,13.50653723799294]]]},"properties":{"region_id":"village_608287","name":"BALEHALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

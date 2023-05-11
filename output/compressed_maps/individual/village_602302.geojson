@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0501011341477,15.5355658156865],[75.02389639303443,15.52838680352121],[75.01629672580694,15.51131647194764],[75.04729612779833,15.50968682608413],[75.0501011341477,15.5355658156865]]]},"properties":{"region_id":"village_602302","name":"MAREWAD","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03241904977511,13.92177860068403],[76.02099493534527,13.96048633939558],[75.99150778793283,13.96042346082846],[75.99939470929584,13.91486059890989],[76.03241904977511,13.92177860068403]]]},"properties":{"region_id":"village_607099","name":"MALAHALU","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

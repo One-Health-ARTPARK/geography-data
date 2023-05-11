@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98522011608239,12.8103149151886],[76.99575472727317,12.81046450568886],[76.99076229018343,12.81865240838761],[76.98522011608239,12.8103149151886]]]},"properties":{"region_id":"village_612718","name":"SUGGANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75852092310926,12.34577243999441],[75.73714744289005,12.34198190298655],[75.74975711994459,12.32322599677141],[75.76201363606306,12.33595296997706],[75.75852092310926,12.34577243999441]]]},"properties":{"region_id":"village_617833","name":"MUTHARMUDI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

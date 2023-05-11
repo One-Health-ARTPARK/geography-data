@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.09738711502769,13.30890701669912],[78.0920240902972,13.31459998581083],[78.08568835477854,13.31297402714337],[78.08617330640764,13.30713643785613],[78.09738711502769,13.30890701669912]]]},"properties":{"region_id":"village_624699","name":"MYLANDAHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

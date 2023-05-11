@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02954130370671,16.03228148273668],[76.03546097541769,16.04395178294843],[76.01498732325942,16.05161183971834],[76.00710710252947,16.04025484877533],[76.02954130370671,16.03228148273668]]]},"properties":{"region_id":"village_598940","name":"BANNIHATTI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

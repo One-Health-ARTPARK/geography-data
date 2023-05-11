@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68329846548872,12.82688633907219],[77.68583113531092,12.84448666318603],[77.66984540051996,12.83469354362093],[77.68329846548872,12.82688633907219]]]},"properties":{"region_id":"village_613355","name":"HEBBAGODI (CT)","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

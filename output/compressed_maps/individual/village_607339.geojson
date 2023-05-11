@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04612460603894,14.04886452420091],[75.02632122410006,14.03669989146292],[75.02650558842782,14.0127769580256],[75.04612460603894,14.04886452420091]]]},"properties":{"region_id":"village_607339","name":"SATALALU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

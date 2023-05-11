@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8208629349877,13.01690572227203],[77.80628243925918,13.03271843490352],[77.7975610443686,13.01115570095932],[77.8208629349877,13.01690572227203]]]},"properties":{"region_id":"village_625664","name":"KODIHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

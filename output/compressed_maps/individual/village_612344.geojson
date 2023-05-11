@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72142669491892,13.07351217417899],[76.70500790346188,13.07255626209449],[76.69237623373745,13.06312425915125],[76.69979392610982,13.05278951993106],[76.72142669491892,13.07351217417899]]]},"properties":{"region_id":"village_612344","name":"MAVINAKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

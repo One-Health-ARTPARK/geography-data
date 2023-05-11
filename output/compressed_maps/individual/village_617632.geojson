@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20344563043506,13.04083038681479],[75.18370878141577,13.0427460858871],[75.18009195752524,13.00792756381478],[75.19684107476388,13.0074003355421],[75.20344563043506,13.04083038681479]]]},"properties":{"region_id":"village_617632","name":"NALKURU","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

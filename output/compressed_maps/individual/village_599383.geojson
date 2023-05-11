@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3983000312085,16.81588887649491],[76.35145962270727,16.81934077531116],[76.35100266710634,16.79439941862329],[76.39625419555666,16.80569575256839],[76.3983000312085,16.81588887649491]]]},"properties":{"region_id":"village_599383","name":"GOLGERI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

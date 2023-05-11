@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08197829761558,14.61879005106484],[75.07093815445958,14.62491262805824],[75.07095952892584,14.61712615900202],[75.08197829761558,14.61879005106484]]]},"properties":{"region_id":"village_607381","name":"SHANTHAPURA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

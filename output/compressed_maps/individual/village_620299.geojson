@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77578852898014,17.21467569686467],[76.74786747225811,17.22620721607358],[76.74060114080227,17.20130561775854],[76.77366684955236,17.19158759524868],[76.77578852898014,17.21467569686467]]]},"properties":{"region_id":"village_620299","name":"TADTEGNOOR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

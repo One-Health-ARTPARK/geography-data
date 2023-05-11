@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09541621053025,12.44012138229725],[76.09302570772942,12.44966628314017],[76.08011499056107,12.4478707231159],[76.08076706167033,12.43590813137694],[76.09541621053025,12.44012138229725]]]},"properties":{"region_id":"village_618178","name":"BHUVANAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

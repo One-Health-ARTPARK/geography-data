@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80425094420488,13.67529103168254],[77.789792377289,13.66955355592],[77.80393074789167,13.6525101674271],[77.81271670801375,13.6652450453016],[77.80425094420488,13.67529103168254]]]},"properties":{"region_id":"village_623747","name":"DODDANANCHERLU","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49702568960683,14.88309671164787],[75.48670360754608,14.8777240006751],[75.48898504806424,14.86831456034942],[75.49766086739699,14.867192429957],[75.49702568960683,14.88309671164787]]]},"properties":{"region_id":"village_604220","name":"AGASANAMATTI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

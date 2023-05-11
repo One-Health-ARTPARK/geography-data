@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72129227621738,12.73734890935464],[77.7156891630253,12.74313927524608],[77.71039734653209,12.73552333968505],[77.72129227621738,12.73734890935464]]]},"properties":{"region_id":"village_613347","name":"ARAVANTIGEPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

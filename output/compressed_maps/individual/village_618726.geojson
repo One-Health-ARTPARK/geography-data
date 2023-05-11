@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66547976659344,12.36755285817147],[76.65840097282918,12.36892104690073],[76.6569945461082,12.36176903994468],[76.66217679684526,12.36127085018855],[76.66547976659344,12.36755285817147]]]},"properties":{"region_id":"village_618726","name":"SIDDALINGAPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

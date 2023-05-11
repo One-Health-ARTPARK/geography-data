@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12819865711461,15.0820189194823],[76.0793666282387,15.08971686403011],[76.07789219556034,15.04659254512541],[76.12597736497833,15.04986480496089],[76.12819865711461,15.0820189194823]]]},"properties":{"region_id":"village_604647","name":"GADDIKERI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

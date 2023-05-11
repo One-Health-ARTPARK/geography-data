@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81683915665981,17.45651261253608],[76.79382026165177,17.4602899248963],[76.78814582037205,17.42864008633213],[76.81714316763768,17.43930814366322],[76.81683915665981,17.45651261253608]]]},"properties":{"region_id":"village_620233","name":"JAMGA (B)","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

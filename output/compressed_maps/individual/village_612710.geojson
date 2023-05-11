@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06765036134685,12.87292789116056],[77.05883806591083,12.87354300445507],[77.06316966953445,12.86056704003705],[77.07040706005601,12.86688108686405],[77.06765036134685,12.87292789116056]]]},"properties":{"region_id":"village_612710","name":"K.G. MUTHENAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03218052150774,12.69917627399196],[76.01636491414187,12.70413167047016],[76.0167296377826,12.68548757327047],[76.03218052150774,12.69917627399196]]]},"properties":{"region_id":"village_616552","name":"MUDAGANUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

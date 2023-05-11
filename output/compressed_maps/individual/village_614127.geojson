@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57351731332868,12.5207619323029],[76.56075459080758,12.52286765861871],[76.56291272713139,12.50936999003305],[76.57351731332868,12.5207619323029]]]},"properties":{"region_id":"village_614127","name":"MOODANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

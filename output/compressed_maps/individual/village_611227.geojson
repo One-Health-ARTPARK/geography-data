@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31440359749797,13.37515678671875],[77.30072260729784,13.3752308407132],[77.29671520831154,13.36177375768889],[77.3111576548316,13.35324598416865],[77.3144350735107,13.36260356150362],[77.31440359749797,13.37515678671875]]]},"properties":{"region_id":"village_611227","name":"KOLALA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

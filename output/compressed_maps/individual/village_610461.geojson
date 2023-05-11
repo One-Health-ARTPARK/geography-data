@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89980132727621,13.59742020469189],[76.8878981633964,13.6040454444468],[76.88570294648216,13.58885508966288],[76.89980132727621,13.59742020469189]]]},"properties":{"region_id":"village_610461","name":"BENCHE","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

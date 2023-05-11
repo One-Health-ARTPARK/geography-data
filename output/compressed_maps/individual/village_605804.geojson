@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30704267633998,14.00426483352773],[76.29864274458481,14.01402200916788],[76.28219357997511,14.01384729616309],[76.2901947089154,13.99652247087095],[76.30704267633998,14.00426483352773]]]},"properties":{"region_id":"village_605804","name":"NERALAKATTE","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

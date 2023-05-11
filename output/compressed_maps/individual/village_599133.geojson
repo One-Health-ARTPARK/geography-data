@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59503792684428,16.61547758879745],[75.56224569097553,16.57160054812053],[75.59256715584087,16.5578542352403],[75.59503792684428,16.61547758879745]]]},"properties":{"region_id":"village_599133","name":"SHEGUNASHI","parent":"subdistrict_7069","parent_name":"BABALESHWAR"}}
+]}

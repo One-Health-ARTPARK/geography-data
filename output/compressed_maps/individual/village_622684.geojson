@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.32213209879701,13.04946964600534],[78.30855722340118,13.06341950559048],[78.30261303781764,13.04864441498689],[78.32213209879701,13.04946964600534]]]},"properties":{"region_id":"village_622684","name":"KALLIKUPPA","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

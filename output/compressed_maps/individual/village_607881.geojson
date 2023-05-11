@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07591317157906,13.9714125956169],[75.05812391000792,13.97194724173075],[75.0584665475894,13.94282219144974],[75.07841538578697,13.93944137599625],[75.07591317157906,13.9714125956169]]]},"properties":{"region_id":"village_607881","name":"MASAGALLI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

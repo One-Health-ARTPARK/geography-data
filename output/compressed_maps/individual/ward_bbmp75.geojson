@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54070300018246,13.00227300035804],[77.52997700040702,13.00574700018113],[77.52784499957706,12.99940499994924],[77.53976699989757,12.99532600013243],[77.54070300018246,13.00227300035804]]]},"properties":{"region_id":"ward_bbmp75","name":"WARD NO.75 (SHANKAR MATT)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

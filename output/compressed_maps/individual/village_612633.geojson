@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8626227727411,12.93437120300816],[76.86169417491911,12.94247502745228],[76.84868548238123,12.94398612415846],[76.8492770873709,12.93840647483404],[76.8626227727411,12.93437120300816]]]},"properties":{"region_id":"village_612633","name":"HOSUR","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

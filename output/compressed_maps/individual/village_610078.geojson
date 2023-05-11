@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46701004846976,13.43277682721548],[76.45326428836492,13.43556268617421],[76.44520605033617,13.41972822103352],[76.4696802581576,13.41252334585419],[76.46701004846976,13.43277682721548]]]},"properties":{"region_id":"village_610078","name":"DAGGENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

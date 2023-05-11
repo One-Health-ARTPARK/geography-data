@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83271667547507,13.29278638237982],[76.82888230208101,13.29993780507088],[76.81852805788583,13.29534012466099],[76.82331234542555,13.28677264638284],[76.83271667547507,13.29278638237982]]]},"properties":{"region_id":"village_611862","name":"DONNERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

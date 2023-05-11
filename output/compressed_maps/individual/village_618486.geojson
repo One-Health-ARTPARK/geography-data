@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39594756268558,12.23137372064017],[76.3891713033508,12.25569995059465],[76.36420742143879,12.25016499724497],[76.3769608162452,12.2252301078586],[76.39594756268558,12.23137372064017]]]},"properties":{"region_id":"village_618486","name":"DHARMAPURA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7161676836131,12.87244375170399],[76.69830958224372,12.87640369625871],[76.6981067877649,12.85332856269453],[76.70782433912558,12.84863259600336],[76.7161676836131,12.87244375170399]]]},"properties":{"region_id":"village_613868","name":"HUVINAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

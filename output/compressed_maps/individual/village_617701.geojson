@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45580733383106,12.78338168790861],[75.45863443249347,12.82232114960561],[75.43108155780008,12.81653708258572],[75.45580733383106,12.78338168790861]]]},"properties":{"region_id":"village_617701","name":"ICHLAMPADY","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

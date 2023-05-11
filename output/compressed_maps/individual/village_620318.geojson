@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85076015737117,17.06378949318226],[76.82806488202228,17.09670221782593],[76.82038476320292,17.04423733120764],[76.85076015737117,17.06378949318226]]]},"properties":{"region_id":"village_620318","name":"SOMNATHAHALLI","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

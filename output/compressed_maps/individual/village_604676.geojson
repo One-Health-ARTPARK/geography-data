@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25390058601768,15.06100637329507],[76.21124482577119,15.05323566590177],[76.23139092284916,15.00447695037113],[76.26103491315223,15.02786390068371],[76.25390058601768,15.06100637329507]]]},"properties":{"region_id":"village_604676","name":"CHINTRAPALLI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

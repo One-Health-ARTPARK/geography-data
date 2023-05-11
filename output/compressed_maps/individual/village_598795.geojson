@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65063876480954,16.21112152380977],[75.64648760106162,16.16866768831828],[75.65970570396135,16.16915853897586],[75.66658869912293,16.20946808508895],[75.65063876480954,16.21112152380977]]]},"properties":{"region_id":"village_598795","name":"MURANAL","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

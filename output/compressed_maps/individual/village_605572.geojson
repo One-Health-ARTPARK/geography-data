@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42189737981208,14.24567881572736],[76.46412070076576,14.28779865401654],[76.41579394686212,14.28494115084406],[76.42189737981208,14.24567881572736]]]},"properties":{"region_id":"village_605572","name":"GONUR","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

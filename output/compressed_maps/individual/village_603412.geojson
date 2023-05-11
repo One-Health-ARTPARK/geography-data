@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.31478993019286,14.57779592290724],[74.30133116360885,14.57675085307064],[74.30738663834072,14.56211717380146],[74.31312268598175,14.56156969496573],[74.31478993019286,14.57779592290724]]]},"properties":{"region_id":"village_603412","name":"BHAVIKODLA","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

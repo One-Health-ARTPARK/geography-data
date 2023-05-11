@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48325137306742,13.44858712234544],[77.4722597173331,13.46430793528987],[77.46656352297407,13.4458866083944],[77.48325137306742,13.44858712234544]]]},"properties":{"region_id":"village_624962","name":"HOSAKOTE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.1613437243911,14.86045502101822],[74.17165779236235,14.87321897401279],[74.16389394636963,14.88722370341816],[74.15062605471464,14.87931198999132],[74.1613437243911,14.86045502101822]]]},"properties":{"region_id":"village_602585","name":"MADHEWADA","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

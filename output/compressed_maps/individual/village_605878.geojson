@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15153670869823,13.78585197195871],[76.14460740761959,13.75860511763319],[76.16863355060063,13.75905024042138],[76.17632911682158,13.78425120058181],[76.15153670869823,13.78585197195871]]]},"properties":{"region_id":"village_605878","name":"SANIHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

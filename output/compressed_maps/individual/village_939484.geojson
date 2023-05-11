@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51366777012,12.93580299010867],[77.49893348982765,12.92937072829413],[77.5143620175074,12.92561841891977],[77.51366777012,12.93580299010867]]]},"properties":{"region_id":"village_939484","name":"KENCHANAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

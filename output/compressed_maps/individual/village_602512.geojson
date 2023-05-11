@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95066636251083,15.06786024235926],[74.97890040452292,15.06890661676587],[74.9929448587605,15.07927904370309],[74.99068755561902,15.09490267769839],[74.9594756732887,15.09390364065394],[74.95066636251083,15.06786024235926]]]},"properties":{"region_id":"village_602512","name":"BAMMIGATTI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

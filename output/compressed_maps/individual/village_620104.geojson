@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32544594358407,17.20299248301508],[76.32687286973906,17.21833074045271],[76.30393305262879,17.21825301278155],[76.30432082467904,17.20151740991661],[76.32544594358407,17.20299248301508]]]},"properties":{"region_id":"village_620104","name":"ALGI (K)","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

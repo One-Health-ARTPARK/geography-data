@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73695984047124,14.67944759317458],[76.68785009176659,14.66700029512812],[76.70769265047323,14.64103318367792],[76.73695984047124,14.67944759317458]]]},"properties":{"region_id":"village_605210","name":"NERLAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

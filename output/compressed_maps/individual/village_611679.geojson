@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73325503094036,13.34764152548953],[76.73053195271856,13.35453227715819],[76.71740835259732,13.34729942600792],[76.7339357336565,13.33852447106791],[76.73325503094036,13.34764152548953]]]},"properties":{"region_id":"village_611679","name":"HONNENAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1032627954062,13.80264904168561],[76.09525869188784,13.83105694879773],[76.0741646870869,13.8173426556336],[76.1032627954062,13.80264904168561]]]},"properties":{"region_id":"village_609273","name":"BEERNAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

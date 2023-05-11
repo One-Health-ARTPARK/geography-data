@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70365893710505,13.19007133797508],[76.68865619575817,13.19883919618898],[76.68083604614093,13.18426568571664],[76.70365893710505,13.19007133797508]]]},"properties":{"region_id":"village_612220","name":"M.BEVINAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

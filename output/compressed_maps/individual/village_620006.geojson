@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77392117852125,17.48462448434845],[76.74809495880262,17.49617728174029],[76.74593451819912,17.47478766434636],[76.77392117852125,17.48462448434845]]]},"properties":{"region_id":"village_620006","name":"KERIAMBALGA","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

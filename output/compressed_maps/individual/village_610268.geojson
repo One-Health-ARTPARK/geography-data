@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92295575744006,14.05662414900739],[76.90589121796802,14.0312595426427],[76.92498335897425,14.01792586947633],[76.93337748015054,14.04445258149211],[76.92295575744006,14.05662414900739]]]},"properties":{"region_id":"village_610268","name":"TADAKALUR","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

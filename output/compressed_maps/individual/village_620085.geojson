@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56198411949143,17.35343771169114],[76.5276553749282,17.35640784121762],[76.52774764608174,17.34323411932718],[76.55312484586644,17.34118787513694],[76.56198411949143,17.35343771169114]]]},"properties":{"region_id":"village_620085","name":"KUDKI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

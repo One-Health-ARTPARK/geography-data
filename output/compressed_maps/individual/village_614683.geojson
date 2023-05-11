@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93141775684894,12.3385770935241],[76.93887561091087,12.35314043986996],[76.92340213735098,12.35057301057943],[76.93141775684894,12.3385770935241]]]},"properties":{"region_id":"village_614683","name":"HONAGANAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

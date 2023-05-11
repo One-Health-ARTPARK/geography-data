@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80056586428724,16.79153909086698],[75.80613335274262,16.84588212837172],[75.77725394045329,16.8469594274539],[75.80056586428724,16.79153909086698]]]},"properties":{"region_id":"village_599086","name":"BURANPUR","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

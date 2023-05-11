@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.11426095127446,13.80738201075564],[78.12507825277348,13.83044500515948],[78.1162366518874,13.84869160028449],[78.07222878805565,13.82412356132166],[78.07153853806007,13.80124585240557],[78.11426095127446,13.80738201075564]]]},"properties":{"region_id":"village_623979","name":"CHAKAVELU","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92661252085112,13.90540762891035],[77.90559369546243,13.88733385579949],[77.92687927476345,13.8747537587817],[77.92661252085112,13.90540762891035]]]},"properties":{"region_id":"village_623801","name":"G.CHERLOPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

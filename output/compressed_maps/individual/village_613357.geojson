@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69801725312176,12.82626535548486],[77.68323213291055,12.82690820429819],[77.67645410287214,12.81441331923951],[77.70365747861366,12.80619992174815],[77.69801725312176,12.82626535548486]]]},"properties":{"region_id":"village_613357","name":"BOMMASANDRA (CT)","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

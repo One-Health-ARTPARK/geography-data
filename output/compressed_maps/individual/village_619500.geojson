@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65146532306338,11.83026066535926],[76.63453307408474,11.81061998751794],[76.65808214874829,11.8000025880019],[76.67082639025287,11.82602958203771],[76.65146532306338,11.83026066535926]]]},"properties":{"region_id":"village_619500","name":"MADAHALLI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35913570180514,14.35580951530121],[76.3313085443422,14.35889058812328],[76.33088968516162,14.3471506655261],[76.35913570180514,14.35580951530121]]]},"properties":{"region_id":"village_605513","name":"SURENAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

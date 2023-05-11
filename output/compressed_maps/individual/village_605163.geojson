@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80722327993598,14.89649088826848],[76.78613026768788,14.89878147501369],[76.78444062718258,14.87695450638793],[76.80683896285947,14.88485037492845],[76.80722327993598,14.89649088826848]]]},"properties":{"region_id":"village_605163","name":"KEREKONDAPURA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

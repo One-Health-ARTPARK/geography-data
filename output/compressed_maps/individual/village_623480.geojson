@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70816041609608,13.59380680017483],[77.69960129026359,13.59336816871125],[77.70359190696912,13.58673324656132],[77.70816041609608,13.59380680017483]]]},"properties":{"region_id":"village_623480","name":"JOLADARASHI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

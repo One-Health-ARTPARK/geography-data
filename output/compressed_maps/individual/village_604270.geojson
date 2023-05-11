@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69015729042565,14.90674249957593],[75.6408588961211,14.88622904675938],[75.65398224653403,14.85110606570263],[75.70243031508117,14.86345454953918],[75.69015729042565,14.90674249957593]]]},"properties":{"region_id":"village_604270","name":"HAVANUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

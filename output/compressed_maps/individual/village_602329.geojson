@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24668019071923,15.61167178069072],[75.22810954055959,15.61406916194377],[75.23450230949503,15.56795920634404],[75.24881301076735,15.572973030677],[75.24668019071923,15.61167178069072]]]},"properties":{"region_id":"village_602329","name":"BALLUR","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

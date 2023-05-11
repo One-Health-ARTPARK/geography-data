@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32658504982844,16.15267123177341],[76.30343252418868,16.18817156674163],[76.29076010715494,16.1728132359957],[76.32658504982844,16.15267123177341]]]},"properties":{"region_id":"village_600395","name":"KAMALDINNI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

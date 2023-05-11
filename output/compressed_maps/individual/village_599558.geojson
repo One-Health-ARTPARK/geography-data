@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01573718914516,16.47230475831281],[76.01541806384179,16.49480991719187],[75.99199328761185,16.48860461513775],[75.99433069414188,16.47596845125008],[76.01573718914516,16.47230475831281]]]},"properties":{"region_id":"village_599558","name":"AMBALANUR","parent":"subdistrict_5452","parent_name":"BASAVANA BAGEVADI"}}
+]}

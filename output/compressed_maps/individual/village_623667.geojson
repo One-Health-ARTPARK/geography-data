@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82990894258793,13.38380647716525],[77.81933887497576,13.39373506534197],[77.81064095553478,13.37553729511378],[77.82326857726056,13.37065167421057],[77.82990894258793,13.38380647716525]]]},"properties":{"region_id":"village_623667","name":"KESHAVARA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

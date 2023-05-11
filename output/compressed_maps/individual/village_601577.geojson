@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35133514797833,15.52250825140301],[76.36111712502458,15.51792038733871],[76.36904587691139,15.53092523316383],[76.35694877165362,15.53950206383776],[76.35133514797833,15.52250825140301]]]},"properties":{"region_id":"village_601577","name":"JALIHUDA","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2489957042782,15.70409544605711],[76.2186410082758,15.6873627784303],[76.244864269559,15.67475502160282],[76.2489957042782,15.70409544605711]]]},"properties":{"region_id":"village_601271","name":"YEDDONI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

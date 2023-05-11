@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97822706046244,14.69791130172708],[74.98299020709658,14.71089487364392],[74.97680776282904,14.71984364233434],[74.96743181840093,14.70325467920252],[74.97822706046244,14.69791130172708]]]},"properties":{"region_id":"village_603092","name":"BORANGUDDA","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

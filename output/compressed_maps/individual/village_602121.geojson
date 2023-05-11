@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74399012879816,15.06343502609465],[75.77177791952502,15.07236452855217],[75.769745687564,15.08272895316679],[75.74492734119401,15.08054404769299],[75.74399012879816,15.06343502609465]]]},"properties":{"region_id":"village_602121","name":"KERIHALLI","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78851616012248,12.83164485736917],[76.7686990781105,12.83672071137598],[76.77060258892834,12.82635653768514],[76.78851616012248,12.83164485736917]]]},"properties":{"region_id":"village_613891","name":"KASUVINAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

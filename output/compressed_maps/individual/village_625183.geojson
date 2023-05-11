@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39051297638957,13.27572301301871],[77.38942339271894,13.28833131645764],[77.38081672442901,13.29305750486026],[77.37735911043013,13.27607442851044],[77.39051297638957,13.27572301301871]]]},"properties":{"region_id":"village_625183","name":"KATTIIHOSAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

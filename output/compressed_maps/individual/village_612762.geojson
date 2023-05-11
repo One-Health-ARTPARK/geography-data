@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42348410751313,13.10823084169273],[77.42902828441643,13.10664520711557],[77.43225596916768,13.1139003685014],[77.42677856324498,13.1154945149859],[77.42348410751313,13.10823084169273]]]},"properties":{"region_id":"village_612762","name":"HUCHANA PALYA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77084062097214,13.68493681324764],[77.76924800832029,13.69990895830373],[77.75740067385694,13.69979387093565],[77.75555880192775,13.68858633579502],[77.77084062097214,13.68493681324764]]]},"properties":{"region_id":"village_623743","name":"CHIKKAKURUBARAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50123656954547,12.70630692397693],[76.49657433469108,12.70616937642276],[76.49638277418504,12.69591095383571],[76.50421991182272,12.69736334425619],[76.50123656954547,12.70630692397693]]]},"properties":{"region_id":"village_613539","name":"CHILLADAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

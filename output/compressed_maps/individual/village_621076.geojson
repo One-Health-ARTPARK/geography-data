@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63068716373681,16.71475366076998],[76.63518474008147,16.74507529122906],[76.62281577329446,16.74246707180207],[76.61966147609417,16.71593199966097],[76.63068716373681,16.71475366076998]]]},"properties":{"region_id":"village_621076","name":"NADIHAL","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

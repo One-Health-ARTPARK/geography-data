@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92136935490352,12.49118548894176],[75.93167015002687,12.490332190442],[75.92949687991701,12.50129017428079],[75.92136935490352,12.49118548894176]]]},"properties":{"region_id":"village_923998","name":"DODDATHUR","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

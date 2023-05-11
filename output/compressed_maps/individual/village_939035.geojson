@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87995281624255,12.71787108074846],[75.87272267167057,12.71975804197616],[75.87056154746817,12.71199515413695],[75.87825800285232,12.70803607499431],[75.87995281624255,12.71787108074846]]]},"properties":{"region_id":"village_939035","name":"APPASHETTALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

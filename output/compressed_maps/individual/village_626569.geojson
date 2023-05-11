@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43602118671284,12.37311983211829],[77.4450722868818,12.37812186975401],[77.44780973268738,12.38474075565477],[77.43590078461236,12.3866384125337],[77.43602118671284,12.37311983211829]]]},"properties":{"region_id":"village_626569","name":"MADARAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

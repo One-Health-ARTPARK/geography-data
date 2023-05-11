@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19420558354823,16.33314633821166],[75.18395146499068,16.32809721937049],[75.18401401914788,16.27562346963624],[75.1932714794078,16.27455409857036],[75.19767428722834,16.31185674481772],[75.19420558354823,16.33314633821166]]]},"properties":{"region_id":"village_598566","name":"CHANNAL","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

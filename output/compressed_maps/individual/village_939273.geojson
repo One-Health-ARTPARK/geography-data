@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89909683798578,12.79426837375383],[75.8957634335124,12.80389341987535],[75.88818746832064,12.79768548823461],[75.89909683798578,12.79426837375383]]]},"properties":{"region_id":"village_939273","name":"KERAGANAHALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

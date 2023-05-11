@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99605841493941,16.95133564621478],[74.96376427789788,16.92685564128195],[74.98955180534159,16.91073557880799],[74.99605841493941,16.95133564621478]]]},"properties":{"region_id":"village_597247","name":"KHILEGAON","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

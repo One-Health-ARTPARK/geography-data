@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96141096684264,15.78492064803775],[75.92569068192036,15.76466342666758],[75.9096701852036,15.73170451023433],[75.94071363644439,15.72247492071299],[75.97234554296438,15.75454312839611],[75.96141096684264,15.78492064803775]]]},"properties":{"region_id":"village_601978","name":"RAJUR","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67309699481119,12.86384429123213],[76.66935285540785,12.8775873439941],[76.65275512265053,12.8669299261789],[76.66238502703092,12.85517105110842],[76.67309699481119,12.86384429123213]]]},"properties":{"region_id":"village_613802","name":"DODDABALA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

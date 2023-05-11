@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97197989616679,13.19452616663735],[75.96405888474943,13.19193961050993],[75.96338620524406,13.17206068916031],[75.98073890909926,13.17958347564671],[75.97197989616679,13.19452616663735]]]},"properties":{"region_id":"village_615275","name":"PONNATHAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

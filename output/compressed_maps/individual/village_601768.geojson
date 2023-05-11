@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11575445700059,15.34522373692073],[76.0942939832347,15.3581799438697],[76.0934196868304,15.33336383854931],[76.11575445700059,15.34522373692073]]]},"properties":{"region_id":"village_601768","name":"KOLUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

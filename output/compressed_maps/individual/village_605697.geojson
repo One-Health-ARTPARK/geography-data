@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.16106008303566,13.93174443811184],[76.1345620886532,13.93306397439109],[76.12803720293071,13.91362398310609],[76.1553288741591,13.91013949152332],[76.16106008303566,13.93174443811184]]]},"properties":{"region_id":"village_605697","name":"GANGASAMUDRA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

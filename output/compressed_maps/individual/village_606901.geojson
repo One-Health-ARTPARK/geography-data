@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83089713796845,14.12215869245628],[75.80211049613293,14.11945355722879],[75.80460164827446,14.10975334129569],[75.82309617172504,14.10603618705605],[75.83089713796845,14.12215869245628]]]},"properties":{"region_id":"village_606901","name":"MALLIGENAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

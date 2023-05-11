@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52916930742066,14.91792680122734],[75.5095806279825,14.91322585507904],[75.51140561186853,14.89763468991669],[75.52568884591898,14.89852339421934],[75.52916930742066,14.91792680122734]]]},"properties":{"region_id":"village_604226","name":"MANNUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

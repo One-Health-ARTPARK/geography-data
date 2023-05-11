@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40080255922157,12.67507771562311],[75.38708428726397,12.66782753141798],[75.41199793940773,12.65153881384269],[75.41501739464732,12.66448580851705],[75.40080255922157,12.67507771562311]]]},"properties":{"region_id":"village_617755","name":"BALILA","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

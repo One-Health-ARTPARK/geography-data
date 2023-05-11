@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6051659300942,12.45401936145478],[76.5916876114465,12.45445176442036],[76.59137832100372,12.4407003555096],[76.60278036698138,12.43825007600115],[76.6051659300942,12.45401936145478]]]},"properties":{"region_id":"village_614147","name":"KATTERI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

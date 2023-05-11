@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45229464324507,17.28250864036456],[76.39287356857065,17.28731960012476],[76.42543846412167,17.23819893514547],[76.45229464324507,17.28250864036456]]]},"properties":{"region_id":"village_620121","name":"CHINCHOLI","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

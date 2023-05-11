@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07482106905955,13.08858516246195],[76.06480462717067,13.09457086677205],[76.06452207863411,13.08650703827571],[76.07482106905955,13.08858516246195]]]},"properties":{"region_id":"village_615883","name":"GULLENAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

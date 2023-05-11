@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40333934951909,16.90678512199521],[76.3999121039532,16.87596792774769],[76.43342089839439,16.88236981120059],[76.43380508761847,16.89775818325236],[76.40333934951909,16.90678512199521]]]},"properties":{"region_id":"village_599355","name":"SUNGATHAN","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

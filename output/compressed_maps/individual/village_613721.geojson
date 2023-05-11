@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72800965385002,12.95990575788113],[76.73197947623906,12.97126249539994],[76.72291894245993,12.97366186875277],[76.71511039038175,12.96285599997825],[76.72800965385002,12.95990575788113]]]},"properties":{"region_id":"village_613721","name":"JAVARANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

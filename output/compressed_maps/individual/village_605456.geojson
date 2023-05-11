@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20246412430603,14.36189059195999],[76.18840752747644,14.3910155196347],[76.17527368948942,14.3595837932175],[76.20246412430603,14.36189059195999]]]},"properties":{"region_id":"village_605456","name":"BHARAMASAGARA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67260274440262,11.73867872448528],[76.66385067496755,11.74110231541059],[76.65973190652531,11.72861692209825],[76.66989772413692,11.72637955244027],[76.67260274440262,11.73867872448528]]]},"properties":{"region_id":"village_619576","name":"KARLE","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

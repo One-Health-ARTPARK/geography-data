@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32895196527822,15.7938720086758],[76.32481872626154,15.74881597031281],[76.34581921165132,15.74474489854933],[76.34541082865857,15.77660372352518],[76.32895196527822,15.7938720086758]]]},"properties":{"region_id":"village_601510","name":"NAWALHALLI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

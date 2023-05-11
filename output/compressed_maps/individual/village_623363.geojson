@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44682139290288,13.48244405977962],[77.43338070036562,13.49361119093684],[77.42328943012414,13.47226249447256],[77.43479581207087,13.46851565843214],[77.44682139290288,13.48244405977962]]]},"properties":{"region_id":"village_623363","name":"TARIDALU","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

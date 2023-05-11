@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07222397746568,12.77935158473213],[76.0632716178184,12.78396180487758],[76.05666770234215,12.77881219426274],[76.06887719572974,12.77302650761504],[76.07222397746568,12.77935158473213]]]},"properties":{"region_id":"village_616581","name":"CHOLENAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

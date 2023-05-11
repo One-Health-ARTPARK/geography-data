@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57874481145403,18.25469129323798],[77.59864141100108,18.28261982076222],[77.57849275920083,18.28634127801842],[77.57874481145403,18.25469129323798]]]},"properties":{"region_id":"village_600074","name":"KARANJI (K)","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

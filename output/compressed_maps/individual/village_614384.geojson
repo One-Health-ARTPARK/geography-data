@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87886430120942,12.6164734157206],[76.86734631581787,12.63997383531032],[76.85228982778253,12.63413186683104],[76.85912288892719,12.61822210794664],[76.87886430120942,12.6164734157206]]]},"properties":{"region_id":"village_614384","name":"BILIDEGILU","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

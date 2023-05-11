@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78891159853308,12.47292494842209],[75.78011234854188,12.47935275212443],[75.77061409413399,12.46922501366511],[75.7738801182953,12.46271889700034],[75.78891159853308,12.47292494842209]]]},"properties":{"region_id":"village_924003","name":"KADANDALU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

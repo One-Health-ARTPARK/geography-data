@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79341867637842,17.14331428325336],[76.77741851732087,17.14151811599166],[76.77553969074286,17.10280108588089],[76.81120409069837,17.11608536328898],[76.79341867637842,17.14331428325336]]]},"properties":{"region_id":"village_620316","name":"NADDISINUR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

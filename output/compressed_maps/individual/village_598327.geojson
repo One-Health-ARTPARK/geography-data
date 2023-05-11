@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39942959334299,16.03609921279118],[75.3859699035111,16.0359938895001],[75.38708784876039,15.99512249442769],[75.40742905438547,16.00919338365832],[75.39942959334299,16.03609921279118]]]},"properties":{"region_id":"village_598327","name":"HANAMAPUR S.U.","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

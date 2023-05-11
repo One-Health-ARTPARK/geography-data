@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27089520368516,15.37543128387424],[76.2543686237061,15.37861826230341],[76.24354162449629,15.36873943257236],[76.27011075191598,15.36218325794275],[76.27089520368516,15.37543128387424]]]},"properties":{"region_id":"village_601757","name":"GABBUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

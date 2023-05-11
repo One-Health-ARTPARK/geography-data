@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.30198300686332,15.71019373566345],[74.29008051800365,15.74228266620218],[74.27488668714616,15.73140050718773],[74.27749738633013,15.71238087059293],[74.30198300686332,15.71019373566345]]]},"properties":{"region_id":"village_597811","name":"GOLYALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

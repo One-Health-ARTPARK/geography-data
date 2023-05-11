@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6480728517618,14.15855853015546],[75.61733366001695,14.16046708460594],[75.62918319934055,14.14304026575946],[75.6480728517618,14.15855853015546]]]},"properties":{"region_id":"village_606831","name":"AREHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

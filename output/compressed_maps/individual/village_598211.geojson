@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88801380766111,15.82332441994063],[74.88801206286513,15.86058585316746],[74.86724382728143,15.85682249318773],[74.86476492920507,15.830700685255],[74.88801380766111,15.82332441994063]]]},"properties":{"region_id":"village_598211","name":"MARAKUMBI","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

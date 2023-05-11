@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74973077998342,16.53975927820738],[74.75163931501609,16.55599603573179],[74.73493793568029,16.57857786007625],[74.72947051031868,16.54047253105639],[74.74973077998342,16.53975927820738]]]},"properties":{"region_id":"village_597356","name":"DIGGEWADI (OLD)","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33208916752383,12.46130789614248],[77.31848103889082,12.46223897975546],[77.31116504485972,12.45409362333147],[77.311689772388,12.44444533953414],[77.33057236167606,12.44200941555704],[77.33208916752383,12.46130789614248]]]},"properties":{"region_id":"village_626526","name":"SATHANUR","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

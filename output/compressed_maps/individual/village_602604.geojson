@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.37677198826466,14.88636049727097],[74.3284717238176,14.90439093749292],[74.31639368941684,14.86820363397426],[74.35150600585337,14.86235569880839],[74.37677198826466,14.88636049727097]]]},"properties":{"region_id":"village_602604","name":"VIRJE","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

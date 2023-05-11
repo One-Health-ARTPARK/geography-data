@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0644723248124,13.65599840496527],[77.0632687826706,13.66905952647183],[77.03910477971604,13.66694062473369],[77.04001569906464,13.65558086118577],[77.0644723248124,13.65599840496527]]]},"properties":{"region_id":"village_610757","name":"RANGAPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

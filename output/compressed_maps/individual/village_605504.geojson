@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47788812416219,14.35777270221297],[76.50849833509477,14.3598567796384],[76.49822091202365,14.37910654429811],[76.47788812416219,14.35777270221297]]]},"properties":{"region_id":"village_605504","name":"RAGALOBANAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

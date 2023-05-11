@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71959036534327,16.55793456376871],[76.69168896567676,16.57332454294694],[76.68637257427146,16.54880981516204],[76.71959036534327,16.55793456376871]]]},"properties":{"region_id":"village_621045","name":"BOMANHALLI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

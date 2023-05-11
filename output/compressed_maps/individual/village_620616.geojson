@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02642040962614,17.43218864917856],[77.01090285604359,17.44556429542344],[77.00031560456785,17.40605424589935],[77.01156374742392,17.40395417305183],[77.02642040962614,17.43218864917856]]]},"properties":{"region_id":"village_620616","name":"SAVATHKHED","parent":"subdistrict_7087","parent_name":"KALAGI"}}
+]}

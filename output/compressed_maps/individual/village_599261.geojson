@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08633275835672,17.2607828688833],[76.06315488560931,17.2541654166882],[76.06305879176426,17.19237648050468],[76.09942492829504,17.20125025580444],[76.08633275835672,17.2607828688833]]]},"properties":{"region_id":"village_599261","name":"BHUYAR","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

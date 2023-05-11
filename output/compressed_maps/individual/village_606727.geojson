@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51441125888697,14.17854752146166],[75.48962967265481,14.17007462755084],[75.49965466645259,14.15936065715502],[75.52187521954284,14.17017998479603],[75.51441125888697,14.17854752146166]]]},"properties":{"region_id":"village_606727","name":"ISRAPURA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

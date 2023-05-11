@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97431513290704,15.50122037874385],[76.95677538987418,15.46835664391925],[76.97415756795536,15.46491428458325],[76.98523433845247,15.47973258684056],[76.97431513290704,15.50122037874385]]]},"properties":{"region_id":"village_604842","name":"KURIGANUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

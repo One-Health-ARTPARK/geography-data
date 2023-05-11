@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81741172994793,13.72391768910935],[76.81083017159592,13.73609207905826],[76.79830194975493,13.73324320416153],[76.80366017486033,13.72225656265949],[76.81741172994793,13.72391768910935]]]},"properties":{"region_id":"village_610404","name":"GIDDANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

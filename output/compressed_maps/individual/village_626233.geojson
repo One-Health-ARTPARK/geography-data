@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16687365177076,12.60245532439772],[77.14849331706466,12.60128939411736],[77.15433867998597,12.58664841430863],[77.16914953838254,12.58761638384365],[77.16687365177076,12.60245532439772]]]},"properties":{"region_id":"village_626233","name":"CHAKKALUR","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

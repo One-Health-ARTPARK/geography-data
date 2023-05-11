@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42449989046224,12.71912640658863],[77.40899037186843,12.72174058694495],[77.40523943383363,12.70644485306965],[77.42391456218228,12.70377992923268],[77.42449989046224,12.71912640658863]]]},"properties":{"region_id":"village_626335","name":"KOLLIGANAHALLI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

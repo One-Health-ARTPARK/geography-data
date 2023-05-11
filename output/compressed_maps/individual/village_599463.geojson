@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75489849906374,16.38484993564834],[75.77081992600512,16.4318175314758],[75.75053661177235,16.42880710624203],[75.73802208725067,16.38724735929479],[75.75489849906374,16.38484993564834]]]},"properties":{"region_id":"village_599463","name":"HALEROLLI.R.C.","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

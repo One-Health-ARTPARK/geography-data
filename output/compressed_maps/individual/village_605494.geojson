@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34862607678679,14.36040473748425],[76.34653555909605,14.384918154467],[76.33124429218513,14.38480945761689],[76.3313582996083,14.35930408048951],[76.34862607678679,14.36040473748425]]]},"properties":{"region_id":"village_605494","name":"CHIPPINAKERE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

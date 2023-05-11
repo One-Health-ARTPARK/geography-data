@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04804816272585,14.01267769332072],[76.04302667509994,13.99028832761754],[76.07237413717328,13.98218301873467],[76.07631859333155,14.00426344742512],[76.04804816272585,14.01267769332072]]]},"properties":{"region_id":"village_605681","name":"KALKERE","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

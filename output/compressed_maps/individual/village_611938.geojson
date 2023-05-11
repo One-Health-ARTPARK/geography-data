@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91969873956727,13.16758716050656],[76.89962387564034,13.1676796178951],[76.90078186247908,13.15092274361768],[76.91931045119914,13.1578483933881],[76.91969873956727,13.16758716050656]]]},"properties":{"region_id":"village_611938","name":"HULEKERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

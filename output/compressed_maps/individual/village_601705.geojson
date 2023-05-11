@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80704829012475,15.53028269235399],[76.81266485583474,15.54675624698793],[76.76833553209643,15.55345902280198],[76.79221393967228,15.52780928626081],[76.80704829012475,15.53028269235399]]]},"properties":{"region_id":"village_601705","name":"NANDIHALLI","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

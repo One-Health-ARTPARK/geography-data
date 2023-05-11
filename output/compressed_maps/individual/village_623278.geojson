@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64973817905127,13.73791974085964],[77.64165930630824,13.74234740256304],[77.62718025938624,13.73111551180644],[77.64600781288752,13.722057411415],[77.64973817905127,13.73791974085964]]]},"properties":{"region_id":"village_623278","name":"MALLENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

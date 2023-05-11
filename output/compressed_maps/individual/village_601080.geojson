@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67926594745842,15.71323377667664],[76.67922690681155,15.70283803950221],[76.69999487822143,15.69872864460043],[76.70132214412081,15.71675486290699],[76.67926594745842,15.71323377667664]]]},"properties":{"region_id":"village_601080","name":"HANUMAPUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

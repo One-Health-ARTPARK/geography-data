@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88988465646202,17.80022575032535],[76.88528484086449,17.77103838535071],[76.90289175757977,17.77060340790863],[76.91224438881274,17.79317263798833],[76.88988465646202,17.80022575032535]]]},"properties":{"region_id":"village_599795","name":"ILHAL","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

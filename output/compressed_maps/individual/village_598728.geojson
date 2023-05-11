@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53538516773452,15.8673463227123],[75.5347359757516,15.87467834216374],[75.51841258128698,15.88204669648101],[75.51988952586693,15.86944854576229],[75.53538516773452,15.8673463227123]]]},"properties":{"region_id":"village_598728","name":"WADAWATTI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

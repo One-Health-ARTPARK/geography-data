@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52634959756236,15.45064135373124],[74.51483460108946,15.47515482588896],[74.5089252948764,15.45678990197286],[74.52634959756236,15.45064135373124]]]},"properties":{"region_id":"village_597960","name":"SATANALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

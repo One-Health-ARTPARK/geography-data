@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33197809928558,13.12946193482239],[77.32169736189104,13.1170081786957],[77.33567762271213,13.11306812660099],[77.33197809928558,13.12946193482239]]]},"properties":{"region_id":"village_624900","name":"KEMPOHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

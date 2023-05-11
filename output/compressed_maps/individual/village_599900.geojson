@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4122577947301,18.04185462984413],[77.40618670204394,18.05222538322385],[77.39717017394553,18.04040389715436],[77.40216721306933,18.03432867297024],[77.4122577947301,18.04185462984413]]]},"properties":{"region_id":"village_599900","name":"DONGARGI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

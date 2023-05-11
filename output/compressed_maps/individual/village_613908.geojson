@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85373404311552,12.87651961056385],[76.83978777898619,12.88798727009362],[76.83745627749352,12.8767642675676],[76.85373404311552,12.87651961056385]]]},"properties":{"region_id":"village_613908","name":"SIRAPURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

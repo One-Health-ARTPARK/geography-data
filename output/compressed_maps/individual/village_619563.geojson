@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61897634900888,11.77310455034988],[76.60004398488927,11.7892006525648],[76.59093836121959,11.76031848396841],[76.6046312491797,11.75325697547875],[76.61897634900888,11.77310455034988]]]},"properties":{"region_id":"village_619563","name":"KANNEGALA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83848372380562,14.9533975864784],[75.81347511820626,14.94505850308834],[75.81141953844863,14.92141274167888],[75.85239368923479,14.91804346176158],[75.85032373062359,14.93885400843925],[75.83848372380562,14.9533975864784]]]},"properties":{"region_id":"village_604589","name":"HIREHADAGALLI","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

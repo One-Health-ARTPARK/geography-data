@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85063477065161,13.69349839228198],[77.83911854887624,13.69145579885336],[77.83715743332526,13.68126399597684],[77.84809850688684,13.67884130915297],[77.85063477065161,13.69349839228198]]]},"properties":{"region_id":"village_623882","name":"GIRIYAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0140425347044,12.77090010134189],[75.02285450675664,12.7844122012899],[75.00515478673749,12.7905713100356],[75.00332327590213,12.77926540960347],[75.0140425347044,12.77090010134189]]]},"properties":{"region_id":"village_617586","name":"SALETHUR","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

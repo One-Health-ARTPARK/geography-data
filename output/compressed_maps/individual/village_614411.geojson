@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82144673646262,12.60803031146629],[76.81877449964813,12.60816456066849],[76.81728121101926,12.59759479830208],[76.82191109676802,12.60066448978386],[76.82144673646262,12.60803031146629]]]},"properties":{"region_id":"village_614411","name":"NARASIPURADAKOPPAL","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

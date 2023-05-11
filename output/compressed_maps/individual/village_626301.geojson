@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19609143287532,12.53692982335241],[77.18303259767616,12.53897490106001],[77.18120855879556,12.52701176674129],[77.19056381915027,12.52610823936991],[77.19609143287532,12.53692982335241]]]},"properties":{"region_id":"village_626301","name":"MADAPURA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

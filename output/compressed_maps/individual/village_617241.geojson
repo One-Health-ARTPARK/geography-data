@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46740722843131,12.95378506289132],[76.44939326815805,12.95423209153229],[76.45328046465505,12.94639623461861],[76.4726335509325,12.94261434561377],[76.46740722843131,12.95378506289132]]]},"properties":{"region_id":"village_617241","name":"HAROSOMANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

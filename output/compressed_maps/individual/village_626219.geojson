@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18113920507102,12.6235042019583],[77.17015316422847,12.62259242927628],[77.1745737714399,12.61211399182129],[77.18360558924842,12.61249301298851],[77.18113920507102,12.6235042019583]]]},"properties":{"region_id":"village_626219","name":"HOTTIGANAHOSAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

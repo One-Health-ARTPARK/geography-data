@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88977352674905,14.31213382397519],[74.87433231916405,14.28812850206054],[74.90524874609176,14.2924279636703],[74.88977352674905,14.31213382397519]]]},"properties":{"region_id":"village_603719","name":"AKKUNJI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

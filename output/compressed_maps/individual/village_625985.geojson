@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33211369173166,12.95085430049321],[77.33006040012167,12.96578020243925],[77.31759567661155,12.96070675848603],[77.32246758294202,12.94971807488787],[77.33211369173166,12.95085430049321]]]},"properties":{"region_id":"village_625985","name":"SHANUBHOGANAHALLI","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

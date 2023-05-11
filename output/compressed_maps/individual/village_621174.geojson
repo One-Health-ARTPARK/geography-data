@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92639884200827,16.56772016986851],[76.96149387991295,16.54653958363316],[76.9855868675224,16.60524725501259],[76.93503009093453,16.59517797196504],[76.92639884200827,16.56772016986851]]]},"properties":{"region_id":"village_621174","name":"HAYYAL (B)","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4697364615269,13.66894069046515],[77.46625843817151,13.68435017578069],[77.43709658606525,13.68411659813437],[77.4414962370724,13.65825887344654],[77.4697364615269,13.66894069046515]]]},"properties":{"region_id":"village_623231","name":"CHANDANADUR","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

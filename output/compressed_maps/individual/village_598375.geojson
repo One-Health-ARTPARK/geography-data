@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2675867531634,15.96427513609733],[75.24544774629801,15.92829028752331],[75.26625613842985,15.90037993034271],[75.2739578837987,15.93920650324652],[75.2675867531634,15.96427513609733]]]},"properties":{"region_id":"village_598375","name":"HALETORAGAL","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

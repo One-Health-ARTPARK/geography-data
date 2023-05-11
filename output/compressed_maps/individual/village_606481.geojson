@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2765667554382,14.46596414224826],[76.2567091907645,14.46822951032948],[76.26580137011081,14.44737451921354],[76.2765667554382,14.46596414224826]]]},"properties":{"region_id":"village_606481","name":"SOMANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14258949746413,14.48301915124269],[75.13188988920939,14.4972122918841],[75.11790067800372,14.49394973223561],[75.13504823099548,14.47631026777627],[75.14258949746413,14.48301915124269]]]},"properties":{"region_id":"village_607485","name":"HAYA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

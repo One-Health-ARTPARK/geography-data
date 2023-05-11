@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67174913339477,13.17196803564391],[77.66508116280463,13.16708079191971],[77.66481324080769,13.1557208410758],[77.67525755358666,13.15893945981987],[77.67174913339477,13.17196803564391]]]},"properties":{"region_id":"village_612907","name":"MEESAGANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

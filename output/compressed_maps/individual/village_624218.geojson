@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82064750299297,13.36257648581519],[77.81507788527621,13.35323692990863],[77.82513253425822,13.35408178412326],[77.82064750299297,13.36257648581519]]]},"properties":{"region_id":"village_624218","name":"KAMBADAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

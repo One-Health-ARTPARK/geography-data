@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4342152373341,16.91755699991442],[77.4109490479756,16.92278634658306],[77.40183995126628,16.88763431494558],[77.43550965982739,16.88631028011178],[77.4342152373341,16.91755699991442]]]},"properties":{"region_id":"village_620586","name":"BURAGPALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

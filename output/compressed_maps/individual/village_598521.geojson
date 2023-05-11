@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74338567943825,16.36571499813996],[75.72996746940929,16.37403662962734],[75.71971534394302,16.35768670957378],[75.74115602268591,16.3429048171588],[75.74338567943825,16.36571499813996]]]},"properties":{"region_id":"village_598521","name":"MUTTALADINNI RC","parent":"subdistrict_5444","parent_name":"BILGI"}}
+]}

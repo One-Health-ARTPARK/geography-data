@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08400733666556,13.56389102872263],[76.09041700418634,13.5667189192381],[76.0803211740316,13.56952047040694],[76.08400733666556,13.56389102872263]]]},"properties":{"region_id":"village_609469","name":"CHOKKAPURA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

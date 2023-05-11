@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5622193047066,13.07372770924649],[76.54564511158797,13.0775078808392],[76.54665591146386,13.07117784243565],[76.55865022946897,13.06494540397268],[76.5622193047066,13.07372770924649]]]},"properties":{"region_id":"village_617306","name":"MANDALEEKANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

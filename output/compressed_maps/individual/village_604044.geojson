@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30160629433996,14.85035421692975],[75.29819670580746,14.86788150367738],[75.28231684501041,14.86382193195444],[75.29066411350814,14.85002853689956],[75.30160629433996,14.85035421692975]]]},"properties":{"region_id":"village_604044","name":"HARVI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13548671920206,13.77453904578145],[75.10693833888115,13.78189215632681],[75.11326880412133,13.75628764610173],[75.13548671920206,13.77453904578145]]]},"properties":{"region_id":"village_608174","name":"NERALAMANE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69284545479391,15.46178610414751],[75.66631511171163,15.4660019743364],[75.65697845463414,15.44224012074065],[75.7022260374726,15.44924533741826],[75.69284545479391,15.46178610414751]]]},"properties":{"region_id":"village_602008","name":"NARASAPUR","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

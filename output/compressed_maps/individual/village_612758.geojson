@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4559445201192,13.12920373498691],[77.44883062721046,13.12965835631345],[77.44638675311634,13.12419158319989],[77.45445327181011,13.12076221708325],[77.4559445201192,13.12920373498691]]]},"properties":{"region_id":"village_612758","name":"AGRAHARA PALYA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

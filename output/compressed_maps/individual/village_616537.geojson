@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98443085260664,12.70699376185332],[75.97576330184661,12.69938915174129],[75.98424691250852,12.6940211447795],[75.9902898738879,12.70233951168479],[75.98443085260664,12.70699376185332]]]},"properties":{"region_id":"village_616537","name":"NILAKUNDA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

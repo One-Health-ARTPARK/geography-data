@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13009445265989,14.63300414121193],[76.1148613745939,14.6104474346219],[76.13912148147506,14.59912913979827],[76.14044803642744,14.62941754435922],[76.13009445265989,14.63300414121193]]]},"properties":{"region_id":"village_606358","name":"MADIHALLI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

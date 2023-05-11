@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04456680678138,14.3636912642262],[76.03714835468077,14.37560982276076],[76.02257547457168,14.3739311422005],[76.02844576750857,14.35521401316733],[76.04456680678138,14.3636912642262]]]},"properties":{"region_id":"village_606631","name":"DODDARANGAVVANAHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

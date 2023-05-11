@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30119887404138,13.1263660187162],[76.28962086969325,13.13609514744764],[76.27213340867168,13.12420133720615],[76.28190360836393,13.11504872438559],[76.30119887404138,13.1263660187162]]]},"properties":{"region_id":"village_615792","name":"NAGARAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

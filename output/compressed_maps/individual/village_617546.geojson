@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15440192217984,12.94006788545326],[75.1328511555885,12.93853260120819],[75.12348137195193,12.91086888779485],[75.15880557825507,12.89367024448101],[75.15440192217984,12.94006788545326]]]},"properties":{"region_id":"village_617546","name":"KAVALMUDUR","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

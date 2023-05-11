@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92880707090627,12.50739241844289],[75.93000850336676,12.50020862796022],[75.93750065495158,12.50152504050424],[75.93761823516432,12.50725360923891],[75.92880707090627,12.50739241844289]]]},"properties":{"region_id":"village_939033","name":"SHIRAHOLALU","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

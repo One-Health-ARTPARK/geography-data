@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80792134143621,14.31988697639016],[75.78986547535729,14.32321133237118],[75.78853948436124,14.31409097530433],[75.80792134143621,14.31988697639016]]]},"properties":{"region_id":"village_606803","name":"YARACHIKKANAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

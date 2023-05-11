@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3074838943862,13.72492939844249],[77.29967407749693,13.72882072144658],[77.29703271220015,13.74737842072242],[77.28393684606021,13.73371288679377],[77.29832419894515,13.72090651690213],[77.3074838943862,13.72492939844249]]]},"properties":{"region_id":"village_610943","name":"BADAKANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

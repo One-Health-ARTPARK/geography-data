@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3810738332391,12.41290415477225],[76.36390515616516,12.41773849304542],[76.36373503953826,12.40355642808966],[76.37642934828901,12.39621991080123],[76.3810738332391,12.41290415477225]]]},"properties":{"region_id":"village_618302","name":"MACHABAYANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

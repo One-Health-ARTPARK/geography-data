@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77804844340106,13.40322402460763],[74.73795376894083,13.40998804190341],[74.74949866243824,13.38096388173004],[74.77503584689006,13.38238258839503],[74.78663166522642,13.37615476711043],[74.77804844340106,13.40322402460763]]]},"properties":{"region_id":"village_608793","name":"UPPOOR","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

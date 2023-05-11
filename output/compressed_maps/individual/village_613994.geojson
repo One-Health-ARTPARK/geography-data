@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76069250853337,12.78343252355538],[76.74951082541791,12.76247180449573],[76.76474433852974,12.76243296242121],[76.76605172898775,12.77600039697509],[76.76069250853337,12.78343252355538]]]},"properties":{"region_id":"village_613994","name":"KALLUDEVANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

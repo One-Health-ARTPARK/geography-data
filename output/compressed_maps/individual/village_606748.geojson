@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.57749426176906,14.1141776867071],[75.57090971677701,14.13019059134348],[75.55978037042871,14.12648344367875],[75.55869486351409,14.11372638841418],[75.57749426176906,14.1141776867071]]]},"properties":{"region_id":"village_606748","name":"GANJEENAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

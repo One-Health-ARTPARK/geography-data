@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86924359354414,13.01482925926917],[77.86873251298795,13.01671282230222],[77.86415975699674,13.01583887294973],[77.86316241176664,13.01324293075076],[77.86924359354414,13.01482925926917]]]},"properties":{"region_id":"village_625677","name":"HONACHANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

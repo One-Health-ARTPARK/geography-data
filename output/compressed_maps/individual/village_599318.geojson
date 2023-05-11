@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37933351299672,17.1041561974532],[76.36858915357483,17.08699949418764],[76.38817759795256,17.07832943922129],[76.38857467905785,17.09792986278059],[76.37933351299672,17.1041561974532]]]},"properties":{"region_id":"village_599318","name":"HAVALGI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.30198300686332,15.71019373566345],[74.27749738633013,15.71238087059293],[74.28042037581434,15.68238339900067],[74.31648747558408,15.68576464177155],[74.30198300686332,15.71019373566345]]]},"properties":{"region_id":"village_597814","name":"AMATE","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

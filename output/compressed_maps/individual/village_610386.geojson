@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93558857112968,13.77105602394507],[76.92192571710326,13.77595699322675],[76.89668890972504,13.73111830364199],[76.92933475601457,13.73417551849376],[76.93558857112968,13.77105602394507]]]},"properties":{"region_id":"village_610386","name":"SIRA (RURAL)","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

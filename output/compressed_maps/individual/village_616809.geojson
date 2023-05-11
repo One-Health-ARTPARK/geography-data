@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20218809000161,12.81978842108345],[76.20739420329672,12.8205334220441],[76.20781210676049,12.83803311920207],[76.19658882154076,12.82638603532703],[76.20218809000161,12.81978842108345]]]},"properties":{"region_id":"village_616809","name":"BEEMANAHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

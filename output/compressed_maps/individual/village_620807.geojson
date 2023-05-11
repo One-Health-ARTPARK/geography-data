@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51651367809933,16.7508679760629],[76.483575594946,16.76614352549063],[76.48854401603148,16.73466524464578],[76.51651367809933,16.7508679760629]]]},"properties":{"region_id":"village_620807","name":"NAGARHALLI S.MALLI","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

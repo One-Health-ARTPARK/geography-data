@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20831226661807,13.51755007083922],[76.1881680402384,13.5210627123732],[76.18976413969435,13.50716317629633],[76.20831226661807,13.51755007083922]]]},"properties":{"region_id":"village_609575","name":"S.BASAVANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

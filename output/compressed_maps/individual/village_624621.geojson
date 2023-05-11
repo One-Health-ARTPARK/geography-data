@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98377856692629,13.33167364315485],[77.96973148845487,13.32939148624464],[77.97292947317536,13.32189277975916],[77.98377856692629,13.33167364315485]]]},"properties":{"region_id":"village_624621","name":"MARAPALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

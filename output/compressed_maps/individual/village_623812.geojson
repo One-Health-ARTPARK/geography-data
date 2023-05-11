@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85787764542134,13.85457047299419],[77.84799366019969,13.86066560284783],[77.83937971029897,13.85198507789402],[77.84148917385488,13.84612621297103],[77.85787764542134,13.85457047299419]]]},"properties":{"region_id":"village_623812","name":"CHINAKAYILAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

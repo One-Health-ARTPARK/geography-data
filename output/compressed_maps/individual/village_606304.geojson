@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98382865897248,14.90787938470073],[75.96702730316059,14.88255276183367],[75.98897409566227,14.87465729498188],[75.998310321531,14.89788173777201],[75.98382865897248,14.90787938470073]]]},"properties":{"region_id":"village_606304","name":"KULAHALLI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

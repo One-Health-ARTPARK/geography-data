@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86248054471145,13.91935736139207],[77.89698365262437,13.92760482216675],[77.89568864603086,13.94422436150531],[77.86504091683628,13.9362124118343],[77.86248054471145,13.91935736139207]]]},"properties":{"region_id":"village_623791","name":"KOLIMPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

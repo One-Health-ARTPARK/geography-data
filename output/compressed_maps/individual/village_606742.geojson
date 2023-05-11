@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56111194295896,14.1299315171669],[75.56056783620383,14.14196399852641],[75.54119549520979,14.13667402629188],[75.54290963892196,14.13026292435511],[75.56111194295896,14.1299315171669]]]},"properties":{"region_id":"village_606742","name":"DEVEKOPPA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

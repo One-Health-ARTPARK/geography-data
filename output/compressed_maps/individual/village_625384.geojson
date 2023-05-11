@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66219942867846,13.24845368039869],[77.6472879909648,13.24221537040624],[77.64476919711868,13.23068729728532],[77.65979199122518,13.22997230331711],[77.66219942867846,13.24845368039869]]]},"properties":{"region_id":"village_625384","name":"UGANAVADI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68083604614093,13.18426568571664],[76.67998756366791,13.19164524600092],[76.65925463697852,13.19218302586806],[76.66390129879369,13.17818207272811],[76.68083604614093,13.18426568571664]]]},"properties":{"region_id":"village_612234","name":"TAVAREKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

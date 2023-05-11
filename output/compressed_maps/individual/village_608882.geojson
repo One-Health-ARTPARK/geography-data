@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02739402366659,13.2775126721592],[75.02867426096172,13.31368609703313],[75.00792086302465,13.29805342066536],[75.02739402366659,13.2775126721592]]]},"properties":{"region_id":"village_608882","name":"HERMUNDE","parent":"subdistrict_5524","parent_name":"KARKAL"}}
+]}

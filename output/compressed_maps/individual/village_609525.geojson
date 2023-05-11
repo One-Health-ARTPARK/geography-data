@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04317221724733,13.51866380118677],[76.03203745957221,13.51588201947388],[76.03067090618207,13.49786703709204],[76.04159038466459,13.49652809788745],[76.04317221724733,13.51866380118677]]]},"properties":{"region_id":"village_609525","name":"G.THIMMAPURA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

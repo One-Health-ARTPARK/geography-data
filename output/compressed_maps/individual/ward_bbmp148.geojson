@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63816600007168,12.9303020002567],[77.62609500025945,12.95008599967],[77.61854999992651,12.94590399970548],[77.63816600007168,12.9303020002567]]]},"properties":{"region_id":"ward_bbmp148","name":"WARD NO.148 (EJIPURA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

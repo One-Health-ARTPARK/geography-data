@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7738041084084,17.87846637078056],[76.76733896996862,17.85213272925865],[76.7887099445072,17.83042550170844],[76.80808278540283,17.87139500956061],[76.7738041084084,17.87846637078056]]]},"properties":{"region_id":"village_599776","name":"GHOTALA","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

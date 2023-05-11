@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89487650561517,13.5051662504469],[76.86367323348811,13.50826050807359],[76.86037231522985,13.4832248788196],[76.89127713806629,13.47820575632954],[76.89487650561517,13.5051662504469]]]},"properties":{"region_id":"village_611669","name":"TALEKOPPA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4425072738502,16.66718627432888],[76.41536207391209,16.66413775702721],[76.40277905020449,16.6400339164984],[76.43382332553034,16.63822036523484],[76.4425072738502,16.66718627432888]]]},"properties":{"region_id":"village_620894","name":"MUNEERBOMMANHALLI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

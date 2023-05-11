@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.62530621226472,15.66674782924095],[74.62044638893359,15.67245849361025],[74.61171203562279,15.66829422916324],[74.61565208860327,15.6585003257028],[74.62530621226472,15.66674782924095]]]},"properties":{"region_id":"village_597887","name":"CHIKADINKOP","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

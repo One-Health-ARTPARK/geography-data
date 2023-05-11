@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.62251614038101,15.49072943170535],[74.59557844024476,15.48179083230539],[74.59840048480915,15.47052718956318],[74.62198264575441,15.47365946897571],[74.62251614038101,15.49072943170535]]]},"properties":{"region_id":"village_597985","name":"MERADA","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

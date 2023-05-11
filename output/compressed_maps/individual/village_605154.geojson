@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7417814916123,14.93153939965327],[76.72855974998181,14.92627891495445],[76.74323170637406,14.90433176909884],[76.75325000909275,14.9222873963082],[76.7417814916123,14.93153939965327]]]},"properties":{"region_id":"village_605154","name":"POKKURTHI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

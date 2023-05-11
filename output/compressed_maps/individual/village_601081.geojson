@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66741102819132,15.6624338016436],[76.69707198419209,15.66902631823954],[76.6996563234103,15.69870780744367],[76.6729713526778,15.69576049393237],[76.66741102819132,15.6624338016436]]]},"properties":{"region_id":"village_601081","name":"HANCHINHAL (K)","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

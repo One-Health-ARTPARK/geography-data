@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22101163804932,13.68317493059848],[76.2195570465882,13.71031908455548],[76.18009845269147,13.71631405603954],[76.19236377517835,13.67306844656117],[76.21741169836459,13.66836363997296],[76.22101163804932,13.68317493059848]]]},"properties":{"region_id":"village_609418","name":"CHOWLIHIRIYUR","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

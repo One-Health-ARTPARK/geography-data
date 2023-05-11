@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18578029575214,13.88907810789624],[77.16877658102497,13.89008998987851],[77.176278299621,13.88164226758507],[77.18578029575214,13.88907810789624]]]},"properties":{"region_id":"village_610671","name":"LAKSHMIPURA","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

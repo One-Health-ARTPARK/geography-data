@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23874085188707,13.70077385000383],[77.23565583912325,13.69147839074154],[77.24326519530052,13.69681060862295],[77.23874085188707,13.70077385000383]]]},"properties":{"region_id":"village_610824","name":"TAVAKADAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

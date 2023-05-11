@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98910643014904,16.32343870645321],[76.97263606648275,16.30751283643735],[76.98995376057312,16.30665802047021],[76.98910643014904,16.32343870645321]]]},"properties":{"region_id":"village_600690","name":"JARADBANDI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

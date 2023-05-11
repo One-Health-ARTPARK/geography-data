@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28520371484524,13.31090603850815],[77.29170826973512,13.31131198487205],[77.29700938021972,13.33753021550163],[77.28367489322468,13.32717181145529],[77.28520371484524,13.31090603850815]]]},"properties":{"region_id":"village_611423","name":"DYAPENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

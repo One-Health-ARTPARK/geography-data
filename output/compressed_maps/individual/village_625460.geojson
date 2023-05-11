@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74761380532529,13.15322348583427],[77.74939755807502,13.13986984178295],[77.7591930337851,13.13136140255549],[77.76408534751488,13.14456905526362],[77.75319257122902,13.14437228618727],[77.74761380532529,13.15322348583427]]]},"properties":{"region_id":"village_625460","name":"BUDIGERE AMANIKERE","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

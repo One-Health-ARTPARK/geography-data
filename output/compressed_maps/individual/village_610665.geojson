@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3528298753582,13.913745744055],[77.38349424776875,13.92097630256451],[77.36686638106987,13.94915605652736],[77.3528298753582,13.913745744055]]]},"properties":{"region_id":"village_610665","name":"GOWDETI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

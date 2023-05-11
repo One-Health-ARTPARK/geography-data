@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76725063228926,16.16781154576923],[75.74839314301988,16.1832705884355],[75.73470189077784,16.15502865756135],[75.74661412812124,16.14966760046082],[75.76725063228926,16.16781154576923]]]},"properties":{"region_id":"village_598859","name":"HONNAKATTI","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

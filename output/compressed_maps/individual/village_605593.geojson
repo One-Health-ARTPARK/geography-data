@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34798499154788,14.18679524735236],[76.33098327609822,14.18840131640118],[76.32529777725874,14.16552482444127],[76.35054448859108,14.16741959557151],[76.34798499154788,14.18679524735236]]]},"properties":{"region_id":"village_605593","name":"JANUKONDA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

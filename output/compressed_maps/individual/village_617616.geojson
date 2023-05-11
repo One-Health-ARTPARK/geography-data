@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09164131326132,13.01938483477779],[75.0586371565007,13.03182949981023],[75.06714483414127,13.00316483717078],[75.09656342211744,12.99529085440294],[75.09164131326132,13.01938483477779]]]},"properties":{"region_id":"village_617616","name":"ARAMBODI","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61378883598182,15.14240977128291],[76.59618343892662,15.14344349024815],[76.59082630495746,15.13580352429118],[76.61039459151655,15.13375312372839],[76.61378883598182,15.14240977128291]]]},"properties":{"region_id":"village_605019","name":"GOWRIPUR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

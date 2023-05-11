@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76375169814771,13.6647421933822],[74.74449469537298,13.68237955546945],[74.74688319707194,13.66090832517431],[74.76375169814771,13.6647421933822]]]},"properties":{"region_id":"village_608702","name":"KENCHANOOR","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

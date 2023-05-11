@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.24651970614242,14.87165881720473],[74.22417074478341,14.87130039332226],[74.23562372029795,14.85149085962165],[74.24651970614242,14.87165881720473]]]},"properties":{"region_id":"village_602615","name":"WAILWADA","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

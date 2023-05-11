@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.88093361462825,16.52327607068121],[74.85979473689936,16.55053385904627],[74.83548941587605,16.53232769206385],[74.85957361121785,16.50161010869135],[74.88093361462825,16.52327607068121]]]},"properties":{"region_id":"village_597397","name":"MORAB","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

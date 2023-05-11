@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02385695314328,16.13472799203389],[76.99941519918319,16.11498148577829],[77.03699133566363,16.10285446998035],[77.02385695314328,16.13472799203389]]]},"properties":{"region_id":"village_600976","name":"CHAGBHAVI","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

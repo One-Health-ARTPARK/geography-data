@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86753320358325,12.93377456177837],[77.85751706379955,12.93532103553297],[77.8454388803278,12.91646196734038],[77.86124694433293,12.91557846286409],[77.86753320358325,12.93377456177837]]]},"properties":{"region_id":"village_622242","name":"YATTAKODI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

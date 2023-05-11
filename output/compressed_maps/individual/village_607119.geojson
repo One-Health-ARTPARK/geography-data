@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95129450203189,13.84600659510201],[75.93022735690322,13.84630542674595],[75.93454876118213,13.83524398649752],[75.94761418908502,13.83488662228487],[75.95129450203189,13.84600659510201]]]},"properties":{"region_id":"village_607119","name":"VEERAPURA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

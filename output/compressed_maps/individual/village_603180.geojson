@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69619313678604,14.5257387311659],[74.67100873550602,14.52974691296847],[74.67117410855327,14.50391814656632],[74.69619313678604,14.5257387311659]]]},"properties":{"region_id":"village_603180","name":"BADAGI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88256199753897,12.73486495021996],[75.87063842642601,12.73380682528418],[75.87783189973482,12.72936451056637],[75.88256199753897,12.73486495021996]]]},"properties":{"region_id":"village_617891","name":"KAJUR","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

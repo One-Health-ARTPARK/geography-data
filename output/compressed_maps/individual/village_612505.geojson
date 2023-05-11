@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05809686277965,13.11355615831255],[77.0401976181834,13.12014265226321],[77.03752602840032,13.08967136256424],[77.04926113399085,13.08507123323031],[77.05809686277965,13.11355615831255]]]},"properties":{"region_id":"village_612505","name":"TAREDAKUPPE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

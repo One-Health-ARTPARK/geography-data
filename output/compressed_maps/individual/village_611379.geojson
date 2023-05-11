@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19894708840788,13.34191464171684],[77.184014875183,13.33431388429134],[77.1868603922658,13.3261303646109],[77.20028940094427,13.32933699590296],[77.19894708840788,13.34191464171684]]]},"properties":{"region_id":"village_611379","name":"KADARANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

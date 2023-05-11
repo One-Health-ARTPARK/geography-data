@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92784669233824,12.45023917522774],[76.91482749892974,12.45860750340953],[76.90421610987326,12.44788838933962],[76.9070920548835,12.43756361708211],[76.92784669233824,12.45023917522774]]]},"properties":{"region_id":"village_614486","name":"HEBBAKAVADI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86089708759378,13.2408774531292],[75.845206490505,13.24707911713189],[75.84842149135244,13.22077340993254],[75.86259935786995,13.22231769891352],[75.86089708759378,13.2408774531292]]]},"properties":{"region_id":"village_615208","name":"KARAGADA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

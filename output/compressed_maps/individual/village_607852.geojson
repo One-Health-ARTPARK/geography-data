@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.93648863736743,13.94657963672412],[74.92766688452292,13.9517614636071],[74.9070070597987,13.92951164613948],[74.94195311798606,13.92512004866218],[74.93648863736743,13.94657963672412]]]},"properties":{"region_id":"village_607852","name":"KOTESHIRUR","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

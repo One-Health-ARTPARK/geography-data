@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63398104371032,17.08609824433253],[76.63271275844909,17.10809490102999],[76.6101737069452,17.11331179964678],[76.6054560732767,17.08217042658455],[76.63398104371032,17.08609824433253]]]},"properties":{"region_id":"village_620307","name":"MANIYAL","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

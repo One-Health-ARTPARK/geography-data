@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.58218752716519,15.79994553111609],[74.56429043980496,15.78890860635175],[74.56842949777507,15.7772059022906],[74.58538960842118,15.78355917241639],[74.58218752716519,15.79994553111609]]]},"properties":{"region_id":"village_597775","name":"KONDASKOPPA","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

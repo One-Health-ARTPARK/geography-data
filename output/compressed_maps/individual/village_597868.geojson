@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.51922312045686,15.63272763476891],[74.49809277142279,15.62526527593238],[74.50437054006528,15.61842123824163],[74.51754605732084,15.61974193402359],[74.51922312045686,15.63272763476891]]]},"properties":{"region_id":"village_597868","name":"RUMEWADI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

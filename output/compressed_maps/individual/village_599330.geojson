@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35258446630097,16.99258348194944],[76.3506714638672,17.01371297030026],[76.32947596044994,17.01690771308929],[76.32860606509762,16.99593431891487],[76.35258446630097,16.99258348194944]]]},"properties":{"region_id":"village_599330","name":"JATINAL","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

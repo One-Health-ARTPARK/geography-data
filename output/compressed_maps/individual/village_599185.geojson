@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.887601624094,17.3030367359468],[75.87998294074313,17.28471657095855],[75.91212761444152,17.2778989279747],[75.91242985215527,17.29818959403618],[75.887601624094,17.3030367359468]]]},"properties":{"region_id":"village_599185","name":"NANDRAL","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28469805540784,16.1767671892156],[75.26567217885417,16.1777266973911],[75.25568568533082,16.12436678213971],[75.27574413869523,16.12041219108584],[75.28469805540784,16.1767671892156]]]},"properties":{"region_id":"village_598291","name":"GUTTIGOLI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

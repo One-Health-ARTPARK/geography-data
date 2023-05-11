@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73261874283392,13.37393500557952],[77.72053876490625,13.37696090591198],[77.71626087839954,13.36460337498175],[77.72850265632796,13.36289380775744],[77.73261874283392,13.37393500557952]]]},"properties":{"region_id":"village_623631","name":"YALUVAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

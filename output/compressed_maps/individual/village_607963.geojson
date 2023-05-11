@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03930152123837,13.86758200796196],[75.05164629264983,13.87549191954679],[75.04446720490498,13.8923400840741],[75.03503164634547,13.87673551437636],[75.03930152123837,13.86758200796196]]]},"properties":{"region_id":"village_607963","name":"BALEKOPPA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

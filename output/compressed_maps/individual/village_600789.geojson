@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44442380339844,16.21592746480549],[77.42513483675366,16.22549889911499],[77.42138051170235,16.21309212297789],[77.44442380339844,16.21592746480549]]]},"properties":{"region_id":"village_600789","name":"KURABDODDI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

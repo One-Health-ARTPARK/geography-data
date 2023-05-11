@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32593286009656,18.03052095234261],[77.3042668141739,18.03404129923107],[77.30014958170439,18.01888121825499],[77.31623350420287,18.01718261997546],[77.32593286009656,18.03052095234261]]]},"properties":{"region_id":"village_599897","name":"AHMADABAD","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

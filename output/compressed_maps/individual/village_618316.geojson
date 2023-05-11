@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28235129597714,12.34438521956489],[76.27126296623902,12.352871892103],[76.26942431885941,12.33634141003348],[76.28235129597714,12.34438521956489]]]},"properties":{"region_id":"village_618316","name":"MADAPURA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

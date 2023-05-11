@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35592634413953,14.30185556040862],[75.33847305001989,14.2955365031142],[75.34404902035948,14.28146256175332],[75.36016720482516,14.28430092644432],[75.35592634413953,14.30185556040862]]]},"properties":{"region_id":"village_607788","name":"CHANNAHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

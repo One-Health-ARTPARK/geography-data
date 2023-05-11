@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32177048970125,13.12481370387896],[77.30387072004264,13.12056354880209],[77.31390548649453,13.10680313205845],[77.32177048970125,13.12481370387896]]]},"properties":{"region_id":"village_624899","name":"MADALAKOTE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

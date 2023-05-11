@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62766666597064,13.33160995424188],[76.61722584541887,13.34153673972028],[76.61603162763258,13.32698897541646],[76.62766666597064,13.33160995424188]]]},"properties":{"region_id":"village_610249","name":"MALAGONDANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

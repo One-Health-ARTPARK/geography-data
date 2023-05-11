@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35251645596516,16.23138953429793],[75.31315831293205,16.20657648081302],[75.31558324395954,16.19100019691295],[75.3296600076264,16.21065070643865],[75.34675818935659,16.21157610546477],[75.35251645596516,16.23138953429793]]]},"properties":{"region_id":"village_598601","name":"TIMMAPUR","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23427577030046,16.13050835982673],[76.23846537440382,16.16519298751043],[76.22809413280866,16.15666659741056],[76.23427577030046,16.13050835982673]]]},"properties":{"region_id":"village_598954","name":"ISLAMPUR","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

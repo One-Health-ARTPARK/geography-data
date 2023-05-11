@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34383729083564,13.27983145249018],[77.32433534034799,13.28623787587595],[77.33007732709612,13.27600076383262],[77.34383729083564,13.27983145249018]]]},"properties":{"region_id":"village_625186","name":"APPKARENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

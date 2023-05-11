@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09901813016837,15.35082798452181],[75.07977049065757,15.34506943018257],[75.08048067473176,15.3258416498279],[75.10000838087991,15.3268146172238],[75.09901813016837,15.35082798452181]]]},"properties":{"region_id":"village_602404","name":"RAYANAL","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

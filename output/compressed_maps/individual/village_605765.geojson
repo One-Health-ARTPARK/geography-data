@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23414549244232,14.12555256495637],[76.25821977722009,14.11487663974586],[76.26221718486732,14.12426688207379],[76.23414549244232,14.12555256495637]]]},"properties":{"region_id":"village_605765","name":"KONDAPURA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

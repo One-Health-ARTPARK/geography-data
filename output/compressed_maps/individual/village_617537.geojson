@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11051784893688,12.93549855987427],[75.12272248825644,12.95549443720124],[75.10317181745911,12.96196500724407],[75.09893308560603,12.9436944843793],[75.11051784893688,12.93549855987427]]]},"properties":{"region_id":"village_617537","name":"KUDAMBETTU","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

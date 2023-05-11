@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87834485993689,14.69063111601349],[74.8416448329488,14.70200348163979],[74.83288273230065,14.67540922568639],[74.86469762307136,14.65962622558027],[74.87834485993689,14.69063111601349]]]},"properties":{"region_id":"village_603151","name":"SADASHIVALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

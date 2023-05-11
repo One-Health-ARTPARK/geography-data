@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14899912229048,14.29680084536609],[75.14390946395625,14.31749786073302],[75.12784932764153,14.30049706493772],[75.14899912229048,14.29680084536609]]]},"properties":{"region_id":"village_607645","name":"N.SAGADDE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32099483947495,14.99282293221375],[75.28808324038816,14.99474455446689],[75.2942653790847,14.9802883714059],[75.3107479836179,14.97401064328239],[75.32099483947495,14.99282293221375]]]},"properties":{"region_id":"village_603981","name":"GUNDUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2788075431621,13.5549690883009],[77.25650073203543,13.55363101284438],[77.2702836547858,13.54672792971915],[77.2788075431621,13.5549690883009]]]},"properties":{"region_id":"village_611069","name":"BURUGANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

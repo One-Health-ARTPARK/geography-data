@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65439483824755,14.91302684017583],[74.63313254836457,14.89919761990866],[74.61062241959337,14.87010549358597],[74.62850461593534,14.82342571794815],[74.67576202212202,14.87502379284341],[74.65439483824755,14.91302684017583]]]},"properties":{"region_id":"village_602926","name":"ARBAIL","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

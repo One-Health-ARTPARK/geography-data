@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4025148589137,14.94777411275614],[75.40818912989087,14.96797837584335],[75.3905163261114,14.97689857183756],[75.38830210218339,14.95223839430259],[75.4025148589137,14.94777411275614]]]},"properties":{"region_id":"village_604022","name":"JALLAPUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

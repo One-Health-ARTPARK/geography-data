@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38513277227187,17.22409599045685],[77.38261131747373,17.24961422673305],[77.34495185062144,17.24197599634835],[77.37146702628185,17.2196445560162],[77.38513277227187,17.22409599045685]]]},"properties":{"region_id":"village_620481","name":"HABAL (T)","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

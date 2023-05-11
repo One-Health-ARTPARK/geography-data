@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79168654981312,14.32301326751764],[75.79388748539341,14.35130783110158],[75.7693035718476,14.34503842100759],[75.77477863468366,14.3250922389366],[75.79168654981312,14.32301326751764]]]},"properties":{"region_id":"village_606248","name":"HARALAHALLI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

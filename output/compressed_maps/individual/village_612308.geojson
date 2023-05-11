@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74347673798997,13.18373716731391],[76.75524998982067,13.18978604920615],[76.75336141078736,13.19437577623807],[76.74445480293994,13.18920836232274],[76.74347673798997,13.18373716731391]]]},"properties":{"region_id":"village_612308","name":"BANTARAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

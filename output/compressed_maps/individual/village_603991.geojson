@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32377993084322,14.90934841165967],[75.3071827611183,14.91883902965578],[75.3054338755746,14.896453891669],[75.32970653170766,14.89740337964452],[75.32377993084322,14.90934841165967]]]},"properties":{"region_id":"village_603991","name":"BARDUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

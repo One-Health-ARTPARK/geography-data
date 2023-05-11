@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16513482773432,14.06447894119444],[75.1518548474656,14.0683920904499],[75.15624081122962,14.05320393141249],[75.16513482773432,14.06447894119444]]]},"properties":{"region_id":"village_607918","name":"HEELAGODU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

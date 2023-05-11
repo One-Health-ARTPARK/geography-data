@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03711477173478,12.85550287290437],[75.00254653863485,12.8602638412383],[75.00488777313545,12.84093760149427],[75.01990268214585,12.83640696719949],[75.04126185198282,12.83939607766821],[75.03711477173478,12.85550287290437]]]},"properties":{"region_id":"village_617567","name":"SAJIPAMUDA","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69714788772554,13.63021582994442],[77.68815038065395,13.63214311513074],[77.68538702555153,13.61613211166897],[77.69571800299587,13.61444350400336],[77.69714788772554,13.63021582994442]]]},"properties":{"region_id":"village_623435","name":"RAMAPATNA","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82438757401246,13.5951976850586],[75.81378518384456,13.60074558201434],[75.80788259407854,13.58160567669411],[75.82097117716285,13.58168605618453],[75.82438757401246,13.5951976850586]]]},"properties":{"region_id":"village_609337","name":"SHANKARAGHATTA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

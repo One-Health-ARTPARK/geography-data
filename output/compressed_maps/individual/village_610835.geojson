@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20395872925005,13.69021657429647],[77.1870527055351,13.69229086462627],[77.19258432748994,13.6774573664886],[77.20395872925005,13.69021657429647]]]},"properties":{"region_id":"village_610835","name":"GIDDENAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

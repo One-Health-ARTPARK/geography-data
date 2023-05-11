@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75709180464146,14.12584088648699],[75.73802599631478,14.11364251569456],[75.76793232665115,14.1092788131093],[75.768427683987,14.12016927222478],[75.75709180464146,14.12584088648699]]]},"properties":{"region_id":"village_606873","name":"HUNSAGATTA","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

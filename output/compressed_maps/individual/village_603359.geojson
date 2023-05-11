@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.29057453928566,14.64946197097808],[74.28487166500604,14.64720816369504],[74.28644778707897,14.6441987732614],[74.29155226140603,14.64483224252723],[74.29057453928566,14.64946197097808]]]},"properties":{"region_id":"village_603359","name":"NADIBAG","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77007939178347,12.9060041615761],[76.76929068574634,12.92967892855354],[76.75062351300372,12.92126661124371],[76.77007939178347,12.9060041615761]]]},"properties":{"region_id":"village_613841","name":"BEGAMANGALA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

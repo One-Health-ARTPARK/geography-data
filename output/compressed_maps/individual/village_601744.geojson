@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1113657766104,15.19735388084148],[76.09499753510937,15.21950336683353],[76.0666879181578,15.19575424862386],[76.09052611413018,15.18270321743247],[76.1113657766104,15.19735388084148]]]},"properties":{"region_id":"village_601744","name":"NEERALGI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8134979693183,15.89118535171626],[74.80484656087246,15.91264809769492],[74.79585155267272,15.89713032096564],[74.8134979693183,15.89118535171626]]]},"properties":{"region_id":"village_598037","name":"SOMANATTI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

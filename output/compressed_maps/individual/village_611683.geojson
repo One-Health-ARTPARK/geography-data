@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90834714001464,13.45932742919827],[76.9065997190964,13.45127233070677],[76.91916268831766,13.45605029389159],[76.90834714001464,13.45932742919827]]]},"properties":{"region_id":"village_611683","name":"ANTHAPURA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.63980835506027,15.80538473303409],[74.63991027944569,15.79945638436669],[74.63400971081126,15.78943072549169],[74.64985673718532,15.79112309693872],[74.64716302394334,15.80470717670879],[74.63980835506027,15.80538473303409]]]},"properties":{"region_id":"village_597779","name":"BASSAPUR","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75790104264843,12.91762296929852],[75.74638866747583,12.91907738349833],[75.7477557260722,12.90555812470388],[75.75855734210138,12.90742090833949],[75.75790104264843,12.91762296929852]]]},"properties":{"region_id":"village_614900","name":"KESAGANAHALLI","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

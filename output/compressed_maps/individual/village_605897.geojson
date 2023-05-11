@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23528897949645,13.70713196115056],[76.21957125065933,13.71016217021542],[76.22101163804932,13.68317493059848],[76.24199438876911,13.69699373303709],[76.23528897949645,13.70713196115056]]]},"properties":{"region_id":"village_605897","name":"BAGASETTIHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

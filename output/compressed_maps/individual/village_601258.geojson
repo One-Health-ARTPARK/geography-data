@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89453277414518,15.63223155742724],[75.8869474671503,15.57859939171755],[75.91160539756625,15.56963251086593],[75.94245480379212,15.58638216559731],[75.94827581208169,15.62564942780179],[75.89453277414518,15.63223155742724]]]},"properties":{"region_id":"village_601258","name":"KARMUDI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

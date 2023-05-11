@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76120695211438,17.2687558776843],[76.7096406876918,17.26998140926401],[76.70760979435667,17.24194573778255],[76.75208621725405,17.23544484378679],[76.76120695211438,17.2687558776843]]]},"properties":{"region_id":"village_620294","name":"KADNI","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

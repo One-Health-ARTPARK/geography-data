@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.11488542506187,14.73180407904517],[75.0884103714012,14.71780387238999],[75.09191274736555,14.6936998286497],[75.11926947092081,14.70095727006726],[75.11488542506187,14.73180407904517]]]},"properties":{"region_id":"village_604117","name":"HIRUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

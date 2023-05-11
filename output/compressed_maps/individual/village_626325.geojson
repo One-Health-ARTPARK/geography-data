@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27971978500653,12.563400355642],[77.27279310282945,12.56396933648032],[77.26377360439191,12.55225869593265],[77.28426609405048,12.55233052105433],[77.27971978500653,12.563400355642]]]},"properties":{"region_id":"village_626325","name":"SINGARAJAPURA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

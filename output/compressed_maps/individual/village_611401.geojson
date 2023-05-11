@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20053900576194,13.26928637813198],[77.21964194571821,13.26284222493016],[77.22206719577407,13.28424737703259],[77.20722206616513,13.28186352868827],[77.20053900576194,13.26928637813198]]]},"properties":{"region_id":"village_611401","name":"NANDIHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

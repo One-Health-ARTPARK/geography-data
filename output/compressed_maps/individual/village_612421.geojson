@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78603588269156,13.06072399079767],[76.78424600792914,13.04389702939836],[76.79365801660904,13.04969782915074],[76.79513224179571,13.05814110003914],[76.78603588269156,13.06072399079767]]]},"properties":{"region_id":"village_612421","name":"BYTHARAHOSAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

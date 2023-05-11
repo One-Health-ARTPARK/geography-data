@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82038219459653,17.04423688346591],[76.81335741418906,17.00887963741958],[76.84693579284956,17.01612058711051],[76.82038219459653,17.04423688346591]]]},"properties":{"region_id":"village_620844","name":"KATTISANGAVI","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82121480492324,13.06579319361716],[77.79369801644627,13.06692475007872],[77.79526015703883,13.05764698127201],[77.8210890120277,13.0513638787509],[77.82121480492324,13.06579319361716]]]},"properties":{"region_id":"village_625705","name":"KANNURAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

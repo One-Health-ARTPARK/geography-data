@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86348486823552,14.21792425990108],[74.86044711383822,14.23793266189451],[74.83766565328568,14.22592335206059],[74.86348486823552,14.21792425990108]]]},"properties":{"region_id":"village_603673","name":"MUSAVALLI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

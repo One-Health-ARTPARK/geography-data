@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38344081053268,18.01615982062021],[77.35743203656092,18.01491876564327],[77.35996970992697,17.98560434536903],[77.3731029518474,17.97192817371564],[77.38344081053268,18.01615982062021]]]},"properties":{"region_id":"village_599951","name":"KOSAM","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

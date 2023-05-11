@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09024394217103,14.52605454652906],[75.08396362247537,14.54388006556121],[75.06640990637487,14.53179793351173],[75.08213193377449,14.51933516853731],[75.09024394217103,14.52605454652906]]]},"properties":{"region_id":"village_607454","name":"KEREHALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

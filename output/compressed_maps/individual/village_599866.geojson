@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14764128915274,18.14553273984487],[77.11077625495466,18.1466954692196],[77.13317574040495,18.11946139632611],[77.14764128915274,18.14553273984487]]]},"properties":{"region_id":"village_599866","name":"KAKNAL","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

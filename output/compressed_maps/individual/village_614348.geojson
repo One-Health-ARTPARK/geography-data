@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82802739487146,12.69975513266286],[76.82317788813275,12.70105296276094],[76.81901831859287,12.69634632122735],[76.82653171320518,12.69603267831918],[76.82802739487146,12.69975513266286]]]},"properties":{"region_id":"village_614348","name":"TIRUMALAPURA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

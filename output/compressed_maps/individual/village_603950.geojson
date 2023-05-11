@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22584439533016,14.94517142603334],[75.20639845082904,14.94653182347199],[75.21047752620721,14.92676401595963],[75.23312837654184,14.92717085040895],[75.22584439533016,14.94517142603334]]]},"properties":{"region_id":"village_603950","name":"BAAD","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

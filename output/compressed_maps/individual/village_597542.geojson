@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10280498439181,16.23793385647162],[75.05622272958225,16.23232221277568],[75.05657811749937,16.21832133650373],[75.0705688071118,16.21451915249672],[75.09121260144069,16.21604215034108],[75.10280498439181,16.23793385647162]]]},"properties":{"region_id":"village_597542","name":"KOUJALGI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

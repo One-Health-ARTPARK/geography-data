@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45177137994989,14.35098059856967],[76.43402917786277,14.34997482694119],[76.43218576353965,14.31763773280929],[76.45251585467828,14.32763160120992],[76.45177137994989,14.35098059856967]]]},"properties":{"region_id":"village_605509","name":"BAGENAHAL","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68340392789655,14.26443301604616],[74.70332624142064,14.30282539675942],[74.56743771580292,14.2984960254404],[74.58402019709384,14.24169121086467],[74.6328590962294,14.27312118637795],[74.68340392789655,14.26443301604616]]]},"properties":{"region_id":"village_603808","name":"MAHIME","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

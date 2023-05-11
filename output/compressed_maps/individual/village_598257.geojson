@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13904979067641,15.87954223169132],[75.12010466224247,15.90566975122326],[75.08759035448189,15.90624912565512],[75.09761171990263,15.88581014934862],[75.13060291764016,15.86554663946051],[75.13904979067641,15.87954223169132]]]},"properties":{"region_id":"village_598257","name":"TEGGIHAL","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

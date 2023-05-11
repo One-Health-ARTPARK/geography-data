@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74693665542964,13.5087708325316],[76.72479007722895,13.51411324849133],[76.7299498848546,13.48836175080071],[76.75299791989808,13.49416944905032],[76.74693665542964,13.5087708325316]]]},"properties":{"region_id":"village_611637","name":"MATHIKERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

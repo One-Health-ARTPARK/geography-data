@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83443436176785,17.27688089610044],[76.80621024113896,17.27607571925252],[76.80594474776773,17.25939167042307],[76.83004804175744,17.2641195506287],[76.83443436176785,17.27688089610044]]]},"properties":{"region_id":"village_620271","name":"NANDIKUR","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

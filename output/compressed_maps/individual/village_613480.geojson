@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53924122245279,12.71547218285462],[76.53487160934688,12.70667175507053],[76.54447126128004,12.70333580351788],[76.5470149395468,12.70879275119893],[76.53924122245279,12.71547218285462]]]},"properties":{"region_id":"village_613480","name":"SHETTANAYAKANKOPPALU","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

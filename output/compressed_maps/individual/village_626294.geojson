@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20427653757037,12.54519593849456],[77.19626789222279,12.54008585595974],[77.20385215858802,12.53484186123625],[77.20427653757037,12.54519593849456]]]},"properties":{"region_id":"village_626294","name":"KONDAPURA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

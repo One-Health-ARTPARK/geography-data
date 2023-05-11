@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50969948630573,14.9214458353625],[75.50053909366645,14.95004432054315],[75.49045315047678,14.93203050282951],[75.50969948630573,14.9214458353625]]]},"properties":{"region_id":"village_604026","name":"CHIKKAMARALIHALLI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

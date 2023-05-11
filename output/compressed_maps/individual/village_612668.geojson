@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91544988386318,12.90298254114751],[76.88824012448998,12.8939487678847],[76.89305950796455,12.87952637127343],[76.91974513512211,12.88139759235191],[76.91544988386318,12.90298254114751]]]},"properties":{"region_id":"village_612668","name":"BETTAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

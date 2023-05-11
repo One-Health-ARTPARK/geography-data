@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26117792503133,13.52310008285403],[76.24955797802522,13.5276271133543],[76.23292792646382,13.50730403694484],[76.26087470707901,13.51154742819799],[76.26117792503133,13.52310008285403]]]},"properties":{"region_id":"village_609585","name":"SHETTYHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24544772535019,13.65122821751697],[77.23677700822377,13.6380559843752],[77.25580528994328,13.6429044954184],[77.24544772535019,13.65122821751697]]]},"properties":{"region_id":"village_610861","name":"VEERANNANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

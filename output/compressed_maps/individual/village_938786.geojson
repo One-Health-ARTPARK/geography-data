@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91315362101552,12.86152404237312],[74.90528203366168,12.87455432817454],[74.8961366278433,12.87093953168681],[74.90245759960332,12.85825689636316],[74.91315362101552,12.86152404237312]]]},"properties":{"region_id":"village_938786","name":"KANNURU","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

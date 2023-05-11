@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81105110128019,13.53366891540065],[77.79824413865211,13.53290192078583],[77.78544382019749,13.52241856860882],[77.78953942371442,13.51189492165826],[77.81787569067424,13.51099191806461],[77.81105110128019,13.53366891540065]]]},"properties":{"region_id":"village_623528","name":"GANGREKALUVE","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

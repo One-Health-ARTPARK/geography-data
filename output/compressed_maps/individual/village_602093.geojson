@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54066976146233,15.23754790990263],[75.56261388454926,15.23576966888543],[75.55374367130555,15.24825894601391],[75.54066976146233,15.23754790990263]]]},"properties":{"region_id":"village_602093","name":"KHANAPUR","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

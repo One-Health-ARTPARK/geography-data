@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46759015671181,12.96414076411708],[77.46019444148008,12.97093046411471],[77.44733277616005,12.96055931706533],[77.46394004983883,12.95548962199686],[77.46759015671181,12.96414076411708]]]},"properties":{"region_id":"village_612824","name":"KANNAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

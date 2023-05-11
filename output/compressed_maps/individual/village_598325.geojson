@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33194516921562,16.0561304707455],[75.30917529238742,16.04478895709121],[75.30105795329018,16.03140045568268],[75.33176147325375,16.02099044548956],[75.33194516921562,16.0561304707455]]]},"properties":{"region_id":"village_598325","name":"SOPPADLA","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

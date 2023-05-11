@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01712623796894,15.38488261854572],[75.95995500556035,15.39818671256312],[75.95659238221953,15.35580543684178],[76.01712623796894,15.38488261854572]]]},"properties":{"region_id":"village_601370","name":"TADKAL","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

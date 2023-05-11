@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21680132365117,16.75136836734984],[77.18216236059806,16.76087242283118],[77.17458067488323,16.73585568073862],[77.20668420509784,16.73756959551955],[77.21680132365117,16.75136836734984]]]},"properties":{"region_id":"village_621306","name":"WORKENHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

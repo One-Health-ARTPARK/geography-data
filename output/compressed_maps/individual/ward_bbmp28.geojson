@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6384450000775,13.00565300008649],[77.63930999975919,13.01396400004038],[77.63248900005198,13.0129320003307],[77.63260600008219,13.00487099965345],[77.6384450000775,13.00565300008649]]]},"properties":{"region_id":"ward_bbmp28","name":"WARD NO. 28 (KAMMANAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

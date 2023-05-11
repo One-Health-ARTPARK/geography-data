@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.36675161490481,16.45858326075813],[74.34873165202222,16.45550013005025],[74.34266452385728,16.4492012334713],[74.36149144866422,16.42261494557001],[74.37147034652116,16.43813651232349],[74.36675161490481,16.45858326075813]]]},"properties":{"region_id":"village_597132","name":"YAMAGARNI","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54195814300495,15.91917121704095],[76.5353944987187,15.90613531255858],[76.55503967715924,15.89626994826994],[76.55634789414525,15.91154973474329],[76.54195814300495,15.91917121704095]]]},"properties":{"region_id":"village_600531","name":"BAGGALGUDDA","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

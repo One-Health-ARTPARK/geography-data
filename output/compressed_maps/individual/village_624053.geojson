@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94391450202141,13.59322133170577],[77.93230982891164,13.58666847195077],[77.94438876841215,13.58095192949223],[77.94391450202141,13.59322133170577]]]},"properties":{"region_id":"village_624053","name":"ATAGOLLAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

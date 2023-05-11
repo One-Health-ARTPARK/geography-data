@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81064830124521,12.59812480399591],[76.80315238521469,12.60075241892179],[76.79646985206048,12.58837541477023],[76.81138140570822,12.58517492510372],[76.81064830124521,12.59812480399591]]]},"properties":{"region_id":"village_614432","name":"DEVARAYAPATNA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81356848461516,13.31559434854169],[77.81745439564601,13.31032863663684],[77.82215380157876,13.31281519343481],[77.82380535888022,13.31764373983278],[77.81356848461516,13.31559434854169]]]},"properties":{"region_id":"village_625342","name":"SHETTAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

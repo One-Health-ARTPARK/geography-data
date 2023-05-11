@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66142994464737,16.33843318168788],[74.65651539612169,16.35273673000438],[74.63754245758983,16.35709744045137],[74.64420962971285,16.33206073399652],[74.66142994464737,16.33843318168788]]]},"properties":{"region_id":"village_597235","name":"DONAWAD","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

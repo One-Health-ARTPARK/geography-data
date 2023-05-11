@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26682774612779,13.56194158324769],[77.26831407641598,13.57291053630062],[77.25800357204088,13.5693796267866],[77.25644528747453,13.56034808496922],[77.26682774612779,13.56194158324769]]]},"properties":{"region_id":"village_611058","name":"KURUDUGONAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

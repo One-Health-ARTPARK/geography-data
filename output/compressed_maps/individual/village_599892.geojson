@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19650580898845,18.07804926612312],[77.18268652260313,18.0826523189084],[77.1784619482466,18.06253455669513],[77.20267570181687,18.06669500316465],[77.19650580898845,18.07804926612312]]]},"properties":{"region_id":"village_599892","name":"SIDDAPUR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

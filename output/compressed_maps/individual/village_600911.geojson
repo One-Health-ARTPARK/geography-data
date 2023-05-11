@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6991219221089,15.99180215205623],[76.70904976926127,16.00104029068708],[76.69406692879295,16.01348705347882],[76.68923342337737,15.99510656536011],[76.6991219221089,15.99180215205623]]]},"properties":{"region_id":"village_600911","name":"NAGALDINNI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

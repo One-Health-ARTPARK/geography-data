@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.04140280488693,13.76817126171449],[78.02861593962034,13.77299957112984],[78.01795371595522,13.74988621887712],[78.03925711312988,13.7524497921869],[78.04140280488693,13.76817126171449]]]},"properties":{"region_id":"village_623965","name":"RACHAVARIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

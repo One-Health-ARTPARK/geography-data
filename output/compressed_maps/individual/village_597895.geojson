@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.58074639057975,15.60396166615898],[74.54624659587039,15.60391704377322],[74.55085519683031,15.57863761074024],[74.58074639057975,15.60396166615898]]]},"properties":{"region_id":"village_597895","name":"HEBBAL","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69698639315858,13.64774397449243],[77.68917945578505,13.63789348480176],[77.70159591145026,13.63580900429481],[77.69698639315858,13.64774397449243]]]},"properties":{"region_id":"village_623726","name":"ULLODU","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

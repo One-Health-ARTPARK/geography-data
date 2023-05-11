@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32881173830681,12.47395584060924],[77.31663026546096,12.47931452202482],[77.31647351710764,12.4635389620804],[77.32741405826866,12.46122624782767],[77.32881173830681,12.47395584060924]]]},"properties":{"region_id":"village_626517","name":"DALIMBA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

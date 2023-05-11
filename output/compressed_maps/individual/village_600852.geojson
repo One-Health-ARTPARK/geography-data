@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45538462716986,16.02212917666222],[77.46727190422874,16.04417006356766],[77.44342189100139,16.03926223219085],[77.45538462716986,16.02212917666222]]]},"properties":{"region_id":"village_600852","name":"MIDGALDINNI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90857229836817,12.99062191620069],[77.89498779837294,12.99261388158515],[77.89293633443785,12.98265667857913],[77.90615234803103,12.98589357810975],[77.90857229836817,12.99062191620069]]]},"properties":{"region_id":"village_622175","name":"HURALAGERE","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

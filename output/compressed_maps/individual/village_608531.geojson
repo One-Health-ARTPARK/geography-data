@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76110761112967,14.03710911444002],[75.74159991459484,14.04122991316539],[75.745349265629,14.02525575125762],[75.76110761112967,14.03710911444002]]]},"properties":{"region_id":"village_608531","name":"MYDOLALU","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29069753257097,17.97105631113519],[77.27724833373408,17.94072964420706],[77.29433762056803,17.93888898614053],[77.3012999285467,17.96294819075068],[77.29069753257097,17.97105631113519]]]},"properties":{"region_id":"village_599955","name":"NELGI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39908581531502,15.78708185421566],[75.37055235952823,15.79995458633099],[75.3716544036603,15.77557405773017],[75.39908581531502,15.78708185421566]]]},"properties":{"region_id":"village_601865","name":"ARISHINAGODI","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

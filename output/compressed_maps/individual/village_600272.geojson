@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16038307423976,17.83279813862744],[77.12545051513807,17.83371323729051],[77.13269745674842,17.82158491659321],[77.15846499193047,17.8121686989167],[77.16038307423976,17.83279813862744]]]},"properties":{"region_id":"village_600272","name":"CHINKERA","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

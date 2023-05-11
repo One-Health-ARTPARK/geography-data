@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82561774110674,13.76005039849882],[76.79101393421209,13.75596709796059],[76.81083017159592,13.73609207905826],[76.82561774110674,13.76005039849882]]]},"properties":{"region_id":"village_610360","name":"DEVARAPURA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

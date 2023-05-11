@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01995271518257,12.94986328668023],[76.01148384338164,12.95534694500754],[76.00816944315667,12.94645204943401],[76.01995271518257,12.94986328668023]]]},"properties":{"region_id":"village_616418","name":"RAYASAMUDRA","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11574800239333,13.09585072893786],[76.11679128848625,13.10743182491208],[76.10910196010454,13.10836555230754],[76.10428899962545,13.09713581685096],[76.11574800239333,13.09585072893786]]]},"properties":{"region_id":"village_615899","name":"HOMMAGODNAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

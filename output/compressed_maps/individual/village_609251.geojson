@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07470269477966,13.86365870256042],[76.06180798711164,13.86124044356611],[76.0575743746688,13.84473031112754],[76.07564599161051,13.8473249363828],[76.07470269477966,13.86365870256042]]]},"properties":{"region_id":"village_609251","name":"GIJIKATTE","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

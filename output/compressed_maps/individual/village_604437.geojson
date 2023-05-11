@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53770901805856,14.43682557822452],[75.52899763283159,14.43629033291314],[75.52718420674462,14.42728100412714],[75.53920173806947,14.42714959313106],[75.53770901805856,14.43682557822452]]]},"properties":{"region_id":"village_604437","name":"SANNAGUBBI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

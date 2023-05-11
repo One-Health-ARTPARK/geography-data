@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58172814657242,16.14553266177138],[76.56162836275568,16.13654175348547],[76.56544730130598,16.10573335330979],[76.57716319467431,16.1037663464336],[76.58172814657242,16.14553266177138]]]},"properties":{"region_id":"village_600435","name":"KUPPIGUDDA","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

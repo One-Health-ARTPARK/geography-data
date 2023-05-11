@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94604705382606,12.75680888526125],[75.93794758429735,12.75023301324523],[75.95152291962157,12.7428376392345],[75.95067550313543,12.75488250498526],[75.94604705382606,12.75680888526125]]]},"properties":{"region_id":"village_616497","name":"KELAGALALE","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

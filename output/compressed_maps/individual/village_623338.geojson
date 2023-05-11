@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60342117929689,13.58760799357271],[77.61468210866967,13.58383242364144],[77.6150548482495,13.59404379048854],[77.60509823401075,13.59639718672141],[77.60342117929689,13.58760799357271]]]},"properties":{"region_id":"village_623338","name":"KADIRADEVARAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

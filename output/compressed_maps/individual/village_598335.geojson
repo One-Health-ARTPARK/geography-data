@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34636675496186,16.03546875826336],[75.33695612322795,16.03421140559896],[75.31621457561315,15.98105444874323],[75.36071590834155,15.97654028604752],[75.34636675496186,16.03546875826336]]]},"properties":{"region_id":"village_598335","name":"MUDENUR","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

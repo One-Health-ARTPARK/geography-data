@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60173260238147,16.23988911923207],[76.552238291145,16.25384962103189],[76.54359825836904,16.22399004974254],[76.6020939847002,16.21495256001956],[76.60173260238147,16.23988911923207]]]},"properties":{"region_id":"village_600467","name":"YARADONA","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

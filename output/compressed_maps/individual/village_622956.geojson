@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.42187384984804,13.11164474813682],[78.40330084971536,13.11588595101758],[78.40490860162348,13.103338922061],[78.42187384984804,13.11164474813682]]]},"properties":{"region_id":"village_622956","name":"MELAGANI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

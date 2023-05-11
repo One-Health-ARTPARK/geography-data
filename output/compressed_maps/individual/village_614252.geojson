@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82361090536911,12.45085844826158],[76.82750898638771,12.45739992431091],[76.82594978396922,12.46757405286435],[76.81829243839977,12.46271218034749],[76.81870705289971,12.4526578413576],[76.82361090536911,12.45085844826158]]]},"properties":{"region_id":"village_614252","name":"MOLLENAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

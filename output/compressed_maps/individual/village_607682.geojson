@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29561033634266,14.47261611673353],[75.28692712189638,14.48772542819842],[75.27123821682221,14.46822730833076],[75.2815475092428,14.46075296218],[75.29561033634266,14.47261611673353]]]},"properties":{"region_id":"village_607682","name":"SHEERIHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

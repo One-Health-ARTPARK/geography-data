@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22821028597727,14.5611403251106],[75.23087814310331,14.57905188301893],[75.22534675345938,14.58519860546562],[75.21142598326946,14.57550614969083],[75.21259598547465,14.56125248830752],[75.22821028597727,14.5611403251106]]]},"properties":{"region_id":"village_607435","name":"HIRECHOWTI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

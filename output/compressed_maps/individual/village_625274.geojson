@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6472500659642,13.28043063075817],[77.63403532364467,13.28584542737561],[77.63054856601079,13.26649854055447],[77.63838435868352,13.26398466702522],[77.6472500659642,13.28043063075817]]]},"properties":{"region_id":"village_625274","name":"VISHWANATHAPURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

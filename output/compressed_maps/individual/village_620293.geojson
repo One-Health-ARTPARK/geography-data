@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75315572779688,17.27927428500403],[76.75245580213299,17.32226611706814],[76.70314899081318,17.31539156485569],[76.715578675336,17.27585363675275],[76.75315572779688,17.27927428500403]]]},"properties":{"region_id":"village_620293","name":"HADGILHARUTI","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

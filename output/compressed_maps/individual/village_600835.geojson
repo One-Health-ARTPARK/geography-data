@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42777476742695,16.12042638915229],[77.40324361132826,16.12780141752815],[77.40072582830912,16.10194183280193],[77.42507401764591,16.1030866902351],[77.42777476742695,16.12042638915229]]]},"properties":{"region_id":"village_600835","name":"TUNTAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

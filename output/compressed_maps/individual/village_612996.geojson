@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42377840127365,12.94760154149587],[77.41632831298759,12.94836115645474],[77.40934443208478,12.94246794703814],[77.41368242574666,12.93677536326985],[77.42357893025113,12.94111429316183],[77.42377840127365,12.94760154149587]]]},"properties":{"region_id":"village_612996","name":"MUDDAIAHNAPALYA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

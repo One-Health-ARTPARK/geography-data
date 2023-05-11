@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07068438882061,12.70334978046037],[76.07774917176299,12.72039563592432],[76.06941485862544,12.71962298543519],[76.07068438882061,12.70334978046037]]]},"properties":{"region_id":"village_616630","name":"SOMANAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

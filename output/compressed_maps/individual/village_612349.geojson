@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66682891521947,13.09564908786496],[76.64019162811492,13.0942220988737],[76.642887568354,13.08703476605697],[76.66407713925149,13.08633018489778],[76.66682891521947,13.09564908786496]]]},"properties":{"region_id":"village_612349","name":"BADAGARAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

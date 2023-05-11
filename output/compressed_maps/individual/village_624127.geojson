@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89897352685212,13.473333988183],[77.88495420164506,13.47958659187253],[77.88380192059917,13.46261800195049],[77.89897352685212,13.473333988183]]]},"properties":{"region_id":"village_624127","name":"KANNAPPANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

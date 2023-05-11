@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49879947398571,13.19212963207695],[76.47545953227296,13.18826180194372],[76.4956260769156,13.17097029612667],[76.49879947398571,13.19212963207695]]]},"properties":{"region_id":"village_612161","name":"MATTIGHATTA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

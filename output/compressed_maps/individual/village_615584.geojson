@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22316215936698,13.41944632841082],[76.21218939513358,13.40186554707826],[76.22737950359159,13.39686425375122],[76.2368990972343,13.41328831976756],[76.22316215936698,13.41944632841082]]]},"properties":{"region_id":"village_615584","name":"KURUVANKA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

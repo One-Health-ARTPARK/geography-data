@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68018310660032,15.72209368554178],[76.63868874893035,15.70975794117947],[76.6666242757603,15.68631513357472],[76.68018310660032,15.72209368554178]]]},"properties":{"region_id":"village_601079","name":"GANDHINAGAR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

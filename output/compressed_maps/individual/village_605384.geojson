@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91314943683801,14.2847485341098],[76.9063651462478,14.31287119187],[76.88571877888849,14.30323905866217],[76.88425937996492,14.28584114226064],[76.91314943683801,14.2847485341098]]]},"properties":{"region_id":"village_605384","name":"KORLAKUNTE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

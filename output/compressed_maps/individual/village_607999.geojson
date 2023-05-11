@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25288815476067,13.94048086837137],[75.23493418817517,13.9454883214675],[75.22978271093741,13.92907652505403],[75.2506005924008,13.92567339005024],[75.25288815476067,13.94048086837137]]]},"properties":{"region_id":"village_607999","name":"JAMBALLI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

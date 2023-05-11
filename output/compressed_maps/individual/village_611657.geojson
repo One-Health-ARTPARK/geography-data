@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84783869281783,13.44920845929032],[76.83076890160956,13.451160180189],[76.83130391992749,13.43915907972643],[76.84439460299231,13.43532099440399],[76.84783869281783,13.44920845929032]]]},"properties":{"region_id":"village_611657","name":"HOSAKERE","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24461211388692,18.0001548517651],[77.22130998481154,17.99919718968901],[77.22390562619987,17.98615306166719],[77.24200974450783,17.9812262815252],[77.24461211388692,18.0001548517651]]]},"properties":{"region_id":"village_599923","name":"CHIKALCHANDA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

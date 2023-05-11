@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16766755081494,16.60405893345376],[77.18094209314928,16.61982135088477],[77.16513339670668,16.63398861723726],[77.14725344567194,16.6181171289456],[77.16766755081494,16.60405893345376]]]},"properties":{"region_id":"village_621197","name":"KUMNOOR","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

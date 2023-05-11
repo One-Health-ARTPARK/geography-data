@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90928930324175,12.72775560808581],[75.90271230438321,12.73180497824117],[75.89824962854834,12.72708688347862],[75.90361129296272,12.72066253658062],[75.90928930324175,12.72775560808581]]]},"properties":{"region_id":"village_617883","name":"HULSE","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

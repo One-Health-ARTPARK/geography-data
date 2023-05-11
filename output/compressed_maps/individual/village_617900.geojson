@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8855105329339,12.66519415014755],[75.87418597240277,12.66370420196403],[75.88149885021089,12.65554378586044],[75.89230089351592,12.65660931644992],[75.8855105329339,12.66519415014755]]]},"properties":{"region_id":"village_617900","name":"GOWDALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

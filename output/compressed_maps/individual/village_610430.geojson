@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77807563977085,13.64599391686918],[76.7801615477852,13.6668369037093],[76.75282516699968,13.65769889595854],[76.75822119527295,13.63764396617404],[76.77807563977085,13.64599391686918]]]},"properties":{"region_id":"village_610430","name":"BALAPURA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

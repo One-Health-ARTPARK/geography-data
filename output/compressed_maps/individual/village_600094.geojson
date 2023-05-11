@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.574460066282,18.17448413807524],[77.54514879205634,18.15837017757618],[77.5532816855096,18.12801798537532],[77.5974245675259,18.12211764356549],[77.574460066282,18.17448413807524]]]},"properties":{"region_id":"village_600094","name":"CHIKLI JANWADA","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

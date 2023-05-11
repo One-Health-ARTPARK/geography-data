@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62028065734982,13.65177825382455],[77.60934042910186,13.65391230042266],[77.61216603514053,13.64149985009552],[77.62028065734982,13.65177825382455]]]},"properties":{"region_id":"village_623321","name":"VADDENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

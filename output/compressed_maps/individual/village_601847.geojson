@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3909656511194,15.34290570776737],[76.3896858628001,15.37067903932352],[76.37510603157071,15.36382481680232],[76.37479592576422,15.3416776166717],[76.3909656511194,15.34290570776737]]]},"properties":{"region_id":"village_601847","name":"BANDIHARLAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37461939870714,12.86495610917904],[76.37220557479624,12.87471856612198],[76.34927062167196,12.8690352888116],[76.36431022053601,12.85308097060197],[76.37461939870714,12.86495610917904]]]},"properties":{"region_id":"village_617184","name":"GULLAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

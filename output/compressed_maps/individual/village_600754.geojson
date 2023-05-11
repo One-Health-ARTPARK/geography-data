@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49807726201546,16.36671391659489],[77.4789492617541,16.33745324313876],[77.49840716293335,16.31716828593241],[77.51841661629336,16.33731314833462],[77.49807726201546,16.36671391659489]]]},"properties":{"region_id":"village_600754","name":"DONGARAMPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

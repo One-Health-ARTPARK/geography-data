@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87202401036387,13.26765095443305],[76.86798123509004,13.27575835321109],[76.84787879588355,13.27807499913541],[76.8499446248036,13.26834591499353],[76.87202401036387,13.26765095443305]]]},"properties":{"region_id":"village_611879","name":"THOGRIGHATTA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

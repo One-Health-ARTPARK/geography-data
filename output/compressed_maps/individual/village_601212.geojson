@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8868810695316,15.68412236347563],[76.86030706922614,15.69709923148353],[76.86424997657988,15.66797113671992],[76.8868810695316,15.68412236347563]]]},"properties":{"region_id":"village_601212","name":"KENGAL","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

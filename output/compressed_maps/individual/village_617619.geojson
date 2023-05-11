@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13922304177918,13.01386122604571],[75.12949215894398,13.05695924042296],[75.10724467465226,13.04192439548227],[75.13922304177918,13.01386122604571]]]},"properties":{"region_id":"village_617619","name":"KARIMANELU","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

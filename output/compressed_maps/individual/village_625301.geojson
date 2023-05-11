@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63782174507156,13.20484522848009],[77.63893773966036,13.2141666514709],[77.63261884871838,13.21530319833702],[77.63247117957818,13.20487247700558],[77.63782174507156,13.20484522848009]]]},"properties":{"region_id":"village_625301","name":"ILATHORE","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

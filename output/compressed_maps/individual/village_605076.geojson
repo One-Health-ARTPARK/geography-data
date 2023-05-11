@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41574798047556,14.88984111107183],[76.3951811595149,14.87289911240246],[76.44036348331336,14.86199648126107],[76.45778483076946,14.8998419621399],[76.41574798047556,14.88984111107183]]]},"properties":{"region_id":"village_605076","name":"AMMANAKERI","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

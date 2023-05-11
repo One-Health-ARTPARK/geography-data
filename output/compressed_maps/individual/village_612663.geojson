@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98051713798547,12.89693158159221],[76.97633837577075,12.90811186733527],[76.9641719196768,12.9059569569163],[76.96240121529296,12.89452561434113],[76.98051713798547,12.89693158159221]]]},"properties":{"region_id":"village_612663","name":"KORATI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

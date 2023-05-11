@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30436379566207,13.46376545035782],[77.28486606423796,13.46378193788996],[77.28815311013614,13.4529672476525],[77.30436379566207,13.46376545035782]]]},"properties":{"region_id":"village_611168","name":"VEERAPURA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

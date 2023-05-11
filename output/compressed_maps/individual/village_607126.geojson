@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00273308753123,13.86077612748052],[75.98635866415346,13.86463419918701],[75.97512392208787,13.85227983849165],[75.98840134420756,13.84782075416569],[76.00273308753123,13.86077612748052]]]},"properties":{"region_id":"village_607126","name":"MASANIKERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

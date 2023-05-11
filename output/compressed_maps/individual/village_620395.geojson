@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42080411261334,17.43546692142875],[77.39845205335027,17.43169771595162],[77.3947121626485,17.40768438595603],[77.41768525750683,17.40503273691019],[77.42080411261334,17.43546692142875]]]},"properties":{"region_id":"village_620395","name":"ANWAR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

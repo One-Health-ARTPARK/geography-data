@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35657509552702,13.27297270192222],[76.3388104766274,13.27603901934247],[76.34057019312779,13.26278131973379],[76.35657509552702,13.27297270192222]]]},"properties":{"region_id":"village_615752","name":"SALUPARAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

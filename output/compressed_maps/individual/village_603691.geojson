@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.91756742976521,14.43035484699421],[74.87969545625351,14.42925140180228],[74.89562878105053,14.40946126096546],[74.91756742976521,14.43035484699421]]]},"properties":{"region_id":"village_603691","name":"NIDGOD","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

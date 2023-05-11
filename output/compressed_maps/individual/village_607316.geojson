@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95182642546352,14.06869056859555],[74.99062509226037,14.05489644348208],[74.98576152929397,14.08064947568006],[74.95182642546352,14.06869056859555]]]},"properties":{"region_id":"village_607316","name":"MATTIKOPPA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

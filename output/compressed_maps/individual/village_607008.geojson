@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90565268032766,14.11308709725948],[75.89842021664188,14.11357755573557],[75.88897245187567,14.09700562816403],[75.90475288878898,14.10020754385453],[75.90565268032766,14.11308709725948]]]},"properties":{"region_id":"village_607008","name":"ITTIGE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

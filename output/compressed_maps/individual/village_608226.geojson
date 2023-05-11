@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23579473932772,13.66186232739769],[75.21124530636176,13.65770559303204],[75.22765340912845,13.62950476374445],[75.24247597493489,13.64397509219053],[75.23579473932772,13.66186232739769]]]},"properties":{"region_id":"village_608226","name":"HUNASAVALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

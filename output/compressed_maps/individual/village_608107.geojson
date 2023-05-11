@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29458016696583,13.80914050231627],[75.2815741812449,13.82179513125972],[75.27594176152812,13.7988505021202],[75.29458016696583,13.80914050231627]]]},"properties":{"region_id":"village_608107","name":"KITTANDUR","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

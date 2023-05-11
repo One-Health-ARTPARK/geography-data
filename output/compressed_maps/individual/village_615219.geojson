@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91661733800171,13.21663357993084],[75.90187165237508,13.2212629016543],[75.90012670262205,13.20614929099679],[75.91173736158211,13.20556028278598],[75.91661733800171,13.21663357993084]]]},"properties":{"region_id":"village_615219","name":"DODDABYADIGERE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

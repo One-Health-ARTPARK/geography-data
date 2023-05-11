@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0256857409869,14.60539886981353],[75.04069522134586,14.59730669861816],[75.0420763433426,14.61219869814345],[75.0256857409869,14.60539886981353]]]},"properties":{"region_id":"village_607374","name":"KAMARURU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

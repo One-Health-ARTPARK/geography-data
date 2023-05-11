@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.72816819015532,14.13661508058197],[75.70185955494912,14.11318462593927],[75.73774298279224,14.11035061193627],[75.72816819015532,14.13661508058197]]]},"properties":{"region_id":"village_606867","name":"HOSAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

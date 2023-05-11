@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95333378136995,15.12182468009402],[74.93821671969924,15.11046814789791],[74.95196221033206,15.10196868923327],[74.95333378136995,15.12182468009402]]]},"properties":{"region_id":"village_602485","name":"SINGANAHALLI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

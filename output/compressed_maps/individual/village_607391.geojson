@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08392696817178,14.61373314944582],[75.09111978313669,14.59203468320488],[75.11481362062997,14.60136728968579],[75.10325125580684,14.61337461799635],[75.08392696817178,14.61373314944582]]]},"properties":{"region_id":"village_607391","name":"TELAGADDE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

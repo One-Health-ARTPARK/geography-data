@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98601512131857,12.50886724680742],[75.98400535456419,12.51973483784623],[75.97404008574247,12.51935731244569],[75.97424798297973,12.50028915622502],[75.98601512131857,12.50886724680742]]]},"properties":{"region_id":"village_618120","name":"DODDAKAMARAVALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

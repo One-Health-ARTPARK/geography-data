@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58514826461692,14.18791535537578],[75.54701168045891,14.18239096441452],[75.56309968499947,14.16326339048145],[75.58719570673684,14.17680904016578],[75.58514826461692,14.18791535537578]]]},"properties":{"region_id":"village_606763","name":"ARUNDI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

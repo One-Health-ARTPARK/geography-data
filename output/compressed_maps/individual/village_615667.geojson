@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40774372123798,13.45968508558432],[76.39073153918999,13.46387990738472],[76.37849447848491,13.44034150865753],[76.40396893282,13.43060202490559],[76.40774372123798,13.45968508558432]]]},"properties":{"region_id":"village_615667","name":"SHASHIVALA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

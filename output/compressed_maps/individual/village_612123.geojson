@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39860083378417,13.22056911475742],[76.38274809895566,13.22621662243716],[76.36952338739901,13.21263383769177],[76.3855689639765,13.19819324063134],[76.39860083378417,13.22056911475742]]]},"properties":{"region_id":"village_612123","name":"SHIVARA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

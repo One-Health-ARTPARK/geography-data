@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54385999983394,12.9640449997483],[77.53925700006066,12.95798399997114],[77.54168499985266,12.95297100018005],[77.54842600009631,12.95659799974075],[77.54385999983394,12.9640449997483]]]},"properties":{"region_id":"ward_bbmp134","name":"WARD NO.134 (BAPUJI NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

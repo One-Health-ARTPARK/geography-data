@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92428356808801,12.71527093401127],[76.91590384707415,12.71466603338182],[76.9212831263745,12.69155258774413],[76.93397383295898,12.70858138668868],[76.92428356808801,12.71527093401127]]]},"properties":{"region_id":"village_614333","name":"RAYASHETTIPURA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

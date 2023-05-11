@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17406289083395,14.80026460671351],[75.15818460819555,14.81057106691001],[75.1458421704826,14.79558381513156],[75.16418795695107,14.78307527891146],[75.17406289083395,14.80026460671351]]]},"properties":{"region_id":"village_604091","name":"SAVASGI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8015401982067,12.75750923673347],[75.78731290720884,12.74973516191702],[75.79667740946631,12.73895459386839],[75.8015401982067,12.75750923673347]]]},"properties":{"region_id":"village_615031","name":"KARAGOOR","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

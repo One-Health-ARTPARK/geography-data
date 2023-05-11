@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90372289004263,14.88393668585147],[75.85144237032529,14.89615588268811],[75.84844262938408,14.88466656142909],[75.88695773122781,14.86840061828953],[75.90372289004263,14.88393668585147]]]},"properties":{"region_id":"village_604627","name":"THAMALAPURA","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

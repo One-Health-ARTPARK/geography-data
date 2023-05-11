@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.867717552011,12.7479432452289],[75.85299039127756,12.75409465603632],[75.85364881761365,12.74138135814134],[75.867717552011,12.7479432452289]]]},"properties":{"region_id":"village_938980","name":"DANDALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

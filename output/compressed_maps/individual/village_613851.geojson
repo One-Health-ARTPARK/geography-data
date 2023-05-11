@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71501728226431,12.90469924660693],[76.70800354658553,12.90287287796156],[76.70355027309922,12.89472579614706],[76.70826275395594,12.89013194157682],[76.71501728226431,12.90469924660693]]]},"properties":{"region_id":"village_613851","name":"NARAGANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

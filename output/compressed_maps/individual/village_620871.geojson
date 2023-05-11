@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77210389330529,16.88368454113066],[76.75235956670453,16.87786194418859],[76.75897463861418,16.84534606507971],[76.79903871384002,16.87484578618449],[76.77210389330529,16.88368454113066]]]},"properties":{"region_id":"village_620871","name":"MUDBAL (B)","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

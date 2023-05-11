@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08050271090553,12.50732160947534],[77.0604433874584,12.50936499378658],[77.06653664990164,12.48672335744402],[77.08808306866278,12.49227252490214],[77.08050271090553,12.50732160947534]]]},"properties":{"region_id":"village_614625","name":"KYATHAGHATTA","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

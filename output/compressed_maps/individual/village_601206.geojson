@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84033390233375,15.71779976852043],[76.8318018181736,15.73308985782464],[76.81245462635843,15.73501008615339],[76.81032629430145,15.72068555983848],[76.84033390233375,15.71779976852043]]]},"properties":{"region_id":"village_601206","name":"BUDIWAL","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

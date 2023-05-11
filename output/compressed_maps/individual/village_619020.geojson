@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3566053371737,12.01456933995079],[76.34236166455895,12.0291745179926],[76.33671543970215,12.01362226598578],[76.3566053371737,12.01456933995079]]]},"properties":{"region_id":"village_619020","name":"ELAMATTURU","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

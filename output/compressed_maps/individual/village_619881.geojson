@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43785715298296,11.78137998423311],[77.46697682968733,11.84996448990404],[77.43100547814213,11.84095105516994],[77.43785715298296,11.78137998423311]]]},"properties":{"region_id":"village_619881","name":"HOOGYA","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

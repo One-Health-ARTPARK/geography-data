@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7630771902176,15.05278676839509],[75.74894813326054,15.02016190509656],[75.79965545813472,15.01376514438634],[75.80195570864454,15.04456258945218],[75.7630771902176,15.05278676839509]]]},"properties":{"region_id":"village_602192","name":"BIDARAHALLI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

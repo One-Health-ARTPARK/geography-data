@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88195851168162,12.3299595187976],[76.87302410553369,12.32486496299223],[76.87583143604455,12.31247146449045],[76.88457414242075,12.31764742060628],[76.88195851168162,12.3299595187976]]]},"properties":{"region_id":"village_619334","name":"ATHAHALLI","parent":"subdistrict_5575","parent_name":"TIRUMAKUDAL - NARSIPUR"}}
+]}

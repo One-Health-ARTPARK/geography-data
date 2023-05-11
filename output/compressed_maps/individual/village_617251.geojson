@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44086911752828,13.02321455741254],[76.42686771383356,13.02758350184152],[76.4268469400187,13.01462304209728],[76.43781528282481,13.0140450878492],[76.44086911752828,13.02321455741254]]]},"properties":{"region_id":"village_617251","name":"BHOOVANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

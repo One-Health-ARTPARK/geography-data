@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98555835100241,17.71197202058315],[76.96418266393314,17.71996411224272],[76.94913968758058,17.69136205845788],[76.97591806116306,17.68027280572218],[76.98555835100241,17.71197202058315]]]},"properties":{"region_id":"village_599822","name":"HIRANAGAON","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

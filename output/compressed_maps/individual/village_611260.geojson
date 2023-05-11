@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03183757936952,13.44773194715492],[77.0250440293459,13.45658614681224],[77.01988502158721,13.44684103582632],[77.02745112567052,13.44015588148104],[77.03183757936952,13.44773194715492]]]},"properties":{"region_id":"village_611260","name":"MASHANAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99962218796055,13.0384404008838],[76.98525655394788,13.03963627102306],[76.98397852561976,13.03169934946989],[77.00172587617656,13.02978005914527],[76.99962218796055,13.0384404008838]]]},"properties":{"region_id":"village_612522","name":"MENASINAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

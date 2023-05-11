@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04358182828906,15.82772751213587],[75.03864459650933,15.84020823425307],[75.0206678101898,15.83598378593988],[75.01903239073826,15.81857757872741],[75.04282453616675,15.82348057160461],[75.04358182828906,15.82772751213587]]]},"properties":{"region_id":"village_598228","name":"DHUPDAL","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

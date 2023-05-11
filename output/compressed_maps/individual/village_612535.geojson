@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08125990680864,13.08417806403863],[77.0514488182927,13.07989697696833],[77.05966860258705,13.0674333980138],[77.07499169417567,13.06954326847609],[77.08125990680864,13.08417806403863]]]},"properties":{"region_id":"village_612535","name":"KEMPASAGARA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

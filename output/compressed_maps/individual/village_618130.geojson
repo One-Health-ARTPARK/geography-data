@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95509380259764,12.42842681762319],[75.94582702565583,12.44708053395298],[75.92612836752555,12.42605475145143],[75.95509380259764,12.42842681762319]]]},"properties":{"region_id":"village_618130","name":"DODDAHOSUR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

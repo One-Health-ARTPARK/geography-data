@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12386121435955,16.14348926311298],[75.0955578745609,16.14665377903534],[75.10900659272548,16.12479606398667],[75.12386121435955,16.14348926311298]]]},"properties":{"region_id":"village_598295","name":"BHAGOJIKOPPA","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

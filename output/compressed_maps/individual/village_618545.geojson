@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28758794716157,12.58171392338476],[76.28203027372714,12.59026183391812],[76.27814265171412,12.57885133820105],[76.28758794716157,12.58171392338476]]]},"properties":{"region_id":"village_618545","name":"ALALAKUPPE","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

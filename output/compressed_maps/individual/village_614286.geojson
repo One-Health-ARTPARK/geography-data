@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63352667124785,12.38294208867834],[76.63147326682416,12.3910478865177],[76.62729531191812,12.39201798158811],[76.62707581078894,12.38256996188782],[76.63352667124785,12.38294208867834]]]},"properties":{"region_id":"village_614286","name":"JAKKANAKUPPE","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

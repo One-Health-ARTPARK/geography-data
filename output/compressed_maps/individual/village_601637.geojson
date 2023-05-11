@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52114303761361,15.37364668572017],[76.50775958935338,15.37828031618877],[76.50870739175711,15.39679003398851],[76.49814376137324,15.39511393505804],[76.49950078797629,15.37548449401969],[76.52114303761361,15.37364668572017]]]},"properties":{"region_id":"village_601637","name":"BASVANDURG","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

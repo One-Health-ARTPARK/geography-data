@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.56320965432415,15.53014339268408],[74.57858806044888,15.55364396081835],[74.5575722688155,15.55168861352845],[74.56320965432415,15.53014339268408]]]},"properties":{"region_id":"village_597981","name":"BIJAGARNI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

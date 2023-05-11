@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6957412504102,13.24282977032605],[75.6952482487791,13.25084337158197],[75.67551466053838,13.24936073191883],[75.68586599482092,13.23430648492312],[75.6957412504102,13.24282977032605]]]},"properties":{"region_id":"village_609835","name":"CHITHAVALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

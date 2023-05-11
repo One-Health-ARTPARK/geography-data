@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42313953037132,13.79692328559526],[75.39365471060216,13.81291372240817],[75.39737116769557,13.78374393049372],[75.42313953037132,13.79692328559526]]]},"properties":{"region_id":"village_608126","name":"KIKKERI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

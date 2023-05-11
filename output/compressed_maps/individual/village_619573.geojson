@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67745658205375,11.74688440378721],[76.67000015477788,11.75435340742323],[76.65771941601162,11.7403268403845],[76.67234727605096,11.73876835357276],[76.67745658205375,11.74688440378721]]]},"properties":{"region_id":"village_619573","name":"HANGALAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

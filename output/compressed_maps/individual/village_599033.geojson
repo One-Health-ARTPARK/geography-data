@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50913995962523,16.95061713549424],[75.48063824268718,16.94329500476472],[75.46996256394793,16.91908644305284],[75.5049334152848,16.91380667751681],[75.50913995962523,16.95061713549424]]]},"properties":{"region_id":"village_599033","name":"KALLAKAVATAGI","parent":"subdistrict_7074","parent_name":"TIKOTA"}}
+]}

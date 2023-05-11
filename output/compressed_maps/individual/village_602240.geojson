@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80475804250172,15.44811211250016],[74.7782534520337,15.45851730169873],[74.78922815446951,15.43282596762276],[74.80475804250172,15.44811211250016]]]},"properties":{"region_id":"village_602240","name":"KOGILAGERI","parent":"subdistrict_7081","parent_name":"ALNAVAR"}}
+]}

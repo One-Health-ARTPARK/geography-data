@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1334076225403,12.92786305694861],[77.11000791274867,12.9288975372969],[77.11417647434838,12.91324178416905],[77.1334076225403,12.92786305694861]]]},"properties":{"region_id":"village_612701","name":"YEDEHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

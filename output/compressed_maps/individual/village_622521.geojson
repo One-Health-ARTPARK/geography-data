@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.15618889432204,12.87162717968298],[78.14522532462826,12.87444885015941],[78.14031192435102,12.86612160270188],[78.14950208332841,12.86158061356858],[78.15618889432204,12.87162717968298]]]},"properties":{"region_id":"village_622521","name":"KADIRENAHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

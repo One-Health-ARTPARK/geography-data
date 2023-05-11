@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54489612627361,12.82868491803803],[76.53362135413158,12.82256683665966],[76.5413889730289,12.81230458053956],[76.54489612627361,12.82868491803803]]]},"properties":{"region_id":"village_613435","name":"NAYASINGANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

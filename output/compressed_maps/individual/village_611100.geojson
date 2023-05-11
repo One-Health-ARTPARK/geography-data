@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36354928925316,13.59106931545694],[77.35384835077451,13.59226801515673],[77.35589200812441,13.58288900080284],[77.36354928925316,13.59106931545694]]]},"properties":{"region_id":"village_611100","name":"AGRAHARA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

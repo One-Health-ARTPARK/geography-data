@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90004659533297,15.59996401712057],[74.88152768034132,15.59985451550784],[74.88284729621529,15.58982346688871],[74.90004659533297,15.59996401712057]]]},"properties":{"region_id":"village_602208","name":"SHEDBAL","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

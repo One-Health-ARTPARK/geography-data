@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96433589176704,12.12025845485643],[75.95352816548314,12.10429645372489],[75.95936992186009,12.09121671827437],[75.97585354039339,12.10831614895046],[75.96433589176704,12.12025845485643]]]},"properties":{"region_id":"village_618066","name":"CHIKKA MANDUR","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88797061714416,17.73488222896069],[76.8785945584829,17.74241677915971],[76.861246832559,17.736969683911],[76.87454705015722,17.72300913596204],[76.88797061714416,17.73488222896069]]]},"properties":{"region_id":"village_599815","name":"SAIDAPUR","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39836891062888,14.00822124263216],[76.38048262201188,14.02355327940701],[76.36875748585268,14.02098690816906],[76.38352290101909,13.99613940336992],[76.39836891062888,14.00822124263216]]]},"properties":{"region_id":"village_605800","name":"KEREYAGALAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

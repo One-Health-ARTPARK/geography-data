@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22176995184122,12.44023672307009],[77.20560311085478,12.4415597844556],[77.20821137604982,12.42734155374263],[77.2196095860522,12.42892186556152],[77.22176995184122,12.44023672307009]]]},"properties":{"region_id":"village_614760","name":"B.BASAPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

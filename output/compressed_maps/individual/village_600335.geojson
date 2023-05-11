@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33655724743156,17.72249114889189],[77.35747566335347,17.71514392363008],[77.38209642693285,17.73090234377724],[77.3744419796668,17.73667785547105],[77.34681798256763,17.73580357067455],[77.33655724743156,17.72249114889189]]]},"properties":{"region_id":"village_600335","name":"MANNA-E-KHELLI","parent":"subdistrict_7084","parent_name":"CHITAGUPPA"}}
+]}

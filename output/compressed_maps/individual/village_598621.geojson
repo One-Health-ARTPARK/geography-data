@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41155923514766,16.15531811181778],[75.39955536154547,16.14362872193806],[75.41791451307344,16.1347942131461],[75.42977111648833,16.15165903733136],[75.41155923514766,16.15531811181778]]]},"properties":{"region_id":"village_598621","name":"JALIKATTI(K.D)","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

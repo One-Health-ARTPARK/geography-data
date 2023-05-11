@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83350744508974,17.19128766153369],[75.81408753703873,17.18920024458113],[75.81881091064096,17.15182527954187],[75.83759001728438,17.16073049897309],[75.83350744508974,17.19128766153369]]]},"properties":{"region_id":"village_599227","name":"KUDAGI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

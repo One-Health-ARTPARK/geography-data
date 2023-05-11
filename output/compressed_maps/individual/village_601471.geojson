@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30649848193751,15.89321471587597],[76.29025210794951,15.89266489488247],[76.2959413635966,15.85900679723858],[76.31744516358512,15.87222649528308],[76.30649848193751,15.89321471587597]]]},"properties":{"region_id":"village_601471","name":"MUDENOOR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

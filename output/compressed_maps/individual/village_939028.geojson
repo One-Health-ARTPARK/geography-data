@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96813829712863,12.53489753907515],[75.9645922842019,12.54715268909821],[75.94903754198411,12.54033044768019],[75.9545526005141,12.53179548247028],[75.9621376709722,12.5311242527635],[75.96813829712863,12.53489753907515]]]},"properties":{"region_id":"village_939028","name":"HALAGOTE","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

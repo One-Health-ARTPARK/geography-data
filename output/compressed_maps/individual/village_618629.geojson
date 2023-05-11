@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2724831185187,12.44109115349161],[76.24978543959752,12.44780968946657],[76.23869766116078,12.42486702332206],[76.25775580517035,12.42651876339204],[76.2724831185187,12.44109115349161]]]},"properties":{"region_id":"village_618629","name":"HOSAKOTE","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53703681502469,12.34002836265865],[76.5147998756071,12.35256857063628],[76.50734642432744,12.34466765619331],[76.50094014582155,12.32240612462962],[76.53731088294197,12.33016633117113],[76.53703681502469,12.34002836265865]]]},"properties":{"region_id":"village_618709","name":"NAGAWALA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

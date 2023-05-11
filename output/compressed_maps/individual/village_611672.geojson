@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8962068297651,13.56302425799466],[76.88454916269397,13.56416055052951],[76.88080072574715,13.55422853814986],[76.89305500968932,13.5536310935301],[76.8962068297651,13.56302425799466]]]},"properties":{"region_id":"village_611672","name":"DEVARAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4329415340596,14.71456525003572],[74.44199374684916,14.67819447274308],[74.49607039424473,14.6837619344326],[74.48257307266998,14.74750627684297],[74.4329415340596,14.71456525003572]]]},"properties":{"region_id":"village_603348","name":"KAVALALLI","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

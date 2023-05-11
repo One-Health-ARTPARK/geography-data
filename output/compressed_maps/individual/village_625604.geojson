@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95671878092843,13.13073966625825],[77.9546372646489,13.14228783469576],[77.94381817843706,13.14486706539284],[77.94285767064179,13.13141582977594],[77.95671878092843,13.13073966625825]]]},"properties":{"region_id":"village_625604","name":"GANGAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

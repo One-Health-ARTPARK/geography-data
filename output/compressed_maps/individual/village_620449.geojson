@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32581580675564,17.31053152040326],[77.32318632047388,17.32805271393425],[77.30659319481006,17.32491926914471],[77.29789833594985,17.30889606510938],[77.32581580675564,17.31053152040326]]]},"properties":{"region_id":"village_620449","name":"BENKANHALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79949325889291,12.92110160980635],[75.7937509550335,12.92184430746238],[75.79326913821357,12.91235578432432],[75.80452377880877,12.9134065313233],[75.79949325889291,12.92110160980635]]]},"properties":{"region_id":"village_614907","name":"DODDASATHIGALA","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

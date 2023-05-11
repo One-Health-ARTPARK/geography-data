@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82944510479047,15.23349658939306],[76.79754164857313,15.221820206128],[76.78617469241883,15.17451570706394],[76.79704133687889,15.16661678519555],[76.82742579403744,15.17670041315051],[76.82944510479047,15.23349658939306]]]},"properties":{"region_id":"village_604876","name":"VENIVEERAPURA","parent":"subdistrict_7109","parent_name":"KURUGODU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10025088316672,12.71565714237108],[76.08980657469714,12.71976332590428],[76.0857589302603,12.70343949809911],[76.10020811108015,12.69818925897672],[76.10025088316672,12.71565714237108]]]},"properties":{"region_id":"village_616637","name":"KODAKAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

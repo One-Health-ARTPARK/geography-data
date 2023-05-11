@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65781017881392,12.83116108868331],[76.64108666725726,12.82230865335827],[76.64169023760972,12.81522973179118],[76.66182526766667,12.82279986485007],[76.65781017881392,12.83116108868331]]]},"properties":{"region_id":"village_613823","name":"BONAGERE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

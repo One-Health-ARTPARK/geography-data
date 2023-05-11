@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18287231947151,12.91047800040364],[76.17179552756252,12.91829959396554],[76.16397343651104,12.90584314899799],[76.17100374290149,12.89935377913751],[76.18287231947151,12.91047800040364]]]},"properties":{"region_id":"village_616184","name":"HULUVARE","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

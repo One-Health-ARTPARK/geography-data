@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96723338946622,13.1153105041693],[76.94877460310674,13.10628091254884],[76.96209972331503,13.09304794966353],[76.98164795152248,13.09527003818403],[76.96723338946622,13.1153105041693]]]},"properties":{"region_id":"village_611958","name":"NARANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

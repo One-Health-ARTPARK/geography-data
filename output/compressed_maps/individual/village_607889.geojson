@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0948485052234,14.03641793484293],[75.07426875361118,14.03173989955997],[75.07431250976441,14.01865745522711],[75.09294156236521,14.01359164711904],[75.0948485052234,14.03641793484293]]]},"properties":{"region_id":"village_607889","name":"THOTADA KOPPA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

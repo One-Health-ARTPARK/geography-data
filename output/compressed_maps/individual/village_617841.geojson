@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56534158834208,12.25501096739428],[75.50985296059508,12.25744176596409],[75.5348891850748,12.20597956851261],[75.5738095070415,12.16572105546606],[75.61329978223698,12.23942462816261],[75.56534158834208,12.25501096739428]]]},"properties":{"region_id":"village_617841","name":"NALADI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

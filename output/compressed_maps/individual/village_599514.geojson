@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95624985203474,16.5260405268269],[75.9196952023694,16.52882368024984],[75.91358956306176,16.49773088029512],[75.94192699685875,16.49336719619195],[75.95624985203474,16.5260405268269]]]},"properties":{"region_id":"village_599514","name":"MANNUR","parent":"subdistrict_5452","parent_name":"BASAVANA BAGEVADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2846569755996,12.57583171471143],[76.27089219526871,12.57547311027533],[76.26825715730708,12.5647111455933],[76.27932215778866,12.56431316707458],[76.2846569755996,12.57583171471143]]]},"properties":{"region_id":"village_618527","name":"MOODALABEEDU","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

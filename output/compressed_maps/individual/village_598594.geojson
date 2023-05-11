@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35631862857883,16.28425492334467],[75.33690099862174,16.27535482011416],[75.34249816800177,16.26875167667333],[75.3585136574976,16.26897849464997],[75.35631862857883,16.28425492334467]]]},"properties":{"region_id":"village_598594","name":"JAMBGI(K.D)","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

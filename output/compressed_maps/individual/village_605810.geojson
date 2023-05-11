@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31880076615634,13.98088714311868],[76.28142465374663,13.9765804101074],[76.28380153126223,13.95929290922842],[76.32634963951394,13.95988994430977],[76.31880076615634,13.98088714311868]]]},"properties":{"region_id":"village_605810","name":"KUMMINAGATTA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

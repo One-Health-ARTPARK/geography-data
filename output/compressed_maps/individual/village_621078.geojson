@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68055159542254,16.71491026421101],[76.65958412500308,16.70465087243288],[76.68160941610844,16.69206569674427],[76.68055159542254,16.71491026421101]]]},"properties":{"region_id":"village_621078","name":"CHANDAPUR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39470478427909,12.91655531579389],[76.37820009604064,12.91825869962977],[76.37851070334243,12.91285099138414],[76.3870630980292,12.91062297409761],[76.39470478427909,12.91655531579389]]]},"properties":{"region_id":"village_938894","name":"GURANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

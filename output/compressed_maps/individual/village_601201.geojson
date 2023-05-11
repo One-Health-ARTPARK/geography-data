@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7638940094571,15.73491178592014],[76.75192181675438,15.74885855918611],[76.73598620219464,15.73811330390711],[76.72862182524463,15.71999439232986],[76.7638940094571,15.73491178592014]]]},"properties":{"region_id":"village_601201","name":"HOSSHALLI (EJ)","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

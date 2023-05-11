@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73337613758923,13.05602162963279],[77.70444294910351,13.07533942589488],[77.70894859501699,13.04894520989858],[77.73337613758923,13.05602162963279]]]},"properties":{"region_id":"village_613083","name":"BIDARAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

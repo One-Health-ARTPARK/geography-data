@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87975801253741,12.74006383913454],[76.85844870461844,12.74710672374855],[76.85425130255551,12.73146546435944],[76.87021444615968,12.72727065967056],[76.87975801253741,12.74006383913454]]]},"properties":{"region_id":"village_614326","name":"MACHAGOWDANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

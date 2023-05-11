@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71150259570467,13.62649271139419],[77.72393010951772,13.62526148514873],[77.72428073968145,13.63589380481713],[77.71504688886554,13.63794926322435],[77.71150259570467,13.62649271139419]]]},"properties":{"region_id":"village_623730","name":"YELAKALARALLAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

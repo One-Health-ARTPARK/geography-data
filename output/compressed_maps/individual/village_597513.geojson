@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13785999475164,16.28460386778378],[75.12115189354975,16.29252864923296],[75.09995857290365,16.2539512334433],[75.12227126119028,16.25397825652669],[75.13785999475164,16.28460386778378]]]},"properties":{"region_id":"village_597513","name":"YARAGUDRI","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

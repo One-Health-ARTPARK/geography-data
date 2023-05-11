@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52537194500825,12.63862861204218],[77.51338969974874,12.63963180891399],[77.50596047044337,12.61027717141879],[77.52454750906048,12.6122082457991],[77.52537194500825,12.63862861204218]]]},"properties":{"region_id":"village_626402","name":"CHIKKAMARALAVADI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

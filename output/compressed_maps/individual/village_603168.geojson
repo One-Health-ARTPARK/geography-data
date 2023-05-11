@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69776286381872,14.56040628602105],[74.67449503231478,14.55935559223695],[74.68461703100286,14.54044741245393],[74.7044641632255,14.5445671433074],[74.69776286381872,14.56040628602105]]]},"properties":{"region_id":"village_603168","name":"KHURSE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

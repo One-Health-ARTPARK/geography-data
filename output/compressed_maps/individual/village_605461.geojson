@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22285595637797,14.35513479406149],[76.19917203924223,14.35360260947882],[76.19621475664626,14.33468613073586],[76.23321988639051,14.34131239550761],[76.22285595637797,14.35513479406149]]]},"properties":{"region_id":"village_605461","name":"KOLAHAL","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

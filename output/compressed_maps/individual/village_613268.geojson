@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74028498902018,12.79676798796097],[77.7288190740726,12.80582822898729],[77.71638036647438,12.80537741677091],[77.72770983711814,12.78244659000014],[77.74028498902018,12.79676798796097]]]},"properties":{"region_id":"village_613268","name":"NERALUR","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

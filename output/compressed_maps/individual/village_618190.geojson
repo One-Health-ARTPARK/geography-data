@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17305036281805,12.4583767854754],[76.15748063064594,12.4612906369515],[76.15416328316543,12.44271078000241],[76.17110630125099,12.44287374418577],[76.17305036281805,12.4583767854754]]]},"properties":{"region_id":"village_618190","name":"KELAGANAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

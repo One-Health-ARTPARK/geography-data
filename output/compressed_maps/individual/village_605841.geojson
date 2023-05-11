@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12923859823724,13.84784227712575],[76.10167513294623,13.85859119375075],[76.10391538458278,13.8379497847237],[76.12923859823724,13.84784227712575]]]},"properties":{"region_id":"village_605841","name":"JAMMAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30660840230337,13.14859069478225],[76.29169131230992,13.15360153833861],[76.28880282174941,13.14079851948399],[76.3007020214643,13.13768654839444],[76.30660840230337,13.14859069478225]]]},"properties":{"region_id":"village_615798","name":"JAKKANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

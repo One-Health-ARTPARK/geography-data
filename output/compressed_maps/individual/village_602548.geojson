@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25408483048852,15.13676957501294],[75.22376717049906,15.12575332587774],[75.22577182397171,15.1071758942874],[75.2506074785586,15.10732013839371],[75.2587434550851,15.11759829364517],[75.25408483048852,15.13676957501294]]]},"properties":{"region_id":"village_602548","name":"INGALAGI","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

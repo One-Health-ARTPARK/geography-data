@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24227540470592,13.36561530349135],[77.24185579435446,13.3379523677351],[77.25474044200149,13.3346497475764],[77.25836581347902,13.35280723316695],[77.24227540470592,13.36561530349135]]]},"properties":{"region_id":"village_611415","name":"SATHAGATTA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

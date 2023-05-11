@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65162261881437,13.21882681820242],[77.63976361253557,13.21746254520007],[77.63702709799249,13.20276362516191],[77.65722090668532,13.19929646913684],[77.65162261881437,13.21882681820242]]]},"properties":{"region_id":"village_625397","name":"SADAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

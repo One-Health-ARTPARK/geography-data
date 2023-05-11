@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84822723490316,15.30844169399735],[75.81380821168864,15.30512427273403],[75.80334350006494,15.23665889957883],[75.86405746870778,15.26114497421994],[75.84822723490316,15.30844169399735]]]},"properties":{"region_id":"village_602157","name":"MEUNDI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

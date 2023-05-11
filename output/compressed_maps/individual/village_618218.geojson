@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12093961633818,12.3743716159065],[76.12734786476848,12.38360523689402],[76.11865197187899,12.39353610970751],[76.11315554333827,12.37711453045324],[76.12093961633818,12.3743716159065]]]},"properties":{"region_id":"village_618218","name":"SANYASIPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.65510287581422,16.05141994883327],[74.64401248072956,16.05651289344204],[74.60221038539478,16.05546153928529],[74.61472502533971,16.04064608884103],[74.65510287581422,16.05141994883327]]]},"properties":{"region_id":"village_597657","name":"HAGEDAL","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

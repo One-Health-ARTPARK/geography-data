@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06307169811656,11.97785525661762],[76.01743614376018,11.96698122561133],[76.03313210540679,11.94030243008504],[76.06275208571827,11.96090096914857],[76.06307169811656,11.97785525661762]]]},"properties":{"region_id":"village_618078","name":"KUTTA","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

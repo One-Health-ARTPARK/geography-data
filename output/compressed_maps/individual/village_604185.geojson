@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2263635636483,14.62093592830401],[75.21055206827336,14.62340823965698],[75.20523710494236,14.59749837655178],[75.22339107512634,14.60070314996944],[75.2263635636483,14.62093592830401]]]},"properties":{"region_id":"village_604185","name":"KIRWADI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

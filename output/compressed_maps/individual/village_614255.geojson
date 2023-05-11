@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82594978396922,12.46757405286435],[76.82540603410489,12.45232622776478],[76.84802242679123,12.45186019394629],[76.84965391860399,12.4646156064488],[76.82594978396922,12.46757405286435]]]},"properties":{"region_id":"village_614255","name":"KODIYALA","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81450729589662,12.38678118353306],[76.79632998338748,12.37951470756543],[76.8111772854158,12.36339273760511],[76.81450729589662,12.38678118353306]]]},"properties":{"region_id":"village_614272","name":"GANDEHOSAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

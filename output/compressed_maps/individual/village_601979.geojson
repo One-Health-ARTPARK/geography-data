@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95612624088,15.73828188175538],[75.94865832494335,15.73939816238856],[75.94357922211218,15.72438172647883],[75.95363082459151,15.72253484820751],[75.95612624088,15.73828188175538]]]},"properties":{"region_id":"village_601979","name":"PURTHAGERI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

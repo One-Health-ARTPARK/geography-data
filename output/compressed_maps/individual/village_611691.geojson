@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89833259805458,13.45110038448725],[76.88864097192061,13.46081453689063],[76.87986281918477,13.4512651648676],[76.89833259805458,13.45110038448725]]]},"properties":{"region_id":"village_611691","name":"GADIYANKANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

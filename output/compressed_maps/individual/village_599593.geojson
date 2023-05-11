@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18114959975766,16.42347061541028],[76.15470433076686,16.43259459264907],[76.14730870792178,16.40017728165984],[76.17198535905197,16.40449115962526],[76.18114959975766,16.42347061541028]]]},"properties":{"region_id":"village_599593","name":"GUDIHAL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

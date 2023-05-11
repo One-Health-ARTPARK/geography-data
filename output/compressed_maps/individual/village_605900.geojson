@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26991912061268,13.73856721622025],[76.25176281541613,13.74368906176044],[76.25355647874491,13.72605664361419],[76.275992186211,13.72575267395643],[76.26991912061268,13.73856721622025]]]},"properties":{"region_id":"village_605900","name":"KADADANAKERE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

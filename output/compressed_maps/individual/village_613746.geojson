@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79415657517883,12.85208730806953],[76.7766960760578,12.8566521300558],[76.77551645357475,12.85017514543079],[76.79415657517883,12.85208730806953]]]},"properties":{"region_id":"village_613746","name":"HOSAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

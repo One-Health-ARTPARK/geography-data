@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92038658296806,13.31441555876603],[77.90739856111412,13.31498780093662],[77.91132289062703,13.30108141153681],[77.91989591848423,13.30333903215345],[77.92038658296806,13.31441555876603]]]},"properties":{"region_id":"village_624260","name":"CHEEMANGALA","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

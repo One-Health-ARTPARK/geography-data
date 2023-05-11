@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49204532990589,12.3784627331143],[77.473409212549,12.3542625845094],[77.49884341399195,12.3463685485674],[77.49204532990589,12.3784627331143]]]},"properties":{"region_id":"village_626573","name":"KOTEKOPPA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

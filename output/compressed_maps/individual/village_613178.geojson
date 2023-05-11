@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.68948123991106,12.77848416725952],[77.67671205446794,12.78325666631586],[77.67755758209839,12.76609003827438],[77.68662887087294,12.76613192758412],[77.68948123991106,12.77848416725952]]]},"properties":{"region_id":"village_613178","name":"HINNAKKI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

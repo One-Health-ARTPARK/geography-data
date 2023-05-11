@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2590470570066,14.10489048226564],[77.23685327014124,14.11123654766904],[77.22544967844325,14.09017627563784],[77.25493379194904,14.08507104443745],[77.2590470570066,14.10489048226564]]]},"properties":{"region_id":"village_610645","name":"NALIGANAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

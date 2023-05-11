@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85032261028569,12.62690441212335],[75.84627454812362,12.62862102818336],[75.845026918788,12.62441516909159],[75.84857990183387,12.62162126802581],[75.85032261028569,12.62690441212335]]]},"properties":{"region_id":"village_939260","name":"ADHIGALALE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

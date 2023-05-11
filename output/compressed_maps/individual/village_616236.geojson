@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84713542338496,12.87360967818509],[75.83825440100509,12.8743480213707],[75.83215445518417,12.85862105243217],[75.85094800095214,12.86740070135587],[75.84713542338496,12.87360967818509]]]},"properties":{"region_id":"village_616236","name":"HYARAGALALE","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21423983730683,12.54868004316755],[77.20427653757037,12.54519593849456],[77.2101556437476,12.53831364031404],[77.21423983730683,12.54868004316755]]]},"properties":{"region_id":"village_626293","name":"HUNASANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

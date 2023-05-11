@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.945180820811,12.83822384614781],[75.94000424287955,12.84039096087666],[75.94033131598115,12.84659442492176],[75.93458977366319,12.84573031471763],[75.93588887658852,12.8361247195228],[75.945180820811,12.83822384614781]]]},"properties":{"region_id":"village_616284","name":"KANIGERE","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

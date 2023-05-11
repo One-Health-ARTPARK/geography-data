@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74370495611808,15.38448917519413],[74.72468526311656,15.38126595360018],[74.72498270387675,15.37002399650517],[74.75232551536345,15.36612279351577],[74.74370495611808,15.38448917519413]]]},"properties":{"region_id":"village_602839","name":"HUNSWAD","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46433344309042,12.37666799712924],[75.45501491885057,12.35215376932843],[75.49349208463892,12.35313005286077],[75.46433344309042,12.37666799712924]]]},"properties":{"region_id":"village_938967","name":"MUNDROT","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

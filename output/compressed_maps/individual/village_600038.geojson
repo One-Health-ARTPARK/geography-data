@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39588797433767,18.10565099331983],[77.40712196566842,18.12741169349963],[77.37706270873187,18.14214105438969],[77.36320716061552,18.10645177432522],[77.39588797433767,18.10565099331983]]]},"properties":{"region_id":"village_600038","name":"HEDGAPUR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

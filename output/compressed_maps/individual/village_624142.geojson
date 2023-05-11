@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86639918665168,13.4504061504439],[77.85306473218989,13.45206579334916],[77.8580423581076,13.44361526043978],[77.86639918665168,13.4504061504439]]]},"properties":{"region_id":"village_624142","name":"MALLAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.323064691471,12.38226620007387],[76.30985090602846,12.38438531189119],[76.3135281544126,12.36548925167077],[76.32491895802309,12.36790768096828],[76.323064691471,12.38226620007387]]]},"properties":{"region_id":"village_618321","name":"BILIGERE","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

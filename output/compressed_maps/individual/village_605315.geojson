@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88437745788161,14.4772053223088],[76.85646381082002,14.4731996310918],[76.8620514965216,14.43659062764416],[76.89612726885343,14.44859030178546],[76.88437745788161,14.4772053223088]]]},"properties":{"region_id":"village_605315","name":"KATAMDEVARAKOTE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2322662767755,14.9768288817597],[75.21635167791538,14.97510010029019],[75.22019500450145,14.9574822348074],[75.23528289228665,14.96693494731648],[75.2322662767755,14.9768288817597]]]},"properties":{"region_id":"village_603943","name":"KHURSAPUR","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

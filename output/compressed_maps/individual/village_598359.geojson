@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2766804708803,15.9947128582593],[75.26148367223625,16.00066965685915],[75.24879507526309,16.0136288491898],[75.2503204618974,15.97361390779033],[75.26684664821184,15.96868207300071],[75.2766804708803,15.9947128582593]]]},"properties":{"region_id":"village_598359","name":"SUNNAL","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64877354569802,16.65344994586782],[76.62117192125613,16.65594862398961],[76.62522231324682,16.63547037945671],[76.64912440149165,16.6374831731891],[76.64877354569802,16.65344994586782]]]},"properties":{"region_id":"village_620886","name":"GOUDGERA","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

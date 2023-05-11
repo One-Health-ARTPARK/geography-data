@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34853158157318,12.69491643555268],[76.33472457357865,12.69589851262706],[76.32977061756289,12.67593797287579],[76.34603738242869,12.67268309170195],[76.34853158157318,12.69491643555268]]]},"properties":{"region_id":"village_617033","name":"NAGARANAHALLI","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

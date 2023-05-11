@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23567351055208,14.46088738352154],[75.2303541155719,14.46686988673602],[75.21798827944387,14.46344721791581],[75.22200974981406,14.45421571726642],[75.23567351055208,14.46088738352154]]]},"properties":{"region_id":"village_607689","name":"SIDDIHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

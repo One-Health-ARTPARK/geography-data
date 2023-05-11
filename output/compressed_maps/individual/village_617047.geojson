@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28332475551754,12.96153563409194],[76.2850202643956,12.97555112127245],[76.2721318519035,12.97440225709137],[76.27433592228584,12.96085824818239],[76.28332475551754,12.96153563409194]]]},"properties":{"region_id":"village_617047","name":"DANDIGANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

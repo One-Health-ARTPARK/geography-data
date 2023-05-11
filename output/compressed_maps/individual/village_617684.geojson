@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55380608036556,12.86931040591202],[75.54747448307815,12.90584957955963],[75.4729583093648,12.89310600652572],[75.4737185743562,12.86628993875669],[75.55380608036556,12.86931040591202]]]},"properties":{"region_id":"village_617684","name":"SHIBAJE","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01614790452935,14.42709330466804],[74.9761750555408,14.40845356841152],[75.0193831758521,14.39321959196438],[75.01614790452935,14.42709330466804]]]},"properties":{"region_id":"village_607543","name":"GUNJANUR","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99580777318153,13.15366217866468],[75.98566735796233,13.15374794058681],[75.98842700731062,13.14300593302674],[76.00072114773626,13.14635082897926],[75.99580777318153,13.15366217866468]]]},"properties":{"region_id":"village_615351","name":"KALYANAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

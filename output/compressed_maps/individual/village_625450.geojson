@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78144023675578,13.18580048032917],[77.77788913723387,13.18430514359552],[77.7683156774149,13.18726049446209],[77.76762681346007,13.18441136180136],[77.77791155909784,13.17776943421486],[77.78144023675578,13.18580048032917]]]},"properties":{"region_id":"village_625450","name":"BIDALAPURA AMANIKERE","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

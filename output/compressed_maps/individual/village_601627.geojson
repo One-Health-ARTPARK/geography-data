@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52020045915462,15.37494414336578],[76.51034037989744,15.38730110249188],[76.50775958935338,15.37828031618877],[76.52020045915462,15.37494414336578]]]},"properties":{"region_id":"village_601627","name":"KRISHNAPUR","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

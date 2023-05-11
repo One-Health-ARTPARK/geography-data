@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76291244669436,16.40050798375354],[74.72374398318095,16.40070625185934],[74.72878940139772,16.38107485896071],[74.74764398572655,16.37936972637197],[74.76291244669436,16.40050798375354]]]},"properties":{"region_id":"village_597367","name":"MARADI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

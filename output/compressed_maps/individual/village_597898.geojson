@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6078341738427,15.56648344109759],[74.59203884141779,15.57022121914512],[74.59107340925416,15.55717757334834],[74.6083897099168,15.55633690326114],[74.6078341738427,15.56648344109759]]]},"properties":{"region_id":"village_597898","name":"BHUTTEWADI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

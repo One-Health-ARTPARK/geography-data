@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61408299993657,13.12885200011799],[77.59099899958798,13.12927399965916],[77.58696899962578,13.1145249995664],[77.59233099964969,13.09712299996276],[77.6081189997785,13.10454399979464],[77.61408299993657,13.12885200011799]]]},"properties":{"region_id":"ward_bbmp1","name":"WARD NO.1(KEMPEGOWDA WARD)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77307641501478,13.48119942562658],[77.75989286608659,13.48123450788212],[77.7573586161546,13.47027639860115],[77.76752918603495,13.46753618652778],[77.77307641501478,13.48119942562658]]]},"properties":{"region_id":"village_623572","name":"GUNDLAGURKI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

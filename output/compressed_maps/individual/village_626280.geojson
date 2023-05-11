@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21014769314131,12.5638854761328],[77.20076209655923,12.55554940875213],[77.20427653757037,12.54519593849456],[77.21111924536346,12.5578354655225],[77.21014769314131,12.5638854761328]]]},"properties":{"region_id":"village_626280","name":"NAGAPURA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

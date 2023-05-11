@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9409008582204,13.72314412546423],[75.92297989989515,13.72815443012102],[75.92119246431072,13.70942637195287],[75.9476338712881,13.70792281639581],[75.9409008582204,13.72314412546423]]]},"properties":{"region_id":"village_609206","name":"MAKANAHALLI","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

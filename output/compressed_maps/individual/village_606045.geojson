@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53318706611742,13.66775015930003],[76.56006437112913,13.68809561643887],[76.53645675232939,13.69884775059727],[76.53318706611742,13.66775015930003]]]},"properties":{"region_id":"village_606045","name":"JAYASUVARNAPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

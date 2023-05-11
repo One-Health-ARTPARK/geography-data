@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82366877674679,13.73623301897082],[77.7963497252991,13.73111259275723],[77.8158501837933,13.7171111849314],[77.82366877674679,13.73623301897082]]]},"properties":{"region_id":"village_623878","name":"SOLAMAKALAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

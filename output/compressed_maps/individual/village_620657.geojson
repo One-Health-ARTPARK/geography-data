@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98113307393736,17.09236896331442],[76.95316621288868,17.10249928766801],[76.93413123560403,17.04890639842374],[76.98075367154992,17.04480715674274],[76.98113307393736,17.09236896331442]]]},"properties":{"region_id":"village_620657","name":"INGALGI","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96332515592053,15.66397404645125],[76.9359539088094,15.65888640242961],[76.93684375193145,15.64844875234501],[76.96635062617548,15.65060370939264],[76.96332515592053,15.66397404645125]]]},"properties":{"region_id":"village_604801","name":"KARCHIGANUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

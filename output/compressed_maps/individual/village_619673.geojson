@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99115035858716,11.92549225629365],[76.97683502597128,11.91832831662724],[76.98474584046554,11.90483676053281],[76.99668931041982,11.91825808875007],[76.99115035858716,11.92549225629365]]]},"properties":{"region_id":"village_619673","name":"BASAVANAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

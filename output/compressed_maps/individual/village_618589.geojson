@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37989336250428,12.5141154115571],[76.36718739126387,12.52146713087988],[76.36558481373869,12.50892127513377],[76.37662763781547,12.50056841708178],[76.37989336250428,12.5141154115571]]]},"properties":{"region_id":"village_618589","name":"KAGGALIBOREKAVAL","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

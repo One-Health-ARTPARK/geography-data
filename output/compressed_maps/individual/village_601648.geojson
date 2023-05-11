@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59426565971756,15.51908743502371],[76.57593473196088,15.49315113363687],[76.5520465821804,15.479831490292],[76.58357579334437,15.466081216986],[76.59426565971756,15.51908743502371]]]},"properties":{"region_id":"village_601648","name":"MARLI","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

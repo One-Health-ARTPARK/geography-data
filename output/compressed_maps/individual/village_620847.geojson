@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9138993483381,17.01995727411336],[76.85689080257826,17.01508804640325],[76.85477692986035,16.97207167622861],[76.90775875450666,16.9579143073796],[76.9138993483381,17.01995727411336]]]},"properties":{"region_id":"village_620847","name":"NARIBOLE","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

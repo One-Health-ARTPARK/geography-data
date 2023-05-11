@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23079701028036,14.64960397167298],[76.20507144042328,14.67722213806002],[76.18324685615124,14.64982372330508],[76.20978971848847,14.64033432994091],[76.23079701028036,14.64960397167298]]]},"properties":{"region_id":"village_606374","name":"GURUSIDDAPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

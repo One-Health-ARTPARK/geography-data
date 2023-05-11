@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43964929871866,13.21539455475869],[77.43116816960993,13.21556786773728],[77.43072912925213,13.2023620491433],[77.44424323380363,13.2096471182113],[77.43964929871866,13.21539455475869]]]},"properties":{"region_id":"village_625235","name":"KANASAVADI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

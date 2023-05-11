@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23003050758032,12.24239711403576],[76.22051948924612,12.232861788357],[76.22419205883956,12.21581756751392],[76.23408816649379,12.22631752871008],[76.23003050758032,12.24239711403576]]]},"properties":{"region_id":"village_618379","name":"HARALAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

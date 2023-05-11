@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24819794156478,14.26809905605237],[76.22314659769893,14.28195337122481],[76.22220611625517,14.25856161617234],[76.24819794156478,14.26809905605237]]]},"properties":{"region_id":"village_605535","name":"ALAGHATTA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

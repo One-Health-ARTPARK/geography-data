@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46032207257365,13.57879419426355],[76.4519472434885,13.58850286603034],[76.43917200031827,13.57529252462915],[76.44342318009004,13.56266199290299],[76.46032207257365,13.57879419426355]]]},"properties":{"region_id":"village_610102","name":"DINKANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

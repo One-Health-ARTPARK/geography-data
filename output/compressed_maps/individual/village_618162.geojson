@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1968082957432,12.49714455163035],[76.18804205369688,12.51420846854816],[76.17725909820751,12.51433682533863],[76.1733314872251,12.49229712018216],[76.1968082957432,12.49714455163035]]]},"properties":{"region_id":"village_618162","name":"MARADOOR","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

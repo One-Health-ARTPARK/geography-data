@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12631679451604,14.63075430675208],[75.11662089489421,14.63962595348315],[75.10882811431533,14.63353836877058],[75.12631679451604,14.63075430675208]]]},"properties":{"region_id":"village_607387","name":"SHANKRIKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

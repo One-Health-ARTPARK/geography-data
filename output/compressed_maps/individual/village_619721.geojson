@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94803349371725,11.86852150426276],[76.91525395543974,11.85816402007736],[76.9385140605085,11.84109031935526],[76.94803349371725,11.86852150426276]]]},"properties":{"region_id":"village_619721","name":"AMACHAVADI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

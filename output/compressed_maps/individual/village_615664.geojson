@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3975784390851,13.40616406296566],[76.40041356643447,13.42278251359665],[76.36375211166738,13.4164465131622],[76.37210405997736,13.40394134934762],[76.3975784390851,13.40616406296566]]]},"properties":{"region_id":"village_615664","name":"MELENAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

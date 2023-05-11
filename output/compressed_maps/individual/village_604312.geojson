@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34592515130515,14.60223322481513],[75.32454368670243,14.60150333197783],[75.33370536978866,14.58960374122248],[75.34592515130515,14.60223322481513]]]},"properties":{"region_id":"village_604312","name":"THUMARIKOPPA","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32178690936644,13.34016752710875],[76.31803341633247,13.34166815718452],[76.31589432248552,13.33041760801421],[76.32031009046648,13.33005808426011],[76.31938155806046,13.33691057045517],[76.32178690936644,13.34016752710875]]]},"properties":{"region_id":"village_615723","name":"SINGANAKERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64931171275863,13.58053481294594],[76.6346895366672,13.59771292371894],[76.61411280605455,13.58702609289473],[76.62386499776882,13.57096595651528],[76.64931171275863,13.58053481294594]]]},"properties":{"region_id":"village_610138","name":"KURIHALLI KAVAL","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

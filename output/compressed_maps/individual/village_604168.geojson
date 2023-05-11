@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25650984566123,14.69926891631257],[75.24760060935448,14.70733892959812],[75.2260158875261,14.68914367350907],[75.2426748868742,14.67812865017426],[75.25650984566123,14.69926891631257]]]},"properties":{"region_id":"village_604168","name":"KUSNUR","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

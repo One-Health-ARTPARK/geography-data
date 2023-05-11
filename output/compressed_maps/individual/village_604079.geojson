@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1204781046404,14.81197815398845],[75.10796879576807,14.82315405414685],[75.09053063550441,14.82022306428462],[75.10105717596555,14.7990006133628],[75.1204781046404,14.81197815398845]]]},"properties":{"region_id":"village_604079","name":"RAMATHIRTHA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

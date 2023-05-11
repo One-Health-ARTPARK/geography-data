@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68418980677401,15.03469275582319],[74.66734812771276,15.04178003444791],[74.65542137268669,15.03203002583701],[74.6683281782088,15.01917000558331],[74.68418980677401,15.03469275582319]]]},"properties":{"region_id":"village_602891","name":"SAVAGADDE","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

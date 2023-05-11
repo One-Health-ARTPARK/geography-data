@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04365597971409,16.31958719001469],[75.0629631415543,16.30780242592776],[75.06191559893556,16.32715635618235],[75.04365597971409,16.31958719001469]]]},"properties":{"region_id":"village_597507","name":"BISANAKOPPA","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

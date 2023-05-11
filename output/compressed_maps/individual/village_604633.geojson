@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9748561963374,14.98831788345117],[75.94399064636143,14.97930253029277],[75.94901324705758,14.94025737402237],[75.97591699157903,14.96532744936432],[75.9748561963374,14.98831788345117]]]},"properties":{"region_id":"village_604633","name":"HUGULURA","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

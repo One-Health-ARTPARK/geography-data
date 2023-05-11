@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76986094344177,13.12357325781148],[77.77714416045654,13.124569008979],[77.77647072059031,13.12996598157731],[77.77189326405224,13.12888228652388],[77.76986094344177,13.12357325781148]]]},"properties":{"region_id":"village_625518","name":"SHIVADENAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

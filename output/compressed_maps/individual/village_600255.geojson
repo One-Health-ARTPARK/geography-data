@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49155627505473,17.93117150140918],[77.49939831049146,17.93958069340848],[77.48362049643934,17.9427804421938],[77.48163734575454,17.93707537358706],[77.49155627505473,17.93117150140918]]]},"properties":{"region_id":"village_600255","name":"BAG - E - KARANJA (OG)","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

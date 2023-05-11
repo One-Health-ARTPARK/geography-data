@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15734423716461,12.73001445386122],[76.16222399132444,12.74481236578681],[76.1511211297608,12.74410965157883],[76.15709033895442,12.7379727815668],[76.15734423716461,12.73001445386122]]]},"properties":{"region_id":"village_616663","name":"DEVIPURA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

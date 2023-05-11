@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30958654208563,13.63907104117253],[76.29618906085702,13.64223523614846],[76.29698642462434,13.63873659739617],[76.30958654208563,13.63907104117253]]]},"properties":{"region_id":"village_605957","name":"SIRIGEPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

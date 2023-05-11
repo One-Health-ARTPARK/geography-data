@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49238292707838,12.44467273912312],[76.47889005057002,12.44316755682777],[76.47760158397153,12.43005432225202],[76.49857181915586,12.42291599407298],[76.49238292707838,12.44467273912312]]]},"properties":{"region_id":"village_618686","name":"CHOLENAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

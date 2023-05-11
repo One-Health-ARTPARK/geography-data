@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17850288460814,14.6407040706299],[76.12973747090588,14.64823838660871],[76.13294760028481,14.62910375897433],[76.16106165875937,14.62668773753456],[76.17850288460814,14.6407040706299]]]},"properties":{"region_id":"village_606376","name":"SIDDAIAHNAKOTE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

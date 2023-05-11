@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.880865751525,12.36674616471565],[75.85309431748207,12.37305270943413],[75.8495422694855,12.35259043901372],[75.87286297029652,12.35627038647942],[75.880865751525,12.36674616471565]]]},"properties":{"region_id":"village_617990","name":"KUDLURCHETTALLI","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

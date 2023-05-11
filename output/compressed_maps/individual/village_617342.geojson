@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59984695961653,12.96924992146164],[76.60119126152433,12.97802563322885],[76.5914317372925,12.98070649412537],[76.59069632205187,12.97121163293513],[76.59984695961653,12.96924992146164]]]},"properties":{"region_id":"village_617342","name":"YALANAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

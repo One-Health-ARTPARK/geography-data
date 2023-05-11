@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30615235997053,14.28059041936946],[76.31850956437485,14.30050818369426],[76.30347020058562,14.32070575050633],[76.29485761664442,14.29839035113452],[76.30615235997053,14.28059041936946]]]},"properties":{"region_id":"village_605526","name":"BEERAVARA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95735121240125,13.19847444060171],[76.93914712964106,13.19299566584534],[76.94571551862994,13.18261602570328],[76.96009988317691,13.18088725843882],[76.95735121240125,13.19847444060171]]]},"properties":{"region_id":"village_611860","name":"KALENAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

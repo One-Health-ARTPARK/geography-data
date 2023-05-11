@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.94068373326999,12.97503535422877],[77.9327808226675,12.97491854896389],[77.92990922755463,12.96338876893651],[77.94220436481821,12.96898761370892],[77.94068373326999,12.97503535422877]]]},"properties":{"region_id":"village_622184","name":"MANGAPURA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

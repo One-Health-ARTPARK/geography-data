@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8530007436726,14.57018673219443],[74.8341897775527,14.56225636953808],[74.84080195586927,14.54447288086999],[74.85248750773017,14.55383661693561],[74.8530007436726,14.57018673219443]]]},"properties":{"region_id":"village_603247","name":"BAROOR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

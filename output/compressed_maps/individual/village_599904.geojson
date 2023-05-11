@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24768420487668,18.09128007086524],[77.24344442423421,18.07130560359615],[77.25696650984816,18.07343576800351],[77.25993742415406,18.08977395855085],[77.24768420487668,18.09128007086524]]]},"properties":{"region_id":"village_599904","name":"KOTGIYALWADI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

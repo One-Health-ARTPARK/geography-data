@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64963479912178,13.03032970439629],[76.62352084018217,13.03767775009874],[76.61158912805023,13.00799341325331],[76.64558160565159,13.00955921019973],[76.64963479912178,13.03032970439629]]]},"properties":{"region_id":"village_612367","name":"BENAKANAKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

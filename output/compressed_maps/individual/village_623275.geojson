@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58677583786192,13.73357815706227],[77.56981091101953,13.71223866779174],[77.59860968793754,13.71552978026295],[77.58677583786192,13.73357815706227]]]},"properties":{"region_id":"village_623275","name":"MUDALODU","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

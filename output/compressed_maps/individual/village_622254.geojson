@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87418300361855,12.88931289566756],[77.87803568204087,12.89845676330367],[77.8593578910488,12.90562331753292],[77.86091113869068,12.8927312117885],[77.87418300361855,12.88931289566756]]]},"properties":{"region_id":"village_622254","name":"CHIKKATHIRUPATHY","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

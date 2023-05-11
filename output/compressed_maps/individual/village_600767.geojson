@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48706731823144,16.2760893970769],[77.46828167206172,16.28331921993006],[77.4633580460679,16.26589590482402],[77.48682131995176,16.26030423693724],[77.48706731823144,16.2760893970769]]]},"properties":{"region_id":"village_600767","name":"NAGANDODDI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

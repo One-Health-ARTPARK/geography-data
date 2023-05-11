@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50849805972919,14.69436394349997],[75.47325726001715,14.69226748104383],[75.49485967584918,14.65270754493606],[75.51756184887184,14.67780735322485],[75.50849805972919,14.69436394349997]]]},"properties":{"region_id":"village_604331","name":"BYADGI (RURAL)","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

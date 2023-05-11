@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55258125967637,11.98970232178485],[76.53709554403305,11.98946133123973],[76.53610054593919,11.9786387774643],[76.54507484412332,11.96772677300538],[76.55258125967637,11.98970232178485]]]},"properties":{"region_id":"village_619160","name":"CHANNAPATNA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

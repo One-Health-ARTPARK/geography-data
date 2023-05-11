@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00006163571776,12.03137142697566],[76.97727970595889,12.03757933643223],[76.9828289217369,12.00539889643119],[77.00849769935122,12.00722150233975],[77.00006163571776,12.03137142697566]]]},"properties":{"region_id":"village_619619","name":"KEMPANAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

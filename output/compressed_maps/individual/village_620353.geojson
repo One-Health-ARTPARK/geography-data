@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40534398601763,17.5352514302136],[77.40410262301337,17.55471044103212],[77.39659825361359,17.55379244100427],[77.39541491628721,17.53647356176298],[77.40534398601763,17.5352514302136]]]},"properties":{"region_id":"village_620353","name":"TIRMALAPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

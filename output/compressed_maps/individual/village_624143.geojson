@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85327640198037,13.46710681553661],[77.8538752151172,13.45240087403901],[77.86584948765771,13.45976621654395],[77.85327640198037,13.46710681553661]]]},"properties":{"region_id":"village_624143","name":"KOTAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

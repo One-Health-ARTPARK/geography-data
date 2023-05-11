@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50579577423699,12.63958418830947],[76.4978685297484,12.63289036698076],[76.50286037035715,12.62450251215844],[76.5103452948654,12.62273036725351],[76.50579577423699,12.63958418830947]]]},"properties":{"region_id":"village_613505","name":"NADUBOGANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

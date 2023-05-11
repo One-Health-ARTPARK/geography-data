@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80328162021273,13.5652858214232],[75.78926895145013,13.58595488448661],[75.77320837836794,13.56401647251084],[75.80328162021273,13.5652858214232]]]},"properties":{"region_id":"village_609338","name":"BALLAVARA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

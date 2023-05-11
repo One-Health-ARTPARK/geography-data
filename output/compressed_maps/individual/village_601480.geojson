@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19612275351822,15.85899103220812],[76.18971161702991,15.8520150333975],[76.17133149797772,15.8471586295576],[76.18624526176649,15.83771910393797],[76.19864601350619,15.8459806204521],[76.19612275351822,15.85899103220812]]]},"properties":{"region_id":"village_601480","name":"UPPARBASAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

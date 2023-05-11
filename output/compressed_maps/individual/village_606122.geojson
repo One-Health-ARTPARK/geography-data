@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81412520554876,13.93630387343043],[76.84924692601629,13.96482602169489],[76.823214646957,13.9938205835286],[76.79101323745769,13.98983323409583],[76.81412520554876,13.93630387343043]]]},"properties":{"region_id":"village_606122","name":"KODIHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5331858413785,16.23757382006023],[74.5320518751325,16.25313963875398],[74.50648796736057,16.24617508225128],[74.5331858413785,16.23757382006023]]]},"properties":{"region_id":"village_597574","name":"GAVANAL","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

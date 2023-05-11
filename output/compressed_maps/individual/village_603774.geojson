@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52227774302645,14.13587788948433],[74.51561281098702,14.14570144140522],[74.4973797985334,14.13727049153472],[74.50399872949767,14.12329999728292],[74.52227774302645,14.13587788948433]]]},"properties":{"region_id":"village_603774","name":"SULEBIL","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

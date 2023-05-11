@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26571932403569,15.66709317223107],[76.25485392370916,15.66653981252258],[76.25522507881516,15.63488912998762],[76.27125519790431,15.63791675588126],[76.2888269833335,15.6595471466214],[76.26571932403569,15.66709317223107]]]},"properties":{"region_id":"village_601294","name":"TALKERE","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

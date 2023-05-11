@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34433697596883,12.21132636253696],[76.33883093316312,12.2243069930568],[76.32232699197559,12.21397198501097],[76.32992103452949,12.20327070693306],[76.34433697596883,12.21132636253696]]]},"properties":{"region_id":"village_618496","name":"KUDINEERUMUDDANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

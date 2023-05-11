@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13045043728036,16.40241770367983],[76.13583734818837,16.4501406292581],[76.0929115961973,16.44739713140492],[76.13045043728036,16.40241770367983]]]},"properties":{"region_id":"village_599585","name":"DHAVALAGI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

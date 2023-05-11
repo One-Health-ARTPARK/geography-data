@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96946327558501,13.62587238356103],[77.95972127194126,13.62668227856453],[77.96151240933527,13.61591234946449],[77.97113612793551,13.61517663641181],[77.96946327558501,13.62587238356103]]]},"properties":{"region_id":"village_624024","name":"BYRAGANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

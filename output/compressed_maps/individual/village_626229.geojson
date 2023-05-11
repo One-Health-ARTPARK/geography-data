@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13637057197481,12.6125529046173],[77.12772430108465,12.61633859364053],[77.12572163480888,12.59669200104905],[77.13670079897348,12.59650894184518],[77.13637057197481,12.6125529046173]]]},"properties":{"region_id":"village_626229","name":"KOORNAGERE STATE FOREST","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

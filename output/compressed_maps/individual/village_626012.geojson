@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17613510947912,12.86537891840684],[77.16924222008275,12.85013645906008],[77.18488347193849,12.85209051560045],[77.17613510947912,12.86537891840684]]]},"properties":{"region_id":"village_626012","name":"GATTIPURA","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

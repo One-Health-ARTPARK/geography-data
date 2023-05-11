@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85664819050798,13.54329719044338],[74.8494699164102,13.55489503704848],[74.83384994413406,13.51782264102172],[74.85020348278881,13.51785011710895],[74.85664819050798,13.54329719044338]]]},"properties":{"region_id":"village_608781","name":"VANDAR","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

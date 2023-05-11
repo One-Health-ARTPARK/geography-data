@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80699669188498,13.30474089452661],[77.80903558486386,13.30386074478738],[77.81003321249229,13.30682571984952],[77.80845305273999,13.30760340712302],[77.80699669188498,13.30474089452661]]]},"properties":{"region_id":"village_625343","name":"VIJAYPURA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

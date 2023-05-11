@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12988209728947,12.42298822737421],[76.11157343196105,12.40984099675661],[76.13258192015273,12.40028950456414],[76.12988209728947,12.42298822737421]]]},"properties":{"region_id":"village_618207","name":"AITHANAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1184429505519,16.07030057986423],[75.09155312182517,16.06251021441236],[75.09006996631179,16.03095859106259],[75.10313764479334,16.0236038694417],[75.12525665357144,16.02692799231049],[75.1184429505519,16.07030057986423]]]},"properties":{"region_id":"village_598301","name":"M.CHANDARGI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

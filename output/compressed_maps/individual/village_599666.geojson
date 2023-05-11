@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20426346416433,16.26110613261351],[76.20982087270245,16.28619905809522],[76.19206016114694,16.29140097071485],[76.18048993586821,16.25990133728326],[76.20426346416433,16.26110613261351]]]},"properties":{"region_id":"village_599666","name":"NERABENCHI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

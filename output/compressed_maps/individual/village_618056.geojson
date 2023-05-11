@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95553626180347,12.15967380349296],[75.94416080295564,12.15764001363944],[75.94314021822775,12.13940861124732],[75.96181508410585,12.12343689810083],[75.96923573905303,12.1308579714453],[75.95553626180347,12.15967380349296]]]},"properties":{"region_id":"village_618056","name":"MATOOR","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

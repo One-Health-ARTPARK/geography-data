@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05332024600331,14.36244233942433],[76.03880088698081,14.35822153132696],[76.04229232133999,14.3483936442394],[76.05476687147457,14.34977316830286],[76.05332024600331,14.36244233942433]]]},"properties":{"region_id":"village_606663","name":"SULTANIPURA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

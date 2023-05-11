@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64202341986737,12.40245323344823],[76.6287263903178,12.39626259898695],[76.63515740545611,12.38336835152299],[76.64121258202604,12.38461538872958],[76.64202341986737,12.40245323344823]]]},"properties":{"region_id":"village_614287","name":"HOSAHALLI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

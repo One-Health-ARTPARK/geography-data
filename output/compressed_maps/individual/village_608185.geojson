@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17005033948077,13.75788337630381],[75.16298558547749,13.74608395572601],[75.19018297728645,13.72804421231116],[75.19762106444281,13.74519302830703],[75.18405555560685,13.7457672436614],[75.17005033948077,13.75788337630381]]]},"properties":{"region_id":"village_608185","name":"MITLA GODU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

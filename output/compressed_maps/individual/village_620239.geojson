@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86095159307601,17.42033844101693],[76.86100903178345,17.4474636706993],[76.82685406165454,17.42500539901515],[76.86095159307601,17.42033844101693]]]},"properties":{"region_id":"village_620239","name":"GANJALNKHED","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

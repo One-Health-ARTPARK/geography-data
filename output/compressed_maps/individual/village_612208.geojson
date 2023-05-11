@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62682071591551,13.22864384810597],[76.61403382979478,13.22064588298679],[76.63105442458529,13.21032743029331],[76.62682071591551,13.22864384810597]]]},"properties":{"region_id":"village_612208","name":"KOLAGHATTA KAVAL","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

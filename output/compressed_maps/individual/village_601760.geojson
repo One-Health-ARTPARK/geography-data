@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3169188748884,15.35745062801919],[76.29232825351505,15.36215820725694],[76.29488664797596,15.34639085565258],[76.31297419509646,15.34186322069653],[76.3169188748884,15.35745062801919]]]},"properties":{"region_id":"village_601760","name":"SHAHAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

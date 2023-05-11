@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48937256379931,12.87679267800333],[76.47482307762704,12.87967032916418],[76.46758465493984,12.87399146076296],[76.4701746819527,12.86882796831644],[76.48937256379931,12.87679267800333]]]},"properties":{"region_id":"village_617379","name":"BEKKADAMANIKERE","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

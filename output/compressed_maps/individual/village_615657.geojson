@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3007142561713,13.52173823188127],[76.29372453202363,13.52718443653382],[76.29117783729816,13.50740054254521],[76.29913049444826,13.50627701022677],[76.3007142561713,13.52173823188127]]]},"properties":{"region_id":"village_615657","name":"KASUVANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

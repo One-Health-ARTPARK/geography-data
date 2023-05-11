@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9051702451254,12.23820433314297],[75.89535536422963,12.23309274699438],[75.90177676444765,12.22663135363773],[75.90866646556793,12.22679837889347],[75.9051702451254,12.23820433314297]]]},"properties":{"region_id":"village_939072","name":"HOLALUGUKKE","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

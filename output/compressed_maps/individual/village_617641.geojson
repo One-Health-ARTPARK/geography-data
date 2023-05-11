@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36449755726684,13.09846910548392],[75.33620680228253,13.0528238381383],[75.35638474134089,13.05900058432781],[75.3669488701433,13.08960646416966],[75.36449755726684,13.09846910548392]]]},"properties":{"region_id":"village_617641","name":"INDABETTU","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

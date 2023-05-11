@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69786749813913,14.68717605277019],[75.68051254529557,14.64885458100248],[75.69702313092291,14.63509668977901],[75.73441033851259,14.64595288208308],[75.75867580141261,14.67577995503848],[75.69786749813913,14.68717605277019]]]},"properties":{"region_id":"village_604494","name":"MEDLERI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

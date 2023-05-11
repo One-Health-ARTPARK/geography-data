@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77596942831546,12.70952258681584],[75.75855050659474,12.72722171023827],[75.74633209349065,12.71110854121692],[75.77596942831546,12.70952258681584]]]},"properties":{"region_id":"village_615034","name":"KONGAHALLI","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

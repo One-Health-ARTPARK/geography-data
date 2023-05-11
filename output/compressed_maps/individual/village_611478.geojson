@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01198087506586,13.26138507419367],[77.00291963481013,13.2542524222466],[77.00397742745295,13.23960831791431],[77.01425811670676,13.2364750396661],[77.01833225702127,13.25773441762444],[77.01198087506586,13.26138507419367]]]},"properties":{"region_id":"village_611478","name":"MAKANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

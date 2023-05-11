@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0851780934412,15.03086294061173],[77.04953039285525,15.03597850712957],[77.04423624476061,15.00922310201474],[77.08274679647249,15.00560377050596],[77.0851780934412,15.03086294061173]]]},"properties":{"region_id":"village_604957","name":"RAYAPURA","parent":"subdistrict_5500","parent_name":"BALLARI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4580096249499,15.16515310416059],[76.4467885916783,15.17903581614469],[76.44533338709637,15.16996648887826],[76.4580096249499,15.16515310416059]]]},"properties":{"region_id":"village_604996","name":"EMMIHATTI","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

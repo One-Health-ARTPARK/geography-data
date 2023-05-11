@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36829565113344,13.10154054078837],[77.35966702230154,13.10516963888485],[77.36067715631002,13.09288306465002],[77.36829565113344,13.10154054078837]]]},"properties":{"region_id":"village_624913","name":"OBANAIKANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

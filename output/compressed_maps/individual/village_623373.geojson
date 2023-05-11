@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52766210966377,13.47486796005355],[77.50954820334567,13.47451285444946],[77.50597670320649,13.45479628204335],[77.52289133536816,13.45417543908791],[77.52766210966377,13.47486796005355]]]},"properties":{"region_id":"village_623373","name":"KALLINAIKANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

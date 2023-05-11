@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.59847850062633,14.37388323313507],[74.60500715740217,14.38457078859457],[74.59164345637657,14.4007838600231],[74.58125641218022,14.39829634549464],[74.5851841829466,14.37623705884439],[74.59847850062633,14.37388323313507]]]},"properties":{"region_id":"village_603522","name":"ULLURMATH","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

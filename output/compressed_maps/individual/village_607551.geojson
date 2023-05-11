@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03411696977014,14.38873706074895],[75.01951059804564,14.39317717319857],[75.01128990249232,14.37194725391137],[75.0360407111553,14.37940950692477],[75.03411696977014,14.38873706074895]]]},"properties":{"region_id":"village_607551","name":"THANDIGE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

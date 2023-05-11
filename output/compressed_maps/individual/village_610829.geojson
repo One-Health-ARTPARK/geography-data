@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22210937706097,13.69491590862574],[77.21180307923558,13.69447692587607],[77.21061896432745,13.68675407372114],[77.21954837472727,13.68256308724391],[77.22210937706097,13.69491590862574]]]},"properties":{"region_id":"village_610829","name":"BHAKTARAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

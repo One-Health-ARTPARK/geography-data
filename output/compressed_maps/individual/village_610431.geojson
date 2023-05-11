@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79394931816742,13.66755517769188],[76.7801416636238,13.66682312835552],[76.77807563977085,13.64599391686918],[76.79734114352495,13.64715481975181],[76.79394931816742,13.66755517769188]]]},"properties":{"region_id":"village_610431","name":"KILARADAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

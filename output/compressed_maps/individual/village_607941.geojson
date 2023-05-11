@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25871696228616,13.99962024046243],[75.22813515802642,13.98265447146539],[75.23585948429626,13.96431118675735],[75.25950312670157,13.97788962597592],[75.25871696228616,13.99962024046243]]]},"properties":{"region_id":"village_607941","name":"GOVATOOR","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82530706599623,12.45043278003767],[76.8242473259907,12.43628701206172],[76.83596187501324,12.4338732084592],[76.83895067898546,12.44815709403223],[76.82530706599623,12.45043278003767]]]},"properties":{"region_id":"village_614266","name":"TADAGAVADI","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

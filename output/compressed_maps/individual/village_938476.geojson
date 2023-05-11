@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54665285231837,12.91763259884231],[77.53656381606481,12.91917555630422],[77.53241654363103,12.91364707686152],[77.54067393555434,12.90886140775081],[77.54665285231837,12.91763259884231]]]},"properties":{"region_id":"village_938476","name":"AREHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

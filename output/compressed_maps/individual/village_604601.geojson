@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71981598512524,14.74984156301956],[75.72490105372121,14.7488481434582],[75.72886181450689,14.75611607875494],[75.72570961564115,14.75738512574366],[75.71981598512524,14.74984156301956]]]},"properties":{"region_id":"village_604601","name":"SIDDESWARANAGARA","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

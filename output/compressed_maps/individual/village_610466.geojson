@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92363589732265,13.55482053136507],[76.91192653088311,13.58493715156248],[76.90410850150218,13.57480672988463],[76.92363589732265,13.55482053136507]]]},"properties":{"region_id":"village_610466","name":"SIDLAKONA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

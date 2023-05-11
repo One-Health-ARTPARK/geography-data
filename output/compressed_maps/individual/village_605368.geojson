@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.65105759627143,14.17576752755777],[76.64204449366595,14.14197793282028],[76.66939924930152,14.14449055902541],[76.65105759627143,14.17576752755777]]]},"properties":{"region_id":"village_605368","name":"HEGGERE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

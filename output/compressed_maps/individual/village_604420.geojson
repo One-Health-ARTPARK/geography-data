@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37774489074398,14.4075494814759],[75.34939011879464,14.38869647512584],[75.37695958531161,14.37022248697083],[75.37774489074398,14.4075494814759]]]},"properties":{"region_id":"village_604420","name":"WARAHA","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

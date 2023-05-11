@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69251936684527,12.68475026657692],[77.68496335658543,12.68541548599521],[77.68180691765323,12.67089732877267],[77.68848411483758,12.67355965537542],[77.69251936684527,12.68475026657692]]]},"properties":{"region_id":"village_613331","name":"KALANAIKANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

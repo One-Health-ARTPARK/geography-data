@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20579282382322,13.47789661092605],[76.1942704943865,13.49920527219797],[76.18544579796003,13.49249715782814],[76.19408571347128,13.46884762628206],[76.20579282382322,13.47789661092605]]]},"properties":{"region_id":"village_609597","name":"RANGAPURA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

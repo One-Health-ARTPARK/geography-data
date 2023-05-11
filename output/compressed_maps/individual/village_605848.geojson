@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25217724065287,13.83923402035762],[76.22065783150695,13.84698541595681],[76.22549334887171,13.82746266443483],[76.25217724065287,13.83923402035762]]]},"properties":{"region_id":"village_605848","name":"MADHURE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

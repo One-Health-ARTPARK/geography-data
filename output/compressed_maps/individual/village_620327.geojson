@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.242044120391,17.62902722553803],[77.20643253750104,17.62636958354605],[77.19953258783777,17.58248863246061],[77.2315295271119,17.59192857865848],[77.242044120391,17.62902722553803]]]},"properties":{"region_id":"village_620327","name":"AINAPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

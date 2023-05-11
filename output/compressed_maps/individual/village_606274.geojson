@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91024102072566,14.56292362407319],[75.90878566651307,14.57422345442227],[75.87509531229888,14.59287180402076],[75.86376206169915,14.56378777115908],[75.87062851573643,14.54476396331969],[75.91024102072566,14.56292362407319]]]},"properties":{"region_id":"village_606274","name":"KONDAJJI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

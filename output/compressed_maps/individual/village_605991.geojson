@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39561366467642,13.60164795598803],[76.37874767831181,13.5891393771687],[76.3815049715637,13.57747864465826],[76.39231734928157,13.59065605494567],[76.39561366467642,13.60164795598803]]]},"properties":{"region_id":"village_605991","name":"SOMENAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

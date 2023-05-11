@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31770155902217,12.12004881228125],[76.31849811373732,12.15203094352914],[76.29545976111632,12.14654797542016],[76.29682013229846,12.11237299212085],[76.31770155902217,12.12004881228125]]]},"properties":{"region_id":"village_618855","name":"YEDATHORE","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

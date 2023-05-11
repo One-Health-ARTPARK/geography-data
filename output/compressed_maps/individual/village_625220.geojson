@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41044361570874,13.24672358270145],[77.39715426339248,13.24765836708074],[77.39655937707528,13.23100762340011],[77.40953314140519,13.23315874336347],[77.41044361570874,13.24672358270145]]]},"properties":{"region_id":"village_625220","name":"GULYA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32038339104685,17.40254702463416],[77.28836840523032,17.40416205967018],[77.29870151403517,17.36553929347566],[77.32874598891048,17.38834341901642],[77.32038339104685,17.40254702463416]]]},"properties":{"region_id":"village_620437","name":"HODEBEERANHALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

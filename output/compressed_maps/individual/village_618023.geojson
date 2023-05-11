@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84715915924637,12.31000542493621],[75.84492331734667,12.27981792505663],[75.85522468447617,12.2687732078531],[75.8741340588305,12.28777875955321],[75.86453982315118,12.30393537879577],[75.84715915924637,12.31000542493621]]]},"properties":{"region_id":"village_618023","name":"GUHYA","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89918500417626,12.27957691723202],[75.85869985587863,12.27422350195834],[75.84933420223595,12.25488998739842],[75.86898317275225,12.24841027624209],[75.8851040088733,12.25026842639398],[75.89918500417626,12.27957691723202]]]},"properties":{"region_id":"village_618028","name":"PULIYERI","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

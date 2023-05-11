@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49204532990589,12.3784627331143],[77.47164880060805,12.38816624309239],[77.46267357735745,12.36781327118678],[77.49204532990589,12.3784627331143]]]},"properties":{"region_id":"village_626571","name":"DODDAKOPPA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

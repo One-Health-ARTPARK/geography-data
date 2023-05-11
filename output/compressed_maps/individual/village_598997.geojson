@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10629723831863,16.03489649482348],[76.10129113744965,16.01068052657628],[76.13519316311425,16.00972498351715],[76.14282464398744,16.0244395969561],[76.10629723831863,16.03489649482348]]]},"properties":{"region_id":"village_598997","name":"KESARABHAVI","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38600909077621,13.17740965459052],[77.35526433320946,13.18437322322914],[77.36237226285567,13.16820491628728],[77.38297482558488,13.16557839331914],[77.38600909077621,13.17740965459052]]]},"properties":{"region_id":"village_624861","name":"BARDI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

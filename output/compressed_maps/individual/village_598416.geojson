@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0927957004375,16.45293323145845],[75.11474681586374,16.47664966882231],[75.08940771519077,16.48051560858931],[75.0927957004375,16.45293323145845]]]},"properties":{"region_id":"village_598416","name":"RABKAVI (RURAL)","parent":"subdistrict_7063","parent_name":"RABAKAVI BANAHATTI"}}
+]}

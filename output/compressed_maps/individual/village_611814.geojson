@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9708321226401,13.38631272888188],[76.96242938651781,13.38515290299576],[76.96315581117511,13.37471595778086],[76.97284437450371,13.37586427078517],[76.9708321226401,13.38631272888188]]]},"properties":{"region_id":"village_611814","name":"BYCHENAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

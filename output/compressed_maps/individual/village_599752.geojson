@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.929628032606,17.85605172514154],[76.90772216811472,17.85822730621844],[76.90417447101801,17.83612628586163],[76.92564020788357,17.83776037024838],[76.929628032606,17.85605172514154]]]},"properties":{"region_id":"village_599752","name":"KHANAPUR","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23460431242599,12.62412209072573],[77.22269627108182,12.6259080065201],[77.21905896157534,12.61513232209774],[77.22745421132032,12.61132748117211],[77.23460431242599,12.62412209072573]]]},"properties":{"region_id":"village_626266","name":"NEELASANDRA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

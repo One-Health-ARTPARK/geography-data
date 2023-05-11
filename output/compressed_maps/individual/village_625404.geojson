@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70102868356396,13.22140234239219],[77.68547989408334,13.21954657169918],[77.67870295699652,13.20567212072285],[77.70024756562208,13.20623963788516],[77.70102868356396,13.22140234239219]]]},"properties":{"region_id":"village_625404","name":"DODDASANNE","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

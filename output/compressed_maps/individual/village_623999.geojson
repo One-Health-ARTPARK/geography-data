@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.97657156031792,13.68408925254973],[78.0012054467591,13.66686919945152],[78.00678584956893,13.69538143881904],[77.97657156031792,13.68408925254973]]]},"properties":{"region_id":"village_623999","name":"RAMOJUPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

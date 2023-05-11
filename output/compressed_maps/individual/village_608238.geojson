@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30111685348177,13.67991310083617],[75.28635261559346,13.67884616898842],[75.286843134698,13.65196648968933],[75.30420867615567,13.65766062429366],[75.30111685348177,13.67991310083617]]]},"properties":{"region_id":"village_608238","name":"NAMBALA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

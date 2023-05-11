@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.14687821747425,12.68369414527016],[77.13830487475313,12.67951923824481],[77.13834570077674,12.65541285132573],[77.15305469168781,12.66101530938713],[77.15419955394604,12.67388815424263],[77.14687821747425,12.68369414527016]]]},"properties":{"region_id":"village_626210","name":"MANKUNDA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

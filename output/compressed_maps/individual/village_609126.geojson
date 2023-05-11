@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64365501936003,13.70518774954686],[75.62162445290356,13.70326052536799],[75.6333093528896,13.68689746577901],[75.64365501936003,13.70518774954686]]]},"properties":{"region_id":"village_609126","name":"HUNASANAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

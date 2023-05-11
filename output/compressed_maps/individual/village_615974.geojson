@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23734016393992,13.01375284403522],[76.21915257866131,13.02214630667002],[76.21096154676499,13.00782638805268],[76.23734016393992,13.01375284403522]]]},"properties":{"region_id":"village_615974","name":"GADENAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

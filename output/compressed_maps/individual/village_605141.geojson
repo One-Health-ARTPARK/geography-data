@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74486396271216,14.9602051686648],[76.74304045053498,14.98716785072579],[76.71620260463764,14.97204021872883],[76.74486396271216,14.9602051686648]]]},"properties":{"region_id":"village_605141","name":"KRISHNARAJAPURA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

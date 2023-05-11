@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38426869762931,17.77955264884881],[77.36874569036252,17.7691297296649],[77.37409230246381,17.75889409319526],[77.3883425837685,17.77469679690434],[77.38426869762931,17.77955264884881]]]},"properties":{"region_id":"village_600227","name":"BAHIRNALLI","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

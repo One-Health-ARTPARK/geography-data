@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00888109517032,12.17046966684009],[75.99611726434725,12.16458044467608],[75.96554609622605,12.15982722773572],[75.98892994270169,12.15203382169035],[76.00888109517032,12.17046966684009]]]},"properties":{"region_id":"village_924060","name":"RUDRABEEDU","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

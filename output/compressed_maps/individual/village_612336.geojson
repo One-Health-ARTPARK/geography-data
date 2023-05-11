@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67312835180515,13.13801586889473],[76.66169975431008,13.13249484360364],[76.65906910220608,13.12155771325287],[76.67053218301938,13.12285594810629],[76.67312835180515,13.13801586889473]]]},"properties":{"region_id":"village_612336","name":"ABALAKATTE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

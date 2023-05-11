@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31978227166357,13.34317207619823],[75.25644436564681,13.30884321233919],[75.26230327705998,13.28861216296984],[75.28406792721506,13.29395565280001],[75.31978227166357,13.34317207619823]]]},"properties":{"region_id":"village_609034","name":"MEGUR","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75474977781609,14.21350762863588],[75.70963116425231,14.21997251936931],[75.70771766197421,14.2078830638414],[75.75474977781609,14.21350762863588]]]},"properties":{"region_id":"village_606853","name":"BENAKANAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5785698772243,12.28964723370052],[76.56522905391944,12.28842600634368],[76.5659847359508,12.27738718435584],[76.57692308533652,12.28058537877873],[76.5785698772243,12.28964723370052]]]},"properties":{"region_id":"village_618744","name":"KEMMANNUPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24549348602338,14.63708895261338],[76.22879748106322,14.6301114149214],[76.22950404005444,14.61079359582349],[76.24798893574973,14.61159783696496],[76.24549348602338,14.63708895261338]]]},"properties":{"region_id":"village_606395","name":"GOWDIKATTE","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

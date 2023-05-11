@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.090732314449,12.92895511466229],[77.07013485988982,12.92945824450499],[77.06819524614119,12.92024660637912],[77.08135333119385,12.91811793621211],[77.090732314449,12.92895511466229]]]},"properties":{"region_id":"village_612566","name":"THIPPANAIKANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92942041400413,16.67042176323924],[76.92223121755706,16.64923730468363],[76.9339593199349,16.64511133592982],[76.9386153377122,16.66883740135029],[76.92942041400413,16.67042176323924]]]},"properties":{"region_id":"village_621159","name":"BOLARI","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73688442093571,14.65048447619521],[76.71837130952355,14.64315460691292],[76.73338214097446,14.6342210488415],[76.73688442093571,14.65048447619521]]]},"properties":{"region_id":"village_605226","name":"NETRENAHALLI","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

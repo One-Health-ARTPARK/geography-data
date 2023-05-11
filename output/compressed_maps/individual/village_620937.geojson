@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53978288930732,16.45569909588326],[76.51896345802619,16.44581121865997],[76.52978143750335,16.43774546244718],[76.53978288930732,16.45569909588326]]]},"properties":{"region_id":"village_620937","name":"BHAGYANAGAR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.64808307469828,14.60895800728755],[74.63493158257495,14.66931030084783],[74.59956741187109,14.61481526227017],[74.64808307469828,14.60895800728755]]]},"properties":{"region_id":"village_603154","name":"SARGUPPA","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23016591146363,16.63130629035794],[76.23132959903121,16.64754814769186],[76.19178277576752,16.6371470935476],[76.19936300156125,16.62454295274581],[76.23016591146363,16.63130629035794]]]},"properties":{"region_id":"village_599428","name":"NAGARAL DON","parent":"subdistrict_7071","parent_name":"DEVARA HIPPARAGI"}}
+]}

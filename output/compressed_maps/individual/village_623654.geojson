@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77109499880892,13.42903132834749],[77.77195422071959,13.43272889234668],[77.76205773832855,13.43922070445757],[77.76029396228941,13.43124410556044],[77.77109499880892,13.42903132834749]]]},"properties":{"region_id":"village_623654","name":"MARIMAKALAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

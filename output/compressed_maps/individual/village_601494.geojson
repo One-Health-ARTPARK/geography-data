@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17228152237081,15.83809119095997],[76.15107423802928,15.79617388562814],[76.18824359618745,15.78894633800629],[76.17228152237081,15.83809119095997]]]},"properties":{"region_id":"village_601494","name":"VANAGERI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

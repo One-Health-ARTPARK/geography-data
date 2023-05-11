@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82859961876393,16.32321871397204],[74.80328462427379,16.3287197478773],[74.80398598383947,16.29566619469886],[74.81718793057281,16.29215781571456],[74.82859961876393,16.32321871397204]]]},"properties":{"region_id":"village_597414","name":"DANDAPUR","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

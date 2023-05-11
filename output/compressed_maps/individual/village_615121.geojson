@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79140838854791,13.12621182966291],[75.77069698070005,13.1228722976392],[75.7827190612437,13.10788076352496],[75.79140838854791,13.12621182966291]]]},"properties":{"region_id":"village_615121","name":"NAGANHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

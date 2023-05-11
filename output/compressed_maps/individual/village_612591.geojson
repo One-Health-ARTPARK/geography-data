@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05619708036375,12.99728920559625],[77.04226543045634,12.98633005142811],[77.06165143225735,12.98328656532289],[77.05619708036375,12.99728920559625]]]},"properties":{"region_id":"village_612591","name":"CHANNAPURA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

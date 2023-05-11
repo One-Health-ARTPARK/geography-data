@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93548444936629,16.97346414488378],[76.91505445866028,16.98787941689404],[76.90775875450666,16.9579143073796],[76.93548444936629,16.97346414488378]]]},"properties":{"region_id":"village_620848","name":"RAJWAL","parent":"subdistrict_5586","parent_name":"JEVARGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09205059394688,14.07699587434024],[75.08506228518632,14.05935520002931],[75.10278886576292,14.06047495793563],[75.09205059394688,14.07699587434024]]]},"properties":{"region_id":"village_607248","name":"BILAGODI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

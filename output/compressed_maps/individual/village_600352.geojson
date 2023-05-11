@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32467142388056,16.12694158444701],[76.28568480465917,16.10606865885772],[76.33250507516972,16.09129704550279],[76.32467142388056,16.12694158444701]]]},"properties":{"region_id":"village_600352","name":"NAGARHAL","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

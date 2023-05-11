@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26015192421865,13.69371890133511],[75.2618432121118,13.70170743708136],[75.23403856604548,13.69369085123757],[75.24345405285709,13.68414245736092],[75.26015192421865,13.69371890133511]]]},"properties":{"region_id":"village_608228","name":"THEERTHAHALLI (RURAL)","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

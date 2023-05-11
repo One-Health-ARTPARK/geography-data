@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78568684175117,12.88678304824509],[77.77100264245003,12.89518075535111],[77.76819257102136,12.87917044499773],[77.78054565178489,12.87504527089575],[77.78568684175117,12.88678304824509]]]},"properties":{"region_id":"village_613234","name":"VOLAGEREKALLAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

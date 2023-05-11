@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1606877073534,12.68180680261718],[76.14887793980705,12.67802450429365],[76.15188665022715,12.66265275233119],[76.16254261550742,12.66360088702937],[76.1606877073534,12.68180680261718]]]},"properties":{"region_id":"village_616670","name":"KARAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

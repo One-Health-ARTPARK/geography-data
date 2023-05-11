@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89317971018065,13.33778239570121],[76.89489614146693,13.35261008126416],[76.88632055188693,13.35548484650575],[76.87949234999162,13.34017857174178],[76.89317971018065,13.33778239570121]]]},"properties":{"region_id":"village_611809","name":"GOLLAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

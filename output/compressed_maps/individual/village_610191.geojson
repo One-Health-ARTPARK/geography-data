@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.64157882768268,13.47498668265468],[76.61841660101294,13.47080250147656],[76.61449909997414,13.45522007691273],[76.652626051005,13.4585063125912],[76.64157882768268,13.47498668265468]]]},"properties":{"region_id":"village_610191","name":"THONNALAPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

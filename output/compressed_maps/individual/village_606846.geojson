@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70051932829938,14.09153093700022],[75.68565563344349,14.07785756104399],[75.70136407522227,14.07188972870667],[75.70051932829938,14.09153093700022]]]},"properties":{"region_id":"village_606846","name":"TAVARAGOPAGONDANAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

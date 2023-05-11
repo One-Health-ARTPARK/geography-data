@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97005477189799,13.65354466850079],[76.94561913193347,13.65358612265817],[76.94442128868626,13.61931384839123],[76.96979169831302,13.63082229295922],[76.97005477189799,13.65354466850079]]]},"properties":{"region_id":"village_610470","name":"BHUPASANDRA","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

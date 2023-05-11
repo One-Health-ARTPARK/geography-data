@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87853203177585,14.95334336074705],[75.87616244758321,14.97968866303603],[75.85830769800154,14.98663009368271],[75.85032373062359,14.93885400843925],[75.87853203177585,14.95334336074705]]]},"properties":{"region_id":"village_604618","name":"HAGARANUR","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

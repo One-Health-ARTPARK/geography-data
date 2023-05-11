@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.70576256447686,14.24603897792323],[75.68983496694267,14.25157776513899],[75.68593358216748,14.23032469060672],[75.69437214600521,14.22843729673987],[75.70576256447686,14.24603897792323]]]},"properties":{"region_id":"village_606788","name":"THAKKANAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

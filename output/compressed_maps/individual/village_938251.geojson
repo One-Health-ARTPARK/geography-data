@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74112523597029,13.00705317416983],[77.73614664865184,13.00761469600589],[77.73148407196021,12.99630566570252],[77.7422956760797,12.99832007229783],[77.74112523597029,13.00705317416983]]]},"properties":{"region_id":"village_938251","name":"SADARAMANGALA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62965986498277,12.47068296932592],[76.61276451106579,12.47336725324583],[76.61251327097713,12.46319518036475],[76.62349200981878,12.46274725426995],[76.62965986498277,12.47068296932592]]]},"properties":{"region_id":"village_614112","name":"MOLENAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

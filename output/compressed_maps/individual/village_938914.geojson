@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85636051296107,16.68816102154987],[76.84459202027041,16.68819709972699],[76.84900655271973,16.67058019118074],[76.8601587677067,16.67350283051358],[76.85636051296107,16.68816102154987]]]},"properties":{"region_id":"village_938914","name":"RAKHANGERA","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

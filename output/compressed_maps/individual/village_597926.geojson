@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45751856240015,15.55657508446051],[74.43168558065953,15.57637651902741],[74.42193094329426,15.55125124697439],[74.45751856240015,15.55657508446051]]]},"properties":{"region_id":"village_597926","name":"SHIROLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

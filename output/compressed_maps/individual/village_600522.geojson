@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61550076159602,15.95439748220608],[76.60550135602024,15.95519710143065],[76.60299563969185,15.93846389706953],[76.61952317849551,15.93939619919853],[76.61550076159602,15.95439748220608]]]},"properties":{"region_id":"village_600522","name":"ANTARGANGI (BIG)","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

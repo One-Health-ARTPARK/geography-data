@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01341537865397,12.89667214030169],[76.00060608882207,12.89848781973701],[76.00123737917954,12.88157611822086],[76.01640457935072,12.88989779572231],[76.01341537865397,12.89667214030169]]]},"properties":{"region_id":"village_616070","name":"MUTTANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

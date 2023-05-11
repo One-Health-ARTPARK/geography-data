@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49171685120767,16.30076486225773],[77.49457118883811,16.31889977869116],[77.46748969869634,16.32638539448899],[77.46695156660915,16.30425828721659],[77.49171685120767,16.30076486225773]]]},"properties":{"region_id":"village_600753","name":"WADDEPALLI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45031912863456,13.60977729735737],[77.42432346410541,13.61163531244157],[77.4137317202618,13.60842813913646],[77.407902774572,13.59604891277222],[77.45031912863456,13.60977729735737]]]},"properties":{"region_id":"village_623206","name":"BOMMASETTIHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

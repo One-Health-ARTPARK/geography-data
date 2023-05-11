@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83482594670843,13.54738019150443],[76.8392224574645,13.56268474918024],[76.82492894914675,13.56441418942654],[76.81935368868488,13.54806228019772],[76.83482594670843,13.54738019150443]]]},"properties":{"region_id":"village_611623","name":"YARABAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

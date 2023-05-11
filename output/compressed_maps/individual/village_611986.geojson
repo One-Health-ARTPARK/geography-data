@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40662797624995,13.36696877653564],[76.38964934075605,13.36215303758151],[76.39729980719642,13.35187598468443],[76.40527840207486,13.35442456457273],[76.40662797624995,13.36696877653564]]]},"properties":{"region_id":"village_611986","name":"ANIVALA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

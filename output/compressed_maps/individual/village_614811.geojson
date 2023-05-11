@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08616777691508,12.27019991182096],[77.0806600158225,12.27024861073024],[77.08025045460582,12.2579456437783],[77.08316265533911,12.25750769021406],[77.08616777691508,12.27019991182096]]]},"properties":{"region_id":"village_614811","name":"NANJANAYANAPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1606569604208,14.46189263557279],[76.14992020190836,14.46322914538796],[76.14463459745096,14.43155557848734],[76.16330063163178,14.44491900385844],[76.1606569604208,14.46189263557279]]]},"properties":{"region_id":"village_606472","name":"NINGAANAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

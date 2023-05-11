@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99153625040562,13.05629824844803],[77.97303212828108,13.04931870921015],[77.9931790184245,13.040582992906],[77.99153625040562,13.05629824844803]]]},"properties":{"region_id":"village_622127","name":"HUNGENAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

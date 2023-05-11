@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8400425516077,16.76737769890124],[75.82181872806028,16.71260565846032],[75.84988517918688,16.71079262652515],[75.8400425516077,16.76737769890124]]]},"properties":{"region_id":"village_599105","name":"HEGADIHAL","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

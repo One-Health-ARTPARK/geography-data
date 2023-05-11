@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92117293897716,15.7224860232089],[76.89386152045505,15.73070582745057],[76.88943246267543,15.72044984487858],[76.9160518970964,15.70443478768826],[76.92117293897716,15.7224860232089]]]},"properties":{"region_id":"village_601209","name":"CINCHERI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

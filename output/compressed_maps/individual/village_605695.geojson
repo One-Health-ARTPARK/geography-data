@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2096075580298,13.95218643562996],[76.20447883312443,13.92901877508945],[76.23380455251453,13.93329059250167],[76.23476126702921,13.94778850696262],[76.2096075580298,13.95218643562996]]]},"properties":{"region_id":"village_605695","name":"UGANEKATTE","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

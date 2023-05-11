@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80975120260486,13.49572206184413],[75.78581076737193,13.5033996100744],[75.76132899792199,13.48372946218889],[75.79324545465889,13.47121620986558],[75.80975120260486,13.49572206184413]]]},"properties":{"region_id":"village_609680","name":"THOGARIHANKAL","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02421444318965,13.13000045740893],[77.00186203990538,13.12795022443442],[77.01764445502094,13.11094514509557],[77.02421444318965,13.13000045740893]]]},"properties":{"region_id":"village_611535","name":"BANNIKUPPE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

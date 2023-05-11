@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10354929098858,13.84133893290022],[76.05397220064724,13.84429995839217],[76.06587979888425,13.82372655995028],[76.08382724629898,13.84103581526496],[76.10354929098858,13.84133893290022]]]},"properties":{"region_id":"village_609253","name":"THYGADAKATTE","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

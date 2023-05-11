@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86792841474035,12.66434511856496],[75.86396924561798,12.66569572613761],[75.85689926578888,12.66188084656166],[75.85681172138439,12.65816716967326],[75.8677156955389,12.66043317392431],[75.86792841474035,12.66434511856496]]]},"properties":{"region_id":"village_923970","name":"MANGALOOR","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

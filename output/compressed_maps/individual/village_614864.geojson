@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74633355881708,12.99088386030215],[75.73850866848649,12.98554583180294],[75.74254819024978,12.97727932677313],[75.75245207242735,12.98358366204801],[75.74633355881708,12.99088386030215]]]},"properties":{"region_id":"village_614864","name":"MAVINAHALLI","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

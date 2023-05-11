@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79630260851256,13.73267355213953],[74.75812811329926,13.73169163002198],[74.78483990486765,13.69854254180093],[74.79630260851256,13.73267355213953]]]},"properties":{"region_id":"village_608708","name":"CHITTOOR","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

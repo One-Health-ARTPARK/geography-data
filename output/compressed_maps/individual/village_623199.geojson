@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37839023068946,13.64508622780214],[77.36450826220057,13.61214919122597],[77.38397528059434,13.60936214395736],[77.39823461022966,13.62107066887004],[77.37839023068946,13.64508622780214]]]},"properties":{"region_id":"village_623199","name":"KURUDI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

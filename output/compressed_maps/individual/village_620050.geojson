@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42633054442386,17.51616393949036],[76.4250975235131,17.49995867689372],[76.44260193669022,17.49790232874328],[76.46306872428714,17.50954396010494],[76.42633054442386,17.51616393949036]]]},"properties":{"region_id":"village_620050","name":"MOGHA (K)","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

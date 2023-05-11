@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27031809517611,14.01215778580136],[75.25396811133317,14.01259042676415],[75.25857591860908,13.99954670196555],[75.26837783783962,13.99925474530139],[75.27031809517611,14.01215778580136]]]},"properties":{"region_id":"village_607943","name":"KEREHALLI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

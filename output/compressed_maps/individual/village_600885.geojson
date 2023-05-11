@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72708007517578,16.15388682934545],[76.69673204881875,16.15517028190608],[76.69127678073797,16.12597422047693],[76.72307550758477,16.13360805294406],[76.72708007517578,16.15388682934545]]]},"properties":{"region_id":"village_600885","name":"YATGAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

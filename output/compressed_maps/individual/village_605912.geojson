@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36290001526571,13.96627978956774],[76.32934365886477,13.96129093709156],[76.3405759438544,13.94346506563527],[76.36290001526571,13.96627978956774]]]},"properties":{"region_id":"village_605912","name":"KENCHIHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

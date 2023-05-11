@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87303384677948,13.38511048624532],[75.85702461882238,13.38566178915971],[75.86679521555504,13.37540208160904],[75.87303384677948,13.38511048624532]]]},"properties":{"region_id":"village_609771","name":"KURICHIKKANAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

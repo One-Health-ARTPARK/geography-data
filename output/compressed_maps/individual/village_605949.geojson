@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32287750471778,13.72344634544033],[76.30433237436206,13.72622323384921],[76.29860143718756,13.71278287165254],[76.32470739301488,13.71594218013625],[76.32287750471778,13.72344634544033]]]},"properties":{"region_id":"village_605949","name":"ULAVINAGONDI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03894532084904,14.4790722482822],[76.02512402561817,14.48115313518553],[76.02452318705905,14.45987440469947],[76.05007441186616,14.46220987445436],[76.03894532084904,14.4790722482822]]]},"properties":{"region_id":"village_606608","name":"LINGAPURA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

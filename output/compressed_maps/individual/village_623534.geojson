@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8017590005298,13.50392321820043],[77.79475051668136,13.50740381378142],[77.78966173718402,13.4988839488173],[77.79572989306638,13.49816707426162],[77.8017590005298,13.50392321820043]]]},"properties":{"region_id":"village_623534","name":"LAKKANAYAKANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

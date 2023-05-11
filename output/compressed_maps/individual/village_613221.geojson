@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7659930171934,12.85752601745673],[77.75164116735418,12.859554493091],[77.75020335819781,12.84532771089796],[77.7678628279853,12.84282218272067],[77.7659930171934,12.85752601745673]]]},"properties":{"region_id":"village_613221","name":"B.HOSAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

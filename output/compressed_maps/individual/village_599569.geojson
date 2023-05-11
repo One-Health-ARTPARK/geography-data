@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02946758956007,16.40110727043588],[76.03296510222967,16.43378428745724],[76.02465328857964,16.42963072482889],[76.01924521898616,16.40408766711617],[76.02946758956007,16.40110727043588]]]},"properties":{"region_id":"village_599569","name":"GUDADINNI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.1428065697314,13.17203278608601],[78.13250059212639,13.17642392881394],[78.12934190496574,13.16831707087056],[78.13959689886802,13.16661125690522],[78.1428065697314,13.17203278608601]]]},"properties":{"region_id":"village_621990","name":"MOORANDAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

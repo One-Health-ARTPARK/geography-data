@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84851492363697,12.20312084210078],[75.83464898812733,12.21399576389614],[75.8286825125395,12.20451232632209],[75.83983170760028,12.18901897449425],[75.85906240304126,12.18748931363215],[75.84851492363697,12.20312084210078]]]},"properties":{"region_id":"village_618032","name":"NALVATHOKLU","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

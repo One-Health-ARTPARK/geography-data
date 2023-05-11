@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79148543540245,17.2741341174672],[75.76337525271747,17.28259285978323],[75.75819514897562,17.2342025399319],[75.78250161612246,17.25191205692722],[75.79148543540245,17.2741341174672]]]},"properties":{"region_id":"village_599204","name":"JEVOOR","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

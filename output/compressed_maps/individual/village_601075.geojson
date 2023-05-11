@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57532956389346,15.70075026608515],[76.56425147948401,15.75581634569997],[76.51216251022338,15.7413085516229],[76.50994582519901,15.7167709376313],[76.54142581533308,15.69869657854618],[76.57532956389346,15.70075026608515]]]},"properties":{"region_id":"village_601075","name":"KALMANGI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

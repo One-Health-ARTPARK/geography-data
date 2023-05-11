@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37567798841319,16.89969160698882],[76.30637767700654,16.88465464787182],[76.31106797308517,16.83909632162632],[76.3531109715607,16.82835997759562],[76.37567798841319,16.89969160698882]]]},"properties":{"region_id":"village_599357","name":"YANKANCHI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

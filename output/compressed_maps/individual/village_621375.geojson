@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25130980945285,16.57852717184185],[77.2353751649964,16.57896044292774],[77.23923604863617,16.55957584059798],[77.2538619873231,16.56480864444442],[77.25130980945285,16.57852717184185]]]},"properties":{"region_id":"village_621375","name":"KYATHANHALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

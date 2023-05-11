@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97847910269336,12.06013039980214],[75.95623960384154,12.05463857482004],[75.95222928375361,12.04871487280741],[75.9722836373298,12.03562845938095],[75.9934819173758,12.04857557046099],[75.97847910269336,12.06013039980214]]]},"properties":{"region_id":"village_924066","name":"THAVALGERI","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08768914216574,13.98248173743703],[75.08709201252864,13.94867347975399],[75.12385262676031,13.96699803782654],[75.08768914216574,13.98248173743703]]]},"properties":{"region_id":"village_607893","name":"PUNAJE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

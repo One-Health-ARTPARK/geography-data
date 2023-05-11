@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89463496884474,12.78354608721199],[75.89809709052048,12.78974415687133],[75.89245290959528,12.79334542980421],[75.89463496884474,12.78354608721199]]]},"properties":{"region_id":"village_939008","name":"RAMENALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

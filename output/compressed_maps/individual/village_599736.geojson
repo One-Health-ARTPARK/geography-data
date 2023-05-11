@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04944306403168,17.9681368680005],[77.02232800967197,17.97282230453847],[77.01723436430531,17.93246802595055],[77.05327516973654,17.93894779980841],[77.04944306403168,17.9681368680005]]]},"properties":{"region_id":"village_599736","name":"MUCHALAM","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

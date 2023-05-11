@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95446539746888,13.07492313311709],[77.9538433155692,13.0842114308851],[77.94277945193802,13.08914603464163],[77.95018688497647,13.07693625821542],[77.95446539746888,13.07492313311709]]]},"properties":{"region_id":"village_622113","name":"YARRAPPANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

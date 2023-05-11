@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84646264556227,14.09098052554361],[75.84639702484655,14.10374511334178],[75.81426776705587,14.09447042638905],[75.81999129631556,14.08268944612897],[75.84646264556227,14.09098052554361]]]},"properties":{"region_id":"village_607024","name":"N.BASAVANAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

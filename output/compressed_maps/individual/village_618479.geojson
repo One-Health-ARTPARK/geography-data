@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38495404219692,12.27022666225215],[76.401700251957,12.26978585888244],[76.39224219685298,12.28268152152797],[76.38495404219692,12.27022666225215]]]},"properties":{"region_id":"village_618479","name":"THIPPUR","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80323839896549,11.9057060614841],[76.78488590690799,11.92038969362715],[76.7595833214937,11.91529047036255],[76.7599017891898,11.90151033641451],[76.80323839896549,11.9057060614841]]]},"properties":{"region_id":"village_619695","name":"SAGADE","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

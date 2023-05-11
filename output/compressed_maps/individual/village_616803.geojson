@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20649217189857,12.8418762615271],[76.18934808871046,12.84088979633067],[76.19706036019238,12.82927050864583],[76.20649217189857,12.8418762615271]]]},"properties":{"region_id":"village_616803","name":"CHANNAPURA","parent":"subdistrict_5559","parent_name":"HOLE NARSIPUR"}}
+]}

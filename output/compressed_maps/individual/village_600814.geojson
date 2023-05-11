@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19562268704445,16.22753472465789],[77.19945414943186,16.25088528249318],[77.17185698844301,16.23538203724281],[77.19562268704445,16.22753472465789]]]},"properties":{"region_id":"village_600814","name":"MURHANPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

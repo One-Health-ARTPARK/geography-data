@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88772253632342,12.56033709805114],[76.91727584472115,12.54118430477127],[76.92351553250782,12.56001752790327],[76.91416851466606,12.56398876782579],[76.88772253632342,12.56033709805114]]]},"properties":{"region_id":"village_614448","name":"SATHANUR","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

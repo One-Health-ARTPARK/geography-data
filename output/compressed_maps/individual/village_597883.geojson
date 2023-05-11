@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66895439009399,15.69179855270502],[74.66283622871092,15.69154959925651],[74.66028844257046,15.68303667385922],[74.67122833502913,15.68395387606635],[74.66895439009399,15.69179855270502]]]},"properties":{"region_id":"village_597883","name":"JIKANUR","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

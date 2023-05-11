@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29232724760747,14.17434526584392],[75.28150748223533,14.19925253527299],[75.27008494491778,14.1923828394042],[75.2777313503936,14.1608485138988],[75.29232724760747,14.17434526584392]]]},"properties":{"region_id":"village_607775","name":"HARIHARAPURA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

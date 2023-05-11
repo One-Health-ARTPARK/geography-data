@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4682961704938,12.48498611998137],[77.45568722348743,12.48323793859409],[77.45900013880396,12.45819941535991],[77.47969178714483,12.46280082553733],[77.4682961704938,12.48498611998137]]]},"properties":{"region_id":"village_626488","name":"KEBBEHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

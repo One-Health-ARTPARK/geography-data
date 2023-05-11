@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93498957843428,13.76596310090838],[77.92596281211256,13.78587109607261],[77.90698778230325,13.77910826696715],[77.90403108433684,13.75869810729715],[77.93498957843428,13.76596310090838]]]},"properties":{"region_id":"village_623918","name":"DEVARAJAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

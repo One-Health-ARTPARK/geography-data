@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88503655730509,16.0030503674602],[75.8684890350408,15.98869700392388],[75.88242254476611,15.98097921726901],[75.88503655730509,16.0030503674602]]]},"properties":{"region_id":"village_598893","name":"BENAKANAVARI","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37607198799871,13.45013469531488],[76.35173419679965,13.45062582818173],[76.35845377966648,13.42281882584716],[76.3766307591209,13.43343442662459],[76.37607198799871,13.45013469531488]]]},"properties":{"region_id":"village_615650","name":"HOLALAKERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

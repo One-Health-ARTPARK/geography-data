@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27243795176517,12.31051816784685],[76.24674581176244,12.31008557002991],[76.25489736220995,12.29683778854381],[76.27062856981013,12.29461734438726],[76.27243795176517,12.31051816784685]]]},"properties":{"region_id":"village_618419","name":"NILAVAGILU","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

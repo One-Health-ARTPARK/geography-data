@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80074990979064,15.28432557385151],[74.79526939072298,15.29539744616455],[74.77730125198104,15.29374070028992],[74.7814451966093,15.27877987453323],[74.80074990979064,15.28432557385151]]]},"properties":{"region_id":"village_602858","name":"CHIBBALGERI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

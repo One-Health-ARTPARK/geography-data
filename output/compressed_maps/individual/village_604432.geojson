@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53538369191558,14.47128616723756],[75.52032718426739,14.43716534266909],[75.53955407895883,14.43777706500544],[75.53538369191558,14.47128616723756]]]},"properties":{"region_id":"village_604432","name":"DODDAGUBBI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

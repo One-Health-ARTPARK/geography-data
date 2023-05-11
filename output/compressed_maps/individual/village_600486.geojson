@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70336595140522,16.1632516908119],[76.68518008389768,16.16250768153633],[76.69261514195226,16.1470265327029],[76.70336595140522,16.1632516908119]]]},"properties":{"region_id":"village_600486","name":"CHUKANAHATTI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

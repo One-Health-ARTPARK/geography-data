@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77369624253353,15.7214447859046],[76.76652521716481,15.69835445821299],[76.7944190004207,15.69037411915275],[76.79068271774076,15.71837385754792],[76.77369624253353,15.7214447859046]]]},"properties":{"region_id":"village_601217","name":"MALAKAPUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

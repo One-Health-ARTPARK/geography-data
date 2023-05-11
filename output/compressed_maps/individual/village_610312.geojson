@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81165179908623,13.90210632419924],[76.78170127713754,13.90509198959086],[76.78807378279795,13.88566717546504],[76.81165179908623,13.90210632419924]]]},"properties":{"region_id":"village_610312","name":"HOSUR","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

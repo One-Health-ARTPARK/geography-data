@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19262252233426,13.23589339011417],[76.18115390713304,13.2362305498432],[76.1778247625286,13.22819975937964],[76.19262252233426,13.23589339011417]]]},"properties":{"region_id":"village_615517","name":"KAMALAPURA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63145177968887,13.01126293635286],[75.6441246987029,13.03255514436498],[75.61369073300978,13.04007401095502],[75.61647984806757,13.01916939937248],[75.63145177968887,13.01126293635286]]]},"properties":{"region_id":"village_610012","name":"DEVARUNDA","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

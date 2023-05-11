@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85071938537723,14.31898704470214],[74.83712423670379,14.29070490182985],[74.8433347923464,14.26295671219452],[74.86115093926003,14.27401386561332],[74.85071938537723,14.31898704470214]]]},"properties":{"region_id":"village_603669","name":"HUSUR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

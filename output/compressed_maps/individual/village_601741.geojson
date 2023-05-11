@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02404062718553,15.24227484611936],[76.00623372128425,15.24132513286788],[76.00639948919499,15.19915085661313],[76.01836997491529,15.19856061260255],[76.02404062718553,15.24227484611936]]]},"properties":{"region_id":"village_601741","name":"MORANHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

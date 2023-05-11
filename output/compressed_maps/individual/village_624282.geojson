@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89772629003136,13.27328923638908],[77.88615663054335,13.28657661088769],[77.88150629702551,13.26917764811146],[77.89772629003136,13.27328923638908]]]},"properties":{"region_id":"village_624282","name":"VALLAPPANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45915589968386,17.48506672699371],[77.42773013905627,17.48854714100716],[77.38917182224388,17.45688462784113],[77.45099032185793,17.4471302826257],[77.45915589968386,17.48506672699371]]]},"properties":{"region_id":"village_620390","name":"CHINCHOLI [R]","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

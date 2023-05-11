@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08971160731602,12.73676232303394],[76.07826879407686,12.72835528465001],[76.0909668202788,12.7195861253864],[76.08971160731602,12.73676232303394]]]},"properties":{"region_id":"village_616588","name":"MADIHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

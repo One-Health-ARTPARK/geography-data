@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05076443110585,12.80482223318062],[76.03540464552377,12.79546675567093],[76.04025722140153,12.78582013430855],[76.05665996105567,12.79497963558493],[76.05076443110585,12.80482223318062]]]},"properties":{"region_id":"village_616562","name":"ANKANAIKANAHALLI KAVAL","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

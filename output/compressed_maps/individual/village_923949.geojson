@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85686577948513,12.64560908514217],[75.84873159706432,12.64547388232704],[75.84990262535008,12.62943485021829],[75.8642595175991,12.63416066305758],[75.85686577948513,12.64560908514217]]]},"properties":{"region_id":"village_923949","name":"GEJJEHANAKODU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40968828174714,13.97180904104781],[75.4044149157822,13.98300121758978],[75.39648698353292,13.97908054608768],[75.40273128646781,13.96792556580911],[75.40968828174714,13.97180904104781]]]},"properties":{"region_id":"village_608387","name":"BILGUNI","parent":"subdistrict_5520","parent_name":"SHIVAMOGGA"}}
+]}

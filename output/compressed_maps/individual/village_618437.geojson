@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43952297876952,12.31479014741025],[76.39185962641861,12.31285482818963],[76.42479458452341,12.28880755932572],[76.43952297876952,12.31479014741025]]]},"properties":{"region_id":"village_618437","name":"GAGENAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

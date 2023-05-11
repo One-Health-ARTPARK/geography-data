@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.98479950420166,14.21097310887245],[74.97390329058528,14.21864927525655],[74.96121174820011,14.20044209949625],[74.99314987318803,14.18876915966364],[74.98479950420166,14.21097310887245]]]},"properties":{"region_id":"village_607179","name":"BARADAVALLI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

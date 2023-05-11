@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33770745017281,11.9838150802659],[76.3211970087218,11.98013406497294],[76.32489809627711,11.92321842425076],[76.33705001181039,11.92230978057211],[76.34029707178381,11.95073724384178],[76.33770745017281,11.9838150802659]]]},"properties":{"region_id":"village_619071","name":"KITTHURU","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

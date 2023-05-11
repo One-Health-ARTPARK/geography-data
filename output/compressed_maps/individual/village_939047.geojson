@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93108473055271,12.70920913331555],[75.93996588583731,12.71650047056916],[75.9294847218819,12.71964239611895],[75.93108473055271,12.70920913331555]]]},"properties":{"region_id":"village_939047","name":"KYATANALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

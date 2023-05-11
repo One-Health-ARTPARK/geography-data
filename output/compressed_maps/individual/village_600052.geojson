@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24628963148028,18.37014069364603],[77.2250364566095,18.36463327807636],[77.21964789680446,18.34887629368238],[77.24836258366997,18.34931853717328],[77.24628963148028,18.37014069364603]]]},"properties":{"region_id":"village_600052","name":"GANESHPUR (U)","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0461808283595,14.10390286504499],[76.0333945687377,14.12501024872137],[76.02554960963079,14.10030360004749],[76.0461808283595,14.10390286504499]]]},"properties":{"region_id":"village_605664","name":"KAMANAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9922144099799,15.28175824785024],[74.97182666768471,15.28222137824581],[74.97214004456329,15.25804409455851],[74.98741556821231,15.25807639407328],[74.9922144099799,15.28175824785024]]]},"properties":{"region_id":"village_602449","name":"MUTTAGI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

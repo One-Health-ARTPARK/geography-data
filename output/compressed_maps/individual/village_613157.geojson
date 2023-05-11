@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63857843193047,12.76627029073469],[77.628403249147,12.77129883425969],[77.62740252907017,12.7637431808592],[77.63857843193047,12.76627029073469]]]},"properties":{"region_id":"village_613157","name":"VADERAMANCHANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

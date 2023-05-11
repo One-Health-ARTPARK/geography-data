@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87303023783818,12.75737719655511],[75.87663033657837,12.76741840484105],[75.86808846112287,12.76860695617118],[75.86605252744022,12.75910885407148],[75.87303023783818,12.75737719655511]]]},"properties":{"region_id":"village_938997","name":"KIRIBILAHA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

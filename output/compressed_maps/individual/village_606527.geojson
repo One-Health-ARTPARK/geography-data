@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33749345264631,14.42866019076754],[76.3037162274832,14.44464246301193],[76.33146919158159,14.40894629743186],[76.33749345264631,14.42866019076754]]]},"properties":{"region_id":"village_606527","name":"NIBAGUR","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71542644898281,16.68280684211843],[76.71930113724966,16.70724710152735],[76.68844056307131,16.69728645064791],[76.71542644898281,16.68280684211843]]]},"properties":{"region_id":"village_621097","name":"RAJAPUR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

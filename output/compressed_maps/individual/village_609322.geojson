@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12105906125583,13.69971769892453],[76.10555709538535,13.70144806216456],[76.10516405289239,13.68398541768572],[76.12105906125583,13.69971769892453]]]},"properties":{"region_id":"village_609322","name":"MUDIGERE","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

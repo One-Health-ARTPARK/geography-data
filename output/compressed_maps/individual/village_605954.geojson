@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32889778013268,13.66934240734555],[76.33233296515175,13.6861525803882],[76.30485859941356,13.6889665514017],[76.30160096296528,13.6595400286044],[76.32889778013268,13.66934240734555]]]},"properties":{"region_id":"village_605954","name":"KABBALA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60185213385769,15.96002976382485],[76.58105790229978,15.96950931722027],[76.57788336593191,15.94617468850563],[76.60077598463006,15.93650909090316],[76.60185213385769,15.96002976382485]]]},"properties":{"region_id":"village_600523","name":"MYADARNAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

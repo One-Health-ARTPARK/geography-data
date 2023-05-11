@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9257511198676,12.56999363093395],[76.92120600539074,12.56230315998292],[76.9260176899108,12.54486606172602],[76.93897511515584,12.55178623450576],[76.9257511198676,12.56999363093395]]]},"properties":{"region_id":"village_614449","name":"UMMADAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

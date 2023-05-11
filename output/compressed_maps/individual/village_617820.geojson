@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67755582380337,12.60643542893918],[75.67019499047565,12.5574816988186],[75.71895700639719,12.56399259491175],[75.7031709401779,12.60088221638435],[75.67755582380337,12.60643542893918]]]},"properties":{"region_id":"village_617820","name":"HAMMIYALA","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

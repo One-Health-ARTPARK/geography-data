@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5240709811981,13.04909314909687],[77.50773342223135,13.05130782866162],[77.50481288816114,13.03996743743072],[77.5191937264013,13.04203653733103],[77.5240709811981,13.04909314909687]]]},"properties":{"region_id":"village_938501","name":"DASARAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32126652588447,14.27942333469393],[76.32884911852092,14.30037784372731],[76.31858233785445,14.30359118719106],[76.30631861379578,14.28070404413698],[76.32126652588447,14.27942333469393]]]},"properties":{"region_id":"village_605527","name":"KATRALU","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

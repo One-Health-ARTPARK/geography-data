@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8753125877053,12.85662482592526],[76.86035751288698,12.85911488608876],[76.8653485201109,12.83960941475485],[76.8759965886682,12.83884935124508],[76.8753125877053,12.85662482592526]]]},"properties":{"region_id":"village_613917","name":"DEVARAMADAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

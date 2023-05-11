@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.76141297737607,15.91293885225943],[74.74773410207679,15.95315052150838],[74.72134093391335,15.9508755382062],[74.7411777901315,15.91692838049375],[74.76141297737607,15.91293885225943]]]},"properties":{"region_id":"village_598024","name":"MOHARE","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

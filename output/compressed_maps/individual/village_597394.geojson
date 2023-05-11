@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9119881733398,16.58138878356205],[74.88829667794445,16.52180066105186],[74.903937965593,16.50068497748356],[74.94019835745605,16.55805040713796],[74.9119881733398,16.58138878356205]]]},"properties":{"region_id":"village_597394","name":"ALAKHANUR","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

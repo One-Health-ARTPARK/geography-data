@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67728237290959,17.51550703445707],[76.64935901518494,17.48881734861677],[76.68097643305711,17.47322742363845],[76.67728237290959,17.51550703445707]]]},"properties":{"region_id":"village_620068","name":"DHANNUR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

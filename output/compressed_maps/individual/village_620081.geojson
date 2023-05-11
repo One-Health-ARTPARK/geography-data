@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51618954535007,17.42932340364144],[76.47675761461005,17.42968418634613],[76.47915225432915,17.35970678235671],[76.5277563460862,17.34341680240367],[76.51618954535007,17.42932340364144]]]},"properties":{"region_id":"village_620081","name":"MADIYAL","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

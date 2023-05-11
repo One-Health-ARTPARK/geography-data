@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87520252473388,14.77188946846864],[74.84629052149253,14.74770162876881],[74.87909119072883,14.73939499157959],[74.87520252473388,14.77188946846864]]]},"properties":{"region_id":"village_602998","name":"HEMMADI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

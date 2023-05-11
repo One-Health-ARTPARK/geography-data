@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34726583502577,14.54955002613599],[76.33435724887093,14.57440438321742],[76.32702534639193,14.54818513748969],[76.34726583502577,14.54955002613599]]]},"properties":{"region_id":"village_606483","name":"RANGAPURA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

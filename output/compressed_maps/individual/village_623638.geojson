@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74454184942672,13.39036424253393],[77.72728148814589,13.3938045932118],[77.72771460425113,13.38608119395364],[77.73537530429634,13.38474748616577],[77.74454184942672,13.39036424253393]]]},"properties":{"region_id":"village_623638","name":"KOTHANOOR","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

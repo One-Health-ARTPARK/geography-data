@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86544146716906,13.03541985469313],[75.85772580442264,13.0310846314288],[75.85762964220227,13.01951578851532],[75.86650528477388,13.02192496044704],[75.86544146716906,13.03541985469313]]]},"properties":{"region_id":"village_615414","name":"ANKIHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

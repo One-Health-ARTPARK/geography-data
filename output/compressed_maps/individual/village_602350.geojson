@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4643394293778,15.59944062520926],[75.48643747326904,15.59997372656884],[75.49453565537965,15.63522755316801],[75.45431039352455,15.62629636277147],[75.4643394293778,15.59944062520926]]]},"properties":{"region_id":"village_602350","name":"NAIKANUR","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

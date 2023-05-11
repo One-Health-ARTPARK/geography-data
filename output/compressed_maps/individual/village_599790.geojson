@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79290942336058,17.78819587530788],[76.78185537166189,17.7818223748846],[76.78058388323677,17.7714375334787],[76.79686986525391,17.77270866816123],[76.79290942336058,17.78819587530788]]]},"properties":{"region_id":"village_599790","name":"HANDRIYAL (RAJ)","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

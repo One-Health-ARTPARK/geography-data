@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28904436327014,13.83954306611008],[77.25669097218814,13.84135545544795],[77.25171721080014,13.82065457270094],[77.27861472985253,13.82253790300713],[77.28904436327014,13.83954306611008]]]},"properties":{"region_id":"village_610865","name":"PULAMACHI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

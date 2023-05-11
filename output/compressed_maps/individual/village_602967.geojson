@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8529058416841,14.8892122697214],[74.84352432639487,14.92003426583081],[74.82822720145414,14.89193290301837],[74.8529058416841,14.8892122697214]]]},"properties":{"region_id":"village_602967","name":"KEREHOSALLI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

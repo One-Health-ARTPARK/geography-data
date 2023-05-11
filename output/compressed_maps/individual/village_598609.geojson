@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36226412164291,16.1874535846428],[75.32895172766364,16.17554800192579],[75.35564070254182,16.1606803434531],[75.36226412164291,16.1874535846428]]]},"properties":{"region_id":"village_598609","name":"NAGANAPUR","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

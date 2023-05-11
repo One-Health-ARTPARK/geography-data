@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16708004913097,18.22848155592645],[77.14887426054591,18.22139744723977],[77.16794019598034,18.20167970030417],[77.16708004913097,18.22848155592645]]]},"properties":{"region_id":"village_600005","name":"BALUR","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

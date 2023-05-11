@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35761147105664,12.53795440166714],[76.35054905212341,12.53780098187718],[76.34369201887303,12.52695983757581],[76.34920804018147,12.51684356235181],[76.36378591493958,12.52367918959349],[76.35761147105664,12.53795440166714]]]},"properties":{"region_id":"village_618581","name":"GANDHANAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

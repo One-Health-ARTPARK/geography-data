@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0184973574815,11.99989779850654],[76.01986807680655,12.01155568232834],[76.01577002537435,12.02942849209889],[76.00427929009658,12.03121920765424],[76.0043351224376,11.99815081609897],[76.0184973574815,11.99989779850654]]]},"properties":{"region_id":"village_618074","name":"KUMTOOR","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

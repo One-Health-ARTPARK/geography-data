@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0929196458665,13.23485317466617],[77.07252028171263,13.23485670890356],[77.08800639504051,13.21896862275994],[77.0929196458665,13.23485317466617]]]},"properties":{"region_id":"village_611562","name":"BANAVARA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

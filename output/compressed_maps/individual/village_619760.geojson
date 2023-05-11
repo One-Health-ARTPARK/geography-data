@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01853439979901,11.93006460327911],[77.01976866955631,11.94261136455756],[77.01639133905991,11.94619103301444],[77.0143707200523,11.93276443793424],[77.01853439979901,11.93006460327911]]]},"properties":{"region_id":"village_619760","name":"VAGARAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

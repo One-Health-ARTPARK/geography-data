@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49006154340307,16.51793470273043],[76.47509288943134,16.50475005322496],[76.48241912810761,16.48215226092782],[76.49872789492122,16.48561197639053],[76.49006154340307,16.51793470273043]]]},"properties":{"region_id":"village_620936","name":"ISAMPUR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

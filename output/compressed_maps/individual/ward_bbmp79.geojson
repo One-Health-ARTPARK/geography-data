@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62003100026904,13.00005399976379],[77.62297100040104,12.98146599973018],[77.63707300033823,12.98276599981972],[77.62003100026904,13.00005399976379]]]},"properties":{"region_id":"ward_bbmp79","name":"WARD NO.79 (SARVAGNA NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

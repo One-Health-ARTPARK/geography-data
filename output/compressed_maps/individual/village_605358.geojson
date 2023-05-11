@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79685865324322,14.22029409411895],[76.78200666792463,14.23036050332206],[76.7674554053392,14.21797761384156],[76.7732044470503,14.20477905256361],[76.79685865324322,14.22029409411895]]]},"properties":{"region_id":"village_605358","name":"BOMBERAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.29250881497822,12.94475824015675],[78.28749274415071,12.94761070278607],[78.28825305229303,12.9434499730415],[78.29250881497822,12.94475824015675]]]},"properties":{"region_id":"village_622810","name":"NAKKANAHALLI","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

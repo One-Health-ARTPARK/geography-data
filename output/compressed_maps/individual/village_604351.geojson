@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41730187150002,14.59125241966016],[75.41581849075179,14.60833095787048],[75.37149737212542,14.60734868614381],[75.37398171582534,14.57998385605959],[75.41730187150002,14.59125241966016]]]},"properties":{"region_id":"village_604351","name":"CHINNAMULAGUND","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

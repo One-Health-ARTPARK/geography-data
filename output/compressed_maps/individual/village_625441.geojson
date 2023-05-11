@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75503070318848,13.19457762329641],[77.74897972340936,13.18841792636414],[77.75706429408643,13.18482157072759],[77.75503070318848,13.19457762329641]]]},"properties":{"region_id":"village_625441","name":"REDDIHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1037575871939,12.52142605178727],[77.11438852529388,12.54052135312014],[77.08723893060544,12.53649806135828],[77.1037575871939,12.52142605178727]]]},"properties":{"region_id":"village_614612","name":"HALLIKERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

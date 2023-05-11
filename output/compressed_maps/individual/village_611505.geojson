@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07164718001799,13.19630989059005],[77.0619957542913,13.20430006296509],[77.05701435987511,13.18837839820643],[77.0644146707846,13.18717641936898],[77.07164718001799,13.19630989059005]]]},"properties":{"region_id":"village_611505","name":"YELADAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

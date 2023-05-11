@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73201024271239,12.27643662936253],[75.71844474975981,12.2797148621938],[75.70891371202192,12.27721009913794],[75.71666072484109,12.26566590326675],[75.72422844002408,12.26396047547029],[75.73201024271239,12.27643662936253]]]},"properties":{"region_id":"village_617855","name":"KONANJAGERI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

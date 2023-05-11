@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.741676657685,17.19308472798638],[75.77624923464948,17.22063367887218],[75.75684208232322,17.22904227659611],[75.741676657685,17.19308472798638]]]},"properties":{"region_id":"village_599201","name":"SHIGANAPUR","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

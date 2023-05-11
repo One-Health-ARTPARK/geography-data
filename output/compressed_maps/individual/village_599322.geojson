@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39420249900118,17.05479952132244],[76.33858290024158,17.05964626479598],[76.35258446630097,16.99258348194944],[76.39172596710904,17.0009350166612],[76.39420249900118,17.05479952132244]]]},"properties":{"region_id":"village_599322","name":"KAKKALAMELI","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

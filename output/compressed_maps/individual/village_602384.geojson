@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21922372368428,15.36288568338038],[75.19392691243795,15.36551215039976],[75.1771786528369,15.35149382975839],[75.2236303617886,15.34780405413539],[75.21922372368428,15.36288568338038]]]},"properties":{"region_id":"village_602384","name":"BOMMAPUR","parent":"subdistrict_7079","parent_name":"HUBBALLI URBAN"}}
+]}

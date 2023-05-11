@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75355630327684,15.87648211269281],[76.7263083505499,15.81695133102019],[76.73582877356368,15.80695314718596],[76.75355630327684,15.87648211269281]]]},"properties":{"region_id":"village_601129","name":"MULLUR","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

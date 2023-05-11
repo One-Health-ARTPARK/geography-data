@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85036123324234,13.1713481210548],[77.8354293989857,13.18156489405105],[77.82924478970317,13.16780134276693],[77.84593265920499,13.15819684946398],[77.85036123324234,13.1713481210548]]]},"properties":{"region_id":"village_625503","name":"GULLAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

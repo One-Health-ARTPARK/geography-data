@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05120267343322,17.01286822078119],[77.02927108960198,17.01877667827849],[77.02280688217276,17.00221337486221],[77.04823416651631,16.99950926977888],[77.05120267343322,17.01286822078119]]]},"properties":{"region_id":"village_620694","name":"DEVAPUR","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

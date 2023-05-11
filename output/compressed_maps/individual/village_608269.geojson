@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33813389620072,13.62236916758711],[75.32064112612456,13.61940647988665],[75.3336816317094,13.60195187953458],[75.34506030306116,13.61212520706532],[75.33813389620072,13.62236916758711]]]},"properties":{"region_id":"village_608269","name":"HERAMBAPURA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

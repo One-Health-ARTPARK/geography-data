@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4354712759973,13.67324796815086],[77.40349318040764,13.67627172718303],[77.39651298430759,13.66079152976866],[77.4390151176289,13.65423331215854],[77.4354712759973,13.67324796815086]]]},"properties":{"region_id":"village_623193","name":"HAMPASANDRA","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81410336313745,14.40829809845188],[76.84603685958541,14.42184991977262],[76.82852408355328,14.43521487590546],[76.79885020228947,14.42752868146757],[76.81410336313745,14.40829809845188]]]},"properties":{"region_id":"village_605312","name":"GUDIHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

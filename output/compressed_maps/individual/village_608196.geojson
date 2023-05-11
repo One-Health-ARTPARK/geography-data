@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17477841325915,13.71009543465739],[75.16589608354275,13.70513063394839],[75.15493249485449,13.67575653658309],[75.17765529286085,13.6833266048564],[75.17477841325915,13.71009543465739]]]},"properties":{"region_id":"village_608196","name":"KOKKODU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

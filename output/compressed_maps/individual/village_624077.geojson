@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.91315357466279,13.55597570594903],[77.90202253396174,13.54027347118817],[77.91394976898418,13.53943822498131],[77.91315357466279,13.55597570594903]]]},"properties":{"region_id":"village_624077","name":"KUDUPAKUNTE","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

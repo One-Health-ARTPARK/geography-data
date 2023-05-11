@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84049028433186,13.34567036955393],[77.82500812465278,13.32165348268523],[77.85459075056461,13.32568281230633],[77.84049028433186,13.34567036955393]]]},"properties":{"region_id":"village_624243","name":"BAKTHARAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

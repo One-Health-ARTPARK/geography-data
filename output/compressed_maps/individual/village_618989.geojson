@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41508469805223,12.00122372890828],[76.38650809208782,11.98670411377737],[76.40918252462022,11.97545022673003],[76.41508469805223,12.00122372890828]]]},"properties":{"region_id":"village_618989","name":"SARAGUR","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

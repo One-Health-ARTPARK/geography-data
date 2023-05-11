@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69787631697231,12.88503651016418],[77.70399875872427,12.89603079797267],[77.69895332852991,12.89695103555817],[77.69787631697231,12.88503651016418]]]},"properties":{"region_id":"village_613120","name":"HADOSIDDAPURA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

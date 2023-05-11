@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4790899987105,13.58059329354127],[77.46521633846955,13.59181504544917],[77.46385332075967,13.5828914300914],[77.4790899987105,13.58059329354127]]]},"properties":{"region_id":"village_623218","name":"KURUGODU THAMMANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

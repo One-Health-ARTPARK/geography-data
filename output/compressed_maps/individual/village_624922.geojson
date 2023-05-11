@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32499261105148,13.06721430712562],[77.32635939447788,13.07602559088017],[77.30938894963538,13.08220244489494],[77.30894941371763,13.06989762282001],[77.32499261105148,13.06721430712562]]]},"properties":{"region_id":"village_624922","name":"BHOOSANDRA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

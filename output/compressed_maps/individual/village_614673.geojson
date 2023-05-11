@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01655885354901,12.42318402952609],[77.00587508408636,12.42209882356332],[77.00769521174959,12.40665048651596],[77.01429652140786,12.41233803093155],[77.01655885354901,12.42318402952609]]]},"properties":{"region_id":"village_614673","name":"HULLEGALA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

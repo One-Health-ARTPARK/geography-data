@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.31529114557566,13.38477143084951],[75.2951979734648,13.36463125889891],[75.31223717427225,13.34780989392128],[75.31529114557566,13.38477143084951]]]},"properties":{"region_id":"village_609021","name":"HEGGARU","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

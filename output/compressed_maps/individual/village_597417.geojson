@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97967056441283,16.35803383538859],[74.96075417744737,16.38181128327381],[74.92807978266441,16.36604523408521],[74.96140273874762,16.31641258532316],[74.99045314862428,16.32195008775711],[74.97967056441283,16.35803383538859]]]},"properties":{"region_id":"village_597417","name":"MUDALGI (RURAL)","parent":"subdistrict_7099","parent_name":"MUDALGI"}}
+]}

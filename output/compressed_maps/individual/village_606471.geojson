@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14992020190836,14.46322914538796],[76.12156514101464,14.46190195373738],[76.1295918256906,14.43047911607182],[76.14463459745096,14.43155557848734],[76.14992020190836,14.46322914538796]]]},"properties":{"region_id":"village_606471","name":"HALEKAL","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

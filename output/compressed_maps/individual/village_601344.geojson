@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02511694854437,15.52712855466608],[76.00405056403169,15.52854449975686],[76.00154649760144,15.50870377800126],[76.01755285674908,15.5155002417814],[76.02511694854437,15.52712855466608]]]},"properties":{"region_id":"village_601344","name":"CHANPANHALLI","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

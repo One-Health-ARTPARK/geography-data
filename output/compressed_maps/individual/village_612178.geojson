@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52556374933843,13.14025711753239],[76.51233456363288,13.13731899798013],[76.50834338483293,13.12075285688356],[76.52597401548981,13.12679981088302],[76.52556374933843,13.14025711753239]]]},"properties":{"region_id":"village_612178","name":"HULLENAHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

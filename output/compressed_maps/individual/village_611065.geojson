@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24811612415262,13.54187824266231],[77.23794463624847,13.54301807968234],[77.23996625247624,13.53743313473715],[77.24811612415262,13.54187824266231]]]},"properties":{"region_id":"village_611065","name":"KAMENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

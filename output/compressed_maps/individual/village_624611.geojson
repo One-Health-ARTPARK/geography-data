@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95706767853976,13.27818498171528],[77.96089121658204,13.28439003884891],[77.95275957885363,13.28761314547367],[77.9522457856793,13.28101219625723],[77.95706767853976,13.27818498171528]]]},"properties":{"region_id":"village_624611","name":"HIREPALYA","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97273692080176,12.87207810286537],[75.97321033857173,12.8830298118805],[75.96732804373607,12.8845950393477],[75.96797353165152,12.87075444285847],[75.97273692080176,12.87207810286537]]]},"properties":{"region_id":"village_616435","name":"SANTHEBASAVANAHALLI","parent":"subdistrict_5557","parent_name":"ALUR"}}
+]}

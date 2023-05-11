@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9212805782335,12.69049173870342],[76.89856437822776,12.69233505788479],[76.89996304274901,12.67604085920367],[76.91857333823448,12.6737788044752],[76.9212805782335,12.69049173870342]]]},"properties":{"region_id":"village_614335","name":"HALLEGERE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21223886189485,14.07664188440267],[75.1930550562237,14.08719904966068],[75.18814665244678,14.0689120953799],[75.21223886189485,14.07664188440267]]]},"properties":{"region_id":"village_607279","name":"TAVAREHALLI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

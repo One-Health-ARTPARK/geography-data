@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02177875645722,12.45095871110288],[76.01508788748988,12.4503088358891],[76.00862051085399,12.43721442335086],[76.02257768140801,12.4379513045737],[76.02177875645722,12.45095871110288]]]},"properties":{"region_id":"village_618126","name":"DODDAHONNURKAVAL","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

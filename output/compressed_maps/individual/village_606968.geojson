@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00018805623822,14.15068550680108],[75.97350150166626,14.15023740009944],[75.98104621399314,14.11807511783491],[75.99558054703806,14.12257736676593],[76.00018805623822,14.15068550680108]]]},"properties":{"region_id":"village_606968","name":"KAKANUR","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

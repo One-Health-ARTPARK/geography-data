@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4470685360473,16.3217876304805],[77.42672493033271,16.30241318170568],[77.45062626042329,16.29296896041186],[77.4470685360473,16.3217876304805]]]},"properties":{"region_id":"village_600749","name":"SAGAMKUNTA","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

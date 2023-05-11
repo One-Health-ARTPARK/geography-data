@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42280805976436,12.47353890435888],[76.4083788510326,12.46482534344372],[76.40650536363074,12.45837582775985],[76.4253089439252,12.45457941505508],[76.42846563254315,12.46814399119416],[76.42280805976436,12.47353890435888]]]},"properties":{"region_id":"village_618661","name":"KAGGERE","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23223077963621,12.66331356290195],[77.21204453559493,12.66037026784889],[77.2149737983509,12.65058376414982],[77.23223077963621,12.66331356290195]]]},"properties":{"region_id":"village_626255","name":"THATTEKERE","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

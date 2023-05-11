@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76118713337213,11.97857151720021],[76.74049397864005,11.98192405648784],[76.7458081042797,11.96454778340909],[76.76118713337213,11.97857151720021]]]},"properties":{"region_id":"village_619682","name":"HIREBEGUR","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

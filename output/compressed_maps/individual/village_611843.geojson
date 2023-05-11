@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86068314575742,13.44884819518496],[76.87999474499335,13.46261998992237],[76.8706663155063,13.48146646686926],[76.8543104719993,13.47869000358955],[76.86068314575742,13.44884819518496]]]},"properties":{"region_id":"village_611843","name":"MADENAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

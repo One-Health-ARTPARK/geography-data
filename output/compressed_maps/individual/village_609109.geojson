@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.728881668176,13.69520867920425],[75.7401351451666,13.72182886711239],[75.72417070489053,13.7360408146896],[75.728881668176,13.69520867920425]]]},"properties":{"region_id":"village_609109","name":"ARSIKERE","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

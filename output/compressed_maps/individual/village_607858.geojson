@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99330745113944,13.96516365227003],[74.96894615281168,13.96849702965686],[74.96705843098161,13.95735282005934],[74.98276395457606,13.9555117369191],[74.99330745113944,13.96516365227003]]]},"properties":{"region_id":"village_607858","name":"KESARE","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

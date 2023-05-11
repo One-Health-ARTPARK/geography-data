@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24278225823421,15.52375428480789],[76.23158841514997,15.50303797264454],[76.26100032514428,15.50269301996951],[76.24278225823421,15.52375428480789]]]},"properties":{"region_id":"village_601798","name":"CHILKMUKKI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

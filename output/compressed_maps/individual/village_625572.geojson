@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.92973471296683,13.17033515104478],[77.9159216097178,13.16075280496499],[77.92941980110109,13.15937035563695],[77.92973471296683,13.17033515104478]]]},"properties":{"region_id":"village_625572","name":"HULUVANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

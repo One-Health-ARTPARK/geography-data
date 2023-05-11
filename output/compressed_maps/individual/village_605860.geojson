@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18197458447347,13.80210404979578],[76.15986542924844,13.80798792408564],[76.15153670869823,13.78585197195871],[76.17431255656915,13.78445911504317],[76.18197458447347,13.80210404979578]]]},"properties":{"region_id":"village_605860","name":"SETTYHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

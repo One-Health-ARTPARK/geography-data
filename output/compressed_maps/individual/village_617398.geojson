@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50215644319005,12.84489208576859],[76.49455232848305,12.84492610230317],[76.48959838093026,12.83612592419959],[76.50010343233969,12.83455710976159],[76.50215644319005,12.84489208576859]]]},"properties":{"region_id":"village_617398","name":"KANTIRAYAPURA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

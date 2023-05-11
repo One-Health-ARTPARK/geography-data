@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59775579364603,16.43267601521618],[76.6018809708848,16.45859790876958],[76.58512021368942,16.45705193588916],[76.58133906342835,16.43851959179556],[76.59775579364603,16.43267601521618]]]},"properties":{"region_id":"village_621015","name":"SIDDAPUR","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

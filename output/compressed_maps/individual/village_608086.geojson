@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20402585605744,13.79937351075038],[75.19581293554849,13.80513221566682],[75.17908610634093,13.79071335383797],[75.196205724049,13.7819392566943],[75.20402585605744,13.79937351075038]]]},"properties":{"region_id":"village_608086","name":"NONABURU","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

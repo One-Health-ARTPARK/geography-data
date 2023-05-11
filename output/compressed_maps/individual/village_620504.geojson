@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3697429251647,17.17815506914842],[77.34079564242876,17.17840906780753],[77.33673943259693,17.15340751227652],[77.36503839999146,17.14565918114203],[77.3697429251647,17.17815506914842]]]},"properties":{"region_id":"village_620504","name":"MADKAL","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

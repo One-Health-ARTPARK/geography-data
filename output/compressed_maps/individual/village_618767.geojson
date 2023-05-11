@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50501623654665,12.1481696756115],[76.53456064751056,12.16262434692726],[76.50708953375792,12.18879242735417],[76.50501623654665,12.1481696756115]]]},"properties":{"region_id":"village_618767","name":"HAROHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

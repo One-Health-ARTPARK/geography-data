@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26118884837852,13.53941342163257],[77.25639255113856,13.55343640325745],[77.24729699478229,13.55344985031282],[77.24905059176382,13.53820347701725],[77.26118884837852,13.53941342163257]]]},"properties":{"region_id":"village_611000","name":"DEVARAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

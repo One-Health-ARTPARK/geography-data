@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71247275115986,13.04506961640172],[77.69703220564112,13.04515473690384],[77.69555226507161,13.03854279995541],[77.7149628547548,13.03194641169715],[77.71247275115986,13.04506961640172]]]},"properties":{"region_id":"village_613081","name":"KITHIGANUR","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

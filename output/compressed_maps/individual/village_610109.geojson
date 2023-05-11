@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5702159951949,13.64027232981325],[76.55436057286667,13.64031188586076],[76.54935211054318,13.60910360639391],[76.56082993465894,13.61080603370738],[76.5702159951949,13.64027232981325]]]},"properties":{"region_id":"village_610109","name":"KURIHATTI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

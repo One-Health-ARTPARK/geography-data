@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37140532422846,13.40828012124776],[77.37053439721076,13.42232450176722],[77.36419399466408,13.42343580482738],[77.36116965918346,13.4024377011268],[77.37140532422846,13.40828012124776]]]},"properties":{"region_id":"village_624982","name":"SRIRAMANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

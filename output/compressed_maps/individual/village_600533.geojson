@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57820262535765,15.8886136760693],[76.56866854943618,15.89203630592153],[76.5676964692661,15.87520674294628],[76.5776299814085,15.87236367593983],[76.57820262535765,15.8886136760693]]]},"properties":{"region_id":"village_600533","name":"KAMANDALDINNI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.77379319643495,13.22118320479698],[77.76528079687652,13.22287153132697],[77.76934697621147,13.21470146577685],[77.77379319643495,13.22118320479698]]]},"properties":{"region_id":"village_625435","name":"MUDDENAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

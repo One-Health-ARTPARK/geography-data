@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.74645471904898,12.9585980460613],[77.75282765687518,12.96464854549543],[77.75523962977017,12.97669595344164],[77.74221065898786,12.97092172884577],[77.74645471904898,12.9585980460613]]]},"properties":{"region_id":"village_938253","name":"WHITE FIELD","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

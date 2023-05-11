@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.43890241286394,15.85106113716922],[74.43256927411986,15.83591405916807],[74.4766573508236,15.83921863421736],[74.47807521849518,15.84853334939857],[74.43890241286394,15.85106113716922]]]},"properties":{"region_id":"village_597726","name":"SAVAGAON","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

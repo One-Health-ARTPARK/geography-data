@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07102541081582,13.23254018301497],[77.0636540667431,13.21386194109835],[77.08568215785166,13.21970641825191],[77.07102541081582,13.23254018301497]]]},"properties":{"region_id":"village_611501","name":"LAKKENAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

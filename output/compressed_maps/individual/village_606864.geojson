@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76568261362048,14.16745498315069],[75.75148639176332,14.17169774446003],[75.73895784772122,14.15325190314032],[75.74119247428555,14.14772293712376],[75.76568261362048,14.16745498315069]]]},"properties":{"region_id":"village_606864","name":"KAMALAPURA","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

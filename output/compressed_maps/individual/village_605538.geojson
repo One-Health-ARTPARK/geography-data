@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31731535865575,14.26767645318608],[76.29506987477761,14.27122366259537],[76.29598642471103,14.25336481360341],[76.31513375779139,14.25404894038957],[76.31731535865575,14.26767645318608]]]},"properties":{"region_id":"village_605538","name":"SADARAHALLI","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

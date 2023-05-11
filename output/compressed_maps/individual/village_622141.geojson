@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93883936896545,13.04166149230438],[77.92588354716531,13.04153468044158],[77.92212582347646,13.02539996925869],[77.93339990368518,13.02056210096549],[77.93883936896545,13.04166149230438]]]},"properties":{"region_id":"village_622141","name":"MADIVALA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

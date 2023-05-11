@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40213142510119,17.4456460936551],[77.39425791686318,17.45849202620735],[77.38316842376416,17.45308993007679],[77.38408608544529,17.44124350703369],[77.40213142510119,17.4456460936551]]]},"properties":{"region_id":"village_620393","name":"DAULTAPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

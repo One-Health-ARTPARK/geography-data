@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.12588906209533,12.60110899213797],[77.11943450402914,12.57868796358967],[77.14134295068123,12.5839569349742],[77.12588906209533,12.60110899213797]]]},"properties":{"region_id":"village_626228","name":"KUKKUR","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

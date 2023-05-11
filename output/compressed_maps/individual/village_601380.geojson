@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84931536982383,15.87681381765449],[75.84868112621486,15.8937696278896],[75.8414302884594,15.88826846044154],[75.8398814593776,15.87157565379477],[75.84931536982383,15.87681381765449]]]},"properties":{"region_id":"village_601380","name":"BASAPUR","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

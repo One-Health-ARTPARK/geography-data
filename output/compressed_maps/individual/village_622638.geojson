@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.1921169744023,12.80515164383203],[78.20128762290814,12.81894346029394],[78.19289767219884,12.82553929544757],[78.18624780047313,12.81126258911903],[78.1921169744023,12.80515164383203]]]},"properties":{"region_id":"village_622638","name":"THOPPANAHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

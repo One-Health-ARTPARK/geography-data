@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.155672666005,17.30673760744396],[77.12137414071819,17.29948773349903],[77.12919131385893,17.27200418371907],[77.1593544893755,17.28219699902272],[77.155672666005,17.30673760744396]]]},"properties":{"region_id":"village_620609","name":"ARJAMGA","parent":"subdistrict_7087","parent_name":"KALAGI"}}
+]}

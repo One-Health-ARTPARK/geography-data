@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8927107005674,14.8940455113432],[74.9181266972003,14.87220381985377],[74.91264328764075,14.9013128275687],[74.8927107005674,14.8940455113432]]]},"properties":{"region_id":"village_602970","name":"HOTAGERI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

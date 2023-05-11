@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.52432045235983,14.95407624456239],[74.49605972171227,14.93146025260899],[74.45372222328157,14.93258705811775],[74.46801453798874,14.89274710557094],[74.52432045235983,14.95407624456239]]]},"properties":{"region_id":"village_602749","name":"BIRKHOL","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

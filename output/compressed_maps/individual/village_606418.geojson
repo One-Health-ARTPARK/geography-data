@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32406940653239,14.556888370575],[76.33096698438075,14.57580337140096],[76.31288925690662,14.57027556975383],[76.32406940653239,14.556888370575]]]},"properties":{"region_id":"village_606418","name":"PAPEDEVARAHALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

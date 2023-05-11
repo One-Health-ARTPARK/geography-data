@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34371756697944,16.2686510277503],[77.30837500460856,16.27347615855811],[77.28440723983815,16.23461366933924],[77.33146710140147,16.23819544582192],[77.34371756697944,16.2686510277503]]]},"properties":{"region_id":"village_600808","name":"MANSLAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

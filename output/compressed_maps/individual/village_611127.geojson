@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34282598929995,13.51452402444789],[77.34745701974842,13.53124229074773],[77.34208126847584,13.53601048032796],[77.33502018561032,13.51415041203106],[77.34282598929995,13.51452402444789]]]},"properties":{"region_id":"village_611127","name":"MUDDENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

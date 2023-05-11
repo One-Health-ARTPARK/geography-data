@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20046063840928,15.94398949743099],[76.17088943783847,15.93818796673404],[76.17199752568,15.93165673132464],[76.19483792747657,15.93235985774985],[76.20046063840928,15.94398949743099]]]},"properties":{"region_id":"village_599023","name":"GONAL (S.T.)","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

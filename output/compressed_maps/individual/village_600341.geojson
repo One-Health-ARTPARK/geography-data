@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40823876477573,17.58299785928381],[77.41838909691636,17.61997566421151],[77.38973497119075,17.61219518741322],[77.40823876477573,17.58299785928381]]]},"properties":{"region_id":"village_600341","name":"SAIDAPUR","parent":"subdistrict_7084","parent_name":"CHITAGUPPA"}}
+]}

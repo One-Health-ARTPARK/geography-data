@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10204688324231,13.21309558704579],[77.1010650773662,13.22481779584578],[77.09262303805409,13.22643290471316],[77.0909335331734,13.21727282737073],[77.10204688324231,13.21309558704579]]]},"properties":{"region_id":"village_611579","name":"VIRUPASANDRA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1380069618641,14.74419903316802],[75.12688797159768,14.74422462215051],[75.13676912748042,14.7250411705679],[75.14524983966965,14.73211168694075],[75.1380069618641,14.74419903316802]]]},"properties":{"region_id":"village_604107","name":"GIRISHINKOPPA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

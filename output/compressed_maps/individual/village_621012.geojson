@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66380545864119,16.43465469031856],[76.63399610196095,16.44174917121423],[76.64540171740792,16.41851965681132],[76.66380545864119,16.43465469031856]]]},"properties":{"region_id":"village_621012","name":"HALBHAVI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

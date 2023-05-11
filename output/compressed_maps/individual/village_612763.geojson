@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44410924373018,13.10858497552473],[77.43229664705858,13.11396255808275],[77.4232558896065,13.10829147808071],[77.42103796451808,13.09442844818793],[77.44410924373018,13.10858497552473]]]},"properties":{"region_id":"village_612763","name":"PILLAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

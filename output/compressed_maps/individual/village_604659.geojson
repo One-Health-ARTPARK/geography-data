@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.14500679000813,15.10898095964703],[76.20835600361829,15.1127599739285],[76.20357346653016,15.14635655358014],[76.1344861925073,15.14295766375086],[76.11963130761491,15.12443710475421],[76.14500679000813,15.10898095964703]]]},"properties":{"region_id":"village_604659","name":"BACHIGONDANAHALLI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.78175501854867,13.11044372783101],[77.77220185401376,13.10108392261171],[77.77904992463621,13.093741276757],[77.78175501854867,13.11044372783101]]]},"properties":{"region_id":"village_625684","name":"ALAPPANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

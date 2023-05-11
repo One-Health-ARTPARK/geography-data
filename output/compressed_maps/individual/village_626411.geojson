@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56570045674927,12.67530158325025],[77.5680703230914,12.70120311885489],[77.5529631012211,12.70405087863407],[77.55525837956553,12.68208380904978],[77.56570045674927,12.67530158325025]]]},"properties":{"region_id":"village_626411","name":"BILLIGANAKUPPE","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

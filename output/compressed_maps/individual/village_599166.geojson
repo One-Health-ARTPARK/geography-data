@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68944843863358,17.41293365576303],[75.65824873443505,17.41410845272496],[75.65240339805185,17.37618466025415],[75.68479244037644,17.3808337250709],[75.68944843863358,17.41293365576303]]]},"properties":{"region_id":"village_599166","name":"NIVARGI","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

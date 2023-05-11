@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.09887213907997,12.90355571049373],[75.09091918140416,12.91228426350893],[75.06477562709948,12.89804181292553],[75.08628447761815,12.88326962246057],[75.09887213907997,12.90355571049373]]]},"properties":{"region_id":"village_617603","name":"NAVOOR (CT)","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

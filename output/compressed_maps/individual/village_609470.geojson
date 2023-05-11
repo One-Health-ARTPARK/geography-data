@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09356515057998,13.57005780774046],[76.09932714799635,13.56970632180622],[76.10356080407105,13.57827762242656],[76.09296184943842,13.57840945706603],[76.09356515057998,13.57005780774046]]]},"properties":{"region_id":"village_609470","name":"VITTALAPURA","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

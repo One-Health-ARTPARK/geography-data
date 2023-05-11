@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29352623431271,15.06349488942801],[76.25390058601768,15.06100637329507],[76.26119575953157,15.02476988678152],[76.30327822525057,15.04336013660829],[76.29352623431271,15.06349488942801]]]},"properties":{"region_id":"village_604677","name":"ANEKAL","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

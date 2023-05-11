@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.68091989312596,12.2273446529654],[75.67563614200598,12.24539371069376],[75.65676970536639,12.24278227042204],[75.66238626899377,12.21959354656677],[75.68091989312596,12.2273446529654]]]},"properties":{"region_id":"village_923907","name":"MARANDODA","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

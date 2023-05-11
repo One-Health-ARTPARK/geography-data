@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09098012260262,13.54988036385454],[77.09136786997084,13.56228384112559],[77.08743008160992,13.56294134464928],[77.08727904863532,13.54891727544911],[77.09098012260262,13.54988036385454]]]},"properties":{"region_id":"village_611003","name":"CHIKKASANJEVEGOWDANAPALYA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

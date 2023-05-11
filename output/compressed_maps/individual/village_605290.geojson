@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73621882254291,14.50147107832026],[76.7125360642115,14.51658102024379],[76.70126105742833,14.47635894661175],[76.71814657730414,14.47238567524484],[76.73621882254291,14.50147107832026]]]},"properties":{"region_id":"village_605290","name":"BYADAREDDYHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

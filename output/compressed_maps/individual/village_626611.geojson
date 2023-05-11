@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49124132964934,12.41491471764488],[77.4686184494569,12.42242296884127],[77.4802101766634,12.40301719854341],[77.49124132964934,12.41491471764488]]]},"properties":{"region_id":"village_626611","name":"T.GOLLAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

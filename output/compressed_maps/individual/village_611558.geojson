@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0698933597125,13.26661525299091],[77.07394744203135,13.27380206128786],[77.06292939152345,13.27852207528901],[77.0698933597125,13.26661525299091]]]},"properties":{"region_id":"village_611558","name":"HALUHOSAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

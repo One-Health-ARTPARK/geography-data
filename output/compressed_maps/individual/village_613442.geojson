@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57235443097147,12.80390177107268],[76.56819849565917,12.8110366135915],[76.55892393012316,12.80874689278019],[76.56644617943722,12.80360213279687],[76.57235443097147,12.80390177107268]]]},"properties":{"region_id":"village_613442","name":"KODAGAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

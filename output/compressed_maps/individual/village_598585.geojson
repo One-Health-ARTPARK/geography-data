@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3851062718052,16.30364490860837],[75.3877179654338,16.34088677209681],[75.36327384153137,16.35063824668015],[75.3507400270071,16.31180936273986],[75.3610473058071,16.29365075129092],[75.3851062718052,16.30364490860837]]]},"properties":{"region_id":"village_598585","name":"BARAGI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

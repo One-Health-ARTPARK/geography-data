@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52096491736572,17.28097117270159],[76.49134698805386,17.27838839328029],[76.49724884248373,17.25920686447691],[76.52096491736572,17.28097117270159]]]},"properties":{"region_id":"village_620152","name":"BHOGNALLI","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

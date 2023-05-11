@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08007518495592,15.28099250662686],[75.06804654095713,15.2795853299493],[75.06830053190228,15.26191721336729],[75.0788758322629,15.26430900736811],[75.08007518495592,15.28099250662686]]]},"properties":{"region_id":"village_602414","name":"CHAVARGUDD","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

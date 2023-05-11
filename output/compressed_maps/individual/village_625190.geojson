@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39051297638957,13.27572301301871],[77.3744434435793,13.25371376226734],[77.39534603627712,13.25066344525997],[77.39051297638957,13.27572301301871]]]},"properties":{"region_id":"village_625190","name":"KASAGHATTA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

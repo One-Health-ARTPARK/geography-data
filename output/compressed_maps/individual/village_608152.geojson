@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35021766992777,13.74302540966981],[75.36085580384504,13.72328617171286],[75.37309223713729,13.72987246610063],[75.35021766992777,13.74302540966981]]]},"properties":{"region_id":"village_608152","name":"NAYADAVALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

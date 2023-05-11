@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66975764065256,15.72184613468474],[74.67554407472213,15.73818431924106],[74.6516101045268,15.73672286363278],[74.66975764065256,15.72184613468474]]]},"properties":{"region_id":"village_597790","name":"VIRAPANKOPPA","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

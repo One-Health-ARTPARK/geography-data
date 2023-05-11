@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8231528903226,12.9642273303272],[75.81519187375864,12.97066599433397],[75.80525801189674,12.97104053819846],[75.80379821334549,12.96499599819279],[75.81392887776931,12.96001433171383],[75.8231528903226,12.9642273303272]]]},"properties":{"region_id":"village_614886","name":"HASADE","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

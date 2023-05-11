@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63770524674568,13.42522617063451],[76.63520749952261,13.41040560458948],[76.64453066878706,13.41121225215403],[76.6412768170433,13.42523291634795],[76.63770524674568,13.42522617063451]]]},"properties":{"region_id":"village_610211","name":"BAVANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

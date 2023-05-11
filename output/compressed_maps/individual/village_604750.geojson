@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66199091683096,15.44710245221244],[76.64300047919895,15.44433060961136],[76.64211642845315,15.40822310928388],[76.65199973145606,15.40730825611809],[76.66199091683096,15.44710245221244]]]},"properties":{"region_id":"village_604750","name":"SANAPURA","parent":"subdistrict_7107","parent_name":"KAMPLI"}}
+]}

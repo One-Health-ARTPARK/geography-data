@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26960290654641,14.30878429097499],[75.25629083460119,14.30818225285333],[75.25440280625254,14.30289724263609],[75.26679037674856,14.29814958081531],[75.26960290654641,14.30878429097499]]]},"properties":{"region_id":"village_607671","name":"MALALIKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

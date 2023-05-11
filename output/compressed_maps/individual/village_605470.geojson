@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17322118130801,14.30793947295224],[76.18059591097268,14.3350113891983],[76.1589272509877,14.32974589458592],[76.17322118130801,14.30793947295224]]]},"properties":{"region_id":"village_605470","name":"HALAVUDARA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

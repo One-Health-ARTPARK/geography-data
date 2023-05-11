@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40215560832766,17.6430397845938],[77.40011437135267,17.65046270126652],[77.38421600442302,17.6461729380845],[77.39837840397767,17.63484902633616],[77.40215560832766,17.6430397845938]]]},"properties":{"region_id":"village_600338","name":"POLAKPALLI THANDA","parent":"subdistrict_7084","parent_name":"CHITAGUPPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.1350073781919,14.14440713055025],[75.11902352840463,14.132321470882],[75.13134488179483,14.12700721654651],[75.1350073781919,14.14440713055025]]]},"properties":{"region_id":"village_607254","name":"KASPADI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

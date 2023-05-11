@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01764445502094,13.11094514509557],[77.00277305064833,13.11038185278308],[77.00555421262233,13.09363335381688],[77.01431773030059,13.09573311622428],[77.01764445502094,13.11094514509557]]]},"properties":{"region_id":"village_612501","name":"DODDAMALALAVADI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27932323985974,16.20753676060041],[77.24738220962742,16.21171460093646],[77.2287738460279,16.19961093185312],[77.22672415055364,16.17486710695262],[77.27932323985974,16.20753676060041]]]},"properties":{"region_id":"village_600820","name":"HUNSIHALHUDA","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.44261353428143,12.36392263155887],[76.43754843749976,12.35436952345522],[76.4464396503152,12.3467493116743],[76.45371862043802,12.35457266491213],[76.44261353428143,12.36392263155887]]]},"properties":{"region_id":"village_618457","name":"SABBANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

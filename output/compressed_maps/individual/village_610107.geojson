@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52667004719632,13.60312704042603],[76.51650586572676,13.60504263392417],[76.51997044088306,13.58986650252887],[76.53172702219808,13.59205630099528],[76.52667004719632,13.60312704042603]]]},"properties":{"region_id":"village_610107","name":"VOLAGEREHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

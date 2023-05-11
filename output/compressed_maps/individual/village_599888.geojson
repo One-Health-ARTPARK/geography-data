@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34804168816206,18.06906452807667],[77.34814827593371,18.08039482673717],[77.33632189848126,18.08235120930505],[77.33228349138075,18.06948077518465],[77.34804168816206,18.06906452807667]]]},"properties":{"region_id":"village_599888","name":"KOTGIYAL","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

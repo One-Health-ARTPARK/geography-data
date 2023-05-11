@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.56846600032198,12.89413599992122],[77.57282599998646,12.89951199971765],[77.57019800005052,12.9087530002309],[77.56018100033356,12.90027000024493],[77.56846600032198,12.89413599992122]]]},"properties":{"region_id":"ward_bbmp185","name":"WARD NO.185 (YELCHENAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

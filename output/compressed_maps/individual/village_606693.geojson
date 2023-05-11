@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93937081727675,14.28677961445039],[75.90628001259039,14.2735593590738],[75.91893888189838,14.2515402705806],[75.94432067120745,14.2545932043612],[75.93937081727675,14.28677961445039]]]},"properties":{"region_id":"village_606693","name":"SYAGALE","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

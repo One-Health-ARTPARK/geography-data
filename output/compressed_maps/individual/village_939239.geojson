@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.20122462542852,14.75438986593037],[74.19489397347009,14.72935551642499],[74.22412433522594,14.73451402177908],[74.20122462542852,14.75438986593037]]]},"properties":{"region_id":"village_939239","name":"KODARA","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

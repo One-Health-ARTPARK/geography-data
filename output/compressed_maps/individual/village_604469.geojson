@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.53212754046884,14.3392068629786],[75.50390539718326,14.30789052030961],[75.54333868610212,14.28917188441853],[75.53212754046884,14.3392068629786]]]},"properties":{"region_id":"village_604469","name":"NAGAWAND","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

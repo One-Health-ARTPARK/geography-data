@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.53652114702064,16.4711199054679],[74.50134448669388,16.49250999220169],[74.49546857712001,16.4743436874716],[74.51398399925826,16.45673620860464],[74.53652114702064,16.4711199054679]]]},"properties":{"region_id":"village_597196","name":"SHIRGAON","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

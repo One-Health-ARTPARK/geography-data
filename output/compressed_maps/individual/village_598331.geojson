@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41851032062159,15.97359148656576],[75.40914311370116,15.98996861440715],[75.40025296513296,15.97789911996171],[75.41851032062159,15.97359148656576]]]},"properties":{"region_id":"village_598331","name":"M.KHANAPUR","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

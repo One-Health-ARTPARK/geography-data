@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37676996275725,16.70763809881675],[75.3520072295442,16.71530163730944],[75.3530131829481,16.68694103384922],[75.37289734952566,16.68656097491358],[75.37676996275725,16.70763809881675]]]},"properties":{"region_id":"village_598451","name":"KURAGOD","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

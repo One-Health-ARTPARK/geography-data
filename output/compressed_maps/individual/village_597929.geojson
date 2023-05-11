@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45347831007587,15.45612788401258],[74.42207810632452,15.46341775455726],[74.42846450177503,15.39799773780847],[74.46298286107924,15.43286890170422],[74.45347831007587,15.45612788401258]]]},"properties":{"region_id":"village_597929","name":"AKRALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

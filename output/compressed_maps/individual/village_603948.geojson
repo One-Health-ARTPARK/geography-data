@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2546206286196,14.96068272309803],[75.23913504670789,14.96149403366508],[75.24317191979002,14.9477387964574],[75.25687439746159,14.95093621829007],[75.2546206286196,14.96068272309803]]]},"properties":{"region_id":"village_603948","name":"BISANHALLI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

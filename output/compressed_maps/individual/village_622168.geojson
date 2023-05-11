@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90678815814678,13.00160812066421],[77.89414347559327,13.00589394721093],[77.896000930792,13.00095735697541],[77.90232282184063,12.9962803789711],[77.90678815814678,13.00160812066421]]]},"properties":{"region_id":"village_622168","name":"BOPPANAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

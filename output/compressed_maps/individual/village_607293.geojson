@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.20015134050357,14.05150498169836],[75.21629000210324,14.03874749795503],[75.23709423781324,14.05245310170037],[75.2224655585256,14.07652116225116],[75.19168521539513,14.06155769749615],[75.20015134050357,14.05150498169836]]]},"properties":{"region_id":"village_607293","name":"YADEHALLI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

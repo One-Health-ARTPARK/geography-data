@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94819548283961,13.02995007389763],[76.92780192963774,13.03170964683668],[76.92443283173407,13.00734733893527],[76.94187645633538,13.01080413908051],[76.94819548283961,13.02995007389763]]]},"properties":{"region_id":"village_612461","name":"THUVEKERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

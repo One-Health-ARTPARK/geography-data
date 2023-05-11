@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7152632724079,12.80087509622856],[76.71479795070242,12.83222308875031],[76.68903655970036,12.83545202230145],[76.68045880117425,12.80521063571792],[76.7152632724079,12.80087509622856]]]},"properties":{"region_id":"village_613877","name":"PADAVALAPATNA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

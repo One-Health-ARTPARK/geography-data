@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26841943461591,11.99233889516471],[77.25368487523819,12.01293654176301],[77.24264732686183,12.01370486733051],[77.25319357023076,11.99409345972412],[77.26841943461591,11.99233889516471]]]},"properties":{"region_id":"village_619875","name":"ANDIPALYA","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

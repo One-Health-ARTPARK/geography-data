@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.31694150015535,14.58874149940347],[74.30463310992407,14.58143207512296],[74.31860681618855,14.57873726276143],[74.31694150015535,14.58874149940347]]]},"properties":{"region_id":"village_603411","name":"HARUMASKERI","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

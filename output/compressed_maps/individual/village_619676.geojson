@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.82155490069424,12.01006275895242],[76.82048305829578,12.02811210110819],[76.80529577730891,12.02042407881031],[76.80482543939638,12.00363281224933],[76.82155490069424,12.01006275895242]]]},"properties":{"region_id":"village_619676","name":"HEGGAVADI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

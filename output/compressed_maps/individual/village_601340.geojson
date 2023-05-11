@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91022170058247,15.51275037947841],[75.88968164977928,15.50835820842114],[75.89058830346441,15.48802366354563],[75.91347850829918,15.4866241841005],[75.91022170058247,15.51275037947841]]]},"properties":{"region_id":"village_601340","name":"CHIKEN KOPPA","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

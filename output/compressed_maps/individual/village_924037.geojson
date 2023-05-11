@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86457386023359,12.15899728984142],[75.84727526802757,12.14824260594152],[75.84525571137253,12.13829813151415],[75.85563814259527,12.13236371270374],[75.87823627984088,12.13604815065127],[75.86457386023359,12.15899728984142]]]},"properties":{"region_id":"village_924037","name":"KANDAGALA","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

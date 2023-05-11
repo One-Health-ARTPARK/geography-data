@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76859334322847,13.13787907916749],[75.76593281404186,13.15275520058597],[75.75116415444288,13.14358432833993],[75.76859334322847,13.13787907916749]]]},"properties":{"region_id":"village_615071","name":"CHUNGANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

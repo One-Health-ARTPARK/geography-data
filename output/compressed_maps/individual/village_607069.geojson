@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91770510350949,13.97438268314127],[75.91799969759309,13.99226282376183],[75.90610298565198,13.98550602564535],[75.91770510350949,13.97438268314127]]]},"properties":{"region_id":"village_607069","name":"MALLIGERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

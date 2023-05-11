@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.56399083390204,15.138360500822],[75.53922810102246,15.13832699859633],[75.54076664260256,15.12923710651611],[75.56409508442506,15.12922015875433],[75.56399083390204,15.138360500822]]]},"properties":{"region_id":"village_602072","name":"SANKADAL","parent":"subdistrict_7083","parent_name":"LAXMESHWAR"}}
+]}

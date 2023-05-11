@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78448412051836,15.38766887085702],[74.7697130185294,15.40036824985967],[74.76245029149773,15.38449500520224],[74.78448412051836,15.38766887085702]]]},"properties":{"region_id":"village_602837","name":"MUTTALMURI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

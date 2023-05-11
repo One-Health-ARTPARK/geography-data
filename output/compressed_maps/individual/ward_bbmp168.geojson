@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58390499964997,12.9329199996211],[77.57968800032957,12.92343399995893],[77.58583800020473,12.91700899969345],[77.59349199992205,12.9228159998179],[77.58390499964997,12.9329199996211]]]},"properties":{"region_id":"ward_bbmp168","name":"WARD NO.168 (PATTABHI RAM NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

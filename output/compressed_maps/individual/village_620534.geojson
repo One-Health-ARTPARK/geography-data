@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23938355346814,17.1313611428894],[77.22662264285358,17.13142421692305],[77.23001601959074,17.10776082046915],[77.24601473655188,17.11065285603879],[77.23938355346814,17.1313611428894]]]},"properties":{"region_id":"village_620534","name":"ALLHALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

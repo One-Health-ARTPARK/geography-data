@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99341937932954,15.78112631499947],[75.98845054867685,15.80155262821832],[75.96782295473884,15.79424084291809],[75.96896745185892,15.76933678024028],[75.99341937932954,15.78112631499947]]]},"properties":{"region_id":"village_601972","name":"JIGERI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

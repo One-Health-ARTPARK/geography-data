@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08189311220157,16.17379562078521],[76.0924674501731,16.20113230537235],[76.0803511427564,16.19501779208058],[76.08189311220157,16.17379562078521]]]},"properties":{"region_id":"village_598945","name":"YEMMIHATTI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

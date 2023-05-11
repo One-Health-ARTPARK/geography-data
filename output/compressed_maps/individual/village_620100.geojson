@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25032522879204,17.24469380650542],[76.19247005856619,17.24821133978342],[76.21001606082493,17.20838561949422],[76.2522581281346,17.21529588368754],[76.25032522879204,17.24469380650542]]]},"properties":{"region_id":"village_620100","name":"UDCHAN","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

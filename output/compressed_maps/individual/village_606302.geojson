@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.96763059049752,14.7977837764725],[75.94328377119658,14.81315905759824],[75.93412404589301,14.7830390066991],[75.96278252952212,14.7800858763623],[75.96763059049752,14.7977837764725]]]},"properties":{"region_id":"village_606302","name":"NARAYANAPURA","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.73021070603414,15.86150032391455],[74.71684632348588,15.8654994630518],[74.72252891700872,15.83307281654874],[74.74011833032648,15.84259294901942],[74.73021070603414,15.86150032391455]]]},"properties":{"region_id":"village_598043","name":"BAIRANATTI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

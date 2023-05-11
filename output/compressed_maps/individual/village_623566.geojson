@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7602504075713,13.43329756852533],[77.75142486244825,13.42904723050304],[77.76392945433749,13.42380180929361],[77.7602504075713,13.43329756852533]]]},"properties":{"region_id":"village_623566","name":"PATRENAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

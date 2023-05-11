@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27884803087308,16.1525303608252],[76.24719526547047,16.16020273550916],[76.24461502056944,16.11319370730734],[76.26239533458954,16.15472519103431],[76.27884803087308,16.1525303608252]]]},"properties":{"region_id":"village_600345","name":"ANKANHAL","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

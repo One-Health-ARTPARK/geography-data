@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99496575962822,12.71138923465291],[76.97999786699071,12.71211966976133],[76.97774122943221,12.69878596892662],[76.99112850193927,12.69975006140517],[76.99496575962822,12.71138923465291]]]},"properties":{"region_id":"village_614513","name":"CHIKKONAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

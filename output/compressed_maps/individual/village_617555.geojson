@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.99671581770738,12.9260164716226],[74.98915637947847,12.93247146625117],[74.98313333765243,12.92084309994427],[74.99456992582722,12.91619200626272],[74.99671581770738,12.9260164716226]]]},"properties":{"region_id":"village_617555","name":"TENKABELLUR","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

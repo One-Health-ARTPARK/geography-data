@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05121257129224,12.12431809730529],[76.04962434855511,12.09941690409791],[76.06568353880978,12.09419961840895],[76.08127903987312,12.11210028764172],[76.06495182861725,12.12630889189361],[76.05121257129224,12.12431809730529]]]},"properties":{"region_id":"village_618086","name":"NITTUR","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

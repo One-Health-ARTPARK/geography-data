@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3290038224475,13.61946092939626],[76.32833117234316,13.626456045872],[76.30333217546023,13.62101958843039],[76.3292188199417,13.60988197673458],[76.3290038224475,13.61946092939626]]]},"properties":{"region_id":"village_605985","name":"KEREHOSAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

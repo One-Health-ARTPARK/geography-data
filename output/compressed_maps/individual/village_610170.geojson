@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68693016860557,13.48636531421135],[76.67599279321824,13.47951028217119],[76.67759984915004,13.45895240209349],[76.69744371819442,13.47200199033566],[76.68693016860557,13.48636531421135]]]},"properties":{"region_id":"village_610170","name":"AJJIGUDDE","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

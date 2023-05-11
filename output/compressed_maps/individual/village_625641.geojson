@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.89027890361926,13.05052613394171],[77.88687219702112,13.05671419703792],[77.8798041369159,13.0548956653907],[77.88913855032403,13.04524710232748],[77.89027890361926,13.05052613394171]]]},"properties":{"region_id":"village_625641","name":"CHIKKATHAGGALI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

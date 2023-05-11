@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49933204029539,12.93188110479992],[77.48361155701757,12.9339186894259],[77.47965145041633,12.921736729914],[77.4943191374153,12.91705063210659],[77.49933204029539,12.93188110479992]]]},"properties":{"region_id":"village_938444","name":"VALAGERAHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

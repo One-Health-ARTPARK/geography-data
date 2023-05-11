@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18357904197546,13.69776335849888],[76.1694044241368,13.68722849809135],[76.17881390741347,13.67747170725085],[76.19166164552917,13.67866786691444],[76.18357904197546,13.69776335849888]]]},"properties":{"region_id":"village_609419","name":"E.TIMMAPURA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

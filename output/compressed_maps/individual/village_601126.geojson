@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73208938206865,15.88388002426722],[76.72176750245828,15.87991244437341],[76.71196762390683,15.83918892286764],[76.72738514009635,15.84892852641868],[76.73208938206865,15.88388002426722]]]},"properties":{"region_id":"village_601126","name":"KUNNATGI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

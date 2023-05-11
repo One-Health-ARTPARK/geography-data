@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38107490209114,15.71963429091084],[75.34704038603014,15.75118487128691],[75.314133594665,15.71668897724104],[75.3445538880146,15.70419257718628],[75.38107490209114,15.71963429091084]]]},"properties":{"region_id":"village_601869","name":"DANDAPUR","parent":"subdistrict_5468","parent_name":"NARGUND"}}
+]}

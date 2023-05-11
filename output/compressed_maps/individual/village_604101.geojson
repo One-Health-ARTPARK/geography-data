@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05713938917624,14.75989131670459],[75.06572941607904,14.77670888705071],[75.04981917852868,14.77547828766669],[75.05713938917624,14.75989131670459]]]},"properties":{"region_id":"village_604101","name":"BIDARAKOPPA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

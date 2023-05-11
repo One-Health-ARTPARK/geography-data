@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80916940044312,12.97773506809452],[77.80454289635642,12.97713654102994],[77.79904830025471,12.97000542251813],[77.80737559183316,12.97032733780063],[77.80916940044312,12.97773506809452]]]},"properties":{"region_id":"village_625731","name":"HEMMANDAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5853949040571,13.42221146740935],[75.55734607802374,13.45535339427127],[75.52365174912602,13.42537443250007],[75.54910697209812,13.38721699401279],[75.5853949040571,13.42221146740935]]]},"properties":{"region_id":"village_609664","name":"BIDARE","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

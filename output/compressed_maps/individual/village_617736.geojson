@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2697919461264,12.78557766613045],[75.2390740367336,12.79401365388809],[75.24003220083463,12.77189451766315],[75.2697919461264,12.78557766613045]]]},"properties":{"region_id":"village_617736","name":"SHANTHIGODU","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

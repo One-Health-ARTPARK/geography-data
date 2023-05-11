@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32325070029893,16.27194927235353],[75.30357213519882,16.26755695396028],[75.30576395594883,16.26118951226417],[75.33028553467479,16.26467569835581],[75.32325070029893,16.27194927235353]]]},"properties":{"region_id":"village_598581","name":"CHINCHAKHANDI(K.D)","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

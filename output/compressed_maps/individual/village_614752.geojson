@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2216140409609,12.49168262226989],[77.21374983079659,12.48399251761581],[77.21536864014496,12.47612568395848],[77.22587398492405,12.47687630992078],[77.2216140409609,12.49168262226989]]]},"properties":{"region_id":"village_614752","name":"NITTURHALASAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00485259475458,16.16189695401703],[75.99257307233101,16.15082537853731],[76.01433973808952,16.14086502993304],[76.02057932008769,16.15000196811303],[76.00485259475458,16.16189695401703]]]},"properties":{"region_id":"village_598923","name":"MEDINAPUR","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07076406853363,14.78241561914923],[75.06040570720404,14.74549474540164],[75.08707118145496,14.75562227601483],[75.07076406853363,14.78241561914923]]]},"properties":{"region_id":"village_604098","name":"HIREKANAGI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

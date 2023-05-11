@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23696927815399,12.31697777159684],[76.21571817433932,12.32722277235842],[76.20646368076201,12.30341327245741],[76.22228774693417,12.30377003907572],[76.23696927815399,12.31697777159684]]]},"properties":{"region_id":"village_618342","name":"KALLAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

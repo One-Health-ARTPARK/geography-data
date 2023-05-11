@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.50390539718326,14.30789052030961],[75.49978948529558,14.34365911130678],[75.4814865490497,14.33991304861613],[75.47737045912619,14.31778388799099],[75.50390539718326,14.30789052030961]]]},"properties":{"region_id":"village_607811","name":"GULEDAHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

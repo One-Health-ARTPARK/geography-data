@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65188579561811,13.14273202648929],[75.65627628828712,13.14834987457754],[75.65027017927049,13.15799334783333],[75.64488918237222,13.14235621020207],[75.65188579561811,13.14273202648929]]]},"properties":{"region_id":"village_609975","name":"BILAGOLA","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

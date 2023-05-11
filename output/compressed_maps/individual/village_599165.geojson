@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.64608043436628,17.3730062541355],[75.61166765768454,17.3721041170711],[75.61162325381146,17.33112685614],[75.6391348994326,17.34113138834477],[75.64608043436628,17.3730062541355]]]},"properties":{"region_id":"village_599165","name":"HALA HALLI","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

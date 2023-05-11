@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94680208920454,12.73474145930372],[75.9345691853909,12.73618730895883],[75.93963125838262,12.72549234681685],[75.94680208920454,12.73474145930372]]]},"properties":{"region_id":"village_616499","name":"HIPPALI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

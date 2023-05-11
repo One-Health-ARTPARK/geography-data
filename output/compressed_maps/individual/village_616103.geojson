@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0650300786135,12.87577417467678],[76.05166009827418,12.87243085314921],[76.05669131988837,12.86124995027143],[76.06496971031572,12.8638461435607],[76.0650300786135,12.87577417467678]]]},"properties":{"region_id":"village_616103","name":"ANJANEYAPURA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

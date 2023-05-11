@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08000597939261,12.92660806132773],[76.07400049511537,12.93836059285926],[76.06337461706666,12.93661718425406],[76.06706614163856,12.92695032851869],[76.08000597939261,12.92660806132773]]]},"properties":{"region_id":"village_616097","name":"GOLENAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

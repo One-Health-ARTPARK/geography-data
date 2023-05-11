@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.337058411924,13.09710230943584],[77.326570223466,13.07289298670739],[77.35801763365572,13.07238791053667],[77.36007932020715,13.09287166605711],[77.337058411924,13.09710230943584]]]},"properties":{"region_id":"village_624912","name":"SRINIVASAPURA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

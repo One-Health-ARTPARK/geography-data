@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03739985492412,14.30275697383166],[75.01338953788905,14.29563970619119],[75.02791438823529,14.2839326869554],[75.03739985492412,14.30275697383166]]]},"properties":{"region_id":"village_607608","name":"MAGADI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.01163679575714,13.63595874073385],[74.94046864415921,13.60437634660524],[74.99044708162609,13.56571613368853],[75.06210793470684,13.60422040166692],[75.01163679575714,13.63595874073385]]]},"properties":{"region_id":"village_608756","name":"AMASEBAILU","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

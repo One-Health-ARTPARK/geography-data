@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93435734610104,12.76727942536928],[75.92501602206978,12.76875639545717],[75.92228912856969,12.76158307455058],[75.92973458793483,12.75573791519525],[75.93435734610104,12.76727942536928]]]},"properties":{"region_id":"village_617879","name":"DODDABANDARA","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

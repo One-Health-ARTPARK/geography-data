@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53810008296105,18.17257833215],[77.52326704401352,18.17682163530595],[77.51596588848734,18.1680677726497],[77.5343954581642,18.1589255286354],[77.53810008296105,18.17257833215]]]},"properties":{"region_id":"village_600091","name":"GANDHINAGAR","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83225200799262,17.00263923440963],[75.80933434360068,17.00369528412624],[75.79927099162124,16.97792069461257],[75.83362836469131,16.97625917308483],[75.83225200799262,17.00263923440963]]]},"properties":{"region_id":"village_599071","name":"MINCHINAL","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

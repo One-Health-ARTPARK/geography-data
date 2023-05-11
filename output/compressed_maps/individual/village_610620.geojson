@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15923210440012,14.04485832602434],[77.16130679387251,14.05977586697404],[77.1518748075846,14.06910379904455],[77.13990925827521,14.04675287409168],[77.15923210440012,14.04485832602434]]]},"properties":{"region_id":"village_610620","name":"HARIHARAPURA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

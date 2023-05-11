@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6180779785059,15.67404620426489],[74.60579493765708,15.67923904102939],[74.60054066184763,15.66570622831167],[74.60835601434054,15.66232322863673],[74.6180779785059,15.67404620426489]]]},"properties":{"region_id":"village_597878","name":"KAMSINKOP","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

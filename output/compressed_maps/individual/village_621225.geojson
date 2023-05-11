@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00818725956334,16.85147317395427],[76.98301216262607,16.84426105429191],[77.00449037806439,16.83269897873769],[77.00818725956334,16.85147317395427]]]},"properties":{"region_id":"village_621225","name":"ACHOLA","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

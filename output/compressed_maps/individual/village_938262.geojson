@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.65544613779534,12.95164514889854],[77.64383718192086,12.95615313075462],[77.63973552833241,12.95144486714147],[77.65254067730675,12.94153138166585],[77.65544613779534,12.95164514889854]]]},"properties":{"region_id":"village_938262","name":"CHALLAGHATTA","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

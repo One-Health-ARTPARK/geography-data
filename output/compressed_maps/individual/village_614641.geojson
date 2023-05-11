@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02884152252223,12.46778062154527],[77.01107709189252,12.46731379542212],[77.0120964531071,12.45599023537251],[77.02852758105496,12.45808539015392],[77.02884152252223,12.46778062154527]]]},"properties":{"region_id":"village_614641","name":"BIDARAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

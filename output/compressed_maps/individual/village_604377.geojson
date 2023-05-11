@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36973496960735,14.51846768541218],[75.35415663934849,14.52449911052181],[75.34136953288258,14.51565612758652],[75.35737511336654,14.50320681932455],[75.36973496960735,14.51846768541218]]]},"properties":{"region_id":"village_604377","name":"ARIKATTI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77574401557573,14.81299275822861],[76.7620282169768,14.82541873519472],[76.75614123210691,14.80620754679184],[76.77574401557573,14.81299275822861]]]},"properties":{"region_id":"village_605182","name":"HERURU","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

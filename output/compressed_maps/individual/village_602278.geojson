@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94810040559356,15.43427651140956],[74.9455834787521,15.42439732825364],[74.96335405214363,15.40636554592918],[74.96504749962318,15.4283462970418],[74.94810040559356,15.43427651140956]]]},"properties":{"region_id":"village_602278","name":"SALAKINKOPPA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

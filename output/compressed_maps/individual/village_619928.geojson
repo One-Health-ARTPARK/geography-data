@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3298652154306,12.09355550679743],[77.31761521743552,12.10038274571629],[77.29062309280563,12.09007175739587],[77.28886139017006,12.0667064437409],[77.3298652154306,12.09355550679743]]]},"properties":{"region_id":"village_619928","name":"HANUR BEAT","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

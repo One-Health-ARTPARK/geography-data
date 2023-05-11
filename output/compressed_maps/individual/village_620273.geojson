@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90179276347189,17.23511288892483],[76.90212072854867,17.27995127567451],[76.87269021092193,17.2769591075679],[76.8640627906819,17.26522296674431],[76.87360039583044,17.2411723214184],[76.90179276347189,17.23511288892483]]]},"properties":{"region_id":"village_620273","name":"NANDOOR (K)","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

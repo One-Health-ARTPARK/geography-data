@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.341074507081,15.90136766138502],[76.3398904886416,15.9263291488398],[76.32650552305509,15.92725318442097],[76.32657450169269,15.90396449690824],[76.341074507081,15.90136766138502]]]},"properties":{"region_id":"village_600378","name":"WANDALI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

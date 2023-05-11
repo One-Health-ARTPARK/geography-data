@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05762130313745,13.98314732100183],[75.04802085265227,13.98723549346762],[75.04487199096633,13.98312293095362],[75.05241221092385,13.97756154916391],[75.05762130313745,13.98314732100183]]]},"properties":{"region_id":"village_607884","name":"HOLAGODU","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

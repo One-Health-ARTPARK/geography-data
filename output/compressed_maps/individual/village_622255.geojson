@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86937008495384,12.88670971348972],[77.85654779957959,12.89342621660324],[77.85303954559436,12.87672381199154],[77.86937008495384,12.88670971348972]]]},"properties":{"region_id":"village_622255","name":"KALKERE","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

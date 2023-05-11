@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47227685305232,14.2220768527253],[77.45696613989803,14.23003962652228],[77.43934642708419,14.22816764591017],[77.43806872191038,14.21547562464458],[77.45511433982728,14.22302011824846],[77.47227685305232,14.2220768527253]]]},"properties":{"region_id":"village_610589","name":"ANNADANAPURA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

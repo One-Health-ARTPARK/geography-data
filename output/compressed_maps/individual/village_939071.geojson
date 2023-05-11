@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93568084706774,12.37844423159879],[75.91616341732592,12.38653063359405],[75.88979387903389,12.31950174782932],[75.94038499356665,12.32942428348845],[75.93568084706774,12.37844423159879]]]},"properties":{"region_id":"village_939071","name":"CHIKKANEELAYA","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

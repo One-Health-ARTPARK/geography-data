@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29210963860186,13.50849391433551],[77.28192803586637,13.50680891637609],[77.28786390169485,13.49711721819471],[77.29587913711487,13.50144316457014],[77.29210963860186,13.50849391433551]]]},"properties":{"region_id":"village_611120","name":"HONNARANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

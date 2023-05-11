@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61899656802106,11.85314447588545],[76.59415353670565,11.8380549277113],[76.54562836661646,11.84585563443873],[76.54617167300447,11.81786578718057],[76.59468449276325,11.8095832633886],[76.61899656802106,11.85314447588545]]]},"properties":{"region_id":"village_619483","name":"BARAGI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

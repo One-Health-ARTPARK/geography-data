@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37476666997186,16.70163842708521],[77.3543847301569,16.71205068042259],[77.32953122708977,16.67141999768956],[77.36917039877875,16.67380234077149],[77.37476666997186,16.70163842708521]]]},"properties":{"region_id":"village_621348","name":"YELSATHI","parent":"subdistrict_7094","parent_name":"GURUMITKAL"}}
+]}

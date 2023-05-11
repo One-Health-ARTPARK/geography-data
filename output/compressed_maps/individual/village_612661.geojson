@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95569156738158,12.91202345564228],[76.97366062746806,12.92086609454133],[76.97319386094175,12.92718483217501],[76.95877242130695,12.92340849956291],[76.95569156738158,12.91202345564228]]]},"properties":{"region_id":"village_612661","name":"PUTTANAPALYA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

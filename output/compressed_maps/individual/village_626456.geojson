@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43115104279876,12.5790443248874],[77.41554288747153,12.57630225373145],[77.42601978547324,12.55972835316563],[77.43115104279876,12.5790443248874]]]},"properties":{"region_id":"village_626456","name":"KALLAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

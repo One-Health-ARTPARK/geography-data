@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.35426069527102,14.67282566553364],[74.34270561196261,14.69952107553912],[74.31629907064494,14.69077129543947],[74.34677188977734,14.6639788807358],[74.35426069527102,14.67282566553364]]]},"properties":{"region_id":"village_603332","name":"BOGRIBAIL","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

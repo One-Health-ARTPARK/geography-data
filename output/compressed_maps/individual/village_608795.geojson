@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.78214267408072,13.4298792604015],[74.76968305171664,13.40580257749813],[74.81349426207699,13.40304940943821],[74.80968548224841,13.41784011950801],[74.78214267408072,13.4298792604015]]]},"properties":{"region_id":"village_608795","name":"AROOR","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

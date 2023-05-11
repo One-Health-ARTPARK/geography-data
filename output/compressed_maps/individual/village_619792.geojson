@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10087120099416,12.08052244993458],[77.0860329112289,12.0836236777319],[77.07765571082768,12.07927455953728],[77.09461927554187,12.07656748305084],[77.10087120099416,12.08052244993458]]]},"properties":{"region_id":"village_619792","name":"A.DEVARAHALLI","parent":"subdistrict_5578","parent_name":"YELANDUR"}}
+]}

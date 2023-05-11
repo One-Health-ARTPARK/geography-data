@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.58008100016956,13.02655899962361],[77.56063800040863,13.01713799981293],[77.59569899984835,12.99742400020309],[77.58008100016956,13.02655899962361]]]},"properties":{"region_id":"ward_bbmp35","name":"WARD NO. 35 (ARAMANE NAGARA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

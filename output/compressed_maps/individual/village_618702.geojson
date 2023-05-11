@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52975247276505,12.39829845689355],[76.51684596481435,12.39079466332727],[76.51743374985745,12.37408906634751],[76.5345625699933,12.37872616968573],[76.52975247276505,12.39829845689355]]]},"properties":{"region_id":"village_618702","name":"YELACHAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

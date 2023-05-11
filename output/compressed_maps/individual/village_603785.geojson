@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.49950660884464,14.28946223973418],[74.48823600674157,14.27089358277549],[74.4971553549825,14.26927608474362],[74.49950660884464,14.28946223973418]]]},"properties":{"region_id":"village_603785","name":"BEROLLI","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

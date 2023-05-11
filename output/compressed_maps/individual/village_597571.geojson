@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.53316597616066,16.27111277666549],[74.50253774801482,16.27530200988967],[74.50642827252238,16.25096638863629],[74.5325491760079,16.25310519938428],[74.53316597616066,16.27111277666549]]]},"properties":{"region_id":"village_597571","name":"KAMATANUR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00516558259137,17.05554820724798],[77.01096595898002,17.07637395823937],[76.99454343897425,17.09472456829389],[76.9792646218215,17.0850188076456],[77.00074201893199,17.06981053914645],[77.00516558259137,17.05554820724798]]]},"properties":{"region_id":"village_620672","name":"GANDHINAGAR","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48423867789644,13.25149507591023],[77.47381026532295,13.25738719834103],[77.46714054077286,13.23940848808299],[77.48244197320881,13.23649082492352],[77.48423867789644,13.25149507591023]]]},"properties":{"region_id":"village_625209","name":"MADAGONDANAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.51518667306763,16.53267086575093],[74.51243406062132,16.55343124089951],[74.49497810071293,16.55632691451241],[74.49547892878414,16.5277017600258],[74.51518667306763,16.53267086575093]]]},"properties":{"region_id":"village_597169","name":"SHAMANEWADI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

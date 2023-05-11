@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92459910028441,15.4419608774593],[75.90726115466103,15.44645262746652],[75.88943409383194,15.40741356826079],[75.90400175693969,15.40277677949382],[75.92459910028441,15.4419608774593]]]},"properties":{"region_id":"village_601367","name":"MALE KOPPA","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

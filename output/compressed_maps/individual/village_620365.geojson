@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42781249320484,17.58594702861879],[77.40616415032994,17.58149240096663],[77.40534398601763,17.5352514302136],[77.42685046407075,17.54250902295192],[77.42781249320484,17.58594702861879]]]},"properties":{"region_id":"village_620365","name":"NAGAIDLAI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

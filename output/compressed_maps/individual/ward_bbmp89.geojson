@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62536100014428,12.97509599966599],[77.62898099968896,12.96919100032244],[77.6378259999986,12.97242199968209],[77.62847699954096,12.97813799975505],[77.62536100014428,12.97509599966599]]]},"properties":{"region_id":"ward_bbmp89","name":"WARD NO.89 (JOGUPALYA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

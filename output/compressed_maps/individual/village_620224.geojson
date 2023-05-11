@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92953650192383,17.48103549597156],[76.8992281248274,17.48532844662242],[76.89553175681553,17.4668252581816],[76.92998880648629,17.4651406612183],[76.92953650192383,17.48103549597156]]]},"properties":{"region_id":"village_620224","name":"ANKALGA","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

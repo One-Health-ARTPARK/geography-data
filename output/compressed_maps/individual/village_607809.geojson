@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48948759138003,14.28791337107927],[75.44582476201599,14.28617077150995],[75.44346226555656,14.27400134238479],[75.49192223411107,14.26482591698794],[75.48948759138003,14.28791337107927]]]},"properties":{"region_id":"village_607809","name":"GOGGA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

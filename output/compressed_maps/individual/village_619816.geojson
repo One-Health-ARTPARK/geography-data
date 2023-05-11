@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1949974301815,12.21821534925366],[77.15006466004425,12.2349643005628],[77.15141924217028,12.20132355394786],[77.1949974301815,12.21821534925366]]]},"properties":{"region_id":"village_619816","name":"UGANIYA","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

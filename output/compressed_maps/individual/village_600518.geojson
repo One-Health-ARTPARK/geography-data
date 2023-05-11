@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62248142504194,16.00575736290832],[76.57941109156668,15.97291147910684],[76.60185213385769,15.96002976382485],[76.62248142504194,16.00575736290832]]]},"properties":{"region_id":"village_600518","name":"BELLADAMARADI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

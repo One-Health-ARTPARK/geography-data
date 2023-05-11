@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80188977400324,13.65107482985746],[77.78917998474061,13.65538624491258],[77.78885392757695,13.64315219501737],[77.80188977400324,13.65107482985746]]]},"properties":{"region_id":"village_623759","name":"SINGANAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

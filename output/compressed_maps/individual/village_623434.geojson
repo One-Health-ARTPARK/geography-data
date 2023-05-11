@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67553194418946,13.63266626694865],[77.67737334249593,13.62616434628875],[77.68608503201408,13.62654327482545],[77.68315516997282,13.63235653552629],[77.67553194418946,13.63266626694865]]]},"properties":{"region_id":"village_623434","name":"NAGASANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

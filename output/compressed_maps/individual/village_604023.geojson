@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38948297681694,14.97738886287387],[75.3642348163975,14.97290394545494],[75.36447507037727,14.95068970018202],[75.38853566484536,14.94564712562116],[75.38948297681694,14.97738886287387]]]},"properties":{"region_id":"village_604023","name":"KALALKOND","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

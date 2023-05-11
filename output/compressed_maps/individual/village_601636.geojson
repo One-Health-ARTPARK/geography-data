@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52594219595935,15.38209815776486],[76.52699757831165,15.37130790839623],[76.53542593397445,15.37758445770771],[76.52594219595935,15.38209815776486]]]},"properties":{"region_id":"village_601636","name":"SINGANGUND","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

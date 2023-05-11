@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86474048534889,13.49642729274287],[77.85349554601848,13.50761855131574],[77.82768025049485,13.48177480239782],[77.86413696732711,13.48120844638365],[77.86474048534889,13.49642729274287]]]},"properties":{"region_id":"village_624109","name":"AJJAKADIRENAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

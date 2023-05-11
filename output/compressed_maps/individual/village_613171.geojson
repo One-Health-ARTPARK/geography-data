@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64286077771214,12.75326186110511],[77.64127412939811,12.76029127260099],[77.62609558215675,12.75452698820505],[77.63658000953303,12.74732923042014],[77.64286077771214,12.75326186110511]]]},"properties":{"region_id":"village_613171","name":"BOMMANDAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

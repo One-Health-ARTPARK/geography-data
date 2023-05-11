@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8329431126886,15.94262740302285],[76.8123867331658,15.89431983486667],[76.84454263239013,15.89264200511907],[76.8533655431359,15.92894215361211],[76.8329431126886,15.94262740302285]]]},"properties":{"region_id":"village_601147","name":"DIDDIGI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

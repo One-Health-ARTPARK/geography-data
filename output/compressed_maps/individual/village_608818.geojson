@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83235178671269,13.30707825949913],[74.82126446977327,13.30096006996449],[74.83104090401272,13.28671921224902],[74.8356066798541,13.29293531435346],[74.83235178671269,13.30707825949913]]]},"properties":{"region_id":"village_608818","name":"MARNE","parent":"subdistrict_5523","parent_name":"UDUPI"}}
+]}

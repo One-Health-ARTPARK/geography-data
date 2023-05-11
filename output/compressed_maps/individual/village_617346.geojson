@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5758240310883,12.9347860154197],[76.57456659773193,12.93980992504741],[76.56242422589851,12.93283628941182],[76.57024450797017,12.93077267294175],[76.5758240310883,12.9347860154197]]]},"properties":{"region_id":"village_617346","name":"ARAKERE","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

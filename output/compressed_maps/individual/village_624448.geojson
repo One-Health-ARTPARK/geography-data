@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.10484117059006,13.48409175614472],[78.10378727774918,13.48855221563557],[78.09944715706867,13.48817100559432],[78.09763950932287,13.48469512048608],[78.10484117059006,13.48409175614472]]]},"properties":{"region_id":"village_624448","name":"GONDIVARIHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

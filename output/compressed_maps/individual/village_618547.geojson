@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32423321548454,12.59930821648195],[76.30731682419899,12.60091513950833],[76.30519157540574,12.58719380793307],[76.32552032466235,12.58749630199424],[76.32423321548454,12.59930821648195]]]},"properties":{"region_id":"village_618547","name":"SANKANAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

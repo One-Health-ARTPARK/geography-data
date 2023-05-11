@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59961855465085,13.13203185111787],[77.59191476906662,13.14644660197601],[77.580694032424,13.14798022177204],[77.5857853886539,13.13318300601152],[77.59961855465085,13.13203185111787]]]},"properties":{"region_id":"village_612940","name":"GANTIGANAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

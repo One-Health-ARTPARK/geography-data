@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41480750926002,17.14125664126896],[76.41646788675479,17.17224577995304],[76.38537659615616,17.16366162362799],[76.39653157735209,17.13690227589551],[76.41480750926002,17.14125664126896]]]},"properties":{"region_id":"village_620132","name":"HINCHGERA","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

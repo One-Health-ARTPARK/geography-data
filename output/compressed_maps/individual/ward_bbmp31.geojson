@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61017499973288,13.01861199996733],[77.61607899977682,13.01192199988961],[77.61884199990781,13.01924400009606],[77.61017499973288,13.01861199996733]]]},"properties":{"region_id":"ward_bbmp31","name":"WARD NO. 31 (KUSHAL NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

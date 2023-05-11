@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38881248623386,12.84278523918774],[75.37048598876196,12.85359398389224],[75.35833450696576,12.84013093080298],[75.37292631606493,12.82021609880619],[75.38881248623386,12.84278523918774]]]},"properties":{"region_id":"village_617698","name":"KONALU","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

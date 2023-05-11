@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08729414055493,16.76653167231618],[77.08147244401272,16.79369905696983],[77.05269779296161,16.77315782309327],[77.06095428146958,16.75378229786968],[77.08729414055493,16.76653167231618]]]},"properties":{"region_id":"village_621294","name":"TUMKUR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

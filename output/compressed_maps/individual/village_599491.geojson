@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9148897315634,16.3400728920978],[75.90157172890675,16.35145767057024],[75.88298072192887,16.33469226514856],[75.91265990124728,16.32193834967144],[75.9148897315634,16.3400728920978]]]},"properties":{"region_id":"village_599491","name":"ARALADINNI","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4441567256692,14.89139442250002],[75.44240286896441,14.91905028759821],[75.42836023306444,14.90230469417161],[75.4441567256692,14.89139442250002]]]},"properties":{"region_id":"village_604031","name":"KALAKOTI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

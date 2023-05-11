@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.36230621580312,13.69220132299514],[75.34695522104393,13.69383801128035],[75.34510567076907,13.67197583304716],[75.35801616672366,13.66692699613062],[75.36230621580312,13.69220132299514]]]},"properties":{"region_id":"village_608235","name":"KYADIGERE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

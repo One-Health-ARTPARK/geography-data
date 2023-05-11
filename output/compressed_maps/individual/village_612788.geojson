@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43732792975732,13.05589508439495],[77.43023969894878,13.05057697308954],[77.43078008043732,13.03384669244792],[77.44220516446359,13.04458758571216],[77.43732792975732,13.05589508439495]]]},"properties":{"region_id":"village_612788","name":"GOWDAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

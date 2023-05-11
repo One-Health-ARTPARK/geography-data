@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50340694701845,12.58379704500666],[76.48887776041454,12.58837639742858],[76.48361149666958,12.57993529139183],[76.4848475557979,12.57066793563045],[76.50340694701845,12.58379704500666]]]},"properties":{"region_id":"village_613599","name":"NATANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

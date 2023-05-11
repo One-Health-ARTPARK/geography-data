@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24214564737294,18.16071686524817],[77.23616257337176,18.17252114685149],[77.2145625310116,18.16863372314656],[77.22777425344,18.14717136555764],[77.24214564737294,18.16071686524817]]]},"properties":{"region_id":"village_600015","name":"KHED","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

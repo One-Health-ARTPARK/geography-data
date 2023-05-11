@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.87448585093223,15.49899731992933],[74.8721506557317,15.51044802699711],[74.86258542457212,15.50714804547337],[74.86249076483644,15.49250731037503],[74.87448585093223,15.49899731992933]]]},"properties":{"region_id":"village_602245","name":"VEERAPUR","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

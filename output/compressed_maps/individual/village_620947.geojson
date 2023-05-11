@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.546821927712,16.40354680781866],[76.54060110957349,16.42524702260664],[76.52038521963183,16.40864099406709],[76.546821927712,16.40354680781866]]]},"properties":{"region_id":"village_620947","name":"KANGANDANAHALLI","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

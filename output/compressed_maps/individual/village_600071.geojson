@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54979803601304,18.29188475758729],[77.52355784131625,18.30842278879435],[77.51205160387087,18.29036326159179],[77.54979803601304,18.29188475758729]]]},"properties":{"region_id":"village_600071","name":"MANOOR (K)","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

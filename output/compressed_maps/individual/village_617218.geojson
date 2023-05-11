@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4335698258746,12.87924135286761],[76.42649385085863,12.87997973492907],[76.41995120822564,12.86707729098383],[76.432837339865,12.87045285334306],[76.4335698258746,12.87924135286761]]]},"properties":{"region_id":"village_617218","name":"SHRAVANERI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

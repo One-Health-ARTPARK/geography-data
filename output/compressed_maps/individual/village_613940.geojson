@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80053144455418,12.7874174387252],[76.77835988390387,12.76343218515876],[76.81571795843428,12.74456163026221],[76.82625322559707,12.75041980639884],[76.80053144455418,12.7874174387252]]]},"properties":{"region_id":"village_613940","name":"KARADAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

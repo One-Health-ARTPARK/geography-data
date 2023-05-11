@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72859406568753,13.1558026791862],[76.71909531725065,13.16373523457074],[76.71552428455149,13.14939799138084],[76.72759375960948,13.14791496430863],[76.72859406568753,13.1558026791862]]]},"properties":{"region_id":"village_612227","name":"ANEMALE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

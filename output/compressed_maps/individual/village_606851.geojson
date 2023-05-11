@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71126280969149,14.20732277595408],[75.69613762425688,14.20690714087215],[75.69659260561333,14.19276324514452],[75.70982674585885,14.19223125695963],[75.71126280969149,14.20732277595408]]]},"properties":{"region_id":"village_606851","name":"CHIKKABASUR","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

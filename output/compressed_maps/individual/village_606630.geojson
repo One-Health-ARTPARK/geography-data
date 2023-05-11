@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07138946404721,14.38462746505596],[76.0297871104481,14.40649659396],[76.02100525839123,14.37375753727578],[76.07138946404721,14.38462746505596]]]},"properties":{"region_id":"village_606630","name":"ANAGODU","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32052814228788,17.87561898826663],[77.30027930120569,17.86113405891198],[77.31731385082819,17.85583601890555],[77.32052814228788,17.87561898826663]]]},"properties":{"region_id":"village_600278","name":"ATIWAL","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

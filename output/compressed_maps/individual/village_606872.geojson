@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7471276751728,14.10185199728037],[75.74666366386982,14.11341393398214],[75.73802599631478,14.11364251569456],[75.73850384384785,14.10146668190732],[75.7471276751728,14.10185199728037]]]},"properties":{"region_id":"village_606872","name":"CHANNAMBAPURA","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16870430219939,14.83042370651041],[75.15316702198379,14.83544069621074],[75.15818460819555,14.81057106691001],[75.17180027244123,14.81301249799124],[75.16870430219939,14.83042370651041]]]},"properties":{"region_id":"village_604073","name":"NEGAVANIGI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

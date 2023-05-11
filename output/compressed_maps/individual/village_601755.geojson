@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21779825568474,15.39029868484472],[76.20440942960654,15.39096971706145],[76.20668263992405,15.37908093654661],[76.22570784544281,15.37990259630057],[76.21779825568474,15.39029868484472]]]},"properties":{"region_id":"village_601755","name":"HANMANHALLI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

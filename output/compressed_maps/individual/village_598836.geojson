@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98028482517827,16.21805573063214],[75.99655261543089,16.25727242581852],[75.9916809923865,16.27056955491032],[75.96832375419768,16.21966504016638],[75.98028482517827,16.21805573063214]]]},"properties":{"region_id":"village_598836","name":"DOMANAL","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

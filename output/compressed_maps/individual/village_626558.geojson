@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3800789724182,12.41625363870927],[77.37602949150963,12.38975345526266],[77.39755558746192,12.39160564336959],[77.39962426590151,12.40785139504019],[77.3800789724182,12.41625363870927]]]},"properties":{"region_id":"village_626558","name":"ALAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

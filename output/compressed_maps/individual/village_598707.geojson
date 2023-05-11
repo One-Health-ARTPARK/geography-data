@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49171531608289,15.9391956108772],[75.50321015638679,15.96902279456985],[75.48437372145364,15.96961996749492],[75.47647421349173,15.95146042347949],[75.49171531608289,15.9391956108772]]]},"properties":{"region_id":"village_598707","name":"TAPPASAKATTI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

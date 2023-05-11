@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50224981652251,16.27528230128549],[74.49060761851543,16.2933016511126],[74.47690641221753,16.27792298235108],[74.48341863279758,16.26807001794135],[74.50224981652251,16.27528230128549]]]},"properties":{"region_id":"village_597569","name":"ANKALE","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

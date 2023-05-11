@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31169507001717,16.81520400034892],[76.29718318865798,16.78139883004001],[76.30864105282157,16.7788866731917],[76.31169507001717,16.81520400034892]]]},"properties":{"region_id":"village_599380","name":"KANNAGUDDIHAL","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

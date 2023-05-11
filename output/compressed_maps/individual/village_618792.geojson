@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7220429485621,12.26685813578513],[76.73597865384849,12.26347587331476],[76.72883092843519,12.27650854772427],[76.7220429485621,12.26685813578513]]]},"properties":{"region_id":"village_618792","name":"CHORANAHALLI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

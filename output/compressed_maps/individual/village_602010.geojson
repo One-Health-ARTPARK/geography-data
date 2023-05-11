@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74737203948156,15.43848816836833],[75.76596443661238,15.49396086556469],[75.71364803327555,15.49795448514084],[75.70647335423914,15.43324522800622],[75.74737203948156,15.43848816836833]]]},"properties":{"region_id":"village_602010","name":"KANAGINAHAL","parent":"subdistrict_5470","parent_name":"GADAG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35612680723823,13.85353749947245],[76.37572126945406,13.86146484617992],[76.36791161897577,13.8788143307518],[76.35515298851064,13.87091552496244],[76.35612680723823,13.85353749947245]]]},"properties":{"region_id":"village_605935","name":"RANGAVVANAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05761621576754,15.22533567870392],[75.04972441806126,15.24218186665171],[75.01941206635482,15.23922066615694],[75.03720291691452,15.21248594824992],[75.05761621576754,15.22533567870392]]]},"properties":{"region_id":"village_602461","name":"KAMADHENU","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

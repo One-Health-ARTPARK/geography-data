@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99295984103058,12.10651613919199],[75.9813195321766,12.07982291476163],[76.00130076234812,12.08189768042379],[76.01059541808515,12.09416512397165],[75.99295984103058,12.10651613919199]]]},"properties":{"region_id":"village_618067","name":"BALYAMANDUR","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

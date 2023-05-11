@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19161980493186,15.20787337900462],[75.17935295145632,15.21214805644752],[75.17459583944745,15.1961417600899],[75.19191209694722,15.19870941523826],[75.19161980493186,15.20787337900462]]]},"properties":{"region_id":"village_602526","name":"INAMKOPPA","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

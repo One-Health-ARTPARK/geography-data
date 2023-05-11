@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60165545436894,13.34481912763043],[75.58670361072184,13.35912680293819],[75.56610192390964,13.34205960770059],[75.58502452605407,13.32616300119473],[75.60165545436894,13.34481912763043]]]},"properties":{"region_id":"village_609697","name":"BERANAGODU","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

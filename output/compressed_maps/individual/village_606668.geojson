@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08422470577203,14.31077119548863],[76.06641028597308,14.30665468068428],[76.07254094114253,14.29285563104331],[76.08422470577203,14.31077119548863]]]},"properties":{"region_id":"village_606668","name":"DODDAMAGADI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

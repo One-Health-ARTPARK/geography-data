@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36012466553862,15.32317264964641],[76.38070432452098,15.33163210984284],[76.39797873952328,15.33312152497764],[76.3925662110234,15.34230757313976],[76.36097673976086,15.33465660571653],[76.36012466553862,15.32317264964641]]]},"properties":{"region_id":"village_601846","name":"MOHAMMAD NAGAR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

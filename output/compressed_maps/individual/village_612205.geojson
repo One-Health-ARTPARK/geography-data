@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68798773831595,13.24249994067613],[76.66698089873023,13.26167333545571],[76.64719898904927,13.2388515840677],[76.6700247129581,13.22055317513021],[76.68815102109562,13.21902757733247],[76.68798773831595,13.24249994067613]]]},"properties":{"region_id":"village_612205","name":"KUNIKENAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

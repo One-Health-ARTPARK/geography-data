@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52436806537025,14.77402106725822],[75.49894212135344,14.75882995409706],[75.52307840143274,14.74092812288477],[75.52436806537025,14.77402106725822]]]},"properties":{"region_id":"village_604318","name":"KENGOND","parent":"subdistrict_5493","parent_name":"BYADGI"}}
+]}

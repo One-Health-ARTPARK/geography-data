@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79219702733245,12.84851277524681],[76.77155089591932,12.84693746051688],[76.7686990781105,12.83672071137598],[76.79135461946555,12.83337133061974],[76.79219702733245,12.84851277524681]]]},"properties":{"region_id":"village_613889","name":"PALAGRAHARA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

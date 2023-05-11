@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97906258944816,14.18117961306034],[75.96841900706977,14.18132745198584],[75.96847314059197,14.16868577286319],[75.97719705488596,14.1712683767289],[75.97906258944816,14.18117961306034]]]},"properties":{"region_id":"village_606957","name":"GOLLARAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

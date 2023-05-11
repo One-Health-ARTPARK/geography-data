@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17966275073519,13.8448883362564],[75.14547062100718,13.84079853754875],[75.13729587692703,13.81579576981651],[75.15955815063248,13.80305887882319],[75.17966275073519,13.8448883362564]]]},"properties":{"region_id":"village_608090","name":"SHANKARAPURA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73260315384378,12.44013893696472],[75.74454689963243,12.46291515712163],[75.73298162469489,12.47404157729142],[75.72026196112245,12.47083366020895],[75.73260315384378,12.44013893696472]]]},"properties":{"region_id":"village_617825","name":"HEBBETTAGERI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

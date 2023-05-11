@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8463478640558,15.07902745577946],[75.89164293335378,15.09286212637816],[75.88303959347883,15.10823475789259],[75.85681313086017,15.09694706920176],[75.8463478640558,15.07902745577946]]]},"properties":{"region_id":"village_602188","name":"GANGAPUR","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

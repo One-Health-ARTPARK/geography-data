@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28833404862006,13.45298809714567],[77.28030923086295,13.45832553340607],[77.27701187879808,13.45108829041663],[77.28795099677177,13.44489451252233],[77.28833404862006,13.45298809714567]]]},"properties":{"region_id":"village_611169","name":"MARACHARAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

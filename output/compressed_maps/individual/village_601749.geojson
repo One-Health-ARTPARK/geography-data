@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21718482124427,15.44171185087039],[76.19338669625955,15.4463915995711],[76.18352540953768,15.41213033059287],[76.21657363224054,15.42264764377176],[76.21718482124427,15.44171185087039]]]},"properties":{"region_id":"village_601749","name":"HATTI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

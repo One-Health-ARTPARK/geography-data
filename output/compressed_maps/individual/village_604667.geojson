@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17928969133466,15.07736788039562],[76.12819865711461,15.0820189194823],[76.13393508152345,15.03487222947286],[76.16281098527551,15.02746901669567],[76.17928969133466,15.07736788039562]]]},"properties":{"region_id":"village_604667","name":"BYASIGADERI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

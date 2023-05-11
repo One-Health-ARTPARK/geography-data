@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67586381418991,12.92656633077538],[76.67152007495055,12.94334487448452],[76.65590703600637,12.94301657166944],[76.65985088053239,12.92371914720298],[76.67586381418991,12.92656633077538]]]},"properties":{"region_id":"village_613782","name":"KUCHAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

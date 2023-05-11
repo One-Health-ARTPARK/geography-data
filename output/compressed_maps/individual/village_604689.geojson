@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.29469842216254,14.97174892508984],[76.27868748400363,14.97111486340924],[76.26326432872094,14.92551657807121],[76.28152976125936,14.92514119659385],[76.28704464584953,14.95624231122112],[76.29469842216254,14.97174892508984]]]},"properties":{"region_id":"village_604689","name":"KALLAHALLI","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

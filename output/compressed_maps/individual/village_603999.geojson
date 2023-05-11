@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33295051541458,14.88375729587748],[75.32970653170766,14.89740337964452],[75.30565671674113,14.89626123676068],[75.31264245563041,14.88486169864752],[75.33295051541458,14.88375729587748]]]},"properties":{"region_id":"village_603999","name":"KALMADAVU","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

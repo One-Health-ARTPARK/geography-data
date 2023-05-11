@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.66002727731883,15.50658973499698],[74.64794324606903,15.49259225959704],[74.65576156130321,15.47688407765196],[74.67404809283106,15.49057559848801],[74.66002727731883,15.50658973499698]]]},"properties":{"region_id":"village_598005","name":"BHURANAKI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

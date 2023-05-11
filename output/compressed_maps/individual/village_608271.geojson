@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3644588889439,13.60686652147344],[75.35628457973039,13.61292214292446],[75.34047404991047,13.59371581392924],[75.37012763065329,13.5961526995224],[75.3644588889439,13.60686652147344]]]},"properties":{"region_id":"village_608271","name":"KABASE","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.54737339571746,15.41480806852234],[74.5473920245413,15.43889475572672],[74.52903303535636,15.42527940602548],[74.54737339571746,15.41480806852234]]]},"properties":{"region_id":"village_597964","name":"CHINCHEWADI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

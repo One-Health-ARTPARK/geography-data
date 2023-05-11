@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9169916217591,11.93160656388796],[76.91154921424257,11.93686520978029],[76.90597425858347,11.9250734474271],[76.91508750793967,11.92352135410916],[76.9169916217591,11.93160656388796]]]},"properties":{"region_id":"village_619666","name":"MANAGANAHALLI","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

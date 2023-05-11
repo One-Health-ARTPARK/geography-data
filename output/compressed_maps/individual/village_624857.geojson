@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34824414121368,13.15486093310613],[77.33688594603925,13.15876478453635],[77.33545856061856,13.15160956392653],[77.3439567631616,13.14705908341846],[77.34824414121368,13.15486093310613]]]},"properties":{"region_id":"village_624857","name":"MAROHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

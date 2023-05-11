@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.69586860592918,14.34414766975934],[75.65336821787923,14.3614634192412],[75.62249981126327,14.34657289589464],[75.69586860592918,14.34414766975934]]]},"properties":{"region_id":"village_606776","name":"KONANATHALE","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

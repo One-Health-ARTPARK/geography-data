@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34719334170481,13.56679186358206],[77.34575474284028,13.58033352931773],[77.32430420086739,13.57957530681617],[77.3266380172595,13.56431744518428],[77.34719334170481,13.56679186358206]]]},"properties":{"region_id":"village_611102","name":"CHIKKANAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

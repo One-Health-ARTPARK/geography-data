@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69134915554169,11.82204851042788],[76.6807843421497,11.82073597196318],[76.67922718875941,11.81577048277423],[76.69083305124792,11.81608350611969],[76.69134915554169,11.82204851042788]]]},"properties":{"region_id":"village_619507","name":"DUMDASANAPURA","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

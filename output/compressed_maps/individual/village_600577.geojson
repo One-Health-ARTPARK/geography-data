@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79774879616302,16.26256462302783],[76.76381565543028,16.2719317484033],[76.76229574515723,16.253432706347],[76.79774879616302,16.26256462302783]]]},"properties":{"region_id":"village_600577","name":"OOTI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

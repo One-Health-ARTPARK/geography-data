@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69537337493256,12.52947346437357],[76.6987043997553,12.54101449490789],[76.68237497888498,12.54351425318865],[76.68632605015209,12.52952151598165],[76.69537337493256,12.52947346437357]]]},"properties":{"region_id":"village_614167","name":"BITTANAYAKANAHALLI","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

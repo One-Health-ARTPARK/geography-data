@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74031742253226,16.29208195578168],[75.73444074583755,16.2479434584865],[75.77732648354836,16.25661474878538],[75.74031742253226,16.29208195578168]]]},"properties":{"region_id":"village_598823","name":"BENNUR","parent":"subdistrict_5447","parent_name":"BAGALKOT"}}
+]}

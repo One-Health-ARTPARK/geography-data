@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.92676428848642,15.88626525754159],[75.91364488459278,15.9129240000142],[75.89369986876278,15.91031484212563],[75.88358256810349,15.88350677678116],[75.92676428848642,15.88626525754159]]]},"properties":{"region_id":"village_601383","name":"TUGGALDONI","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

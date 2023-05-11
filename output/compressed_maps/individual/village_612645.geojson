@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94296045462212,12.96372972612604],[76.9259101627929,12.96109962242291],[76.9333181221674,12.94386694171648],[76.94879554939516,12.95738117183038],[76.94296045462212,12.96372972612604]]]},"properties":{"region_id":"village_612645","name":"HOLALAGUNDA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

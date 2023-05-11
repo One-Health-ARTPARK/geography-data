@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99897875265765,14.19986650214044],[75.99014170945811,14.17823423401824],[76.0032905618282,14.14941276081124],[76.0228411841142,14.15762846362172],[75.99897875265765,14.19986650214044]]]},"properties":{"region_id":"village_606960","name":"SANTHEBENNUR","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

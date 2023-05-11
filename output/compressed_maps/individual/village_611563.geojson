@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.10267835827825,13.24450522504354],[77.0884911095756,13.25096881718955],[77.08665608724857,13.23923435754758],[77.10267835827825,13.24450522504354]]]},"properties":{"region_id":"village_611563","name":"NARUGANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

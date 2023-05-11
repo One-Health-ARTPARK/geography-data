@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9181853913101,12.41642825581181],[75.90174402385341,12.42519784269811],[75.90359811295481,12.40821796725052],[75.9093867355603,12.4035768991251],[75.9181853913101,12.41642825581181]]]},"properties":{"region_id":"village_617987","name":"RASULPURA","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.71384781241822,14.69543741419056],[74.69528951024493,14.70672402629451],[74.68445746347102,14.68609631552758],[74.7067790281699,14.68084514001784],[74.71384781241822,14.69543741419056]]]},"properties":{"region_id":"village_603116","name":"MUREGAR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

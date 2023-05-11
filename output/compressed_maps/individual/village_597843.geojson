@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.47452217896075,15.66415188376869],[74.45787956588862,15.66489671254414],[74.46803208530696,15.64855547622706],[74.47452217896075,15.66415188376869]]]},"properties":{"region_id":"village_597843","name":"HARASANWADI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

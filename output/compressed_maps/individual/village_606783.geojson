@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7238749796435,14.29250508239206],[75.73053582768524,14.30727163577408],[75.7184207360971,14.30476507833991],[75.7238749796435,14.29250508239206]]]},"properties":{"region_id":"village_606783","name":"NARASAGONDANAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

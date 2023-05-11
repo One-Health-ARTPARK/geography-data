@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99086595489658,13.30264864554488],[75.9813121344989,13.30314646599291],[75.97226188216734,13.29413237341048],[75.98700882632428,13.29098486618479],[75.99086595489658,13.30264864554488]]]},"properties":{"region_id":"village_609792","name":"BHAKTHARAHALLI","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

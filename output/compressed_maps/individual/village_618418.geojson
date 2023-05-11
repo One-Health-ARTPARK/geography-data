@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.31110685790378,12.26795175933693],[76.3165314685003,12.28693116990127],[76.30587951027208,12.31653848635725],[76.28537007843788,12.30621666859788],[76.31110685790378,12.26795175933693]]]},"properties":{"region_id":"village_618418","name":"DODDAHUNSUR","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

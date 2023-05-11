@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18664010588743,14.3426635637355],[75.16832360270632,14.34589905293855],[75.17093432067281,14.33921846798892],[75.18338905743103,14.33746024348355],[75.18664010588743,14.3426635637355]]]},"properties":{"region_id":"village_607581","name":"KASPADIKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

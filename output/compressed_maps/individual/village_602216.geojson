@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95539336998749,15.55384731788278],[74.95486582162219,15.57575873390473],[74.94912188027986,15.57506298809821],[74.95539336998749,15.55384731788278]]]},"properties":{"region_id":"village_602216","name":"KURABAGATTI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

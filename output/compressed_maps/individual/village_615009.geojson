@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.75442687725122,12.72340861389274],[75.75547626755171,12.7279077436645],[75.7485058588244,12.73191162319915],[75.74764914697046,12.72354740011875],[75.75442687725122,12.72340861389274]]]},"properties":{"region_id":"village_615009","name":"VANAGOOR ESTATE","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92781220956152,15.40620489636858],[76.89121225621172,15.41570226808582],[76.89162588072544,15.39634379014631],[76.91036014971715,15.39304388016492],[76.92781220956152,15.40620489636858]]]},"properties":{"region_id":"village_604850","name":"SANAVASAPURA","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

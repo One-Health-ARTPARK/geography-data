@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.40688522522004,16.07916204089124],[74.396316111016,16.07720569769646],[74.39745626370052,16.05814341615944],[74.41346164557228,16.07036999269191],[74.40688522522004,16.07916204089124]]]},"properties":{"region_id":"village_597644","name":"SALAMWADI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

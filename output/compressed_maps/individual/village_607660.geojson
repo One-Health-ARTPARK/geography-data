@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18170673119415,14.3359428216198],[75.16765552386076,14.33957235161663],[75.16655546667559,14.33390018748554],[75.18170673119415,14.3359428216198]]]},"properties":{"region_id":"village_607660","name":"KOTHARI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22488903367808,15.94080477345184],[76.22181159494363,15.96533552781955],[76.21182125968231,15.96880796687483],[76.20416516136537,15.94306070212738],[76.22488903367808,15.94080477345184]]]},"properties":{"region_id":"village_599005","name":"CHICK-OTAGERI","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

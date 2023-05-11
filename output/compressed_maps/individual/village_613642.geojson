@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48695636945844,12.59372303112705],[76.4704834175863,12.58110295708656],[76.46976291616572,12.56609855978343],[76.48513959489301,12.56549559233667],[76.48695636945844,12.59372303112705]]]},"properties":{"region_id":"village_613642","name":"VITTALAPURA","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

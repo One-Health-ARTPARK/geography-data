@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35462903368061,14.00544162498622],[76.34145250113721,13.9976825601161],[76.35873829699682,13.99260629311063],[76.35462903368061,14.00544162498622]]]},"properties":{"region_id":"village_605813","name":"HALENAHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

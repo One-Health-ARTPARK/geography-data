@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04879083427748,14.10358528949758],[75.03561205653445,14.1019061339049],[75.04161570266285,14.08255598135574],[75.06254008663791,14.09668975716789],[75.04879083427748,14.10358528949758]]]},"properties":{"region_id":"village_607238","name":"MAVINASARA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

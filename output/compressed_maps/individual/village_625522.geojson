@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83047574854537,13.13267478148967],[77.82146704629848,13.15526419532859],[77.81010373634219,13.13699173920569],[77.83047574854537,13.13267478148967]]]},"properties":{"region_id":"village_625522","name":"EKARAJAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32514931713573,12.85172684600957],[76.29603513522056,12.846443935776],[76.3189966846055,12.83684114285697],[76.32514931713573,12.85172684600957]]]},"properties":{"region_id":"village_617105","name":"AGRAHARA","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

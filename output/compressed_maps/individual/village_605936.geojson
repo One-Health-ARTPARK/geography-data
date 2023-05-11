@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39156066569103,13.84485556609195],[76.35612680723823,13.85353749947245],[76.37053090317053,13.81848427091506],[76.39156066569103,13.84485556609195]]]},"properties":{"region_id":"village_605936","name":"ATHIMAGE","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

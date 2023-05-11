@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.42077176132612,15.67482288307391],[74.40861071444837,15.68184623337627],[74.40006999839896,15.66806640680764],[74.41665146141843,15.66695415102753],[74.42077176132612,15.67482288307391]]]},"properties":{"region_id":"village_597835","name":"DAROLI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

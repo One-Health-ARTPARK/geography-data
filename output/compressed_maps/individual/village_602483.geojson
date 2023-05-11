@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97845205147398,15.13546455553518],[74.95981888842692,15.13297848645682],[74.95840528514196,15.11655046888852],[74.97726020909138,15.12098737640953],[74.97845205147398,15.13546455553518]]]},"properties":{"region_id":"village_602483","name":"HANAMAPUR","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

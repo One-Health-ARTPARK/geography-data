@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15006874046249,12.56177049165177],[77.16030215447961,12.56343128137242],[77.16555181508386,12.58563950353927],[77.14380486878385,12.58159308980189],[77.15006874046249,12.56177049165177]]]},"properties":{"region_id":"village_626274","name":"AGRAHARA VALAGEREHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32654688263098,14.0837056777503],[77.26821347527567,14.07400713219542],[77.3015167029533,14.04499953291346],[77.32654688263098,14.0837056777503]]]},"properties":{"region_id":"village_610642","name":"KANIVENAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

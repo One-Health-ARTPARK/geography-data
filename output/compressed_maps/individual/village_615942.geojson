@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1761815742122,13.11286780781125],[76.16647791858855,13.12143515435993],[76.16188694730427,13.10134858288634],[76.1689423819668,13.09931929883299],[76.1761815742122,13.11286780781125]]]},"properties":{"region_id":"village_615942","name":"POOMAGAME","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

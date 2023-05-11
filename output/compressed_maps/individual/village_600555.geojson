@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78429258982865,16.34926621827515],[76.76925765412649,16.33670463234815],[76.78699947087952,16.33171632121949],[76.78429258982865,16.34926621827515]]]},"properties":{"region_id":"village_600555","name":"HORAHATTI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

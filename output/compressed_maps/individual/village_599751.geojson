@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93444265193322,17.87512145423864],[76.91152279123155,17.87556848786957],[76.90772216811472,17.85822730621844],[76.93253447889165,17.8654985637185],[76.93444265193322,17.87512145423864]]]},"properties":{"region_id":"village_599751","name":"NEELKANTH","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

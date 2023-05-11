@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54515973156929,16.07476507442216],[75.51587807601219,16.071820981742],[75.52453758131401,16.03949475228814],[75.55188206724472,16.0491732451857],[75.54515973156929,16.07476507442216]]]},"properties":{"region_id":"village_598645","name":"MALAGI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

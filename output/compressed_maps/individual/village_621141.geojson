@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01782226794634,16.75016263091921],[77.03067616095699,16.78633940488139],[77.01612353320118,16.7964098098715],[77.00522418004026,16.76638131861947],[77.01782226794634,16.75016263091921]]]},"properties":{"region_id":"village_621141","name":"MARAMKAL","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

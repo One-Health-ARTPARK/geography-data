@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06313132973398,13.01335113095784],[77.05774408402326,12.99472058324386],[77.0727741695775,12.99666368831985],[77.06313132973398,13.01335113095784]]]},"properties":{"region_id":"village_612589","name":"KUTHARAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95209133355553,13.57342792223721],[74.90328889627206,13.58071316784984],[74.91259755425638,13.54549961053049],[74.94659652665813,13.53187398408455],[74.95209133355553,13.57342792223721]]]},"properties":{"region_id":"village_608751","name":"HENGAVALLI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

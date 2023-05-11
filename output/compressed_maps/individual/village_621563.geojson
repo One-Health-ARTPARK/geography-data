@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.35858798761659,13.39022599598285],[78.36306202599268,13.40624826893326],[78.35680845090148,13.41076967212319],[78.34541838684859,13.39616285134396],[78.35858798761659,13.39022599598285]]]},"properties":{"region_id":"village_621563","name":"ADAVICHAMBAKUR","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

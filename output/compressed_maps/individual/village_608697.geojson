@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.69237648313774,13.71160094918471],[74.69304082573404,13.73624966988087],[74.67096862904107,13.7248989306477],[74.69237648313774,13.71160094918471]]]},"properties":{"region_id":"village_608697","name":"SENAPUR","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

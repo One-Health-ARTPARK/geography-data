@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.07003123125665,13.12105374449951],[75.06656009083586,13.13957902084709],[75.05004561368534,13.13553693753929],[75.04717146658506,13.11496481506325],[75.07003123125665,13.12105374449951]]]},"properties":{"region_id":"village_617465","name":"DAREGUDDE","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

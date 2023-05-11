@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88455857222563,15.96603792475922],[75.85912547504866,15.96703642691152],[75.86120484101129,15.95535337042994],[75.88455857222563,15.96603792475922]]]},"properties":{"region_id":"village_598895","name":"UPNAL (S.C.)","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91137060282732,17.87511033310793],[76.88482881478285,17.88552415976072],[76.8833285447835,17.86787948727828],[76.89845428886358,17.86198937915676],[76.91137060282732,17.87511033310793]]]},"properties":{"region_id":"village_599748","name":"TALBHOG","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

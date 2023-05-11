@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0727741695775,12.99666368831985],[77.05774408402326,12.99472058324386],[77.06087700013927,12.98685393964346],[77.07079746799619,12.98778852925011],[77.0727741695775,12.99666368831985]]]},"properties":{"region_id":"village_612590","name":"BYRANAIKANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.43556261837784,16.4432854133124],[74.43500936040293,16.45694497911473],[74.41992142732808,16.45544161396898],[74.42176434163761,16.43956168340958],[74.43556261837784,16.4432854133124]]]},"properties":{"region_id":"village_597200","name":"PANGIRE (A)","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

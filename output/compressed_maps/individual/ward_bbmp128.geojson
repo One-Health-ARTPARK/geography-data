@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52066899972264,12.96173399977775],[77.51826500026084,12.95525900028055],[77.52269600014547,12.94942999958602],[77.5286229998789,12.95692399960994],[77.52066899972264,12.96173399977775]]]},"properties":{"region_id":"ward_bbmp128","name":"WARD NO.128 (NAGARABHAVI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

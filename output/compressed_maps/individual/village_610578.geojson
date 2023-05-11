@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36394844684749,14.1614102855908],[77.32112305672581,14.16734138683674],[77.3196608017571,14.14062268909213],[77.35534671668437,14.12992430000176],[77.36394844684749,14.1614102855908]]]},"properties":{"region_id":"village_610578","name":"SRIRANGAPURA","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

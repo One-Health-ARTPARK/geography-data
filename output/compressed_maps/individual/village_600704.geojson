@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89156539553794,16.21857105581581],[76.87366081008301,16.22377954315398],[76.8510996327762,16.19959362230861],[76.87198011392822,16.18757804025892],[76.89156539553794,16.21857105581581]]]},"properties":{"region_id":"village_600704","name":"AKALKUMPI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47981901380909,12.42675472436994],[76.47987646278759,12.41793034833791],[76.48916292557811,12.42135372404939],[76.47981901380909,12.42675472436994]]]},"properties":{"region_id":"village_618697","name":"AMACHAWADI","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

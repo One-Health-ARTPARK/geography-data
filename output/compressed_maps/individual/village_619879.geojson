@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27585548511748,11.84077898506987],[77.25292159998311,11.84554928796254],[77.24961427305549,11.80441798153804],[77.27585548511748,11.84077898506987]]]},"properties":{"region_id":"village_619879","name":"BYLUR","parent":"subdistrict_7077","parent_name":"HANUR"}}
+]}

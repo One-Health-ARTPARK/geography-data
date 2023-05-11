@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23135618356525,12.97522473371352],[76.22304610815566,12.97882717951691],[76.2215759925633,12.96908016639789],[76.2287471277464,12.96987070447702],[76.23135618356525,12.97522473371352]]]},"properties":{"region_id":"village_616205","name":"BENGATTA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

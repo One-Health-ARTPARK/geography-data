@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07828588782928,13.6877266219213],[77.07111258689892,13.69173056953245],[77.07506725398102,13.67880186502685],[77.08000496174485,13.67973709386793],[77.07828588782928,13.6877266219213]]]},"properties":{"region_id":"village_610754","name":"NAGENAHALLII","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

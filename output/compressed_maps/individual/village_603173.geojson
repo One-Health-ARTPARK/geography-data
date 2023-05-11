@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72050244672913,14.62959543110616],[74.71035850630987,14.62847570602315],[74.70139480225924,14.60924595511005],[74.71947541557847,14.61546553959126],[74.72050244672913,14.62959543110616]]]},"properties":{"region_id":"village_603173","name":"SHIVALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

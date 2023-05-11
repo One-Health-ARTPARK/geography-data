@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.68862798810937,16.57896380967057],[76.66592538597651,16.57823771298892],[76.65274389353223,16.5480444623542],[76.68844012470348,16.54311087319871],[76.68862798810937,16.57896380967057]]]},"properties":{"region_id":"village_621036","name":"JALIBENCHI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

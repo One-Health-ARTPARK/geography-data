@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74389544152545,14.45800651137585],[76.72377439124249,14.45258405266944],[76.73015758421725,14.41908998659812],[76.74424534961929,14.42517017716409],[76.74389544152545,14.45800651137585]]]},"properties":{"region_id":"village_605300","name":"VALASE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.17708852975935,15.58380168545855],[76.15866847704595,15.54089971577118],[76.21282828738237,15.5548038947145],[76.20195231957807,15.58128080643277],[76.17708852975935,15.58380168545855]]]},"properties":{"region_id":"village_601318","name":"BEVOOR","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

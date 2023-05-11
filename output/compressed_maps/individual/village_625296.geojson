@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60399358339389,13.22726649705863],[77.5891067893809,13.22816264480631],[77.58624230954717,13.21978436925636],[77.59779675928135,13.21309349286866],[77.60399358339389,13.22726649705863]]]},"properties":{"region_id":"village_625296","name":"KAMENAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

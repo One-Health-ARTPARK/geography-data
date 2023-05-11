@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45223422664516,11.94315147850557],[76.45734346136192,11.94769576808842],[76.44831836114568,11.9599064991176],[76.44301293652252,11.94829429642215],[76.45223422664516,11.94315147850557]]]},"properties":{"region_id":"village_619001","name":"BASAVANAKOTE","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

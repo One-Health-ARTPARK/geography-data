@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.50069751154291,13.08058882195923],[78.49065821856459,13.08055381987055],[78.48942282363923,13.07413663258303],[78.50024908532984,13.07301727628797],[78.50069751154291,13.08058882195923]]]},"properties":{"region_id":"village_623155","name":"CHARAKURAHALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

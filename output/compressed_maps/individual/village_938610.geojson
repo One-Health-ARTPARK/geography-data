@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.84478476388867,14.11722611335886],[74.81005269416838,14.09020947375198],[74.83745843190435,14.08406303667504],[74.84478476388867,14.11722611335886]]]},"properties":{"region_id":"village_938610","name":"HEBBURU","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

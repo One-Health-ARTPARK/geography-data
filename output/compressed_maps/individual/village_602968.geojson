@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89826028532518,14.91592639613687],[74.86195374208228,14.91499143290474],[74.8529058416841,14.8892122697214],[74.8927107005674,14.8940455113432],[74.89826028532518,14.91592639613687]]]},"properties":{"region_id":"village_602968","name":"BILKI","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36721465486477,12.91409736712171],[77.34131046918594,12.91321380411736],[77.34236894678462,12.89419837961543],[77.36513099837973,12.88873800289695],[77.36721465486477,12.91409736712171]]]},"properties":{"region_id":"village_612986","name":"SULIVARA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

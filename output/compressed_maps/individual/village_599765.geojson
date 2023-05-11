@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.96761714073007,17.77244513714442],[76.94569948626122,17.77649763452498],[76.94229587532786,17.75109193947873],[76.96152084443015,17.75079957553805],[76.96761714073007,17.77244513714442]]]},"properties":{"region_id":"village_599765","name":"ROLLA","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

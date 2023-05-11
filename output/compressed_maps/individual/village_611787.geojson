@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77602538682001,13.33524412497766],[76.75157731438136,13.3331793847685],[76.75309198348702,13.31624677595503],[76.77927158261168,13.32248899721637],[76.77602538682001,13.33524412497766]]]},"properties":{"region_id":"village_611787","name":"DODDAGUNI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

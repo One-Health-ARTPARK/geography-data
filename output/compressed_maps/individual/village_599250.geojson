@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08633275835672,17.2607828688833],[76.09367513019053,17.29746275525716],[76.07119307758268,17.30523140415837],[76.06291758444623,17.26872881767902],[76.08633275835672,17.2607828688833]]]},"properties":{"region_id":"village_599250","name":"MANNUR","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

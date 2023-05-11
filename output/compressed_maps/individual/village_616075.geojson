@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04969125048646,12.9517954219508],[76.0443195734226,12.95652985087744],[76.04255306494751,12.94334578623931],[76.05102851783802,12.94606404754788],[76.04969125048646,12.9517954219508]]]},"properties":{"region_id":"village_616075","name":"MALLIGANAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

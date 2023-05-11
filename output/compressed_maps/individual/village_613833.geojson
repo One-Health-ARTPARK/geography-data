@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60394404515574,12.78866235922029],[76.59620647209475,12.78457605951481],[76.59915607096104,12.76353388970266],[76.60305739481186,12.76470723936109],[76.60590219082566,12.78069778429133],[76.60394404515574,12.78866235922029]]]},"properties":{"region_id":"village_613833","name":"KESAVINAKATTE","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

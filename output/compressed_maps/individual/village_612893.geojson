@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59101574126525,13.16905803399271],[77.57635903416164,13.17755834532702],[77.57467357126367,13.16449283678804],[77.59101574126525,13.16905803399271]]]},"properties":{"region_id":"village_612893","name":"THIMMASANDRA","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

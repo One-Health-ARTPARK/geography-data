@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39431084844274,14.91441062077124],[76.42045336783254,14.89763293067317],[76.42575390284992,14.93194937899318],[76.40754520112961,14.93459522588852],[76.39426471858448,14.93106811795966],[76.39431084844274,14.91441062077124]]]},"properties":{"region_id":"village_938312","name":"AMARADEVARAGUDDA","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

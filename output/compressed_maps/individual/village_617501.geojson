@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82993437886549,12.97396225181709],[74.82237353587418,12.9623866777489],[74.83803081765862,12.9569786590047],[74.84825956381114,12.96540349613967],[74.82993437886549,12.97396225181709]]]},"properties":{"region_id":"village_617501","name":"THOKUR-62 (CT)","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

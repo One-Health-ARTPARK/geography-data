@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09143745962741,13.0055514553049],[77.08029308559067,12.98758396452472],[77.09339943339947,12.98671021390346],[77.09143745962741,13.0055514553049]]]},"properties":{"region_id":"village_612547","name":"BUKKASAGARA","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73825766427012,14.78209615387474],[76.73227486126954,14.7914070588924],[76.72132847607395,14.77216460144987],[76.73614109113505,14.77483868232766],[76.73825766427012,14.78209615387474]]]},"properties":{"region_id":"village_605191","name":"BYRAPURA","parent":"subdistrict_5503","parent_name":"MOLAKALMURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69669223714331,12.68140573125559],[76.68999075828417,12.68251477276193],[76.68117615487945,12.66799994162955],[76.6949696494627,12.66813298220333],[76.69669223714331,12.68140573125559]]]},"properties":{"region_id":"village_614040","name":"KARADYA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

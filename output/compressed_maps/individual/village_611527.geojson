@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13844064149991,13.17772421381984],[77.1223788596935,13.18140971039438],[77.10703093554292,13.18042896309128],[77.10301404973306,13.16552403629475],[77.12884618158007,13.16426570350109],[77.13844064149991,13.17772421381984]]]},"properties":{"region_id":"village_611527","name":"THAVARAKERE","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

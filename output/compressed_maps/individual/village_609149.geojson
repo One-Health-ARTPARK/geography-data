@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7935788921175,13.71721274675763],[75.77419010381102,13.72231605135748],[75.7714310602844,13.71921245795508],[75.78204309728358,13.70229375211976],[75.79772130165907,13.70615495655483],[75.7935788921175,13.71721274675763]]]},"properties":{"region_id":"village_609149","name":"CHIKKATHUR","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92242248845358,15.89490937023725],[76.93402122914723,15.92517533749499],[76.92688411838425,15.9276817870361],[76.92242248845358,15.89490937023725]]]},"properties":{"region_id":"village_601053","name":"KHARABADINNI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

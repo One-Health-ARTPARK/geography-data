@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52820499989309,12.9718330003772],[77.5232689996262,12.96566199957014],[77.53475200034627,12.96436400000932],[77.52820499989309,12.9718330003772]]]},"properties":{"region_id":"ward_bbmp126","name":"WARD NO.126 (MARUTHI MANDIR WARD)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

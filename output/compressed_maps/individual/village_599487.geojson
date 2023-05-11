@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91229624132428,16.41938670517656],[75.90134058890041,16.43237244653374],[75.88084343008852,16.42655510900674],[75.89252505169571,16.40268428931411],[75.91229624132428,16.41938670517656]]]},"properties":{"region_id":"village_599487","name":"WANDAL","parent":"subdistrict_7075","parent_name":"NIDAGUNDI"}}
+]}

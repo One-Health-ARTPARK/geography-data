@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11953208335514,15.31504197195749],[76.1011884065569,15.31646910695536],[76.1063897547205,15.28153522719981],[76.11917540218815,15.28657583715496],[76.11953208335514,15.31504197195749]]]},"properties":{"region_id":"village_601718","name":"CHIKSINDOGI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

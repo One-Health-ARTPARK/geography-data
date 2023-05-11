@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35731630892434,12.78772508630761],[75.32019250381381,12.75975329541768],[75.34639003963079,12.7465462773926],[75.35731630892434,12.78772508630761]]]},"properties":{"region_id":"village_617719","name":"ALANKARU","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

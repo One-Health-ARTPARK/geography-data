@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63279722734661,13.3755259871134],[77.6209921741748,13.37520500629229],[77.61835889153116,13.3585337640185],[77.63106174557275,13.35796018003062],[77.63279722734661,13.3755259871134]]]},"properties":{"region_id":"village_625053","name":"MELEKOTE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

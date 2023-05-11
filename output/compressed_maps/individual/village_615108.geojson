@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78940872393792,13.01858410304684],[75.78127623237454,13.00991273748801],[75.79527487130396,13.00347423869044],[75.79868414244432,13.01295941507442],[75.78940872393792,13.01858410304684]]]},"properties":{"region_id":"village_615108","name":"BYADANE","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

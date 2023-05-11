@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49342062818259,14.11415938393388],[75.46602569223454,14.11244719617778],[75.47700619518827,14.09963435115238],[75.49342062818259,14.11415938393388]]]},"properties":{"region_id":"village_606723","name":"LAKKIENKOPPA","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

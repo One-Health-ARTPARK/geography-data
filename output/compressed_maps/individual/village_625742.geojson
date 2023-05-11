@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82317291017588,12.94990105481813],[77.81572998050794,12.95274044279413],[77.80385060231241,12.95025790185013],[77.80556855739816,12.94377892497701],[77.81866102748977,12.94356921945189],[77.82317291017588,12.94990105481813]]]},"properties":{"region_id":"village_625742","name":"YEDAGONDAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

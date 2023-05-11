@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27781071700946,16.66847306840305],[76.24721522334005,16.67398514025554],[76.23132959903121,16.64754814769186],[76.27103049727695,16.62974693160526],[76.27781071700946,16.66847306840305]]]},"properties":{"region_id":"village_599429","name":"BIBI-INGALGI","parent":"subdistrict_7071","parent_name":"DEVARA HIPPARAGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85949533141626,15.78720489269479],[75.83740459872861,15.75990809468371],[75.85997149436265,15.75097522373914],[75.85949533141626,15.78720489269479]]]},"properties":{"region_id":"village_601935","name":"GULAGULI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

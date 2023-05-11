@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74573876960517,13.72863007923296],[74.73134493877417,13.72909508078204],[74.72648320519099,13.71998307304133],[74.73024157269893,13.70389875234876],[74.74329012630494,13.71671894205571],[74.74573876960517,13.72863007923296]]]},"properties":{"region_id":"village_608700","name":"NOOJADI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

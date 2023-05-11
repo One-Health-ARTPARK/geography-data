@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85319816045379,15.42299022437847],[75.81022863644446,15.42150742008583],[75.79785941703227,15.38574349474906],[75.85148487153259,15.37512708038458],[75.85319816045379,15.42299022437847]]]},"properties":{"region_id":"village_602145","name":"HALLIGUDI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

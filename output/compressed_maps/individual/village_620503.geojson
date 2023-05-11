@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3206830690128,17.14892107176138],[77.32824885250375,17.16276604676658],[77.2983575788972,17.16493331776783],[77.30217150362031,17.15152833233236],[77.3206830690128,17.14892107176138]]]},"properties":{"region_id":"village_620503","name":"INJEPALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54142581533308,15.69869657854618],[76.52064850541728,15.68465345384037],[76.5063794995836,15.69238751685501],[76.49080333640303,15.67985592691322],[76.52734390680243,15.66878139400445],[76.54142581533308,15.69869657854618]]]},"properties":{"region_id":"village_601660","name":"UDDIHAL","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

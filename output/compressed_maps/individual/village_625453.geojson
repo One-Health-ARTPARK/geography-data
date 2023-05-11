@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75646779277807,13.17592637057868],[77.759275074819,13.18364386299038],[77.72935215380906,13.1832161004104],[77.74777668947614,13.17232755487602],[77.75646779277807,13.17592637057868]]]},"properties":{"region_id":"village_625453","name":"JONNAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

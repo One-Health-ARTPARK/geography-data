@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64699106903154,13.21788679971818],[77.64917579585293,13.21912676172308],[77.64747544668734,13.23037981596996],[77.64482307885471,13.23062797565571],[77.64699106903154,13.21788679971818]]]},"properties":{"region_id":"village_625396","name":"JOGAHALLI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

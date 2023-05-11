@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61602649387002,14.93507310861499],[74.59082227700516,14.9587018501382],[74.58245738422279,14.93076275581623],[74.61602649387002,14.93507310861499]]]},"properties":{"region_id":"village_602899","name":"BALAGAR","parent":"subdistrict_5481","parent_name":"YELLAPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93010367764738,12.89462460433701],[76.92607740293332,12.90071416953274],[76.91673010831988,12.89940937166688],[76.92264314932949,12.8918927424114],[76.93010367764738,12.89462460433701]]]},"properties":{"region_id":"village_612667","name":"KACHONAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

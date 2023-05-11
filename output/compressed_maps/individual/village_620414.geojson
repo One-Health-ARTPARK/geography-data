@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36466136929849,17.45655709385353],[77.34836603896487,17.43123997054188],[77.39004250609037,17.41994870720419],[77.39845205335027,17.43169771595162],[77.36466136929849,17.45655709385353]]]},"properties":{"region_id":"village_620414","name":"CHIMMAIDLAI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

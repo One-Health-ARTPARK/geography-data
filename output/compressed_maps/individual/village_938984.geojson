@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93051182243661,12.74151779262214],[75.92826811349698,12.74536205350711],[75.92469276982787,12.73963096784388],[75.92736110588197,12.73784240645676],[75.93051182243661,12.74151779262214]]]},"properties":{"region_id":"village_938984","name":"HALLIBAILU","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

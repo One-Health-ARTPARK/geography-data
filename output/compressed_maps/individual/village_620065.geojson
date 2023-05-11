@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62930000798157,17.45455650357744],[76.61202779740286,17.49464169559701],[76.57478263193372,17.45863658725623],[76.62930000798157,17.45455650357744]]]},"properties":{"region_id":"village_620065","name":"DHUTTAGAON","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

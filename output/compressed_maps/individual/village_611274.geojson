@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00704837617918,13.40229211015474],[76.99938566818622,13.40547916364531],[76.99722387919874,13.39495402626239],[77.00733099636243,13.39542455328115],[77.00704837617918,13.40229211015474]]]},"properties":{"region_id":"village_611274","name":"SINGIPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

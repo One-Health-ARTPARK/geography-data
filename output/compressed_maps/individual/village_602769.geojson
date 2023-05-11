@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.72194536160765,15.33193547325407],[74.71710252340704,15.34377780225458],[74.70922671849767,15.34059918325148],[74.71012612741293,15.32927033361965],[74.72194536160765,15.33193547325407]]]},"properties":{"region_id":"village_602769","name":"HARWALLI","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

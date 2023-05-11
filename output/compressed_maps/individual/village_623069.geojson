@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.45828199944484,13.28574192042897],[78.44050955247327,13.27954026395422],[78.45162183668688,13.26588282016332],[78.46531040181216,13.27182764431848],[78.45828199944484,13.28574192042897]]]},"properties":{"region_id":"village_623069","name":"GUDIPALLI","parent":"subdistrict_5594","parent_name":"MULBAGAL"}}
+]}

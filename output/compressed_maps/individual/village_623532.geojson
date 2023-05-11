@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81435123931335,13.50577337162179],[77.81340081945189,13.49056216357451],[77.82601236668832,13.49572158449059],[77.81435123931335,13.50577337162179]]]},"properties":{"region_id":"village_623532","name":"CHALAKAYALAPARTHI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71862804337434,12.39318467981765],[76.71041298012551,12.3870169697183],[76.71057149763527,12.37604860098911],[76.7223892102381,12.38199574403932],[76.71862804337434,12.39318467981765]]]},"properties":{"region_id":"village_614295","name":"HOSUR","parent":"subdistrict_5549","parent_name":"SHRIRANGAPATTANA"}}
+]}

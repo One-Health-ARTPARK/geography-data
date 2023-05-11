@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5827396095273,12.94999738869249],[77.57965877002731,12.95000096926592],[77.58041104659722,12.93754673293454],[77.58425408552512,12.9414410391683],[77.58605692756187,12.94762364821238],[77.5827396095273,12.94999738869249]]]},"properties":{"region_id":"village_939456","name":"LALBAGH (UPPARAHALLI)","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

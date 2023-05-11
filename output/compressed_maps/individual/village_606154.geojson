@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60436073748357,13.8935852846801],[76.58676823846439,13.902340288634],[76.58164227502591,13.88956040020151],[76.59096802900743,13.88258806091808],[76.60436073748357,13.8935852846801]]]},"properties":{"region_id":"village_606154","name":"HULUGALAKUNTE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

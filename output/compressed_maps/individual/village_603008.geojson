@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00271911285674,15.05337610482176],[74.98315321616607,15.06150175803096],[74.95790204169333,15.02866022798735],[74.9991448503855,15.01700674503685],[75.00271911285674,15.05337610482176]]]},"properties":{"region_id":"village_603008","name":"NANDIKATTA","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

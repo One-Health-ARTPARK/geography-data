@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34805196739673,12.31466105978376],[76.34910262710252,12.3308552677101],[76.33133470375942,12.32921553426327],[76.33461360125165,12.31300821616779],[76.34805196739673,12.31466105978376]]]},"properties":{"region_id":"village_618415","name":"SOMANAHALLI","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

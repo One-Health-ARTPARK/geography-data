@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.23872439014848,13.51864198892902],[78.22942816089552,13.5235040764388],[78.23074561130521,13.51662261422626],[78.23872439014848,13.51864198892902]]]},"properties":{"region_id":"village_621453","name":"PATHAGOWNIPALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

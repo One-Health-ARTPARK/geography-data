@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13313265861972,13.57889383021425],[76.12676823834249,13.58362813542803],[76.12129609813529,13.57086822137795],[76.13166155687125,13.57265443677562],[76.13313265861972,13.57889383021425]]]},"properties":{"region_id":"village_609481","name":"BOKKMALLANAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

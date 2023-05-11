@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27511424407297,13.38877303020271],[77.26900046883954,13.40814206662727],[77.25776480855659,13.39545435353221],[77.27511424407297,13.38877303020271]]]},"properties":{"region_id":"village_611208","name":"S.GOLLAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

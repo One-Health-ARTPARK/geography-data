@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92005184365145,13.70870761358745],[74.8784711794018,13.70931074294877],[74.8479941808426,13.68551697294461],[74.87242246116824,13.67079286334996],[74.91015263240192,13.67772026565905],[74.92005184365145,13.70870761358745]]]},"properties":{"region_id":"village_608718","name":"AJRI","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

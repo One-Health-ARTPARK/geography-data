@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98122157625708,18.02657606256195],[76.96182756318879,18.03209936952536],[76.9592766967303,18.00939001462422],[76.98460349115433,18.01041940848715],[76.98122157625708,18.02657606256195]]]},"properties":{"region_id":"village_599723","name":"MACHANAL","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

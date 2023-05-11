@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.40382705757487,14.22219946200392],[75.37351780053206,14.22419027686065],[75.3720689183077,14.21032210438948],[75.40063415062838,14.20230537815189],[75.40382705757487,14.22219946200392]]]},"properties":{"region_id":"village_607834","name":"THARALAGHATTA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

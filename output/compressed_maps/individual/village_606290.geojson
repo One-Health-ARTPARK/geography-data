@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82654835225428,14.5342282526189],[75.81866846914481,14.56270148618736],[75.7984769451005,14.53777549713013],[75.82654835225428,14.5342282526189]]]},"properties":{"region_id":"village_606290","name":"GUTTUR (OG)","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

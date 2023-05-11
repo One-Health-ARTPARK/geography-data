@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.09942492829504,17.20125025580444],[76.12233272875477,17.24842858043192],[76.10997634114936,17.25284616088323],[76.09942492829504,17.20125025580444]]]},"properties":{"region_id":"village_599262","name":"NAGARHALLI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

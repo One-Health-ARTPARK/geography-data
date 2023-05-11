@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.32488435847264,17.56456903437984],[77.3431343740755,17.58799047868437],[77.31119130691884,17.59470367398674],[77.30410898014752,17.56299361973625],[77.32488435847264,17.56456903437984]]]},"properties":{"region_id":"village_620330","name":"YETABARPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

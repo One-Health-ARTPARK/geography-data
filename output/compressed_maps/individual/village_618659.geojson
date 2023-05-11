@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45515602283963,12.47795840454542],[76.44425073078715,12.47455543282657],[76.44731609879352,12.46023478189708],[76.45818704887141,12.47117868102442],[76.45515602283963,12.47795840454542]]]},"properties":{"region_id":"village_618659","name":"BANNIKUPPE","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

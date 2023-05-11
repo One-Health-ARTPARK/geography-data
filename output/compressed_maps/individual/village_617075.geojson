@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.36340251179574,12.95888672210913],[76.34721880949854,12.96514885398808],[76.34155473769633,12.93869885194098],[76.36469769047358,12.93674830357385],[76.36340251179574,12.95888672210913]]]},"properties":{"region_id":"village_617075","name":"BARAGUR","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

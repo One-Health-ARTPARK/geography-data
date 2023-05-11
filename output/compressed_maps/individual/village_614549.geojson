@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02878251022918,12.74038900910766],[77.01964701930741,12.72839468295679],[77.03547704300358,12.71085810496018],[77.0469501740319,12.71868480788203],[77.02878251022918,12.74038900910766]]]},"properties":{"region_id":"village_614549","name":"HUTHAGERE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

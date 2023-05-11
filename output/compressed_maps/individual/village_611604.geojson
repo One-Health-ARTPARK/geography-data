@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.18357444403144,13.22998099518732],[77.1616111149387,13.23133286109147],[77.16485817658696,13.21840753713215],[77.17627930306928,13.21868779159472],[77.18357444403144,13.22998099518732]]]},"properties":{"region_id":"village_611604","name":"SIDDAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

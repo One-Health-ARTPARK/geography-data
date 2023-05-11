@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48948759138003,14.28791337107927],[75.50823415080217,14.30634540235374],[75.47767453540598,14.31755898667411],[75.46991247429996,14.28983126058566],[75.48948759138003,14.28791337107927]]]},"properties":{"region_id":"village_607810","name":"CHOWDANAYAKANAKOPPA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

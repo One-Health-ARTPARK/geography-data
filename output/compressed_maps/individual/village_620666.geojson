@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.06280311572316,17.19447525722299],[77.02234009896141,17.18864105053334],[77.04151598081113,17.14422317462012],[77.06896397449607,17.14806551132928],[77.06280311572316,17.19447525722299]]]},"properties":{"region_id":"village_620666","name":"BHAGODI","parent":"subdistrict_5585","parent_name":"CHITTAPUR"}}
+]}

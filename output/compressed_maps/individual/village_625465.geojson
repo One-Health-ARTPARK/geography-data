@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82342097207373,13.22661323140526],[77.81413068305706,13.21623599114713],[77.82489967879337,13.2074400814523],[77.82342097207373,13.22661323140526]]]},"properties":{"region_id":"village_625465","name":"THIMMAPPANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

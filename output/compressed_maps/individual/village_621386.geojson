@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38719623978542,16.51586417334069],[77.41591362907155,16.51774822953626],[77.39647756821444,16.5643833677969],[77.3700424916828,16.54478022045045],[77.38719623978542,16.51586417334069]]]},"properties":{"region_id":"village_621386","name":"DUPPALLI","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

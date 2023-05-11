@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.45836190166331,13.79312098734403],[77.4454271589899,13.81051040665547],[77.43862700842898,13.79459325700249],[77.45836190166331,13.79312098734403]]]},"properties":{"region_id":"village_610906","name":"KASINAIKANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

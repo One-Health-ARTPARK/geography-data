@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43396426343304,13.73427045298494],[76.44522186538978,13.71397058802366],[76.45899835435758,13.73197126170673],[76.45474277065723,13.74852233735223],[76.43396426343304,13.73427045298494]]]},"properties":{"region_id":"village_606035","name":"KANCHIPURA","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

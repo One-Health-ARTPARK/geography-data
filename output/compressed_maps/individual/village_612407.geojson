@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87072771178127,13.10044560096624],[76.85764430947187,13.09337402999177],[76.8450406038623,13.09550972280008],[76.83810338529601,13.08898089345914],[76.86404829081995,13.08195735614096],[76.87072771178127,13.10044560096624]]]},"properties":{"region_id":"village_612407","name":"SETTIGONDANAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

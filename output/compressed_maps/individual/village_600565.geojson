@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86650741096297,16.32049120295056],[76.8523360157973,16.32260711428444],[76.8408560825668,16.30074773011023],[76.87265316605466,16.298175983712],[76.86650741096297,16.32049120295056]]]},"properties":{"region_id":"village_600565","name":"GANAJALI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

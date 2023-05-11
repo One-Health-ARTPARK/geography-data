@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63654331616324,15.55215237982078],[76.61943730867813,15.53309818329128],[76.63219568083238,15.51550996179323],[76.66645028949418,15.53882712236181],[76.63654331616324,15.55215237982078]]]},"properties":{"region_id":"village_601696","name":"SIDDAPUR","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

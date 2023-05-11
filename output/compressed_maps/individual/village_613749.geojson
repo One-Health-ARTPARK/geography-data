@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.79802682366592,12.91639486004239],[76.78667056994615,12.92081803037136],[76.77879527064736,12.90987391882794],[76.79377020350668,12.9051154201739],[76.79802682366592,12.91639486004239]]]},"properties":{"region_id":"village_613749","name":"CHIKKAJATAKA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

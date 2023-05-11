@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86966082784646,16.47099507199296],[74.85968368773918,16.50156906251674],[74.83438157239321,16.51017679208344],[74.8282656016381,16.46277356320855],[74.86966082784646,16.47099507199296]]]},"properties":{"region_id":"village_597399","name":"NIDAGUNDI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

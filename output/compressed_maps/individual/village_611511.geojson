@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0004765542404,13.16259740870515],[76.98280010808372,13.16365609328896],[76.99327150837388,13.15142874929673],[77.0004765542404,13.16259740870515]]]},"properties":{"region_id":"village_611511","name":"RAMAKRISHNAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

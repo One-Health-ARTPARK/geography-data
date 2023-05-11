@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36574915980778,12.42854265163695],[77.35092048383169,12.43756081057749],[77.34487581033511,12.42963150965261],[77.35592190817705,12.42519857806877],[77.36574915980778,12.42854265163695]]]},"properties":{"region_id":"village_626543","name":"CHIKKALAHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

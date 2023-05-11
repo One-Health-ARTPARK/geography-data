@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.07514844740588,13.34630541435488],[77.06808159660766,13.35518459267186],[77.06203945081194,13.3407563106762],[77.06242206817436,13.33099160710042],[77.07603954226074,13.33784037142448],[77.07514844740588,13.34630541435488]]]},"properties":{"region_id":"village_938664","name":"BHEEMASANDRA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

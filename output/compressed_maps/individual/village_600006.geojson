@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15168729338605,18.21749758711821],[77.13264042699585,18.18750148975229],[77.1674261183421,18.19787169234396],[77.15168729338605,18.21749758711821]]]},"properties":{"region_id":"village_600006","name":"HORANDI","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

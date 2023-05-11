@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.33173544208913,12.86841139623556],[76.32161804243783,12.86395102643184],[76.33017002560943,12.85405219320367],[76.33173544208913,12.86841139623556]]]},"properties":{"region_id":"village_617102","name":"KACHENAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

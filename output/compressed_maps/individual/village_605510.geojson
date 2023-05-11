@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43402917786277,14.34997482694119],[76.41038057569702,14.34782404578919],[76.40878644541007,14.30873146525607],[76.42654970082556,14.31353535205763],[76.43402917786277,14.34997482694119]]]},"properties":{"region_id":"village_605510","name":"HUNESEKATTE","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

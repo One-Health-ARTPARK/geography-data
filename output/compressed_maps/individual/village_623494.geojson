@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.7378707403006,13.56044429891746],[77.72841526606717,13.55150210570822],[77.73871125635065,13.54503382035165],[77.74700544450391,13.54879888827827],[77.7378707403006,13.56044429891746]]]},"properties":{"region_id":"village_623494","name":"BISAIGARAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.00014350087442,13.28328132554725],[77.98412164949299,13.28616901276857],[77.98535744247229,13.27163789695975],[78.00275049623235,13.26694929823646],[78.00014350087442,13.28328132554725]]]},"properties":{"region_id":"village_621742","name":"KADAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

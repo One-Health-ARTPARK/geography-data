@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.93667320825948,13.01803073916268],[77.92019962265394,12.99976434734509],[77.94802297459522,12.986917237077],[77.95899357385932,13.00963813340951],[77.93667320825948,13.01803073916268]]]},"properties":{"region_id":"village_622158","name":"MALUR (RURAL) *","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

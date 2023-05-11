@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21564020492514,14.6561664934503],[75.20231792906775,14.64097122616072],[75.21806870932053,14.63569425277112],[75.22585774909221,14.65316423145143],[75.21564020492514,14.6561664934503]]]},"properties":{"region_id":"village_604181","name":"LAKMAPUR (INAM)","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

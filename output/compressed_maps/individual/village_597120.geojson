@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.35826238766896,16.53897801040288],[74.31625284111259,16.55423560774494],[74.31563938071184,16.50427512294978],[74.35065990729062,16.49854085444531],[74.34777925328333,16.53385737856031],[74.35826238766896,16.53897801040288]]]},"properties":{"region_id":"village_597120","name":"KOGANOLI","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

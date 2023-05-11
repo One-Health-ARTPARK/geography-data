@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.9480367928733,12.87104153664053],[77.95226456068886,12.88654765253044],[77.9428722188084,12.88740433076239],[77.94035740030894,12.87237431731894],[77.9480367928733,12.87104153664053]]]},"properties":{"region_id":"village_622271","name":"MADAMANGALA","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70944785868186,15.8216655525655],[74.70421434592527,15.83540745184947],[74.69415787002927,15.83975373217285],[74.68551127963447,15.85412120238751],[74.6775613099161,15.84541265600913],[74.70944785868186,15.8216655525655]]]},"properties":{"region_id":"village_598052","name":"HIREMELE","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

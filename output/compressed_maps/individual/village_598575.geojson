@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4135170373765,16.37677453355239],[75.39344077294727,16.37971543215274],[75.38728082950959,16.34105578156721],[75.39651927100293,16.33755874274323],[75.4135170373765,16.37677453355239]]]},"properties":{"region_id":"village_598575","name":"KISHORI","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

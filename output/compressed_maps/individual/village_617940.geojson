@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87781357039925,12.56833777876926],[75.85464006035338,12.55553438769519],[75.8691031189189,12.54006085326303],[75.88527951080366,12.55417943301618],[75.87781357039925,12.56833777876926]]]},"properties":{"region_id":"village_617940","name":"BELUR BASAVANALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

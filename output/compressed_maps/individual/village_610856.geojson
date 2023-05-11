@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.23794994777354,13.65188082787643],[77.24428767196818,13.67325241639209],[77.23371099077754,13.67087663703931],[77.23794994777354,13.65188082787643]]]},"properties":{"region_id":"village_610856","name":"PALYADAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

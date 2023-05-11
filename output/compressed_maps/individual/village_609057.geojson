@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.51671535012585,13.62832565153612],[75.5101729615106,13.64362853842969],[75.49070733765808,13.6261077224138],[75.5052226086517,13.62231255645082],[75.51671535012585,13.62832565153612]]]},"properties":{"region_id":"village_609057","name":"BALEKOPPA","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

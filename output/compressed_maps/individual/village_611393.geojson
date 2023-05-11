@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17133116411027,13.2818603373583],[77.17349073492575,13.29045947301853],[77.16903293431146,13.29156493426268],[77.17133116411027,13.2818603373583]]]},"properties":{"region_id":"village_611393","name":"SINGANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

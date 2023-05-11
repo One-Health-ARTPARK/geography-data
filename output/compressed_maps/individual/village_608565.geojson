@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76144254174,13.95668695917263],[75.74284434547214,13.96016179389795],[75.74288551791338,13.94976970347156],[75.76144254174,13.95668695917263]]]},"properties":{"region_id":"village_608565","name":"MARASETTYHALLI","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

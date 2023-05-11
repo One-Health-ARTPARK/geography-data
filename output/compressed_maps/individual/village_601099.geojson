@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.74253135600831,15.89908892071571],[76.73010131733652,15.89824430228231],[76.72708162106161,15.88572555670503],[76.74103899186424,15.88148410996342],[76.74253135600831,15.89908892071571]]]},"properties":{"region_id":"village_601099","name":"JALLIHATTI","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

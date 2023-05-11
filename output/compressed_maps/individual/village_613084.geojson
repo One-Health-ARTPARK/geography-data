@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72400532502162,13.07464474984564],[77.70444294910351,13.07533942589488],[77.73337613758923,13.05602162963279],[77.73584792558492,13.0660203170821],[77.72400532502162,13.07464474984564]]]},"properties":{"region_id":"village_613084","name":"BYAPPANAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

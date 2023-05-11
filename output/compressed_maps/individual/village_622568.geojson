@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.16320720011583,12.88083663917076],[78.1565971209488,12.88874353254652],[78.14712379085933,12.88778627451447],[78.15155192610852,12.87855130228376],[78.16320720011583,12.88083663917076]]]},"properties":{"region_id":"village_622568","name":"BUVANAHALLI","parent":"subdistrict_5593","parent_name":"BANGARAPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11175016847766,12.6477052767094],[76.10809513785749,12.65624594715831],[76.09737826101072,12.65011122965419],[76.10813257717419,12.63791438183012],[76.11175016847766,12.6477052767094]]]},"properties":{"region_id":"village_616652","name":"DODDAHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

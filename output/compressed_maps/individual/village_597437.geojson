@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70517368416691,16.22089456481158],[74.69066004023082,16.22576987874551],[74.70023817630987,16.20667162042067],[74.70517368416691,16.22089456481158]]]},"properties":{"region_id":"village_597437","name":"MUTNAL","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

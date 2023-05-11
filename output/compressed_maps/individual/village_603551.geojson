@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.7403914383855,14.42959477026308],[74.7291244616449,14.40737514863808],[74.75058923838293,14.40303311616873],[74.7403914383855,14.42959477026308]]]},"properties":{"region_id":"village_603551","name":"UNCHALLI","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

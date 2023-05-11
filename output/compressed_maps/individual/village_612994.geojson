@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4012777521481,12.9227518046805],[77.39168611341256,12.92121275289648],[77.39125681796294,12.91427104496372],[77.3993723515348,12.91149939443474],[77.4012777521481,12.9227518046805]]]},"properties":{"region_id":"village_612994","name":"GANAPATHIHALLI","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

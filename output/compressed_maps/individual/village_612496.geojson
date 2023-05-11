@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9652707154979,12.96944694499399],[76.94946064654972,12.97631014296724],[76.94296045462212,12.96372972612604],[76.96023613721327,12.9624050072814],[76.9652707154979,12.96944694499399]]]},"properties":{"region_id":"village_612496","name":"GOWDAGERE","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

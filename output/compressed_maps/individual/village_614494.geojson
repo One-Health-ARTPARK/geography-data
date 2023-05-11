@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91767905237926,12.75475050052433],[76.92507157598003,12.78492970955909],[76.91290215877699,12.78350091236304],[76.91767905237926,12.75475050052433]]]},"properties":{"region_id":"village_614494","name":"BOLARE","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

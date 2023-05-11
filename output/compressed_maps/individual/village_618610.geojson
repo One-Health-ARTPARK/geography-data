@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24079241244401,12.5146743358342],[76.22810916998641,12.51759095465164],[76.21608868026125,12.50563035372086],[76.22945530048588,12.5022662036968],[76.24079241244401,12.5146743358342]]]},"properties":{"region_id":"village_618610","name":"HADYA","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

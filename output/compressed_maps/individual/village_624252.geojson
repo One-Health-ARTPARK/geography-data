@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82687080224366,13.31617053928538],[77.81217004829597,13.31230387414093],[77.81453912203509,13.30377281657988],[77.82875681209934,13.30391134089661],[77.82687080224366,13.31617053928538]]]},"properties":{"region_id":"village_624252","name":"ANKATHATTI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

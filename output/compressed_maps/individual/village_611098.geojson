@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33448026476897,13.59786647160722],[77.32056601210101,13.59364691222837],[77.31370791602161,13.59982739748527],[77.30966784140278,13.59121195674254],[77.33504242663236,13.5904022420491],[77.33448026476897,13.59786647160722]]]},"properties":{"region_id":"village_611098","name":"RAYAVARA","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09270248982399,13.66150617532218],[77.07906053500648,13.65808696160663],[77.08793206924467,13.64654607305265],[77.09270248982399,13.66150617532218]]]},"properties":{"region_id":"village_610778","name":"SIDADARAGAL","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

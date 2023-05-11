@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50136805698635,16.31032752289724],[74.48930451123523,16.31463450321393],[74.49246571940773,16.30010886339731],[74.50136805698635,16.31032752289724]]]},"properties":{"region_id":"village_597562","name":"AKKIWAT","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

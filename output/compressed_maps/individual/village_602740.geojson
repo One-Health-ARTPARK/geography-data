@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.50909498801704,15.00590760071324],[74.54032487434095,15.00383288049369],[74.5339936846696,15.03187603170534],[74.50909498801704,15.00590760071324]]]},"properties":{"region_id":"village_602740","name":"VADKAL","parent":"subdistrict_5479","parent_name":"SUPA"}}
+]}

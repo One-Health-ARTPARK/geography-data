@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01261408056908,13.21483701460726],[76.99652270866954,13.20641115102729],[77.01247179791568,13.19661629663227],[77.01261408056908,13.21483701460726]]]},"properties":{"region_id":"village_611494","name":"RAYAPURA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

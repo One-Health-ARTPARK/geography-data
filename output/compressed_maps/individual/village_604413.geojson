@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45057893293486,14.45291488838702],[75.4210503067666,14.45438865027617],[75.42382119095008,14.43950084787518],[75.45057893293486,14.45291488838702]]]},"properties":{"region_id":"village_604413","name":"HOSALLI","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

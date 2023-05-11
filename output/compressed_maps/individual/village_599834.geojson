@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95162186810992,17.62350207193069],[76.93353027972766,17.63946792171085],[76.92014604673226,17.62199001138199],[76.94125076417767,17.60665402056561],[76.95162186810992,17.62350207193069]]]},"properties":{"region_id":"village_599834","name":"HIPPARGA(BAG)","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

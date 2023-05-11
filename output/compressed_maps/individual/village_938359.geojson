@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50984723607118,17.90290841811364],[77.4752276085944,17.92475442932477],[77.45919639369004,17.90393463725633],[77.49211289340676,17.8882907259553],[77.50984723607118,17.90290841811364]]]},"properties":{"region_id":"village_938359","name":"CHIDRI","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

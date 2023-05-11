@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.158670200278,13.32111581819545],[78.14864316581145,13.32226902482818],[78.14689163849582,13.31519441466362],[78.16123579160553,13.31169778123406],[78.158670200278,13.32111581819545]]]},"properties":{"region_id":"village_621651","name":"VARATANAHALLI","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

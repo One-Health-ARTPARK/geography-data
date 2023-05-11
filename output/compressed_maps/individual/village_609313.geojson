@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9620845531436,13.69702155469736],[75.95008596780838,13.67916256971627],[75.97041590150954,13.66945045886225],[75.97283233915446,13.68183276556286],[75.9620845531436,13.69702155469736]]]},"properties":{"region_id":"village_609313","name":"BAGGAVALLI KAVAL","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

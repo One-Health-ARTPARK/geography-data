@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.90152163739512,13.54777739251082],[76.88045784036777,13.53969559385395],[76.89973417934353,13.52286670346867],[76.90152163739512,13.54777739251082]]]},"properties":{"region_id":"village_611674","name":"ANKASANDRA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

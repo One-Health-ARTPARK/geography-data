@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71768578528258,13.71553830037289],[77.70219229646534,13.72034511305675],[77.70168646350544,13.70960573519049],[77.71768578528258,13.71553830037289]]]},"properties":{"region_id":"village_623306","name":"MUDDALAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

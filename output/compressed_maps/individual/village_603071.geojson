@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97556786333243,14.75554403905706],[74.9929572597991,14.78361529898138],[74.98753633488725,14.79930127682053],[74.95921193027394,14.77241147388574],[74.97556786333243,14.75554403905706]]]},"properties":{"region_id":"village_603071","name":"KURLI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

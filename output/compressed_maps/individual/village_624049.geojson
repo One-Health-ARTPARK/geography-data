@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90535121497427,13.56847270282332],[77.89396508357845,13.57055827825562],[77.89623428490053,13.55740773066574],[77.90326489734731,13.54826978070135],[77.91315357466279,13.55597570594903],[77.90535121497427,13.56847270282332]]]},"properties":{"region_id":"village_624049","name":"DIBBURAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

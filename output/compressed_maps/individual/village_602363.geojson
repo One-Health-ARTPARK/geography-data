@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4925420754268,15.45866292026231],[75.46628055922142,15.4572863990558],[75.47289072916463,15.42255411392954],[75.49595728936593,15.41580842795587],[75.4925420754268,15.45866292026231]]]},"properties":{"region_id":"village_602363","name":"KONDIKOPPA","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

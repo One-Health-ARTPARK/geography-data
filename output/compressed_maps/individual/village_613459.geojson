@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.58891673346254,12.79880498516293],[76.5762149863714,12.79401833945829],[76.58795283622825,12.76433257604249],[76.59143785661962,12.78706711018603],[76.58891673346254,12.79880498516293]]]},"properties":{"region_id":"village_613459","name":"NAYAKANAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

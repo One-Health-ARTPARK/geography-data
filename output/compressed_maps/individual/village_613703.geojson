@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75742565251083,13.03537833913895],[76.73205845791014,13.03615944499243],[76.7260847997927,13.01765197457449],[76.748409024698,13.01479656566093],[76.75742565251083,13.03537833913895]]]},"properties":{"region_id":"village_613703","name":"CHUNCHANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

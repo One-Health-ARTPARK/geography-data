@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.83331583319585,12.9870786745322],[77.83003124936056,12.99506238167193],[77.81863422977398,12.99662784073257],[77.81919608656214,12.98596083439113],[77.83331583319585,12.9870786745322]]]},"properties":{"region_id":"village_625667","name":"KANEKALLU","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

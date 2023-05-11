@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2998783857434,13.79724349073581],[77.30189839773678,13.79160372719376],[77.32091159412187,13.78588758123151],[77.3213224112447,13.79330142444278],[77.2998783857434,13.79724349073581]]]},"properties":{"region_id":"village_610894","name":"YARAMALLANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

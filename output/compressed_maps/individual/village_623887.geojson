@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8648192533693,13.71068677305698],[77.86421307855188,13.7219465445578],[77.85315225200385,13.71709183624301],[77.85501402463983,13.70996819850948],[77.8648192533693,13.71068677305698]]]},"properties":{"region_id":"village_623887","name":"MERUVAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

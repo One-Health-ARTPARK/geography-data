@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.04066274393911,13.33418287516083],[77.03189855174423,13.34007843030432],[77.01443327216772,13.33675853359861],[77.01468261967693,13.32639784870587],[77.02890557965816,13.30495933922625],[77.04066274393911,13.33418287516083]]]},"properties":{"region_id":"village_611448","name":"MALLASANDRA","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

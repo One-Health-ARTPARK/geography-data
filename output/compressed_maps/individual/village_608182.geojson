@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.15130529603118,13.72962684357401],[75.13736741501158,13.72209816475194],[75.16016745998448,13.71200284104954],[75.15130529603118,13.72962684357401]]]},"properties":{"region_id":"village_608182","name":"BOBLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

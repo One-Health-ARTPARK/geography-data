@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.13871591123538,14.59793074807379],[75.1333075467609,14.59247892167809],[75.1396412081102,14.58726158963033],[75.13871591123538,14.59793074807379]]]},"properties":{"region_id":"village_607414","name":"MALLAPURA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

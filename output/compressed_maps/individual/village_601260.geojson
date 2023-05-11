@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.90952666146576,15.52031374644709],[75.91182516748367,15.54342259049371],[75.8668709829686,15.55453646680087],[75.86039180194761,15.51296282763269],[75.90952666146576,15.52031374644709]]]},"properties":{"region_id":"village_601260","name":"TONDIHAL","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

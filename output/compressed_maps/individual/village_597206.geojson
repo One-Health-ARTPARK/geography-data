@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4613233912663,16.409923550663],[74.44562714706383,16.42136696127501],[74.43425970636176,16.41162520285378],[74.4561377723046,16.40244465682368],[74.4613233912663,16.409923550663]]]},"properties":{"region_id":"village_597206","name":"PEERAWADI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

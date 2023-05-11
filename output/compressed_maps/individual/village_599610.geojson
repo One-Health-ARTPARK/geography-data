@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02679302110329,16.33729339539178],[76.00050044668221,16.33908956918489],[75.99846664434112,16.30467580933439],[76.01861367759436,16.30236124754496],[76.02679302110329,16.33729339539178]]]},"properties":{"region_id":"village_599610","name":"KALAGI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

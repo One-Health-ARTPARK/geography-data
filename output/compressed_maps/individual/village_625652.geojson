@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85272887442135,13.04146615621053],[77.8364147333785,13.04364987920003],[77.84825550181642,13.03287130319768],[77.85272887442135,13.04146615621053]]]},"properties":{"region_id":"village_625652","name":"VADIGEHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

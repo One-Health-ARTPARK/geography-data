@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84247198422874,13.07844254575826],[75.8351844832934,13.08250323363703],[75.83161529818659,13.07146859462364],[75.84080028074264,13.07345292754463],[75.84247198422874,13.07844254575826]]]},"properties":{"region_id":"village_615153","name":"BILAGAVALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

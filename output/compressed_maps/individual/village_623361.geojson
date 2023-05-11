@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42336882169174,13.50119269225814],[77.41785553343445,13.50801078684251],[77.41046419351237,13.49888613394485],[77.41592668395373,13.49101474265222],[77.41834946342715,13.50162501918781],[77.42336882169174,13.50119269225814]]]},"properties":{"region_id":"village_623361","name":"NACHIKUNTE","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

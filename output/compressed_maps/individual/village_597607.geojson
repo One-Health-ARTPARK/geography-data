@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.67218145037377,16.20847842469294],[74.65037298306761,16.21435958392272],[74.64759251106706,16.18405581858202],[74.67298783632269,16.18190368268311],[74.67218145037377,16.20847842469294]]]},"properties":{"region_id":"village_597607","name":"SULTANPUR","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

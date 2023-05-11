@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39530263707323,12.09811703248109],[76.37795392788544,12.12432170855006],[76.36752682530869,12.12302941901206],[76.38322647527944,12.09901121547226],[76.39530263707323,12.09811703248109]]]},"properties":{"region_id":"village_618880","name":"HYRIGE","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

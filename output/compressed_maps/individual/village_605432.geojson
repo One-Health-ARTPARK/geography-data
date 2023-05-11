@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22205131326776,14.42014345518376],[76.20829747060087,14.42961249606485],[76.21290673398612,14.4056929713936],[76.22205131326776,14.42014345518376]]]},"properties":{"region_id":"village_605432","name":"KAKABALU","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13980428247308,13.16210173713777],[76.14714700948034,13.16307938661932],[76.14664555265448,13.16859376621144],[76.14128406974888,13.17107174244787],[76.13980428247308,13.16210173713777]]]},"properties":{"region_id":"village_615926","name":"RANGENAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

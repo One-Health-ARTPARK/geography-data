@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51243255855971,18.05755273927734],[77.48757298723206,18.02775459287136],[77.50536077598565,18.02043548644785],[77.51243255855971,18.05755273927734]]]},"properties":{"region_id":"village_600131","name":"HIPPALGAON","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

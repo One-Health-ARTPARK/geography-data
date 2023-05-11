@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60945786086697,14.24325172718449],[75.59340792010453,14.25185009478307],[75.59555603885681,14.23098016284456],[75.60945786086697,14.24325172718449]]]},"properties":{"region_id":"village_606770","name":"HATHUR","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8354293989857,13.18156489405105],[77.83452960993968,13.19282627134252],[77.82687875031402,13.19727281070479],[77.82628560220651,13.1845844381275],[77.8354293989857,13.18156489405105]]]},"properties":{"region_id":"village_625493","name":"THAMMARASANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

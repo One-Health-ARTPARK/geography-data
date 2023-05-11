@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.40175924270699,17.36443189833276],[77.37827249940382,17.37127821070453],[77.36438544564605,17.35280756694521],[77.40000574872585,17.34490746560828],[77.40175924270699,17.36443189833276]]]},"properties":{"region_id":"village_620444","name":"BEDAGPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05236464238733,12.64877827608428],[76.04105234370861,12.63589097943135],[76.04341041477757,12.62248274656271],[76.05906870686555,12.62327425720154],[76.05236464238733,12.64877827608428]]]},"properties":{"region_id":"village_616723","name":"KONANUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

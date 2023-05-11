@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42121016824822,18.09347675099714],[77.40442930835992,18.0714385461586],[77.4219902603846,18.06560691728916],[77.42121016824822,18.09347675099714]]]},"properties":{"region_id":"village_600042","name":"BACHEPALLI","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

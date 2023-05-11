@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81045163567728,12.89687712011999],[77.79089610179109,12.89969382474941],[77.79730847073262,12.88135541843094],[77.81045163567728,12.89687712011999]]]},"properties":{"region_id":"village_613247","name":"KUTHAGANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

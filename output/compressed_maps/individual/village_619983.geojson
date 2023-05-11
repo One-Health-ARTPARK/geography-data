@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89312120118404,17.64319470366446],[76.84029253207996,17.6270307113554],[76.88092133089854,17.59693445447934],[76.89312120118404,17.64319470366446]]]},"properties":{"region_id":"village_619983","name":"LADMUGLI","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

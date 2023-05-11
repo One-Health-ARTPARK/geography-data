@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78605213380992,16.93866921525798],[75.73328258046281,16.93250362511712],[75.7424717094754,16.89463819747255],[75.78332292224582,16.90176729685685],[75.78605213380992,16.93866921525798]]]},"properties":{"region_id":"village_599041","name":"BARATAGI","parent":"subdistrict_7074","parent_name":"TIKOTA"}}
+]}

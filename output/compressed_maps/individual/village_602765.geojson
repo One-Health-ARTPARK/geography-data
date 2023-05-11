@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.74309403812941,15.33571140877176],[74.73806810814534,15.33408324859745],[74.7365736723863,15.32402672258394],[74.74417424874576,15.33046197150807],[74.74309403812941,15.33571140877176]]]},"properties":{"region_id":"village_602765","name":"CHANNAPUR","parent":"subdistrict_5480","parent_name":"HALIYAL"}}
+]}

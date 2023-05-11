@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.39563205687315,15.36209934450886],[75.39807081916973,15.401227200504],[75.36206575279829,15.39295392710791],[75.3645855850129,15.36010557743154],[75.39563205687315,15.36209934450886]]]},"properties":{"region_id":"village_602370","name":"BHADRAPUR","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

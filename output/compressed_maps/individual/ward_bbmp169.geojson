@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59538999990423,12.92844300038532],[77.59272200040408,12.93618600011385],[77.58494299967015,12.93661800036622],[77.58381500025514,12.9286640001771],[77.59538999990423,12.92844300038532]]]},"properties":{"region_id":"ward_bbmp169","name":"WARD NO.169 (BYRA SANDRA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

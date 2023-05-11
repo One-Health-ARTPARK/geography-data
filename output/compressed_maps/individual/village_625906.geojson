@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30990109892807,13.04505890877641],[77.29208704507478,13.04647835670872],[77.28960873406574,13.03169405017898],[77.30488192548817,13.03034785841215],[77.30990109892807,13.04505890877641]]]},"properties":{"region_id":"village_625906","name":"MARIKUPPE","parent":"subdistrict_5605","parent_name":"MAGADI"}}
+]}

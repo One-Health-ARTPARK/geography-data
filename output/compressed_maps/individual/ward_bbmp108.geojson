@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54903199997395,12.98436899985135],[77.55882300014129,12.9788100000726],[77.56020200040395,12.98344099981029],[77.54903199997395,12.98436899985135]]]},"properties":{"region_id":"ward_bbmp108","name":"WARD NO.108 (SRI RAMA MANDIR WARD)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

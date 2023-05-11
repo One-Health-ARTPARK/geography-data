@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5406950748904,13.19038071557383],[76.54095209095466,13.21157750997385],[76.52905561355428,13.21140045653964],[76.52755039292363,13.19694701006873],[76.5406950748904,13.19038071557383]]]},"properties":{"region_id":"village_612151","name":"NAGARAGHATTA","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

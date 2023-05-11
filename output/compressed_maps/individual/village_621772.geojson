@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.98291478611485,13.24660314266032],[77.97380397824445,13.24805349186796],[77.96557689145915,13.24443521045375],[77.9740128459645,13.23806705913604],[77.98291478611485,13.24660314266032]]]},"properties":{"region_id":"village_621772","name":"RAGHUPATHI AGRAHARA","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75973930555777,13.47041209772172],[76.7678259459706,13.47348363595332],[76.76206388976581,13.48870987323719],[76.75756521105777,13.48862240962804],[76.75973930555777,13.47041209772172]]]},"properties":{"region_id":"village_611642","name":"OBALAPURA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3480056014959,16.02171964988941],[76.32435059988569,16.02150704852137],[76.3116623277323,16.00005480062017],[76.35313996315183,15.99296450231251],[76.3480056014959,16.02171964988941]]]},"properties":{"region_id":"village_600372","name":"BELLIHAL","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

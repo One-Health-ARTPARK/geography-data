@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.46934412944961,13.08696328980342],[77.4619027403828,13.0785709433067],[77.47706652407264,13.0645085835766],[77.47972606298707,13.08384939940574],[77.46934412944961,13.08696328980342]]]},"properties":{"region_id":"village_612774","name":"KUDURAGERE","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

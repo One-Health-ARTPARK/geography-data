@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96293209103933,16.92812576179676],[74.9338347608643,16.94561893538203],[74.92140834203616,16.92967572634676],[74.94608573096032,16.91000899403552],[74.96293209103933,16.92812576179676]]]},"properties":{"region_id":"village_597246","name":"PANDEGAON","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

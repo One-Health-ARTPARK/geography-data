@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9565966522415,13.89528414853267],[74.9400069042389,13.90327923157652],[74.92144325263568,13.88241559894965],[74.94614765045608,13.87576047649029],[74.9565966522415,13.89528414853267]]]},"properties":{"region_id":"village_608019","name":"MATHIKAI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

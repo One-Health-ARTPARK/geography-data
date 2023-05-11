@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.36237226285567,13.16820491628728],[77.35961695861332,13.17528193727457],[77.34817511512547,13.17481869207595],[77.34663128579118,13.16790255827408],[77.36237226285567,13.16820491628728]]]},"properties":{"region_id":"village_624854","name":"VARADANAIKANAHALLI","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

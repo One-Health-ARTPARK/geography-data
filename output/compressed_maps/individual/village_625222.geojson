@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37348504077552,13.34733546538331],[77.37076876436016,13.33486576372142],[77.37453693524965,13.32620853704896],[77.38249361064521,13.3310585321687],[77.37348504077552,13.34733546538331]]]},"properties":{"region_id":"village_625222","name":"BADRAPURA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

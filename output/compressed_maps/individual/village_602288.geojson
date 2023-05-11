@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9947551553043,15.35773984344081],[75.00478169750092,15.36071080283273],[74.99957173948191,15.38040252537975],[74.98504884393118,15.37551813129467],[74.9947551553043,15.35773984344081]]]},"properties":{"region_id":"village_602288","name":"NAYAKANAHULIKATTI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

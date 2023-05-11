@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54606530253268,14.54709498493651],[75.54709900393603,14.5655210534596],[75.51476022034373,14.58130274823053],[75.51452795858111,14.54939118491976],[75.54606530253268,14.54709498493651]]]},"properties":{"region_id":"village_604536","name":"SUNAKALBIDARI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

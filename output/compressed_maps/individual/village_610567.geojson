@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38724056774798,14.19972134508032],[77.38405802986682,14.22064151787679],[77.36643019242356,14.19971174173858],[77.38724056774798,14.19972134508032]]]},"properties":{"region_id":"village_610567","name":"KAMBALAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

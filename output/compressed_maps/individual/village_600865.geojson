@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3516524184505,15.97769138970151],[77.31741313590699,15.98557075236642],[77.30605223576293,15.95248174696747],[77.35665761961694,15.9533672431162],[77.3516524184505,15.97769138970151]]]},"properties":{"region_id":"village_600865","name":"BICHAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

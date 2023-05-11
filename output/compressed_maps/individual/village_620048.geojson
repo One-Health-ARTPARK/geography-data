@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46221836546792,17.46627608350388],[76.46753620767562,17.5037773939644],[76.44260193669022,17.49790232874328],[76.43900235191589,17.46858700792426],[76.46221836546792,17.46627608350388]]]},"properties":{"region_id":"village_620048","name":"IKKALKI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

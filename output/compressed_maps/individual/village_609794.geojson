@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95823849642994,13.28352901477847],[75.94936250457275,13.29878216169088],[75.94529292242026,13.28088017346798],[75.95823849642994,13.28352901477847]]]},"properties":{"region_id":"village_609794","name":"CHIKKAKALASAPURA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.3169425859869,15.11796254575492],[76.29677634174124,15.12249070704454],[76.2926605617692,15.09873197576431],[76.31408585878671,15.09518205342984],[76.3169425859869,15.11796254575492]]]},"properties":{"region_id":"village_604671","name":"VYASAPURA","parent":"subdistrict_5497","parent_name":"HAGARIBOMMANAHALLI"}}
+]}

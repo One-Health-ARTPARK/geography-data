@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80485046688312,12.25687698333386],[76.7952285842398,12.25516934098709],[76.80214079267219,12.24792817898951],[76.80485046688312,12.25687698333386]]]},"properties":{"region_id":"village_618799","name":"HONGATE","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

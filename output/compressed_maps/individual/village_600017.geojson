@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2851761014738,18.19663849613026],[77.26761950464811,18.19416148712671],[77.26055507761787,18.17555803794544],[77.27700008916482,18.17780261132708],[77.2851761014738,18.19663849613026]]]},"properties":{"region_id":"village_600017","name":"TAPSHAL","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50217225937602,16.42327729750581],[76.47804732230543,16.43066179450513],[76.47756955977954,16.40757173939982],[76.50360348680702,16.40910281786012],[76.50217225937602,16.42327729750581]]]},"properties":{"region_id":"village_620956","name":"KUPPI","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

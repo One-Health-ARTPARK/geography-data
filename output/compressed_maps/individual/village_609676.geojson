@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.63958382472337,13.49920116447718],[75.60975468245714,13.5477938150287],[75.57942147712998,13.51521661709876],[75.63958382472337,13.49920116447718]]]},"properties":{"region_id":"village_609676","name":"HIPLA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

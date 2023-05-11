@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5008802072093,12.65602441066188],[76.49669905509792,12.64861278684687],[76.50750838061765,12.64708289893967],[76.50919625725054,12.65618555505122],[76.5008802072093,12.65602441066188]]]},"properties":{"region_id":"village_613503","name":"HONNENAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

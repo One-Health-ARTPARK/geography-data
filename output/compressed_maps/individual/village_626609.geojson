@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.52740935152465,12.43000184949147],[77.51542698666586,12.4406167407575],[77.46331920662188,12.43737526616806],[77.49038943878715,12.41521134951822],[77.52740935152465,12.43000184949147]]]},"properties":{"region_id":"village_626609","name":"KODIHALLI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

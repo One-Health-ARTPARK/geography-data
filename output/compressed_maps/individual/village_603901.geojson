@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19303166780122,15.01242776747815],[75.17467647586446,15.02137862574761],[75.17985369771571,14.99883628363962],[75.19303166780122,15.01242776747815]]]},"properties":{"region_id":"village_603901","name":"KAMANAHALLI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

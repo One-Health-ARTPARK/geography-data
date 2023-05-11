@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0541245002718,16.49107316177245],[75.0476782048876,16.48840320087989],[75.05067935522148,16.48256114121981],[75.0541245002718,16.49107316177245]]]},"properties":{"region_id":"village_598402","name":"KALHATTI","parent":"subdistrict_7063","parent_name":"RABAKAVI BANAHATTI"}}
+]}

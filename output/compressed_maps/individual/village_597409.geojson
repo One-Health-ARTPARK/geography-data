@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.00603656677613,16.41436495459735],[74.98417528139338,16.39552415273123],[75.00597847357835,16.38481087643877],[75.00603656677613,16.41436495459735]]]},"properties":{"region_id":"village_597409","name":"MARAKUDI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

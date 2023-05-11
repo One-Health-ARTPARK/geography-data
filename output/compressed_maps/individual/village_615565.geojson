@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20508638558589,13.44581904401934],[76.19637341294768,13.44623317769071],[76.18784742315061,13.43373002435981],[76.20581366703838,13.43069705398161],[76.20508638558589,13.44581904401934]]]},"properties":{"region_id":"village_615565","name":"SHANEGERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

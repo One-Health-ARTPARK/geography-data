@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08347867408999,12.69325674634923],[75.04272771477642,12.67163959333577],[75.06934717211712,12.6641498224143],[75.08724131354619,12.67611091006234],[75.08347867408999,12.69325674634923]]]},"properties":{"region_id":"village_617590","name":"MANILA","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

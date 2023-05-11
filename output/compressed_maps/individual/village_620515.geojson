@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44330319460677,17.09346515173122],[77.43027151337492,17.11962152233943],[77.41235352915639,17.09661190133053],[77.44330319460677,17.09346515173122]]]},"properties":{"region_id":"village_620515","name":"ERNAPALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

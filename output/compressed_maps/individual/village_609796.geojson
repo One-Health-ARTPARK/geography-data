@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94204595599977,13.28498794536769],[75.92202791836547,13.29729328991542],[75.90634903894245,13.29323295668974],[75.91577147773621,13.27939989605181],[75.93016416458278,13.27074067560025],[75.94204595599977,13.28498794536769]]]},"properties":{"region_id":"village_609796","name":"KALASAPURA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

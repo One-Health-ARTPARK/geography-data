@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43754335290157,15.97775395233548],[77.42566943472146,15.95808685823632],[77.44027337955696,15.94087651320345],[77.44423480518554,15.96111010449227],[77.43754335290157,15.97775395233548]]]},"properties":{"region_id":"village_600876","name":"GUNDERVELI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

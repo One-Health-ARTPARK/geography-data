@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95865757101545,12.19122512629491],[75.94490875090736,12.1826993469148],[75.94688269325422,12.1666900976712],[75.96788245249311,12.17163191809247],[75.95865757101545,12.19122512629491]]]},"properties":{"region_id":"village_924058","name":"BALAJI","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

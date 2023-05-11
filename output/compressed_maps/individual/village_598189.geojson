@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.85734881893546,15.9875429187785],[74.84422898354329,15.98668227034367],[74.83991483809461,15.96010460396634],[74.86052089671904,15.95592157045227],[74.85734881893546,15.9875429187785]]]},"properties":{"region_id":"village_598189","name":"CHIKKABUDANUR","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

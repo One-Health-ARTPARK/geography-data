@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89720785509098,12.57615305142883],[75.9038139192311,12.57302267451854],[75.90625284351525,12.58102651350287],[75.89980962205512,12.58499701271694],[75.89720785509098,12.57615305142883]]]},"properties":{"region_id":"village_617943","name":"NERUGALALE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81916767268353,12.84401339773948],[76.80531536586886,12.84477911132483],[76.80578988259634,12.81964670545579],[76.82588704371702,12.82121228976986],[76.81916767268353,12.84401339773948]]]},"properties":{"region_id":"village_613927","name":"DONDEMADAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

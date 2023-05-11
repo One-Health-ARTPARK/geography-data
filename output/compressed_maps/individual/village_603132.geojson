@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.82911553269079,14.69005937049623],[74.81794644297634,14.68654079638825],[74.82413711531142,14.67463064133158],[74.83288273230065,14.67540922568639],[74.82911553269079,14.69005937049623]]]},"properties":{"region_id":"village_603132","name":"BOMMANALLI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

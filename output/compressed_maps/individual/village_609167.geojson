@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8790804137332,13.70076993589321],[75.86407148324855,13.68510213319771],[75.87478947126914,13.66519171096975],[75.88873084004355,13.68162897249518],[75.8790804137332,13.70076993589321]]]},"properties":{"region_id":"village_609167","name":"BETTADAHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

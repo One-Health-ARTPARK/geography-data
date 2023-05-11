@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99550539491814,17.92363382453917],[76.95620327427726,17.93233143333417],[76.96771642911793,17.89730191214807],[76.99550539491814,17.92363382453917]]]},"properties":{"region_id":"village_599742","name":"BETBALKUNDA","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

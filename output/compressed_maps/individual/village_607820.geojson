@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32725404574668,14.25099468704407],[75.33035671509808,14.22043628892458],[75.35625656852001,14.22817517258718],[75.32725404574668,14.25099468704407]]]},"properties":{"region_id":"village_607820","name":"GAMA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

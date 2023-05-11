@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.85303954559436,12.87672381199154],[77.84726791294263,12.87354686678683],[77.85051770977866,12.86586815369216],[77.85587880645477,12.86769915908552],[77.85303954559436,12.87672381199154]]]},"properties":{"region_id":"village_625756","name":"SIDDANAPURA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

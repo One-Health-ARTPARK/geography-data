@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.83550541379353,16.38639721542115],[76.84034966325628,16.39905983731403],[76.816079047206,16.39398079325946],[76.81667662457635,16.384852607061],[76.83550541379353,16.38639721542115]]]},"properties":{"region_id":"village_600546","name":"JAMBALDINNI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

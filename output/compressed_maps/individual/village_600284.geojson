@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27318562489972,17.82398614364619],[77.25207114173857,17.82285780830516],[77.25816805412259,17.80144709162218],[77.27585329759975,17.80880651189317],[77.27318562489972,17.82398614364619]]]},"properties":{"region_id":"village_600284","name":"BOTHAGI","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

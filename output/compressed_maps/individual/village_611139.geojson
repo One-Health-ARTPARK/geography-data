@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.25750797207071,13.60198523313453],[77.24176866473536,13.60167913997159],[77.25435680953544,13.58724629346422],[77.25750797207071,13.60198523313453]]]},"properties":{"region_id":"village_611139","name":"BHAKTARAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

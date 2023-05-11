@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94780272376002,13.25828425081722],[76.93129042293003,13.26214145953955],[76.93129651936898,13.24394653596983],[76.94127010232181,13.24225353221178],[76.94780272376002,13.25828425081722]]]},"properties":{"region_id":"village_611845","name":"KATTIGENAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

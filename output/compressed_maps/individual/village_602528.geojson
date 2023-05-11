@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.22728680747458,15.18909280511371],[75.22801095904481,15.20197695964162],[75.20947756259103,15.20127192261877],[75.21525306954494,15.18383747981282],[75.22728680747458,15.18909280511371]]]},"properties":{"region_id":"village_602528","name":"HANCHINAL","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

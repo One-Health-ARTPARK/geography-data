@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78267240089575,12.2349242945728],[75.77195211868714,12.25209737897439],[75.76116448777508,12.23991075890497],[75.7699023532726,12.21712613420293],[75.78267240089575,12.2349242945728]]]},"properties":{"region_id":"village_618001","name":"ARAMERI","parent":"subdistrict_5568","parent_name":"VIRAJPET"}}
+]}

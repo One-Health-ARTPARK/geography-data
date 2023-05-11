@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88992817706416,12.44137443892976],[75.87687170559661,12.47248077265518],[75.852421863725,12.46266785597355],[75.84918741150253,12.45000285952412],[75.88992817706416,12.44137443892976]]]},"properties":{"region_id":"village_617962","name":"ANDAGOVE","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

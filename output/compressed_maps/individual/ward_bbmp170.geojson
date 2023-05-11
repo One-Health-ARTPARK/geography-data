@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59537500019208,12.92697400034401],[77.59328700027488,12.9168129998629],[77.60016899976581,12.92085899971884],[77.59537500019208,12.92697400034401]]]},"properties":{"region_id":"ward_bbmp170","name":"WARD NO.170 (JAYANAGAR EAST)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

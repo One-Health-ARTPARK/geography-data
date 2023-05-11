@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3412909400551,13.41025433264655],[75.31118365260434,13.40929549923348],[75.32116529965539,13.38982736742904],[75.3412909400551,13.41025433264655]]]},"properties":{"region_id":"village_609018","name":"DAYAMBALLI","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

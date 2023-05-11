@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.27878452003954,14.68349009513787],[75.26449318068259,14.68015220247109],[75.26675855281219,14.65050181588039],[75.29086165188403,14.65804951576602],[75.27878452003954,14.68349009513787]]]},"properties":{"region_id":"village_604175","name":"KELAVARKOPPA","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

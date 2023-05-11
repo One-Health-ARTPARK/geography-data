@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.76800001331162,13.68098105339711],[77.75778458776665,13.68662825485589],[77.75617146949938,13.67729577465527],[77.76800001331162,13.68098105339711]]]},"properties":{"region_id":"village_623744","name":"NALLOJANAHALLI","parent":"subdistrict_5597","parent_name":"GUDIBANDA"}}
+]}

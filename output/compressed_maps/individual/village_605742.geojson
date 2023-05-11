@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15332649283074,14.04348937697143],[76.1301418033219,14.04525651588281],[76.13303786424738,14.02793588269715],[76.15374597596251,14.030367632241],[76.15332649283074,14.04348937697143]]]},"properties":{"region_id":"village_605742","name":"AREHALLI","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

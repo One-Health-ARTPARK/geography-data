@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99879678921022,14.99481218197],[75.99942671356348,15.00460994309329],[75.97551770412613,15.0202702040551],[75.9728107780519,14.99636696888348],[75.99879678921022,14.99481218197]]]},"properties":{"region_id":"village_604631","name":"MUDENUR","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

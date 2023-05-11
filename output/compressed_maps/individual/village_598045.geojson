@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.77577848212519,15.85139123091395],[74.77033600454622,15.87065266983283],[74.75033343846815,15.86759729067486],[74.75244491499582,15.84350797933439],[74.77577848212519,15.85139123091395]]]},"properties":{"region_id":"village_598045","name":"LAKKUNDI","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

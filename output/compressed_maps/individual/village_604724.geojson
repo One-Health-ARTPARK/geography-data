@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.40765229898375,15.23442678970757],[76.38246607674667,15.24524013221546],[76.38553786727296,15.22132715807038],[76.40765229898375,15.23442678970757]]]},"properties":{"region_id":"village_604724","name":"RAJAPURA","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76862827216021,11.9918891125475],[76.7555908542844,11.99925505620598],[76.75426284537564,11.98411710140135],[76.76704115800868,11.98284786444157],[76.76862827216021,11.9918891125475]]]},"properties":{"region_id":"village_619679","name":"ARALIKATTE","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

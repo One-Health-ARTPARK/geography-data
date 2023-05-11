@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15822270937173,18.10438132230421],[77.11651534316856,18.07431769942817],[77.12247943269453,18.05920850571978],[77.15764830889829,18.04681163334604],[77.18303934929932,18.0868080031808],[77.15822270937173,18.10438132230421]]]},"properties":{"region_id":"village_599876","name":"BHATAMBRA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

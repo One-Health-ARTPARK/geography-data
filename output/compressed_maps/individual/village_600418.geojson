@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.50906757738723,16.2281324666364],[76.5026260481976,16.18975695739017],[76.5462072685159,16.19901863643292],[76.50906757738723,16.2281324666364]]]},"properties":{"region_id":"village_600418","name":"KALAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

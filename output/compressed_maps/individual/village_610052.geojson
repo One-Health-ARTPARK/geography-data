@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5158188176792,13.52611846510072],[76.49412110562972,13.53480434337554],[76.48737195428193,13.51809088337892],[76.51001701602092,13.50601710404508],[76.5158188176792,13.52611846510072]]]},"properties":{"region_id":"village_610052","name":"GOPALAPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

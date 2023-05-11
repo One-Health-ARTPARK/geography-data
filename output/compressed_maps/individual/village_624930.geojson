@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.35194567685238,13.04310955682455],[77.33069931847757,13.04878352534188],[77.33002031377659,13.03311105383498],[77.34859991603304,13.02568916424652],[77.35194567685238,13.04310955682455]]]},"properties":{"region_id":"village_624930","name":"HONNASANDRA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

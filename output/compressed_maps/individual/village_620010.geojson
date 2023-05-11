@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48265723407037,17.61695635721537],[76.45074609279114,17.62496999047661],[76.4399018223356,17.57252882188634],[76.4874418515136,17.58642826131496],[76.48265723407037,17.61695635721537]]]},"properties":{"region_id":"village_620010","name":"PADSAWALI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8856271505062,16.08518044922704],[76.86270793513012,16.08907570584341],[76.85178602770135,16.03402814794154],[76.91480018810964,16.04145171662224],[76.8856271505062,16.08518044922704]]]},"properties":{"region_id":"village_600963","name":"BAGALWAD","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84865475057437,13.06587419799952],[76.83069831191315,13.06576858274138],[76.83388578850541,13.05145233412542],[76.84942330216651,13.0511571939582],[76.84865475057437,13.06587419799952]]]},"properties":{"region_id":"village_612426","name":"THUYALAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

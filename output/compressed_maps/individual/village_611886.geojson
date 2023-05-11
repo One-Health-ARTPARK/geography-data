@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92573611769916,13.25073698807162],[76.91208885365597,13.24167798447424],[76.92326660885806,13.23485466110253],[76.92573611769916,13.25073698807162]]]},"properties":{"region_id":"village_611886","name":"KOPPA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

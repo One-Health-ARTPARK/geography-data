@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.17227319528808,13.85013566327988],[77.15561862753968,13.86618435297339],[77.15327734154248,13.83416030272604],[77.17061346008016,13.83228395510391],[77.17227319528808,13.85013566327988]]]},"properties":{"region_id":"village_610669","name":"REDDIHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

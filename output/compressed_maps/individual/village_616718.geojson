@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.04084129763373,12.59741093915012],[76.02095246288165,12.60689502791661],[76.01699512924762,12.59161386090194],[76.04084129763373,12.59741093915012]]]},"properties":{"region_id":"village_616718","name":"SHEEGODU","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

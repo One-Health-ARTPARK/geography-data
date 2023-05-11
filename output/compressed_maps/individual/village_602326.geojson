@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34084583488453,15.63285164518718],[75.332804836819,15.63261277635218],[75.32581705199091,15.60723111230729],[75.33649890260483,15.58726199741631],[75.34084583488453,15.63285164518718]]]},"properties":{"region_id":"village_602326","name":"GOBBARAGUMPI","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

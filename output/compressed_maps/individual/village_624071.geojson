@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87044522822312,13.55476536238616],[77.85844764132344,13.55748903174278],[77.8633749532302,13.540835483961],[77.87044522822312,13.55476536238616]]]},"properties":{"region_id":"village_624071","name":"AMMAGARAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

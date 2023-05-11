@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.27841262946183,18.04292457294653],[77.26156740599264,18.04185607033352],[77.2616668751506,18.02273181110984],[77.28158704580535,18.0218042974482],[77.27841262946183,18.04292457294653]]]},"properties":{"region_id":"village_599915","name":"KARDHYAL","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

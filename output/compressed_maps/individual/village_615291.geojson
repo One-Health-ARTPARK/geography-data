@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02226571282627,13.17283282893502],[76.01420887522004,13.17626503158474],[76.01026054280106,13.16584979625167],[76.02312151375672,13.16066146835167],[76.02226571282627,13.17283282893502]]]},"properties":{"region_id":"village_615291","name":"KOMARANAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

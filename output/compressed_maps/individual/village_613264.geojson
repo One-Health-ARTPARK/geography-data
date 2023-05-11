@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70589872523497,12.7977000085607],[77.69562154052134,12.8021047844682],[77.69145084660273,12.79272115061174],[77.70045709183889,12.79236750616653],[77.70589872523497,12.7977000085607]]]},"properties":{"region_id":"village_613264","name":"BANAHALLI","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

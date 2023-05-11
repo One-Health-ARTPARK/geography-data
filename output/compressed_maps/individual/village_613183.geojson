@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69876236414125,12.7770931789669],[77.69258533527811,12.78847236935849],[77.68675521264866,12.78689415124385],[77.68948123991106,12.77848416725952],[77.69876236414125,12.7770931789669]]]},"properties":{"region_id":"village_613183","name":"RAMAKRISHNAPURA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

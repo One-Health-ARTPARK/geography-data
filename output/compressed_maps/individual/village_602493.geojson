@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0987099619581,15.20924496276658],[75.07599509348263,15.20944583850316],[75.08113542370342,15.18840898658001],[75.0987099619581,15.20924496276658]]]},"properties":{"region_id":"village_602493","name":"SURASETTIKOPPA","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.83560951912007,13.04438615388433],[74.8250788692858,13.04002935866674],[74.8364405801944,13.03619465375252],[74.83560951912007,13.04438615388433]]]},"properties":{"region_id":"village_617446","name":"ATTUR","parent":"subdistrict_7198","parent_name":"MULKI"}}
+]}

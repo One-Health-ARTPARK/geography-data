@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8949368938083,13.10320766245878],[74.89019340587555,13.06054896431249],[74.9332408621396,13.06229927530379],[74.92458282002588,13.07812601327296],[74.8949368938083,13.10320766245878]]]},"properties":{"region_id":"village_617452","name":"KALLAMUNDKOORU","parent":"subdistrict_7102","parent_name":"MOODUBIDIRE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.62016500045833,12.94893600043228],[77.61412399972626,12.95505699973931],[77.60860000036512,12.94937599956599],[77.62016500045833,12.94893600043228]]]},"properties":{"region_id":"ward_bbmp116","name":"WARD NO.116 (NILASANDRA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

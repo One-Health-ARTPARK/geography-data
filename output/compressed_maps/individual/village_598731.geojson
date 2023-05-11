@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59224490897128,15.86374780648907],[75.56838848825869,15.86415487372048],[75.56380309386981,15.83729178788462],[75.58523763425298,15.83285136116116],[75.59224490897128,15.86374780648907]]]},"properties":{"region_id":"village_598731","name":"SULLA","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

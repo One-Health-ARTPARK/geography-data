@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21465776312967,15.87371737698721],[75.20564957439674,15.89051780937348],[75.17959175741295,15.89248261323971],[75.18756462306337,15.86505202836757],[75.21465776312967,15.87371737698721]]]},"properties":{"region_id":"village_598369","name":"BOCHABAL","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61113567551732,15.79026941698236],[74.60433172271212,15.79901721920179],[74.5966484791251,15.79589716570586],[74.59689809719713,15.78544493040952],[74.61113567551732,15.79026941698236]]]},"properties":{"region_id":"village_597777","name":"KOLIKOPP","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

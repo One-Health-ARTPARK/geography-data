@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38754090921051,13.50966659464925],[75.355424372168,13.5175829623895],[75.36707670245208,13.49427862239382],[75.38754090921051,13.50966659464925]]]},"properties":{"region_id":"village_609006","name":"SOMLAPURA","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

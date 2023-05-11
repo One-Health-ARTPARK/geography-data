@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.5785209683218,14.65329225230709],[74.54950471838039,14.64886921480214],[74.55002663844576,14.61564060716518],[74.56807239703804,14.61974998619768],[74.5785209683218,14.65329225230709]]]},"properties":{"region_id":"village_603400","name":"MANIGADDE","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

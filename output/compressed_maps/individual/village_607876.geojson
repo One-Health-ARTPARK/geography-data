@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.08487090523163,13.91611151290095],[75.0667202107076,13.91600831271414],[75.0603978303769,13.90675029210452],[75.07034751490785,13.89873039464955],[75.07500901843716,13.91148302267829],[75.08487090523163,13.91611151290095]]]},"properties":{"region_id":"village_607876","name":"GANGANAKOPPA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

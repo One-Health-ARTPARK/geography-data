@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01181109513465,12.72970834942611],[76.99613767588761,12.71490206822046],[77.01357581141384,12.70737843942945],[77.01181109513465,12.72970834942611]]]},"properties":{"region_id":"village_614550","name":"DODDANKANAHALLI","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

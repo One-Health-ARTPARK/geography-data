@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.37326143644188,13.95507193900334],[76.34057817513312,13.94346630807567],[76.34343679817513,13.93297853551118],[76.37344997586396,13.93711417150879],[76.37326143644188,13.95507193900334]]]},"properties":{"region_id":"village_605916","name":"DODDAKITTADAHALLI","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

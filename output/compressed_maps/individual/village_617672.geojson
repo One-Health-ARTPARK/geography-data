@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.32988212287297,12.90907785543445],[75.30349333586479,12.88232010224812],[75.33188608489905,12.86875361691852],[75.32988212287297,12.90907785543445]]]},"properties":{"region_id":"village_617672","name":"BANDARU","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

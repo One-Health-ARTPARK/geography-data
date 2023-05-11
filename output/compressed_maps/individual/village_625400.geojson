@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.67993190827461,13.20893326864995],[77.68101968940496,13.21309139510241],[77.6714683821753,13.21769914400444],[77.67121200539289,13.21013395106464],[77.67993190827461,13.20893326864995]]]},"properties":{"region_id":"village_625400","name":"UDAYAGIRI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

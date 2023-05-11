@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.11770145190764,13.78643052323073],[78.1095296935716,13.78549693251203],[78.11304748853217,13.77951090832008],[78.12121412752482,13.7804769951173],[78.11770145190764,13.78643052323073]]]},"properties":{"region_id":"village_623981","name":"BUTTAIAHGARAPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

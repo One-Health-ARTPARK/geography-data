@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43469777504302,16.17259873881058],[75.42527440959599,16.227787554285],[75.41031901503459,16.2227861936785],[75.41085031248232,16.1717812522871],[75.43469777504302,16.17259873881058]]]},"properties":{"region_id":"village_598605","name":"BHANTNUR","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

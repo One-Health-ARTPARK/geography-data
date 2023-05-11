@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18059833236876,15.92225072011521],[75.15834819422594,15.92323131622791],[75.16291498526205,15.89117728181063],[75.17561304239786,15.9016774658572],[75.18059833236876,15.92225072011521]]]},"properties":{"region_id":"village_598260","name":"ARTAGALL","parent":"subdistrict_5441","parent_name":"SAVADATTI"}}
+]}

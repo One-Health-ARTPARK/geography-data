@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45093194849102,13.02034075234554],[76.44086911752828,13.02321455741254],[76.4383609185209,13.01103746824476],[76.44972755372164,13.01064295000213],[76.45093194849102,13.02034075234554]]]},"properties":{"region_id":"village_617250","name":"MAVINAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

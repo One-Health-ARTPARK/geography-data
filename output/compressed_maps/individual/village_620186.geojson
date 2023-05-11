@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.13209353711251,17.66338463346142],[77.13265624796604,17.68217223790165],[77.10630144849071,17.67334973031437],[77.11517299252779,17.65658398524986],[77.13209353711251,17.66338463346142]]]},"properties":{"region_id":"village_620186","name":"NILKOD","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

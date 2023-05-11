@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38290954336881,12.06900902646125],[76.37005323071047,12.06822503759395],[76.37461636228277,12.04969009180496],[76.3887297002214,12.05502870305242],[76.38290954336881,12.06900902646125]]]},"properties":{"region_id":"village_618899","name":"HEGGADAHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

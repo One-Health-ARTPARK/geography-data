@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.12061694291992,14.55303559730834],[75.10360349031912,14.55116564728008],[75.10637345529133,14.53688908858798],[75.12270338646312,14.54221374636059],[75.12061694291992,14.55303559730834]]]},"properties":{"region_id":"village_607420","name":"KOTEKOPPA","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

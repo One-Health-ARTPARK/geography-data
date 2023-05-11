@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43283537468527,16.70170877199664],[76.40418167994879,16.71378136315395],[76.39749196657397,16.68992120083551],[76.42676218897742,16.68867367957734],[76.43283537468527,16.70170877199664]]]},"properties":{"region_id":"village_599421","name":"ASANTAPUR","parent":"subdistrict_7071","parent_name":"DEVARA HIPPARAGI"}}
+]}

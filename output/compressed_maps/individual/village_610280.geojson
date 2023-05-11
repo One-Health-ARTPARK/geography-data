@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.87793149908323,13.95075081599677],[76.87653818936766,13.97133272406993],[76.86216776151493,13.95826683335239],[76.87793149908323,13.95075081599677]]]},"properties":{"region_id":"village_610280","name":"SASAMARU","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

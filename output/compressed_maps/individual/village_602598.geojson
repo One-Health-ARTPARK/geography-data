@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.23069365935952,14.95036395770016],[74.22549181420428,14.92645754453061],[74.27191133385037,14.89847571311646],[74.27989830575505,14.93549821935075],[74.23069365935952,14.95036395770016]]]},"properties":{"region_id":"village_602598","name":"BHAIRE","parent":"subdistrict_5478","parent_name":"KARWAR"}}
+]}

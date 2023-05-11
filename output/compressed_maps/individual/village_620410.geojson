@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30007094103603,17.4852204368819],[77.27093896052406,17.49141832705601],[77.26227416515408,17.47445261199557],[77.29393242068942,17.46935087368149],[77.30007094103603,17.4852204368819]]]},"properties":{"region_id":"village_620410","name":"DHOTIKOL","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

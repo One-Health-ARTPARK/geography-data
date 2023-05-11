@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.5338302483016,13.9113874242717],[76.51420613859236,13.91048050088379],[76.5213798357469,13.88862985677093],[76.53254480195095,13.88488764482353],[76.5338302483016,13.9113874242717]]]},"properties":{"region_id":"village_606129","name":"KURUBARAHALLI","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

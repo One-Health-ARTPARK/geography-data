@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.91070199479215,17.72528709315094],[76.88479786737328,17.73549873832729],[76.89031543850335,17.71282215773923],[76.91070199479215,17.72528709315094]]]},"properties":{"region_id":"village_599816","name":"HATYAL","parent":"subdistrict_5454","parent_name":"BASAVAKALYAN"}}
+]}

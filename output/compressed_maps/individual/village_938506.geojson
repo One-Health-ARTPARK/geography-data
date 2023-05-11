@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.49542624613343,13.02263572262919],[77.47959297547528,13.02934186112748],[77.4776565882444,13.01392170064248],[77.49988122845853,13.00939787726017],[77.49542624613343,13.02263572262919]]]},"properties":{"region_id":"village_938506","name":"KARIVABANAHALLI","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

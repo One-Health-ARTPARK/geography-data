@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.70681286253392,12.85521908821525],[77.70062501145071,12.85612352508134],[77.69285580050648,12.84270799502507],[77.70706036765999,12.84422116900429],[77.70681286253392,12.85521908821525]]]},"properties":{"region_id":"village_613191","name":"GULIMANGALA","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

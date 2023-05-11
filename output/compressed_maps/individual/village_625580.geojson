@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87916207573181,13.14921162790222],[77.86781762837994,13.15018262951745],[77.86656103032676,13.14289280972975],[77.88172666437677,13.14264291042305],[77.87916207573181,13.14921162790222]]]},"properties":{"region_id":"village_625580","name":"DODDENAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

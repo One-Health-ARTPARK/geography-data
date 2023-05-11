@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6963787284596,13.28220899011775],[77.6970728698244,13.27338120925683],[77.70145948751801,13.27134422569492],[77.7013243901146,13.28221623106544],[77.6963787284596,13.28220899011775]]]},"properties":{"region_id":"village_625370","name":"DEVASTHANADA AMANIKERE","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

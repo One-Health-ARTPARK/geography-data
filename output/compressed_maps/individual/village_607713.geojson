@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24482520086434,14.41469692311003],[75.24329460903748,14.42852633751928],[75.23096512688464,14.42008896009702],[75.23462369061417,14.40578028343977],[75.24482520086434,14.41469692311003]]]},"properties":{"region_id":"village_607713","name":"SHIVAPURA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

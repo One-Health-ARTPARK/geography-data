@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84102987295543,17.61860327270763],[76.81715729139314,17.59540055367777],[76.82510754444228,17.5690715221886],[76.84352228108038,17.5926260582889],[76.84102987295543,17.61860327270763]]]},"properties":{"region_id":"village_619991","name":"MUDADGA","parent":"subdistrict_7090","parent_name":"KAMALAPUR"}}
+]}

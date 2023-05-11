@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38546811085996,15.00839119107649],[75.36474380158158,15.00948332961608],[75.36796685308347,14.98972404306771],[75.38546811085996,15.00839119107649]]]},"properties":{"region_id":"village_603979","name":"ALLIPURA","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

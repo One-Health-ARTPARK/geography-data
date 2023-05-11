@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79036082396695,13.26335195524361],[75.77482400949269,13.27359846919295],[75.76539693912213,13.2517099263506],[75.78656918424622,13.24959109268382],[75.79036082396695,13.26335195524361]]]},"properties":{"region_id":"village_609874","name":"MALALUR","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

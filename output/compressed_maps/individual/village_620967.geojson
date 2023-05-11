@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32561364679171,16.32759257582646],[76.30322609149952,16.32126969145006],[76.2997324958984,16.28328281278442],[76.33486393015632,16.31013337269022],[76.32561364679171,16.32759257582646]]]},"properties":{"region_id":"village_620967","name":"YENNIWADGERA","parent":"subdistrict_7096","parent_name":"HUNASAGI"}}
+]}

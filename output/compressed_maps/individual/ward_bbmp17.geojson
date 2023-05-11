@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54294499977975,13.03922600023843],[77.54901500026557,13.02902700001274],[77.55735099956843,13.03470699998134],[77.55505099960607,13.04411200035469],[77.54294499977975,13.03922600023843]]]},"properties":{"region_id":"ward_bbmp17","name":"WARD NO.17 (J P PARK)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

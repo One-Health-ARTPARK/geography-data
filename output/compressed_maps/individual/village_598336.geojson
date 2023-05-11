@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.35433982293924,15.97154529597496],[75.31621457561315,15.98105444874323],[75.32990493405335,15.95013816184613],[75.35433982293924,15.97154529597496]]]},"properties":{"region_id":"village_598336","name":"HALAGATTI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.6599107218817,13.72847180269589],[74.66698468974583,13.73123852733193],[74.66627083998253,13.7488635148099],[74.65725026094938,13.75273976661011],[74.65551949989171,13.73609716111041],[74.6599107218817,13.72847180269589]]]},"properties":{"region_id":"village_608671","name":"BADAKERE","parent":"subdistrict_7066","parent_name":"BAINDURU"}}
+]}

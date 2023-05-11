@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.5894300975614,14.11595549623512],[75.58077039230768,14.13382727425047],[75.57387177755912,14.12642075778496],[75.5788389555758,14.11233930964575],[75.5894300975614,14.11595549623512]]]},"properties":{"region_id":"village_606749","name":"KENCHIGANAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

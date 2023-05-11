@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.2744180044285,12.74665693057603],[75.25711307045844,12.75516796605847],[75.24427855657865,12.73139148198126],[75.27302152266466,12.72708739596342],[75.2744180044285,12.74665693057603]]]},"properties":{"region_id":"village_617738","name":"MUNDOOR","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

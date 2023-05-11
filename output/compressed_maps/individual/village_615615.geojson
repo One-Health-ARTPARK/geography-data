@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.32565100700977,13.48698864343409],[76.31574720566776,13.49324153296453],[76.29111536604286,13.47952471745416],[76.32005414194266,13.47592581263267],[76.32565100700977,13.48698864343409]]]},"properties":{"region_id":"village_615615","name":"SATHANAGERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

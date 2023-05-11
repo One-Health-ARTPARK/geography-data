@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9867589876816,13.47654131998187],[76.9729023067191,13.47144556815079],[76.99424757975797,13.46263162714645],[76.99653398147062,13.47109421168113],[76.9867589876816,13.47654131998187]]]},"properties":{"region_id":"village_611263","name":"HUCHABASAVANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

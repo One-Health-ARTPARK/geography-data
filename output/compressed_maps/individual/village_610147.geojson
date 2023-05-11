@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.66608388662618,13.56271736779121],[76.64982268269021,13.55796160699705],[76.66135066682756,13.52704651107383],[76.6823715750547,13.5372586780877],[76.66608388662618,13.56271736779121]]]},"properties":{"region_id":"village_610147","name":"THIMMANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

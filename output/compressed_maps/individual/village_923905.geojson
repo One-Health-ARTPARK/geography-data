@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.60057171426322,12.36646092758465],[75.59104059626158,12.37411352431587],[75.57893321329277,12.35930114940035],[75.5973636678197,12.35972283987368],[75.60057171426322,12.36646092758465]]]},"properties":{"region_id":"village_923905","name":"CHERANDETI","parent":"subdistrict_5566","parent_name":"MADIKERI"}}
+]}

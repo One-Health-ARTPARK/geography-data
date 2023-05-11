@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28511807273499,12.55141921867396],[77.27158191073123,12.55165058374739],[77.27609718768751,12.53035925198665],[77.28847061162588,12.53199666202105],[77.28511807273499,12.55141921867396]]]},"properties":{"region_id":"village_626326","name":"HANIYUR","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

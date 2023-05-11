@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.9312173183042,16.57068531157906],[74.94105320542243,16.55175032317189],[74.96335414966288,16.55848144546519],[74.9551576964878,16.58020532106127],[74.9312173183042,16.57068531157906]]]},"properties":{"region_id":"village_597388","name":"YELPRATTI","parent":"subdistrict_5435","parent_name":"RAYBAG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.01727133846443,12.26968653162868],[77.01753942109028,12.26709901337464],[77.01885835891527,12.26614516285572],[77.01977558211604,12.27006535087033],[77.01727133846443,12.26968653162868]]]},"properties":{"region_id":"village_614829","name":"HANAVADI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

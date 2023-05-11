@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.38635063041218,12.83451311326187],[77.37795627825449,12.83461561691762],[77.37594679651427,12.80848471674204],[77.38619027130255,12.81654978170781],[77.38635063041218,12.83451311326187]]]},"properties":{"region_id":"village_626111","name":"AVARAGERE","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

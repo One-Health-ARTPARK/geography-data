@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57828930567729,17.89673355807896],[77.55571384561195,17.89706467273152],[77.54859434236585,17.88391865437755],[77.57322036699402,17.86934964610782],[77.57828930567729,17.89673355807896]]]},"properties":{"region_id":"village_600180","name":"MALKAPUR","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.53298390636813,13.32788108320695],[77.52228494457684,13.33115904674664],[77.52124228517519,13.3188682720196],[77.53298390636813,13.32788108320695]]]},"properties":{"region_id":"village_625105","name":"HASANGHATTA","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

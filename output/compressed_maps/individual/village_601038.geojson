@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.80072713138006,15.96583001219785],[76.77438239290416,15.96268321877176],[76.79294663653907,15.94623162469393],[76.80072713138006,15.96583001219785]]]},"properties":{"region_id":"village_601038","name":"BELWAT","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

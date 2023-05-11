@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05812907850151,12.94886421593645],[77.04045979378742,12.95520581007155],[77.05369512143989,12.92354800230279],[77.05812907850151,12.94886421593645]]]},"properties":{"region_id":"village_612613","name":"HITHALAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

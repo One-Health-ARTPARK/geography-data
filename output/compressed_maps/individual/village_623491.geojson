@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.71291856668324,13.53769032565881],[77.71999254281859,13.56521293566756],[77.69509506361679,13.5776426340456],[77.68787020437104,13.54824889083644],[77.71291856668324,13.53769032565881]]]},"properties":{"region_id":"village_623491","name":"ANEMADAGU","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

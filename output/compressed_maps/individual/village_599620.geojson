@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12277609516049,16.32740822893485],[76.10409507342452,16.34258433651069],[76.09045276151343,16.31883027177285],[76.10220529103833,16.29256214816421],[76.12277609516049,16.32740822893485]]]},"properties":{"region_id":"village_599620","name":"HADALAGERI","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

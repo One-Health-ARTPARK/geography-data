@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23389902193367,17.00047872181293],[76.21328468737835,16.99602555525281],[76.22627875693537,16.98427465926701],[76.23389902193367,17.00047872181293]]]},"properties":{"region_id":"village_599342","name":"KALAHALLI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

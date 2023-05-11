@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2395116336528,18.29787069360363],[77.20946293275239,18.28842397961792],[77.21541973974739,18.27329195263448],[77.2395116336528,18.29787069360363]]]},"properties":{"region_id":"village_599995","name":"HAKYAL","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

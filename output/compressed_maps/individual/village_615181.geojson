@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8384834170639,13.20353502659673],[75.82330079486526,13.20917235120924],[75.82085846545829,13.19221826267318],[75.8384834170639,13.20353502659673]]]},"properties":{"region_id":"village_615181","name":"GOVINAHALLI","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

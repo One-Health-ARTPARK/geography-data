@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.10591259534883,14.27568272478033],[75.09191562630159,14.25475441111415],[75.11114160538176,14.25611076365056],[75.10591259534883,14.27568272478033]]]},"properties":{"region_id":"village_607639","name":"DUGURU","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

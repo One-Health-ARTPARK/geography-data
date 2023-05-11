@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.62760335243328,12.02470362729631],[76.60180703203017,12.0208818615209],[76.6062476519981,11.99539836576849],[76.62743300934,11.98593901390648],[76.62760335243328,12.02470362729631]]]},"properties":{"region_id":"village_619267","name":"KASUVINAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

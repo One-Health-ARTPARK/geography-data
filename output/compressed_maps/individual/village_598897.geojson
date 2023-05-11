@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9019547736796,15.92275172795465],[75.90369979928865,15.94718544790575],[75.88800827848893,15.95708403950652],[75.87907070997633,15.93127769789654],[75.9019547736796,15.92275172795465]]]},"properties":{"region_id":"village_598897","name":"CHIKANAL","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

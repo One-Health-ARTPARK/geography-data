@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.07800611505122,13.3010220515614],[78.06019013427435,13.30101355957595],[78.07958786671391,13.27514023024173],[78.08703294823907,13.29387473253038],[78.07800611505122,13.3010220515614]]]},"properties":{"region_id":"village_621893","name":"MADANAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

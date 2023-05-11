@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11767527436429,13.15931115429649],[76.10730144262301,13.15637385928317],[76.10527444770935,13.13989193159409],[76.12427261907214,13.14664882145174],[76.11767527436429,13.15931115429649]]]},"properties":{"region_id":"village_615915","name":"YALAGUNDA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

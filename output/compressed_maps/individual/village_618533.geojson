@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.22089701089604,12.54862562446388],[76.21092437048749,12.54901706584599],[76.20559502542932,12.53534218723678],[76.22117142561041,12.53601675749493],[76.22089701089604,12.54862562446388]]]},"properties":{"region_id":"village_618533","name":"MAVANUR","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

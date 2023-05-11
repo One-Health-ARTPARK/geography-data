@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4820746565455,11.98481507029208],[76.44834436864367,11.9598738923711],[76.47183064771754,11.93592012048186],[76.4820746565455,11.98481507029208]]]},"properties":{"region_id":"village_618998","name":"MULLUR","parent":"subdistrict_7098","parent_name":"SARAGURU"}}
+]}

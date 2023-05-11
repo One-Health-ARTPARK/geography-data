@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.89237852539567,16.61661996615955],[76.86934480724491,16.57414535332259],[76.90084928379044,16.57128624090029],[76.89237852539567,16.61661996615955]]]},"properties":{"region_id":"village_621135","name":"HATTIGUDUR","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

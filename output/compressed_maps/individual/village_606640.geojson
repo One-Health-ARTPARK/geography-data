@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1095627181546,14.39262224670983],[76.15250887953897,14.39882390028352],[76.13596915883832,14.41014443712599],[76.1095627181546,14.39262224670983]]]},"properties":{"region_id":"village_606640","name":"KATIHALLI","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

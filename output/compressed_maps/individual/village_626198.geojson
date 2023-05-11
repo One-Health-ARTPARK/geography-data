@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09226775430608,12.71695114866355],[77.07869773544003,12.72201122210508],[77.07310967915768,12.69220208522534],[77.08808325324749,12.68676152799064],[77.09226775430608,12.71695114866355]]]},"properties":{"region_id":"village_626198","name":"MANDYA BOMMANAYAKANAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

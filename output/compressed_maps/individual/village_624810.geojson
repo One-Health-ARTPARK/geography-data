@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33867593902323,13.22840721034277],[77.32358491532358,13.22628965370419],[77.32512195262946,13.20915776822393],[77.34659061120313,13.20971005123546],[77.33867593902323,13.22840721034277]]]},"properties":{"region_id":"village_624810","name":"DODDABELE","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

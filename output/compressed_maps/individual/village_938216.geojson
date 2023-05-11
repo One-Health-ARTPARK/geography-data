@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69137658200117,13.01732402705903],[77.67247863235963,13.02134459923242],[77.667901300987,13.01226951911452],[77.6833169101614,13.00819425902601],[77.69137658200117,13.01732402705903]]]},"properties":{"region_id":"village_938216","name":"KOWDENAHALLI","parent":"subdistrict_5544","parent_name":"BENGALURU EAST"}}
+]}

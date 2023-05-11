@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10319529434078,15.40484650272843],[76.10153954108058,15.36969838994258],[76.1274046572828,15.37916736586369],[76.10319529434078,15.40484650272843]]]},"properties":{"region_id":"village_601752","name":"YETTINHATTI","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

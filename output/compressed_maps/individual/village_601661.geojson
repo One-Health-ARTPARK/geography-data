@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.54753080711568,15.69907429555903],[76.52734390680243,15.66878139400445],[76.53910605574005,15.66454612995346],[76.54753080711568,15.69907429555903]]]},"properties":{"region_id":"village_601661","name":"KYARIHAL","parent":"subdistrict_7091","parent_name":"KANAKAGIRI"}}
+]}

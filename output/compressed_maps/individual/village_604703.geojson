@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.34549215178723,15.12580848550384],[76.32512094106451,15.12669258464283],[76.33505491107063,15.1107739930192],[76.34549215178723,15.12580848550384]]]},"properties":{"region_id":"village_604703","name":"NANDIBANDA","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

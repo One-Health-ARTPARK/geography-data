@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8635446815549,16.22541815630273],[76.8416190335642,16.22601763621732],[76.83927546190489,16.21144952822063],[76.85968544236916,16.20775330811793],[76.8635446815549,16.22541815630273]]]},"properties":{"region_id":"village_600585","name":"CHADKALGUDDA","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

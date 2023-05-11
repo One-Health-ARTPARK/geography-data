@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2030918254566,13.24294280353007],[76.19365678829277,13.24716513244029],[76.18230001143863,13.24416012490471],[76.18115390713304,13.2362305498432],[76.2030918254566,13.24294280353007]]]},"properties":{"region_id":"village_615516","name":"BYALEKERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

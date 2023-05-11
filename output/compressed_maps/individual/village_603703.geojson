@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.81100763643947,14.33686230118327],[74.79781636818885,14.32154334445594],[74.81525704740814,14.3082242616607],[74.82789937985252,14.3296066611561],[74.81100763643947,14.33686230118327]]]},"properties":{"region_id":"village_603703","name":"GUNJAGOD","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

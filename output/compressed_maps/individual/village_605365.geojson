@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67788936159538,14.22731553751439],[76.6440062157601,14.18961649495811],[76.67429570260713,14.17311849330454],[76.69798380522263,14.21030059549677],[76.67788936159538,14.22731553751439]]]},"properties":{"region_id":"village_605365","name":"SANIKERE","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

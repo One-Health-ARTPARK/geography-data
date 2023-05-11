@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.47483286681648,12.75497755472947],[77.47626637118839,12.7619327203362],[77.461471184576,12.75715211821518],[77.46665391952486,12.75064562914291],[77.47483286681648,12.75497755472947]]]},"properties":{"region_id":"village_626145","name":"K.G.GOLLARAPALYA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

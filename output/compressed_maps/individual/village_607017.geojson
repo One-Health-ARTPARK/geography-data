@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91271259457669,14.08135308303865],[75.89251025659708,14.08347284347319],[75.89399571949245,14.07086277682833],[75.91271259457669,14.08135308303865]]]},"properties":{"region_id":"village_607017","name":"ANAPURA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

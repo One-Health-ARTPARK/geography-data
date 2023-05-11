@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89848125882332,15.81019360826551],[74.85972135102098,15.79978006029255],[74.85986031275256,15.77372750387501],[74.90059914980604,15.78810908871588],[74.89848125882332,15.81019360826551]]]},"properties":{"region_id":"village_598125","name":"ANIGOL","parent":"subdistrict_5440","parent_name":"BAILAHONGALA"}}
+]}

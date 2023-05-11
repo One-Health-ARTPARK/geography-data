@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.19495861101808,15.16688700819557],[75.18883170404241,15.16858113446015],[75.17360565830367,15.1568648069105],[75.19231508835193,15.15232867827917],[75.19495861101808,15.16688700819557]]]},"properties":{"region_id":"village_602535","name":"VITHALAPUR","parent":"subdistrict_5477","parent_name":"KUNDGOL"}}
+]}

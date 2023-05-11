@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.96382121626787,13.31616809699912],[77.95160112955475,13.32522560735096],[77.94235999836704,13.30958317027384],[77.96382121626787,13.31616809699912]]]},"properties":{"region_id":"village_624603","name":"VADDIHALLI","parent":"subdistrict_5600","parent_name":"CHINTAMANI"}}
+]}

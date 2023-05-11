@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55866608474312,14.68081349113576],[76.51034256171,14.67167677988603],[76.50342903576559,14.63674685696218],[76.55032269139399,14.64004712366342],[76.55866608474312,14.68081349113576]]]},"properties":{"region_id":"village_605134","name":"JUMMOBANAHALLI","parent":"subdistrict_5502","parent_name":"KUDLIGI"}}
+]}

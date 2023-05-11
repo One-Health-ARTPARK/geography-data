@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.05684406493178,14.34446355060454],[75.03532849413513,14.33129456283874],[75.0574210408484,14.32014600153333],[75.05684406493178,14.34446355060454]]]},"properties":{"region_id":"village_607594","name":"KASARAGUPPE","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

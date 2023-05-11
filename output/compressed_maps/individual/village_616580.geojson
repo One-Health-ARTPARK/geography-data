@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07222397746568,12.77935158473213],[76.07095696735163,12.79253929928133],[76.06365158777994,12.79005315889332],[76.06332104955926,12.78219364910572],[76.07222397746568,12.77935158473213]]]},"properties":{"region_id":"village_616580","name":"KASHIPURA","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

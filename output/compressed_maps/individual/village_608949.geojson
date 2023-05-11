@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24616721531508,13.41776036476355],[75.2321145977856,13.42313297804921],[75.23033078494942,13.40547370851896],[75.24616721531508,13.41776036476355]]]},"properties":{"region_id":"village_608949","name":"ULUVALLI","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

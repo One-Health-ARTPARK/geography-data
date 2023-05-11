@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.79521727314673,14.44555386546109],[75.76826645112902,14.44776524401146],[75.77258383819189,14.43208545513004],[75.79521727314673,14.44555386546109]]]},"properties":{"region_id":"village_606259","name":"BYALADAHALLI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

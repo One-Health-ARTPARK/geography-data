@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06504907201786,15.31375407401748],[76.03415959688056,15.32291414978176],[76.02206604580235,15.3035144230642],[76.06012219825303,15.3048548889175],[76.06504907201786,15.31375407401748]]]},"properties":{"region_id":"village_601711","name":"HANDRAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08856266514408,12.71767755644737],[76.07774917176299,12.72039563592432],[76.07150916110207,12.69695910692432],[76.08452007149795,12.69574920076863],[76.08856266514408,12.71767755644737]]]},"properties":{"region_id":"village_616636","name":"BARAGUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

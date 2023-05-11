@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.75608489704065,13.48555245266246],[77.74353944594257,13.4778223949069],[77.74963676961877,13.47113068734939],[77.75608489704065,13.48555245266246]]]},"properties":{"region_id":"village_623558","name":"MARASANAHALLI","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

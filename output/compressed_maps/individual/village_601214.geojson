@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7296784089239,15.68018077285376],[76.73414214361055,15.71555554697865],[76.70130149801713,15.71648721649069],[76.6979548540777,15.67948832530938],[76.7296784089239,15.68018077285376]]]},"properties":{"region_id":"village_601214","name":"GOREBAL","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

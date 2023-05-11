@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.55767082435679,13.26623684907717],[76.54276327604684,13.26964822892245],[76.54192334179697,13.26422152108345],[76.55550618595947,13.26133005550329],[76.55767082435679,13.26623684907717]]]},"properties":{"region_id":"village_612051","name":"KATTEHALLI","parent":"subdistrict_5539","parent_name":"TIPTUR"}}
+]}

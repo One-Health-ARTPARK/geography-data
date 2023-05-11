@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05659663950469,15.6908230349728],[77.0473625409922,15.70406906671862],[77.01398914027914,15.69586536769362],[77.01474895186023,15.68793334167908],[77.05659663950469,15.6908230349728]]]},"properties":{"region_id":"village_604827","name":"MITTE SUGUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

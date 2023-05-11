@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67223568217896,12.6811265695164],[76.66478859076186,12.67371444285898],[76.67451208934405,12.67069343405588],[76.67223568217896,12.6811265695164]]]},"properties":{"region_id":"village_614056","name":"DODDIGHATTA","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

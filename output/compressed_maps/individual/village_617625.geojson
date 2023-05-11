@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24607989173417,13.12877530722716],[75.22569562666042,13.07630590711554],[75.22804159173778,13.05105884376385],[75.25333904529,13.05079011237211],[75.24607989173417,13.12877530722716]]]},"properties":{"region_id":"village_617625","name":"SHIRLALU","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

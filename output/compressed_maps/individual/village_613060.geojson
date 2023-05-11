@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.64186550950559,12.84360998251112],[77.62919936556766,12.85104961520432],[77.62130829234061,12.83476033053808],[77.64186550950559,12.84360998251112]]]},"properties":{"region_id":"village_613060","name":"BETTADASANAPURA","parent":"subdistrict_5543","parent_name":"BENGALURU SOUTH"}}
+]}

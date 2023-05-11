@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9240861625789,12.51324524342644],[75.91896421404488,12.51896135977231],[75.91266938854433,12.51470293434653],[75.92165524257055,12.50602035001496],[75.9240861625789,12.51324524342644]]]},"properties":{"region_id":"village_939029","name":"KALIDEVARA HOSURU","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.19469237528094,17.80995772884935],[77.16414161675077,17.80302282958326],[77.17715606913632,17.77515093394254],[77.21219381028193,17.76946766307851],[77.19469237528094,17.80995772884935]]]},"properties":{"region_id":"village_600295","name":"NANDAGAON","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

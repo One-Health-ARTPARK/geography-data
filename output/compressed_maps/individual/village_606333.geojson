@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.85574213347924,14.75494081093034],[75.84663044175022,14.75183715262741],[75.84453925982962,14.72192621388279],[75.86742505400737,14.7216936386535],[75.85574213347924,14.75494081093034]]]},"properties":{"region_id":"village_606333","name":"ITTIGUDI","parent":"subdistrict_5510","parent_name":"HARAPANAHALLI"}}
+]}

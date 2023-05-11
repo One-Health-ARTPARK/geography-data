@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67087065128177,16.50605859050206],[76.67235587865815,16.52268458838187],[76.6388264164975,16.51873692997409],[76.64623391304696,16.49362474113302],[76.67087065128177,16.50605859050206]]]},"properties":{"region_id":"village_620997","name":"BONAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

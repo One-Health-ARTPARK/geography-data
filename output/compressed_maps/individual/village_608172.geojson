@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.47300914503232,13.78353729096733],[75.44950377967317,13.752226963115],[75.46501572975127,13.74413383861595],[75.48809782732765,13.75915922539817],[75.47300914503232,13.78353729096733]]]},"properties":{"region_id":"village_608172","name":"KANGALAKOPPA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

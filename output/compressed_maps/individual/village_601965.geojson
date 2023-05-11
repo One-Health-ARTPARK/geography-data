@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86063186603221,15.68255167070605],[75.81976703276294,15.68267024770626],[75.83437016284947,15.61880074771358],[75.87021096383242,15.61243002445164],[75.88455068517464,15.67193473948248],[75.86063186603221,15.68255167070605]]]},"properties":{"region_id":"village_601965","name":"NIDAGUNDI","parent":"subdistrict_7082","parent_name":"GAJENDRAGAD"}}
+]}

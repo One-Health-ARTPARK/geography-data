@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.0065091903673,14.71917581265093],[74.99909644403797,14.72442852298634],[74.98664772365588,14.72734280664039],[75.00204397369887,14.7120872040506],[75.0065091903673,14.71917581265093]]]},"properties":{"region_id":"village_603094","name":"YEMAGALLI","parent":"subdistrict_5482","parent_name":"MUNDGOD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.66539814911656,14.80104228766682],[75.67417632398963,14.82703137233233],[75.65948038106309,14.83121951320253],[75.64283972728356,14.81152913914735],[75.66539814911656,14.80104228766682]]]},"properties":{"region_id":"village_604275","name":"KANCHARAGATTI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

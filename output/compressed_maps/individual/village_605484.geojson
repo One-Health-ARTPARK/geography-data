@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18602983567445,14.26951717272463],[76.14892798897317,14.26566898072889],[76.15874248203563,14.24245949760965],[76.19100679133646,14.24743988250241],[76.18602983567445,14.26951717272463]]]},"properties":{"region_id":"village_605484","name":"DODDIGANAHAL","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

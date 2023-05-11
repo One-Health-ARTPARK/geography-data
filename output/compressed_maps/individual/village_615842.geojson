@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98543561931886,13.04268638968037],[75.97809682168764,13.03817788908224],[75.98226367535172,13.03190397191298],[75.98962004258159,13.0345649123975],[75.98543561931886,13.04268638968037]]]},"properties":{"region_id":"village_615842","name":"KALENAHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

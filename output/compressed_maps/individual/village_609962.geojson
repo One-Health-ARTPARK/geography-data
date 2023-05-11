@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.6865618316169,13.16309278026576],[75.67819620598364,13.17479683949946],[75.67123167529758,13.16581962373815],[75.67927226252725,13.15111885048394],[75.6865618316169,13.16309278026576]]]},"properties":{"region_id":"village_609962","name":"KADEMADKAL","parent":"subdistrict_5531","parent_name":"MUDIGERE"}}
+]}

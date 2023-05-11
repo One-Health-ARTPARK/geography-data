@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.35929178128684,13.90506901336884],[76.34243561045619,13.92995619032022],[76.30807708281039,13.92808313580769],[76.30922604324624,13.88857974765345],[76.34073549737835,13.89042114833941],[76.35929178128684,13.90506901336884]]]},"properties":{"region_id":"village_605910","name":"JANAKAL","parent":"subdistrict_5507","parent_name":"HOSDURGA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05304253033219,12.38127610965795],[76.0409132626611,12.37469724296112],[76.04337928052907,12.36461366300789],[76.05697324177719,12.37082404492521],[76.05304253033219,12.38127610965795]]]},"properties":{"region_id":"village_618241","name":"MALLINATHAPURA","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

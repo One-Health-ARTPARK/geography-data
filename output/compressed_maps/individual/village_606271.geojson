@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.8448525788924,14.5850320679295],[75.83627224537487,14.59295144924536],[75.83656265748954,14.5795101095072],[75.8448525788924,14.5850320679295]]]},"properties":{"region_id":"village_606271","name":"KARALAHALLI","parent":"subdistrict_5509","parent_name":"HARIHAR"}}
+]}

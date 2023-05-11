@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.02623456290317,12.41315951483309],[77.04013808318695,12.4144668794215],[77.03874297492304,12.42441242909524],[77.02496982379695,12.42102947067989],[77.02623456290317,12.41315951483309]]]},"properties":{"region_id":"village_614665","name":"T.KAGEPURA","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.73971814666218,14.54343160478104],[75.73183275832069,14.49509203081269],[75.7672260412849,14.51816370768125],[75.73971814666218,14.54343160478104]]]},"properties":{"region_id":"village_604564","name":"MAKANUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.46733165917695,12.77423502558814],[75.45057804522537,12.77152589522874],[75.44129200551092,12.75437259817954],[75.47594154293215,12.74637959850735],[75.49056902342424,12.76244019687926],[75.46733165917695,12.77423502558814]]]},"properties":{"region_id":"village_617716","name":"KUTRUPADI","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

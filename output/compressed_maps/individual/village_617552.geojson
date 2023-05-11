@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.18641702241293,12.8876397316089],[75.16737133547886,12.90167575058446],[75.15660629353962,12.87676820632153],[75.1871375277886,12.86373348397012],[75.18641702241293,12.8876397316089]]]},"properties":{"region_id":"village_617552","name":"ULI","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

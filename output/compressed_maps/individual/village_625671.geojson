@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.84782362388458,13.01333510531637],[77.83726356673276,13.00317166932039],[77.84938979043169,12.99498411852678],[77.85432524392048,13.00361762156711],[77.84782362388458,13.01333510531637]]]},"properties":{"region_id":"village_625671","name":"PARAMANAHALLI","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

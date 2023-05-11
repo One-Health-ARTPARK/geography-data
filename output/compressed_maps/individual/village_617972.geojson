@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99660142642277,12.56197294542421],[76.006871695717,12.55503701048221],[76.01834204493159,12.56669261430155],[76.00106010666535,12.57782683374034],[75.99660142642277,12.56197294542421]]]},"properties":{"region_id":"village_617972","name":"SIRANGALA","parent":"subdistrict_7124","parent_name":"KUSHALANAGAR"}}
+]}

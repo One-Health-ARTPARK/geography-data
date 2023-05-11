@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29718901264881,13.42808546837202],[75.27448201157885,13.44206267258417],[75.2688736452462,13.42965526047499],[75.28521606385642,13.41984067892542],[75.29718901264881,13.42808546837202]]]},"properties":{"region_id":"village_608951","name":"MASIGE","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

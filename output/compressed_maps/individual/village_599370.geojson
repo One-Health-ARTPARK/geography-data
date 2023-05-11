@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20564259486635,16.86564731816248],[76.17930098555435,16.87496635140767],[76.16603783666092,16.80467158350252],[76.21585699142392,16.79282203818656],[76.23038251351888,16.85905116141116],[76.20564259486635,16.86564731816248]]]},"properties":{"region_id":"village_599370","name":"KOKATNUR","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

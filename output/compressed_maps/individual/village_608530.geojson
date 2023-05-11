@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7363310962212,14.0398008352701],[75.72372788414621,14.03966618619552],[75.72146458313665,14.02493438799501],[75.7423155850568,14.02354027641681],[75.7363310962212,14.0398008352701]]]},"properties":{"region_id":"village_608530","name":"MALLAPURA","parent":"subdistrict_5521","parent_name":"BHADRAVATI"}}
+]}

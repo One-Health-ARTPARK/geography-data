@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74732132049651,13.72939989271369],[75.73573096510934,13.70140278559077],[75.76370445414145,13.70541733014955],[75.74732132049651,13.72939989271369]]]},"properties":{"region_id":"village_609151","name":"DUGLAPURA","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.67640533664263,17.06532471249011],[75.65010397736673,17.05738435585613],[75.6403181958684,17.037609938499],[75.67113370215128,17.0381298489393],[75.67640533664263,17.06532471249011]]]},"properties":{"region_id":"village_599061","name":"MADASANAL","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

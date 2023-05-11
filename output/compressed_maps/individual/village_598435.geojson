@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.3389178077607,16.5472954080181],[75.3157736430979,16.50792317955472],[75.34647014176024,16.50019377433146],[75.3389178077607,16.5472954080181]]]},"properties":{"region_id":"village_598435","name":"KUMBARHAL","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39955527066168,14.53815220276986],[76.37547691739661,14.5257748403306],[76.37010788054445,14.50446247249068],[76.40465673226892,14.50933401406996],[76.39955527066168,14.53815220276986]]]},"properties":{"region_id":"village_606494","name":"BHARAMASAMUDRA","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

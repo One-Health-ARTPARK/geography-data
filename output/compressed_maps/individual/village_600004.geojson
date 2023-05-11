@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1647244327282,18.25775235760182],[77.15192160412306,18.23876048428093],[77.16696515848948,18.22894502516584],[77.1647244327282,18.25775235760182]]]},"properties":{"region_id":"village_600004","name":"MURG (K)","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

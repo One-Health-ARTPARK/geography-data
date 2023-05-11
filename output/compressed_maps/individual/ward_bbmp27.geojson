@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.6384450000775,13.00565300008649],[77.66172700020907,13.01633299963283],[77.63996700021674,13.02564999986748],[77.6384450000775,13.00565300008649]]]},"properties":{"region_id":"ward_bbmp27","name":"WARD NO. 27 (BANASAVADI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

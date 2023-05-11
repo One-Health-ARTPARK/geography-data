@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43212382198398,12.58821088038588],[77.42820051473923,12.61242383766057],[77.41468402787697,12.60431335109599],[77.41597622476678,12.58885712175477],[77.43212382198398,12.58821088038588]]]},"properties":{"region_id":"village_626448","name":"TUNGANI","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

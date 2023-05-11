@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.95249948621118,16.88070076952526],[74.93781461881373,16.85627436052019],[74.96932594802776,16.86053980571922],[74.95249948621118,16.88070076952526]]]},"properties":{"region_id":"village_597256","name":"ARALIHATTI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

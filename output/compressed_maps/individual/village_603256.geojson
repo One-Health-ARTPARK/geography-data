@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94163916710338,14.72133442913437],[74.93345606888698,14.73150173999878],[74.9052982738706,14.7264945447489],[74.92020061809474,14.70600517959466],[74.94163916710338,14.72133442913437]]]},"properties":{"region_id":"village_603256","name":"ULLAL","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

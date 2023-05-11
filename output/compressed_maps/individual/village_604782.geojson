@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.7314144569726,15.44184814731148],[76.72391053426698,15.49284422509384],[76.693292708678,15.47013418383932],[76.7314144569726,15.44184814731148]]]},"properties":{"region_id":"village_604782","name":"MANUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

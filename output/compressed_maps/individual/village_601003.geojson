@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2247033280659,16.00011469247726],[77.21242044566179,16.00216663686761],[77.2097314072877,15.9762010650706],[77.22649257799462,15.97437720750922],[77.2247033280659,16.00011469247726]]]},"properties":{"region_id":"village_601003","name":"KAMBALANETTI","parent":"subdistrict_5462","parent_name":"MANVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38317692023254,13.10145668325779],[76.3813681382942,13.11743340889422],[76.37184754331749,13.10873191529467],[76.38317692023254,13.10145668325779]]]},"properties":{"region_id":"village_617121","name":"LAKKIHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

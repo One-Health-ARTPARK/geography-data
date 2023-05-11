@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98381736148743,12.60482992706144],[75.9758525605415,12.61427238762536],[75.96428825552749,12.60678867559864],[75.96894871548045,12.59572561857391],[75.98381736148743,12.60482992706144]]]},"properties":{"region_id":"village_616709","name":"BANNUR","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

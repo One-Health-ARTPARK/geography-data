@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37663282515567,17.41787593375339],[77.37108398877638,17.42799016909106],[77.34835109566274,17.43123766723533],[77.36156600956471,17.41304168068629],[77.37663282515567,17.41787593375339]]]},"properties":{"region_id":"village_620415","name":"DASTAPUR","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

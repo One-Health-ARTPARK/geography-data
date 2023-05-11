@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.25395279498487,13.07824509108045],[78.2389531636854,13.07728585069939],[78.23919839327212,13.07348307923798],[78.24888642867492,13.07228198118093],[78.25395279498487,13.07824509108045]]]},"properties":{"region_id":"village_622094","name":"GANGAPURA","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

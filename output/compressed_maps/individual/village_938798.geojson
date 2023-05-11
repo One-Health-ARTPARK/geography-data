@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8327402662032,12.99254072185318],[74.82833035731669,13.00275777207149],[74.81028861970542,12.99509656259487],[74.82199515483208,12.98047177305929],[74.8327402662032,12.99254072185318]]]},"properties":{"region_id":"village_938798","name":"50 IDYA","parent":"subdistrict_5561","parent_name":"MANGALURU"}}
+]}

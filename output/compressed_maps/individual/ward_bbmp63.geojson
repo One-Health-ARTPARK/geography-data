@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60534399962334,12.99013700011582],[77.60649400031895,12.99783499957427],[77.59327600045046,13.0055080000943],[77.59743599992822,12.99136500009917],[77.60534399962334,12.99013700011582]]]},"properties":{"region_id":"ward_bbmp63","name":"WARD NO.63 (JAYA MAHAL)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

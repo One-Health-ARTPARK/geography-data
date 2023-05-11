@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.62741539331539,14.68669778045839],[75.6047567321851,14.68018843096395],[75.6023637994742,14.66543654207513],[75.62858171320069,14.67321731156182],[75.62741539331539,14.68669778045839]]]},"properties":{"region_id":"village_604519","name":"GUDDADANVERI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

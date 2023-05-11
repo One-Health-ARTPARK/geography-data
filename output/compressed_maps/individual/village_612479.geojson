@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98537990592627,12.99908769963512],[76.97441959973845,12.98130269367057],[76.98697660905924,12.97737830512181],[76.98537990592627,12.99908769963512]]]},"properties":{"region_id":"village_612479","name":"KATTIGEHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

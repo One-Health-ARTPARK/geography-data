@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.08600847341269,12.63313651910771],[76.07859184192449,12.65284064230184],[76.0649210967139,12.63276259636156],[76.08600847341269,12.63313651910771]]]},"properties":{"region_id":"village_616726","name":"HIREHALLI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

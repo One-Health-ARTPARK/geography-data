@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.75559027230004,11.99925196112202],[76.74198019078968,11.99316229975681],[76.74017303821374,11.98214958077174],[76.75347651253777,11.98206220756614],[76.75559027230004,11.99925196112202]]]},"properties":{"region_id":"village_619681","name":"CHIKKABEGUR","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

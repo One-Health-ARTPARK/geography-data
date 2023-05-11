@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.47825322750032,15.1469024707198],[76.46989901183832,15.16475348632961],[76.45379783730782,15.1629834753123],[76.46223879980745,15.1485639377065],[76.47825322750032,15.1469024707198]]]},"properties":{"region_id":"village_604997","name":"SIDDAPUR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

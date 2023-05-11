@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31200125418091,16.00745557562125],[77.28421984210549,16.00269940752393],[77.29484433781363,15.9952262153993],[77.30775184130133,15.99872158523982],[77.31200125418091,16.00745557562125]]]},"properties":{"region_id":"village_600860","name":"HEERAPUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

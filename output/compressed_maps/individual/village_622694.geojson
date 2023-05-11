@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.27940581108808,12.91060987262094],[78.28175175218684,12.90613133045642],[78.28917326228213,12.90356274109574],[78.28963880525522,12.90820147723934],[78.27940581108808,12.91060987262094]]]},"properties":{"region_id":"village_622694","name":"BYNEPALLI","parent":"subdistrict_7002","parent_name":"KOLAR GOLD FIELD"}}
+]}

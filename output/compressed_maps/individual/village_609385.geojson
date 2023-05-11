@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.95329740831804,13.52409071668513],[75.936673438507,13.52432122719066],[75.93617769867642,13.51353845803541],[75.95033143208508,13.50854296329517],[75.95329740831804,13.52409071668513]]]},"properties":{"region_id":"village_609385","name":"CHANNENAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

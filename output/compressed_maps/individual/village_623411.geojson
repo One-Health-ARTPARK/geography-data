@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61313987796177,13.51014629324665],[77.59437998298877,13.50648676355177],[77.60659156558441,13.48804181011403],[77.61900169822162,13.48704402165174],[77.6234485304937,13.50882056566378],[77.61313987796177,13.51014629324665]]]},"properties":{"region_id":"village_623411","name":"MANCHENAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.16400450895837,13.21562101822315],[77.15782099589767,13.21684916990445],[77.15696447473763,13.21139357985941],[77.16387182704803,13.20984374105771],[77.16400450895837,13.21562101822315]]]},"properties":{"region_id":"village_611602","name":"VARADANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

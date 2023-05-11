@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30864321603316,14.92648512967809],[75.30666742994924,14.92975892638943],[75.29613174381005,14.92857589256004],[75.30507872888359,14.91959752117802],[75.30864321603316,14.92648512967809]]]},"properties":{"region_id":"village_603989","name":"CHIKKABOODIHAL","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

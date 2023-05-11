@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30640571974905,15.4442191267367],[75.2519886417025,15.44828058207997],[75.25305194919169,15.41955568740449],[75.30640571974905,15.4442191267367]]]},"properties":{"region_id":"village_602391","name":"KIRASUR","parent":"subdistrict_5475","parent_name":"HUBBALLI"}}
+]}

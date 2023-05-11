@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6486807954066,12.00232950602781],[76.63684181090746,12.00197910677153],[76.62743300934,11.98593901390648],[76.64299845289094,11.98215603139743],[76.6486807954066,12.00232950602781]]]},"properties":{"region_id":"village_619270","name":"KRISHNAPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

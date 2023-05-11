@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51019803664737,15.02829918557539],[76.49319162031603,15.04211793889202],[76.47385956981708,15.02246687981356],[76.48895605089345,15.01368201924961],[76.51019803664737,15.02829918557539]]]},"properties":{"region_id":"village_604962","name":"SOMALAPUR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

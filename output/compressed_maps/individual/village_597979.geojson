@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61140193257607,15.45168559118139],[74.598554159346,15.4569721881741],[74.5874490793893,15.44231394297684],[74.59633779023335,15.43880392720951],[74.61140193257607,15.45168559118139]]]},"properties":{"region_id":"village_597979","name":"SULEGALI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

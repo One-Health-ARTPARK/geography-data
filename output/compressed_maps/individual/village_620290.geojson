@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69371614229003,17.28735432130013],[76.67407634142288,17.30856688175949],[76.66872740948519,17.28740016979693],[76.69371614229003,17.28735432130013]]]},"properties":{"region_id":"village_620290","name":"MALNI","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

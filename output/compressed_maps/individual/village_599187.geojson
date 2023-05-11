@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84032969002106,17.3069092675369],[75.83380702568527,17.34634829593847],[75.81474175125382,17.34149890525554],[75.81046397870935,17.30533780066242],[75.84032969002106,17.3069092675369]]]},"properties":{"region_id":"village_599187","name":"YELGI [P.H.]","parent":"subdistrict_7070","parent_name":"CHADACHAN"}}
+]}

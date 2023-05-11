@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70711706911592,12.97264091212696],[76.68135085778998,12.96547473262437],[76.69092188999778,12.94387471568413],[76.70362350277927,12.94679022672942],[76.70964266107327,12.95607541373456],[76.70711706911592,12.97264091212696]]]},"properties":{"region_id":"village_613767","name":"DADAGA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

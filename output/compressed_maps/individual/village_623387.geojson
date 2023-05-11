@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54792298399457,13.54573675978334],[77.54275231290347,13.54102489776499],[77.55005596973555,13.5360436713663],[77.54792298399457,13.54573675978334]]]},"properties":{"region_id":"village_623387","name":"DWARAGANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99734486287257,16.03836734624884],[75.98845891035465,16.03785295272571],[75.97482715875714,16.02155454139018],[75.99664046047317,16.0206149656432],[75.99734486287257,16.03836734624884]]]},"properties":{"region_id":"village_598934","name":"HONNARAHALLI","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

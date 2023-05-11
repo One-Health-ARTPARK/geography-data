@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.86195540903923,15.51546682830725],[74.87518575752027,15.53225726697572],[74.84726212430242,15.5268736116076],[74.86195540903923,15.51546682830725]]]},"properties":{"region_id":"village_938699","name":"MADIKOPPA","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

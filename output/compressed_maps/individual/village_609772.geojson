@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.88226825272103,13.37601962419108],[75.85066665348279,13.37621661014843],[75.86314736023346,13.35971654935719],[75.88226825272103,13.37601962419108]]]},"properties":{"region_id":"village_609772","name":"HIREGOWJA","parent":"subdistrict_5530","parent_name":"CHIKKAMAGALURU"}}
+]}

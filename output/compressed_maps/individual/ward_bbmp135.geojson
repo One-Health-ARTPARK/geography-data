@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.54385999983394,12.9640449997483],[77.54880999977618,12.96083800006983],[77.55164499987056,12.96443600014923],[77.54385999983394,12.9640449997483]]]},"properties":{"region_id":"ward_bbmp135","name":"WARD NO.135 (PADARAYANAPURA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

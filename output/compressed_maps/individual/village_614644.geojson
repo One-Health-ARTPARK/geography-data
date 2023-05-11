@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05504233443116,12.48438015949226],[77.04157376008457,12.48122815000813],[77.04873111450884,12.44651828827841],[77.05532592918496,12.44806325686946],[77.05504233443116,12.48438015949226]]]},"properties":{"region_id":"village_614644","name":"ANNUR","parent":"subdistrict_5551","parent_name":"MADDUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96748956295954,14.72897574945398],[74.95684875216206,14.71701510079611],[74.96955563845334,14.71533858059844],[74.97883204590886,14.72453142919018],[74.96748956295954,14.72897574945398]]]},"properties":{"region_id":"village_603253","name":"WADGERI","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

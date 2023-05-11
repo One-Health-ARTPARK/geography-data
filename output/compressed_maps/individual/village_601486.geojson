@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26679576771019,15.84323563134984],[76.2536067245289,15.83454486135878],[76.30009149055414,15.82114666058072],[76.30091566944839,15.83114399289299],[76.26679576771019,15.84323563134984]]]},"properties":{"region_id":"village_601486","name":"GONHAL(K)","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

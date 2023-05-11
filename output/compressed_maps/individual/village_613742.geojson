@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71556815225976,12.90782150164132],[76.704392983792,12.91899352930566],[76.69300423382202,12.91092015799138],[76.7109530142669,12.90484562960295],[76.71556815225976,12.90782150164132]]]},"properties":{"region_id":"village_613742","name":"GOWDARAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

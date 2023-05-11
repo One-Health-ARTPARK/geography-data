@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48551988303649,13.30877099058125],[77.47475516032404,13.30991665989593],[77.4717153608876,13.29570866645281],[77.49333909822647,13.29434645498061],[77.48551988303649,13.30877099058125]]]},"properties":{"region_id":"village_625111","name":"KESTHUR","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

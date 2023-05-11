@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50730900011482,13.04528800003554],[77.49884100028389,13.03360499989516],[77.51973100038953,13.02843599984047],[77.51840499977405,13.03993199986352],[77.50730900011482,13.04528800003554]]]},"properties":{"region_id":"ward_bbmp39","name":"WARD NO. 39 (CHOKKASANDRA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

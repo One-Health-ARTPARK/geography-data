@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.45931439744516,14.3174266334493],[74.4543883909047,14.32829914771946],[74.44609443744767,14.32447144554036],[74.45099246500108,14.316638924903],[74.45931439744516,14.3174266334493]]]},"properties":{"region_id":"village_603739","name":"DUGGUR","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

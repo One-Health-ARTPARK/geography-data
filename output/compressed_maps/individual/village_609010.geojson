@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.37441522063297,13.47845983538474],[75.37448609014369,13.46774250738287],[75.38801633225621,13.46235953651725],[75.3877342723793,13.47383239248644],[75.37441522063297,13.47845983538474]]]},"properties":{"region_id":"village_609010","name":"HERAMBAPURA","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}

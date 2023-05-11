@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72719925636234,12.57853089397684],[76.71490308313348,12.59526811835532],[76.7108177019672,12.55929349287893],[76.72163430492479,12.55425278319991],[76.72719925636234,12.57853089397684]]]},"properties":{"region_id":"village_614088","name":"SUNKATHONNUR","parent":"subdistrict_5548","parent_name":"PANDAVAPURA"}}
+]}

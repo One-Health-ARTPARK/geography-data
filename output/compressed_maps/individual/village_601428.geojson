@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.06484497920579,15.9249465381568],[76.08476718742658,15.99596746728544],[76.05642694292546,16.01145727058921],[76.03542959112258,15.93541370752241],[76.06484497920579,15.9249465381568]]]},"properties":{"region_id":"village_601428","name":"HULGERA","parent":"subdistrict_5465","parent_name":"KUSHTAGI"}}
+]}

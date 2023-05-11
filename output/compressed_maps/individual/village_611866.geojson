@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78123177957796,13.30359343508647],[76.76168644651042,13.29793502091146],[76.76366637579231,13.28595270677944],[76.78411839323842,13.28960781719037],[76.78123177957796,13.30359343508647]]]},"properties":{"region_id":"village_611866","name":"PERAMASANDRA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

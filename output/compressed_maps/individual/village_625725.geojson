@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.86462912302956,12.97323847519306],[77.87136266817069,12.97369875074708],[77.87069484132225,12.9855099125326],[77.86279995267309,12.98355090925159],[77.86462912302956,12.97323847519306]]]},"properties":{"region_id":"village_625725","name":"LINGADEERAMALLASANDRA","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43709658606525,13.68411659813437],[77.4139815648531,13.69290193763009],[77.4036139228943,13.67631333133639],[77.43547959399972,13.67324594566943],[77.43709658606525,13.68411659813437]]]},"properties":{"region_id":"village_610941","name":"SRAVANDANAHALLI","parent":"subdistrict_5535","parent_name":"MADHUGIRI"}}
+]}

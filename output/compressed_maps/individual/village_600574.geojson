@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.77100823395357,16.32045910360348],[76.73323454750984,16.32505371062359],[76.74912554618231,16.29705148485787],[76.77100823395357,16.32045910360348]]]},"properties":{"region_id":"village_600574","name":"SOMANMARDI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

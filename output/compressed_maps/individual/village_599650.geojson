@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2453501546879,16.32035117332948],[76.25195271585856,16.32185945472695],[76.25894313132005,16.3611948566014],[76.24003269464583,16.34415918326169],[76.2453501546879,16.32035117332948]]]},"properties":{"region_id":"village_599650","name":"GONAL S.HIRUR","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

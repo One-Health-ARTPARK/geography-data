@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67384882278122,12.00013825419116],[76.6506187903667,12.00735522269844],[76.64299845289094,11.98215603139743],[76.65523756706827,11.97694431620483],[76.67384882278122,12.00013825419116]]]},"properties":{"region_id":"village_619447","name":"HIRIKATI","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

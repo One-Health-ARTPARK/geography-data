@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.60881651307913,12.98048768090584],[76.61317756588383,12.99909392014793],[76.60229810089741,12.99105156520323],[76.60881651307913,12.98048768090584]]]},"properties":{"region_id":"village_617340","name":"GOWDARAHALLI","parent":"subdistrict_5560","parent_name":"CHANNARAYAPATNA"}}
+]}

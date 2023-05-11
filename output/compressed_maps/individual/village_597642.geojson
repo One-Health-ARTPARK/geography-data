@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.41640698595907,16.08244572377972],[74.40723243334759,16.09406684961192],[74.38981694024582,16.08957705960658],[74.39513550296593,16.08005496627722],[74.41640698595907,16.08244572377972]]]},"properties":{"region_id":"village_597642","name":"DHONDAGATTI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

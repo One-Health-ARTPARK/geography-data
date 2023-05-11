@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.07392890539329,15.55332741801081],[76.07952439775448,15.59442667190357],[76.05621158706968,15.59143114569602],[76.04897350243345,15.56441380820823],[76.07392890539329,15.55332741801081]]]},"properties":{"region_id":"village_601264","name":"KUDGUNTI","parent":"subdistrict_5464","parent_name":"YELBARGA"}}
+]}

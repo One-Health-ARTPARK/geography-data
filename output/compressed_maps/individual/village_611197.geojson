@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.33126994175842,13.41247108739437],[77.31242596795579,13.41443013084259],[77.3154322676199,13.40597223648461],[77.3282150046326,13.40327119662906],[77.33126994175842,13.41247108739437]]]},"properties":{"region_id":"village_611197","name":"BUCHENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

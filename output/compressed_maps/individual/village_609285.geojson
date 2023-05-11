@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13491266422977,13.7818046465249],[76.11510157047209,13.78216936148735],[76.11427309804131,13.77152053821974],[76.13843186261059,13.77322387378877],[76.13491266422977,13.7818046465249]]]},"properties":{"region_id":"village_609285","name":"ARABALA","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

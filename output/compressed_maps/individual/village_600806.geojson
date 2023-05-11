@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31910448095931,16.33006472544154],[77.32751877248815,16.30004923843065],[77.35270029603552,16.2946439270946],[77.35321701346969,16.31990524428694],[77.31910448095931,16.33006472544154]]]},"properties":{"region_id":"village_600806","name":"CHICKSUGUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

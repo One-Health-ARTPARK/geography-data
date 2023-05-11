@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.3951313283245,16.38088008805326],[74.37798458987703,16.3804221600296],[74.37642238029697,16.36018644895362],[74.40020310235444,16.35345293042439],[74.3951313283245,16.38088008805326]]]},"properties":{"region_id":"village_597142","name":"YARNAL","parent":"subdistrict_7105","parent_name":"NIPPANI"}}
+]}

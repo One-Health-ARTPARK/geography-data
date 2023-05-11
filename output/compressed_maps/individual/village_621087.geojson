@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84569316755982,16.86839967979434],[76.81361991442229,16.85880536138735],[76.78906781014713,16.83751742004396],[76.8409185321189,16.80608483929817],[76.85537242735414,16.82856553969341],[76.84569316755982,16.86839967979434]]]},"properties":{"region_id":"village_621087","name":"MUDBOLE","parent":"subdistrict_5588","parent_name":"SHAHPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59722767064154,12.83039658822648],[76.61766623666239,12.83227433800889],[76.61400367404694,12.84249383434083],[76.60272069188518,12.84210339680271],[76.59722767064154,12.83039658822648]]]},"properties":{"region_id":"village_613818","name":"MACHANAIKANAHALLI","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

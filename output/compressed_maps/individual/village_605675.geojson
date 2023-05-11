@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11733307545407,14.03258720389593],[76.10515660898764,14.03342193035265],[76.10605202063805,14.02253439566469],[76.11598297114641,14.02246745479219],[76.11733307545407,14.03258720389593]]]},"properties":{"region_id":"village_605675","name":"BASAPURA","parent":"subdistrict_5506","parent_name":"HOLALKERE"}}
+]}

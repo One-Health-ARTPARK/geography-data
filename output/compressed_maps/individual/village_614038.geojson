@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6832249796848,12.69906836684551],[76.6619808310305,12.69823335662302],[76.69323579957623,12.68103175510097],[76.69928912392342,12.68326584282572],[76.70033201268335,12.69642091641683],[76.6832249796848,12.69906836684551]]]},"properties":{"region_id":"village_614038","name":"SREERAGHURAMPURA","parent":"subdistrict_5547","parent_name":"NAGAMANGALA"}}
+]}

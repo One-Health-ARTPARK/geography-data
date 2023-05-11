@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.05388085859408,16.12480441122684],[76.02735360341167,16.12178476130809],[76.00807432014925,16.07879629668929],[76.01784304777544,16.07410269049192],[76.02609489406919,16.09785695644132],[76.05388085859408,16.12480441122684]]]},"properties":{"region_id":"village_598926","name":"TIMMAPUR","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74877010568119,15.02065109169114],[75.70757351926007,15.03558653795614],[75.71267990320194,14.9843981019708],[75.74877010568119,15.02065109169114]]]},"properties":{"region_id":"village_602133","name":"HEBBAL","parent":"subdistrict_5471","parent_name":"SHIRHATTI"}}
+]}

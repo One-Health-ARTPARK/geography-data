@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12409905663893,13.4081181729594],[76.10788515405703,13.40655515732033],[76.11118307454014,13.40054827223815],[76.12358081515171,13.40153825153931],[76.12409905663893,13.4081181729594]]]},"properties":{"region_id":"village_609641","name":"BOMMENAHALLI.S","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

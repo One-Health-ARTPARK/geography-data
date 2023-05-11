@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.08454261384463,16.41753628935088],[77.09145984420948,16.42841299356234],[77.07990009758694,16.43196584947435],[77.07179503448201,16.41429831850309],[77.08454261384463,16.41753628935088]]]},"properties":{"region_id":"village_600602","name":"GOPENDEVERHALLI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

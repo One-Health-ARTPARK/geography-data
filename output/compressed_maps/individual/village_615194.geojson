@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84911199873082,13.15161523566645],[75.85084874275874,13.16070395303207],[75.83555068179264,13.15973184431832],[75.83624848006868,13.14767585898681],[75.84911199873082,13.15161523566645]]]},"properties":{"region_id":"village_615194","name":"NIDAGODU","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

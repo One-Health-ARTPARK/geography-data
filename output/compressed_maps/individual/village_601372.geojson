@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03769860179152,15.34447775486781],[76.02073931955432,15.34766023686329],[76.0209975949548,15.3318255885368],[76.03368567803021,15.32311923384743],[76.03769860179152,15.34447775486781]]]},"properties":{"region_id":"village_601372","name":"CHITAPUR","parent":"subdistrict_7093","parent_name":"KUKUNOOR"}}
+]}

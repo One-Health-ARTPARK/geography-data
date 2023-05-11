@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75199414413933,15.44402014444613],[74.72986850358599,15.4351267369914],[74.74092493994478,15.41154537017006],[74.76234710294094,15.42247132971634],[74.75199414413933,15.44402014444613]]]},"properties":{"region_id":"village_938680","name":"ALNAVARA","parent":"subdistrict_7081","parent_name":"ALNAVAR"}}
+]}

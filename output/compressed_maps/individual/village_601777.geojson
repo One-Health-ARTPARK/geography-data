@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2321998901977,15.30220591794663],[76.18944571746505,15.30425472506883],[76.1970752071399,15.27628085604813],[76.23510016500188,15.27604659920983],[76.2321998901977,15.30220591794663]]]},"properties":{"region_id":"village_601777","name":"KUNIKERA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

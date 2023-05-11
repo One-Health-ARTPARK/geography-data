@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03699133566363,16.10285446998035],[76.97689578828574,16.08945841571703],[76.99458839256309,16.04913739570842],[77.0367402331334,16.04966585529198],[77.03699133566363,16.10285446998035]]]},"properties":{"region_id":"village_600977","name":"GUD-DINNI.K","parent":"subdistrict_7097","parent_name":"SIRWAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98624845916049,12.20371874122584],[75.96314423924939,12.25026577508726],[75.94259340678255,12.23206842283768],[75.94767982364867,12.19911474446498],[75.98624845916049,12.20371874122584]]]},"properties":{"region_id":"village_618043","name":"HEBBALE","parent":"subdistrict_7125","parent_name":"PONNAMPET"}}
+]}

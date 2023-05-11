@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.49790041058812,13.77141052611003],[75.49280677587019,13.79678252769997],[75.47434115959125,13.78546012710606],[75.49790041058812,13.77141052611003]]]},"properties":{"region_id":"village_608130","name":"BOMMANAHALLI","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

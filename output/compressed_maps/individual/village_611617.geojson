@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78753779477168,13.5830772991567],[76.76087320357912,13.58716223812288],[76.73186518402548,13.5690920733727],[76.78225729799188,13.56523101752255],[76.78753779477168,13.5830772991567]]]},"properties":{"region_id":"village_611617","name":"SHIVARAMPURA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

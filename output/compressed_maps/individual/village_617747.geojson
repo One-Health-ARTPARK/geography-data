@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25492940464801,12.64629628326473],[75.24709929467379,12.65897155222876],[75.22566677430491,12.66591244747577],[75.21820059860624,12.62942448834622],[75.25492940464801,12.64629628326473]]]},"properties":{"region_id":"village_617747","name":"BADAGANNUR","parent":"subdistrict_5564","parent_name":"PUTTUR"}}
+]}

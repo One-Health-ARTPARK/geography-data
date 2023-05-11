@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.7105631428166,14.6105081588458],[75.68393754086183,14.62956966782323],[75.6699310302177,14.59727882469075],[75.69286699821966,14.58646316287834],[75.7105631428166,14.6105081588458]]]},"properties":{"region_id":"village_604525","name":"HUNASHIKATTI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

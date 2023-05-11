@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.1029788936185,13.37983990236788],[76.0991146269704,13.37089761427869],[76.11125594732091,13.37400497580667],[76.1029788936185,13.37983990236788]]]},"properties":{"region_id":"village_615495","name":"MARAGONDANAHALLI","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.98021430853045,18.08167217781311],[76.97062174294174,18.05362253229382],[76.98859253102724,18.04565379509592],[76.9918885263092,18.06440538857559],[76.98021430853045,18.08167217781311]]]},"properties":{"region_id":"village_599848","name":"KONGLI","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

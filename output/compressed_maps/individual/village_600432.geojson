@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.49199601826791,16.13105113188657],[76.46967617340884,16.12433436501443],[76.46452425748002,16.08897338100483],[76.48577753009431,16.08090872628545],[76.49199601826791,16.13105113188657]]]},"properties":{"region_id":"village_600432","name":"KALLILINGSUGUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

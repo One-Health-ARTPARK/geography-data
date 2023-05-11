@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2912540469816,18.02483263980732],[77.27448397756935,17.99325912288102],[77.30469298216009,17.98736578678066],[77.31219169640018,18.00237197327704],[77.2912540469816,18.02483263980732]]]},"properties":{"region_id":"village_599947","name":"KOMMELKUNDA","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

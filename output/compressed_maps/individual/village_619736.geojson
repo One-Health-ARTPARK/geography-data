@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88038609706781,11.77081452044076],[76.86944602030283,11.77439987464069],[76.87194719015287,11.76079597973493],[76.88038609706781,11.77081452044076]]]},"properties":{"region_id":"village_619736","name":"MANCHAGUNDIPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

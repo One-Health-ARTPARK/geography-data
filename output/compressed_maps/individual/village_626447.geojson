@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41546061407384,12.62596542134213],[77.40713721266992,12.62664332600255],[77.40496605002397,12.59903384054959],[77.42768220116334,12.61423703139932],[77.41546061407384,12.62596542134213]]]},"properties":{"region_id":"village_626447","name":"RAMAPURA","parent":"subdistrict_5608","parent_name":"KANAKAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84420871827888,13.08502627300195],[75.83843073903522,13.08418306341428],[75.84266032746528,13.07864047702606],[75.84420871827888,13.08502627300195]]]},"properties":{"region_id":"village_615391","name":"CHANDAPURA","parent":"subdistrict_5554","parent_name":"BELUR"}}
+]}

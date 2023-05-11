@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.30447100905553,12.816233352641],[75.2943236444195,12.76686890525318],[75.32486849531672,12.76284639355048],[75.30447100905553,12.816233352641]]]},"properties":{"region_id":"village_617705","name":"KOILA","parent":"subdistrict_7104","parent_name":"KADABA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39606312700074,16.25531868740939],[77.41936282459042,16.22012441021499],[77.43872870386484,16.23960964022464],[77.4200875539883,16.26556398654077],[77.39606312700074,16.25531868740939]]]},"properties":{"region_id":"village_600771","name":"KATLATKUR","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

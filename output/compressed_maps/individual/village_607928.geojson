@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.17472201408617,13.96069720592366],[75.14218339185449,13.95393401076942],[75.16002315161286,13.93691166594514],[75.17472201408617,13.96069720592366]]]},"properties":{"region_id":"village_607928","name":"KUSGUNDI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

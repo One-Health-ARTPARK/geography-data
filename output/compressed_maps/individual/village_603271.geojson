@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.96120901915025,14.67006376083279],[74.94761541105846,14.68071324170552],[74.93957180263617,14.66134956029248],[74.95537660122672,14.65090538176304],[74.96120901915025,14.67006376083279]]]},"properties":{"region_id":"village_603271","name":"BILUR","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

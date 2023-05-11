@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21571315697169,14.86550926109791],[76.22165014720225,14.88954252223706],[76.19517365357953,14.89261319013641],[76.18945607779483,14.86215344700094],[76.21571315697169,14.86550926109791]]]},"properties":{"region_id":"village_605051","name":"BEVOOR","parent":"subdistrict_7108","parent_name":"KOTTURU"}}
+]}

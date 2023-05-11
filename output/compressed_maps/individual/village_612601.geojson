@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.99090504017673,13.00472492347998],[76.98598705484562,12.99394503858664],[76.99896688862107,12.99506161376144],[76.99090504017673,13.00472492347998]]]},"properties":{"region_id":"village_612601","name":"CHOTTANAHALLI","parent":"subdistrict_5541","parent_name":"KUNIGAL"}}
+]}

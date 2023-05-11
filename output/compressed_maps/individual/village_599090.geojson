@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.91936568867295,16.84761664830025],[75.89439829875748,16.76402012645707],[75.91378589840205,16.75834001444612],[75.91936568867295,16.84761664830025]]]},"properties":{"region_id":"village_599090","name":"KAGGOD","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

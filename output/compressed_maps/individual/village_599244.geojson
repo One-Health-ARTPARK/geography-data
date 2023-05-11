@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94261111164121,17.02010073093781],[75.91024746415098,17.00991000833471],[75.91364816637824,16.97705892032361],[75.95400445194701,16.97692669281825],[75.94261111164121,17.02010073093781]]]},"properties":{"region_id":"village_599244","name":"BENAKANAHALLI","parent":"subdistrict_5450","parent_name":"INDI"}}
+]}

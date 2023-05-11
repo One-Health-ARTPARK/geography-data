@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50667996132516,13.2346086574919],[77.48334807955568,13.24036247188687],[77.47941917337761,13.22413587757608],[77.50667996132516,13.2346086574919]]]},"properties":{"region_id":"village_625214","name":"KARIM SONNENAHALLI","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

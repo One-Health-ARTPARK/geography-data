@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.0432632910861,14.18204488326071],[76.02872249770917,14.15689440319647],[76.06384474425842,14.15996329898733],[76.0432632910861,14.18204488326071]]]},"properties":{"region_id":"village_606964","name":"DODDABBIGERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

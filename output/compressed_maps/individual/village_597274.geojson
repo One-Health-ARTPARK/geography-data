@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.14216362877637,16.82995891923485],[75.12084335589539,16.77529285805269],[75.16436613228389,16.777802784889],[75.17525408532504,16.81036855936295],[75.14216362877637,16.82995891923485]]]},"properties":{"region_id":"village_597274","name":"CHAMAKERI","parent":"subdistrict_5434","parent_name":"ATHNI"}}
+]}

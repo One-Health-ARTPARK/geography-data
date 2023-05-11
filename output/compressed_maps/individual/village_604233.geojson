@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.44305894187143,14.80523652158225],[75.41928450085942,14.82031097745729],[75.41986145753155,14.80232017063452],[75.44305894187143,14.80523652158225]]]},"properties":{"region_id":"village_604233","name":"YATTINAHALLI","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

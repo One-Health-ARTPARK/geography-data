@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.3693662442484,18.10285149019659],[77.3358653527051,18.10084162521085],[77.33906141526904,18.08258767228329],[77.35304823609566,18.07191483107614],[77.371766733413,18.07451329863685],[77.3693662442484,18.10285149019659]]]},"properties":{"region_id":"village_599885","name":"NITTUR","parent":"subdistrict_5455","parent_name":"BHALKI"}}
+]}

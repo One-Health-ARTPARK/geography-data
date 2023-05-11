@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.4655900128798,14.2678656998739],[74.44901404354214,14.26864928958842],[74.45846454094082,14.24729548958996],[74.47384176499038,14.25150025028543],[74.4655900128798,14.2678656998739]]]},"properties":{"region_id":"village_603749","name":"HOSAPATNA","parent":"subdistrict_5487","parent_name":"HONAVAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.61072985439888,16.10466180964227],[75.63065210683516,16.14463171115356],[75.61065500603215,16.14755791830015],[75.61072985439888,16.10466180964227]]]},"properties":{"region_id":"village_598629","name":"KAGALAGOMBA","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

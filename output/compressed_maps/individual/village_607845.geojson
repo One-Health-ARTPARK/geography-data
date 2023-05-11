@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.42301601623515,14.16220832074245],[75.41401198081573,14.18768312078922],[75.39888760819868,14.16357235716965],[75.42301601623515,14.16220832074245]]]},"properties":{"region_id":"village_607845","name":"KESARAGHATTA","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

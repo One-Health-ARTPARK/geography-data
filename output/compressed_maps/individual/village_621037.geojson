@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73840236349011,16.58997231475563],[76.69870924179806,16.58767693933499],[76.70696795032872,16.55944477999157],[76.73902973281999,16.56250179457931],[76.73840236349011,16.58997231475563]]]},"properties":{"region_id":"village_621037","name":"DEVARGONAL","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

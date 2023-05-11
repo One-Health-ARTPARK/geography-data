@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98170081335324,13.64842859547262],[75.97004527164565,13.64929127339012],[75.96916418160852,13.63572356204531],[75.99183135952072,13.6363731465458],[75.98170081335324,13.64842859547262]]]},"properties":{"region_id":"village_609541","name":"YAREHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

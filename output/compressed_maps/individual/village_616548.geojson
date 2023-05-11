@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.99922836079257,12.688104188391],[75.98469556078938,12.6875345783314],[75.983226260216,12.68331232538254],[75.99860869776941,12.67830645749123],[75.99922836079257,12.688104188391]]]},"properties":{"region_id":"village_616548","name":"DODDABEMMATHI","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13615168054504,12.63577397971964],[76.13696871840617,12.64528005610772],[76.12463568873133,12.64892672524842],[76.12124984521714,12.63846620377665],[76.13615168054504,12.63577397971964]]]},"properties":{"region_id":"village_616674","name":"THATTAVALU","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

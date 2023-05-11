@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.57904560646031,13.98060624051454],[74.57131417698213,13.97975021128903],[74.57597867869522,13.97593722405581],[74.57904560646031,13.98060624051454]]]},"properties":{"region_id":"village_603835","name":"BEHALLI","parent":"subdistrict_5488","parent_name":"BHATKAL"}}
+]}

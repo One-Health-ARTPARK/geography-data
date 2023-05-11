@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38688633286743,12.69259834492443],[75.37072450944673,12.7122337583748],[75.35094609049702,12.68774242413357],[75.37312760033663,12.67622177123307],[75.38688633286743,12.69259834492443]]]},"properties":{"region_id":"village_617754","name":"KODIYALA","parent":"subdistrict_5565","parent_name":"SULYA"}}
+]}

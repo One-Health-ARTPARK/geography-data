@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.80668390044082,14.61959777946199],[75.75613663480895,14.60071126351799],[75.78959316605004,14.56401876749184],[75.8196573837491,14.568133493465],[75.80668390044082,14.61959777946199]]]},"properties":{"region_id":"village_604502","name":"AIRANI","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

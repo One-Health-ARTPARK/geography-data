@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.71528675588213,15.1679277161977],[75.71813377722766,15.13981701937171],[75.73730471264591,15.1409705310345],[75.75071609369537,15.16077398044084],[75.71528675588213,15.1679277161977]]]},"properties":{"region_id":"village_602162","name":"GUDDADBUDIHAL","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

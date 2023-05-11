@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30752119517334,14.47642951703579],[76.2854279457002,14.47784778130575],[76.27826633304889,14.45963036993545],[76.30804706635497,14.45570420625782],[76.30752119517334,14.47642951703579]]]},"properties":{"region_id":"village_606522","name":"BISTUVALLI","parent":"subdistrict_5511","parent_name":"JAGALUR"}}
+]}

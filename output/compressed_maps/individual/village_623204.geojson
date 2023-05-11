@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4403282250695,13.63431534283347],[77.41757952955903,13.62419835696678],[77.41909974132486,13.60940756319516],[77.44153865536995,13.62443519720567],[77.4403282250695,13.63431534283347]]]},"properties":{"region_id":"village_623204","name":"PAPAGANAHALLI","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

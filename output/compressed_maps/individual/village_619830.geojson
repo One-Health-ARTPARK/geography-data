@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24006958979503,12.13224398031331],[77.23137870003706,12.14563859245249],[77.21980287605503,12.13333623435621],[77.22513786198546,12.11615337543601],[77.24006958979503,12.13224398031331]]]},"properties":{"region_id":"village_619830","name":"KONGARAHALLI","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

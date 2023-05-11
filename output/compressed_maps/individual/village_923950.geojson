@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87122001415369,12.62911590876077],[75.87353976370126,12.63551431588285],[75.86727685682587,12.63721904358714],[75.86603494764645,12.62872105703745],[75.87122001415369,12.62911590876077]]]},"properties":{"region_id":"village_923950","name":"HONNAVALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

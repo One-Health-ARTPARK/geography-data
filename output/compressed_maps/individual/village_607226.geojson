@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21925721554959,14.27628332052046],[75.19023376560774,14.28224950177116],[75.20440828027021,14.24914125963912],[75.21925721554959,14.27628332052046]]]},"properties":{"region_id":"village_607226","name":"GUTHANAHALLI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

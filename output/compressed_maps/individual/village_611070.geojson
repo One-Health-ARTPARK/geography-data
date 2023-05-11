@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29202089922629,13.55415038022957],[77.2847799940675,13.55936653390153],[77.27622642683225,13.55210076424281],[77.28522546403221,13.54598340585622],[77.29202089922629,13.55415038022957]]]},"properties":{"region_id":"village_611070","name":"KATHINAGENAHALLI","parent":"subdistrict_5536","parent_name":"KORATAGERE"}}
+]}

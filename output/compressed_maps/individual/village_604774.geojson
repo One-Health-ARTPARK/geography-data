@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93573777941477,15.61344312328389],[76.91480320409677,15.59268785764107],[76.94472963683856,15.58637708543292],[76.96051668961456,15.60322400432961],[76.93573777941477,15.61344312328389]]]},"properties":{"region_id":"village_604774","name":"ARALIGANUR","parent":"subdistrict_5499","parent_name":"SIRUGUPPA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6019950661984,14.02816059242665],[76.56979153458002,14.03311804361441],[76.56803951214638,13.99096333658367],[76.60567632802555,13.98983456550337],[76.6019950661984,14.02816059242665]]]},"properties":{"region_id":"village_606076","name":"METIKURKE","parent":"subdistrict_5508","parent_name":"HIRIYUR"}}
+]}

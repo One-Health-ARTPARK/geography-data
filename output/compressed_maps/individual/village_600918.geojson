@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.76799302752976,16.00970181441829],[76.75212523396175,16.02023993877704],[76.75286530465338,15.99754719512744],[76.76799302752976,16.00970181441829]]]},"properties":{"region_id":"village_600918","name":"CHIKKAUDBAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

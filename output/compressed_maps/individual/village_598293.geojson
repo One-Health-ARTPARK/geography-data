@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.24282636393266,16.16726133088318],[75.20695859241816,16.16803895320367],[75.20811928736329,16.12844134762621],[75.23691288778234,16.12826538602825],[75.24282636393266,16.16726133088318]]]},"properties":{"region_id":"village_598293","name":"TONDIKATTI","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

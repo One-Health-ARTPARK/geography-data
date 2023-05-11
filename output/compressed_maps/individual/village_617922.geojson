@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.77237451608337,12.63174274813939],[75.79056773693046,12.62323987959086],[75.80818086762397,12.63983665171517],[75.7999878063392,12.65228430368654],[75.77237451608337,12.63174274813939]]]},"properties":{"region_id":"village_617922","name":"SHANTHALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

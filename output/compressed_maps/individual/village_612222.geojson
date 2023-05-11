@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73536511850251,13.16586655957209],[76.73488354878327,13.18547370040867],[76.71803764409005,13.18502611803291],[76.72467672713493,13.16962873482979],[76.73536511850251,13.16586655957209]]]},"properties":{"region_id":"village_612222","name":"PURA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

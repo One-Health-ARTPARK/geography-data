@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.82817197980332,13.42653389602815],[77.83214820055244,13.4362631710696],[77.82169772188155,13.44084368295495],[77.8200636836246,13.42898301769473],[77.82817197980332,13.42653389602815]]]},"properties":{"region_id":"village_623677","name":"RAMACHANDRA HOSUR","parent":"subdistrict_5596","parent_name":"CHIKKABALLAPURA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1311629429605,12.30812084334824],[77.10815943356069,12.29622258837102],[77.10537709966248,12.27426636817726],[77.13791346933489,12.27957183340865],[77.1311629429605,12.30812084334824]]]},"properties":{"region_id":"village_614813","name":"HOSAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

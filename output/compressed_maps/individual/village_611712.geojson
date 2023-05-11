@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93062410457968,13.41795424069456],[76.93270910072764,13.42918955844854],[76.91517122526422,13.42427972927477],[76.91933554330271,13.41379331931773],[76.93062410457968,13.41795424069456]]]},"properties":{"region_id":"village_611712","name":"HARIVESANDRA","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

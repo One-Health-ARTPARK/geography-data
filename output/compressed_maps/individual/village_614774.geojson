@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.2270596244759,12.4157374934328],[77.22037527653458,12.41651665083089],[77.22081280551618,12.4088948920032],[77.22731185928534,12.40800240960574],[77.2270596244759,12.4157374934328]]]},"properties":{"region_id":"village_614774","name":"GOLLARAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

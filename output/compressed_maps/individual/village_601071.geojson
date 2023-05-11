@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.48707846336829,15.75392662372277],[76.45694591255797,15.74796541115576],[76.45370016497826,15.73016758986637],[76.4825212175299,15.71945233800151],[76.48707846336829,15.75392662372277]]]},"properties":{"region_id":"village_601071","name":"UMLOTI","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

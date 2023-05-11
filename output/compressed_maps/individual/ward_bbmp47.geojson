@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.60784599965604,13.01951199979668],[77.60093700004482,13.02300000014856],[77.59527999970018,13.01119700041187],[77.60089499954809,13.00836700006964],[77.60784599965604,13.01951199979668]]]},"properties":{"region_id":"ward_bbmp47","name":"WARD NO.47 (DEVARA JEEVANAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

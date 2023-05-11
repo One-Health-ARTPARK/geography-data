@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26187813576881,15.32142066581141],[76.23551273542532,15.32309769079773],[76.23643089543717,15.27874180388519],[76.2610394581637,15.28829809161452],[76.26187813576881,15.32142066581141]]]},"properties":{"region_id":"village_601776","name":"HIREBOGANHAL","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

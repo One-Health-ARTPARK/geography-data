@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.30277697300534,16.86887323877361],[76.27581622885603,16.88190975633015],[76.26987725854374,16.86760137697193],[76.30277697300534,16.86887323877361]]]},"properties":{"region_id":"village_599360","name":"ANTARGANGI","parent":"subdistrict_5451","parent_name":"SINDGI"}}
+]}

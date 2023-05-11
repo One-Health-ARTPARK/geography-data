@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04924732182246,15.36578126694686],[75.01338878231513,15.36396692379516],[75.02176872530796,15.34527850234121],[75.04896307168754,15.34604734387804],[75.04924732182246,15.36578126694686]]]},"properties":{"region_id":"village_602381","name":"TARIHAL","parent":"subdistrict_7079","parent_name":"HUBBALLI URBAN"}}
+]}

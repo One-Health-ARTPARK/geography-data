@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.94875789524573,14.16847844124048],[74.93038207104644,14.17063086762433],[74.93322621659736,14.15287232733714],[74.94672753961379,14.15008336404823],[74.94875789524573,14.16847844124048]]]},"properties":{"region_id":"village_607163","name":"SASARAVALLI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

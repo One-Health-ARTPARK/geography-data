@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.790407075078,15.49898434377477],[76.76661446619369,15.51928803915462],[76.76670366002095,15.49191290607833],[76.790407075078,15.49898434377477]]]},"properties":{"region_id":"village_601707","name":"SHALIGNOOR","parent":"subdistrict_7092","parent_name":"KARATAGI"}}
+]}

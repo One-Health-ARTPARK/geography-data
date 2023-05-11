@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39249509721891,16.5028773646504],[76.37114356242506,16.48560461689227],[76.40220648784208,16.47594633075499],[76.39249509721891,16.5028773646504]]]},"properties":{"region_id":"village_599711","name":"GUNDAKANAL","parent":"subdistrict_7073","parent_name":"TALIKOTI"}}
+]}

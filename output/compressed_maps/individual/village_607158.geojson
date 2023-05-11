@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.92051641753083,14.22734348750495],[74.89855367307045,14.22813322977672],[74.89309014538534,14.20522117345431],[74.89994607694986,14.19674685297183],[74.91529069588093,14.20049300926144],[74.92051641753083,14.22734348750495]]]},"properties":{"region_id":"village_607158","name":"TALAGUPPA","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19508223370225,13.12914686001566],[76.18691251534396,13.12571902938405],[76.18627344284093,13.11821345551838],[76.20041390701057,13.11978784202285],[76.19508223370225,13.12914686001566]]]},"properties":{"region_id":"village_615956","name":"CHIGATIHALLI","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

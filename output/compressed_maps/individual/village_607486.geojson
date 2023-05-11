@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.16482394177373,14.51829560456384],[75.11925587791129,14.51337765318248],[75.11453947412598,14.50245390073119],[75.14662483516182,14.49956129215637],[75.16482394177373,14.51829560456384]]]},"properties":{"region_id":"village_607486","name":"BETTADAKURLI STATE FOREST","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

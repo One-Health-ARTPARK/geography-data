@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.66181452244847,12.83481688307788],[77.64899073709466,12.83942891632201],[77.64948639746005,12.8269279255346],[77.66145697243026,12.82281641422756],[77.66181452244847,12.83481688307788]]]},"properties":{"region_id":"village_613356","name":"MARAGONDAHALLI (CT)","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

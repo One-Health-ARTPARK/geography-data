@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.61608480651765,15.5369641910396],[74.60622999897524,15.54067086728407],[74.60811335687397,15.52472259365704],[74.64509185185894,15.5228743818282],[74.63608483155014,15.53418257226609],[74.61608480651765,15.5369641910396]]]},"properties":{"region_id":"village_597989","name":"GUNDAPI","parent":"subdistrict_5439","parent_name":"KHANAPUR"}}
+]}

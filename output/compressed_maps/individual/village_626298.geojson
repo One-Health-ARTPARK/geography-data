@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15234257097843,12.54717401304904],[77.14988897939244,12.56060225577092],[77.13865943969618,12.55724874129906],[77.1408518192733,12.54281179983058],[77.15234257097843,12.54717401304904]]]},"properties":{"region_id":"village_626298","name":"KRISHNAPURA","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

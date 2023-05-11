@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.48810031879664,13.62141447695364],[77.47129576331305,13.63557434476436],[77.4514994442728,13.62699588902664],[77.46819782491018,13.61439031246632],[77.48810031879664,13.62141447695364]]]},"properties":{"region_id":"village_623251","name":"MARALUR","parent":"subdistrict_5595","parent_name":"GAURIBIDANUR"}}
+]}

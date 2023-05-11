@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50484436798656,13.13279049030361],[77.52410026826077,13.13244476280981],[77.52151263492114,13.14583367884279],[77.51144761548281,13.14744627968862],[77.50484436798656,13.13279049030361]]]},"properties":{"region_id":"village_612863","name":"SHIVAKOTE","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

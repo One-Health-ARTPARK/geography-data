@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.52446887807199,13.62929429789463],[75.50460487608039,13.62186073496711],[75.50930260679675,13.60775604060862],[75.52121118904073,13.60314857037877],[75.52446887807199,13.62929429789463]]]},"properties":{"region_id":"village_609062","name":"HILUVALLI","parent":"subdistrict_5527","parent_name":"NARASIMHARAJAPURA"}}
+]}

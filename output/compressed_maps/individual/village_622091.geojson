@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.23430445500632,13.0728989645016],[78.23095483813584,13.08482171164777],[78.22315885820058,13.07622891175027],[78.23430445500632,13.0728989645016]]]},"properties":{"region_id":"village_622091","name":"CHAMARAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

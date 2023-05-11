@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.328565755833,16.20809766767308],[77.2934785443711,16.21492188470669],[77.30580679214364,16.19492291596483],[77.328565755833,16.20809766767308]]]},"properties":{"region_id":"village_600783","name":"ASKIHAL","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75050507480064,13.4439066052802],[74.74596421763604,13.43111843965047],[74.76782994573604,13.42330474704285],[74.78025863375625,13.42997035857368],[74.75050507480064,13.4439066052802]]]},"properties":{"region_id":"village_608791","name":"CHANTHAR","parent":"subdistrict_7068","parent_name":"BRAHMAVARA"}}
+]}

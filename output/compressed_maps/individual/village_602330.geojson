@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23074178556706,15.56012881206579],[75.22774400919182,15.61671870355656],[75.20706600434177,15.61389936574597],[75.21021429798755,15.58223872214095],[75.23074178556706,15.56012881206579]]]},"properties":{"region_id":"village_602330","name":"SHIRKOL","parent":"subdistrict_5474","parent_name":"NAVALGUND"}}
+]}

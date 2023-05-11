@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.78697252415535,12.67788029168089],[76.75562827249193,12.67929453927621],[76.75547920030158,12.67232654919592],[76.7773705750813,12.67022231444386],[76.78697252415535,12.67788029168089]]]},"properties":{"region_id":"village_614353","name":"M.HATNA","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

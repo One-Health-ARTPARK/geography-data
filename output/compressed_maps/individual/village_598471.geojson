@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.45308355294193,16.56893149821234],[75.43664649795001,16.57710309887814],[75.42617256478141,16.53088244861011],[75.44095441411247,16.52499749630708],[75.45308355294193,16.56893149821234]]]},"properties":{"region_id":"village_598471","name":"JANAWAD","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

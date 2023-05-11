@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.29725238766545,16.20970254298657],[75.32496208113281,16.22146820297384],[75.33575149516709,16.24314422047705],[75.29087449853917,16.24122870561255],[75.29725238766545,16.20970254298657]]]},"properties":{"region_id":"village_598597","name":"PETLUR","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

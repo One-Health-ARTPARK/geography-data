@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15374860095906,17.90727105031062],[77.11897105283084,17.89475038015569],[77.13977486356917,17.87686669360921],[77.15374860095906,17.90727105031062]]]},"properties":{"region_id":"village_600261","name":"HANDIKHERA","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

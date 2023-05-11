@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.95953220841622,13.26951578793436],[77.93831765491153,13.26778017779386],[77.95586239045744,13.24915070518782],[77.95953220841622,13.26951578793436]]]},"properties":{"region_id":"village_621746","name":"BEECHAGONDAHALLI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

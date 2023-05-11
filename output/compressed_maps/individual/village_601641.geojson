@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53058129990117,15.54167796650244],[76.51206080791539,15.5441740329143],[76.51166859876379,15.51644868596295],[76.529496768952,15.51869923903872],[76.53058129990117,15.54167796650244]]]},"properties":{"region_id":"village_601641","name":"GULDAL","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82220113963179,16.41410372166412],[75.82628992925756,16.42903725767496],[75.80238806869906,16.43173482316666],[75.79746473800643,16.41703065734601],[75.82220113963179,16.41410372166412]]]},"properties":{"region_id":"village_599475","name":"ARASANGI","parent":"subdistrict_7072","parent_name":"KOLHAR"}}
+]}

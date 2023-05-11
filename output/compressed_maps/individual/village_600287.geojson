@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21506842874004,17.8070729880707],[77.20370368221695,17.81361754269926],[77.19529722279657,17.80953389854074],[77.20446622392173,17.79887752150798],[77.21506842874004,17.8070729880707]]]},"properties":{"region_id":"village_600287","name":"MALKAPUR","parent":"subdistrict_5458","parent_name":"HOMNABAD"}}
+]}

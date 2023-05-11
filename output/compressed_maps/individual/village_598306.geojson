@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.21798756631192,16.12858384871259],[75.19645468815484,16.12611832664001],[75.21998069931946,16.09513273275985],[75.21798756631192,16.12858384871259]]]},"properties":{"region_id":"village_598306","name":"KADAMPUR","parent":"subdistrict_5442","parent_name":"RAMDURG"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.8904011803234,13.84262059281556],[77.89163171708682,13.85994921113629],[77.87741833407618,13.84719150814232],[77.8904011803234,13.84262059281556]]]},"properties":{"region_id":"village_623826","name":"KANAMPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

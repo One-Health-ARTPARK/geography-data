@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.89795258406423,14.98430766068028],[75.90343640304725,15.01426798267018],[75.88806976290914,15.02168792260631],[75.8687910395619,15.00622623850161],[75.88024384320191,14.97455765044096],[75.89795258406423,14.98430766068028]]]},"properties":{"region_id":"village_604616","name":"HALATHIMALAPURA","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

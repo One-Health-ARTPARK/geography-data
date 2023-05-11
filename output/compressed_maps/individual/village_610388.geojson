@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.92933475601457,13.73417551849376],[76.9089236455527,13.73383201921936],[76.90338313904809,13.71669674448768],[76.93059071941066,13.71369615315628],[76.92933475601457,13.73417551849376]]]},"properties":{"region_id":"village_610388","name":"GUMMANAHALLI","parent":"subdistrict_5533","parent_name":"SIRA"}}
+]}

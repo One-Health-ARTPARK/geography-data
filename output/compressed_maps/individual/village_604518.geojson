@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.65507001935066,14.73428184339163],[75.62386383016971,14.73728022573442],[75.6256320031307,14.72616022348281],[75.65507001935066,14.73428184339163]]]},"properties":{"region_id":"village_604518","name":"KERIMALLAPUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

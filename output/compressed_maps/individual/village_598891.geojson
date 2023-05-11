@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93748592217362,16.01540425403991],[75.89183955207086,15.99459608752295],[75.88702552862611,15.95719606487146],[75.92927140348218,15.96372368394688],[75.93748592217362,16.01540425403991]]]},"properties":{"region_id":"village_598891","name":"KELUR","parent":"subdistrict_7062","parent_name":"ILKAL"}}
+]}

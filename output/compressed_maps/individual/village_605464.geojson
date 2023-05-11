@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.2537503410744,14.33481206312828],[76.24788916795775,14.3297424143328],[76.24406481847834,14.30435693586696],[76.25567208825748,14.31089681747497],[76.2537503410744,14.33481206312828]]]},"properties":{"region_id":"village_605464","name":"HIREBENNUR","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

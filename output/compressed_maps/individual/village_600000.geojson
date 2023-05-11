@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31763580676693,18.25227446279049],[77.30629039597763,18.26352022127817],[77.28529832771471,18.25156317899851],[77.28746954360287,18.23750931061263],[77.31763580676693,18.25227446279049]]]},"properties":{"region_id":"village_600000","name":"BHAVANI BIJALGAON","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

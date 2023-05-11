@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.90323367201329,14.26456941391092],[74.88014818069554,14.27375840458413],[74.87880639293269,14.2474931880659],[74.9050211168816,14.2518724904953],[74.90323367201329,14.26456941391092]]]},"properties":{"region_id":"village_603676","name":"KALLUR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

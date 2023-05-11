@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69824904338172,12.21668685837837],[76.69398831988934,12.20108577340292],[76.71633325395096,12.19233459467],[76.71866256713925,12.21094056382671],[76.69824904338172,12.21668685837837]]]},"properties":{"region_id":"village_618817","name":"SOMESHWARAPURA","parent":"subdistrict_5572","parent_name":"MYSURU"}}
+]}

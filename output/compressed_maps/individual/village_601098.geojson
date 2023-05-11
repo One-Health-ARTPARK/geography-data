@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.71943487692802,15.94613980549858],[76.71022977270157,15.94962815737527],[76.6989403012561,15.90500843705672],[76.70119883493435,15.90160949350885],[76.7170652948431,15.90086101704569],[76.71943487692802,15.94613980549858]]]},"properties":{"region_id":"village_601098","name":"UDBAL (UMLI)","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

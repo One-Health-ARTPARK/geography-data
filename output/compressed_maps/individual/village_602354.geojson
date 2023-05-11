@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.43790850678407,15.56063309186792],[75.39053924215389,15.55153283109711],[75.39665385432153,15.51632161000071],[75.41752232666708,15.51111694295077],[75.44481456666053,15.51648333731273],[75.43790850678407,15.56063309186792]]]},"properties":{"region_id":"village_602354","name":"IBRAHIMPUR","parent":"subdistrict_7080","parent_name":"ANNIGERI"}}
+]}

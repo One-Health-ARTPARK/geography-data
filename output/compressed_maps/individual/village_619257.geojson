@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.59367278210162,12.07811056712553],[76.59725805729269,12.08396319613654],[76.59126523259658,12.08847153482751],[76.58592751129487,12.08252996306162],[76.59367278210162,12.07811056712553]]]},"properties":{"region_id":"village_619257","name":"KANIPURA","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

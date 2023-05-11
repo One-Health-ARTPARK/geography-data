@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.54284447117745,14.94213306889617],[75.52306669466908,14.9431379659906],[75.52513209479697,14.92563009848067],[75.54720998204196,14.92402551770145],[75.54284447117745,14.94213306889617]]]},"properties":{"region_id":"village_604224","name":"HANDIGANUR","parent":"subdistrict_5492","parent_name":"HAVERI"}}
+]}

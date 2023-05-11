@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.03982830889107,12.38821080677023],[76.02923136013125,12.3895258448148],[76.02987591601219,12.3776667081866],[76.0409132626611,12.37469724296112],[76.03982830889107,12.38821080677023]]]},"properties":{"region_id":"village_618240","name":"KUNDANAHALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

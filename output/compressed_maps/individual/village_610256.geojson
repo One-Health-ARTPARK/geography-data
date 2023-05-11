@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.63460555847851,13.33944125607038],[76.63684540039648,13.33368636771484],[76.64121240717296,13.33824426613006],[76.63460555847851,13.33944125607038]]]},"properties":{"region_id":"village_610256","name":"NAGENAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

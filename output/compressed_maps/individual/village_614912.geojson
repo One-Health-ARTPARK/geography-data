@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.83473758177394,12.95343400385578],[75.81917104348587,12.93218043151891],[75.84048840079971,12.92965501110618],[75.83473758177394,12.95343400385578]]]},"properties":{"region_id":"village_614912","name":"MATASAGARA","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

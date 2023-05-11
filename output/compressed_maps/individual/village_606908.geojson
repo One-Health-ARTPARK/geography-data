@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84589715915645,14.22617098034829],[75.83063702410347,14.2038613781433],[75.85505095754016,14.20042554781658],[75.84589715915645,14.22617098034829]]]},"properties":{"region_id":"village_606908","name":"CHIRADONI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

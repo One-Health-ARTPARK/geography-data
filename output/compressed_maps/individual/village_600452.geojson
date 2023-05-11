@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57157799442797,16.28889815589805],[76.56775780653739,16.31343041219072],[76.53917052921659,16.31232839539206],[76.55980119602422,16.28413583448197],[76.57157799442797,16.28889815589805]]]},"properties":{"region_id":"village_600452","name":"RAMALOOTI","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

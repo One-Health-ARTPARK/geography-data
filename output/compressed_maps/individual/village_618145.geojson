@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.9700317330822,12.43468019125948],[75.95389937564421,12.42487373731502],[75.9666569185696,12.40503600201384],[75.9765347182887,12.41949707325568],[75.9700317330822,12.43468019125948]]]},"properties":{"region_id":"village_618145","name":"ARALIKUMARI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

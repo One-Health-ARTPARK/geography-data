@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.05304850671676,12.36791561853572],[77.02542257862913,12.37065834563111],[77.03298013238131,12.34813118245202],[77.05304850671676,12.36791561853572]]]},"properties":{"region_id":"village_614690","name":"RAGIBOMMANAHALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.10724008020613,13.52080046104822],[76.10121864446714,13.50005965472016],[76.11096671077202,13.50061059388156],[76.10724008020613,13.52080046104822]]]},"properties":{"region_id":"village_609488","name":"MADALU","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

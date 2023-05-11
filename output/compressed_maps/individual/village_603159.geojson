@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.68124403919161,14.6266623482641],[74.6740511903294,14.61577573409676],[74.68855554819122,14.60909353751628],[74.69130006771077,14.62521471713139],[74.68124403919161,14.6266623482641]]]},"properties":{"region_id":"village_603159","name":"ONIGADDE","parent":"subdistrict_5483","parent_name":"SIRSI"}}
+]}

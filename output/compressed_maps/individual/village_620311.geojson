@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.72501712100643,17.15701214986936],[76.71866679189662,17.16807627762613],[76.67008748885816,17.1527562014744],[76.71729748669014,17.13979402314045],[76.72501712100643,17.15701214986936]]]},"properties":{"region_id":"village_620311","name":"KAWALGA (K)","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

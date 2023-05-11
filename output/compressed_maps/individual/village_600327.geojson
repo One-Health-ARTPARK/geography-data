@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.28660353529014,17.68095905123382],[77.23828860954352,17.69157877708055],[77.24105750397948,17.66308639987623],[77.26647698555817,17.66134472229439],[77.28660353529014,17.68095905123382]]]},"properties":{"region_id":"village_600327","name":"UDBAL","parent":"subdistrict_7084","parent_name":"CHITAGUPPA"}}
+]}

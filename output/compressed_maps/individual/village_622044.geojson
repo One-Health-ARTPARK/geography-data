@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.1411725593938,13.08858231559229],[78.13086882248494,13.08674408452754],[78.1242486379992,13.06935609946596],[78.14080861248992,13.07089727695912],[78.1411725593938,13.08858231559229]]]},"properties":{"region_id":"village_622044","name":"KOOTERI","parent":"subdistrict_5591","parent_name":"KOLAR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.55692800029072,13.04377400006903],[77.53469299961556,13.0548449998807],[77.5221829998389,13.04584699986558],[77.54077799981329,13.03243500013633],[77.55692800029072,13.04377400006903]]]},"properties":{"region_id":"ward_bbmp16","name":"WARD NO.16 (JALAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

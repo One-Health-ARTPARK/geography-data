@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.60852998389288,16.34644595849826],[74.62269533954843,16.34504823049762],[74.62013745219535,16.36252706460551],[74.60797129699893,16.3595303579924],[74.60852998389288,16.34644595849826]]]},"properties":{"region_id":"village_597233","name":"BENNIHALLI","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.56226637044115,15.9975138684646],[74.51964314507954,15.99128098943208],[74.54127655022731,15.96446778181152],[74.57235390774945,15.97152199317431],[74.56226637044115,15.9975138684646]]]},"properties":{"region_id":"village_597675","name":"HEGGERE","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.34381187760144,12.50444361755622],[77.33773893354488,12.50353010784045],[77.33711119234644,12.49682079648349],[77.34551932972069,12.49708699688337],[77.34381187760144,12.50444361755622]]]},"properties":{"region_id":"village_626509","name":"MEDANAHALLI","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

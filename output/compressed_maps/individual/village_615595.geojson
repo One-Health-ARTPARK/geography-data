@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24567713344749,13.38804252850482],[76.23156722009597,13.38902374016581],[76.23114537807696,13.38327150553559],[76.24068979446716,13.38288335246179],[76.24567713344749,13.38804252850482]]]},"properties":{"region_id":"village_615595","name":"KEMPASAGARA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

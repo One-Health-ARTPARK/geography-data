@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.46969654622995,13.59730852458451],[76.47628051639529,13.62105783606],[76.46106913000068,13.62015610290792],[76.46969654622995,13.59730852458451]]]},"properties":{"region_id":"village_610099","name":"SINGAPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

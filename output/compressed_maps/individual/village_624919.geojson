@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.37816331590474,13.05236944963415],[77.37132715130217,13.07255131399985],[77.35829079515258,13.0561881560402],[77.37816331590474,13.05236944963415]]]},"properties":{"region_id":"village_624919","name":"HANCHIPURA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

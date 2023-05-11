@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6156478753295,16.87113400294298],[76.58578794569215,16.86674244112227],[76.57932456695241,16.83821794848607],[76.60416558349586,16.83531016997007],[76.6156478753295,16.87113400294298]]]},"properties":{"region_id":"village_620791","name":"HANGERGA (B)","parent":"subdistrict_7089","parent_name":"YADRAMI"}}
+]}

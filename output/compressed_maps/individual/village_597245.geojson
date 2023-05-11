@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80328462427379,16.3287197478773],[74.77878874504239,16.33166536468796],[74.76956880598573,16.30810826936129],[74.80324776590778,16.32077705725337],[74.80328462427379,16.3287197478773]]]},"properties":{"region_id":"village_597245","name":"MAMADAPUR (KK)","parent":"subdistrict_5433","parent_name":"CHIKODI"}}
+]}

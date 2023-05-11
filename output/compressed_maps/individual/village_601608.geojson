@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.43804095503661,15.47258590048702],[76.41774920847891,15.46939562813797],[76.41013725895371,15.45369068501529],[76.42020838488864,15.44613056043684],[76.43804095503661,15.47258590048702]]]},"properties":{"region_id":"village_601608","name":"BANDERHAL","parent":"subdistrict_5466","parent_name":"GANGAWATI"}}
+]}

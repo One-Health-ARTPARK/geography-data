@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.79027248093857,13.54738058585225],[74.78055417791406,13.56406813819117],[74.77247048186199,13.56008907787246],[74.77364125819014,13.54308817754838],[74.79027248093857,13.54738058585225]]]},"properties":{"region_id":"village_608744","name":"HESKATHOOR","parent":"subdistrict_5522","parent_name":"KUNDAPURA"}}
+]}

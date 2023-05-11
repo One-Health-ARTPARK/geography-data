@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.39753589776912,12.46231262678321],[76.40014496347307,12.46823895887054],[76.39936015674608,12.47021559329849],[76.39086743518638,12.46843556317775],[76.38902623538682,12.45973732659675],[76.39753589776912,12.46231262678321]]]},"properties":{"region_id":"village_938898","name":"KRUSHNARAJANAGARA","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

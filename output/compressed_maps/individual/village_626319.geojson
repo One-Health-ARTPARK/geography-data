@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.22824006288646,12.53170965241272],[77.21889633294909,12.5307209437317],[77.22045069133995,12.5202915686674],[77.22666076666191,12.51993609546999],[77.22824006288646,12.53170965241272]]]},"properties":{"region_id":"village_626319","name":"VODDARAHALLI","parent":"subdistrict_5607","parent_name":"CHANNAPATNA"}}
+]}

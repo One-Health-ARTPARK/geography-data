@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67111229124365,17.22994120871741],[76.67197586656144,17.21135050708409],[76.70404989750227,17.21962473546366],[76.70489201718992,17.23281761331693],[76.67111229124365,17.22994120871741]]]},"properties":{"region_id":"village_620297","name":"GAROOR (B)","parent":"subdistrict_5582","parent_name":"KALABURAGI"}}
+]}

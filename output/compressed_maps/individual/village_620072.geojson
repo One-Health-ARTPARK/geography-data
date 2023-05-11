@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67854144855188,17.42496379406515],[76.66810897683855,17.37569392562097],[76.69829466805467,17.38968371675702],[76.67854144855188,17.42496379406515]]]},"properties":{"region_id":"village_620072","name":"SUNTHNOOR","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

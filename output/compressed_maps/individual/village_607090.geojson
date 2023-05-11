@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.01632096684182,14.01247283131823],[76.00209149651147,14.01294346017312],[76.00173442865444,13.9990697553623],[76.01877332495758,13.99626186086516],[76.01632096684182,14.01247283131823]]]},"properties":{"region_id":"village_607090","name":"BANNIHATTI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

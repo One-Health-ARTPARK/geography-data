@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.58902931258807,14.11283085122887],[75.57489583820661,14.10418829216734],[75.59320699046779,14.07778166061785],[75.60415855345829,14.08383053352078],[75.58902931258807,14.11283085122887]]]},"properties":{"region_id":"village_606750","name":"PALAVANAHALLI","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

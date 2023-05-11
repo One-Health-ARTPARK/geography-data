@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70524350739677,16.09168803782382],[76.68620874381496,16.09624739766452],[76.68969991427424,16.0719538690048],[76.71948513584302,16.07253663824544],[76.70524350739677,16.09168803782382]]]},"properties":{"region_id":"village_600893","name":"ANANDGAL","parent":"subdistrict_7101","parent_name":"MASKI"}}
+]}

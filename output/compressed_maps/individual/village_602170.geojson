@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.84340165740515,15.16096869140888],[75.84425500710914,15.19064677356863],[75.82084402136478,15.18469036789679],[75.82404392931568,15.15373539739256],[75.84340165740515,15.16096869140888]]]},"properties":{"region_id":"village_602170","name":"KALKERI","parent":"subdistrict_5472","parent_name":"MUNDARGI"}}
+]}

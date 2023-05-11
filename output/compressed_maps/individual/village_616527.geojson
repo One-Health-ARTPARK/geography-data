@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.97026019518573,12.73181892678053],[75.96779339295286,12.72259989974189],[75.99098977064456,12.72338299483059],[75.97026019518573,12.73181892678053]]]},"properties":{"region_id":"village_616527","name":"HONDARAVALLY","parent":"subdistrict_5558","parent_name":"ARKALGUD"}}
+]}

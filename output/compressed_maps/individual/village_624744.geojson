@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.24830552031958,13.23371047368148],[77.23656331286406,13.23370846976964],[77.23444174484952,13.22209300695262],[77.24628597260642,13.22319748052207],[77.24830552031958,13.23371047368148]]]},"properties":{"region_id":"village_624744","name":"SOMPURA","parent":"subdistrict_5601","parent_name":"NELAMANGALA"}}
+]}

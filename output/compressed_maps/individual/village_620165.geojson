@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.69371614229003,17.28735432130013],[76.67193094555758,17.28270273616616],[76.67660182369622,17.25632957479349],[76.6921400025868,17.26766451382685],[76.69371614229003,17.28735432130013]]]},"properties":{"region_id":"village_620165","name":"GOBBUR (K)","parent":"subdistrict_5581","parent_name":"AFZALPUR"}}
+]}

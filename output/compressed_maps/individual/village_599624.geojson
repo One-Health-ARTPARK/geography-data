@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15591098343957,16.33116667721488],[76.12471522874178,16.32675266049998],[76.14220833177454,16.3046299331406],[76.15591098343957,16.33116667721488]]]},"properties":{"region_id":"village_599624","name":"SHIROL","parent":"subdistrict_5453","parent_name":"MUDDEBIHAL"}}
+]}

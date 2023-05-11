@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4664716520965,14.90390775588556],[75.44240286896441,14.91905028759821],[75.4441567256692,14.89139442250002],[75.4664716520965,14.90390775588556]]]},"properties":{"region_id":"village_604032","name":"HIREMUGADUR","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

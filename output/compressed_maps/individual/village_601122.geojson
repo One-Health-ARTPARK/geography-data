@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45673967744472,15.80369863951682],[76.47890971867986,15.85388927181015],[76.46368216391242,15.85809193678267],[76.45841803314086,15.83205060752252],[76.44227208287325,15.82433778061205],[76.45673967744472,15.80369863951682]]]},"properties":{"region_id":"village_601122","name":"BOMMANHAL - (EJ)","parent":"subdistrict_5463","parent_name":"SINDHNUR"}}
+]}

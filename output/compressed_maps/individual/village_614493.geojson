@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.9765777383359,12.50793623412529],[76.96447786930284,12.5120602429185],[76.96324988204724,12.50105461101219],[76.9765777383359,12.50793623412529]]]},"properties":{"region_id":"village_614493","name":"HEMMIGE","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

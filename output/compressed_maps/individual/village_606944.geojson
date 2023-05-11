@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00575779809277,14.23085098075241],[75.97719320916966,14.24375899258105],[75.97096844832173,14.22069121449691],[75.99390265226779,14.20811236017746],[76.00575779809277,14.23085098075241]]]},"properties":{"region_id":"village_606944","name":"TANIGERE","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

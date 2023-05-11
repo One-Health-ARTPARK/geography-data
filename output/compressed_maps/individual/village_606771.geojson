@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.59517494459818,14.2433392788086],[75.56469272662459,14.25819189080389],[75.56343840369483,14.24169905347598],[75.58892992597819,14.22515002273096],[75.59517494459818,14.2433392788086]]]},"properties":{"region_id":"village_606771","name":"DODDERAHALLI","parent":"subdistrict_5513","parent_name":"HONNALI"}}
+]}

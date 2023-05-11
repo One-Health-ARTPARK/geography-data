@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.87620538900329,14.17327514006604],[75.84686012634918,14.16933347118052],[75.85911150125796,14.1505178065791],[75.87620538900329,14.17327514006604]]]},"properties":{"region_id":"village_606916","name":"HOSAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

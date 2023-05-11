@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.67762861852911,16.21463510063289],[74.67414941100327,16.23673997461952],[74.63412927172025,16.23068491507254],[74.66122030744538,16.20777569930447],[74.67762861852911,16.21463510063289]]]},"properties":{"region_id":"village_597604","name":"SHIRAGAON","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

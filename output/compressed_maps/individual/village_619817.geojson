@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.30945429129503,12.2109886428748],[77.31974594491021,12.21953027572829],[77.28560740351826,12.25995966249745],[77.25286398312407,12.22754026290949],[77.30945429129503,12.2109886428748]]]},"properties":{"region_id":"village_619817","name":"TELLANUR","parent":"subdistrict_5579","parent_name":"KOLLEGAL"}}
+]}

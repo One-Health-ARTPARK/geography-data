@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23334374667674,13.74719510172362],[75.20946356776112,13.73582121853974],[75.22652581434657,13.72562879184136],[75.23334374667674,13.74719510172362]]]},"properties":{"region_id":"village_608201","name":"SARALA","parent":"subdistrict_5519","parent_name":"TIRTHAHALLI"}}
+]}

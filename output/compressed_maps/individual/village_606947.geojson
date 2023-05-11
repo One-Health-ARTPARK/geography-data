@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.02973437191484,14.24615251217094],[76.01933278577322,14.24576164517105],[76.01495549880445,14.23636351865046],[76.0297629824677,14.23524735385903],[76.02973437191484,14.24615251217094]]]},"properties":{"region_id":"village_606947","name":"NARASIPURA","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

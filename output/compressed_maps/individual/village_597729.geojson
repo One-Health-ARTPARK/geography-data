@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.39320395320867,15.81858193605724],[74.37642405291928,15.8077942294882],[74.39149754569917,15.79105687037354],[74.40716033656426,15.80069958003924],[74.42974181785351,15.80744163679723],[74.39320395320867,15.81858193605724]]]},"properties":{"region_id":"village_597729","name":"BIJAGARNI","parent":"subdistrict_5438","parent_name":"BELAGAVI"}}
+]}

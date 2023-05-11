@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.53533760295564,12.6705498448852],[76.53123136848855,12.67458464403972],[76.52323924856204,12.67501225992052],[76.52383621085669,12.66884092899741],[76.53533760295564,12.6705498448852]]]},"properties":{"region_id":"village_613491","name":"ATTIMARANAHALLY","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

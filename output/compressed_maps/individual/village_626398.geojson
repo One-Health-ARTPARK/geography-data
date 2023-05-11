@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51055878998804,12.58266939256893],[77.50295209187784,12.59909362185409],[77.4864527080394,12.58847067394533],[77.50099550832701,12.57752917458789],[77.51055878998804,12.58266939256893]]]},"properties":{"region_id":"village_626398","name":"THOKASANDRA","parent":"subdistrict_7196","parent_name":"HAROHALLI"}}
+]}

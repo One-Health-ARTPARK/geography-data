@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.26024195860917,13.46863042600387],[75.23382582359075,13.47688004327622],[75.23497766359698,13.45586469852271],[75.26024195860917,13.46863042600387]]]},"properties":{"region_id":"village_608943","name":"MELUKOPPA","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4632017010087,16.69969716532848],[75.48806414603334,16.69453790393708],[75.48149481190563,16.74243883910267],[75.4632017010087,16.69969716532848]]]},"properties":{"region_id":"village_598454","name":"KALBILAGI","parent":"subdistrict_5443","parent_name":"JAMKHANDI"}}
+]}

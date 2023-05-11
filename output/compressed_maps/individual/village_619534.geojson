@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.81698084861074,11.75746470722369],[76.80743288999625,11.76911864869554],[76.79335351822958,11.76017876441183],[76.79231589205202,11.75269293048925],[76.81698084861074,11.75746470722369]]]},"properties":{"region_id":"village_619534","name":"BELAKUPPE","parent":"subdistrict_5576","parent_name":"GUNDLUPET"}}
+]}

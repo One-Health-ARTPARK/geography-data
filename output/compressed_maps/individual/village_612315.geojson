@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.8042862247172,13.17832128376118],[76.79318158644296,13.16968305722671],[76.80399131051985,13.16154587117884],[76.8042862247172,13.17832128376118]]]},"properties":{"region_id":"village_612315","name":"AYARAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.09183874223926,16.61371544618518],[77.03346513844993,16.61141748390906],[77.04000240629533,16.56520722698504],[77.11610287653168,16.55918462413275],[77.09183874223926,16.61371544618518]]]},"properties":{"region_id":"village_621192","name":"WADGERA","parent":"subdistrict_7095","parent_name":"WADAGERA"}}
+]}

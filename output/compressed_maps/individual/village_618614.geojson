@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.26604862295652,12.49911617946904],[76.27146760461116,12.51052731883037],[76.26497924548823,12.51535752602676],[76.25537018965547,12.50704967473236],[76.26604862295652,12.49911617946904]]]},"properties":{"region_id":"village_618614","name":"DIDDAHALLI","parent":"subdistrict_7230","parent_name":"SALIGRAMA"}}
+]}

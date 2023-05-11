@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.80021420511758,14.37032272689935],[74.78382162998965,14.37208965028547],[74.77428359476481,14.36890323113035],[74.78549844187317,14.36373619024477],[74.79011114633893,14.36929590378952],[74.80021420511758,14.37032272689935]]]},"properties":{"region_id":"village_603645","name":"NIRGAR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

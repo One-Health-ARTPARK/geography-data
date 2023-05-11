@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.93645194217515,16.34892408437678],[76.92817485927876,16.35478762450427],[76.92720523088211,16.34291116796051],[76.93645194217515,16.34892408437678]]]},"properties":{"region_id":"village_600678","name":"CHIKKALDODDI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

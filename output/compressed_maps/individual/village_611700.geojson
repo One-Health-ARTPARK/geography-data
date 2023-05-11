@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.94684102933722,13.47861472770566],[76.93791772947044,13.47687328499466],[76.93853525725004,13.45555277205212],[76.94838859941194,13.45195625635269],[76.95269771530364,13.47456285840487],[76.94684102933722,13.47861472770566]]]},"properties":{"region_id":"village_611700","name":"THONACHANAHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

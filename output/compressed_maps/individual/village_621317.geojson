@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.26814124711761,16.71469064030241],[77.24515441646007,16.7068801041904],[77.25334671258199,16.6910255976496],[77.28090179328761,16.69667865891669],[77.26814124711761,16.71469064030241]]]},"properties":{"region_id":"village_621317","name":"NAGALAPUR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

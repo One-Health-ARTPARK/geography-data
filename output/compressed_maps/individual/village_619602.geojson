@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85209788318677,12.15895808687346],[76.84107364630603,12.14553550640889],[76.87125061809309,12.14087823195373],[76.86845801198973,12.15913072047464],[76.85209788318677,12.15895808687346]]]},"properties":{"region_id":"village_619602","name":"NAVILUR","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

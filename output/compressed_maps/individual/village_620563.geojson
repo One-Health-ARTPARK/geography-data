@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.4598807935788,17.07064151339364],[77.44288705171343,17.07731103029049],[77.4414934792172,17.05294487956643],[77.45881234332657,17.05452902452658],[77.4598807935788,17.07064151339364]]]},"properties":{"region_id":"village_620563","name":"KHANDERAYANPALLI","parent":"subdistrict_5584","parent_name":"SEDAM"}}
+]}

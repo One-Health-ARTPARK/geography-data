@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76948207739348,13.74830984789138],[75.75821926364837,13.75028370616867],[75.7599397209539,13.74064458295547],[75.77123521769676,13.74027678523216],[75.76948207739348,13.74830984789138]]]},"properties":{"region_id":"village_609137","name":"HURULIHALLI","parent":"subdistrict_5528","parent_name":"TARIKERE"}}
+]}

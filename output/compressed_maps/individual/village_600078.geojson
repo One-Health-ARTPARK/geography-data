@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.50541265015977,18.24341028112265],[77.49654688447384,18.22623170575918],[77.51738337129771,18.22353586400249],[77.52021089419488,18.23729125912167],[77.50541265015977,18.24341028112265]]]},"properties":{"region_id":"village_600078","name":"KHASIMPUR(A)","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

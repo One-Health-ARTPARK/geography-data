@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.03598367262305,14.70970451577145],[75.03221260994626,14.69490639097943],[75.04779349804727,14.69981518520687],[75.03598367262305,14.70970451577145]]]},"properties":{"region_id":"village_604123","name":"SAMMASGI","parent":"subdistrict_5491","parent_name":"HANGAL"}}
+]}

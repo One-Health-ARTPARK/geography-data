@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.31943339361695,12.74327397540633],[77.30674680938067,12.75218517875322],[77.30554732442974,12.73924943490808],[77.31943339361695,12.74327397540633]]]},"properties":{"region_id":"village_626089","name":"BASAVANAPURA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21076910828552,16.71115164347347],[77.15885276125539,16.70727199595445],[77.17475036355634,16.68658569390175],[77.19240392756363,16.70537780549686],[77.21076910828552,16.71115164347347]]]},"properties":{"region_id":"village_621309","name":"MUSTUR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

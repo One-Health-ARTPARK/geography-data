@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.61026800036927,13.03816100018204],[77.59745600010326,13.04120499984377],[77.59940899998222,13.02847199986676],[77.61026800036927,13.03816100018204]]]},"properties":{"region_id":"ward_bbmp22","name":"WARD NO.22 (VISHWANATH NAGENAHALLI)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

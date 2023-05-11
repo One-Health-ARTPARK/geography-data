@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.8520951938223,14.16951965154351],[74.84340738113303,14.16382300750956],[74.8274123183583,14.17160985765535],[74.82750658782402,14.1541114416488],[74.84964538669077,14.1552525706823],[74.8520951938223,14.16951965154351]]]},"properties":{"region_id":"village_607148","name":"KARUMANE","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

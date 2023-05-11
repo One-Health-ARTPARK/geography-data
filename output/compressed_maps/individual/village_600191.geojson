@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.44412579124683,17.96302614899535],[77.40561954616085,17.98195949728455],[77.40058698845975,17.94795098721411],[77.44412579124683,17.96302614899535]]]},"properties":{"region_id":"village_600191","name":"HONNAKHERI","parent":"subdistrict_5457","parent_name":"BIDAR"}}
+]}

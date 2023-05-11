@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.99708553699243,13.77763094862943],[77.98612959365786,13.77782278223252],[77.99091505502493,13.76461086035962],[77.99707733145924,13.76918497020145],[77.99708553699243,13.77763094862943]]]},"properties":{"region_id":"village_623955","name":"GUNDAMVARIPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

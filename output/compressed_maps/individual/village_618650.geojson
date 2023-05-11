@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.27952900695671,12.41031685089627],[76.28663906746087,12.41931097704378],[76.28265314584215,12.43266707896657],[76.270921075234,12.43560459220453],[76.2721248114608,12.41977087307577],[76.27952900695671,12.41031685089627]]]},"properties":{"region_id":"village_618650","name":"ECHANAHALLI","parent":"subdistrict_5571","parent_name":"KRISHNARAJANAGARA"}}
+]}

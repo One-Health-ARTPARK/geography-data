@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.61648715739814,15.18158557881513],[76.59650086108077,15.18988084144023],[76.59143834162498,15.16479197635719],[76.61088645723365,15.16244140595415],[76.61648715739814,15.18158557881513]]]},"properties":{"region_id":"village_605013","name":"TALUR","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

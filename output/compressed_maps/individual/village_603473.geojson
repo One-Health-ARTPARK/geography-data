@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.56948646456699,14.52632911123843],[74.52186069561402,14.51641803962203],[74.53458070635058,14.48963452232761],[74.56948646456699,14.52632911123843]]]},"properties":{"region_id":"village_603473","name":"KODAMBALE","parent":"subdistrict_5485","parent_name":"KUMTA"}}
+]}

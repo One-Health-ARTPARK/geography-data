@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85428130907614,11.77571306203042],[76.8563054040905,11.78935487030486],[76.82829267388604,11.79113730380037],[76.82797380457524,11.78391121219825],[76.85428130907614,11.77571306203042]]]},"properties":{"region_id":"village_619726","name":"MELURU","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

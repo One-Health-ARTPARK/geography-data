@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.19183015056404,17.04931142012179],[76.16743355957068,17.04899203395669],[76.17705577746403,17.01717640679187],[76.18859573594894,17.0174486084194],[76.19183015056404,17.04931142012179]]]},"properties":{"region_id":"village_599310","name":"NAGARHALLI","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

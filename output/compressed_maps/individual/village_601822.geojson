@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.23196657899085,15.40501976377883],[76.22215145851699,15.40909219287896],[76.21921402095269,15.39329772024764],[76.2279388106833,15.39218214111427],[76.23196657899085,15.40501976377883]]]},"properties":{"region_id":"village_601822","name":"SANGAPUR","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

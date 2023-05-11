@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.72570656270229,13.33853286420243],[77.72804748054439,13.35101494258481],[77.71743074651378,13.35180714002848],[77.71846745210709,13.33873764428595],[77.72570656270229,13.33853286420243]]]},"properties":{"region_id":"village_625312","name":"MUDUGURKI","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

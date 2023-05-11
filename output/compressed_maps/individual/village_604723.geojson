@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.41591435359624,15.2455921090617],[76.3975467952904,15.23776731965589],[76.41563991411002,15.23098775873779],[76.41591435359624,15.2455921090617]]]},"properties":{"region_id":"village_604723","name":"JAMBUNATHANAHALLI","parent":"subdistrict_5498","parent_name":"HOSAPETE"}}
+]}

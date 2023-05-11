@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.45403645895625,17.42936921709197],[76.43000565924784,17.43102930909338],[76.41617444208964,17.38941048148125],[76.44990513007707,17.39175362361534],[76.45403645895625,17.42936921709197]]]},"properties":{"region_id":"village_620082","name":"HADALGI","parent":"subdistrict_5580","parent_name":"ALAND"}}
+]}

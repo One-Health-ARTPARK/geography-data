@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.41518809661333,14.48740587908157],[75.40380483853673,14.48751662207151],[75.39895980982048,14.47207383236114],[75.40829342245938,14.46679457815446],[75.41518809661333,14.48740587908157]]]},"properties":{"region_id":"village_604387","name":"SOMANAHALLI","parent":"subdistrict_5494","parent_name":"HIREKERUR"}}
+]}

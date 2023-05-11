@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.04797132839548,14.20585880646587],[75.03878690421244,14.20433994901568],[75.02813238637884,14.18593337561541],[75.03808672480876,14.17859944777067],[75.05998790178043,14.19721138828186],[75.04797132839548,14.20585880646587]]]},"properties":{"region_id":"village_607195","name":"BHIMANERI","parent":"subdistrict_5515","parent_name":"SAGAR"}}
+]}

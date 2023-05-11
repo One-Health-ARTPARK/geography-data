@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.15377192510887,13.42522376068885],[76.13858081095681,13.41266094892706],[76.1605333635104,13.4065180681798],[76.15377192510887,13.42522376068885]]]},"properties":{"region_id":"village_615527","name":"AGRAHARA","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

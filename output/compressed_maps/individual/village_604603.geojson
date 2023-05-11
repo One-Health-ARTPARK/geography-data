@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.76750212397852,14.91192910126929],[75.76554933528288,14.93727275226164],[75.73717174146334,14.9435104467072],[75.74063390896117,14.91857783438444],[75.76750212397852,14.91192910126929]]]},"properties":{"region_id":"village_604603","name":"KOTIHAL","parent":"subdistrict_5496","parent_name":"HADAGALLI"}}
+]}

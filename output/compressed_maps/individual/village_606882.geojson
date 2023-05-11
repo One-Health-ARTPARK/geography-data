@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.78630532784842,14.22643832948071],[75.74975112784,14.22520831903558],[75.75412560360927,14.21443011053196],[75.78314353365437,14.21321109685032],[75.78630532784842,14.22643832948071]]]},"properties":{"region_id":"village_606882","name":"YALODAHALLI","parent":"subdistrict_5514","parent_name":"CHANNAGIRI"}}
+]}

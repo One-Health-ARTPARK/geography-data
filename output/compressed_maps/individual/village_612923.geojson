@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.73004567831784,13.15554860443567],[77.72223699758122,13.15682749641951],[77.71974794436206,13.14955876813328],[77.7278755646659,13.14617056710345],[77.73004567831784,13.15554860443567]]]},"properties":{"region_id":"village_612923","name":"GOLLAHALLI","parent":"subdistrict_7103","parent_name":"YELAHANKA"}}
+]}

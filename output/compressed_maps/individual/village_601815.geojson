@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.25455234741219,15.4614819296548],[76.22481728679477,15.46726864783757],[76.22208569356182,15.43994509645333],[76.25281896299873,15.44340770850406],[76.25455234741219,15.4614819296548]]]},"properties":{"region_id":"village_601815","name":"YELAMGERA","parent":"subdistrict_5467","parent_name":"KOPPAL"}}
+]}

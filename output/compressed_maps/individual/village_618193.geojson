@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.21933210036593,12.44673404554662],[76.2196843597178,12.45766633801608],[76.20553203879172,12.45800990137685],[76.20577688470394,12.44968410991133],[76.21933210036593,12.44673404554662]]]},"properties":{"region_id":"village_618193","name":"HANDITAVALLI","parent":"subdistrict_5569","parent_name":"PIRIYAPATNA"}}
+]}

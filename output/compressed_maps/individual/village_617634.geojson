@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23888370919617,13.01698306128652],[75.2365654289734,13.0352745727669],[75.21578027339298,13.03438977602893],[75.22320099696492,13.01085625386888],[75.23888370919617,13.01698306128652]]]},"properties":{"region_id":"village_617634","name":"THENKAKARANDURU","parent":"subdistrict_5563","parent_name":"BELTANGADI"}}
+]}

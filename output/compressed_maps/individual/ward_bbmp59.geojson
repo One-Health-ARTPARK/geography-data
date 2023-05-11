@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.63629000020592,13.0039109998034],[77.62269499991694,13.00826300012236],[77.62003100026904,13.00005399976379],[77.63748699963007,12.99286399980514],[77.63629000020592,13.0039109998034]]]},"properties":{"region_id":"ward_bbmp59","name":"WARD NO.59 (MARUTHI SEVA NAGAR)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

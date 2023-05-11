@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.93730426392277,12.79456353741473],[75.9264300326995,12.78719291668992],[75.93558749016832,12.78280249616512],[75.93730426392277,12.79456353741473]]]},"properties":{"region_id":"village_938998","name":"KONIGANALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

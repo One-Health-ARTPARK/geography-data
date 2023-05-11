@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.98473415790126,12.54437046289621],[75.98586382076805,12.55004879226093],[75.9680632909145,12.55108065992401],[75.97256967557573,12.54148695004343],[75.98473415790126,12.54437046289621]]]},"properties":{"region_id":"village_939027","name":"GADDEHOSALLI","parent":"subdistrict_5567","parent_name":"SOMVARPET"}}
+]}

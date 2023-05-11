@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.67333342517634,13.21100432783271],[76.66355845566062,13.20980377982374],[76.66038106966408,13.19211843028852],[76.67394810298165,13.19329479508802],[76.67333342517634,13.21100432783271]]]},"properties":{"region_id":"village_612217","name":"CHOWDENAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

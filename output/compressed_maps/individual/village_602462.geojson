@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06631912269442,15.26681806843162],[75.04306442189007,15.25994245348206],[75.05654380369448,15.22729490581775],[75.07595543657719,15.24072282356909],[75.06631912269442,15.26681806843162]]]},"properties":{"region_id":"village_602462","name":"MISHRIKOTI","parent":"subdistrict_5476","parent_name":"KALGHATGI"}}
+]}

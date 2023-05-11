@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.75626967937804,14.4653034105128],[74.73028294883801,14.4545316198052],[74.75282066446955,14.44340385638275],[74.76420525605734,14.45502922185217],[74.75626967937804,14.4653034105128]]]},"properties":{"region_id":"village_603547","name":"TARESAR","parent":"subdistrict_5486","parent_name":"SIDDAPUR"}}
+]}

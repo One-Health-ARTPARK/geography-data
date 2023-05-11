@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.38987638868625,16.27647937264313],[75.36593649928999,16.27694260890517],[75.36448167509461,16.26063577164745],[75.38769180367892,16.25907461269898],[75.38987638868625,16.27647937264313]]]},"properties":{"region_id":"village_598593","name":"ANTAPUR","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

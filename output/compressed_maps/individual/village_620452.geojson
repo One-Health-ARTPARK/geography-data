@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39152380032323,17.34284666071403],[77.35901966659132,17.34726207706959],[77.35910391961798,17.32229118492964],[77.39170565122352,17.32224944536464],[77.39152380032323,17.34284666071403]]]},"properties":{"region_id":"village_620452","name":"KORDAMPALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

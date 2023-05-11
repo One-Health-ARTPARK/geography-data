@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.39398163658778,13.31594209914778],[77.38081672442901,13.29305750486026],[77.3949646954895,13.2901819366138],[77.39398163658778,13.31594209914778]]]},"properties":{"region_id":"village_625170","name":"KOLIGERE","parent":"subdistrict_5602","parent_name":"DODDA BALLAPUR"}}
+]}

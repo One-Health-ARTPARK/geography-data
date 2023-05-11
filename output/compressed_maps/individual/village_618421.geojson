@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.28676107896278,12.3032923184248],[76.27641829915028,12.29559187303176],[76.28259138279938,12.27836558097435],[76.2983251625474,12.27670215998739],[76.28676107896278,12.3032923184248]]]},"properties":{"region_id":"village_618421","name":"CHIKKAHUNSUR","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

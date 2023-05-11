@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.28271719988955,13.41177140483738],[75.2629947531998,13.40744414308333],[75.2774634152255,13.39155649169385],[75.28271719988955,13.41177140483738]]]},"properties":{"region_id":"village_608958","name":"VYKUNTAPURA","parent":"subdistrict_5525","parent_name":"SRINGERI"}}
+]}

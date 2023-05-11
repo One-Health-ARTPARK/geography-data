@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.0792967119482,14.1926859249914],[77.06749268271,14.18688580115795],[77.06739848944804,14.16607788782559],[77.07879658179728,14.16688826246407],[77.0792967119482,14.1926859249914]]]},"properties":{"region_id":"village_610546","name":"DODDENAHALLI","parent":"subdistrict_5534","parent_name":"PAVAGADA"}}
+]}

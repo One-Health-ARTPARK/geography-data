@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.15969862902402,13.36454650969748],[77.13812030800064,13.36623039419032],[77.13595727888541,13.35846706833756],[77.15969862902402,13.36454650969748]]]},"properties":{"region_id":"village_611461","name":"VADDARAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

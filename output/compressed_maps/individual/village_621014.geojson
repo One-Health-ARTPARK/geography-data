@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6232437258561,16.42231362510064],[76.62074304004632,16.45079804920297],[76.60107823429058,16.43286708970782],[76.6232437258561,16.42231362510064]]]},"properties":{"region_id":"village_621014","name":"RAIGERA","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

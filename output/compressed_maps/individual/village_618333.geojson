@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.20924882050036,12.36514766351784],[76.21947844429084,12.34956780230572],[76.24302660021372,12.35131081482062],[76.23561492237077,12.37493740872141],[76.20924882050036,12.36514766351784]]]},"properties":{"region_id":"village_618333","name":"YAMAGUMBHA","parent":"subdistrict_5570","parent_name":"HUNSUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.375873328897,14.88750365865582],[75.37204582017173,14.90407615503023],[75.35237626245156,14.9032351770537],[75.35235307757829,14.88298205218325],[75.375873328897,14.88750365865582]]]},"properties":{"region_id":"village_603997","name":"MELLIGATTI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

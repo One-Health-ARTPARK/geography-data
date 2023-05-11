@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.21243631912523,18.1829365693769],[77.18562843999256,18.18674551193621],[77.182467773985,18.17211854677313],[77.21016516982768,18.1575518758288],[77.21243631912523,18.1829365693769]]]},"properties":{"region_id":"village_600014","name":"HULSOOR","parent":"subdistrict_7085","parent_name":"KAMALNAGAR"}}
+]}

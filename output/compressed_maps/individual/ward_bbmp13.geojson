@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.51863300031647,13.04834800028234],[77.51964500004118,13.05910999975549],[77.51123800038431,13.05879199988847],[77.51159500041513,13.04866599991921],[77.51863300031647,13.04834800028234]]]},"properties":{"region_id":"ward_bbmp13","name":"WARD NO.13 (MALLASANDRA)","parent":"localbody_276600","parent_name":"BBMP"}}
+]}

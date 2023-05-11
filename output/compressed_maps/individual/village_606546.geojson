@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.86496320429669,14.51128206761403],[75.87728813330375,14.49773751986056],[75.89753691086455,14.49666492093429],[75.88997501420083,14.52014121603881],[75.86496320429669,14.51128206761403]]]},"properties":{"region_id":"village_606546","name":"AVARAGOLLA","parent":"subdistrict_5512","parent_name":"DAVANAGERE"}}
+]}

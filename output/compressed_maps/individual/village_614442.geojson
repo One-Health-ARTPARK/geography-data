@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.85429060220632,12.54874046334188],[76.85686004943938,12.53229819792702],[76.87132531651294,12.5384909894625],[76.85429060220632,12.54874046334188]]]},"properties":{"region_id":"village_614442","name":"PANAKANAHALLI","parent":"subdistrict_5550","parent_name":"MANDYA"}}
+]}

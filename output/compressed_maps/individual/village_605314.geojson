@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.88839249821788,14.43372484877538],[76.84680961945608,14.43305131345009],[76.85129907445588,14.4171463570422],[76.88839249821788,14.43372484877538]]]},"properties":{"region_id":"village_605314","name":"THAPPAGONDANAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

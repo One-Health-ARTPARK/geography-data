@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03204165278405,18.04929784088553],[77.03497487583934,18.02712803262229],[77.04933848116262,18.02622030967356],[77.04921086996043,18.04582146565242],[77.03204165278405,18.04929784088553]]]},"properties":{"region_id":"village_599725","name":"SOLDABKA","parent":"subdistrict_7086","parent_name":"HULSOOR"}}
+]}

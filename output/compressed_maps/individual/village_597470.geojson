@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.70829168619791,16.06483026019806],[74.70236644719809,16.08981542424141],[74.69339477808155,16.09159142750104],[74.6990057236288,16.07563756511594],[74.70829168619791,16.06483026019806]]]},"properties":{"region_id":"village_597470","name":"GADDIHOLI","parent":"subdistrict_5436","parent_name":"GOKAK"}}
+]}

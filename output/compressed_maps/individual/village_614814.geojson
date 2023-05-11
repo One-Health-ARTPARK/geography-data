@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.1540999793683,12.32006774157568],[77.14250239256768,12.34397353392851],[77.11812249356159,12.33924134961461],[77.13151121033687,12.30806349963405],[77.1540999793683,12.32006774157568]]]},"properties":{"region_id":"village_614814","name":"HEBBANI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

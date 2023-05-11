@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.25118901098293,16.43358298730952],[75.23970534929715,16.3839055522439],[75.27985708466774,16.37807776868114],[75.28653953827042,16.4225870793371],[75.25118901098293,16.43358298730952]]]},"properties":{"region_id":"village_598553","name":"SHIROL","parent":"subdistrict_5445","parent_name":"MUDHOL"}}
+]}

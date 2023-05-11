@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.25017692958134,13.446314439156],[78.24445041507998,13.43730168515085],[78.25621523014865,13.42373338381812],[78.25954914152712,13.4375415906107],[78.25017692958134,13.446314439156]]]},"properties":{"region_id":"village_621506","name":"KOOSANDRA","parent":"subdistrict_5590","parent_name":"SRINIVASPUR"}}
+]}

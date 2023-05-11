@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.74721624958462,14.61386936351449],[75.72205906771525,14.63853306989762],[75.71075181899883,14.61035654181713],[75.74721624958462,14.61386936351449]]]},"properties":{"region_id":"village_604500","name":"YAKALASAPUR","parent":"subdistrict_5495","parent_name":"RANIBENNUR"}}
+]}

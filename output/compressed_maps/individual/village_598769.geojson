@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82838118641178,15.85312733177818],[75.82937840088674,15.83926841206118],[75.84514204855319,15.83799479101153],[75.8466065053082,15.84899415027344],[75.82838118641178,15.85312733177818]]]},"properties":{"region_id":"village_598769","name":"ANANTAGIRI","parent":"subdistrict_5446","parent_name":"BADAMI"}}
+]}

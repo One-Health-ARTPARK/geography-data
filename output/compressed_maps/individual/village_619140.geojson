@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.51892411052008,12.04654410645041],[76.5078766839453,12.04733299067408],[76.51240293941417,12.03417098857815],[76.51892411052008,12.04654410645041]]]},"properties":{"region_id":"village_619140","name":"SHETTAHALLI","parent":"subdistrict_5574","parent_name":"NANJANGUD"}}
+]}

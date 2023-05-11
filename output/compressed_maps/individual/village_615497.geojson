@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.12950697287347,13.38461952823559],[76.11782350456167,13.38017588221097],[76.12633811447938,13.35371296002888],[76.14373176972087,13.36735768942853],[76.12950697287347,13.38461952823559]]]},"properties":{"region_id":"village_615497","name":"ARAKERE","parent":"subdistrict_5555","parent_name":"ARSIKERE"}}
+]}

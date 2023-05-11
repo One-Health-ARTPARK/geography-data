@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.52248792678222,12.72412345328904],[76.52083973973306,12.71078898475433],[76.53448691185956,12.71290533090579],[76.53273463935803,12.72390917895978],[76.52248792678222,12.72412345328904]]]},"properties":{"region_id":"village_613470","name":"KAIGONAHALLI","parent":"subdistrict_5546","parent_name":"KRISHNARAJPET"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.11313366564784,16.78165348516054],[77.11902899581598,16.79825240175324],[77.10925755054826,16.79898647645444],[77.10288276289575,16.78637448447604],[77.11313366564784,16.78165348516054]]]},"properties":{"region_id":"village_621296","name":"BHIMNAGAR","parent":"subdistrict_5589","parent_name":"YADGIR"}}
+]}

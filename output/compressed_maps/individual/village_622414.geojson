@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[78.1241679195944,12.98318649560255],[78.09983229038227,12.96795118501973],[78.10926144318643,12.96053966152607],[78.12170055163647,12.96765033077152],[78.1241679195944,12.98318649560255]]]},"properties":{"region_id":"village_622414","name":"MAKARAHALLI","parent":"subdistrict_5592","parent_name":"MALUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.48533609851233,14.20094091016619],[75.46510194224429,14.21009325046518],[75.46185003969039,14.19793549545159],[75.48054467137325,14.18887128709187],[75.48533609851233,14.20094091016619]]]},"properties":{"region_id":"village_606708","name":"NARAGINAKERE","parent":"subdistrict_7076","parent_name":"NYAMATHI"}}
+]}

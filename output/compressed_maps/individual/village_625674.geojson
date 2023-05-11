@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.87251387073566,12.9950237147529],[77.85301877965229,12.99489405690758],[77.86368248088021,12.98400829920109],[77.87251387073566,12.9950237147529]]]},"properties":{"region_id":"village_625674","name":"THINDLU","parent":"subdistrict_5604","parent_name":"HOSAKOTE"}}
+]}

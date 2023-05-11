@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.80670301677708,13.29236557309743],[77.7998102601462,13.29340018371505],[77.79731793781933,13.28613870148015],[77.80421574327983,13.2845356961658],[77.80670301677708,13.29236557309743]]]},"properties":{"region_id":"village_938735","name":"MANGASANDRA","parent":"subdistrict_5603","parent_name":"DEVANAHALLI"}}
+]}

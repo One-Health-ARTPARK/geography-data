@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.56655505760452,14.26438575079347],[76.54162376974529,14.26917043168956],[76.54615235533912,14.24481864262352],[76.56752501999509,14.24764164146802],[76.56655505760452,14.26438575079347]]]},"properties":{"region_id":"village_605345","name":"BALENAHALLI","parent":"subdistrict_5504","parent_name":"CHALLAKERE"}}
+]}

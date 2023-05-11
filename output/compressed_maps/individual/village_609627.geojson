@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94260195685487,13.4266519685134],[75.92980953106134,13.41938294538006],[75.934476553676,13.40601872226997],[75.94429474575094,13.41446181660709],[75.94260195685487,13.4266519685134]]]},"properties":{"region_id":"village_609627","name":"PILLENAHALLI","parent":"subdistrict_5529","parent_name":"KADUR"}}
+]}

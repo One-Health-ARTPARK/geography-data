@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.03457072253899,16.45195075983263],[77.00467976169439,16.4881029390628],[76.99615497685485,16.46652862357343],[77.03457072253899,16.45195075983263]]]},"properties":{"region_id":"village_600605","name":"ARSHANGI","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

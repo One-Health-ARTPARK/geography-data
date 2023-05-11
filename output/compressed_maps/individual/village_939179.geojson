@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.59009121210819,16.12886249626476],[74.55467607747427,16.12688453072177],[74.56826424876995,16.1080970665188],[74.59009121210819,16.12886249626476]]]},"properties":{"region_id":"village_939179","name":"MALLAHOLI","parent":"subdistrict_5437","parent_name":"HUKERI"}}
+]}

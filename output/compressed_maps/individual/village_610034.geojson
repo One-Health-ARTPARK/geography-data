@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42698771845488,13.56668301796961],[76.41268375207198,13.57841679534519],[76.40872132573027,13.56502574554198],[76.42698771845488,13.56668301796961]]]},"properties":{"region_id":"village_610034","name":"CHORAGONDANAHALLI","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.29222913661756,12.84284861175392],[77.27209859325717,12.83165767927765],[77.303152155865,12.81802541034664],[77.31523115229959,12.8410061637764],[77.29222913661756,12.84284861175392]]]},"properties":{"region_id":"village_626057","name":"LAKSHMIPURA","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

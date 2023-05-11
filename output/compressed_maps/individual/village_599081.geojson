@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.94810077294392,16.89065179973023],[75.88181335134553,16.89298488171126],[75.87073352642572,16.85570869398163],[75.88034494437387,16.84604850129009],[75.95570211595606,16.8558465264694],[75.94810077294392,16.89065179973023]]]},"properties":{"region_id":"village_599081","name":"AHERI(BHERI)","parent":"subdistrict_5449","parent_name":"VIJAYAPURA"}}
+]}

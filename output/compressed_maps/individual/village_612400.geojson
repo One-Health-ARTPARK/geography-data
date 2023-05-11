@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.86137605178008,13.06240351038713],[76.87678802519693,13.06371323370975],[76.86828688335707,13.08033935837047],[76.86137605178008,13.06240351038713]]]},"properties":{"region_id":"village_612400","name":"YARADAHALLI","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

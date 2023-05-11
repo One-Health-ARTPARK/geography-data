@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.57825666898033,14.9218040138074],[76.57633812399818,14.89239663308172],[76.5929976370117,14.89379841606504],[76.59103401245314,14.91611810994315],[76.57825666898033,14.9218040138074]]]},"properties":{"region_id":"village_604991","name":"DEVARABUDENAHALLI","parent":"subdistrict_5501","parent_name":"SANDUR"}}
+]}

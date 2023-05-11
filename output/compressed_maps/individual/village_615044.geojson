@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.82488176010166,12.69999351290172],[75.82994813401147,12.6749402660798],[75.8392615703764,12.69359564973199],[75.82488176010166,12.69999351290172]]]},"properties":{"region_id":"village_615044","name":"HOSAKOTE","parent":"subdistrict_5553","parent_name":"SAKLESHPUR"}}
+]}

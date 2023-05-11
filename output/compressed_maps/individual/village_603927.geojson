@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.23294236193018,15.03192421217552],[75.23182792513948,15.04106903575525],[75.20418321543649,15.03933548621981],[75.21527466855105,15.0191435238682],[75.23294236193018,15.03192421217552]]]},"properties":{"region_id":"village_603927","name":"MUGALI","parent":"subdistrict_5489","parent_name":"SHIGGAON"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.57700637139193,12.99449132747919],[77.57829855047292,13.00615414449419],[77.57304076600907,13.00232554401512],[77.57700637139193,12.99449132747919]]]},"properties":{"region_id":"village_939464","name":"RANGANATHAPURA K.G","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

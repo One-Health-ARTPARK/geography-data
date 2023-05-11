@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.84398232561402,13.43087428957979],[76.83255658241517,13.43825180045859],[76.83251854051609,13.4277963465092],[76.84398232561402,13.43087428957979]]]},"properties":{"region_id":"village_611659","name":"THEVADIHALLI","parent":"subdistrict_5538","parent_name":"GUBBI"}}
+]}

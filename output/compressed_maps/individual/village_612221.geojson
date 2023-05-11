@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.70551546902496,13.1643119373322],[76.7210668824414,13.17604880854224],[76.7139249610131,13.1936483550141],[76.69724014899765,13.18943381925743],[76.70551546902496,13.1643119373322]]]},"properties":{"region_id":"village_612221","name":"SRIRAMPURA","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

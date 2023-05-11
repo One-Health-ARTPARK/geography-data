@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06505932690102,12.82783129984741],[75.04528896603779,12.82259459579544],[75.05639118055703,12.80213574673951],[75.07628789123352,12.8103295104761],[75.06505932690102,12.82783129984741]]]},"properties":{"region_id":"village_617576","name":"BOLANTHURU","parent":"subdistrict_5562","parent_name":"BANTVAL"}}
+]}

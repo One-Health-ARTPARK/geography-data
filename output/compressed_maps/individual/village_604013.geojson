@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.4181414606018,15.00757761316624],[75.4129296006675,15.01782954588892],[75.38397613397088,15.00568433177109],[75.4060201175481,14.98609953177828],[75.4181414606018,15.00757761316624]]]},"properties":{"region_id":"village_604013","name":"SHIRABADGI","parent":"subdistrict_5490","parent_name":"SAVANUR"}}
+]}

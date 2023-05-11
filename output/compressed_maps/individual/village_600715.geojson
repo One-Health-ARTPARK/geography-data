@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.019043823281,16.2383305432932],[77.02209937699774,16.25602258297856],[77.00209422601851,16.25367927213354],[77.00049519408837,16.24118497595718],[77.019043823281,16.2383305432932]]]},"properties":{"region_id":"village_600715","name":"AGRAHAR","parent":"subdistrict_5460","parent_name":"DEVADURGA"}}
+]}

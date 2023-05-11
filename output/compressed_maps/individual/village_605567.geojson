@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.24827073901503,14.21074519793072],[76.23438419369148,14.16752942810263],[76.26958518480156,14.16347059160113],[76.24827073901503,14.21074519793072]]]},"properties":{"region_id":"village_605567","name":"BHEEMASAMUDRA","parent":"subdistrict_5505","parent_name":"CHITRADURGA"}}
+]}

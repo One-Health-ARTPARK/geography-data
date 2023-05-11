@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.42811319964359,16.09099898356282],[76.39804792049306,16.08936833391172],[76.3974382137096,16.07251197855511],[76.4275288547243,16.06947783469993],[76.42811319964359,16.09099898356282]]]},"properties":{"region_id":"village_600428","name":"KACHAPUR","parent":"subdistrict_5459","parent_name":"LINGSUGUR"}}
+]}

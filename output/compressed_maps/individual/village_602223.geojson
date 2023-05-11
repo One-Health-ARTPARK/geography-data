@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.89741493739288,15.5503196990031],[74.88051184876315,15.56043908911781],[74.87528088735742,15.53205017203952],[74.89741493739288,15.5503196990031]]]},"properties":{"region_id":"village_602223","name":"SHINGANAHALLI","parent":"subdistrict_5473","parent_name":"DHARWAD"}}
+]}

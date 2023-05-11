@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.43753869042533,16.32584412956508],[77.40874966626455,16.32534643444273],[77.4108341434984,16.30896832962786],[77.43004462076594,16.30881369012453],[77.43753869042533,16.32584412956508]]]},"properties":{"region_id":"village_600743","name":"IBRAHIMDODDI","parent":"subdistrict_5461","parent_name":"RAICHUR"}}
+]}

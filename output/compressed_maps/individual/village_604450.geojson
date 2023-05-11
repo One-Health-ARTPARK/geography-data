@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.55449852507806,14.37455928738707],[75.54436543663337,14.39920455952229],[75.52909068919325,14.39717112540068],[75.53810594227932,14.36910981052045],[75.55449852507806,14.37455928738707]]]},"properties":{"region_id":"village_604450","name":"JOKANALA","parent":"subdistrict_7106","parent_name":"RATTIHALLI"}}
+]}

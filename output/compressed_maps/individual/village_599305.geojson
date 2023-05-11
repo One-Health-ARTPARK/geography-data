@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.18425316855003,17.1048000768],[76.1890304655468,17.12058101951514],[76.17437292575552,17.1189930568059],[76.18425316855003,17.1048000768]]]},"properties":{"region_id":"village_599305","name":"THONTAPUR","parent":"subdistrict_7123","parent_name":"ALMEL"}}
+]}

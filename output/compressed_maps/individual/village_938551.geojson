@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.42095640822563,17.44851195133829],[77.40219208087801,17.44561285674438],[77.39974497903081,17.43592558679183],[77.42080411261334,17.43546692142875],[77.42095640822563,17.44851195133829]]]},"properties":{"region_id":"village_938551","name":"BOMMANAHALLI","parent":"subdistrict_5583","parent_name":"CHINCHOLI"}}
+]}

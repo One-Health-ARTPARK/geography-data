@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.6715483724444,13.14889149710174],[76.65551824827641,13.14834184825949],[76.64489724281151,13.13051855507639],[76.6599073766107,13.12766207447549],[76.6715483724444,13.14889149710174]]]},"properties":{"region_id":"village_612247","name":"SULEKERE","parent":"subdistrict_5540","parent_name":"TURUVEKERE"}}
+]}

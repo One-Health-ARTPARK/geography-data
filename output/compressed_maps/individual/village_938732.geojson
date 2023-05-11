@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.95969892101729,11.91030041587316],[76.9458547769078,11.9150144917614],[76.94646333368996,11.9008772744969],[76.95969892101729,11.91030041587316]]]},"properties":{"region_id":"village_938732","name":"KARINANJANAPURA","parent":"subdistrict_5577","parent_name":"CHAMARAJANAGAR"}}
+]}

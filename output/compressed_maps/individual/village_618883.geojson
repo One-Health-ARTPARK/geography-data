@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.38188941192183,12.07777942030331],[76.36815427485556,12.07936816479894],[76.36480580027491,12.06714832062091],[76.38290954336881,12.06900902646125],[76.38188941192183,12.07777942030331]]]},"properties":{"region_id":"village_618883","name":"BOPPANAHALLI","parent":"subdistrict_5573","parent_name":"HEGGADADEVANKOTE"}}
+]}

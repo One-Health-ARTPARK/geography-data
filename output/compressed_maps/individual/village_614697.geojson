@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.00149828460412,12.28510139948755],[76.99005504398008,12.28486616442761],[76.99094938369912,12.27724396520436],[76.99799309447833,12.27808288434158],[77.00149828460412,12.28510139948755]]]},"properties":{"region_id":"village_614697","name":"BASAVANA HALLI","parent":"subdistrict_5552","parent_name":"MALAVALLI"}}
+]}

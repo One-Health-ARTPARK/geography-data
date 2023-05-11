@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.20845559566527,13.31294867323085],[77.18944234662413,13.30899481730199],[77.19885445967785,13.28894794380207],[77.20845559566527,13.31294867323085]]]},"properties":{"region_id":"village_611403","name":"PEMMANAHALLI","parent":"subdistrict_5537","parent_name":"TUMAKURU"}}
+]}

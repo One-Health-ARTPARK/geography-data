@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.00792611464756,13.84320174151558],[75.99837662704284,13.85123033387622],[75.97812819375706,13.845487311529],[75.99762765498491,13.84079370095051],[76.00792611464756,13.84320174151558]]]},"properties":{"region_id":"village_609230","name":"MASANEKEREKAVAL","parent":"subdistrict_7078","parent_name":"AJJAMPURA"}}
+]}

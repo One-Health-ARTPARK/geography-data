@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.5084421853982,18.11297356225585],[77.50494827294017,18.07917058521487],[77.5267899372616,18.0873251539209],[77.5084421853982,18.11297356225585]]]},"properties":{"region_id":"village_600109","name":"ALUR(K)","parent":"subdistrict_5456","parent_name":"AURAD"}}
+]}

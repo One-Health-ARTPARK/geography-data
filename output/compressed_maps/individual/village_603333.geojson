@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.34270561196261,14.69952107553912],[74.34447623328744,14.7243890543517],[74.31644586382659,14.72202988541578],[74.31354509042892,14.69777478251437],[74.34270561196261,14.69952107553912]]]},"properties":{"region_id":"village_603333","name":"BERDE","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

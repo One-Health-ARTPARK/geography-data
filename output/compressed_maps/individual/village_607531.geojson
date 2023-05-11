@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.97253747852096,14.37398570532728],[74.95051948883214,14.38134101772464],[74.93894197056547,14.35845369861617],[74.95898100892707,14.34220704002595],[74.97253747852096,14.37398570532728]]]},"properties":{"region_id":"village_607531","name":"ANDAVALLI","parent":"subdistrict_5516","parent_name":"SORAB"}}
+]}

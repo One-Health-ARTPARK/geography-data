@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[74.29429344027128,14.68955149065319],[74.30593808143485,14.71744900008982],[74.33110894375874,14.72354898428511],[74.32463285259979,14.74427871952617],[74.30117110544573,14.72813684043754],[74.29429344027128,14.68955149065319]]]},"properties":{"region_id":"village_603334","name":"NELLURKANCHINBAIL","parent":"subdistrict_5484","parent_name":"ANKOLA"}}
+]}

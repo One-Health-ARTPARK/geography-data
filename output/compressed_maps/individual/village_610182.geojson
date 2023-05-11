@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.73039899193742,13.42267613620789],[76.71921129615276,13.43537664925178],[76.69675380647097,13.41942440241848],[76.71455976776417,13.40256490659072],[76.73039899193742,13.42267613620789]]]},"properties":{"region_id":"village_610182","name":"DODDARAMAPURA","parent":"subdistrict_5532","parent_name":"CHIKNAYAKANHALLI"}}
+]}

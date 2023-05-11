@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.02572838601365,13.9699804488491],[74.99833493439382,13.9265418243707],[75.02227951258479,13.92733778713375],[75.02572838601365,13.9699804488491]]]},"properties":{"region_id":"village_607869","name":"MALALI","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

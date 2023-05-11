@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.59591093122144,12.94017204569946],[77.59067863621395,12.94659450378289],[77.58553066642844,12.94548093411115],[77.5840012617408,12.93880267958037],[77.59591093122144,12.94017204569946]]]},"properties":{"region_id":"village_939471","name":"SIDDAPURA","parent":"subdistrict_5542","parent_name":"BENGALURU NORTH"}}
+]}

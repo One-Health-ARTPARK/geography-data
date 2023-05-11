@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.69876236414125,12.7770931789669],[77.68937394311087,12.77847694578836],[77.68957146092733,12.75932809582149],[77.71708442886079,12.75648703661679],[77.7158358950325,12.76902409991227],[77.69876236414125,12.7770931789669]]]},"properties":{"region_id":"village_613316","name":"MARASUR","parent":"subdistrict_5545","parent_name":"ANEKAL"}}
+]}

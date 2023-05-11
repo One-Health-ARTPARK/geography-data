@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.81616362717006,13.81071831702003],[77.80455735732333,13.79436043874471],[77.81976921328096,13.78736596147328],[77.81616362717006,13.81071831702003]]]},"properties":{"region_id":"village_623842","name":"PATHABAGEPALLI","parent":"subdistrict_5598","parent_name":"BAGEPALLI"}}
+]}

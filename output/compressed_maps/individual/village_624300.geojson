@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.90512340050601,13.2456837005242],[77.89170416646435,13.23561220263319],[77.91420215251202,13.23162034479532],[77.90512340050601,13.2456837005242]]]},"properties":{"region_id":"village_624300","name":"AMBIGANAHALLI","parent":"subdistrict_5599","parent_name":"SIDLAGHATTA"}}
+]}

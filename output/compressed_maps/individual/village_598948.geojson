@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.11492758692144,16.12833501500387],[76.12690171190101,16.17780011947014],[76.11972783437216,16.18868833658895],[76.10156575595421,16.13063983977493],[76.11492758692144,16.12833501500387]]]},"properties":{"region_id":"village_598948","name":"KOPPA(S.M.)","parent":"subdistrict_5448","parent_name":"HUNGUND"}}
+]}

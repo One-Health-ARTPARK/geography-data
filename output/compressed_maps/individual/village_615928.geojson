@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.13142343666176,13.06112219715512],[76.11896191283968,13.08449353492389],[76.11174408964904,13.06453754950271],[76.13142343666176,13.06112219715512]]]},"properties":{"region_id":"village_615928","name":"MUDDALAPURA","parent":"subdistrict_5556","parent_name":"HASSAN"}}
+]}

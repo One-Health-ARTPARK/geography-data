@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.33912335682707,14.43743764725544],[75.32620762242946,14.42988859602251],[75.33840398463464,14.41164549544298],[75.35540714859687,14.43190806886661],[75.33912335682707,14.43743764725544]]]},"properties":{"region_id":"village_607720","name":"THADASANAHALLI","parent":"subdistrict_5517","parent_name":"SHIKARPUR"}}
+]}

@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[77.41084949088865,12.7960572021864],[77.38253015332195,12.78725583347244],[77.40333495459326,12.76513748258542],[77.41084949088865,12.7960572021864]]]},"properties":{"region_id":"village_626133","name":"BANANDUR","parent":"subdistrict_5606","parent_name":"RAMANAGARA"}}
+]}

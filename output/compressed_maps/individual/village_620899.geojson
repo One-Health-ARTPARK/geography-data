@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.4506743823063,16.60808115365927],[76.40981151181205,16.61487413447921],[76.4213945437472,16.59857954405847],[76.4506743823063,16.60808115365927]]]},"properties":{"region_id":"village_620899","name":"BENDARTALHALLI","parent":"subdistrict_5587","parent_name":"SHORAPUR"}}
+]}

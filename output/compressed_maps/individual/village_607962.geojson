@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.06491758184038,13.86765137840336],[75.04891709526716,13.87123671886857],[75.04052676364356,13.85973522985138],[75.06867148883734,13.85366615210774],[75.06491758184038,13.86765137840336]]]},"properties":{"region_id":"village_607962","name":"HANIYA","parent":"subdistrict_5518","parent_name":"HOSANAGARA"}}
+]}

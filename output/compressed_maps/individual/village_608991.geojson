@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[75.34934034041832,13.58532233985045],[75.31463921513348,13.58945885712598],[75.30620859124829,13.5820481136728],[75.31908619864483,13.5702760340193],[75.31910986104333,13.55099710718792],[75.34934034041832,13.58532233985045]]]},"properties":{"region_id":"village_608991","name":"HIREKODIGE","parent":"subdistrict_5526","parent_name":"KOPPA"}}
+]}
